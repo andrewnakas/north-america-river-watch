@@ -1,4 +1,8 @@
-const map = L.map('map').setView([44, -100], 4);
+const map = L.map('map', {
+  scrollWheelZoom: false,
+  worldCopyJump: true
+}).setView([44, -100], 4);
+
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   maxZoom: 18,
   attribution: '&copy; OpenStreetMap contributors'
@@ -11,13 +15,19 @@ const summaryEl = document.getElementById('summary');
 const detailsEl = document.getElementById('details');
 const searchEl = document.getElementById('search');
 const forecastOnlyEl = document.getElementById('forecastOnly');
+const sidebarEl = document.querySelector('.sidebar');
+const mapEl = document.getElementById('map');
 
 let stations = [];
 let filteredStations = [];
 let markers = [];
 
+mapEl.addEventListener('mouseenter', () => map.scrollWheelZoom.enable());
+mapEl.addEventListener('mouseleave', () => map.scrollWheelZoom.disable());
+sidebarEl?.addEventListener('mouseenter', () => map.scrollWheelZoom.disable());
+
 function escapeHtml(value = '') {
-  return value.replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
+  return String(value).replace(/[&<>"']/g, (char) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
 }
 
 function haversineKm(a, b) {
@@ -38,12 +48,13 @@ function colorForStation(station) {
 
 function markerFor(station) {
   const marker = L.circleMarker([station.latitude, station.longitude], {
-    radius: 5,
-    weight: 1,
+    radius: station.noaaForecast ? 5.5 : 4.5,
+    weight: station.noaaForecast ? 2 : 1,
     color: '#0c1116',
     fillColor: colorForStation(station),
     fillOpacity: 0.9
   });
+  marker.bindTooltip(`${station.name}${station.noaaForecast ? ' • official NOAA forecast' : ''}`);
   marker.on('click', () => showStation(station));
   return marker;
 }
@@ -52,7 +63,7 @@ function renderMarkers() {
   cluster.clearLayers();
   markers = filteredStations.map(markerFor);
   cluster.addLayers(markers);
-  summaryEl.innerHTML = `Loaded <b>${filteredStations.length.toLocaleString()}</b> river sensors. <span class="legend-dot" style="background:#8fd14f"></span>USGS <span class="legend-dot" style="background:#4dd0e1"></span>USGS + NOAA forecast <span class="legend-dot" style="background:#ff8f3f"></span>Canada`;
+  summaryEl.innerHTML = `Loaded <b>${filteredStations.length.toLocaleString()}</b> river sensors. Hover the map and use your mouse wheel to zoom. <span class="legend-dot" style="background:#8fd14f"></span>USGS observed <span class="legend-dot" style="background:#4dd0e1"></span>USGS + official NOAA forecast <span class="legend-dot" style="background:#ff8f3f"></span>Canada observed`;
 }
 
 function applyFilters() {
@@ -113,14 +124,48 @@ function renderMiniChart(seriesList) {
   const minY = Math.min(...ys);
   const maxY = Math.max(...ys);
   const scaleY = (y) => height - pad - ((y - minY) / ((maxY - minY) || 1)) * (height - pad * 2);
-  const maxLen = Math.max(...seriesList.map((s) => s.points.length));
-  const scaleX = (i, len) => pad + (i / Math.max(1, len - 1)) * (width - pad * 2);
-  const colors = ['#4dd0e1', '#ff8f3f', '#8fd14f'];
+  const colors = ['#4dd0e1', '#ff8f3f', '#8fd14f', '#e66cff'];
   const paths = seriesList.map((series, idx) => {
-    const d = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${scaleX(i, series.points.length)} ${scaleY(p.y)}`).join(' ');
-    return `<path d="${d}" fill="none" stroke="${colors[idx % colors.length]}" stroke-width="2" />`;
+    const d = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${pad + (i / Math.max(1, series.points.length - 1)) * (width - pad * 2)} ${scaleY(p.y)}`).join(' ');
+    return `<path d="${d}" fill="none" stroke="${colors[idx % colors.length]}" stroke-width="2.5" />`;
   }).join('');
   return `<svg class="chart" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">${paths}</svg>`;
+}
+
+function formatDate(value) {
+  if (!value) return 'n/a';
+  const d = new Date(value);
+  return Number.isNaN(d.getTime()) ? value : d.toLocaleString();
+}
+
+function summarizeForecast(noaa) {
+  const forecast = noaa?.forecast;
+  const points = (forecast?.data || []).filter((p) => Number.isFinite(p.primary) && p.primary > -900);
+  if (!forecast || !points.length) {
+    return {
+      quality: 'Observed only',
+      issued: null,
+      nextValid: null,
+      crest: null,
+      crestTime: null,
+      series: []
+    };
+  }
+  let crest = points[0];
+  for (const point of points) {
+    if (point.primary > crest.primary) crest = point;
+  }
+  return {
+    quality: 'Official NOAA forecast',
+    issued: forecast.issuedTime,
+    nextValid: points[0].validTime,
+    crest: crest.primary,
+    crestTime: crest.validTime,
+    crestFlow: crest.secondary,
+    primaryUnits: forecast.primaryUnits,
+    secondaryUnits: forecast.secondaryUnits,
+    series: [{ label: 'Forecast stage', points: points.map((p) => ({ x: p.validTime, y: p.primary })) }]
+  };
 }
 
 async function showStation(station) {
@@ -134,33 +179,41 @@ async function showStation(station) {
       ]);
       const liveSeries = latestUsgsValue(usgs.iv);
       const dailySeries = latestUsgsValue(usgs.dv);
-      const forecastSeries = (noaa?.forecast?.data || []).map((p) => ({ x: p.validTime, y: p.primary })).filter((p) => Number.isFinite(p.y) && p.y > -900);
-      const currentStage = liveSeries.find((s) => /gage height/i.test(s.label))?.points.at(-1)?.y;
-      const currentFlow = liveSeries.find((s) => /discharge/i.test(s.label))?.points.at(-1)?.y;
+      const currentStageSeries = liveSeries.find((s) => /gage height/i.test(s.label));
+      const currentFlowSeries = liveSeries.find((s) => /discharge/i.test(s.label));
+      const currentStage = currentStageSeries?.points.at(-1)?.y;
+      const currentFlow = currentFlowSeries?.points.at(-1)?.y;
+      const forecast = summarizeForecast(noaa);
       body = `
         <h2>${escapeHtml(station.name)}</h2>
-        <div class="meta">${station.network} • ${station.state} • ${escapeHtml(station.stationId)}${station.noaaLid ? ` • NOAA ${escapeHtml(station.noaaLid)}` : ''}</div>
+        <div class="meta">USGS observed • ${station.state} • ${escapeHtml(station.stationId)}${station.noaaLid ? ` • NOAA ${escapeHtml(station.noaaLid)}` : ''}</div>
         <div class="kv">
-          <div class="card"><b>Current stage</b><br>${currentStage ?? 'n/a'}</div>
-          <div class="card"><b>Current discharge</b><br>${currentFlow ?? 'n/a'}</div>
-          <div class="card"><b>Forecast</b><br>${station.noaaLid ? 'available' : 'not matched'}</div>
-          <div class="card"><b>Location</b><br>${station.latitude.toFixed(4)}, ${station.longitude.toFixed(4)}</div>
+          <div class="card"><b>Current stage</b><br>${currentStage ?? 'n/a'} ${escapeHtml(currentStageSeries?.unit || '')}</div>
+          <div class="card"><b>Current discharge</b><br>${currentFlow ?? 'n/a'} ${escapeHtml(currentFlowSeries?.unit || '')}</div>
+          <div class="card"><b>Best forecast</b><br>${escapeHtml(forecast.quality)}</div>
+          <div class="card"><b>Forecast issued</b><br>${escapeHtml(formatDate(forecast.issued))}</div>
+          <div class="card"><b>Forecast crest</b><br>${forecast.crest ?? 'n/a'} ${escapeHtml(forecast.primaryUnits || '')}</div>
+          <div class="card"><b>Crest time</b><br>${escapeHtml(formatDate(forecast.crestTime))}</div>
         </div>
         <p><a href="https://waterdata.usgs.gov/monitoring-location/${encodeURIComponent(station.stationId)}/" target="_blank" rel="noreferrer">USGS station page</a>${station.noaaHydrographUrl ? ` • <a href="${station.noaaHydrographUrl}" target="_blank" rel="noreferrer">NOAA hydrograph</a>` : ''}</p>
-        ${renderMiniChart([...liveSeries.slice(0, 2), ...(forecastSeries.length ? [{ label: 'Forecast stage', points: forecastSeries }] : []), ...dailySeries.slice(0, 1)])}
-        <p>Tip: clicking the map snaps to the nearest sensor, so you can inspect a river reach even when there is no marker exactly at your click point.</p>`;
+        ${renderMiniChart([
+          ...[currentStageSeries, currentFlowSeries].filter(Boolean).slice(0, 2),
+          ...forecast.series,
+          ...dailySeries.slice(0, 1)
+        ])}
+        <p>Forecast priority here is: <b>official NOAA forecast</b> when matched, then USGS observed/historical context. Click anywhere on the map to snap to the nearest river sensor.</p>`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
       const latest = latestCanadaValues(series.realtime);
       const dailyPoints = (series.daily.features || []).map((f) => ({ x: f.properties.DATE, y: f.properties.LEVEL ?? f.properties.DISCHARGE })).filter((p) => p.y != null);
       body = `
         <h2>${escapeHtml(station.name)}</h2>
-        <div class="meta">Environment Canada • ${station.state} • ${escapeHtml(station.stationId)}</div>
+        <div class="meta">Environment Canada observed • ${station.state} • ${escapeHtml(station.stationId)}</div>
         <div class="kv">
           <div class="card"><b>Current level</b><br>${latest.level ?? 'n/a'}</div>
           <div class="card"><b>Current discharge</b><br>${latest.discharge ?? 'n/a'}</div>
           <div class="card"><b>Historical daily mean</b><br>last 30 values</div>
-          <div class="card"><b>Forecast</b><br>not available from national open API</div>
+          <div class="card"><b>Forecast quality</b><br>Observed only nationally</div>
         </div>
         <p><a href="https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=${encodeURIComponent(station.stationId)}" target="_blank" rel="noreferrer">Environment Canada station page</a></p>
         ${renderMiniChart([{ label: 'Realtime', points: latest.points }, { label: 'Daily mean', points: dailyPoints }])}`;
@@ -203,4 +256,4 @@ const [stationData, sourceData] = await Promise.all([
 stations = stationData;
 filteredStations = stationData;
 renderMarkers();
-summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.noaaGauges.toLocaleString()} NOAA gauges indexed</div>`;
+summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.matchedForecastStations.toLocaleString()} official NOAA forecast matches</div>`;
