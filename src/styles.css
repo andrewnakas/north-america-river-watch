@@ -1,0 +1,17 @@
+html, body { margin: 0; height: 100%; font-family: Inter, system-ui, sans-serif; color: #e5eef7; background: #08111b; }
+body { display: grid; grid-template-columns: 360px 1fr; }
+.sidebar { padding: 16px; overflow: auto; background: #0f1b2a; border-right: 1px solid #24364a; }
+#map { height: 100vh; width: 100%; }
+h1 { margin: 0 0 8px; font-size: 1.5rem; }
+.lede { margin-top: 0; color: #9fb4c7; }
+.controls { display: grid; gap: 12px; margin: 16px 0; }
+input[type="search"] { width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid #35506b; background: #0b1420; color: white; }
+.summary, .details { background: #0b1420; border: 1px solid #24364a; border-radius: 10px; padding: 12px; margin-top: 12px; }
+.details h2 { margin-top: 0; font-size: 1.1rem; }
+.details .meta { color: #9fb4c7; margin-bottom: 8px; }
+.details a { color: #7ec8ff; }
+.kv { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 8px; }
+.card { background: #132234; border-radius: 8px; padding: 10px; }
+.chart { width: 100%; height: 220px; margin-top: 12px; background: #132234; border-radius: 8px; }
+.legend-dot { display: inline-block; width: 10px; height: 10px; border-radius: 999px; margin-right: 6px; }
+@media (max-width: 900px) { body { grid-template-columns: 1fr; grid-template-rows: auto 1fr; } .sidebar { max-height: 45vh; } #map { height: 55vh; } }

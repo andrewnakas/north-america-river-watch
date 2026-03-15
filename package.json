@@ -1,0 +1,11 @@
+{
+  "name": "north-america-river-watch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node scripts/build-data.mjs",
+    "build:site": "node scripts/build-site.mjs",
+    "build": "npm run build:data && npm run build:site"
+  }
+}
