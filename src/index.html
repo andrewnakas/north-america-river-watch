@@ -10,17 +10,25 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="sidebar">
-      <h1>North America River Watch</h1>
-      <p class="lede">USGS + NOAA + Environment Canada river sensors on one Leaflet map.</p>
-      <div class="controls">
-        <input id="search" type="search" placeholder="Search station, river, state, province" />
-        <label><input type="checkbox" id="forecastOnly" /> Forecast-capable only</label>
-      </div>
-      <div id="summary" class="summary">Loading station index…</div>
-      <div id="details" class="details">Click a marker, or click anywhere on the map to snap to the nearest river sensor.</div>
-    </div>
-    <div id="map"></div>
+    <main class="page">
+      <section class="hero">
+        <h1>North America River Watch</h1>
+        <p class="lede">USGS + NOAA + Environment Canada river sensors on one Leaflet map.</p>
+        <div class="controls">
+          <input id="search" type="search" placeholder="Search station, river, state, province" />
+          <label><input type="checkbox" id="forecastOnly" /> Forecast-capable only</label>
+        </div>
+        <div id="summary" class="summary">Loading station index…</div>
+      </section>
+
+      <section class="map-panel">
+        <div id="map"></div>
+      </section>
+
+      <section class="details-panel">
+        <div id="details" class="details">Click a marker, or click anywhere on the map to snap to the nearest river sensor. Then scroll down through the station data and forecast chart.</div>
+      </section>
+    </main>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>

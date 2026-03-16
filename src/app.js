@@ -113,23 +113,64 @@ function latestCanadaValues(json) {
   };
 }
 
-function renderMiniChart(seriesList) {
+function renderMiniChart(seriesList, title = 'River chart', subtitle = '') {
   if (!seriesList.length) return '<div class="card">No chartable series available.</div>';
-  const width = 640;
-  const height = 220;
-  const pad = 20;
-  const pts = seriesList.flatMap((s) => s.points || []);
-  if (!pts.length) return '<div class="card">No chartable series available.</div>';
-  const ys = pts.map((p) => p.y);
+  const activeSeries = seriesList.filter((s) => s?.points?.length);
+  if (!activeSeries.length) return '<div class="card">No chartable series available.</div>';
+
+  const width = 900;
+  const height = 320;
+  const left = 60;
+  const right = 20;
+  const top = 20;
+  const bottom = 42;
+  const plotWidth = width - left - right;
+  const plotHeight = height - top - bottom;
+  const colors = ['#4dd0e1', '#ff8f3f', '#8fd14f', '#e66cff'];
+
+  const pts = activeSeries.flatMap((s) => s.points || []);
+  const ys = pts.map((p) => p.y).filter((v) => Number.isFinite(v));
+  if (!ys.length) return '<div class="card">No chartable series available.</div>';
   const minY = Math.min(...ys);
   const maxY = Math.max(...ys);
-  const scaleY = (y) => height - pad - ((y - minY) / ((maxY - minY) || 1)) * (height - pad * 2);
-  const colors = ['#4dd0e1', '#ff8f3f', '#8fd14f', '#e66cff'];
-  const paths = seriesList.map((series, idx) => {
-    const d = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${pad + (i / Math.max(1, series.points.length - 1)) * (width - pad * 2)} ${scaleY(p.y)}`).join(' ');
+  const yPad = Math.max((maxY - minY) * 0.08, 0.5);
+  const lowY = minY - yPad;
+  const highY = maxY + yPad;
+  const scaleY = (y) => top + plotHeight - ((y - lowY) / ((highY - lowY) || 1)) * plotHeight;
+  const scaleX = (i, len) => left + (i / Math.max(1, len - 1)) * plotWidth;
+
+  const yTicks = Array.from({ length: 5 }, (_, i) => lowY + (i / 4) * (highY - lowY));
+  const yGrid = yTicks.map((tick) => {
+    const y = scaleY(tick);
+    return `<line class="grid-line" x1="${left}" y1="${y}" x2="${width - right}" y2="${y}" /><text class="axis-label" x="${left - 8}" y="${y + 4}" text-anchor="end">${tick.toFixed(1)}</text>`;
+  }).join('');
+
+  const xTicks = [0, 0.33, 0.66, 1].map((frac) => ({
+    x: left + frac * plotWidth,
+    label: `${Math.round(frac * 100)}% horizon`
+  })).map((tick) => `<text class="axis-label" x="${tick.x}" y="${height - 12}" text-anchor="middle">${tick.label}</text>`).join('');
+
+  const paths = activeSeries.map((series, idx) => {
+    const d = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${scaleX(i, series.points.length)} ${scaleY(p.y)}`).join(' ');
     return `<path d="${d}" fill="none" stroke="${colors[idx % colors.length]}" stroke-width="2.5" />`;
   }).join('');
-  return `<svg class="chart" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">${paths}</svg>`;
+
+  const legend = activeSeries.map((series, idx) => `<span class="chart-legend-item"><span class="chart-legend-swatch" style="background:${colors[idx % colors.length]}"></span>${escapeHtml(series.label)}</span>`).join('');
+
+  return `
+    <div class="chart-wrap">
+      <div class="chart-title">${escapeHtml(title)}</div>
+      ${subtitle ? `<div class="chart-subtitle">${escapeHtml(subtitle)}</div>` : ''}
+      <svg class="chart" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">
+        <line class="axis-line" x1="${left}" y1="${top}" x2="${left}" y2="${top + plotHeight}" />
+        <line class="axis-line" x1="${left}" y1="${top + plotHeight}" x2="${width - right}" y2="${top + plotHeight}" />
+        ${yGrid}
+        ${paths}
+        ${xTicks}
+        <text class="axis-label" x="${left}" y="${height - 28}">Time</text>
+      </svg>
+      <div class="chart-legend">${legend}</div>
+    </div>`;
 }
 
 function formatDate(value) {
@@ -200,7 +241,7 @@ async function showStation(station) {
           ...[currentStageSeries, currentFlowSeries].filter(Boolean).slice(0, 2),
           ...forecast.series,
           ...dailySeries.slice(0, 1)
-        ])}
+        ], 'Observed + forecast hydrograph', `Official NOAA forecast horizon with labeled series. Forecast quality: ${forecast.quality}.`)}
         <p>Forecast priority here is: <b>official NOAA forecast</b> when matched, then USGS observed/historical context. Click anywhere on the map to snap to the nearest river sensor.</p>`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
@@ -216,7 +257,7 @@ async function showStation(station) {
           <div class="card"><b>Forecast quality</b><br>Observed only nationally</div>
         </div>
         <p><a href="https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=${encodeURIComponent(station.stationId)}" target="_blank" rel="noreferrer">Environment Canada station page</a></p>
-        ${renderMiniChart([{ label: 'Realtime', points: latest.points }, { label: 'Daily mean', points: dailyPoints }])}`;
+        ${renderMiniChart([{ label: 'Realtime', points: latest.points }, { label: 'Daily mean', points: dailyPoints }], 'Observed hydrograph', 'Environment Canada realtime plus recent daily mean history.')}`;
     }
     detailsEl.innerHTML = body;
   } catch (error) {
