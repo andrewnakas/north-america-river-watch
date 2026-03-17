@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-03-17T21:09:50.765Z",
+  "stations": 24939,
+  "usgsStations": 16901,
+  "canadaStations": 8038,
+  "noaaGauges": 12516,
+  "matchedForecastStations": 8224,
+  "notes": [
+    "US current and historical series are fetched live from USGS Water Services from the browser.",
+    "Canada real-time and historical daily mean series are fetched live from Environment and Climate Change Canada GeoMet APIs from the browser.",
+    "NOAA NWPS forecast series are prefetched into static JSON because NOAA APIs do not expose permissive browser CORS headers."
+  ]
+}
