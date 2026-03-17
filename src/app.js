@@ -218,10 +218,11 @@ function renderForecastChart(seriesList, thresholds, title, subtitle) {
   const activeSeries = seriesList.filter((s) => s?.points?.length);
   if (!activeSeries.length) return '<div class="card">No data available.</div>';
 
-  const W = 900, H = 320, L = 65, R = 72, T = 20, B = 52;
+  // Taller viewBox + proportional scaling = no squished text on mobile
+  const W = 900, H = 480, L = 72, R = 82, T = 24, B = 70;
   const PW = W - L - R, PH = H - T - B;
   const COLORS = ['#4dd0e1', '#ff8f3f', '#8fd14f', '#e66cff'];
-  const TC = { action: '#f6c90e', flood: '#ff8f3f', moderate: '#e06050', major: '#a040c0' };
+  const TC = { action: '#f6c90e', flood: '#ff8030', moderate: '#e06050', major: '#b060e0' };
 
   const allPts = activeSeries.flatMap((s) => s.points);
   const allTimes = allPts.map((p) => new Date(p.x).getTime()).filter(Number.isFinite);
@@ -240,25 +241,22 @@ function renderForecastChart(seriesList, thresholds, title, subtitle) {
   const sx = (t) => L + ((t - tMin) / ((tMax - tMin) || 1)) * PW;
   const sy = (y) => T + PH - ((y - lo) / ((hi - lo) || 1)) * PH;
 
-  const yTicks = Array.from({ length: 5 }, (_, i) => lo + (i / 4) * (hi - lo));
+  // Y-axis grid — 6 ticks, brighter lines
+  const yTicks = Array.from({ length: 6 }, (_, i) => lo + (i / 5) * (hi - lo));
   const yGrid = yTicks.map((v) => {
     const y = sy(v);
-    return `<line class="grid-line" x1="${L}" y1="${y}" x2="${W - R}" y2="${y}"/><text class="axis-label" x="${L - 8}" y="${y + 4}" text-anchor="end">${v.toFixed(1)}</text>`;
+    return `<line stroke="#2a4560" stroke-width="1.5" x1="${L}" y1="${y}" x2="${W - R}" y2="${y}"/><text class="axis-label" x="${L - 8}" y="${y + 5}" text-anchor="end">${v.toFixed(1)}</text>`;
   }).join('');
 
-  const xTicks = Array.from({ length: 6 }, (_, i) => {
-    const t = tMin + (i / 5) * (tMax - tMin);
+  // X-axis date labels — 5 ticks, date only (fits mobile)
+  const xTicks = Array.from({ length: 5 }, (_, i) => {
+    const t = tMin + (i / 4) * (tMax - tMin);
     const d = new Date(t);
-    const dateLbl = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-    const timeLbl = d.toLocaleTimeString('en-US', { hour: 'numeric', hour12: true });
-    return `<text class="axis-label" x="${sx(t)}" y="${H - 30}" text-anchor="middle">${dateLbl}</text><text class="axis-label" x="${sx(t)}" y="${H - 16}" text-anchor="middle" font-size="10">${timeLbl}</text>`;
+    const lbl = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    return `<text class="axis-label" x="${sx(t)}" y="${H - 18}" text-anchor="middle">${lbl}</text>`;
   }).join('');
 
-  const now = Date.now();
-  const nowLine = (now >= tMin && now <= tMax)
-    ? `<line x1="${sx(now)}" y1="${T}" x2="${sx(now)}" y2="${T + PH}" stroke="#c0c0c0" stroke-width="1.5" stroke-dasharray="4,3" opacity="0.55"/><text x="${sx(now) + 3}" y="${T + 12}" font-size="10" fill="#c0c0c0" opacity="0.7">Now</text>`
-    : '';
-
+  // Forecast shading
   const fSeries = activeSeries.find((s) => s.isForecast);
   let forecastShade = '';
   if (fSeries) {
@@ -266,28 +264,48 @@ function renderForecastChart(seriesList, thresholds, title, subtitle) {
     if (fTimes.length) {
       const fx1 = sx(Math.min(...fTimes));
       const fx2 = sx(Math.max(...fTimes));
-      forecastShade = `<rect x="${fx1}" y="${T}" width="${fx2 - fx1}" height="${PH}" fill="#ff8f3f" opacity="0.05"/>`;
+      forecastShade = `<rect x="${fx1}" y="${T}" width="${fx2 - fx1}" height="${PH}" fill="#ff8f3f" opacity="0.07"/>`;
     }
   }
 
+  // Flood stage threshold lines (right-side labels)
   const threshLines = Object.entries(thresholds || {})
     .filter(([, v]) => v != null && Number.isFinite(+v))
     .map(([key, val]) => {
       const y = sy(+val);
       const c = TC[key] || '#888';
       const lbl = key.charAt(0).toUpperCase() + key.slice(1);
-      return `<line x1="${L}" y1="${y}" x2="${W - R}" y2="${y}" stroke="${c}" stroke-width="1.5" stroke-dasharray="5,3" opacity="0.8"/><text x="${W - R + 4}" y="${y + 4}" font-size="11" fill="${c}" opacity="0.85">${lbl}</text>`;
+      return `<line x1="${L}" y1="${y}" x2="${W - R}" y2="${y}" stroke="${c}" stroke-width="2" stroke-dasharray="6,3"/>
+              <text x="${W - R + 5}" y="${y + 5}" font-size="13" fill="${c}" font-weight="600">${lbl}</text>`;
     }).join('');
 
+  // Current stage horizontal reference line + dot
+  const lastObsPt = activeSeries.filter((s) => !s.isForecast).find((s) => s.points.length)?.points.at(-1);
+  const currentVal = lastObsPt ? lastObsPt.y : null;
+  const currentValTime = lastObsPt ? new Date(lastObsPt.x).getTime() : null;
+  const currentValLine = (currentVal != null && Number.isFinite(currentVal)) ? `
+    <line x1="${L}" y1="${sy(currentVal)}" x2="${W - R}" y2="${sy(currentVal)}" stroke="#7ec8ff" stroke-width="2" stroke-dasharray="3,4"/>
+    <rect x="0" y="${sy(currentVal) - 10}" width="${L - 4}" height="16" rx="3" fill="#0f1b2a"/>
+    <text x="${L - 6}" y="${sy(currentVal) + 5}" text-anchor="end" font-size="13" fill="#7ec8ff" font-weight="700">${currentVal.toFixed(1)}</text>` : '';
+  const currentDot = (currentVal != null && currentValTime != null) ? `
+    <circle cx="${sx(currentValTime)}" cy="${sy(currentVal)}" r="6" fill="#4dd0e1" stroke="#e5eef7" stroke-width="2"/>` : '';
+
+  // "Now" vertical line — bright white, prominent
+  const now = Date.now();
+  const nowLine = (now >= tMin && now <= tMax) ? `
+    <line x1="${sx(now)}" y1="${T}" x2="${sx(now)}" y2="${T + PH}" stroke="#e5eef7" stroke-width="2" stroke-dasharray="5,4" opacity="0.7"/>
+    <text x="${sx(now) + 5}" y="${T + 16}" font-size="13" fill="#e5eef7" font-weight="600" opacity="0.85">Now</text>` : '';
+
+  // Data series paths
   const paths = activeSeries.map((series, idx) => {
     const c = series.color || COLORS[idx % COLORS.length];
-    const da = series.dashed ? 'stroke-dasharray="6,3"' : '';
+    const da = series.dashed ? 'stroke-dasharray="8,4"' : '';
     const d = series.points
       .map((p) => [new Date(p.x).getTime(), p.y])
       .filter(([t, y]) => Number.isFinite(t) && Number.isFinite(y))
       .map(([t, y], i) => `${i === 0 ? 'M' : 'L'} ${sx(t)} ${sy(y)}`)
       .join(' ');
-    return d ? `<path d="${d}" fill="none" stroke="${c}" stroke-width="2.5" ${da}/>` : '';
+    return d ? `<path d="${d}" fill="none" stroke="${c}" stroke-width="3" ${da}/>` : '';
   }).join('');
 
   const seriesLegend = activeSeries.map((s, idx) => {
@@ -298,20 +316,22 @@ function renderForecastChart(seriesList, thresholds, title, subtitle) {
     .filter(([, v]) => v != null && Number.isFinite(+v))
     .map(([key, val]) => {
       const c = TC[key] || '#888';
-      return `<span class="chart-legend-item"><span class="chart-legend-swatch" style="background:${c};border-radius:2px"></span>${escapeHtml(key.charAt(0).toUpperCase() + key.slice(1))} stage: ${(+val).toFixed(1)} ft</span>`;
+      return `<span class="chart-legend-item"><span class="chart-legend-swatch" style="background:${c};border-radius:2px"></span>${escapeHtml(key.charAt(0).toUpperCase() + key.slice(1))}: ${(+val).toFixed(1)} ft</span>`;
     }).join('');
 
   return `
     <div class="chart-wrap">
       <div class="chart-title">${escapeHtml(title)}</div>
       ${subtitle ? `<div class="chart-subtitle">${escapeHtml(subtitle)}</div>` : ''}
-      <svg class="chart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="none">
+      <svg class="chart chart-forecast" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet">
         <line class="axis-line" x1="${L}" y1="${T}" x2="${L}" y2="${T + PH}"/>
         <line class="axis-line" x1="${L}" y1="${T + PH}" x2="${W - R}" y2="${T + PH}"/>
         ${yGrid}
         ${forecastShade}
         ${threshLines}
+        ${currentValLine}
         ${paths}
+        ${currentDot}
         ${nowLine}
         ${xTicks}
       </svg>
