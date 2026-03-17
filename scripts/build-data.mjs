@@ -172,6 +172,10 @@ function joinStations(usgsStations, canadaStations, noaaGauges) {
       best.noaaWaterbody = gauge.waterbody;
       best.noaaStatus = gauge.status;
       best.noaaHydrographUrl = gauge.hydrographUrl;
+      best.noaaAction = gauge.action != null ? Number(gauge.action) : null;
+      best.noaaFlood = gauge.flood != null ? Number(gauge.flood) : null;
+      best.noaaModerate = gauge.moderate != null ? Number(gauge.moderate) : null;
+      best.noaaMajor = gauge.major != null ? Number(gauge.major) : null;
     }
   }
   return stations;
