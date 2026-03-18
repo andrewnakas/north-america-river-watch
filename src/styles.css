@@ -58,18 +58,43 @@ input[type="search"] {
 .kv { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 8px; margin-top: 8px; }
 .card { background: #132234; border-radius: 8px; padding: 10px; }
 .chart-wrap { margin-top: 14px; background: #132234; border-radius: 10px; padding: 12px; }
+.chart-wrap-compact { margin-top: 0; }
+.chart-head { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
 .chart-title { font-weight: 700; margin-bottom: 8px; }
 .chart-subtitle { color: #9fb4c7; font-size: 0.95rem; margin-bottom: 8px; }
-.chart { width: 100%; height: 320px; display: block; }
+.chart { width: 100%; height: 360px; display: block; }
+.chart-wrap-compact .chart { height: 300px; }
 .chart-legend { display: flex; gap: 14px; flex-wrap: wrap; margin: 8px 0 0; color: #c8d7e7; font-size: 0.92rem; }
-.chart-legend-item { display: inline-flex; align-items: center; gap: 6px; }
-.chart-legend-swatch { width: 12px; height: 12px; border-radius: 999px; display: inline-block; }
-.axis-label { fill: #9fb4c7; font-size: 12px; }
-.axis-line { stroke: #35506b; stroke-width: 1; }
+.chart-legend-item { display: inline-flex; align-items: center; gap: 8px; }
+.chart-legend-line {
+  width: 18px;
+  height: 0;
+  border-top: 3px solid var(--legend-color, #fff);
+  border-radius: 999px;
+  display: inline-block;
+}
+.chart-legend-line-forecast { border-top-style: dashed; }
+.chart-legend-line-now { border-top-width: 2px; border-top-style: dashed; }
+.axis-label { fill: #b5c7d8; font-size: 12px; }
+.axis-label-bottom { font-size: 11px; }
+.axis-line { stroke: #47627d; stroke-width: 1; }
 .grid-line { stroke: #203246; stroke-width: 1; }
+.now-line { stroke: #ffd84d; stroke-width: 2; stroke-dasharray: 6 5; }
+.now-label { fill: #08111b; font-size: 12px; font-weight: 700; }
 .legend-dot { display: inline-block; width: 10px; height: 10px; border-radius: 999px; margin-right: 6px; }
+.detail-grid { display: grid; grid-template-columns: minmax(260px, 360px) minmax(0, 1fr); gap: 12px; align-items: start; margin-top: 12px; }
+.site-map-card { margin-top: 14px; }
+.site-map-head { display: flex; justify-content: space-between; gap: 10px; margin-bottom: 10px; align-items: baseline; }
+.site-map-subtitle, .site-map-coords { color: #9fb4c7; font-size: 0.92rem; }
+.detail-site-map { height: 320px; border-radius: 10px; overflow: hidden; border: 1px solid #24364a; }
 
 @media (max-width: 900px) {
   .page { padding: 10px; }
   #map { height: 52vh; min-height: 360px; }
+  .detail-grid { grid-template-columns: 1fr; }
+  .chart-wrap { padding: 10px; }
+  .chart { height: 320px; }
+  .chart-wrap-compact .chart { height: 280px; }
+  .chart-legend { gap: 10px; font-size: 0.88rem; }
+  .axis-label { font-size: 11px; }
 }

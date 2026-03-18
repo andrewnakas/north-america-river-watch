@@ -21,6 +21,7 @@ const mapEl = document.getElementById('map');
 let stations = [];
 let filteredStations = [];
 let markers = [];
+let detailMap = null;
 
 mapEl.addEventListener('mouseenter', () => map.scrollWheelZoom.enable());
 mapEl.addEventListener('mouseleave', () => map.scrollWheelZoom.disable());
@@ -113,31 +114,64 @@ function latestCanadaValues(json) {
   };
 }
 
-function renderMiniChart(seriesList, title = 'River chart', subtitle = '') {
+function formatAxisDate(value, includeHour = false) {
+  const d = new Date(value);
+  if (Number.isNaN(d.getTime())) return 'n/a';
+  return d.toLocaleDateString(undefined, includeHour
+    ? { month: 'short', day: 'numeric', hour: 'numeric' }
+    : { month: 'short', day: 'numeric' });
+}
+
+function renderMiniChart(seriesList, title = 'River chart', subtitle = '', options = {}) {
   if (!seriesList.length) return '<div class="card">No chartable series available.</div>';
-  const activeSeries = seriesList.filter((s) => s?.points?.length);
+
+  const palette = {
+    observed: '#4dd0e1',
+    forecast: '#ffb14a',
+    history: '#8fd14f',
+    secondary: '#e66cff',
+    now: '#ffd84d'
+  };
+
+  const activeSeries = seriesList.map((series, idx) => ({
+    ...series,
+    style: series.style || (idx === 0 ? 'observed' : idx === 1 ? 'forecast' : idx === 2 ? 'history' : 'secondary'),
+    points: (series?.points || []).map((point, index) => ({
+      ...point,
+      xMs: Number.isFinite(new Date(point.x).getTime()) ? new Date(point.x).getTime() : index
+    })).filter((point) => Number.isFinite(point.y))
+  })).filter((s) => s.points.length);
+
   if (!activeSeries.length) return '<div class="card">No chartable series available.</div>';
 
+  const nowMs = Date.now();
   const width = 900;
-  const height = 320;
-  const left = 60;
-  const right = 20;
-  const top = 20;
-  const bottom = 42;
+  const height = options.compact ? 300 : 360;
+  const left = 54;
+  const right = 18;
+  const top = 18;
+  const bottom = 52;
   const plotWidth = width - left - right;
   const plotHeight = height - top - bottom;
-  const colors = ['#4dd0e1', '#ff8f3f', '#8fd14f', '#e66cff'];
 
   const pts = activeSeries.flatMap((s) => s.points || []);
   const ys = pts.map((p) => p.y).filter((v) => Number.isFinite(v));
-  if (!ys.length) return '<div class="card">No chartable series available.</div>';
+  const xs = pts.map((p) => p.xMs).filter((v) => Number.isFinite(v));
+  if (!ys.length || !xs.length) return '<div class="card">No chartable series available.</div>';
+
+  const rawMinX = Math.min(...xs);
+  const rawMaxX = Math.max(...xs);
+  const rangeX = Math.max(rawMaxX - rawMinX, 1);
+  const minX = Math.min(rawMinX, nowMs);
+  const maxX = Math.max(rawMaxX, nowMs);
   const minY = Math.min(...ys);
   const maxY = Math.max(...ys);
-  const yPad = Math.max((maxY - minY) * 0.08, 0.5);
+  const yPad = Math.max((maxY - minY) * 0.1, 0.5);
   const lowY = minY - yPad;
   const highY = maxY + yPad;
+
   const scaleY = (y) => top + plotHeight - ((y - lowY) / ((highY - lowY) || 1)) * plotHeight;
-  const scaleX = (i, len) => left + (i / Math.max(1, len - 1)) * plotWidth;
+  const scaleX = (x) => left + ((x - minX) / ((maxX - minX) || 1)) * plotWidth;
 
   const yTicks = Array.from({ length: 5 }, (_, i) => lowY + (i / 4) * (highY - lowY));
   const yGrid = yTicks.map((tick) => {
@@ -145,31 +179,60 @@ function renderMiniChart(seriesList, title = 'River chart', subtitle = '') {
     return `<line class="grid-line" x1="${left}" y1="${y}" x2="${width - right}" y2="${y}" /><text class="axis-label" x="${left - 8}" y="${y + 4}" text-anchor="end">${tick.toFixed(1)}</text>`;
   }).join('');
 
-  const xTicks = [0, 0.33, 0.66, 1].map((frac) => ({
-    x: left + frac * plotWidth,
-    label: `${Math.round(frac * 100)}% horizon`
-  })).map((tick) => `<text class="axis-label" x="${tick.x}" y="${height - 12}" text-anchor="middle">${tick.label}</text>`).join('');
+  const xTickCount = options.compact ? 4 : 5;
+  const xTicks = Array.from({ length: xTickCount }, (_, i) => {
+    const frac = xTickCount === 1 ? 0 : i / (xTickCount - 1);
+    const xValue = minX + frac * (maxX - minX);
+    return {
+      x: scaleX(xValue),
+      label: formatAxisDate(xValue, rangeX < 3 * 86400000)
+    };
+  }).map((tick) => `<text class="axis-label" x="${tick.x}" y="${height - 12}" text-anchor="middle">${escapeHtml(tick.label)}</text>`).join('');
 
-  const paths = activeSeries.map((series, idx) => {
-    const d = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${scaleX(i, series.points.length)} ${scaleY(p.y)}`).join(' ');
-    return `<path d="${d}" fill="none" stroke="${colors[idx % colors.length]}" stroke-width="2.5" />`;
+  const paths = activeSeries.map((series) => {
+    const d = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${scaleX(p.xMs)} ${scaleY(p.y)}`).join(' ');
+    const stroke = palette[series.style] || palette.secondary;
+    const dash = series.style === 'forecast' ? '7 5' : '';
+    return `<path d="${d}" fill="none" stroke="${stroke}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" ${dash ? `stroke-dasharray="${dash}"` : ''} />`;
   }).join('');
 
-  const legend = activeSeries.map((series, idx) => `<span class="chart-legend-item"><span class="chart-legend-swatch" style="background:${colors[idx % colors.length]}"></span>${escapeHtml(series.label)}</span>`).join('');
+  const endPoints = activeSeries.map((series) => {
+    const point = series.points.at(-1);
+    if (!point) return '';
+    const stroke = palette[series.style] || palette.secondary;
+    return `<circle cx="${scaleX(point.xMs)}" cy="${scaleY(point.y)}" r="4.5" fill="${stroke}" stroke="#08111b" stroke-width="2" />`;
+  }).join('');
+
+  const nowInsideRange = nowMs >= minX && nowMs <= maxX;
+  const nowLine = nowInsideRange ? `<line class="now-line" x1="${scaleX(nowMs)}" y1="${top}" x2="${scaleX(nowMs)}" y2="${top + plotHeight}" /><text class="now-label" x="${Math.min(scaleX(nowMs) + 6, width - 52)}" y="${top + 14}">Now</text>` : '';
+
+  const legend = activeSeries.map((series) => {
+    const swatch = palette[series.style] || palette.secondary;
+    const klass = series.style === 'forecast' ? 'chart-legend-line chart-legend-line-forecast' : 'chart-legend-line';
+    return `<span class="chart-legend-item"><span class="${klass}" style="--legend-color:${swatch}"></span>${escapeHtml(series.label)}</span>`;
+  }).join('');
+
+  const nowLegend = nowInsideRange ? `<span class="chart-legend-item"><span class="chart-legend-line chart-legend-line-now" style="--legend-color:${palette.now}"></span>Now</span>` : '';
 
   return `
-    <div class="chart-wrap">
-      <div class="chart-title">${escapeHtml(title)}</div>
-      ${subtitle ? `<div class="chart-subtitle">${escapeHtml(subtitle)}</div>` : ''}
-      <svg class="chart" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none">
+    <div class="chart-wrap ${options.compact ? 'chart-wrap-compact' : ''}">
+      <div class="chart-head">
+        <div>
+          <div class="chart-title">${escapeHtml(title)}</div>
+          ${subtitle ? `<div class="chart-subtitle">${escapeHtml(subtitle)}</div>` : ''}
+        </div>
+      </div>
+      <svg class="chart" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none" aria-label="${escapeHtml(title)}">
         <line class="axis-line" x1="${left}" y1="${top}" x2="${left}" y2="${top + plotHeight}" />
         <line class="axis-line" x1="${left}" y1="${top + plotHeight}" x2="${width - right}" y2="${top + plotHeight}" />
         ${yGrid}
+        ${nowLine}
         ${paths}
+        ${endPoints}
         ${xTicks}
-        <text class="axis-label" x="${left}" y="${height - 28}">Time</text>
+        <text class="axis-label axis-label-bottom" x="${left}" y="${height - 30}">Time</text>
       </svg>
-      <div class="chart-legend">${legend}</div>
+      <div class="chart-legend">${legend}${nowLegend}</div>
     </div>`;
 }
 
@@ -179,8 +242,56 @@ function formatDate(value) {
   return Number.isNaN(d.getTime()) ? value : d.toLocaleString();
 }
 
+function renderSiteMapCard(station) {
+  return `
+    <div class="site-map-card card">
+      <div class="site-map-head">
+        <div>
+          <b>Site map</b><br>
+          <span class="site-map-subtitle">Station location and nearby context</span>
+        </div>
+        <div class="site-map-coords">${station.latitude.toFixed(4)}, ${station.longitude.toFixed(4)}</div>
+      </div>
+      <div id="detailSiteMap" class="detail-site-map" aria-label="Station site map"></div>
+    </div>`;
+}
+
+function mountDetailMap(station) {
+  const target = document.getElementById('detailSiteMap');
+  if (!target) return;
+  if (detailMap) {
+    detailMap.remove();
+    detailMap = null;
+  }
+  detailMap = L.map(target, {
+    zoomControl: false,
+    attributionControl: false,
+    dragging: true,
+    scrollWheelZoom: false,
+    doubleClickZoom: false,
+    boxZoom: false,
+    keyboard: false,
+    tap: false
+  }).setView([station.latitude, station.longitude], 11);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 18,
+    attribution: '&copy; OpenStreetMap contributors'
+  }).addTo(detailMap);
+
+  L.circleMarker([station.latitude, station.longitude], {
+    radius: 8,
+    weight: 2,
+    color: '#08111b',
+    fillColor: colorForStation(station),
+    fillOpacity: 0.95
+  }).addTo(detailMap);
+}
+
 function summarizeForecast(noaa) {
+  const observed = noaa?.observed;
   const forecast = noaa?.forecast;
+  const observedPoints = (observed?.data || []).filter((p) => Number.isFinite(p.primary) && p.primary > -900);
   const points = (forecast?.data || []).filter((p) => Number.isFinite(p.primary) && p.primary > -900);
   if (!forecast || !points.length) {
     return {
@@ -189,6 +300,9 @@ function summarizeForecast(noaa) {
       nextValid: null,
       crest: null,
       crestTime: null,
+      horizonDays: 0,
+      observedSeries: observedPoints.length ? [{ label: 'Observed stage', style: 'observed', points: observedPoints.map((p) => ({ x: p.validTime, y: p.primary })) }] : [],
+      forecastSeries: [],
       series: []
     };
   }
@@ -196,6 +310,9 @@ function summarizeForecast(noaa) {
   for (const point of points) {
     if (point.primary > crest.primary) crest = point;
   }
+  const horizonDays = Math.max(0, Math.round((new Date(points.at(-1).validTime) - new Date(points[0].validTime)) / 86400000));
+  const forecastSeries = [{ label: 'Forecast stage', style: 'forecast', points: points.map((p) => ({ x: p.validTime, y: p.primary })) }];
+  const observedSeries = observedPoints.length ? [{ label: 'Observed stage', style: 'observed', points: observedPoints.map((p) => ({ x: p.validTime, y: p.primary })) }] : [];
   return {
     quality: 'Official NOAA forecast',
     issued: forecast.issuedTime,
@@ -205,7 +322,10 @@ function summarizeForecast(noaa) {
     crestFlow: crest.secondary,
     primaryUnits: forecast.primaryUnits,
     secondaryUnits: forecast.secondaryUnits,
-    series: [{ label: 'Forecast stage', points: points.map((p) => ({ x: p.validTime, y: p.primary })) }]
+    horizonDays,
+    observedSeries,
+    forecastSeries,
+    series: [...observedSeries, ...forecastSeries]
   };
 }
 
@@ -235,13 +355,18 @@ async function showStation(station) {
           <div class="card"><b>Forecast issued</b><br>${escapeHtml(formatDate(forecast.issued))}</div>
           <div class="card"><b>Forecast crest</b><br>${forecast.crest ?? 'n/a'} ${escapeHtml(forecast.primaryUnits || '')}</div>
           <div class="card"><b>Crest time</b><br>${escapeHtml(formatDate(forecast.crestTime))}</div>
+          <div class="card"><b>Forecast horizon</b><br>${forecast.horizonDays ? `~${forecast.horizonDays} days` : 'n/a'}</div>
+        </div>
+        <div class="detail-grid">
+          ${renderSiteMapCard(station)}
+          ${renderMiniChart(forecast.series, 'NOAA forecast hydrograph', forecast.horizonDays ? `Observed and forecast stage with a clear now marker. Forecast extends roughly ${forecast.horizonDays} days.` : 'Observed and forecast stage with a clear now marker.', { compact: true })}
         </div>
         <p><a href="https://waterdata.usgs.gov/monitoring-location/${encodeURIComponent(station.stationId)}/" target="_blank" rel="noreferrer">USGS station page</a>${station.noaaHydrographUrl ? ` • <a href="${station.noaaHydrographUrl}" target="_blank" rel="noreferrer">NOAA hydrograph</a>` : ''}</p>
         ${renderMiniChart([
-          ...[currentStageSeries, currentFlowSeries].filter(Boolean).slice(0, 2),
-          ...forecast.series,
-          ...dailySeries.slice(0, 1)
-        ], 'Observed + forecast hydrograph', `Official NOAA forecast horizon with labeled series. Forecast quality: ${forecast.quality}.`)}
+          currentStageSeries ? { ...currentStageSeries, label: 'USGS current stage', style: 'observed' } : null,
+          forecast.forecastSeries[0] || null,
+          dailySeries.find((s) => /gage height/i.test(s.label)) ? { ...dailySeries.find((s) => /gage height/i.test(s.label)), label: 'Recent daily stage', style: 'history' } : null
+        ].filter(Boolean), 'Easy-read hydrograph', 'Mobile-friendly view of recent stage, forecast, and a vertical now marker.')}
         <p>Forecast priority here is: <b>official NOAA forecast</b> when matched, then USGS observed/historical context. Click anywhere on the map to snap to the nearest river sensor.</p>`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
@@ -257,9 +382,13 @@ async function showStation(station) {
           <div class="card"><b>Forecast quality</b><br>Observed only nationally</div>
         </div>
         <p><a href="https://wateroffice.ec.gc.ca/report/real_time_e.html?stn=${encodeURIComponent(station.stationId)}" target="_blank" rel="noreferrer">Environment Canada station page</a></p>
-        ${renderMiniChart([{ label: 'Realtime', points: latest.points }, { label: 'Daily mean', points: dailyPoints }], 'Observed hydrograph', 'Environment Canada realtime plus recent daily mean history.')}`;
+        ${renderMiniChart([
+          { label: 'Realtime level', style: 'observed', points: latest.points },
+          { label: 'Daily mean', style: 'history', points: dailyPoints }
+        ], 'Observed hydrograph', 'Environment Canada realtime plus recent daily mean history with a clear now marker.')}`;
     }
     detailsEl.innerHTML = body;
+    if (station.country === 'US') mountDetailMap(station);
   } catch (error) {
     detailsEl.innerHTML = `<div class="card">Could not load sensor details. ${escapeHtml(String(error.message || error))}</div>`;
   }
