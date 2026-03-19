@@ -1,3 +1,8 @@
+const DATA_BASES = [
+  'data',
+  'https://cdn.jsdelivr.net/gh/andrewnakas/north-america-river-watch@sensor-data/data'
+];
+
 const map = L.map('map', {
   scrollWheelZoom: false,
   worldCopyJump: true
@@ -83,6 +88,19 @@ async function fetchJson(url) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.json();
+}
+
+async function fetchJsonWithFallback(relativePath) {
+  let lastError = null;
+  for (const base of DATA_BASES) {
+    const url = `${base.replace(/\/$/, '')}/${relativePath.replace(/^\//, '')}`;
+    try {
+      return await fetchJson(url);
+    } catch (error) {
+      lastError = error;
+    }
+  }
+  throw lastError || new Error(`Unable to load ${relativePath}`);
 }
 
 async function fetchUsgsSeries(siteNo) {
@@ -381,7 +399,7 @@ async function loadStation(stationOrId) {
   if (typeof stationOrId === 'object' && stationOrId?.stationId) return stationOrId;
   const station = stations.find((item) => item.id === stationOrId || item.slug === stationOrId);
   if (!station) throw new Error('Unknown station');
-  return fetchJson(`data/sensors/${encodeURIComponent(station.slug)}.json`);
+  return fetchJsonWithFallback(`sensors/${encodeURIComponent(station.slug)}.json`);
 }
 
 async function showStation(stationOrId) {
@@ -395,7 +413,7 @@ async function showStation(stationOrId) {
     if (station.country === 'US') {
       const [usgs, noaa] = await Promise.all([
         fetchUsgsSeries(station.stationId),
-        station.noaaForecastPath ? fetchJson(station.noaaForecastPath).catch(() => null) : Promise.resolve(null)
+        station.noaaForecastPath ? fetchJsonWithFallback(station.noaaForecastPath.replace(/^data\//, '')).catch(() => null) : Promise.resolve(null)
       ]);
       const liveSeries = latestUsgsValue(usgs.iv);
       const dailySeries = latestUsgsValue(usgs.dv);
@@ -500,8 +518,8 @@ searchEl.addEventListener('input', applyFilters);
 forecastOnlyEl.addEventListener('change', applyFilters);
 
 const [stationData, sourceData] = await Promise.all([
-  fetchJson('data/sensors/index.json'),
-  fetchJson('data/sources.json')
+  fetchJsonWithFallback('sensors/index.json'),
+  fetchJsonWithFallback('sources.json')
 ]);
 stations = stationData;
 filteredStations = stationData;

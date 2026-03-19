@@ -1,0 +1,46 @@
+name: Refresh sensor data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 11 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sensor-data-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci || npm install
+      - run: npm run build:data:fast
+      - name: Publish generated data to sensor-data branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          tmpdir="$(mktemp -d)"
+          cp -R generated "$tmpdir/data"
+          cd "$tmpdir"
+          git init -b sensor-data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          touch .nojekyll
+          cat > README.md <<'EOF'
+          Runtime sensor data branch for north-america-river-watch.
+          Contains generated station index, per-sensor files, and forecast bundles.
+          EOF
+          git add .
+          git commit -m "chore: refresh sensor data"
+          git remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin sensor-data

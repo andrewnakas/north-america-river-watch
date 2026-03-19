@@ -8,6 +8,7 @@
     "build:data:fast": "FORECAST_CACHE_MAX_AGE_HOURS=12 STATION_CACHE_MAX_AGE_HOURS=72 NOAA_CONCURRENCY=20 node scripts/build-data.mjs",
     "build:data:refresh": "FORCE_REFRESH=1 NOAA_CONCURRENCY=20 node scripts/build-data.mjs",
     "build:site": "node scripts/build-site.mjs",
+    "build:site:shell": "node scripts/build-site.mjs",
     "build": "npm run build:data && npm run build:site"
   }
 }
