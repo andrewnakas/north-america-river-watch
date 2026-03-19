@@ -1,10 +1,18 @@
-import { mkdir, writeFile, rm } from 'node:fs/promises';
+import { mkdir, writeFile, readFile, access } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const root = path.resolve(__dirname, '..');
 const outDir = path.join(root, 'generated');
+const cacheDir = path.join(outDir, 'cache');
+const forecastDir = path.join(outDir, 'noaa-forecast');
+const sensorsDir = path.join(outDir, 'sensors');
+
+const FORCE_REFRESH = process.env.FORCE_REFRESH === '1';
+const STATION_CACHE_MAX_AGE_HOURS = Number(process.env.STATION_CACHE_MAX_AGE_HOURS || 24);
+const FORECAST_CACHE_MAX_AGE_HOURS = Number(process.env.FORECAST_CACHE_MAX_AGE_HOURS || 6);
+const NOAA_CONCURRENCY = Number(process.env.NOAA_CONCURRENCY || 16);
 
 const US_STATES = ['AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN','IA','KS','KY','LA','ME','MD','MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ','NM','NY','NC','ND','OH','OK','OR','PA','RI','SC','SD','TN','TX','UT','VT','VA','WA','WV','WI','WY','DC','PR','VI','GU'];
 const STATE_FIPS_TO_ABBR = {
@@ -23,6 +31,44 @@ async function fetchText(url) {
   return res.text();
 }
 
+async function exists(filePath) {
+  try {
+    await access(filePath);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
+async function readJsonIfExists(filePath) {
+  if (!await exists(filePath)) return null;
+  return JSON.parse(await readFile(filePath, 'utf8'));
+}
+
+async function writeJson(filePath, value, pretty = false) {
+  await mkdir(path.dirname(filePath), { recursive: true });
+  await writeFile(filePath, JSON.stringify(value, null, pretty ? 2 : 0));
+}
+
+function ageHours(isoOrMs) {
+  const then = typeof isoOrMs === 'number' ? isoOrMs : new Date(isoOrMs).getTime();
+  return (Date.now() - then) / 36e5;
+}
+
+async function loadCachedResource(filePath, maxAgeHours, loader, label) {
+  if (!FORCE_REFRESH) {
+    const cached = await readJsonIfExists(filePath);
+    if (cached?.generatedAt && ageHours(cached.generatedAt) <= maxAgeHours) {
+      console.log(`${label}: cache hit (${ageHours(cached.generatedAt).toFixed(1)}h old)`);
+      return cached.data;
+    }
+  }
+  const data = await loader();
+  await writeJson(filePath, { generatedAt: new Date().toISOString(), data });
+  console.log(`${label}: refreshed`);
+  return data;
+}
+
 function parseRdb(text) {
   const lines = text.split(/\r?\n/).filter(Boolean);
   const dataLines = lines.filter((line) => !line.startsWith('#'));
@@ -39,12 +85,8 @@ function num(value) {
   return Number.isFinite(n) ? n : null;
 }
 
-function titleCase(value = '') {
-  return value.toLowerCase().replace(/\b\w/g, (m) => m.toUpperCase());
-}
-
 function mapUsgsSite(row) {
-  const lat = num(row.dec_lat_va || row.dec_lat_va_); 
+  const lat = num(row.dec_lat_va || row.dec_lat_va_);
   const lon = num(row.dec_long_va || row.dec_long_va_);
   if (lat == null || lon == null) return null;
   return {
@@ -177,61 +219,175 @@ function joinStations(usgsStations, canadaStations, noaaGauges) {
   return stations;
 }
 
+async function fetchNoaaBundle(lid) {
+  const reachSeries = [
+    ['analysis_assimilation', 'analysisAssimilation'],
+    ['short_range', 'shortRange'],
+    ['medium_range', 'mediumRange'],
+    ['medium_range_blend', 'mediumRangeBlend'],
+    ['long_range', 'longRange']
+  ];
+
+  const stageflow = await fetchJson(`https://api.water.noaa.gov/nwps/v1/gauges/${encodeURIComponent(lid)}/stageflow`);
+  const gauge = await fetchJson(`https://api.water.noaa.gov/nwps/v1/gauges/${encodeURIComponent(lid)}`);
+  const payload = {
+    gauge,
+    stageflow,
+    modelGuidance: {},
+    availableSeries: []
+  };
+
+  const officialForecastPoints = (stageflow?.forecast?.data || []).filter((p) => Number.isFinite(p?.primary) && p.primary > -900).length;
+  const observedPoints = (stageflow?.observed?.data || []).filter((p) => Number.isFinite(p?.primary) && p.primary > -900).length;
+
+  if (gauge?.reachId) {
+    try {
+      const reach = await fetchJson(`https://api.water.noaa.gov/nwps/v1/reaches/${encodeURIComponent(gauge.reachId)}/streamflow`);
+      payload.reach = reach.reach || null;
+      for (const [, key] of reachSeries) {
+        const series = reach?.[key]?.series;
+        const count = (series?.data || []).filter((p) => Number.isFinite(p?.flow)).length;
+        if (count) {
+          payload.modelGuidance[key] = series;
+          payload.availableSeries.push({ type: key, points: count, units: series.units, referenceTime: series.referenceTime });
+        }
+      }
+    } catch (error) {
+      payload.reachError = error.message;
+    }
+  }
+
+  if (officialForecastPoints) payload.availableSeries.unshift({ type: 'officialForecast', points: officialForecastPoints, units: stageflow?.forecast?.primaryUnits, referenceTime: stageflow?.forecast?.issuedTime });
+  if (observedPoints) payload.availableSeries.unshift({ type: 'observedStage', points: observedPoints, units: stageflow?.observed?.primaryUnits, referenceTime: stageflow?.observed?.issuedTime || null });
+
+  payload.generatedAt = new Date().toISOString();
+  return payload;
+}
+
+function sensorSlug(station) {
+  return station.id.replace(/[^a-zA-Z0-9_-]+/g, '-');
+}
+
+function stationIndexEntry(station) {
+  return {
+    id: station.id,
+    slug: sensorSlug(station),
+    key: station.key,
+    network: station.network,
+    country: station.country,
+    stationId: station.stationId,
+    name: station.name,
+    waterbody: station.waterbody,
+    state: station.state,
+    latitude: station.latitude,
+    longitude: station.longitude,
+    forecast: station.forecast,
+    realtime: station.realtime,
+    noaaLid: station.noaaLid,
+    noaaForecast: station.noaaForecast
+  };
+}
+
+async function writeSensorFiles(stations) {
+  await mkdir(sensorsDir, { recursive: true });
+  const index = stations.map(stationIndexEntry);
+  await writeJson(path.join(sensorsDir, 'index.json'), index);
+
+  await Promise.all(stations.map((station) => writeJson(
+    path.join(sensorsDir, `${sensorSlug(station)}.json`),
+    {
+      ...station,
+      slug: sensorSlug(station),
+      noaaForecastPath: station.noaaLid ? `data/noaa-forecast/${station.noaaLid}.json` : null,
+      generatedAt: new Date().toISOString()
+    },
+    true
+  )));
+}
+
 async function fetchNoaaForecastFiles(stations) {
   const lids = [...new Set(stations.filter((s) => s.noaaLid).map((s) => s.noaaLid))];
-  const forecastDir = path.join(outDir, 'noaa-forecast');
   await mkdir(forecastDir, { recursive: true });
 
-  const concurrency = 8;
+  const refreshLids = [];
+  let cacheHits = 0;
+
+  for (const lid of lids) {
+    const filePath = path.join(forecastDir, `${lid}.json`);
+    const cached = FORCE_REFRESH ? null : await readJsonIfExists(filePath);
+    if (cached?.generatedAt && ageHours(cached.generatedAt) <= FORECAST_CACHE_MAX_AGE_HOURS) {
+      cacheHits += 1;
+      continue;
+    }
+    refreshLids.push(lid);
+  }
+
+  console.log(`NOAA bundle cache hits: ${cacheHits}`);
+  console.log(`NOAA bundles to refresh: ${refreshLids.length}`);
+
   let index = 0;
+  let completed = 0;
+  let failed = 0;
 
   async function worker() {
-    while (index < lids.length) {
-      const lid = lids[index++];
-      const url = `https://api.water.noaa.gov/nwps/v1/gauges/${encodeURIComponent(lid)}/stageflow`;
+    while (index < refreshLids.length) {
+      const lid = refreshLids[index++];
       try {
-        const json = await fetchJson(url);
-        await writeFile(path.join(forecastDir, `${lid}.json`), JSON.stringify(json));
-        console.log(`NOAA forecast ${lid}`);
+        const json = await fetchNoaaBundle(lid);
+        await writeJson(path.join(forecastDir, `${lid}.json`), json);
+        const summary = (json.availableSeries || []).map((s) => `${s.type}:${s.points}`).join(', ') || 'none';
+        completed += 1;
+        if (completed % 100 === 0 || completed === refreshLids.length) console.log(`NOAA progress ${completed}/${refreshLids.length}`);
+        console.log(`NOAA forecast ${lid} (${summary})`);
       } catch (error) {
+        failed += 1;
         console.warn(`NOAA forecast failed for ${lid}: ${error.message}`);
       }
     }
   }
 
-  await Promise.all(Array.from({ length: concurrency }, () => worker()));
+  await Promise.all(Array.from({ length: Math.max(1, NOAA_CONCURRENCY) }, () => worker()));
+  console.log(`NOAA refresh done: ${completed} ok, ${failed} failed, ${cacheHits} cached`);
 }
 
 async function main() {
-  await rm(outDir, { recursive: true, force: true });
   await mkdir(outDir, { recursive: true });
+  await mkdir(cacheDir, { recursive: true });
 
   const [usgsStations, canadaStations, noaaGauges] = await Promise.all([
-    fetchUsgsStations(),
-    fetchCanadaStations(),
-    fetchNoaaGauges()
+    loadCachedResource(path.join(cacheDir, 'usgs-stations.json'), STATION_CACHE_MAX_AGE_HOURS, fetchUsgsStations, 'USGS stations'),
+    loadCachedResource(path.join(cacheDir, 'canada-stations.json'), STATION_CACHE_MAX_AGE_HOURS, fetchCanadaStations, 'Canada stations'),
+    loadCachedResource(path.join(cacheDir, 'noaa-gauges.json'), STATION_CACHE_MAX_AGE_HOURS, fetchNoaaGauges, 'NOAA gauges')
   ]);
 
   const stations = joinStations(usgsStations, canadaStations, noaaGauges);
+  await writeJson(path.join(outDir, 'stations.json'), stations);
+  await writeSensorFiles(stations);
 
-  await writeFile(path.join(outDir, 'stations.json'), JSON.stringify(stations));
   const matchedForecastStations = stations.filter((s) => s.noaaLid).length;
-
-  await writeFile(path.join(outDir, 'sources.json'), JSON.stringify({
+  const sources = {
     generatedAt: new Date().toISOString(),
     stations: stations.length,
     usgsStations: usgsStations.length,
     canadaStations: canadaStations.length,
     noaaGauges: noaaGauges.length,
     matchedForecastStations,
+    config: {
+      forceRefresh: FORCE_REFRESH,
+      stationCacheMaxAgeHours: STATION_CACHE_MAX_AGE_HOURS,
+      forecastCacheMaxAgeHours: FORECAST_CACHE_MAX_AGE_HOURS,
+      noaaConcurrency: NOAA_CONCURRENCY
+    },
     notes: [
       'US current and historical series are fetched live from USGS Water Services from the browser.',
       'Canada real-time and historical daily mean series are fetched live from Environment and Climate Change Canada GeoMet APIs from the browser.',
-      'NOAA NWPS forecast series are prefetched into static JSON because NOAA APIs do not expose permissive browser CORS headers.'
+      'NOAA NWPS forecast series are prefetched into static JSON because NOAA APIs do not expose permissive browser CORS headers.',
+      'Builder is incremental: station indexes are cached and per-gauge NOAA bundles are refreshed only when stale or missing.'
     ]
-  }, null, 2));
-  await fetchNoaaForecastFiles(stations);
+  };
+  await writeJson(path.join(outDir, 'sources.json'), sources, true);
 
+  await fetchNoaaForecastFiles(stations);
   console.log(`Generated ${stations.length} stations`);
 }
 

@@ -22,6 +22,7 @@ let stations = [];
 let filteredStations = [];
 let markers = [];
 let detailMap = null;
+let activeStationId = null;
 
 mapEl.addEventListener('mouseenter', () => map.scrollWheelZoom.enable());
 mapEl.addEventListener('mouseleave', () => map.scrollWheelZoom.disable());
@@ -289,54 +290,112 @@ function mountDetailMap(station) {
 }
 
 function summarizeForecast(noaa) {
-  const observed = noaa?.observed;
-  const forecast = noaa?.forecast;
+  const stageflow = noaa?.stageflow || noaa || {};
+  const observed = stageflow?.observed;
+  const forecast = stageflow?.forecast;
+  const modelGuidance = noaa?.modelGuidance || {};
+
   const observedPoints = (observed?.data || []).filter((p) => Number.isFinite(p.primary) && p.primary > -900);
-  const points = (forecast?.data || []).filter((p) => Number.isFinite(p.primary) && p.primary > -900);
-  if (!forecast || !points.length) {
+  const officialPoints = (forecast?.data || []).filter((p) => Number.isFinite(p.primary) && p.primary > -900);
+  const observedSeries = observedPoints.length
+    ? [{ label: 'Observed stage', style: 'observed', points: observedPoints.map((p) => ({ x: p.validTime, y: p.primary })) }]
+    : [];
+
+  const officialForecastSeries = officialPoints.length
+    ? [{ label: 'Official NOAA forecast', style: 'forecast', points: officialPoints.map((p) => ({ x: p.validTime, y: p.primary })) }]
+    : [];
+
+  const nwmSeriesDefs = [
+    ['analysisAssimilation', 'NWM analysis', 'history'],
+    ['shortRange', 'NWM short-range', 'forecast'],
+    ['mediumRange', 'NWM medium-range', 'secondary'],
+    ['mediumRangeBlend', 'NWM medium blend', 'secondary'],
+    ['longRange', 'NWM long-range', 'secondary']
+  ];
+
+  const modelSeries = nwmSeriesDefs.map(([key, label, style]) => {
+    const series = modelGuidance?.[key];
+    const points = (series?.data || []).filter((p) => Number.isFinite(p?.flow)).map((p) => ({ x: p.validTime, y: p.flow }));
+    if (!points.length) return null;
     return {
-      quality: 'Observed only',
-      issued: null,
-      nextValid: null,
-      crest: null,
-      crestTime: null,
-      horizonDays: 0,
-      observedSeries: observedPoints.length ? [{ label: 'Observed stage', style: 'observed', points: observedPoints.map((p) => ({ x: p.validTime, y: p.primary })) }] : [],
-      forecastSeries: [],
-      series: []
+      label,
+      style,
+      units: series.units,
+      referenceTime: series.referenceTime,
+      points
     };
+  }).filter(Boolean);
+
+  const primaryForecastSeries = officialForecastSeries.length
+    ? officialForecastSeries
+    : modelSeries.filter((series) => /short-range|medium-range|medium blend|long-range/i.test(series.label));
+
+  const mainSeries = [
+    ...observedSeries,
+    ...primaryForecastSeries.slice(0, 3)
+  ];
+
+  const allSeries = [
+    ...observedSeries,
+    ...modelSeries,
+    ...officialForecastSeries
+  ];
+
+  const crestSource = (officialForecastSeries[0]?.points || primaryForecastSeries[0]?.points || []).slice();
+  let crest = null;
+  for (const point of crestSource) {
+    if (!crest || point.y > crest.y) crest = point;
   }
-  let crest = points[0];
-  for (const point of points) {
-    if (point.primary > crest.primary) crest = point;
-  }
-  const horizonDays = Math.max(0, Math.round((new Date(points.at(-1).validTime) - new Date(points[0].validTime)) / 86400000));
-  const forecastSeries = [{ label: 'Forecast stage', style: 'forecast', points: points.map((p) => ({ x: p.validTime, y: p.primary })) }];
-  const observedSeries = observedPoints.length ? [{ label: 'Observed stage', style: 'observed', points: observedPoints.map((p) => ({ x: p.validTime, y: p.primary })) }] : [];
+
+  const firstForecastPoint = (officialForecastSeries[0]?.points || primaryForecastSeries[0]?.points || [])[0] || null;
+  const lastForecastPoint = (officialForecastSeries[0]?.points || primaryForecastSeries[0]?.points || []).at?.(-1) || null;
+  const horizonDays = firstForecastPoint && lastForecastPoint
+    ? Math.max(0, Math.round((new Date(lastForecastPoint.x) - new Date(firstForecastPoint.x)) / 86400000))
+    : 0;
+
+  let quality = 'Observed only';
+  if (officialForecastSeries.length) quality = 'Official NOAA forecast';
+  else if (primaryForecastSeries.length) quality = 'National Water Model guidance';
+  else if (observedSeries.length) quality = 'Observed only';
+
   return {
-    quality: 'Official NOAA forecast',
-    issued: forecast.issuedTime,
-    nextValid: points[0].validTime,
-    crest: crest.primary,
-    crestTime: crest.validTime,
-    crestFlow: crest.secondary,
-    primaryUnits: forecast.primaryUnits,
-    secondaryUnits: forecast.secondaryUnits,
+    quality,
+    issued: forecast?.issuedTime || modelSeries[1]?.referenceTime || modelSeries[0]?.referenceTime || null,
+    nextValid: firstForecastPoint?.x || null,
+    crest: crest?.y ?? null,
+    crestTime: crest?.x ?? null,
+    crestFlow: null,
+    primaryUnits: forecast?.primaryUnits || primaryForecastSeries[0]?.units || observed?.primaryUnits || '',
+    secondaryUnits: forecast?.secondaryUnits || '',
     horizonDays,
     observedSeries,
-    forecastSeries,
-    series: [...observedSeries, ...forecastSeries]
+    forecastSeries: primaryForecastSeries,
+    officialForecastSeries,
+    modelSeries,
+    series: allSeries,
+    mainSeries
   };
 }
 
-async function showStation(station) {
-  detailsEl.innerHTML = `<div class="card">Loading ${escapeHtml(station.name)}…</div>`;
+async function loadStation(stationOrId) {
+  if (typeof stationOrId === 'object' && stationOrId?.stationId) return stationOrId;
+  const station = stations.find((item) => item.id === stationOrId || item.slug === stationOrId);
+  if (!station) throw new Error('Unknown station');
+  return fetchJson(`data/sensors/${encodeURIComponent(station.slug)}.json`);
+}
+
+async function showStation(stationOrId) {
+  const baseStation = typeof stationOrId === 'object' ? stationOrId : stations.find((item) => item.id === stationOrId || item.slug === stationOrId);
+  const loadingName = baseStation?.name || 'sensor';
+  detailsEl.innerHTML = `<div class="card">Loading ${escapeHtml(loadingName)}…</div>`;
   try {
+    const station = await loadStation(stationOrId);
+    activeStationId = station.id;
     let body = '';
     if (station.country === 'US') {
       const [usgs, noaa] = await Promise.all([
         fetchUsgsSeries(station.stationId),
-        station.noaaLid ? fetchJson(`data/noaa-forecast/${station.noaaLid}.json`).catch(() => null) : Promise.resolve(null)
+        station.noaaForecastPath ? fetchJson(station.noaaForecastPath).catch(() => null) : Promise.resolve(null)
       ]);
       const liveSeries = latestUsgsValue(usgs.iv);
       const dailySeries = latestUsgsValue(usgs.dv);
@@ -345,6 +404,23 @@ async function showStation(station) {
       const currentStage = currentStageSeries?.points.at(-1)?.y;
       const currentFlow = currentFlowSeries?.points.at(-1)?.y;
       const forecast = summarizeForecast(noaa);
+      const recentDailyStage = dailySeries.find((s) => /gage height/i.test(s.label));
+      const recentDailyFlow = dailySeries.find((s) => /discharge/i.test(s.label));
+      const usingModelGuidance = forecast.quality === 'National Water Model guidance';
+      const primaryObservedSeries = usingModelGuidance
+        ? (currentFlowSeries ? { ...currentFlowSeries, label: 'USGS current discharge', style: 'observed' } : null)
+        : (currentStageSeries ? { ...currentStageSeries, label: 'USGS current stage', style: 'observed' } : null);
+      const primaryHistorySeries = usingModelGuidance
+        ? (recentDailyFlow ? { ...recentDailyFlow, label: 'Recent daily discharge', style: 'history' } : null)
+        : (recentDailyStage ? { ...recentDailyStage, label: 'Recent daily stage', style: 'history' } : null);
+      const detailChartSeries = usingModelGuidance
+        ? [primaryObservedSeries, ...forecast.forecastSeries.slice(0, 3)].filter(Boolean)
+        : (forecast.mainSeries.length ? forecast.mainSeries : forecast.series);
+      const overviewChartSeries = [
+        primaryObservedSeries,
+        ...forecast.forecastSeries.slice(0, 3),
+        primaryHistorySeries
+      ].filter(Boolean);
       body = `
         <h2>${escapeHtml(station.name)}</h2>
         <div class="meta">USGS observed • ${station.state} • ${escapeHtml(station.stationId)}${station.noaaLid ? ` • NOAA ${escapeHtml(station.noaaLid)}` : ''}</div>
@@ -359,15 +435,19 @@ async function showStation(station) {
         </div>
         <div class="detail-grid">
           ${renderSiteMapCard(station)}
-          ${renderMiniChart(forecast.series, 'NOAA forecast hydrograph', forecast.horizonDays ? `Observed and forecast stage with a clear now marker. Forecast extends roughly ${forecast.horizonDays} days.` : 'Observed and forecast stage with a clear now marker.', { compact: true })}
+          ${renderMiniChart(detailChartSeries, usingModelGuidance ? 'River flow guidance' : 'River forecast hydrograph', forecast.quality === 'Official NOAA forecast'
+            ? (forecast.horizonDays ? `Official NOAA forecast with observed context and a clear now marker. Forecast extends roughly ${forecast.horizonDays} days.` : 'Official NOAA forecast with observed context and a clear now marker.')
+            : forecast.quality === 'National Water Model guidance'
+              ? 'No official NOAA stage forecast was available here, so this uses National Water Model flow guidance with discharge context.'
+              : 'Showing observed river conditions with a clear now marker.', { compact: true })}
         </div>
         <p><a href="https://waterdata.usgs.gov/monitoring-location/${encodeURIComponent(station.stationId)}/" target="_blank" rel="noreferrer">USGS station page</a>${station.noaaHydrographUrl ? ` • <a href="${station.noaaHydrographUrl}" target="_blank" rel="noreferrer">NOAA hydrograph</a>` : ''}</p>
-        ${renderMiniChart([
-          currentStageSeries ? { ...currentStageSeries, label: 'USGS current stage', style: 'observed' } : null,
-          forecast.forecastSeries[0] || null,
-          dailySeries.find((s) => /gage height/i.test(s.label)) ? { ...dailySeries.find((s) => /gage height/i.test(s.label)), label: 'Recent daily stage', style: 'history' } : null
-        ].filter(Boolean), 'Easy-read hydrograph', 'Mobile-friendly view of recent stage, forecast, and a vertical now marker.')}
-        <p>Forecast priority here is: <b>official NOAA forecast</b> when matched, then USGS observed/historical context. Click anywhere on the map to snap to the nearest river sensor.</p>`;
+        ${renderMiniChart(overviewChartSeries, usingModelGuidance ? 'Easy-read flow guidance' : 'Easy-read hydrograph', forecast.quality === 'Official NOAA forecast'
+          ? 'Mobile-friendly view of stage history, official forecast, and a vertical now marker.'
+          : forecast.quality === 'National Water Model guidance'
+            ? 'Mobile-friendly view of recent discharge plus model guidance when official stage forecasts are unavailable.'
+            : 'Mobile-friendly view of recent stage and a vertical now marker.')}
+        <p>Forecast priority here is: <b>official NOAA forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then observed/historical context. Click anywhere on the map to snap to the nearest river sensor.</p>`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
       const latest = latestCanadaValues(series.realtime);
@@ -420,10 +500,10 @@ searchEl.addEventListener('input', applyFilters);
 forecastOnlyEl.addEventListener('change', applyFilters);
 
 const [stationData, sourceData] = await Promise.all([
-  fetchJson('data/stations.json'),
+  fetchJson('data/sensors/index.json'),
   fetchJson('data/sources.json')
 ]);
 stations = stationData;
 filteredStations = stationData;
 renderMarkers();
-summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.matchedForecastStations.toLocaleString()} official NOAA forecast matches</div>`;
+summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.matchedForecastStations.toLocaleString()} official NOAA forecast matches • sensor details load on demand</div>`;
