@@ -79,8 +79,12 @@ input[type="search"] {
 .axis-label-bottom { font-size: 11px; }
 .axis-line { stroke: #47627d; stroke-width: 1; }
 .grid-line { stroke: #203246; stroke-width: 1; }
+.chart-area { pointer-events: none; }
+.forecast-divider { stroke: rgba(255, 177, 74, 0.6); stroke-width: 2; stroke-dasharray: 4 6; }
+.forecast-divider-label { fill: #ffcf8a; font-size: 12px; font-weight: 700; }
 .now-line { stroke: #ffd84d; stroke-width: 2; stroke-dasharray: 6 5; }
 .now-label { fill: #08111b; font-size: 12px; font-weight: 700; }
+.peak-label { fill: #ffe5ba; font-size: 12px; font-weight: 700; }
 .legend-dot { display: inline-block; width: 10px; height: 10px; border-radius: 999px; margin-right: 6px; }
 .detail-grid { display: grid; grid-template-columns: minmax(260px, 360px) minmax(0, 1fr); gap: 12px; align-items: start; margin-top: 12px; }
 .site-map-card { margin-top: 14px; }

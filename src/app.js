@@ -73,10 +73,14 @@ function renderMarkers() {
   summaryEl.innerHTML = `Loaded <b>${filteredStations.length.toLocaleString()}</b> river sensors. Hover the map and use your mouse wheel to zoom. <span class="legend-dot" style="background:#8fd14f"></span>USGS observed <span class="legend-dot" style="background:#4dd0e1"></span>USGS + official NOAA forecast <span class="legend-dot" style="background:#ff8f3f"></span>Canada observed`;
 }
 
+function stationHasForecastCapability(station) {
+  return Boolean(station?.forecast || station?.noaaForecast || station?.noaaForecastPath);
+}
+
 function applyFilters() {
   const q = searchEl.value.trim().toLowerCase();
   filteredStations = stations.filter((station) => {
-    if (forecastOnlyEl.checked && !station.forecast) return false;
+    if (forecastOnlyEl.checked && !stationHasForecastCapability(station)) return false;
     if (!q) return true;
     const hay = [station.name, station.waterbody, station.state, station.stationId, station.network, station.country].join(' ').toLowerCase();
     return hay.includes(q);
@@ -139,6 +143,60 @@ function formatAxisDate(value, includeHour = false) {
   return d.toLocaleDateString(undefined, includeHour
     ? { month: 'short', day: 'numeric', hour: 'numeric' }
     : { month: 'short', day: 'numeric' });
+}
+
+function estimateSeriesStepMs(points = []) {
+  if (!points || points.length < 2) return 3600000;
+  const deltas = [];
+  for (let i = 1; i < points.length; i += 1) {
+    const prev = new Date(points[i - 1].x).getTime();
+    const curr = new Date(points[i].x).getTime();
+    if (Number.isFinite(prev) && Number.isFinite(curr) && curr > prev) deltas.push(curr - prev);
+  }
+  if (!deltas.length) return 3600000;
+  deltas.sort((a, b) => a - b);
+  return deltas[Math.floor(deltas.length / 2)] || 3600000;
+}
+
+function buildSyntheticForecastSeries(observedSeries, label = 'Synthetic hydrograph forecast') {
+  const points = observedSeries?.points || [];
+  if (points.length < 6) return null;
+
+  const recent = points.slice(-12);
+  const recentPairs = [];
+  for (let i = 1; i < recent.length; i += 1) {
+    const prev = recent[i - 1];
+    const curr = recent[i];
+    const prevMs = new Date(prev.x).getTime();
+    const currMs = new Date(curr.x).getTime();
+    if (!Number.isFinite(prevMs) || !Number.isFinite(currMs) || currMs <= prevMs) continue;
+    recentPairs.push({
+      hours: (currMs - prevMs) / 3600000,
+      delta: curr.y - prev.y
+    });
+  }
+  if (!recentPairs.length) return null;
+
+  const hoursTotal = recentPairs.reduce((sum, item) => sum + item.hours, 0) || 1;
+  const weightedSlopePerHour = recentPairs.reduce((sum, item) => sum + item.delta, 0) / hoursTotal;
+  const stepMs = Math.max(estimateSeriesStepMs(points), 3600000);
+  const lastPoint = points.at(-1);
+  const lastTime = new Date(lastPoint.x).getTime();
+  if (!Number.isFinite(lastTime)) return null;
+
+  const synthetic = [];
+  let currentValue = lastPoint.y;
+  for (let step = 1; step <= 12; step += 1) {
+    const progress = step / 12;
+    const damp = Math.max(0.15, 1 - progress * 0.7);
+    currentValue += weightedSlopePerHour * (stepMs / 3600000) * damp;
+    synthetic.push({
+      x: new Date(lastTime + stepMs * step).toISOString(),
+      y: Number(currentValue.toFixed(2))
+    });
+  }
+
+  return synthetic.length ? { label, style: 'forecast', synthetic: true, points: synthetic } : null;
 }
 
 function renderMiniChart(seriesList, title = 'River chart', subtitle = '', options = {}) {
@@ -208,12 +266,36 @@ function renderMiniChart(seriesList, title = 'River chart', subtitle = '', optio
     };
   }).map((tick) => `<text class="axis-label" x="${tick.x}" y="${height - 12}" text-anchor="middle">${escapeHtml(tick.label)}</text>`).join('');
 
+  const areaPaths = activeSeries.map((series, idx) => {
+    if (!['observed', 'forecast'].includes(series.style)) return '';
+    const first = series.points[0];
+    const last = series.points.at(-1);
+    if (!first || !last) return '';
+    const line = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${scaleX(p.xMs)} ${scaleY(p.y)}`).join(' ');
+    const area = `${line} L ${scaleX(last.xMs)} ${top + plotHeight} L ${scaleX(first.xMs)} ${top + plotHeight} Z`;
+    return `<path d="${area}" fill="url(#chartArea${idx})" class="chart-area" />`;
+  }).join('');
+
   const paths = activeSeries.map((series) => {
     const d = series.points.map((p, i) => `${i === 0 ? 'M' : 'L'} ${scaleX(p.xMs)} ${scaleY(p.y)}`).join(' ');
     const stroke = palette[series.style] || palette.secondary;
     const dash = series.style === 'forecast' ? '7 5' : '';
     return `<path d="${d}" fill="none" stroke="${stroke}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" ${dash ? `stroke-dasharray="${dash}"` : ''} />`;
   }).join('');
+
+  const peakPoint = activeSeries.flatMap((series) => (series.style === 'forecast' ? series.points.map((point) => ({ ...point, series })) : [])).reduce((best, point) => {
+    if (!best || point.y > best.y) return point;
+    return best;
+  }, null);
+
+  const peakLabel = peakPoint
+    ? `<g class="peak-callout"><circle cx="${scaleX(peakPoint.xMs)}" cy="${scaleY(peakPoint.y)}" r="5.5" fill="${palette.forecast}" stroke="#08111b" stroke-width="2" /><text class="peak-label" x="${Math.min(scaleX(peakPoint.xMs) + 10, width - 120)}" y="${Math.max(scaleY(peakPoint.y) - 10, top + 14)}">Peak ${peakPoint.y.toFixed(1)}</text></g>`
+    : '';
+
+  const forecastStartMs = activeSeries.filter((series) => series.style === 'forecast').map((series) => series.points[0]?.xMs).filter(Number.isFinite).sort((a, b) => a - b)[0];
+  const forecastDivider = Number.isFinite(forecastStartMs)
+    ? `<line class="forecast-divider" x1="${scaleX(forecastStartMs)}" y1="${top}" x2="${scaleX(forecastStartMs)}" y2="${top + plotHeight}" /><text class="forecast-divider-label" x="${Math.min(scaleX(forecastStartMs) + 6, width - 92)}" y="${top + 30}">Forecast</text>`
+    : '';
 
   const endPoints = activeSeries.map((series) => {
     const point = series.points.at(-1);
@@ -242,12 +324,21 @@ function renderMiniChart(seriesList, title = 'River chart', subtitle = '', optio
         </div>
       </div>
       <svg class="chart" viewBox="0 0 ${width} ${height}" preserveAspectRatio="none" aria-label="${escapeHtml(title)}">
+        <defs>
+          ${activeSeries.map((series, idx) => {
+            const stroke = palette[series.style] || palette.secondary;
+            return `<linearGradient id="chartArea${idx}" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="${stroke}" stop-opacity="0.22" /><stop offset="100%" stop-color="${stroke}" stop-opacity="0.02" /></linearGradient>`;
+          }).join('')}
+        </defs>
         <line class="axis-line" x1="${left}" y1="${top}" x2="${left}" y2="${top + plotHeight}" />
         <line class="axis-line" x1="${left}" y1="${top + plotHeight}" x2="${width - right}" y2="${top + plotHeight}" />
         ${yGrid}
+        ${forecastDivider}
         ${nowLine}
+        ${areaPaths}
         ${paths}
         ${endPoints}
+        ${peakLabel}
         ${xTicks}
         <text class="axis-label axis-label-bottom" x="${left}" y="${height - 30}">Time</text>
       </svg>
@@ -431,12 +522,22 @@ async function showStation(stationOrId) {
       const primaryHistorySeries = usingModelGuidance
         ? (recentDailyFlow ? { ...recentDailyFlow, label: 'Recent daily discharge', style: 'history' } : null)
         : (recentDailyStage ? { ...recentDailyStage, label: 'Recent daily stage', style: 'history' } : null);
+      const syntheticHydrographForecast = !forecast.forecastSeries.length && !usingModelGuidance && primaryObservedSeries
+        ? buildSyntheticForecastSeries(primaryObservedSeries)
+        : null;
+      const hydrographForecastSeries = [
+        primaryHistorySeries,
+        primaryObservedSeries,
+        ...(forecast.forecastSeries.length ? forecast.forecastSeries.slice(0, 2) : []),
+        ...(syntheticHydrographForecast ? [syntheticHydrographForecast] : [])
+      ].filter(Boolean);
       const detailChartSeries = usingModelGuidance
         ? [primaryObservedSeries, ...forecast.forecastSeries.slice(0, 3)].filter(Boolean)
-        : (forecast.mainSeries.length ? forecast.mainSeries : forecast.series);
+        : (hydrographForecastSeries.length ? hydrographForecastSeries : (forecast.mainSeries.length ? forecast.mainSeries : forecast.series));
       const overviewChartSeries = [
         primaryObservedSeries,
         ...forecast.forecastSeries.slice(0, 3),
+        ...(syntheticHydrographForecast ? [syntheticHydrographForecast] : []),
         primaryHistorySeries
       ].filter(Boolean);
       body = `
@@ -445,11 +546,11 @@ async function showStation(stationOrId) {
         <div class="kv">
           <div class="card"><b>Current stage</b><br>${currentStage ?? 'n/a'} ${escapeHtml(currentStageSeries?.unit || '')}</div>
           <div class="card"><b>Current discharge</b><br>${currentFlow ?? 'n/a'} ${escapeHtml(currentFlowSeries?.unit || '')}</div>
-          <div class="card"><b>Best forecast</b><br>${escapeHtml(forecast.quality)}</div>
-          <div class="card"><b>Forecast issued</b><br>${escapeHtml(formatDate(forecast.issued))}</div>
-          <div class="card"><b>Forecast crest</b><br>${forecast.crest ?? 'n/a'} ${escapeHtml(forecast.primaryUnits || '')}</div>
-          <div class="card"><b>Crest time</b><br>${escapeHtml(formatDate(forecast.crestTime))}</div>
-          <div class="card"><b>Forecast horizon</b><br>${forecast.horizonDays ? `~${forecast.horizonDays} days` : 'n/a'}</div>
+          <div class="card"><b>Best forecast</b><br>${escapeHtml(syntheticHydrographForecast ? 'Synthetic hydrograph forecast' : forecast.quality)}</div>
+          <div class="card"><b>Forecast issued</b><br>${escapeHtml(formatDate(forecast.issued || syntheticHydrographForecast?.points?.[0]?.x || null))}</div>
+          <div class="card"><b>Forecast crest</b><br>${forecast.crest ?? syntheticHydrographForecast?.points?.reduce((best, point) => (!best || point.y > best.y ? point : best), null)?.y ?? 'n/a'} ${escapeHtml(forecast.primaryUnits || currentStageSeries?.unit || '')}</div>
+          <div class="card"><b>Crest time</b><br>${escapeHtml(formatDate(forecast.crestTime || syntheticHydrographForecast?.points?.reduce((best, point) => (!best || point.y > best.y ? point : best), null)?.x || null))}</div>
+          <div class="card"><b>Forecast horizon</b><br>${forecast.horizonDays ? `~${forecast.horizonDays} days` : syntheticHydrographForecast ? '~1 day' : 'n/a'}</div>
         </div>
         <div class="detail-grid">
           ${renderSiteMapCard(station)}
@@ -457,15 +558,19 @@ async function showStation(stationOrId) {
             ? (forecast.horizonDays ? `Official NOAA forecast with observed context and a clear now marker. Forecast extends roughly ${forecast.horizonDays} days.` : 'Official NOAA forecast with observed context and a clear now marker.')
             : forecast.quality === 'National Water Model guidance'
               ? 'No official NOAA stage forecast was available here, so this uses National Water Model flow guidance with discharge context.'
-              : 'Showing observed river conditions with a clear now marker.', { compact: true })}
+              : syntheticHydrographForecast
+                ? 'No official hydrograph was available here, so this chart adds a short synthetic forecast based on the latest observed stage trend.'
+                : 'Showing observed river conditions with a clear now marker.', { compact: true })}
         </div>
         <p><a href="https://waterdata.usgs.gov/monitoring-location/${encodeURIComponent(station.stationId)}/" target="_blank" rel="noreferrer">USGS station page</a>${station.noaaHydrographUrl ? ` • <a href="${station.noaaHydrographUrl}" target="_blank" rel="noreferrer">NOAA hydrograph</a>` : ''}</p>
-        ${renderMiniChart(overviewChartSeries, usingModelGuidance ? 'Easy-read flow guidance' : 'Easy-read hydrograph', forecast.quality === 'Official NOAA forecast'
-          ? 'Mobile-friendly view of stage history, official forecast, and a vertical now marker.'
+        ${renderMiniChart(overviewChartSeries, usingModelGuidance ? 'Easy-read flow guidance' : 'Hydrograph forecast', forecast.quality === 'Official NOAA forecast'
+          ? 'Observed stage plus official forecast, with forecast shading and peak labeling.'
           : forecast.quality === 'National Water Model guidance'
-            ? 'Mobile-friendly view of recent discharge plus model guidance when official stage forecasts are unavailable.'
-            : 'Mobile-friendly view of recent stage and a vertical now marker.')}
-        <p>Forecast priority here is: <b>official NOAA forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then observed/historical context. Click anywhere on the map to snap to the nearest river sensor.</p>`;
+            ? 'Recent discharge plus model guidance when official stage forecasts are unavailable.'
+            : syntheticHydrographForecast
+              ? 'Observed stage plus a short synthetic forecast generated from the latest trend.'
+              : 'Recent stage with a clearer visual hydrograph and now marker.')}
+        <p>Forecast priority here is: <b>official NOAA forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then a short <b>synthetic hydrograph forecast</b> from the recent observed trend. Click anywhere on the map to snap to the nearest river sensor.</p>`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
       const latest = latestCanadaValues(series.realtime);
