@@ -140,9 +140,9 @@ function latestCanadaValues(json) {
 function formatAxisDate(value, includeHour = false) {
   const d = new Date(value);
   if (Number.isNaN(d.getTime())) return 'n/a';
-  return d.toLocaleDateString(undefined, includeHour
-    ? { month: 'short', day: 'numeric', hour: 'numeric' }
-    : { month: 'short', day: 'numeric' });
+  return includeHour
+    ? d.toLocaleString(undefined, { month: 'short', day: 'numeric', hour: 'numeric' })
+    : d.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
 }
 
 function estimateSeriesStepMs(points = []) {
@@ -253,18 +253,18 @@ function renderMiniChart(seriesList, title = 'River chart', subtitle = '', optio
   const yTicks = Array.from({ length: 5 }, (_, i) => lowY + (i / 4) * (highY - lowY));
   const yGrid = yTicks.map((tick) => {
     const y = scaleY(tick);
-    return `<line class="grid-line" x1="${left}" y1="${y}" x2="${width - right}" y2="${y}" /><text class="axis-label" x="${left - 8}" y="${y + 4}" text-anchor="end">${tick.toFixed(1)}</text>`;
+    return `<line class="grid-line" x1="${left}" y1="${y}" x2="${width - right}" y2="${y}" /><text class="axis-label axis-label-y" x="${left - 10}" y="${y + 5}" text-anchor="end">${tick.toFixed(1)}</text>`;
   }).join('');
 
-  const xTickCount = options.compact ? 4 : 5;
+  const xTickCount = options.compact ? 3 : 4;
   const xTicks = Array.from({ length: xTickCount }, (_, i) => {
     const frac = xTickCount === 1 ? 0 : i / (xTickCount - 1);
     const xValue = minX + frac * (maxX - minX);
     return {
       x: scaleX(xValue),
-      label: formatAxisDate(xValue, rangeX < 3 * 86400000)
+      label: formatAxisDate(xValue, rangeX < 5 * 86400000)
     };
-  }).map((tick) => `<text class="axis-label" x="${tick.x}" y="${height - 12}" text-anchor="middle">${escapeHtml(tick.label)}</text>`).join('');
+  }).map((tick) => `<text class="axis-label axis-label-x" x="${tick.x}" y="${height - 10}" text-anchor="middle">${escapeHtml(tick.label)}</text>`).join('');
 
   const areaPaths = activeSeries.map((series, idx) => {
     if (!['observed', 'forecast'].includes(series.style)) return '';
@@ -289,12 +289,12 @@ function renderMiniChart(seriesList, title = 'River chart', subtitle = '', optio
   }, null);
 
   const peakLabel = peakPoint
-    ? `<g class="peak-callout"><circle cx="${scaleX(peakPoint.xMs)}" cy="${scaleY(peakPoint.y)}" r="5.5" fill="${palette.forecast}" stroke="#08111b" stroke-width="2" /><text class="peak-label" x="${Math.min(scaleX(peakPoint.xMs) + 10, width - 120)}" y="${Math.max(scaleY(peakPoint.y) - 10, top + 14)}">Peak ${peakPoint.y.toFixed(1)}</text></g>`
+    ? `<g class="peak-callout"><circle cx="${scaleX(peakPoint.xMs)}" cy="${scaleY(peakPoint.y)}" r="5.5" fill="${palette.forecast}" stroke="#08111b" stroke-width="2" /><rect class="label-pill" x="${Math.min(scaleX(peakPoint.xMs) + 4, width - 114)}" y="${Math.max(scaleY(peakPoint.y) - 24, top + 2)}" width="108" height="20" rx="6" ry="6" /><text class="peak-label" x="${Math.min(scaleX(peakPoint.xMs) + 12, width - 106)}" y="${Math.max(scaleY(peakPoint.y) - 10, top + 16)}">Peak ${peakPoint.y.toFixed(1)}</text></g>`
     : '';
 
   const forecastStartMs = activeSeries.filter((series) => series.style === 'forecast').map((series) => series.points[0]?.xMs).filter(Number.isFinite).sort((a, b) => a - b)[0];
   const forecastDivider = Number.isFinite(forecastStartMs)
-    ? `<line class="forecast-divider" x1="${scaleX(forecastStartMs)}" y1="${top}" x2="${scaleX(forecastStartMs)}" y2="${top + plotHeight}" /><text class="forecast-divider-label" x="${Math.min(scaleX(forecastStartMs) + 6, width - 92)}" y="${top + 30}">Forecast</text>`
+    ? `<line class="forecast-divider" x1="${scaleX(forecastStartMs)}" y1="${top}" x2="${scaleX(forecastStartMs)}" y2="${top + plotHeight}" /><rect class="label-pill" x="${Math.min(scaleX(forecastStartMs) + 4, width - 92)}" y="${top + 10}" width="78" height="20" rx="6" ry="6" /><text class="forecast-divider-label" x="${Math.min(scaleX(forecastStartMs) + 12, width - 84)}" y="${top + 24}">Forecast</text>`
     : '';
 
   const endPoints = activeSeries.map((series) => {
@@ -305,7 +305,7 @@ function renderMiniChart(seriesList, title = 'River chart', subtitle = '', optio
   }).join('');
 
   const nowInsideRange = nowMs >= minX && nowMs <= maxX;
-  const nowLine = nowInsideRange ? `<line class="now-line" x1="${scaleX(nowMs)}" y1="${top}" x2="${scaleX(nowMs)}" y2="${top + plotHeight}" /><text class="now-label" x="${Math.min(scaleX(nowMs) + 6, width - 52)}" y="${top + 14}">Now</text>` : '';
+  const nowLine = nowInsideRange ? `<line class="now-line" x1="${scaleX(nowMs)}" y1="${top}" x2="${scaleX(nowMs)}" y2="${top + plotHeight}" /><rect class="label-pill" x="${Math.min(scaleX(nowMs) + 4, width - 56)}" y="${top + 2}" width="42" height="18" rx="6" ry="6" /><text class="now-label" x="${Math.min(scaleX(nowMs) + 12, width - 48)}" y="${top + 15}">Now</text>` : '';
 
   const legend = activeSeries.map((series) => {
     const swatch = palette[series.style] || palette.secondary;
@@ -562,7 +562,7 @@ async function showStation(stationOrId) {
                 ? 'No official hydrograph was available here, so this chart adds a short synthetic forecast based on the latest observed stage trend.'
                 : 'Showing observed river conditions with a clear now marker.', { compact: true })}
         </div>
-        <p><a href="https://waterdata.usgs.gov/monitoring-location/${encodeURIComponent(station.stationId)}/" target="_blank" rel="noreferrer">USGS station page</a>${station.noaaHydrographUrl ? ` • <a href="${station.noaaHydrographUrl}" target="_blank" rel="noreferrer">NOAA hydrograph</a>` : ''}</p>
+        <p><a href="https://waterdata.usgs.gov/monitoring-location/${encodeURIComponent(station.stationId)}/" target="_blank" rel="noreferrer">USGS station page</a>${station.noaaHydrographUrl ? ` • <a href="${station.noaaHydrographUrl}" target="_blank" rel="noreferrer">NOAA water forecast</a>` : ''}${station.noaaLid ? ` • <a href="https://water.noaa.gov/gauges/${encodeURIComponent(station.noaaLid)}" target="_blank" rel="noreferrer">water.noaa.gov gauge</a>` : ''}</p>
         ${renderMiniChart(overviewChartSeries, usingModelGuidance ? 'Easy-read flow guidance' : 'Hydrograph forecast', forecast.quality === 'Official NOAA forecast'
           ? 'Observed stage plus official forecast, with forecast shading and peak labeling.'
           : forecast.quality === 'National Water Model guidance'
@@ -570,7 +570,7 @@ async function showStation(stationOrId) {
             : syntheticHydrographForecast
               ? 'Observed stage plus a short synthetic forecast generated from the latest trend.'
               : 'Recent stage with a clearer visual hydrograph and now marker.')}
-        <p>Forecast priority here is: <b>official NOAA forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then a short <b>synthetic hydrograph forecast</b> from the recent observed trend. Click anywhere on the map to snap to the nearest river sensor.</p>`;
+        <p>Forecast source priority: <b>official NOAA / water.noaa.gov forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then a short <b>synthetic hydrograph forecast</b> from the recent observed trend. Click anywhere on the map to snap to the nearest river sensor.</p>`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
       const latest = latestCanadaValues(series.realtime);
