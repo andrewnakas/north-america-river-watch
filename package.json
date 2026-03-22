@@ -9,6 +9,8 @@
     "build:data:refresh": "FORCE_REFRESH=1 NOAA_CONCURRENCY=20 node scripts/build-data.mjs",
     "build:site": "node scripts/build-site.mjs",
     "build:site:shell": "node scripts/build-site.mjs",
+    "ml:venv": "python3 -m pip install --user -U pip && python3 -m pip install --user -r requirements-ml.txt",
+    "ml:train:montana": "python3 scripts/train_montana_runoff_model.py",
     "build": "npm run build:data && npm run build:site"
   }
 }

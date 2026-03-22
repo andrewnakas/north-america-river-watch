@@ -31,6 +31,18 @@ python3 -m http.server -d dist 8080
 
 Then open <http://localhost:8080>.
 
+## Montana runoff ML baseline
+
+A first-pass Montana runoff training pipeline is included:
+
+```bash
+npm run build:data
+npm run ml:venv
+npm run ml:train:montana
+```
+
+See `ML_NOTES.md` for the modeling approach and output artifacts.
+
 ## Notes
 
 - “North America” coverage is strongest for the U.S. and Canada because those are the comprehensive, public, API-accessible national sources available for a static site.
