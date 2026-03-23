@@ -428,58 +428,94 @@ def nearest_grid_indices(values: np.ndarray, target: float) -> int:
     return int(np.abs(values - target).argmin())
 
 
+def fetch_openmeteo_fallback(lat: float, lon: float, start: date, end: date) -> pd.DataFrame:
+    url = (
+        "https://archive-api.open-meteo.com/v1/archive"
+        f"?latitude={lat}&longitude={lon}"
+        f"&start_date={start.isoformat()}&end_date={end.isoformat()}"
+        "&daily=temperature_2m_mean,temperature_2m_max,temperature_2m_min,precipitation_sum,rain_sum,snowfall_sum"
+        "&timezone=UTC"
+    )
+    resp = SESSION.get(url, timeout=60)
+    resp.raise_for_status()
+    payload = resp.json()
+    daily = payload.get("daily", {})
+    if not daily or not daily.get("time"):
+        return pd.DataFrame()
+    df = pd.DataFrame({
+        "date": pd.to_datetime(daily.get("time", [])),
+        "dyn_temp_c_mean": daily.get("temperature_2m_mean", []),
+        "dyn_temp_c_max": daily.get("temperature_2m_max", []),
+        "dyn_temp_c_min": daily.get("temperature_2m_min", []),
+        "dyn_precip_mm": daily.get("precipitation_sum", []),
+        "dyn_snow_flag": [1 if (v or 0) > 0 else 0 for v in daily.get("snowfall_sum", [])],
+    })
+    df["dyn_source"] = "open-meteo-fallback"
+    return df
+
+
 def fetch_dynamical_weather(lat: float, lon: float, start: date, end: date) -> pd.DataFrame:
     cache_path = cache_json_path(f"dynamical_{lat:.4f}_{lon:.4f}_{start.isoformat()}_{end.isoformat()}.parquet")
     if cache_path.exists():
         return pd.read_parquet(cache_path)
 
-    url = f"https://data.dynamical.org/noaa/gefs/analysis/latest.zarr?email={DYNAMICAL_EMAIL}"
-    ds = xr.open_zarr(url, consolidated=False)
-    lon_target = lon if lon >= -180 else lon + 360
-    time_slice = slice(np.datetime64(start.isoformat()), np.datetime64((end + timedelta(days=1)).isoformat()))
+    try:
+        url = f"https://data.dynamical.org/noaa/gefs/analysis/latest.zarr?email={DYNAMICAL_EMAIL}"
+        ds = xr.open_zarr(url, consolidated=None)
+        if "latitude" not in ds.variables and "latitude" not in ds.coords:
+            raise RuntimeError(f"Dynamical dataset missing latitude coord; found vars={list(ds.variables)[:20]}")
+        if "longitude" not in ds.variables and "longitude" not in ds.coords:
+            raise RuntimeError(f"Dynamical dataset missing longitude coord; found vars={list(ds.variables)[:20]}")
 
-    lat_idx = nearest_grid_indices(ds["latitude"].values, lat)
-    lon_vals = ds["longitude"].values
-    # dataset advertises -180..179.75; guard both conventions
-    lon_idx = nearest_grid_indices(lon_vals, lon if np.nanmin(lon_vals) < 0 else lon_target)
+        lon_target = lon if lon >= -180 else lon + 360
+        time_slice = slice(np.datetime64(start.isoformat()), np.datetime64((end + timedelta(days=1)).isoformat()))
 
-    subset = ds[[
-        "temperature_2m",
-        "maximum_temperature_2m",
-        "minimum_temperature_2m",
-        "precipitation_surface",
-        "categorical_snow_surface",
-        "relative_humidity_2m",
-        "total_cloud_cover_atmosphere",
-    ]].isel(latitude=lat_idx, longitude=lon_idx).sel(time=time_slice).load()
+        lat_idx = nearest_grid_indices(ds["latitude"].values, lat)
+        lon_vals = ds["longitude"].values
+        lon_idx = nearest_grid_indices(lon_vals, lon if np.nanmin(lon_vals) < 0 else lon_target)
 
-    frame = subset.to_dataframe().reset_index().sort_values("time")
-    if frame.empty:
-        return frame
-    frame["date"] = frame["time"].dt.floor("D")
-    if "precipitation_surface" in frame:
-        frame["precip_mm_step"] = frame["precipitation_surface"].astype(float).fillna(0) * 3 * 3600
-    else:
-        frame["precip_mm_step"] = 0.0
+        subset = ds[[
+            "temperature_2m",
+            "maximum_temperature_2m",
+            "minimum_temperature_2m",
+            "precipitation_surface",
+            "categorical_snow_surface",
+            "relative_humidity_2m",
+            "total_cloud_cover_atmosphere",
+        ]].isel(latitude=lat_idx, longitude=lon_idx).sel(time=time_slice).load()
 
-    daily = frame.groupby("date", as_index=False).agg({
-        "temperature_2m": "mean",
-        "maximum_temperature_2m": "max",
-        "minimum_temperature_2m": "min",
-        "precip_mm_step": "sum",
-        "categorical_snow_surface": "max",
-        "relative_humidity_2m": "mean",
-        "total_cloud_cover_atmosphere": "mean",
-    })
-    daily = daily.rename(columns={
-        "temperature_2m": "dyn_temp_c_mean",
-        "maximum_temperature_2m": "dyn_temp_c_max",
-        "minimum_temperature_2m": "dyn_temp_c_min",
-        "categorical_snow_surface": "dyn_snow_flag",
-        "relative_humidity_2m": "dyn_rh_pct_mean",
-        "total_cloud_cover_atmosphere": "dyn_cloud_pct_mean",
-        "precip_mm_step": "dyn_precip_mm",
-    })
+        frame = subset.to_dataframe().reset_index().sort_values("time")
+        if frame.empty:
+            raise RuntimeError("Dynamical subset returned no rows")
+        frame["date"] = frame["time"].dt.floor("D")
+        if "precipitation_surface" in frame:
+            frame["precip_mm_step"] = frame["precipitation_surface"].astype(float).fillna(0) * 3 * 3600
+        else:
+            frame["precip_mm_step"] = 0.0
+
+        daily = frame.groupby("date", as_index=False).agg({
+            "temperature_2m": "mean",
+            "maximum_temperature_2m": "max",
+            "minimum_temperature_2m": "min",
+            "precip_mm_step": "sum",
+            "categorical_snow_surface": "max",
+            "relative_humidity_2m": "mean",
+            "total_cloud_cover_atmosphere": "mean",
+        })
+        daily = daily.rename(columns={
+            "temperature_2m": "dyn_temp_c_mean",
+            "maximum_temperature_2m": "dyn_temp_c_max",
+            "minimum_temperature_2m": "dyn_temp_c_min",
+            "categorical_snow_surface": "dyn_snow_flag",
+            "relative_humidity_2m": "dyn_rh_pct_mean",
+            "total_cloud_cover_atmosphere": "dyn_cloud_pct_mean",
+            "precip_mm_step": "dyn_precip_mm",
+        })
+        daily["dyn_source"] = "dynamical-gefs-analysis"
+    except Exception as exc:
+        print(f"Dynamical weather fallback for {lat},{lon}: {exc}")
+        daily = fetch_openmeteo_fallback(lat, lon, start, end)
+
     daily.to_parquet(cache_path, index=False)
     return daily
 
