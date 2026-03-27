@@ -17,6 +17,7 @@ const cluster = L.markerClusterGroup();
 map.addLayer(cluster);
 
 const summaryEl = document.getElementById('summary');
+const startupStatus = { phase: 'boot' };
 const detailsEl = document.getElementById('details');
 const searchEl = document.getElementById('search');
 const forecastOnlyEl = document.getElementById('forecastOnly');
@@ -145,15 +146,21 @@ async function fetchJson(url) {
 
 async function fetchJsonWithFallback(relativePath) {
   let lastError = null;
+  const attempts = [];
   for (const base of DATA_BASES) {
     const url = `${base.replace(/\/$/, '')}/${relativePath.replace(/^\//, '')}`;
     try {
-      return await fetchJson(url);
+      const data = await fetchJson(url);
+      startupStatus.lastSuccess = url;
+      return data;
     } catch (error) {
+      attempts.push(`${url} → ${String(error?.message || error)}`);
       lastError = error;
     }
   }
-  throw lastError || new Error(`Unable to load ${relativePath}`);
+  const err = new Error(`Unable to load ${relativePath}. Attempts: ${attempts.join(' | ')}`);
+  err.attempts = attempts;
+  throw err;
 }
 
 async function fetchUsgsSeries(siteNo) {
@@ -677,21 +684,34 @@ searchEl.addEventListener('input', applyFilters);
 forecastOnlyEl.addEventListener('change', applyFilters);
 mlForecastOnlyEl?.addEventListener('change', applyFilters);
 
-const [stationData, sourceData, mlForecastData] = await Promise.all([
-  fetchJsonWithFallback('sensors/index.json'),
-  fetchJsonWithFallback('sources.json'),
-  fetchJsonWithFallback('ml/forecasts/montana_runoff_forecast.json').catch(() => null)
-]);
-mlForecastSummary = mlForecastData;
-if (mlForecastSummary?.stations?.length) {
-  for (const item of mlForecastSummary.stations) {
-    mlForecastByStationId.set(String(item.station_id), item);
+try {
+  startupStatus.phase = 'loading-index';
+  const [stationData, sourceData, mlForecastData] = await Promise.all([
+    fetchJsonWithFallback('sensors/index.json'),
+    fetchJsonWithFallback('sources.json'),
+    fetchJsonWithFallback('ml/forecasts/montana_runoff_forecast.json').catch(() => null)
+  ]);
+  if (!Array.isArray(stationData) || !stationData.length) {
+    throw new Error('Station index loaded but was empty or invalid.');
   }
+  mlForecastSummary = mlForecastData;
+  if (mlForecastSummary?.stations?.length) {
+    for (const item of mlForecastSummary.stations) {
+      mlForecastByStationId.set(String(item.station_id), item);
+    }
+  }
+  stations = stationData.map((station) => ({
+    ...station,
+    mlForecast: mlForecastByStationId.has(String(station.stationId || station.id || ''))
+  }));
+  filteredStations = stations;
+  renderMarkers();
+  startupStatus.phase = 'ready';
+  summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.matchedForecastStations.toLocaleString()} official NOAA forecast matches${mlForecastSummary?.stations_forecasted ? ` • ${mlForecastSummary.stations_forecasted.toLocaleString()} Montana ML forecast stations` : ''} • sensor details load on demand</div>`;
+} catch (error) {
+  console.error('Startup failed:', error);
+  startupStatus.phase = 'error';
+  const attempts = error?.attempts?.length ? `<div class="startup-attempts">${error.attempts.map((line) => `<div>${escapeHtml(line)}</div>`).join('')}</div>` : '';
+  summaryEl.innerHTML = `<div class="startup-error"><b>Failed to load station index.</b><div class="mt8">${escapeHtml(String(error?.message || error))}</div>${attempts}</div>`;
+  detailsEl.innerHTML = `<div class="card"><b>Startup failed.</b><br>The app could not load the station index, so the map cannot render sensors yet.</div>`;
 }
-stations = stationData.map((station) => ({
-  ...station,
-  mlForecast: mlForecastByStationId.has(String(station.stationId || station.id || ''))
-}));
-filteredStations = stations;
-renderMarkers();
-summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.matchedForecastStations.toLocaleString()} official NOAA forecast matches${mlForecastSummary?.stations_forecasted ? ` • ${mlForecastSummary.stations_forecasted.toLocaleString()} Montana ML forecast stations` : ''} • sensor details load on demand</div>`;
