@@ -25,6 +25,14 @@ jobs:
         with:
           node-version: 22
       - run: npm ci || npm install
+      - name: Pull published sensor-data branch into generated/
+        run: |
+          set -euo pipefail
+          rm -rf generated .sensor-data-worktree
+          git fetch origin sensor-data --depth=1
+          git worktree add .sensor-data-worktree FETCH_HEAD
+          cp -R .sensor-data-worktree/data generated
+          rm -rf .sensor-data-worktree
       - run: npm run build:site:shell
       - uses: actions/configure-pages@v5
         with:
