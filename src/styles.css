@@ -95,6 +95,18 @@ input[type="search"] {
 .site-map-subtitle, .site-map-coords { color: #9fb4c7; font-size: 0.92rem; }
 .detail-site-map { height: 320px; border-radius: 10px; overflow: hidden; border: 1px solid #24364a; }
 
+.forecast-chip { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px; border-radius: 999px; background: #11263a; border: 1px solid #294560; color: #d9e7f5; font-size: 0.85rem; }
+.ml-badge { color: #08111b; background: #ff6b9f; border-radius: 999px; padding: 2px 7px; font-size: 0.75rem; font-weight: 800; }
+.forecast-summary-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(160px,1fr)); gap: 8px; }
+.forecast-summary-grid .card, .forecast-day-grid .card { background: #102031; }
+.forecast-day-grid { display: grid; grid-template-columns: repeat(auto-fit,minmax(180px,1fr)); gap: 8px; margin-top: 10px; }
+.forecast-day-grid .date { color: #9fb4c7; font-size: 0.84rem; }
+.forecast-day-grid .value { color: #fff; font-weight: 800; font-size: 1.04rem; }
+.forecast-day-grid .meta { color: #c0d3e6; font-size: 0.88rem; }
+.forecast-ml-summary { background: #231520; border: 1px solid #6f314e; border-radius: 10px; padding: 12px; margin-top: 12px; }
+.forecast-ml-summary h3 { margin-top: 0; }
+.link-row { display: flex; flex-wrap: wrap; gap: 10px; }
+
 @media (max-width: 900px) {
   .page { padding: 10px; }
   #map { height: 52vh; min-height: 360px; }

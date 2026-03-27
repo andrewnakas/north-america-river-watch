@@ -9,8 +9,11 @@
     "build:data:refresh": "FORCE_REFRESH=1 NOAA_CONCURRENCY=20 node scripts/build-data.mjs",
     "build:site": "node scripts/build-site.mjs",
     "build:site:shell": "node scripts/build-site.mjs",
-    "ml:venv": "python3 -m pip install --user -U pip && python3 -m pip install --user -r requirements-ml.txt",
-    "ml:train:montana": "python3 scripts/train_montana_runoff_model.py",
+    "ml:venv": "python3 -m venv .venv && .venv/bin/pip install -U pip && .venv/bin/pip install -r requirements-ml.txt",
+    "ml:train:montana": "bash -lc '[ -x .venv/bin/python ] && .venv/bin/python scripts/train_montana_runoff_model.py || python3 scripts/train_montana_runoff_model.py'",
+    "ml:forecast:montana": "bash -lc '[ -x .venv/bin/python ] && .venv/bin/python scripts/generate_montana_runoff_forecast.py || python3 scripts/generate_montana_runoff_forecast.py'",
+    "ml:train:yellowstone-gallatin": "bash -lc 'MT_TARGET_GROUP=yellowstone-gallatin; export MT_TARGET_GROUP; [ -x .venv/bin/python ] && .venv/bin/python scripts/train_montana_runoff_model.py || python3 scripts/train_montana_runoff_model.py'",
+    "ml:forecast:yellowstone-gallatin": "bash -lc 'MT_TARGET_GROUP=yellowstone-gallatin; export MT_TARGET_GROUP; [ -x .venv/bin/python ] && .venv/bin/python scripts/generate_montana_runoff_forecast.py || python3 scripts/generate_montana_runoff_forecast.py'",
     "build": "npm run build:data && npm run build:site"
   }
 }

@@ -28,7 +28,8 @@ jobs:
       - run: npm ci || npm install
       - run: pip install -r requirements-ml.txt
       - run: npm run build:data:fast
-      - run: MT_STATION_LIMIT=6 MT_LOOKBACK_DAYS=120 npm run ml:train:montana
+      - run: MT_TARGET_GROUP=yellowstone-gallatin MT_STATION_LIMIT=9 MT_LOOKBACK_DAYS=180 python3 scripts/train_montana_runoff_model.py
+      - run: MT_TARGET_GROUP=yellowstone-gallatin python3 scripts/generate_montana_runoff_forecast.py
       - name: Publish generated data to sensor-data branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

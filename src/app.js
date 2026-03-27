@@ -20,6 +20,7 @@ const summaryEl = document.getElementById('summary');
 const detailsEl = document.getElementById('details');
 const searchEl = document.getElementById('search');
 const forecastOnlyEl = document.getElementById('forecastOnly');
+const mlForecastOnlyEl = document.getElementById('mlForecastOnly');
 const sidebarEl = document.querySelector('.sidebar');
 const mapEl = document.getElementById('map');
 
@@ -28,6 +29,8 @@ let filteredStations = [];
 let markers = [];
 let detailMap = null;
 let activeStationId = null;
+let mlForecastSummary = null;
+let mlForecastByStationId = new Map();
 
 mapEl.addEventListener('mouseenter', () => map.scrollWheelZoom.enable());
 mapEl.addEventListener('mouseleave', () => map.scrollWheelZoom.disable());
@@ -48,6 +51,7 @@ function haversineKm(a, b) {
 }
 
 function colorForStation(station) {
+  if (station.mlForecast) return '#ff6b9f';
   if (station.country === 'CA') return '#ff8f3f';
   if (station.noaaForecast) return '#4dd0e1';
   return '#8fd14f';
@@ -61,7 +65,7 @@ function markerFor(station) {
     fillColor: colorForStation(station),
     fillOpacity: 0.9
   });
-  marker.bindTooltip(`${station.name}${station.noaaForecast ? ' • official NOAA forecast' : ''}`);
+  marker.bindTooltip(`${station.name}${station.mlForecast ? ' • Montana ML runoff forecast' : station.noaaForecast ? ' • official NOAA forecast' : ''}`);
   marker.on('click', () => showStation(station));
   return marker;
 }
@@ -70,17 +74,62 @@ function renderMarkers() {
   cluster.clearLayers();
   markers = filteredStations.map(markerFor);
   cluster.addLayers(markers);
-  summaryEl.innerHTML = `Loaded <b>${filteredStations.length.toLocaleString()}</b> river sensors. Hover the map and use your mouse wheel to zoom. <span class="legend-dot" style="background:#8fd14f"></span>USGS observed <span class="legend-dot" style="background:#4dd0e1"></span>USGS + official NOAA forecast <span class="legend-dot" style="background:#ff8f3f"></span>Canada observed`;
+  const mlCount = filteredStations.filter((station) => station.mlForecast).length;
+  summaryEl.innerHTML = `Loaded <b>${filteredStations.length.toLocaleString()}</b> river sensors. Hover the map and use your mouse wheel to zoom. <span class="legend-dot" style="background:#8fd14f"></span>USGS observed <span class="legend-dot" style="background:#4dd0e1"></span>USGS + official NOAA forecast <span class="legend-dot" style="background:#ff6b9f"></span>Montana ML runoff <span class="legend-dot" style="background:#ff8f3f"></span>Canada observed${mlCount ? ` <span class="summary-ml-line">• ${mlCount} ML forecast stations highlighted</span>` : ''}`;
 }
 
 function stationHasForecastCapability(station) {
-  return Boolean(station?.forecast || station?.noaaForecast || station?.noaaForecastPath);
+  return Boolean(station?.forecast || station?.noaaForecast || station?.noaaForecastPath || station?.mlForecast);
+}
+
+function stationMatchesMlForecast(station) {
+  return Boolean(station?.mlForecast || mlForecastByStationId.has(String(station?.stationId || station?.id || '')));
+}
+
+function renderMlForecastCard(station) {
+  const forecast = mlForecastByStationId.get(String(station.stationId || station.id || ''));
+  if (!forecast) return '';
+  const preds = forecast.predictions || [];
+  const first = preds[0] || null;
+  const peak = preds.reduce((best, point) => (!best || point.predicted_discharge_cfs > best.predicted_discharge_cfs ? point : best), null);
+  const latest = forecast.latest_observed_discharge_cfs;
+  const delta = first && Number.isFinite(latest) ? first.predicted_discharge_cfs - latest : null;
+  const trend = delta == null ? 'n/a' : delta > 5 ? 'rising' : delta < -5 ? 'falling' : 'steady';
+  const chartSeries = [
+    latest != null ? { label: 'Latest observed discharge', style: 'observed', points: [{ x: new Date(forecast.generated_at).toISOString(), y: latest }] } : null,
+    preds.length ? { label: 'Montana ML forecast discharge', style: 'forecast', points: preds.map((p) => ({ x: p.date, y: p.predicted_discharge_cfs })) } : null
+  ].filter(Boolean);
+  const dayCards = preds.slice(0, 7).map((p) => `
+    <div class="card">
+      <div class="date">${escapeHtml(formatAxisDate(p.date))}</div>
+      <div class="value">${Number(p.predicted_discharge_cfs).toFixed(1)} cfs</div>
+      <div class="meta">${p.temp_c_mean ?? 'n/a'}°C mean • ${p.precip_mm ?? 'n/a'} mm precip</div>
+      <div class="meta">degree day ${p.degree_day_c ?? 'n/a'} • SWE ${p.snotel_wteq_in ?? 'n/a'} in</div>
+    </div>`).join('');
+
+  return `
+    <div class="forecast-ml-summary">
+      <div class="header-line"><span class="ml-badge">ML</span><h3>Montana runoff forecast</h3></div>
+      <p class="detail-intro">Experimental 7-day discharge forecast for this Yellowstone/Gallatin corridor gauge. This is a modeled runoff layer, separate from official NOAA hydrographs.</p>
+      <div class="forecast-summary-grid">
+        <div class="card"><b>Latest observed</b><br>${latest ?? 'n/a'} cfs</div>
+        <div class="card"><b>Next predicted</b><br>${first ? first.predicted_discharge_cfs.toFixed(1) : 'n/a'} cfs</div>
+        <div class="card"><b>Peak predicted</b><br>${peak ? peak.predicted_discharge_cfs.toFixed(1) : 'n/a'} cfs</div>
+        <div class="card"><b>Peak date</b><br>${peak ? escapeHtml(formatAxisDate(peak.date)) : 'n/a'}</div>
+        <div class="card"><b>Near-term signal</b><br>${trend}</div>
+        <div class="card"><b>Model scope</b><br>${escapeHtml(forecast.target_group || 'montana')}</div>
+      </div>
+      ${chartSeries.length ? renderMiniChart(chartSeries, 'Montana ML discharge forecast', 'Latest observed discharge plus 7-day modeled discharge outlook.', { compact: true }) : ''}
+      <div class="forecast-day-grid">${dayCards}</div>
+      <p class="note-outro">Generated ${escapeHtml(formatDate(forecast.generated_at))}. Source weather: Open-Meteo forecast. Use this as an experimental planning layer, not a safety-critical forecast.</p>
+    </div>`;
 }
 
 function applyFilters() {
   const q = searchEl.value.trim().toLowerCase();
   filteredStations = stations.filter((station) => {
     if (forecastOnlyEl.checked && !stationHasForecastCapability(station)) return false;
+    if (mlForecastOnlyEl?.checked && !stationMatchesMlForecast(station)) return false;
     if (!q) return true;
     const hay = [station.name, station.waterbody, station.state, station.stationId, station.network, station.country].join(' ').toLowerCase();
     return hay.includes(q);
@@ -540,8 +589,10 @@ async function showStation(stationOrId) {
         ...(syntheticHydrographForecast ? [syntheticHydrographForecast] : []),
         primaryHistorySeries
       ].filter(Boolean);
+      const mlForecast = station.stationId ? await fetchJsonWithFallback(`ml/forecasts/${encodeURIComponent(station.stationId)}.json`).catch(() => null) : null;
+      if (mlForecast) mlForecastByStationId.set(String(station.stationId), mlForecast);
       body = `
-        <h2>${escapeHtml(station.name)}</h2>
+        <div class="station-title-row"><h2>${escapeHtml(station.name)}</h2>${mlForecast ? '<span class="forecast-chip"><span class="ml-badge">ML</span> Montana runoff forecast available</span>' : ''}</div>
         <div class="meta">USGS observed • ${station.state} • ${escapeHtml(station.stationId)}${station.noaaLid ? ` • NOAA ${escapeHtml(station.noaaLid)}` : ''}</div>
         <div class="kv">
           <div class="card"><b>Current stage</b><br>${currentStage ?? 'n/a'} ${escapeHtml(currentStageSeries?.unit || '')}</div>
@@ -570,13 +621,16 @@ async function showStation(stationOrId) {
             : syntheticHydrographForecast
               ? 'Observed stage plus a short synthetic forecast generated from the latest trend.'
               : 'Recent stage with a clearer visual hydrograph and now marker.')}
-        <p>Forecast source priority: <b>official NOAA / water.noaa.gov forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then a short <b>synthetic hydrograph forecast</b> from the recent observed trend. Click anywhere on the map to snap to the nearest river sensor.</p>`;
+        <p>Forecast source priority: <b>official NOAA / water.noaa.gov forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then a short <b>synthetic hydrograph forecast</b> from the recent observed trend. Click anywhere on the map to snap to the nearest river sensor.</p>
+        ${mlForecast ? renderMlForecastCard(mlForecast) : ''}`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
       const latest = latestCanadaValues(series.realtime);
       const dailyPoints = (series.daily.features || []).map((f) => ({ x: f.properties.DATE, y: f.properties.LEVEL ?? f.properties.DISCHARGE })).filter((p) => p.y != null);
+      const mlForecast = station.stationId ? await fetchJsonWithFallback(`ml/forecasts/${encodeURIComponent(station.stationId)}.json`).catch(() => null) : null;
+      if (mlForecast) mlForecastByStationId.set(String(station.stationId), mlForecast);
       body = `
-        <h2>${escapeHtml(station.name)}</h2>
+        <div class="station-title-row"><h2>${escapeHtml(station.name)}</h2>${mlForecast ? '<span class="forecast-chip"><span class="ml-badge">ML</span> Montana runoff forecast available</span>' : ''}</div>
         <div class="meta">Environment Canada observed • ${station.state} • ${escapeHtml(station.stationId)}</div>
         <div class="kv">
           <div class="card"><b>Current level</b><br>${latest.level ?? 'n/a'}</div>
@@ -621,12 +675,23 @@ map.on('click', (event) => {
 
 searchEl.addEventListener('input', applyFilters);
 forecastOnlyEl.addEventListener('change', applyFilters);
+mlForecastOnlyEl?.addEventListener('change', applyFilters);
 
-const [stationData, sourceData] = await Promise.all([
+const [stationData, sourceData, mlForecastData] = await Promise.all([
   fetchJsonWithFallback('sensors/index.json'),
-  fetchJsonWithFallback('sources.json')
+  fetchJsonWithFallback('sources.json'),
+  fetchJsonWithFallback('ml/forecasts/montana_runoff_forecast.json').catch(() => null)
 ]);
-stations = stationData;
-filteredStations = stationData;
+mlForecastSummary = mlForecastData;
+if (mlForecastSummary?.stations?.length) {
+  for (const item of mlForecastSummary.stations) {
+    mlForecastByStationId.set(String(item.station_id), item);
+  }
+}
+stations = stationData.map((station) => ({
+  ...station,
+  mlForecast: mlForecastByStationId.has(String(station.stationId || station.id || ''))
+}));
+filteredStations = stations;
 renderMarkers();
-summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.matchedForecastStations.toLocaleString()} official NOAA forecast matches • sensor details load on demand</div>`;
+summaryEl.innerHTML += `<div style="margin-top:8px;color:#9fb4c7">Built ${new Date(sourceData.generatedAt).toLocaleString()} • ${sourceData.usgsStations.toLocaleString()} USGS • ${sourceData.canadaStations.toLocaleString()} Canada • ${sourceData.matchedForecastStations.toLocaleString()} official NOAA forecast matches${mlForecastSummary?.stations_forecasted ? ` • ${mlForecastSummary.stations_forecasted.toLocaleString()} Montana ML forecast stations` : ''} • sensor details load on demand</div>`;

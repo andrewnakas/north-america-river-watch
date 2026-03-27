@@ -13,6 +13,7 @@ Leaflet map of river sensors across the public sources I could reliably wire tog
 - Lets you click a marker or click anywhere on the map to snap to the nearest river sensor
 - Shows current and recent historical river data
 - Shows NOAA forecast series when a U.S. gauge can be matched to NWPS
+- Highlights Yellowstone/Gallatin corridor gauges with experimental Montana ML runoff forecasts
 - Publishes automatically to GitHub Pages via Actions
 
 ## Why the data pipeline is split
@@ -27,6 +28,22 @@ NOAA NWPS does **not** expose permissive browser CORS headers for the endpoints 
 npm install
 npm run build
 python3 -m http.server -d dist 8080
+```
+
+For the experimental Montana ML runoff path:
+
+```bash
+npm run ml:venv
+npm run ml:train:montana
+npm run ml:forecast:montana
+```
+
+For the Yellowstone / Gallatin corridor subset around Big Sky, Bozeman, and Livingston:
+
+```bash
+npm run ml:venv
+npm run ml:train:yellowstone-gallatin
+npm run ml:forecast:yellowstone-gallatin
 ```
 
 Then open <http://localhost:8080>.
