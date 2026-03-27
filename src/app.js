@@ -87,8 +87,10 @@ function stationMatchesMlForecast(station) {
   return Boolean(station?.mlForecast || mlForecastByStationId.has(String(station?.stationId || station?.id || '')));
 }
 
-function renderMlForecastCard(station) {
-  const forecast = mlForecastByStationId.get(String(station.stationId || station.id || ''));
+function renderMlForecastCard(stationOrForecast) {
+  const forecast = stationOrForecast?.predictions
+    ? stationOrForecast
+    : mlForecastByStationId.get(String(stationOrForecast?.stationId || stationOrForecast?.id || ''));
   if (!forecast) return '';
   const preds = forecast.predictions || [];
   const first = preds[0] || null;
@@ -598,6 +600,19 @@ async function showStation(stationOrId) {
       ].filter(Boolean);
       const mlForecast = station.stationId ? await fetchJsonWithFallback(`ml/forecasts/${encodeURIComponent(station.stationId)}.json`).catch(() => null) : null;
       if (mlForecast) mlForecastByStationId.set(String(station.stationId), mlForecast);
+      const mlChartSeries = mlForecast
+        ? [
+            recentDailyFlow ? { ...recentDailyFlow, label: 'Recent daily discharge', style: 'history' } : null,
+            currentFlowSeries ? { ...currentFlowSeries, label: 'Observed discharge', style: 'observed' } : null,
+            (mlForecast.predictions || []).length
+              ? {
+                  label: 'Montana ML forecast discharge',
+                  style: 'forecast',
+                  points: mlForecast.predictions.map((p) => ({ x: p.date, y: Number(p.predicted_discharge_cfs) })).filter((p) => Number.isFinite(p.y))
+                }
+              : null
+          ].filter(Boolean)
+        : [];
       body = `
         <div class="station-title-row"><h2>${escapeHtml(station.name)}</h2>${mlForecast ? '<span class="forecast-chip"><span class="ml-badge">ML</span> Montana runoff forecast available</span>' : ''}</div>
         <div class="meta">USGS observed • ${station.state} • ${escapeHtml(station.stationId)}${station.noaaLid ? ` • NOAA ${escapeHtml(station.noaaLid)}` : ''}</div>
@@ -629,7 +644,8 @@ async function showStation(stationOrId) {
               ? 'Observed stage plus a short synthetic forecast generated from the latest trend.'
               : 'Recent stage with a clearer visual hydrograph and now marker.')}
         <p>Forecast source priority: <b>official NOAA / water.noaa.gov forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then a short <b>synthetic hydrograph forecast</b> from the recent observed trend. Click anywhere on the map to snap to the nearest river sensor.</p>
-        ${mlForecast ? renderMlForecastCard(mlForecast) : ''}`;
+        ${mlChartSeries.length ? renderMiniChart(mlChartSeries, 'Montana runoff forecast', 'Observed discharge history merged with the experimental 7-day Montana ML discharge forecast.') : ''}
+        ${mlForecast ? renderMlForecastCard(station) : ''}`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);
       const latest = latestCanadaValues(series.realtime);
