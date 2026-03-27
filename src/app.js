@@ -600,15 +600,20 @@ async function showStation(stationOrId) {
       ].filter(Boolean);
       const mlForecast = station.stationId ? await fetchJsonWithFallback(`ml/forecasts/${encodeURIComponent(station.stationId)}.json`).catch(() => null) : null;
       if (mlForecast) mlForecastByStationId.set(String(station.stationId), mlForecast);
+      const observedDischargeSeries = currentFlowSeries ? { ...currentFlowSeries, label: 'Observed discharge', style: 'observed' } : null;
+      const mlForecastPoints = (mlForecast?.predictions || []).map((p) => ({ x: p.date, y: Number(p.predicted_discharge_cfs) })).filter((p) => Number.isFinite(p.y));
+      const bridgedMlForecastPoints = observedDischargeSeries?.points?.length && mlForecastPoints.length
+        ? [observedDischargeSeries.points.at(-1), ...mlForecastPoints]
+        : mlForecastPoints;
       const mlChartSeries = mlForecast
         ? [
             recentDailyFlow ? { ...recentDailyFlow, label: 'Recent daily discharge', style: 'history' } : null,
-            currentFlowSeries ? { ...currentFlowSeries, label: 'Observed discharge', style: 'observed' } : null,
-            (mlForecast.predictions || []).length
+            observedDischargeSeries,
+            bridgedMlForecastPoints.length
               ? {
                   label: 'Montana ML forecast discharge',
                   style: 'forecast',
-                  points: mlForecast.predictions.map((p) => ({ x: p.date, y: Number(p.predicted_discharge_cfs) })).filter((p) => Number.isFinite(p.y))
+                  points: bridgedMlForecastPoints
                 }
               : null
           ].filter(Boolean)

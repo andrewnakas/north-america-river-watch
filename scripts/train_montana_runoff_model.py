@@ -186,6 +186,8 @@ def load_mt_river_stations() -> List[dict]:
         return selected
 
     mt.sort(key=lambda s: (not bool(s.get("noaaForecast")), s.get("stationId")))
+    if STATION_LIMIT <= 0:
+        return mt
     candidate_limit = max(STATION_LIMIT, STATION_LIMIT * max(1, STATION_CANDIDATE_MULTIPLIER))
     return mt[:candidate_limit]
 
