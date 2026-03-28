@@ -110,8 +110,9 @@ function renderMlForecastCard(stationOrForecast) {
     ? [observedPoint, ...forecastPoints]
     : forecastPoints;
   const chartSeries = [
-    observedPoint ? { label: 'Latest observed discharge', style: 'observed', points: [observedPoint] } : null,
-    bridgedForecastPoints.length ? { label: 'Montana ML forecast discharge', style: 'forecast', points: bridgedForecastPoints } : null
+    bridgedForecastPoints.length
+      ? { label: 'Montana ML forecast discharge', style: 'forecast', points: bridgedForecastPoints }
+      : (observedPoint ? { label: 'Latest observed discharge', style: 'observed', points: [observedPoint] } : null)
   ].filter(Boolean);
   const dayCards = preds.slice(0, 7).map((p) => `
     <div class="card">
@@ -611,8 +612,15 @@ async function showStation(stationOrId) {
       ].filter(Boolean);
       const mlForecast = station.stationId ? await fetchJsonWithFallback(`ml/forecasts/${encodeURIComponent(station.stationId)}.json`).catch(() => null) : null;
       if (mlForecast) mlForecastByStationId.set(String(station.stationId), mlForecast);
-      const observedDischargeSeries = currentFlowSeries ? { ...currentFlowSeries, label: 'Observed discharge', style: 'observed' } : null;
-      const observedNowPoint = observedDischargeSeries?.points?.at(-1) || null;
+      const historyLastPoint = recentDailyFlow?.points?.at(-1) || null;
+      const observedRawSeries = currentFlowSeries ? { ...currentFlowSeries, label: 'Observed discharge', style: 'observed' } : null;
+      const observedDischargeSeries = observedRawSeries
+        ? {
+            ...observedRawSeries,
+            points: historyLastPoint ? [historyLastPoint, ...observedRawSeries.points] : observedRawSeries.points
+          }
+        : null;
+      const observedNowPoint = observedRawSeries?.points?.at(-1) || observedDischargeSeries?.points?.at(-1) || null;
       const observedNowMs = observedNowPoint ? new Date(observedNowPoint.x).getTime() : null;
       const startOfObservedDayMs = Number.isFinite(observedNowMs) ? new Date(new Date(observedNowMs).toDateString()).getTime() : null;
       const mlForecastPoints = (mlForecast?.predictions || []).map((p, index) => {
