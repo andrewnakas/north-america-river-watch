@@ -3,6 +3,9 @@ name: Build and Deploy Pages
 on:
   push:
     branches: [main]
+  workflow_run:
+    workflows: ["Refresh sensor data"]
+    types: [completed]
   workflow_dispatch:
 
 permissions:
@@ -16,6 +19,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
