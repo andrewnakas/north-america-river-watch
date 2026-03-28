@@ -56,6 +56,23 @@ def fetch_openmeteo_forecast(lat: float, lon: float, days: int) -> pd.DataFrame:
     }).sort_values("date")
 
 
+def fetch_forecast_weather(lat: float, lon: float, days: int) -> pd.DataFrame:
+    try:
+        hrrr = mt.fetch_hrrr_forecast(lat, lon, min(days, 3))
+    except Exception as exc:
+        print(f"HRRR forecast fallback for {lat},{lon}: {exc}")
+        hrrr = pd.DataFrame()
+    fallback = fetch_openmeteo_forecast(lat, lon, days)
+    if hrrr.empty:
+        return fallback
+    if fallback.empty:
+        return hrrr.head(days)
+    used_dates = set(pd.to_datetime(hrrr["date"]).dt.date.tolist())
+    tail = fallback[~pd.to_datetime(fallback["date"]).dt.date.isin(used_dates)].copy()
+    merged = pd.concat([hrrr, tail], ignore_index=True).sort_values("date").drop_duplicates(subset=["date"], keep="first")
+    return merged.head(days).reset_index(drop=True)
+
+
 def latest_non_null(series: Optional[pd.Series]):
     if series is None:
         return None
@@ -85,8 +102,8 @@ def build_station_forecast_rows(station: dict, features: List[str]) -> Optional[
     if runoff.empty or len(runoff) < 14:
         return None
 
-    weather_fc = fetch_openmeteo_forecast(station["latitude"], station["longitude"], FORECAST_DAYS)
-    if weather_fc.empty:
+    weather_fc = fetch_forecast_weather(station["latitude"], station["longitude"], FORECAST_DAYS)
+    if weather_fc.empty or "date" not in weather_fc.columns:
         return None
 
     history_weather = mt.fetch_dynamical_weather(station["latitude"], station["longitude"], history_start, history_end)
@@ -123,6 +140,14 @@ def build_station_forecast_rows(station: dict, features: List[str]) -> Optional[
                 "nohrsc_snowfall_cm": latest_non_null(nohrsc_df.get("nohrsc_snowfall_cm")),
             }
 
+    site_elev_m = mt.fetch_location_elevation_m(station["latitude"], station["longitude"])
+    snotel_elev_m = mt._to_meters((snotel_neighbor.meta or {}).get("elevation")) if snotel_neighbor else None
+    nohrsc_elev_m = mt._to_meters((nohrsc_neighbor.meta or {}).get("elev_m")) if nohrsc_neighbor else None
+    base["site_elev_m"] = site_elev_m
+    base["snotel_elev_m"] = snotel_elev_m
+    base["nohrsc_elev_m"] = nohrsc_elev_m
+    base["snotel_minus_site_elev_m"] = None if site_elev_m is None or snotel_elev_m is None else snotel_elev_m - site_elev_m
+    base["nohrsc_minus_site_elev_m"] = None if site_elev_m is None or nohrsc_elev_m is None else nohrsc_elev_m - site_elev_m
     base = mt.add_lag_features(base, "discharge_cfs", "q")
     if "dyn_precip_mm" in base:
         base = mt.add_lag_features(base, "dyn_precip_mm", "dyn_precip")
@@ -141,44 +166,53 @@ def build_station_forecast_rows(station: dict, features: List[str]) -> Optional[
         "latest_snotel": latest_snotel,
         "latest_nohrsc": latest_nohrsc,
         "feature_columns": features,
+        "site_elev_m": site_elev_m,
+        "snotel_elev_m": snotel_elev_m,
+        "nohrsc_elev_m": nohrsc_elev_m,
     }
 
 
 def evolve_snow_state(prev_row: pd.Series, wx: pd.Series, state: dict) -> dict:
     temp_mean = float(wx.get("dyn_temp_c_mean") or 0.0)
     precip_mm = float(wx.get("dyn_precip_mm") or 0.0)
-    snowfall_factor = 1.0 if float(wx.get("dyn_snow_flag") or 0.0) > 0 else 0.0
-    degree_day = max(0.0, temp_mean - mt.DEGREE_DAY_BASE_C)
-
     next_state = dict(state)
+
+    site_elev_m = next_state.get("site_elev_m")
+    snotel_temp_c = mt.adjust_temp_for_elevation(temp_mean, site_elev_m, next_state.get("snotel_elev_m"))
+    nohrsc_temp_c = mt.adjust_temp_for_elevation(temp_mean, site_elev_m, next_state.get("nohrsc_elev_m"))
+    snotel_snow_frac = mt.snow_fraction_from_temp(snotel_temp_c if not pd.isna(snotel_temp_c) else temp_mean)
+    nohrsc_snow_frac = mt.snow_fraction_from_temp(nohrsc_temp_c if not pd.isna(nohrsc_temp_c) else temp_mean)
+    snotel_degree_day = max(0.0, (snotel_temp_c if not pd.isna(snotel_temp_c) else temp_mean) - mt.DEGREE_DAY_BASE_C)
+    nohrsc_degree_day = max(0.0, (nohrsc_temp_c if not pd.isna(nohrsc_temp_c) else temp_mean) - mt.DEGREE_DAY_BASE_C)
 
     snotel_wteq = next_state.get("snotel_wteq_in")
     if snotel_wteq is not None:
-        snow_gain_in = (precip_mm / 25.4) * snowfall_factor
-        melt_in = min(float(snotel_wteq), degree_day * 0.06)
+        snow_gain_in = (precip_mm / 25.4) * snotel_snow_frac
+        melt_in = min(float(snotel_wteq), snotel_degree_day * 0.06)
         next_state["snotel_wteq_in"] = max(0.0, float(snotel_wteq) + snow_gain_in - melt_in)
         if next_state.get("snotel_snwd_in") is not None:
             snwd = float(next_state["snotel_snwd_in"])
-            snowdepth_gain = (precip_mm / 25.4) * snowfall_factor * 8.0
-            snowdepth_loss = degree_day * 0.4
+            snowdepth_gain = (precip_mm / 25.4) * snotel_snow_frac * 8.0
+            snowdepth_loss = snotel_degree_day * 0.4
             next_state["snotel_snwd_in"] = max(0.0, snwd + snowdepth_gain - snowdepth_loss)
-        next_state["snotel_tavg_f"] = temp_mean * 9.0 / 5.0 + 32.0
-        next_state["snotel_tmax_f"] = float(wx.get("dyn_temp_c_max") or temp_mean) * 9.0 / 5.0 + 32.0
-        next_state["snotel_tmin_f"] = float(wx.get("dyn_temp_c_min") or temp_mean) * 9.0 / 5.0 + 32.0
+        s_temp = snotel_temp_c if not pd.isna(snotel_temp_c) else temp_mean
+        next_state["snotel_tavg_f"] = s_temp * 9.0 / 5.0 + 32.0
+        next_state["snotel_tmax_f"] = float(wx.get("dyn_temp_c_max") or s_temp) * 9.0 / 5.0 + 32.0
+        next_state["snotel_tmin_f"] = float(wx.get("dyn_temp_c_min") or s_temp) * 9.0 / 5.0 + 32.0
         prev_prec = next_state.get("snotel_prec_in")
         next_state["snotel_prec_in"] = (float(prev_prec) if prev_prec is not None else 0.0) + (precip_mm / 25.4)
 
     nohrsc_sd = next_state.get("nohrsc_snowdepth_cm")
     if nohrsc_sd is not None:
-        gain_cm = precip_mm * snowfall_factor
-        loss_cm = degree_day * 1.2
+        gain_cm = precip_mm * nohrsc_snow_frac
+        loss_cm = nohrsc_degree_day * 1.2
         next_state["nohrsc_snowdepth_cm"] = max(0.0, float(nohrsc_sd) + gain_cm - loss_cm)
     nohrsc_swe = next_state.get("nohrsc_swe_mm")
     if nohrsc_swe is not None:
-        gain_mm = precip_mm * snowfall_factor
-        loss_mm = degree_day * 1.5
+        gain_mm = precip_mm * nohrsc_snow_frac
+        loss_mm = nohrsc_degree_day * 1.5
         next_state["nohrsc_swe_mm"] = max(0.0, float(nohrsc_swe) + gain_mm - loss_mm)
-    next_state["nohrsc_snowfall_cm"] = precip_mm * snowfall_factor
+    next_state["nohrsc_snowfall_cm"] = precip_mm * nohrsc_snow_frac / 10.0
     return next_state
 
 
@@ -186,7 +220,7 @@ def predict_station(model, features: List[str], station_bundle: dict) -> dict:
     history = station_bundle["base"].copy()
     weather_fc = station_bundle["weather_fc"]
     station = station_bundle["station"]
-    snow_state = {**station_bundle.get("latest_snotel", {}), **station_bundle.get("latest_nohrsc", {})}
+    snow_state = {**station_bundle.get("latest_snotel", {}), **station_bundle.get("latest_nohrsc", {}), "site_elev_m": station_bundle.get("site_elev_m"), "snotel_elev_m": station_bundle.get("snotel_elev_m"), "nohrsc_elev_m": station_bundle.get("nohrsc_elev_m")}
 
     recent_q = [float(v) for v in history["discharge_cfs"].dropna().tail(30).tolist()]
     recent_q7 = [float(v) for v in history["discharge_cfs"].dropna().tail(7).tolist()]
@@ -211,6 +245,9 @@ def predict_station(model, features: List[str], station_bundle: dict) -> dict:
             "longitude": station["longitude"],
             "snotel_distance_km": round(station_bundle["snotel_neighbor"].distance_km, 2) if station_bundle.get("snotel_neighbor") else np.nan,
             "nohrsc_distance_km": round(station_bundle["nohrsc_neighbor"].distance_km, 2) if station_bundle.get("nohrsc_neighbor") else np.nan,
+            "site_elev_m": station_bundle.get("site_elev_m"),
+            "snotel_elev_m": station_bundle.get("snotel_elev_m"),
+            "nohrsc_elev_m": station_bundle.get("nohrsc_elev_m"),
             **snow_state,
         }
 
@@ -235,12 +272,14 @@ def predict_station(model, features: List[str], station_bundle: dict) -> dict:
         predictions.append({
             "date": pd.Timestamp(wx["date"]).date().isoformat(),
             "predicted_discharge_cfs": round(pred, 2),
-            "weather_source": row.get("dyn_source", "open-meteo-forecast"),
+            "weather_source": row.get("dyn_source", "forecast-weather"),
             "precip_mm": None if pd.isna(row.get("dyn_precip_mm", np.nan)) else round(float(row.get("dyn_precip_mm")), 2),
             "temp_c_mean": None if pd.isna(row.get("dyn_temp_c_mean", np.nan)) else round(float(row.get("dyn_temp_c_mean")), 2),
             "snow_flag": int(row.get("dyn_snow_flag") or 0),
             "degree_day_c": None if pd.isna(feature_row.get("degree_day_c", np.nan)) else round(float(feature_row.get("degree_day_c")), 2),
             "rain_on_snow_proxy": None if pd.isna(feature_row.get("rain_on_snow_proxy", np.nan)) else round(float(feature_row.get("rain_on_snow_proxy")), 3),
+            "rain_on_snow_proxy_elev": None if pd.isna(feature_row.get("rain_on_snow_proxy_elev", np.nan)) else round(float(feature_row.get("rain_on_snow_proxy_elev")), 3),
+            "temp_at_upper_basin_c": None if pd.isna(feature_row.get("temp_at_upper_basin_c", np.nan)) else round(float(feature_row.get("temp_at_upper_basin_c")), 2),
             "snotel_wteq_in": None if pd.isna(feature_row.get("snotel_wteq_in", np.nan)) else round(float(feature_row.get("snotel_wteq_in")), 3),
             "nohrsc_snowdepth_cm": None if pd.isna(feature_row.get("nohrsc_snowdepth_cm", np.nan)) else round(float(feature_row.get("nohrsc_snowdepth_cm")), 2),
         })
@@ -266,8 +305,8 @@ def predict_station(model, features: List[str], station_bundle: dict) -> dict:
         "predictions": predictions,
         "notes": [
             "Experimental Montana runoff forecast from a ridge model with snow, melt, weather, and runoff-response features.",
-            "Future weather forcing currently comes from Open-Meteo daily forecast.",
-            "Snow states are advanced with simple persistence-plus-melt heuristics rather than basin-scale forecast snow physics.",
+            "Future weather forcing blends dynamic HRRR forecast forcing for the short range with Open-Meteo for the extended tail.",
+            "Snow states are advanced with elevation-adjusted lapse-rate snow/rain partitioning plus simple melt heuristics.",
             "Use for iteration and testing, not safety-critical decisions."
         ]
     }

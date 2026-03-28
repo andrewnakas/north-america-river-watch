@@ -93,7 +93,7 @@ Written under `generated/ml/`:
 - Montana only for now
 - baseline model is `Ridge`, chosen for speed + interpretability
 - no basin polygons / upstream area weighting yet
-- forecast inference currently uses Open-Meteo daily forecast plus persistence-style snowpack carry-forward for SNOTEL / NOHRSC features
+- forecast inference now blends short-range HRRR forcing into the extended Open-Meteo tail, with elevation-adjusted snow/rain partitioning and persistence-style snowpack carry-forward for SNOTEL / NOHRSC features
 
 ## Next upgrades
 

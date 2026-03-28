@@ -136,7 +136,7 @@ function renderMlForecastCard(stationOrForecast) {
       </div>
       ${chartSeries.length ? renderMiniChart(chartSeries, 'Montana ML discharge forecast', 'Latest observed discharge plus 14-day modeled discharge outlook.', { compact: true }) : ''}
       <div class="forecast-day-grid">${dayCards}</div>
-      <p class="note-outro">Generated ${escapeHtml(formatDate(forecast.generated_at))}. Source weather: Open-Meteo forecast. Use this as an experimental planning layer, not a safety-critical forecast.</p>
+      <p class="note-outro">Generated ${escapeHtml(formatDate(forecast.generated_at))}. Source weather: short-range HRRR blended into extended Open-Meteo, with elevation-adjusted snow/rain partitioning. Use this as an experimental planning layer, not a safety-critical forecast.</p>
     </div>`;
 }
 

@@ -5,6 +5,8 @@ scikit-learn
 xarray
 zarr
 fsspec
+s3fs
+pyproj
 aiohttp
 numcodecs
 lxml

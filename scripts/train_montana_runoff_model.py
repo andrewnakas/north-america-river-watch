@@ -30,6 +30,15 @@ import pandas as pd
 import requests
 import xarray as xr
 from bs4 import BeautifulSoup
+
+try:
+    import s3fs
+    import zarr
+    from pyproj import Transformer
+except Exception:  # optional for HRRR forecast forcing
+    s3fs = None
+    zarr = None
+    Transformer = None
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.linear_model import Ridge
@@ -64,6 +73,8 @@ STATION_IDS_FILTER = [sid.strip() for sid in os.environ.get("MT_STATION_IDS", ""
 DEGREE_DAY_BASE_C = float(os.environ.get("MT_DEGREE_DAY_BASE_C", "0.0"))
 ROLLING_VALIDATION_SPLITS = int(os.environ.get("MT_ROLLING_VALIDATION_SPLITS", "3"))
 MIN_VALIDATION_DAYS = int(os.environ.get("MT_MIN_VALIDATION_DAYS", "21"))
+TEMP_LAPSE_C_PER_KM = float(os.environ.get("MT_TEMP_LAPSE_C_PER_KM", "6.5"))
+HRRR_PROJ4 = "+proj=lcc +a=6371200.0 +b=6371200.0 +lon_0=262.5 +lat_0=38.5 +lat_1=38.5 +lat_2=38.5"
 
 TARGET_GROUP_STATION_IDS = {
     "yellowstone-gallatin": [
@@ -118,6 +129,143 @@ def haversine_km(lat1, lon1, lat2, lon2):
 
 def cache_json_path(name: str) -> pathlib.Path:
     return CACHE_DIR / name
+
+
+def _to_meters(value):
+    if value in (None, "", "nan"):
+        return None
+    if isinstance(value, (int, float)):
+        val = float(value)
+    else:
+        raw = str(value).strip().lower().replace(",", "")
+        for suffix in ["feet", "foot", "ft", "meters", "meter", "m"]:
+            raw = raw.replace(suffix, "")
+        try:
+            val = float(raw)
+        except Exception:
+            return None
+    if abs(val) > 10000:
+        return None
+    # SNOTEL metadata often comes in feet; NOHRSC already in meters.
+    return val * 0.3048 if val > 2500 else val
+
+
+def fetch_location_elevation_m(lat: float, lon: float) -> Optional[float]:
+    cache_path = cache_json_path(f"elev_{lat:.4f}_{lon:.4f}.json")
+    if cache_path.exists():
+        cached = read_json(cache_path)
+        return cached.get("elevation_m") if isinstance(cached, dict) else cached
+    try:
+        url = f"https://api.open-meteo.com/v1/elevation?latitude={lat}&longitude={lon}"
+        resp = SESSION.get(url, timeout=30)
+        resp.raise_for_status()
+        payload = resp.json()
+        elev = None
+        if isinstance(payload.get("elevation"), list):
+            elev = payload.get("elevation", [None])[0]
+        else:
+            elev = payload.get("elevation")
+        elev = None if elev is None else float(elev)
+        write_json(cache_path, {"elevation_m": elev}, pretty=False)
+        return elev
+    except Exception:
+        return None
+
+
+def adjust_temp_for_elevation(temp_c, source_elev_m, target_elev_m):
+    if temp_c is None or pd.isna(temp_c) or source_elev_m is None or target_elev_m is None:
+        return np.nan
+    return float(temp_c) - ((float(target_elev_m) - float(source_elev_m)) / 1000.0) * TEMP_LAPSE_C_PER_KM
+
+
+def snow_fraction_from_temp(temp_c):
+    if temp_c is None or pd.isna(temp_c):
+        return np.nan
+    return float(np.clip((1.5 - float(temp_c)) / 3.0, 0.0, 1.0))
+
+
+def _hrrr_cycle_candidates(now=None, long_only: bool = True):
+    now = now or datetime.now(timezone.utc).replace(minute=0, second=0, microsecond=0)
+    for step in range(0, 36):
+        cand = now - timedelta(hours=step)
+        if long_only and cand.hour not in (0, 6, 12, 18):
+            continue
+        yield cand
+
+
+def fetch_hrrr_forecast(lat: float, lon: float, days: int) -> pd.DataFrame:
+    if s3fs is None or zarr is None or Transformer is None:
+        raise RuntimeError("HRRR dependencies unavailable")
+    cache_path = cache_json_path(f"hrrr_fc_{lat:.4f}_{lon:.4f}_{days}.parquet")
+    if cache_path.exists():
+        cached = pd.read_parquet(cache_path)
+        if not cached.empty:
+            return cached
+
+    transformer = Transformer.from_crs("EPSG:4326", HRRR_PROJ4, always_xy=True)
+    x_target, y_target = transformer.transform(lon, lat)
+    fs = s3fs.S3FileSystem(anon=True)
+    last_error = None
+    for run_dt in _hrrr_cycle_candidates(long_only=True):
+        ymd = run_dt.strftime('%Y%m%d')
+        hh = run_dt.strftime('%H')
+        store = f"s3://hrrrzarr/sfc/{ymd}/{ymd}_{hh}z_fcst.zarr"
+        try:
+            def open_var(path, level, var):
+                zg = zarr.open_group(fs.get_mapper(store + '/' + path), mode='r')
+                data = zg[level][var]
+                x = np.asarray(zg['projection_x_coordinate'])
+                y = np.asarray(zg['projection_y_coordinate'])
+                t = np.asarray(zg['time'])
+                return data, x, y, t
+
+            tmp_arr, x_vals, y_vals, time_vals = open_var('2m_above_ground/TMP', '2m_above_ground', 'TMP')
+            apcp_arr, _, _, _ = open_var('surface/APCP_1hr_acc_fcst', 'surface', 'APCP_1hr_acc_fcst')
+            csnow_arr, _, _, _ = open_var('surface/CSNOW', 'surface', 'CSNOW')
+            try:
+                asnow_arr, _, _, _ = open_var('surface/ASNOW_1hr_acc_fcst', 'surface', 'ASNOW_1hr_acc_fcst')
+            except Exception:
+                asnow_arr = None
+
+            x_idx = nearest_grid_indices(x_vals, x_target)
+            y_idx = nearest_grid_indices(y_vals, y_target)
+            times = pd.to_datetime(time_vals, unit='h', origin=pd.Timestamp('1970-01-01'))
+            frame = pd.DataFrame({
+                'time': times,
+                'temp_c': np.asarray(tmp_arr[:, y_idx, x_idx], dtype='float32') - 273.15,
+                'precip_mm': np.asarray(apcp_arr[:, y_idx, x_idx], dtype='float32'),
+                'snow_flag': (np.asarray(csnow_arr[:, y_idx, x_idx], dtype='float32') > 0.5).astype(float),
+            })
+            if asnow_arr is not None:
+                frame['snowfall_mm'] = np.asarray(asnow_arr[:, y_idx, x_idx], dtype='float32')
+            else:
+                frame['snowfall_mm'] = frame['precip_mm'] * frame['snow_flag']
+            frame = frame.dropna(subset=['time']).sort_values('time')
+            if frame.empty:
+                raise RuntimeError('empty HRRR forecast frame')
+            daily = frame.assign(date=frame['time'].dt.floor('D')).groupby('date', as_index=False).agg({
+                'temp_c': ['mean', 'max', 'min'],
+                'precip_mm': 'sum',
+                'snowfall_mm': 'sum',
+                'snow_flag': 'max',
+            })
+            daily.columns = ['date', 'dyn_temp_c_mean', 'dyn_temp_c_max', 'dyn_temp_c_min', 'dyn_precip_mm', 'dyn_snowfall_mm', 'dyn_snow_flag']
+            daily['dyn_source'] = f'hrrr-fcst-{run_dt.strftime("%Y%m%d%H")}'
+            daily = daily.sort_values('date').head(max(2, days))
+            daily.to_parquet(cache_path, index=False)
+            try:
+                fs.close()
+            except Exception:
+                pass
+            return daily
+        except Exception as exc:
+            last_error = exc
+            continue
+    try:
+        fs.close()
+    except Exception:
+        pass
+    raise RuntimeError(f'HRRR forecast unavailable: {last_error}')
 
 
 def fetch_usgs_daily_discharge(site_no: str, start: date, end: date) -> pd.DataFrame:
@@ -676,12 +824,31 @@ def add_hydrology_features(df: pd.DataFrame) -> pd.DataFrame:
     if nohrsc_swe is not None:
         out["nohrsc_swe_change_1d"] = nohrsc_swe.diff(1)
 
+    site_elev = out.get("site_elev_m", pd.Series(np.nan, index=out.index))
+    snotel_elev = out.get("snotel_elev_m", pd.Series(np.nan, index=out.index))
+    nohrsc_elev = out.get("nohrsc_elev_m", pd.Series(np.nan, index=out.index))
+    out["temp_at_snotel_c"] = temp_mean - ((snotel_elev - site_elev) / 1000.0) * TEMP_LAPSE_C_PER_KM
+    out["temp_at_nohrsc_c"] = temp_mean - ((nohrsc_elev - site_elev) / 1000.0) * TEMP_LAPSE_C_PER_KM
+    out["temp_at_upper_basin_c"] = out[["temp_at_snotel_c", "temp_at_nohrsc_c"]].mean(axis=1, skipna=True)
+    out["high_elev_snow_fraction"] = out["temp_at_upper_basin_c"].apply(snow_fraction_from_temp)
+    out["basin_snow_mm_elev"] = precip * out["high_elev_snow_fraction"].fillna(snow_flag)
+    out["basin_rain_mm_elev"] = precip - out["basin_snow_mm_elev"].fillna(0)
+    out["basin_snow_3d_mm_elev"] = out["basin_snow_mm_elev"].rolling(3, min_periods=1).sum()
+    out["basin_rain_3d_mm_elev"] = out["basin_rain_mm_elev"].rolling(3, min_periods=1).sum()
+    out["warm_upper_basin_flag"] = (out["temp_at_upper_basin_c"] > 0.5).astype(float)
+    out["high_elev_melt_pressure_c"] = out["temp_at_upper_basin_c"].clip(lower=0)
+    out["high_elev_melt_3d_c"] = out["high_elev_melt_pressure_c"].rolling(3, min_periods=1).sum()
+
     if "degree_day_c" in out and "snotel_wteq_in" in out:
         out["degree_day_x_swe"] = out["degree_day_c"] * out["snotel_wteq_in"].fillna(0)
     if "rain_on_warm_day_mm" in out and "snotel_wteq_in" in out:
         out["rain_on_snow_proxy"] = out["rain_on_warm_day_mm"] * (out["snotel_wteq_in"].fillna(0) > 0.5).astype(float)
+        out["rain_on_snow_proxy_elev"] = out["basin_rain_mm_elev"].fillna(0) * (out["snotel_wteq_in"].fillna(0) > 0.5).astype(float) * out["warm_upper_basin_flag"].fillna(0)
+        out["degree_day_x_swe_elev"] = out["high_elev_melt_pressure_c"].fillna(0) * out["snotel_wteq_in"].fillna(0)
     if "degree_day_c" in out and "nohrsc_snowdepth_cm" in out:
         out["degree_day_x_nohrsc_sd"] = out["degree_day_c"] * out["nohrsc_snowdepth_cm"].fillna(0)
+        out["degree_day_x_nohrsc_sd_elev"] = out["high_elev_melt_pressure_c"].fillna(0) * out["nohrsc_snowdepth_cm"].fillna(0)
+    out["melt_risk_elev"] = out[[c for c in ["degree_day_x_swe_elev", "degree_day_x_nohrsc_sd_elev"] if c in out]].sum(axis=1, min_count=1)
 
     discharge = out.get("discharge_cfs")
     if discharge is not None:
@@ -715,6 +882,15 @@ def assemble_station_dataset(station: dict, snotel_neighbor: Optional[Neighbor],
     df = frames[0]
     for frame in frames[1:]:
         df = df.merge(frame, on="date", how="left")
+
+    site_elev_m = fetch_location_elevation_m(station["latitude"], station["longitude"])
+    snotel_elev_m = _to_meters((snotel_neighbor.meta or {}).get("elevation")) if snotel_neighbor else None
+    nohrsc_elev_m = _to_meters((nohrsc_neighbor.meta or {}).get("elev_m")) if nohrsc_neighbor else None
+    df["site_elev_m"] = site_elev_m
+    df["snotel_elev_m"] = snotel_elev_m
+    df["nohrsc_elev_m"] = nohrsc_elev_m
+    df["snotel_minus_site_elev_m"] = None if site_elev_m is None or snotel_elev_m is None else snotel_elev_m - site_elev_m
+    df["nohrsc_minus_site_elev_m"] = None if site_elev_m is None or nohrsc_elev_m is None else nohrsc_elev_m - site_elev_m
 
     df = add_lag_features(df, "discharge_cfs", "q")
     if "dyn_precip_mm" in df:
