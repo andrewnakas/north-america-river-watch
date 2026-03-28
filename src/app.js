@@ -114,7 +114,7 @@ function renderMlForecastCard(stationOrForecast) {
       ? { label: 'Montana ML forecast discharge', style: 'forecast', points: bridgedForecastPoints }
       : (observedPoint ? { label: 'Latest observed discharge', style: 'observed', points: [observedPoint] } : null)
   ].filter(Boolean);
-  const dayCards = preds.slice(0, 7).map((p) => `
+  const dayCards = preds.slice(0, Math.max(14, preds.length)).map((p) => `
     <div class="card">
       <div class="date">${escapeHtml(formatAxisDate(p.date))}</div>
       <div class="value">${Number(p.predicted_discharge_cfs).toFixed(1)} cfs</div>
