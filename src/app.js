@@ -98,9 +98,14 @@ function renderMlForecastCard(stationOrForecast) {
   const latest = forecast.latest_observed_discharge_cfs;
   const delta = first && Number.isFinite(latest) ? first.predicted_discharge_cfs - latest : null;
   const trend = delta == null ? 'n/a' : delta > 5 ? 'rising' : delta < -5 ? 'falling' : 'steady';
+  const observedPoint = latest != null ? { x: new Date(forecast.generated_at).toISOString(), y: latest } : null;
+  const forecastPoints = preds.map((p) => ({ x: p.date, y: p.predicted_discharge_cfs }));
+  const bridgedForecastPoints = observedPoint && forecastPoints.length
+    ? [observedPoint, ...forecastPoints]
+    : forecastPoints;
   const chartSeries = [
-    latest != null ? { label: 'Latest observed discharge', style: 'observed', points: [{ x: new Date(forecast.generated_at).toISOString(), y: latest }] } : null,
-    preds.length ? { label: 'Montana ML forecast discharge', style: 'forecast', points: preds.map((p) => ({ x: p.date, y: p.predicted_discharge_cfs })) } : null
+    observedPoint ? { label: 'Latest observed discharge', style: 'observed', points: [observedPoint] } : null,
+    bridgedForecastPoints.length ? { label: 'Montana ML forecast discharge', style: 'forecast', points: bridgedForecastPoints } : null
   ].filter(Boolean);
   const dayCards = preds.slice(0, 7).map((p) => `
     <div class="card">

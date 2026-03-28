@@ -1013,7 +1013,7 @@ def main() -> None:
     station_links = []
     skipped_stations = []
     for station in mt_stations:
-        if len(station_frames) >= STATION_LIMIT:
+        if STATION_LIMIT > 0 and len(station_frames) >= STATION_LIMIT:
             break
         snotel_neighbor = nearest_station(station["latitude"], station["longitude"], snotel_meta, MAX_SNOTEL_KM)
         nohrsc_neighbor = nearest_station(station["latitude"], station["longitude"], nohrsc_meta, MAX_NOHRSC_KM, lat_key="lat", lon_key="lon")
@@ -1057,7 +1057,7 @@ def main() -> None:
         "station_ids_filter": STATION_IDS_FILTER,
         "snotel_metadata_count": len(snotel_meta),
         "nohrsc_metadata_count": len(nohrsc_meta),
-        "stations_requested": STATION_LIMIT if not (TARGET_GROUP or STATION_IDS_FILTER) else len(mt_stations),
+        "stations_requested": (len(mt_stations) if STATION_LIMIT <= 0 else STATION_LIMIT) if not (TARGET_GROUP or STATION_IDS_FILTER) else len(mt_stations),
         "station_candidates_considered": len(mt_stations),
         "stations_used": len(station_frames),
         "station_links": station_links,
