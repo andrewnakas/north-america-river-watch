@@ -118,7 +118,7 @@ function renderMlForecastCard(stationOrForecast) {
   return `
     <div class="forecast-ml-summary">
       <div class="header-line"><span class="ml-badge">ML</span><h3>Montana runoff forecast</h3></div>
-      <p class="detail-intro">Experimental 7-day discharge forecast for this Yellowstone/Gallatin corridor gauge. This is a modeled runoff layer, separate from official NOAA hydrographs.</p>
+      <p class="detail-intro">Experimental 14-day discharge forecast for this Montana gauge. This is a modeled runoff layer, separate from official NOAA hydrographs.</p>
       <div class="forecast-summary-grid">
         <div class="card"><b>Latest observed</b><br>${latest ?? 'n/a'} cfs</div>
         <div class="card"><b>Next predicted</b><br>${first ? first.predicted_discharge_cfs.toFixed(1) : 'n/a'} cfs</div>
@@ -127,7 +127,7 @@ function renderMlForecastCard(stationOrForecast) {
         <div class="card"><b>Near-term signal</b><br>${trend}</div>
         <div class="card"><b>Model scope</b><br>${escapeHtml(forecast.target_group || 'montana')}</div>
       </div>
-      ${chartSeries.length ? renderMiniChart(chartSeries, 'Montana ML discharge forecast', 'Latest observed discharge plus 7-day modeled discharge outlook.', { compact: true }) : ''}
+      ${chartSeries.length ? renderMiniChart(chartSeries, 'Montana ML discharge forecast', 'Latest observed discharge plus 14-day modeled discharge outlook.', { compact: true }) : ''}
       <div class="forecast-day-grid">${dayCards}</div>
       <p class="note-outro">Generated ${escapeHtml(formatDate(forecast.generated_at))}. Source weather: Open-Meteo forecast. Use this as an experimental planning layer, not a safety-critical forecast.</p>
     </div>`;
@@ -654,7 +654,7 @@ async function showStation(stationOrId) {
               ? 'Observed stage plus a short synthetic forecast generated from the latest trend.'
               : 'Recent stage with a clearer visual hydrograph and now marker.')}
         <p>Forecast source priority: <b>official NOAA / water.noaa.gov forecast</b> first, then <b>National Water Model guidance</b> when NOAA stage forecasts are empty, then a short <b>synthetic hydrograph forecast</b> from the recent observed trend. Click anywhere on the map to snap to the nearest river sensor.</p>
-        ${mlChartSeries.length ? renderMiniChart(mlChartSeries, 'Montana runoff forecast', 'Observed discharge history merged with the experimental 7-day Montana ML discharge forecast.') : ''}
+        ${mlChartSeries.length ? renderMiniChart(mlChartSeries, 'Montana runoff forecast', 'Observed discharge history merged with the experimental 14-day Montana ML discharge forecast.') : ''}
         ${mlForecast ? renderMlForecastCard(station) : ''}`;
     } else {
       const series = await fetchCanadaSeries(station.stationId);

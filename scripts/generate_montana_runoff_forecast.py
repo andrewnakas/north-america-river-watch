@@ -13,7 +13,7 @@ import pandas as pd
 
 import train_montana_runoff_model as mt
 
-FORECAST_DAYS = int(mt.os.environ.get("MT_FORECAST_DAYS", "7"))
+FORECAST_DAYS = int(mt.os.environ.get("MT_FORECAST_DAYS", "14"))
 MODEL_PATH = mt.MODEL_DIR / "montana_runoff_ridge.pkl"
 REPORT_PATH = mt.MODEL_DIR / "montana_runoff_validation_report.json"
 FORECAST_DIR = mt.ML_DIR / "forecasts"
