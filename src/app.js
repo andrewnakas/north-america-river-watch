@@ -1,6 +1,6 @@
 const DATA_BASES = [
-  'data',
-  'https://cdn.jsdelivr.net/gh/andrewnakas/north-america-river-watch@sensor-data/data'
+  'https://cdn.jsdelivr.net/gh/andrewnakas/north-america-river-watch@sensor-data/data',
+  'data'
 ];
 
 const map = L.map('map', {
@@ -96,10 +96,16 @@ function renderMlForecastCard(stationOrForecast) {
   const first = preds[0] || null;
   const peak = preds.reduce((best, point) => (!best || point.predicted_discharge_cfs > best.predicted_discharge_cfs ? point : best), null);
   const latest = forecast.latest_observed_discharge_cfs;
+  const generatedAtMs = Number.isFinite(new Date(forecast.generated_at).getTime()) ? new Date(forecast.generated_at).getTime() : Date.now();
+  const startOfTodayMs = new Date(new Date(generatedAtMs).toDateString()).getTime();
   const delta = first && Number.isFinite(latest) ? first.predicted_discharge_cfs - latest : null;
   const trend = delta == null ? 'n/a' : delta > 5 ? 'rising' : delta < -5 ? 'falling' : 'steady';
-  const observedPoint = latest != null ? { x: new Date(forecast.generated_at).toISOString(), y: latest } : null;
-  const forecastPoints = preds.map((p) => ({ x: p.date, y: p.predicted_discharge_cfs }));
+  const observedPoint = latest != null ? { x: new Date(generatedAtMs).toISOString(), y: latest } : null;
+  const forecastPoints = preds.map((p, index) => {
+    const pointMs = Number.isFinite(new Date(p.date).getTime()) ? new Date(p.date).getTime() : null;
+    const xMs = pointMs != null && pointMs <= startOfTodayMs ? generatedAtMs : pointMs;
+    return { x: xMs != null ? new Date(xMs).toISOString() : p.date, y: p.predicted_discharge_cfs, forecastStep: index };
+  });
   const bridgedForecastPoints = observedPoint && forecastPoints.length
     ? [observedPoint, ...forecastPoints]
     : forecastPoints;
@@ -606,9 +612,16 @@ async function showStation(stationOrId) {
       const mlForecast = station.stationId ? await fetchJsonWithFallback(`ml/forecasts/${encodeURIComponent(station.stationId)}.json`).catch(() => null) : null;
       if (mlForecast) mlForecastByStationId.set(String(station.stationId), mlForecast);
       const observedDischargeSeries = currentFlowSeries ? { ...currentFlowSeries, label: 'Observed discharge', style: 'observed' } : null;
-      const mlForecastPoints = (mlForecast?.predictions || []).map((p) => ({ x: p.date, y: Number(p.predicted_discharge_cfs) })).filter((p) => Number.isFinite(p.y));
-      const bridgedMlForecastPoints = observedDischargeSeries?.points?.length && mlForecastPoints.length
-        ? [observedDischargeSeries.points.at(-1), ...mlForecastPoints]
+      const observedNowPoint = observedDischargeSeries?.points?.at(-1) || null;
+      const observedNowMs = observedNowPoint ? new Date(observedNowPoint.x).getTime() : null;
+      const startOfObservedDayMs = Number.isFinite(observedNowMs) ? new Date(new Date(observedNowMs).toDateString()).getTime() : null;
+      const mlForecastPoints = (mlForecast?.predictions || []).map((p, index) => {
+        const pointMs = Number.isFinite(new Date(p.date).getTime()) ? new Date(p.date).getTime() : null;
+        const xMs = pointMs != null && startOfObservedDayMs != null && pointMs <= startOfObservedDayMs ? observedNowMs : pointMs;
+        return { x: xMs != null ? new Date(xMs).toISOString() : p.date, y: Number(p.predicted_discharge_cfs), forecastStep: index };
+      }).filter((p) => Number.isFinite(p.y));
+      const bridgedMlForecastPoints = observedNowPoint && mlForecastPoints.length
+        ? [observedNowPoint, ...mlForecastPoints.filter((p, index) => index !== 0 || new Date(p.x).getTime() !== observedNowMs || p.y !== observedNowPoint.y)]
         : mlForecastPoints;
       const mlChartSeries = mlForecast
         ? [
