@@ -14,6 +14,38 @@
       <section class="hero">
         <h1>North America River Watch</h1>
         <p class="lede">USGS + NOAA + Environment Canada river sensors on one Leaflet map.</p>
+
+        <div class="project-status">
+          <div class="status-heading-row">
+            <h2>Current forecast system status</h2>
+            <span class="status-pill">Production improved and live</span>
+          </div>
+          <p>
+            HRRR Phase 1 is now live in production, and the basin-aware upgrade is well underway.
+            The forecast stack is in a much stronger architectural state, with improved snow handling,
+            cleaner forecast plumbing, and a clearer path for the next basin-aware layer.
+          </p>
+          <div class="status-grid">
+            <div class="card">
+              <b>Live now</b>
+              <ul>
+                <li>HRRR forcing</li>
+                <li>Elevation-aware snow logic</li>
+                <li>210 stations with 14-day forecasts</li>
+              </ul>
+            </div>
+            <div class="card">
+              <b>Built locally and progressing</b>
+              <ul>
+                <li>Lightweight basin-aware snow aggregation</li>
+                <li>Multi-station SNOTEL/NOHRSC basin signals</li>
+                <li>Improved NOHRSC linkage</li>
+                <li>Cleaner, more extensible forecast plumbing</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
         <div class="controls">
           <input id="search" type="search" placeholder="Search station, river, state, province" />
           <label><input type="checkbox" id="forecastOnly" /> Forecast-capable only</label>

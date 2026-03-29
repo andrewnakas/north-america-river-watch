@@ -36,6 +36,59 @@ body {
 
 h1 { margin: 0 0 8px; font-size: 1.7rem; }
 .lede { margin-top: 0; color: #9fb4c7; }
+.project-status {
+  margin: 16px 0;
+  padding: 14px;
+  background: linear-gradient(180deg, rgba(16, 32, 49, 0.96), rgba(11, 20, 32, 0.96));
+  border: 1px solid #294560;
+  border-radius: 12px;
+}
+.status-heading-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+.status-heading-row h2 {
+  margin: 0;
+  font-size: 1.08rem;
+}
+.status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: #17324a;
+  border: 1px solid #3d688c;
+  color: #dcecff;
+  font-size: 0.84rem;
+  font-weight: 700;
+}
+.project-status p {
+  margin: 0 0 12px;
+  color: #c9d9e9;
+  line-height: 1.5;
+}
+.status-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 10px;
+}
+.status-grid .card {
+  background: #132234;
+  border: 1px solid #24364a;
+}
+.status-grid ul {
+  margin: 8px 0 0;
+  padding-left: 18px;
+  color: #dbe8f5;
+}
+.status-grid li + li {
+  margin-top: 6px;
+}
 .controls { display: grid; gap: 12px; margin: 16px 0; }
 input[type="search"] {
   width: 100%;
