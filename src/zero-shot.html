@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>North America River Watch, zero-shot runoff benchmark</title>
+    <style>
+      body { font-family: Inter, system-ui, sans-serif; margin: 0; background: #0b1020; color: #e7ecf3; }
+      main { max-width: 1280px; margin: 0 auto; padding: 32px 20px 56px; }
+      a { color: #8ec5ff; }
+      .card { background: #131a2d; border: 1px solid #26314f; border-radius: 14px; padding: 18px 20px; margin: 16px 0; }
+      .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 16px; }
+      .pill { display: inline-block; padding: 4px 10px; border-radius: 999px; background: #1d2742; border: 1px solid #33446f; color: #cfe0ff; font-size: 12px; }
+      .stat { font-size: 28px; font-weight: 700; margin: 8px 0; }
+      table { width: 100%; border-collapse: collapse; font-size: 14px; }
+      th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #26314f; vertical-align: top; }
+      th { position: sticky; top: 0; background: #131a2d; }
+      .table-wrap { overflow: auto; max-height: 70vh; }
+      code { background: #0d1426; padding: 2px 6px; border-radius: 6px; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <p><a href="./index.html">← Back to map</a></p>
+      <h1>National zero-shot runoff benchmark</h1>
+      <p>This page tracks the latest broad zero-shot runoff benchmark across every station the pipeline could actually assemble into a usable dataset for the current date window. In practice that means stations with forecast metadata, non-managed filtering, enough target rows, and enough upstream weather and snow context to train and score.</p>
+
+      <div class="grid">
+        <div class="card"><div class="pill">Usable stations</div><div class="stat">61</div><p>Out of 61 eligible candidates considered.</p></div>
+        <div class="card"><div class="pill">Test ensemble MAE</div><div class="stat">49.48</div><p>Ensemble blend on holdout rows.</p></div>
+        <div class="card"><div class="pill">Test ensemble R²</div><div class="stat">0.994</div><p>Aggregate holdout fit.</p></div>
+        <div class="card"><div class="pill">Rolling winner</div><div class="stat" style="font-size:20px">runoff_only</div><p>Selected by lowest rolling-validation MAE.</p></div>
+      </div>
+
+      <div class="card">
+        <div class="pill">Headline</div>
+        <ul>
+          <li><b>Scope:</b> mixed-corrected-cache</li>
+          <li><b>Date window:</b> 2025-04-01 to 2026-04-21</li>
+          <li><b>States represented:</b> AK, AZ, CA, CO, FL, GA, ID, IL, IN, KS, MT, NM, NV, NY, PA, UT, WY</li>
+          <li><b>Ensemble blend:</b> MAE 49.48, RMSE 113.72, R² 0.994</li>
+          <li><b>Runoff-only:</b> MAE 50.61, RMSE 114.62, R² 0.994</li>
+          <li><b>Persistence lag-1 baseline:</b> MAE 50.00, RMSE 145.24, R² 0.991</li>
+          <li><b>Full feature model:</b> MAE 265.33, RMSE 1,056.26, R² 0.522</li>
+        </ul>
+      </div>
+
+      <div class="grid">
+        <div class="card"><div class="pill">Rolling MAE</div><ul>
+          <li>ensemble_blend: <b>82.96</b></li>
+          <li>runoff_only: <b>81.13</b></li>
+          <li>event_gated_residual: <b>168.08</b></li>
+          <li>full_model: <b>228,716.15</b></li>
+        </ul></div>
+        <div class="card"><div class="pill">Static descriptors</div><ul>
+          <li>CAMELS-covered stations: <b>4</b></li>
+          <li>HydroBASINS-covered stations: <b>32</b></li>
+          <li>No static descriptors: <b>29</b></li>
+        </ul></div>
+      </div>
+
+      <div class="card">
+        <div class="pill">Per-station test results</div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th>Station</th><th>Name</th><th>State</th><th>CAMELS</th><th>HydroBASINS</th><th>Ensemble MAE</th><th>Ensemble RMSE</th><th>Ensemble R²</th><th>Runoff-only MAE</th><th>Rising-flow MAE</th><th>High-flow MAE</th></tr>
+            </thead>
+            <tbody>
+              <tr><td><code>06036905</code></td><td>Firehole River near West Yellowstone MT</td><td>WY</td><td>no</td><td>no</td><td>12.53</td><td>16.46</td><td>0.800</td><td>12.42</td><td>14.93</td><td>n/a</td></tr><tr><td><code>15056560</code></td><td>KLEHINI R NR KLUKWAN AK</td><td>AK</td><td>no</td><td>yes</td><td>12.58</td><td>14.07</td><td>0.727</td><td>14.19</td><td>18.25</td><td>n/a</td></tr><tr><td><code>02231000</code></td><td>ST. MARYS RIVER NEAR MACCLENNY, FL</td><td>FL</td><td>yes</td><td>yes</td><td>13.74</td><td>13.81</td><td>-6.875</td><td>13.88</td><td>12.85</td><td>n/a</td></tr><tr><td><code>06037100</code></td><td>Gibbon River at Madison Jct, YNP</td><td>WY</td><td>no</td><td>no</td><td>14.18</td><td>16.24</td><td>0.661</td><td>13.86</td><td>18.24</td><td>n/a</td></tr><tr><td><code>06048650</code></td><td>E Gallatin R ab Water Reclamation Fa nr Bozeman MT</td><td>MT</td><td>no</td><td>yes</td><td>15.56</td><td>18.46</td><td>0.771</td><td>13.45</td><td>19.34</td><td>n/a</td></tr><tr><td><code>15052000</code></td><td>LEMON C NR JUNEAU AK</td><td>AK</td><td>no</td><td>yes</td><td>16.09</td><td>16.88</td><td>-4.419</td><td>19.75</td><td>14.74</td><td>n/a</td></tr><tr><td><code>15055500</code></td><td>ANTLER R BL ANTLER LK NR AUKE BAY AK</td><td>AK</td><td>no</td><td>yes</td><td>16.19</td><td>16.47</td><td>-5.891</td><td>19.23</td><td>13.47</td><td>n/a</td></tr><tr><td><code>06036805</code></td><td>Firehole River at Old Faithful, YNP</td><td>WY</td><td>no</td><td>yes</td><td>16.34</td><td>19.48</td><td>-1.253</td><td>16.36</td><td>22.91</td><td>n/a</td></tr><tr><td><code>15052500</code></td><td>MENDENHALL R NR AUKE BAY AK</td><td>AK</td><td>no</td><td>yes</td><td>16.47</td><td>17.69</td><td>0.564</td><td>17.68</td><td>13.47</td><td>n/a</td></tr><tr><td><code>06195600</code></td><td>Shields River nr Livingston MT</td><td>MT</td><td>no</td><td>yes</td><td>17.21</td><td>22.13</td><td>0.923</td><td>19.64</td><td>20.39</td><td>n/a</td></tr><tr><td><code>06050000</code></td><td>Hyalite C at Hyalite R S nr Bozeman MT</td><td>MT</td><td>no</td><td>yes</td><td>17.92</td><td>20.09</td><td>-92.894</td><td>16.88</td><td>22.85</td><td>n/a</td></tr><tr><td><code>10068500</code></td><td>BEAR RIVER AT PESCADERO ID</td><td>ID</td><td>no</td><td>no</td><td>17.97</td><td>19.69</td><td>0.612</td><td>19.19</td><td>18.86</td><td>n/a</td></tr><tr><td><code>06036940</code></td><td>Tantalus Creek at Norris Junction, YNP</td><td>WY</td><td>no</td><td>no</td><td>18.25</td><td>19.14</td><td>-1,414.386</td><td>18.26</td><td>19.26</td><td>n/a</td></tr><tr><td><code>06708800</code></td><td>EAST PLUM CR ABV HASKINS GULCH NR CASTLE ROCK, CO</td><td>CO</td><td>no</td><td>no</td><td>18.25</td><td>18.38</td><td>-47.205</td><td>19.33</td><td>19.32</td><td>n/a</td></tr><tr><td><code>15008000</code></td><td>SALMON R NR HYDER AK</td><td>AK</td><td>no</td><td>yes</td><td>18.54</td><td>19.67</td><td>0.687</td><td>19.34</td><td>16.83</td><td>n/a</td></tr><tr><td><code>09180000</code></td><td>DOLORES RIVER NEAR CISCO, UT</td><td>UT</td><td>no</td><td>no</td><td>18.56</td><td>23.79</td><td>0.845</td><td>19.74</td><td>12.83</td><td>n/a</td></tr><tr><td><code>15057596</code></td><td>SALMON R AT GUSTAVUS AK</td><td>AK</td><td>no</td><td>yes</td><td>18.98</td><td>18.99</td><td>-9,014.451</td><td>21.72</td><td>n/a</td><td>n/a</td></tr><tr><td><code>15101490</code></td><td>GREENS C AT GREENS CREEK MINE NR JUNEAU AK</td><td>AK</td><td>no</td><td>no</td><td>19.34</td><td>20.04</td><td>-13.052</td><td>19.81</td><td>23.73</td><td>n/a</td></tr><tr><td><code>06814000</code></td><td>TURKEY C NR SENECA, KS</td><td>KS</td><td>yes</td><td>yes</td><td>19.36</td><td>29.65</td><td>-0.142</td><td>20.40</td><td>36.62</td><td>n/a</td></tr><tr><td><code>07207000</code></td><td>CIMARRON RIVER NEAR CIMARRON, NM</td><td>NM</td><td>no</td><td>no</td><td>19.72</td><td>19.76</td><td>-63.658</td><td>21.52</td><td>19.69</td><td>n/a</td></tr><tr><td><code>10125500</code></td><td>MALAD RIVER AT WOODRUFF ID</td><td>ID</td><td>no</td><td>no</td><td>19.76</td><td>20.25</td><td>-0.056</td><td>21.19</td><td>15.42</td><td>n/a</td></tr><tr><td><code>15088000</code></td><td>SAWMILL C NR SITKA AK</td><td>AK</td><td>no</td><td>yes</td><td>19.88</td><td>20.83</td><td>-1.992</td><td>19.87</td><td>22.35</td><td>n/a</td></tr><tr><td><code>10039500</code></td><td>BEAR RIVER AT BORDER, WY</td><td>ID</td><td>no</td><td>no</td><td>20.63</td><td>26.20</td><td>0.844</td><td>22.10</td><td>21.09</td><td>n/a</td></tr><tr><td><code>07203000</code></td><td>VERMEJO RIVER NEAR DAWSON, NM</td><td>NM</td><td>no</td><td>no</td><td>20.65</td><td>20.67</td><td>-3,058.202</td><td>21.66</td><td>20.55</td><td>n/a</td></tr><tr><td><code>06043120</code></td><td>Gallatin River above Deer Creek, near Big Sky, MT</td><td>MT</td><td>no</td><td>yes</td><td>20.79</td><td>26.12</td><td>0.952</td><td>23.05</td><td>22.17</td><td>n/a</td></tr><tr><td><code>09182400</code></td><td>CASTLE CREEK BELOW CASTLE VALLEY NEAR MOAB, UT</td><td>UT</td><td>no</td><td>no</td><td>21.39</td><td>21.41</td><td>-1,944.216</td><td>22.56</td><td>21.22</td><td>n/a</td></tr><tr><td><code>15129500</code></td><td>SITUK R NR YAKUTAT AK</td><td>AK</td><td>no</td><td>no</td><td>22.04</td><td>24.59</td><td>0.710</td><td>20.67</td><td>22.29</td><td>n/a</td></tr><tr><td><code>09379025</code></td><td>CHINLE CREEK AT CHINLE, AZ</td><td>AZ</td><td>no</td><td>no</td><td>22.07</td><td>22.09</td><td>0.000</td><td>24.80</td><td>n/a</td><td>n/a</td></tr><tr><td><code>06620000</code></td><td>NORTH PLATTE RIVER NEAR NORTHGATE, CO</td><td>CO</td><td>no</td><td>no</td><td>22.67</td><td>28.77</td><td>0.430</td><td>23.48</td><td>24.69</td><td>n/a</td></tr><tr><td><code>09379200</code></td><td>CHINLE CREEK NEAR MEXICAN WATER, AZ</td><td>AZ</td><td>no</td><td>no</td><td>22.98</td><td>22.99</td><td>-6,852.273</td><td>24.26</td><td>22.60</td><td>n/a</td></tr><tr><td><code>06052500</code></td><td>Gallatin River at Logan MT</td><td>MT</td><td>no</td><td>yes</td><td>23.48</td><td>32.12</td><td>0.894</td><td>29.57</td><td>23.86</td><td>n/a</td></tr><tr><td><code>15056210</code></td><td>TAIYA R NR SKAGWAY AK</td><td>AK</td><td>no</td><td>yes</td><td>23.74</td><td>26.82</td><td>0.853</td><td>21.14</td><td>23.86</td><td>n/a</td></tr><tr><td><code>09417500</code></td><td>MEADOW VALLEY WASH AT EAGLE CYN NR URSINE, NV</td><td>NV</td><td>no</td><td>no</td><td>24.10</td><td>24.13</td><td>-227.867</td><td>25.81</td><td>23.86</td><td>n/a</td></tr><tr><td><code>09382000</code></td><td>PARIA RIVER AT LEES FERRY, AZ</td><td>AZ</td><td>no</td><td>no</td><td>24.51</td><td>24.55</td><td>-79.791</td><td>25.74</td><td>23.57</td><td>n/a</td></tr><tr><td><code>09416000</code></td><td>MUDDY RV NR MOAPA, NV</td><td>NV</td><td>no</td><td>no</td><td>24.59</td><td>24.60</td><td>-573.602</td><td>25.57</td><td>24.16</td><td>n/a</td></tr><tr><td><code>09418500</code></td><td>MEADOW VALLEY WASH NR CALIENTE, NV</td><td>NV</td><td>no</td><td>no</td><td>25.03</td><td>25.05</td><td>-1,313.359</td><td>26.44</td><td>24.66</td><td>n/a</td></tr><tr><td><code>09419000</code></td><td>MUDDY RV NR GLENDALE, NV</td><td>NV</td><td>no</td><td>no</td><td>25.21</td><td>25.22</td><td>-145.426</td><td>25.86</td><td>n/a</td><td>n/a</td></tr><tr><td><code>06043500</code></td><td>Gallatin River near Gallatin Gateway, MT</td><td>MT</td><td>yes</td><td>yes</td><td>25.39</td><td>32.34</td><td>0.953</td><td>27.00</td><td>30.61</td><td>n/a</td></tr><tr><td><code>02176930</code></td><td>CHATTOOGA RIVER AT BURRELLS FORD, NR PINE MTN, GA</td><td>GA</td><td>no</td><td>yes</td><td>25.76</td><td>54.68</td><td>-0.673</td><td>25.80</td><td>97.64</td><td>n/a</td></tr><tr><td><code>15068040</code></td><td>LEASK CREEK AT SHELTER COVE NR KETCHIKAN AK</td><td>AK</td><td>no</td><td>no</td><td>26.62</td><td>31.79</td><td>0.239</td><td>27.37</td><td>30.56</td><td>n/a</td></tr><tr><td><code>10251300</code></td><td>AMARGOSA RV AT TECOPA, CA</td><td>CA</td><td>no</td><td>yes</td><td>26.69</td><td>26.73</td><td>-10,933.198</td><td>28.78</td><td>25.12</td><td>n/a</td></tr><tr><td><code>03274650</code></td><td>WHITEWATER RIVER NEAR ECONOMY, IN</td><td>IN</td><td>no</td><td>yes</td><td>32.48</td><td>81.99</td><td>-1.739</td><td>34.13</td><td>87.84</td><td>n/a</td></tr><tr><td><code>15087700</code></td><td>INDIAN R AT SITKA AK</td><td>AK</td><td>no</td><td>no</td><td>37.76</td><td>62.02</td><td>0.322</td><td>37.86</td><td>56.32</td><td>n/a</td></tr><tr><td><code>05014500</code></td><td>Swiftcurrent Creek at Many Glacier MT</td><td>MT</td><td>no</td><td>no</td><td>45.28</td><td>93.29</td><td>0.705</td><td>46.60</td><td>74.89</td><td>n/a</td></tr><tr><td><code>15072000</code></td><td>FISH C NR KETCHIKAN AK</td><td>AK</td><td>no</td><td>yes</td><td>51.85</td><td>72.70</td><td>0.832</td><td>51.15</td><td>82.26</td><td>n/a</td></tr><tr><td><code>10092700</code></td><td>BEAR RIVER AT IDAHO-UTAH STATE LINE</td><td>ID</td><td>no</td><td>no</td><td>59.65</td><td>89.10</td><td>0.402</td><td>59.97</td><td>82.87</td><td>n/a</td></tr><tr><td><code>15087585</code></td><td>TWELVEMILE C NR PETERSBURG AK</td><td>AK</td><td>no</td><td>yes</td><td>60.56</td><td>92.11</td><td>-0.425</td><td>61.47</td><td>80.84</td><td>n/a</td></tr><tr><td><code>01428750</code></td><td>West Branch Lackawaxen River near Aldenville, PA</td><td>PA</td><td>no</td><td>yes</td><td>64.92</td><td>109.40</td><td>0.359</td><td>64.91</td><td>106.75</td><td>n/a</td></tr><tr><td><code>15086225</code></td><td>HATCHERY C AT FOREST SVC RD 23 NR COFFMAN COVE AK</td><td>AK</td><td>no</td><td>no</td><td>76.78</td><td>119.33</td><td>0.653</td><td>77.23</td><td>122.37</td><td>n/a</td></tr><tr><td><code>01200000</code></td><td>TENMILE RIVER NEAR GAYLORDSVILLE, CT</td><td>NY</td><td>no</td><td>yes</td><td>105.71</td><td>169.12</td><td>0.839</td><td>106.19</td><td>178.12</td><td>512.93</td></tr><tr><td><code>03336645</code></td><td>MIDDLE FORK VERMILION RIVER ABOVE OAKWOOD, IL</td><td>IL</td><td>no</td><td>yes</td><td>130.80</td><td>285.03</td><td>0.667</td><td>132.25</td><td>140.81</td><td>154.05</td></tr><tr><td><code>06192500</code></td><td>Yellowstone River near Livingston, MT</td><td>MT</td><td>no</td><td>yes</td><td>146.86</td><td>212.38</td><td>0.948</td><td>150.31</td><td>167.02</td><td>201.24</td></tr><tr><td><code>15041200</code></td><td>TAKU R NR JUNEAU AK</td><td>AK</td><td>no</td><td>yes</td><td>147.35</td><td>239.56</td><td>0.923</td><td>146.54</td><td>183.71</td><td>211.44</td></tr><tr><td><code>06191500</code></td><td>Yellowstone River at Corwin Springs MT</td><td>MT</td><td>yes</td><td>yes</td><td>148.86</td><td>227.33</td><td>0.941</td><td>151.88</td><td>205.37</td><td>204.21</td></tr><tr><td><code>09180500</code></td><td>COLORADO RIVER NEAR CISCO, UT</td><td>UT</td><td>no</td><td>no</td><td>188.92</td><td>272.44</td><td>0.852</td><td>188.75</td><td>176.16</td><td>188.92</td></tr><tr><td><code>15081497</code></td><td>STANEY C NR KLAWOCK AK</td><td>AK</td><td>no</td><td>yes</td><td>209.08</td><td>369.21</td><td>-0.139</td><td>208.61</td><td>279.23</td><td>n/a</td></tr><tr><td><code>15015595</code></td><td>UNUK R BL BLUE R NR WRANGELL AK</td><td>AK</td><td>no</td><td>yes</td><td>233.28</td><td>379.40</td><td>-0.552</td><td>233.66</td><td>305.33</td><td>153.52</td></tr><tr><td><code>09380000</code></td><td>COLORADO RIVER AT LEES FERRY, AZ</td><td>AZ</td><td>no</td><td>no</td><td>235.78</td><td>252.42</td><td>-1.011</td><td>244.07</td><td>142.60</td><td>235.78</td></tr><tr><td><code>15024800</code></td><td>STIKINE R NR WRANGELL AK</td><td>AK</td><td>no</td><td>yes</td><td>307.32</td><td>320.68</td><td>-0.523</td><td>312.42</td><td>685.62</td><td>307.32</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="card">
+        <div class="pill">Artifacts</div>
+        <ul>
+          <li><code>generated/ml/latest_training_summary.json</code></li>
+          <li><code>generated/ml/models/montana_runoff_validation_report.json</code></li>
+          <li><code>generated/ml/zero_shot_pages_summary.json</code></li>
+        </ul>
+      </div>
+    </main>
+  </body>
+</html>

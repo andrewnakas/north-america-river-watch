@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
-    <link rel="stylesheet" href="styles.css?v=20260328b" />
+    <link rel="stylesheet" href="styles.css?v=20260331c" />
   </head>
   <body>
     <main class="page">
@@ -15,32 +15,27 @@
         <h1>North America River Watch</h1>
         <p class="lede">USGS + NOAA + Environment Canada river sensors on one Leaflet map.</p>
 
-        <div class="project-status">
+        <div class="project-status" id="modelStatusCard">
           <div class="status-heading-row">
-            <h2>Current forecast system status</h2>
-            <span class="status-pill">Production improved and live</span>
+            <h2>Current model status</h2>
+            <span class="status-pill" id="modelStatusPill">Loading latest validation…</span>
           </div>
-          <p>
-            HRRR Phase 1 is now live in production, and the basin-aware upgrade is well underway.
-            The forecast stack is in a much stronger architectural state, with improved snow handling,
-            cleaner forecast plumbing, and a clearer path for the next basin-aware layer.
+          <p id="modelStatusSummary">
+            Loading the latest Mountain West natural-flow validation and forecast results.
           </p>
-          <div class="status-grid">
+          <div class="status-grid" id="modelStatusGrid">
             <div class="card">
-              <b>Live now</b>
+              <b>Benchmark</b>
               <ul>
-                <li>HRRR forcing</li>
-                <li>Elevation-aware snow logic</li>
-                <li>210 stations with 14-day forecasts</li>
+                <li>Runoff-only baseline</li>
+                <li>Rolling validation decides promotion</li>
               </ul>
             </div>
             <div class="card">
-              <b>Built locally and progressing</b>
+              <b>Hybrid path</b>
               <ul>
-                <li>Lightweight basin-aware snow aggregation</li>
-                <li>Multi-station SNOTEL/NOHRSC basin signals</li>
-                <li>Improved NOHRSC linkage</li>
-                <li>Cleaner, more extensible forecast plumbing</li>
+                <li>Residual correction on top of runoff-only</li>
+                <li>Event-gated basin corrections for rising-flow days</li>
               </ul>
             </div>
           </div>
@@ -49,9 +44,11 @@
         <div class="controls">
           <input id="search" type="search" placeholder="Search station, river, state, province" />
           <label><input type="checkbox" id="forecastOnly" /> Forecast-capable only</label>
-          <label><input type="checkbox" id="mlForecastOnly" /> Montana ML runoff forecasts</label>
+          <label><input type="checkbox" id="naturalFlowOnly" checked /> Natural-flow U.S. rivers only</label>
+          <label><input type="checkbox" id="mlForecastOnly" /> Runoff ML forecasts</label>
         </div>
         <div id="summary" class="summary">Loading station index…</div>
+        <div class="summary" style="margin-top:10px"><a href="./zero-shot.html">View the latest zero-shot runoff benchmark page</a></div>
       </section>
 
       <section class="map-panel">
@@ -65,6 +62,6 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-    <script src="app.js?v=20260328b" type="module"></script>
+    <script src="app.js?v=20260331c" type="module"></script>
   </body>
 </html>
