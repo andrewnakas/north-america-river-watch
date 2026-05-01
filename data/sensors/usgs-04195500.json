@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04195500",
+  "key": "04195500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04195500",
+  "name": "Portage River at Woodville OH",
+  "waterbody": "Portage River at Woodville OH",
+  "state": "OH",
+  "latitude": 41.449496,
+  "longitude": -83.3613156,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDVO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdvo1",
+  "slug": "usgs-04195500",
+  "noaaForecastPath": "data/noaa-forecast/WDVO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

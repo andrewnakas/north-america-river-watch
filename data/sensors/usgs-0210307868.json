@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0210307868",
+  "key": "0210307868",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0210307868",
+  "name": "TANK CREEK AT BUTNER ROAD AT FORT BRAGG, NC",
+  "waterbody": "TANK CREEK AT BUTNER ROAD AT FORT BRAGG, NC",
+  "state": "NC",
+  "latitude": 35.15730556,
+  "longitude": -79.01128889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCBN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tank Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcbn7",
+  "slug": "usgs-0210307868",
+  "noaaForecastPath": "data/noaa-forecast/TCBN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

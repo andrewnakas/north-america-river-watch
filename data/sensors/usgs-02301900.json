@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301900",
+  "key": "02301900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301900",
+  "name": "FOX BRANCH NEAR SOCRUM, FL",
+  "waterbody": "FOX BRANCH NEAR SOCRUM, FL",
+  "state": "FL",
+  "latitude": 28.181944,
+  "longitude": -82.0125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox Branch Near Socrum",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/socf1",
+  "slug": "usgs-02301900",
+  "noaaForecastPath": "data/noaa-forecast/SOCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

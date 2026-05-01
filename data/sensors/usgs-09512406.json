@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09512406",
+  "key": "09512406",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512406",
+  "name": "SALT RIVER AT 51ST AVENUE, PHOENIX, AZ",
+  "waterbody": "SALT RIVER AT 51ST AVENUE, PHOENIX, AZ",
+  "state": "AZ",
+  "latitude": 33.40143305,
+  "longitude": -112.168762,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFFA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sffa3",
+  "slug": "usgs-09512406",
+  "noaaForecastPath": "data/noaa-forecast/SFFA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

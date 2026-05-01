@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05421000",
+  "key": "05421000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05421000",
+  "name": "Wapsipinicon River at Independence, IA",
+  "waterbody": "Wapsipinicon River at Independence, IA",
+  "state": "IA",
+  "latitude": 42.46359796,
+  "longitude": -91.8951722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IDPI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wapsipinicon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/idpi4",
+  "slug": "usgs-05421000",
+  "noaaForecastPath": "data/noaa-forecast/IDPI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02486100",
+  "key": "02486100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02486100",
+  "name": "LYNCH CREEK AT JACKSON, MS",
+  "waterbody": "LYNCH CREEK AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.2847222,
+  "longitude": -90.215,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYNM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lynch Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lynm6",
+  "slug": "usgs-02486100",
+  "noaaForecastPath": "data/noaa-forecast/LYNM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

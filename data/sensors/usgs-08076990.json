@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08076990",
+  "key": "08076990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08076990",
+  "name": "Clear Ck at FM 865 nr Pearland, TX",
+  "waterbody": "Clear Ck at FM 865 nr Pearland, TX",
+  "state": "TX",
+  "latitude": 29.58546667,
+  "longitude": -95.3520472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08076990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

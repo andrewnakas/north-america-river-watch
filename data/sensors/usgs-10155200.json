@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10155200",
+  "key": "10155200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10155200",
+  "name": "PROVO RIV AT RIV ROAD BRIDGE NR HEBER CITY, UT",
+  "waterbody": "PROVO RIV AT RIV ROAD BRIDGE NR HEBER CITY, UT",
+  "state": "UT",
+  "latitude": 40.55439805,
+  "longitude": -111.4332426,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10155200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

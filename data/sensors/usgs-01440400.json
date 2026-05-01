@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01440400",
+  "key": "01440400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01440400",
+  "name": "Brodhead Creek near Analomink, PA",
+  "waterbody": "Brodhead Creek near Analomink, PA",
+  "state": "PA",
+  "latitude": 41.0848148,
+  "longitude": -75.2146251,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALKP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brodhead Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alkp1",
+  "slug": "usgs-01440400",
+  "noaaForecastPath": "data/noaa-forecast/ALKP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

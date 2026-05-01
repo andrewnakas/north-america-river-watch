@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08019200",
+  "key": "08019200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08019200",
+  "name": "Sabine Rv nr Hawkins, TX",
+  "waterbody": "Sabine Rv nr Hawkins, TX",
+  "state": "TX",
+  "latitude": 32.55986369,
+  "longitude": -95.206614,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hakt2",
+  "slug": "usgs-08019200",
+  "noaaForecastPath": "data/noaa-forecast/HAKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

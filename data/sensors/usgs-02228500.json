@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02228500",
+  "key": "02228500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02228500",
+  "name": "NORTH PRONG ST. MARYS RIVER AT MONIAC, GA",
+  "waterbody": "NORTH PRONG ST. MARYS RIVER AT MONIAC, GA",
+  "state": "FL",
+  "latitude": 30.51773125,
+  "longitude": -82.2303954,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02228500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

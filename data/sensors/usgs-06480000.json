@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06480000",
+  "key": "06480000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06480000",
+  "name": "BIG SIOUX RIVER NEAR BROOKINGS,SD",
+  "waterbody": "BIG SIOUX RIVER NEAR BROOKINGS,SD",
+  "state": "SD",
+  "latitude": 44.1802473,
+  "longitude": -96.749496,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRKS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brks2",
+  "slug": "usgs-06480000",
+  "noaaForecastPath": "data/noaa-forecast/BRKS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

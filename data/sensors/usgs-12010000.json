@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12010000",
+  "key": "12010000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12010000",
+  "name": "NASELLE RIVER NEAR NASELLE, WA",
+  "waterbody": "NASELLE RIVER NEAR NASELLE, WA",
+  "state": "WA",
+  "latitude": 46.3739937,
+  "longitude": -123.743482,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NASW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Naselle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nasw1",
+  "slug": "usgs-12010000",
+  "noaaForecastPath": "data/noaa-forecast/NASW1.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

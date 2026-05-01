@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610795",
+  "key": "06610795",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610795",
+  "name": "Papillion Creek at Fort Crook, Nebr.",
+  "waterbody": "Papillion Creek at Fort Crook, Nebr.",
+  "state": "NE",
+  "latitude": 41.11779167,
+  "longitude": -95.93690278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCKN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fckn1",
+  "slug": "usgs-06610795",
+  "noaaForecastPath": "data/noaa-forecast/FCKN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

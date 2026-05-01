@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15280999",
+  "key": "15280999",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15280999",
+  "name": "PALMER (BODENBURG) C AT E DILLY AVE NR PALMER AK",
+  "waterbody": "PALMER (BODENBURG) C AT E DILLY AVE NR PALMER AK",
+  "state": "AK",
+  "latitude": 61.52338889,
+  "longitude": -149.0418889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDBA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Palmer (Bodenburg) Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdba2",
+  "slug": "usgs-15280999",
+  "noaaForecastPath": "data/noaa-forecast/BDBA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

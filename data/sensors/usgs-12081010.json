@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12081010",
+  "key": "12081010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12081010",
+  "name": "WOODLAND CREEK TRIB AT JORGENSON RD NR OLYMPIA, WA",
+  "waterbody": "WOODLAND CREEK TRIB AT JORGENSON RD NR OLYMPIA, WA",
+  "state": "WA",
+  "latitude": 47.0762073,
+  "longitude": -122.8218028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12081010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08083100",
+  "key": "08083100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083100",
+  "name": "Clear Fk Brazos Rv nr Roby, TX",
+  "waterbody": "Clear Fk Brazos Rv nr Roby, TX",
+  "state": "TX",
+  "latitude": 32.78760777,
+  "longitude": -100.3887183,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/royt2",
+  "slug": "usgs-08083100",
+  "noaaForecastPath": "data/noaa-forecast/ROYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

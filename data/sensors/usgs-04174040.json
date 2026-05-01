@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04174040",
+  "key": "04174040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04174040",
+  "name": "HURON RIVER AT ZEEB RD AT SCIO, MI",
+  "waterbody": "HURON RIVER AT ZEEB RD AT SCIO, MI",
+  "state": "MI",
+  "latitude": 42.3237472,
+  "longitude": -83.8406333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04174040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

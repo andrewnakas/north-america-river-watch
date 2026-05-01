@@ -1,0 +1,22 @@
+{
+  "id": "usgs:413339087223001",
+  "key": "413339087223001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "413339087223001",
+  "name": "LITTLE CALUMET RIVER AT BURR STREET AT GARY, IN",
+  "waterbody": "LITTLE CALUMET RIVER AT BURR STREET AT GARY, IN",
+  "state": "IN",
+  "latitude": 41.56059159,
+  "longitude": -87.4019832,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBSI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbsi3",
+  "slug": "usgs-413339087223001",
+  "noaaForecastPath": "data/noaa-forecast/GBSI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

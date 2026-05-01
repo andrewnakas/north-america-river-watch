@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08073500",
+  "key": "08073500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08073500",
+  "name": "Buffalo Bayou nr Addicks, TX",
+  "waterbody": "Buffalo Bayou nr Addicks, TX",
+  "state": "TX",
+  "latitude": 29.7618958,
+  "longitude": -95.6057782,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08073500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

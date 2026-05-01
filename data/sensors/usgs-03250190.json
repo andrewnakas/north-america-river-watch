@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03250190",
+  "key": "03250190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03250190",
+  "name": "SLATE CREEK AT HIGHWAY 713 NR MT. STERLING, KY",
+  "waterbody": "SLATE CREEK AT HIGHWAY 713 NR MT. STERLING, KY",
+  "state": "KY",
+  "latitude": 38.02396899,
+  "longitude": -83.8315854,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSGK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Slate Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msgk2",
+  "slug": "usgs-03250190",
+  "noaaForecastPath": "data/noaa-forecast/MSGK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04155000",
+  "key": "04155000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04155000",
+  "name": "PINE RIVER AT ALMA, MI",
+  "waterbody": "PINE RIVER AT ALMA, MI",
+  "state": "MI",
+  "latitude": 43.37947539,
+  "longitude": -84.6555606,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/almm4",
+  "slug": "usgs-04155000",
+  "noaaForecastPath": "data/noaa-forecast/ALMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

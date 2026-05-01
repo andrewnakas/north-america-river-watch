@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50025155",
+  "key": "50025155",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50025155",
+  "name": "RIO SALIENTE AT COABEY NR JAYUYA, PR",
+  "waterbody": "RIO SALIENTE AT COABEY NR JAYUYA, PR",
+  "state": "PR",
+  "latitude": 18.212817,
+  "longitude": -66.563186,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAYP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Saliente",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jayp4",
+  "slug": "usgs-50025155",
+  "noaaForecastPath": "data/noaa-forecast/JAYP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

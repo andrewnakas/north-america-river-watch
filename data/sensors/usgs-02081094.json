@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02081094",
+  "key": "02081094",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02081094",
+  "name": "ROANOKE RIVER AT JAMESVILLE, NC",
+  "waterbody": "ROANOKE RIVER AT JAMESVILLE, NC",
+  "state": "NC",
+  "latitude": 35.81305556,
+  "longitude": -76.89277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAMN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jamn7",
+  "slug": "usgs-02081094",
+  "noaaForecastPath": "data/noaa-forecast/JAMN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

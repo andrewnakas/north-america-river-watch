@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02400496",
+  "key": "02400496",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02400496",
+  "name": "COOSA RIVER AT GADSDEN STEAM PLANT NR GADSDEN, AL",
+  "waterbody": "COOSA RIVER AT GADSDEN STEAM PLANT NR GADSDEN, AL",
+  "state": "AL",
+  "latitude": 34.01398655,
+  "longitude": -85.9702488,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02400496",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

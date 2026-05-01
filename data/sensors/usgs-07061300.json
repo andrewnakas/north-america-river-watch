@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07061300",
+  "key": "07061300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07061300",
+  "name": "East Fork Black River at Lesterville, MO",
+  "waterbody": "East Fork Black River at Lesterville, MO",
+  "state": "MO",
+  "latitude": 37.4501111,
+  "longitude": -90.8271111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07061300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

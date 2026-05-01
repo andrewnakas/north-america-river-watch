@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02142900",
+  "key": "02142900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02142900",
+  "name": "LONG CREEK NEAR PAW CREEK, NC",
+  "waterbody": "LONG CREEK NEAR PAW CREEK, NC",
+  "state": "NC",
+  "latitude": 35.3286111,
+  "longitude": -80.9097222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LONN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lonn7",
+  "slug": "usgs-02142900",
+  "noaaForecastPath": "data/noaa-forecast/LONN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

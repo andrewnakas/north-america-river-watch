@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15087585",
+  "key": "15087585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087585",
+  "name": "TWELVEMILE C NR PETERSBURG AK",
+  "waterbody": "TWELVEMILE C NR PETERSBURG AK",
+  "state": "AK",
+  "latitude": 56.968611,
+  "longitude": -133.068056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMPA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twelvemile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmpa2",
+  "slug": "usgs-15087585",
+  "noaaForecastPath": "data/noaa-forecast/TMPA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

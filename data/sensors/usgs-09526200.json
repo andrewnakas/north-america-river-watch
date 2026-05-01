@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09526200",
+  "key": "09526200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09526200",
+  "name": "YPSILANTI CANAL NEAR WINTERHAVEN, CA",
+  "waterbody": "YPSILANTI CANAL NEAR WINTERHAVEN, CA",
+  "state": "CA",
+  "latitude": 32.76589444,
+  "longitude": -114.6550056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09526200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

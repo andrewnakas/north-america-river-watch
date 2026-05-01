@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06790500",
+  "key": "06790500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06790500",
+  "name": "North Loup River near Saint Paul, Nebr.",
+  "waterbody": "North Loup River near Saint Paul, Nebr.",
+  "state": "NE",
+  "latitude": 41.263333,
+  "longitude": -98.448889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPUN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spun1",
+  "slug": "usgs-06790500",
+  "noaaForecastPath": "data/noaa-forecast/SPUN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

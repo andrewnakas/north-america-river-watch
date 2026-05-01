@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10219200",
+  "key": "10219200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10219200",
+  "name": "CHICKEN CREEK NEAR LEVAN, UT",
+  "waterbody": "CHICKEN CREEK NEAR LEVAN, UT",
+  "state": "UT",
+  "latitude": 39.5521802,
+  "longitude": -111.8299276,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10219200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

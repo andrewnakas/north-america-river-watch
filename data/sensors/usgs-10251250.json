@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251250",
+  "key": "10251250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251250",
+  "name": "FORTYMILE WASH AT NARROWS, NTS, NV",
+  "waterbody": "FORTYMILE WASH AT NARROWS, NTS, NV",
+  "state": "NV",
+  "latitude": 36.88689536,
+  "longitude": -116.3814384,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

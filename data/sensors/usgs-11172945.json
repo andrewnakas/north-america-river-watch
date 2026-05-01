@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11172945",
+  "key": "11172945",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11172945",
+  "name": "ALAMEDA C AB DIV DAM NR SUNOL CA",
+  "waterbody": "ALAMEDA C AB DIV DAM NR SUNOL CA",
+  "state": "CA",
+  "latitude": 37.4974356,
+  "longitude": -121.7735644,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MPTC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alameda Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mptc1",
+  "slug": "usgs-11172945",
+  "noaaForecastPath": "data/noaa-forecast/MPTC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

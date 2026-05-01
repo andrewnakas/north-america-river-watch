@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10125900",
+  "key": "10125900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10125900",
+  "name": "MALAD RIVER NEAR BEAR RIVER CITY, UT",
+  "waterbody": "MALAD RIVER NEAR BEAR RIVER CITY, UT",
+  "state": "UT",
+  "latitude": 41.59367778,
+  "longitude": -112.1293444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10125900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

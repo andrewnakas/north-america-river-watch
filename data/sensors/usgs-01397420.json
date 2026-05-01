@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01397420",
+  "key": "01397420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01397420",
+  "name": "SB Raritan R at Black Point Rd at Neshanic Sta NJ",
+  "waterbody": "SB Raritan R at Black Point Rd at Neshanic Sta NJ",
+  "state": "NJ",
+  "latitude": 40.50194444,
+  "longitude": -74.7425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSNN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Raritan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nsnn4",
+  "slug": "usgs-01397420",
+  "noaaForecastPath": "data/noaa-forecast/NSNN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

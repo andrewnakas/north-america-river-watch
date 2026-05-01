@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07099080",
+  "key": "07099080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07099080",
+  "name": "RED CREEK BELOW SULLIVAN PARK AT FORT CARSON, CO",
+  "waterbody": "RED CREEK BELOW SULLIVAN PARK AT FORT CARSON, CO",
+  "state": "CO",
+  "latitude": 38.4997222,
+  "longitude": -104.9133333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07099080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

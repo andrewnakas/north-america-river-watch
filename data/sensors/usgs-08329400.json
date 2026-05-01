@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329400",
+  "key": "08329400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329400",
+  "name": "RIO GRANDE AT HWY 550 BRIDGE AT BERNALILLO, NM",
+  "waterbody": "RIO GRANDE AT HWY 550 BRIDGE AT BERNALILLO, NM",
+  "state": "NM",
+  "latitude": 35.32194444,
+  "longitude": -106.5575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

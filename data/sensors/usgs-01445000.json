@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01445000",
+  "key": "01445000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01445000",
+  "name": "Pequest River at Huntsville NJ",
+  "waterbody": "Pequest River at Huntsville NJ",
+  "state": "NJ",
+  "latitude": 40.9808333,
+  "longitude": -74.77638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HUNN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pequest River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hunn4",
+  "slug": "usgs-01445000",
+  "noaaForecastPath": "data/noaa-forecast/HUNN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

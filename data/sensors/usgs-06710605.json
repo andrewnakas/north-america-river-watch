@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06710605",
+  "key": "06710605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06710605",
+  "name": "BEAR CREEK ABOVE BEAR CREEK LAKE NEAR MORRISON, CO",
+  "waterbody": "BEAR CREEK ABOVE BEAR CREEK LAKE NEAR MORRISON, CO",
+  "state": "CO",
+  "latitude": 39.65202778,
+  "longitude": -105.17325,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06710605",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

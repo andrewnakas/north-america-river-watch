@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10183900",
+  "key": "10183900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10183900",
+  "name": "EAST FORK SEVIER RIVER NEAR RUBYS INN, UT",
+  "waterbody": "EAST FORK SEVIER RIVER NEAR RUBYS INN, UT",
+  "state": "UT",
+  "latitude": 37.57581584,
+  "longitude": -112.2657537,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10183900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

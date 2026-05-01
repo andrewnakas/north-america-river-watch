@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10257549",
+  "key": "10257549",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10257549",
+  "name": "WHITEWATER R A WINDY POINT OVERFLOW CHANNEL CA",
+  "waterbody": "WHITEWATER R A WINDY POINT OVERFLOW CHANNEL CA",
+  "state": "CA",
+  "latitude": 33.8989045,
+  "longitude": -116.6211256,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10257549",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

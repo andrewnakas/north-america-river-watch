@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05421682",
+  "key": "05421682",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05421682",
+  "name": "Buffalo Creek South of Prairieburg, IA",
+  "waterbody": "Buffalo Creek South of Prairieburg, IA",
+  "state": "IA",
+  "latitude": 42.1958333,
+  "longitude": -91.4227778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRAI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Creek (IA)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prai4",
+  "slug": "usgs-05421682",
+  "noaaForecastPath": "data/noaa-forecast/PRAI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07363000",
+  "key": "07363000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07363000",
+  "name": "Saline River at Benton, AR",
+  "waterbody": "Saline River at Benton, AR",
+  "state": "AR",
+  "latitude": 34.56777778,
+  "longitude": -92.6102778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTNA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btna4",
+  "slug": "usgs-07363000",
+  "noaaForecastPath": "data/noaa-forecast/BTNA4.json",
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

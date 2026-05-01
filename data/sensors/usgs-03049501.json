@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03049501",
+  "key": "03049501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049501",
+  "name": "Allegheny River (lower pool) at Natrona, PA",
+  "waterbody": "Allegheny River (lower pool) at Natrona, PA",
+  "state": "PA",
+  "latitude": 40.61293889,
+  "longitude": -79.71951389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03049501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

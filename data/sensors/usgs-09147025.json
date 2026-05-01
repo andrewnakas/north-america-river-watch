@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09147025",
+  "key": "09147025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09147025",
+  "name": "UNCOMPAHGRE RIVER BELOW RIDGWAY RESERVOIR, CO",
+  "waterbody": "UNCOMPAHGRE RIVER BELOW RIDGWAY RESERVOIR, CO",
+  "state": "CO",
+  "latitude": 38.24055556,
+  "longitude": -107.7603056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UNRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Uncompahgre River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/unrc2",
+  "slug": "usgs-09147025",
+  "noaaForecastPath": "data/noaa-forecast/UNRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

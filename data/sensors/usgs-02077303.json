@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02077303",
+  "key": "02077303",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02077303",
+  "name": "HYCO R BL ABAY D NR MCGEHEES MILL, NC",
+  "waterbody": "HYCO R BL ABAY D NR MCGEHEES MILL, NC",
+  "state": "NC",
+  "latitude": 36.5227222,
+  "longitude": -78.9970556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02077303",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

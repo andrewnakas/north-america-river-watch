@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14243000",
+  "key": "14243000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14243000",
+  "name": "COWLITZ RIVER AT CASTLE ROCK, WA",
+  "waterbody": "COWLITZ RIVER AT CASTLE ROCK, WA",
+  "state": "WA",
+  "latitude": 46.2748332,
+  "longitude": -122.9145587,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CASW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowlitz River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/casw1",
+  "slug": "usgs-14243000",
+  "noaaForecastPath": "data/noaa-forecast/CASW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

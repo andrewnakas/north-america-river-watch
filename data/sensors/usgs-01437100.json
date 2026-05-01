@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01437100",
+  "key": "01437100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01437100",
+  "name": "GUMAER BROOK NEAR WURTSBORO NY",
+  "waterbody": "GUMAER BROOK NEAR WURTSBORO NY",
+  "state": "NY",
+  "latitude": 41.59594444,
+  "longitude": -74.4681944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GMRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gumaer Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gmrn6",
+  "slug": "usgs-01437100",
+  "noaaForecastPath": "data/noaa-forecast/GMRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08017300",
+  "key": "08017300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08017300",
+  "name": "S Fk Sabine Rv nr Quinlan, TX",
+  "waterbody": "S Fk Sabine Rv nr Quinlan, TX",
+  "state": "TX",
+  "latitude": 32.89790085,
+  "longitude": -96.2533118,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QLAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qlat2",
+  "slug": "usgs-08017300",
+  "noaaForecastPath": "data/noaa-forecast/QLAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

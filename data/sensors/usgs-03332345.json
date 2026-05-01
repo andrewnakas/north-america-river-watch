@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03332345",
+  "key": "03332345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03332345",
+  "name": "TIPPECANOE RIVER AT BUFFALO, IN",
+  "waterbody": "TIPPECANOE RIVER AT BUFFALO, IN",
+  "state": "IN",
+  "latitude": 40.8778611,
+  "longitude": -86.7511944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLOI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tippecanoe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bloi3",
+  "slug": "usgs-03332345",
+  "noaaForecastPath": "data/noaa-forecast/BLOI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

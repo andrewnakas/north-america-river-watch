@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08143990",
+  "key": "08143990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08143990",
+  "name": "Noyes Canal at Diversion pt nr. Menard, TX",
+  "waterbody": "Noyes Canal at Diversion pt nr. Menard, TX",
+  "state": "TX",
+  "latitude": 30.92175,
+  "longitude": -99.8525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08143990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

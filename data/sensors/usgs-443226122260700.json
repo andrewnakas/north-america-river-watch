@@ -1,0 +1,22 @@
+{
+  "id": "usgs:443226122260700",
+  "key": "443226122260700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "443226122260700",
+  "name": "PANTHER CREEK AT MOUTH, NEAR CASCADIA, OR",
+  "waterbody": "PANTHER CREEK AT MOUTH, NEAR CASCADIA, OR",
+  "state": "OR",
+  "latitude": 44.5404222,
+  "longitude": -122.4352,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QCCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quartzville Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qcco3",
+  "slug": "usgs-443226122260700",
+  "noaaForecastPath": "data/noaa-forecast/QCCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.351Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208726005",
+  "key": "0208726005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208726005",
+  "name": "CRABTREE CR AT EBENEZER CHURCH RD NR RALEIGH, NC",
+  "waterbody": "CRABTREE CR AT EBENEZER CHURCH RD NR RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.84527778,
+  "longitude": -78.7244444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBNN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crabtree Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebnn7",
+  "slug": "usgs-0208726005",
+  "noaaForecastPath": "data/noaa-forecast/EBNN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

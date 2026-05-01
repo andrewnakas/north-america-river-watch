@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03432800",
+  "key": "03432800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03432800",
+  "name": "HARPETH RIVER AT MORAN RD BELOW FRANKLIN TN",
+  "waterbody": "HARPETH RIVER AT MORAN RD BELOW FRANKLIN TN",
+  "state": "TN",
+  "latitude": 36.0172222,
+  "longitude": -86.8997222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03432800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

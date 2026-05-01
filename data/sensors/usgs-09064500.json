@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09064500",
+  "key": "09064500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09064500",
+  "name": "HOMESTAKE CREEK NEAR RED CLIFF, CO.",
+  "waterbody": "HOMESTAKE CREEK NEAR RED CLIFF, CO.",
+  "state": "CO",
+  "latitude": 39.4733198,
+  "longitude": -106.3678056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09064500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

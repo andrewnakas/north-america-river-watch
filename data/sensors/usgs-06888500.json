@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06888500",
+  "key": "06888500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06888500",
+  "name": "MILL C NR PAXICO, KS",
+  "waterbody": "MILL C NR PAXICO, KS",
+  "state": "KS",
+  "latitude": 39.06472106,
+  "longitude": -96.1691605,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PXCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (PXCK1)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pxck1",
+  "slug": "usgs-06888500",
+  "noaaForecastPath": "data/noaa-forecast/PXCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

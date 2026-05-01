@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021320550",
+  "key": "021320550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021320550",
+  "name": "LYNCHES RIVER AT US378 NR LAKE CITY, SC",
+  "waterbody": "LYNCHES RIVER AT US378 NR LAKE CITY, SC",
+  "state": "SC",
+  "latitude": 33.92,
+  "longitude": -79.6566667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lynches River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llcs1",
+  "slug": "usgs-021320550",
+  "noaaForecastPath": "data/noaa-forecast/LLCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

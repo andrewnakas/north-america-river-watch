@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09470825",
+  "key": "09470825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09470825",
+  "name": "LA TERRAZA OUTFLOW NEAR SIERRA VISTA, AZ",
+  "waterbody": "LA TERRAZA OUTFLOW NEAR SIERRA VISTA, AZ",
+  "state": "AZ",
+  "latitude": 31.5024301,
+  "longitude": -110.2749695,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09470825",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

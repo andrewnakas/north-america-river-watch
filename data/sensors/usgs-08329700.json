@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329700",
+  "key": "08329700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329700",
+  "name": "CAMPUS WASH AT ALBUQUERQUE, NM",
+  "waterbody": "CAMPUS WASH AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.09388889,
+  "longitude": -106.6236111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08382730",
+  "key": "08382730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08382730",
+  "name": "LOS ESTEROS CREEK ABOVE SANTA ROSA LAKE, NM",
+  "waterbody": "LOS ESTEROS CREEK ABOVE SANTA ROSA LAKE, NM",
+  "state": "NM",
+  "latitude": 35.09505534,
+  "longitude": -104.6641554,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08382730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

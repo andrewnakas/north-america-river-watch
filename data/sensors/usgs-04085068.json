@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04085068",
+  "key": "04085068",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085068",
+  "name": "ASHWAUBENON CREEK NEAR LITTLE RAPIDS, WI",
+  "waterbody": "ASHWAUBENON CREEK NEAR LITTLE RAPIDS, WI",
+  "state": "WI",
+  "latitude": 44.4141571,
+  "longitude": -88.1270474,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04085068",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

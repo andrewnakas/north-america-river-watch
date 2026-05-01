@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03590000",
+  "key": "03590000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03590000",
+  "name": "CYPRESS CREEK NEAR FLORENCE AL",
+  "waterbody": "CYPRESS CREEK NEAR FLORENCE AL",
+  "state": "AL",
+  "latitude": 34.8078655,
+  "longitude": -87.7005847,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03590000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

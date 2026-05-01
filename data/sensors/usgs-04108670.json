@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04108670",
+  "key": "04108670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04108670",
+  "name": "KALAMAZOO RIVER NEAR NEW RICHMOND, MI",
+  "waterbody": "KALAMAZOO RIVER NEAR NEW RICHMOND, MI",
+  "state": "MI",
+  "latitude": 42.64474865,
+  "longitude": -86.1161474,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04108670",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

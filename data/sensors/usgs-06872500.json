@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06872500",
+  "key": "06872500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06872500",
+  "name": "NF SOLOMON R AT PORTIS, KS",
+  "waterbody": "NF SOLOMON R AT PORTIS, KS",
+  "state": "KS",
+  "latitude": 39.55300278,
+  "longitude": -98.6923222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTIK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N F Solomon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptik1",
+  "slug": "usgs-06872500",
+  "noaaForecastPath": "data/noaa-forecast/PTIK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

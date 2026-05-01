@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01677000",
+  "key": "01677000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01677000",
+  "name": "WARE CREEK NEAR TOANO, VA",
+  "waterbody": "WARE CREEK NEAR TOANO, VA",
+  "state": "VA",
+  "latitude": 37.43820128,
+  "longitude": -76.7863497,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01677000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

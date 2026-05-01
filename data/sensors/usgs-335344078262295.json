@@ -1,0 +1,22 @@
+{
+  "id": "usgs:335344078262295",
+  "key": "335344078262295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "335344078262295",
+  "name": "CAUSEWAY DRIVE BRIDGE, HWY 904 TO SUNSET BEACH, NC",
+  "waterbody": "CAUSEWAY DRIVE BRIDGE, HWY 904 TO SUNSET BEACH, NC",
+  "state": "NC",
+  "latitude": 33.8956722,
+  "longitude": -78.4395778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OIBN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Intracoastal Waterway",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oibn7",
+  "slug": "usgs-335344078262295",
+  "noaaForecastPath": "data/noaa-forecast/OIBN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

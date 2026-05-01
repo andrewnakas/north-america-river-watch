@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02339500",
+  "key": "02339500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02339500",
+  "name": "CHATTAHOOCHEE RIVER AT WEST POINT, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER AT WEST POINT, GA",
+  "state": "GA",
+  "latitude": 32.88663889,
+  "longitude": -85.1815833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTPG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtpg1",
+  "slug": "usgs-02339500",
+  "noaaForecastPath": "data/noaa-forecast/WTPG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

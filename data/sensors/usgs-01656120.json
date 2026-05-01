@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01656120",
+  "key": "01656120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01656120",
+  "name": "CEDAR RUN AT RT 646 NEAR ADEN, VA",
+  "waterbody": "CEDAR RUN AT RT 646 NEAR ADEN, VA",
+  "state": "VA",
+  "latitude": 38.64150829,
+  "longitude": -77.5124873,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01656120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

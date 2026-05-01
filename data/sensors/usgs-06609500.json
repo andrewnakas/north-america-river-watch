@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06609500",
+  "key": "06609500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06609500",
+  "name": "Boyer River at Logan, IA",
+  "waterbody": "Boyer River at Logan, IA",
+  "state": "IA",
+  "latitude": 41.64169444,
+  "longitude": -95.7823333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGNI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boyer River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgni4",
+  "slug": "usgs-06609500",
+  "noaaForecastPath": "data/noaa-forecast/LGNI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

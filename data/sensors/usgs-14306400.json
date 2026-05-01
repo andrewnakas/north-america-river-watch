@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14306400",
+  "key": "14306400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14306400",
+  "name": "FIVE RIVERS NR FISHER, OREG.",
+  "waterbody": "FIVE RIVERS NR FISHER, OREG.",
+  "state": "OR",
+  "latitude": 44.33734287,
+  "longitude": -123.8276107,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14306400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

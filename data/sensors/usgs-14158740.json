@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14158740",
+  "key": "14158740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14158740",
+  "name": "MCKENZIE RIVER BL PAYNE CR, NR BELKNAP SPRINGS, OR",
+  "waterbody": "MCKENZIE RIVER BL PAYNE CR, NR BELKNAP SPRINGS, OR",
+  "state": "OR",
+  "latitude": 44.28638889,
+  "longitude": -122.0368056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKenzie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/muso3",
+  "slug": "usgs-14158740",
+  "noaaForecastPath": "data/noaa-forecast/MUSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

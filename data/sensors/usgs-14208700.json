@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14208700",
+  "key": "14208700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14208700",
+  "name": "OAK GROVE FORK NEAR GOVERNMENT CAMP, OR",
+  "waterbody": "OAK GROVE FORK NEAR GOVERNMENT CAMP, OR",
+  "state": "OR",
+  "latitude": 45.11373009,
+  "longitude": -121.8150775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OGCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Grove Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ogco3",
+  "slug": "usgs-14208700",
+  "noaaForecastPath": "data/noaa-forecast/OGCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

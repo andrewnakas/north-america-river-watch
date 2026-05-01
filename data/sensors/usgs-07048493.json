@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07048493",
+  "key": "07048493",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07048493",
+  "name": "Town Br. at S Morningside at Fayetteville, AR",
+  "waterbody": "Town Br. at S Morningside at Fayetteville, AR",
+  "state": "AR",
+  "latitude": 36.0449333,
+  "longitude": -94.1494333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07048493",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

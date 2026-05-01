@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13235000",
+  "key": "13235000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13235000",
+  "name": "SOUTH FORK PAYETTE RIVER AT LOWMAN, ID",
+  "waterbody": "SOUTH FORK PAYETTE RIVER AT LOWMAN, ID",
+  "state": "ID",
+  "latitude": 44.08527778,
+  "longitude": -115.6222222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRLI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Payette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prli1",
+  "slug": "usgs-13235000",
+  "noaaForecastPath": "data/noaa-forecast/PRLI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

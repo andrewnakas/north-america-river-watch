@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03548500",
+  "key": "03548500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03548500",
+  "name": "HIWASSEE RIVER ABOVE MURPHY, NC",
+  "waterbody": "HIWASSEE RIVER ABOVE MURPHY, NC",
+  "state": "NC",
+  "latitude": 35.08138889,
+  "longitude": -84.0027778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03548500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

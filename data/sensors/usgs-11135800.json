@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11135800",
+  "key": "11135800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11135800",
+  "name": "SAN ANTONIO C A LOS ALAMOS CA",
+  "waterbody": "SAN ANTONIO C A LOS ALAMOS CA",
+  "state": "CA",
+  "latitude": 34.74330807,
+  "longitude": -120.2709507,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11135800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

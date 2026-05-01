@@ -1,0 +1,19 @@
+{
+  "id": "usgs:255242080110901",
+  "key": "255242080110901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "255242080110901",
+  "name": "C-8 CANAL UPSTREAM OF S-28 AT NORTH MIAMI, FL",
+  "waterbody": "C-8 CANAL UPSTREAM OF S-28 AT NORTH MIAMI, FL",
+  "state": "FL",
+  "latitude": 25.8783,
+  "longitude": -80.1857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-255242080110901",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.211Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05292000",
+  "key": "05292000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05292000",
+  "name": "MINNESOTA RIVER AT ORTONVILLE, MN",
+  "waterbody": "MINNESOTA RIVER AT ORTONVILLE, MN",
+  "state": "MN",
+  "latitude": 45.29552046,
+  "longitude": -96.4442231,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORTM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnesota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ortm5",
+  "slug": "usgs-05292000",
+  "noaaForecastPath": "data/noaa-forecast/ORTM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

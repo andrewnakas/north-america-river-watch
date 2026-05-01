@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02085000",
+  "key": "02085000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02085000",
+  "name": "ENO RIVER AT HILLSBOROUGH, NC",
+  "waterbody": "ENO RIVER AT HILLSBOROUGH, NC",
+  "state": "NC",
+  "latitude": 36.0711111,
+  "longitude": -79.0955556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eno River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlsn7",
+  "slug": "usgs-02085000",
+  "noaaForecastPath": "data/noaa-forecast/HLSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

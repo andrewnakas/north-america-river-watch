@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10154500",
+  "key": "10154500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10154500",
+  "name": "WEBER-PROVO DIVERSION CANAL NEAR WOODLAND, UT",
+  "waterbody": "WEBER-PROVO DIVERSION CANAL NEAR WOODLAND, UT",
+  "state": "UT",
+  "latitude": 40.6138408,
+  "longitude": -111.3049046,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10154500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

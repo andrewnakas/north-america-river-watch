@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04044599",
+  "key": "04044599",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04044599",
+  "name": "CHOCOLAY RIVER AT GREEN BAY STREET AT HARVEY, MI",
+  "waterbody": "CHOCOLAY RIVER AT GREEN BAY STREET AT HARVEY, MI",
+  "state": "MI",
+  "latitude": 46.49576839,
+  "longitude": -87.3504182,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04044599",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02110770",
+  "key": "02110770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110770",
+  "name": "AIW AT GRAND STRAND AIRPORT N. MYRTLE BEACH, SC",
+  "waterbody": "AIW AT GRAND STRAND AIRPORT N. MYRTLE BEACH, SC",
+  "state": "SC",
+  "latitude": 33.82128347,
+  "longitude": -78.7186287,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02110770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

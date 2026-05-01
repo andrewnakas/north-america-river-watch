@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08104590",
+  "key": "08104590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08104590",
+  "name": "N Fk San Gabriel Rv at FM 243 nr Briggs, TX",
+  "waterbody": "N Fk San Gabriel Rv at FM 243 nr Briggs, TX",
+  "state": "TX",
+  "latitude": 30.8139,
+  "longitude": -97.9658,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork San Gabriel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfbt2",
+  "slug": "usgs-08104590",
+  "noaaForecastPath": "data/noaa-forecast/NFBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

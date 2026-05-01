@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07234000",
+  "key": "07234000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07234000",
+  "name": "Beaver River at Beaver, OK",
+  "waterbody": "Beaver River at Beaver, OK",
+  "state": "OK",
+  "latitude": 36.82224819,
+  "longitude": -100.5193158,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVRO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvro2",
+  "slug": "usgs-07234000",
+  "noaaForecastPath": "data/noaa-forecast/BVRO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08109310",
+  "key": "08109310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08109310",
+  "name": "Thompsons Ck at SH 47 nr Bryan, TX",
+  "waterbody": "Thompsons Ck at SH 47 nr Bryan, TX",
+  "state": "TX",
+  "latitude": 30.63758889,
+  "longitude": -96.4524611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08109310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

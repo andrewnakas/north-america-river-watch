@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06433500",
+  "key": "06433500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06433500",
+  "name": "HAY CR AT BELLE FOURCHE SD",
+  "waterbody": "HAY CR AT BELLE FOURCHE SD",
+  "state": "SD",
+  "latitude": 44.66708999,
+  "longitude": -103.8467838,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLES2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Belle Fourche River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bles2",
+  "slug": "usgs-06433500",
+  "noaaForecastPath": "data/noaa-forecast/BLES2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

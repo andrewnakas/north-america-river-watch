@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146470",
+  "key": "02146470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146470",
+  "name": "LITTLE HOPE CR AT SENECA PLACE AT CHARLOTTE, NC",
+  "waterbody": "LITTLE HOPE CR AT SENECA PLACE AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.16444444,
+  "longitude": -80.8530556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LHCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Hope Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lhcn7",
+  "slug": "usgs-02146470",
+  "noaaForecastPath": "data/noaa-forecast/LHCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

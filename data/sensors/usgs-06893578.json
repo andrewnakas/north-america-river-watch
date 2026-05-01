@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893578",
+  "key": "06893578",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893578",
+  "name": "Blue River at Stadium Drive in Kansas City, MO",
+  "waterbody": "Blue River at Stadium Drive in Kansas City, MO",
+  "state": "MO",
+  "latitude": 39.0583384,
+  "longitude": -94.5118983,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KSDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ksdm7",
+  "slug": "usgs-06893578",
+  "noaaForecastPath": "data/noaa-forecast/KSDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01096508",
+  "key": "01096508",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01096508",
+  "name": "MERRIMACK RIVER AT NASHUA, NH",
+  "waterbody": "MERRIMACK RIVER AT NASHUA, NH",
+  "state": "NH",
+  "latitude": 42.7634219,
+  "longitude": -71.4428432,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSHN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Merrimack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nshn3",
+  "slug": "usgs-01096508",
+  "noaaForecastPath": "data/noaa-forecast/NSHN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

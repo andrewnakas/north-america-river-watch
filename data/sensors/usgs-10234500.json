@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10234500",
+  "key": "10234500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10234500",
+  "name": "BEAVER RIVER NEAR BEAVER, UT",
+  "waterbody": "BEAVER RIVER NEAR BEAVER, UT",
+  "state": "UT",
+  "latitude": 38.2798,
+  "longitude": -112.568286,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10234500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

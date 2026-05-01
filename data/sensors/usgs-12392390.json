@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12392390",
+  "key": "12392390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12392390",
+  "name": "PACK RIVER AB RAPID LIGHTNING CREEK NR COLBURN ID",
+  "waterbody": "PACK RIVER AB RAPID LIGHTNING CREEK NR COLBURN ID",
+  "state": "ID",
+  "latitude": 48.3643739,
+  "longitude": -116.4085216,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12392390",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

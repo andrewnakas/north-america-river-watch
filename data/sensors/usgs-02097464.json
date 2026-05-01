@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02097464",
+  "key": "02097464",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02097464",
+  "name": "MORGAN CREEK NEAR WHITE CROSS, NC",
+  "waterbody": "MORGAN CREEK NEAR WHITE CROSS, NC",
+  "state": "NC",
+  "latitude": 35.9236111,
+  "longitude": -79.115,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGNN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Morgan Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgnn7",
+  "slug": "usgs-02097464",
+  "noaaForecastPath": "data/noaa-forecast/MGNN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

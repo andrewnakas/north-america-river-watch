@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03073000",
+  "key": "03073000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03073000",
+  "name": "South Fork Tenmile Creek at Jefferson, PA",
+  "waterbody": "South Fork Tenmile Creek at Jefferson, PA",
+  "state": "PA",
+  "latitude": 39.92313056,
+  "longitude": -80.072558,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JFRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenmile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jfrp1",
+  "slug": "usgs-03073000",
+  "noaaForecastPath": "data/noaa-forecast/JFRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

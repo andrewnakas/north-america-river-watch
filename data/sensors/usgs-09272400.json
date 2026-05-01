@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09272400",
+  "key": "09272400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09272400",
+  "name": "GREEN RIVER AT OURAY, UTAH",
+  "waterbody": "GREEN RIVER AT OURAY, UTAH",
+  "state": "UT",
+  "latitude": 40.0847972,
+  "longitude": -109.6758361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09272400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

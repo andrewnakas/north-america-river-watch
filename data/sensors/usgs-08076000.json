@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08076000",
+  "key": "08076000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08076000",
+  "name": "Greens Bayou nr Houston, TX",
+  "waterbody": "Greens Bayou nr Houston, TX",
+  "state": "TX",
+  "latitude": 29.9182784,
+  "longitude": -95.3068796,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greens Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbht2",
+  "slug": "usgs-08076000",
+  "noaaForecastPath": "data/noaa-forecast/GBHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

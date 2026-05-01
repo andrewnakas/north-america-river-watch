@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01585500",
+  "key": "01585500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585500",
+  "name": "CRANBERRY BRANCH NEAR WESTMINSTER, MD",
+  "waterbody": "CRANBERRY BRANCH NEAR WESTMINSTER, MD",
+  "state": "MD",
+  "latitude": 39.59269444,
+  "longitude": -76.96825,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WESM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cranberry Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wesm2",
+  "slug": "usgs-01585500",
+  "noaaForecastPath": "data/noaa-forecast/WESM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

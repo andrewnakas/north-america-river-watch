@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11485000",
+  "key": "11485000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11485000",
+  "name": "LOST RIVER AT OLENE, OR",
+  "waterbody": "LOST RIVER AT OLENE, OR",
+  "state": "OR",
+  "latitude": 42.17319444,
+  "longitude": -121.618361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11485000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

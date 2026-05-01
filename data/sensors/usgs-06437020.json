@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06437020",
+  "key": "06437020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06437020",
+  "name": "BEAR BUTTE CREEK NEAR DEADWOOD, SD",
+  "waterbody": "BEAR BUTTE CREEK NEAR DEADWOOD, SD",
+  "state": "SD",
+  "latitude": 44.3355403,
+  "longitude": -103.6354716,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Butte Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glns2",
+  "slug": "usgs-06437020",
+  "noaaForecastPath": "data/noaa-forecast/GLNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

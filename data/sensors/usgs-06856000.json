@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06856000",
+  "key": "06856000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06856000",
+  "name": "REPUBLICAN R AT CONCORDIA, KS",
+  "waterbody": "REPUBLICAN R AT CONCORDIA, KS",
+  "state": "KS",
+  "latitude": 39.58866944,
+  "longitude": -97.6582056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNKK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnkk1",
+  "slug": "usgs-06856000",
+  "noaaForecastPath": "data/noaa-forecast/CNKK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

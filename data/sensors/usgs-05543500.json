@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05543500",
+  "key": "05543500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05543500",
+  "name": "ILLINOIS RIVER AT MARSEILLES, IL",
+  "waterbody": "ILLINOIS RIVER AT MARSEILLES, IL",
+  "state": "IL",
+  "latitude": 41.327,
+  "longitude": -88.7170833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrsi2",
+  "slug": "usgs-05543500",
+  "noaaForecastPath": "data/noaa-forecast/MRSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02123629",
+  "key": "02123629",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02123629",
+  "name": "LITTLE MOUNTAIN CREEK AT NC HWY 740 AT BADIN, NC",
+  "waterbody": "LITTLE MOUNTAIN CREEK AT NC HWY 740 AT BADIN, NC",
+  "state": "NC",
+  "latitude": 35.4006083,
+  "longitude": -80.1228806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02123629",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

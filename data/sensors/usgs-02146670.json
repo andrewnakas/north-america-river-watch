@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146670",
+  "key": "02146670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146670",
+  "name": "FOUR MILE CREEK NEAR PINEVILLE, NC",
+  "waterbody": "FOUR MILE CREEK NEAR PINEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.07694444,
+  "longitude": -80.8225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fourmile Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmcn7",
+  "slug": "usgs-02146670",
+  "noaaForecastPath": "data/noaa-forecast/FMCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

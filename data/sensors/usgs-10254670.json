@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10254670",
+  "key": "10254670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10254670",
+  "name": "ALAMO R AT DROP 3 NR CALIPATRIA CA",
+  "waterbody": "ALAMO R AT DROP 3 NR CALIPATRIA CA",
+  "state": "CA",
+  "latitude": 33.10444444,
+  "longitude": -115.5441667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10254670",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

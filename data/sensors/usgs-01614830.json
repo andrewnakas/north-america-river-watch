@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01614830",
+  "key": "01614830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01614830",
+  "name": "OPEQUON CREEK NEAR STEPHENS CITY, VA",
+  "waterbody": "OPEQUON CREEK NEAR STEPHENS CITY, VA",
+  "state": "VA",
+  "latitude": 39.1089948,
+  "longitude": -78.2050011,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01614830",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

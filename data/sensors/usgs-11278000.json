@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11278000",
+  "key": "11278000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11278000",
+  "name": "ELEANOR C NR HETCH HETCHY CA",
+  "waterbody": "ELEANOR C NR HETCH HETCHY CA",
+  "state": "CA",
+  "latitude": 37.96907415,
+  "longitude": -119.8820916,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11278000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

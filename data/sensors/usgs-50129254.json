@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50129254",
+  "key": "50129254",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50129254",
+  "name": "RIO LOCO AT LAS LATAS NR LA JOYA NR GUANICA, PR",
+  "waterbody": "RIO LOCO AT LAS LATAS NR LA JOYA NR GUANICA, PR",
+  "state": "PR",
+  "latitude": 18.009161,
+  "longitude": -66.8767,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOGP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Loco",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/logp4",
+  "slug": "usgs-50129254",
+  "noaaForecastPath": "data/noaa-forecast/LOGP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

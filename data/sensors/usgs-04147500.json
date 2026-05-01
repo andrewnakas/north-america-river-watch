@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04147500",
+  "key": "04147500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04147500",
+  "name": "FLINT RIVER NEAR OTISVILLE, MI",
+  "waterbody": "FLINT RIVER NEAR OTISVILLE, MI",
+  "state": "MI",
+  "latitude": 43.11113726,
+  "longitude": -83.5193965,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OTSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/otsm4",
+  "slug": "usgs-04147500",
+  "noaaForecastPath": "data/noaa-forecast/OTSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

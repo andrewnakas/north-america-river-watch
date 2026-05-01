@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10323425",
+  "key": "10323425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10323425",
+  "name": "HUMBOLDT RV AT OLD US 40 BRG AT DUNPHY, NV",
+  "waterbody": "HUMBOLDT RV AT OLD US 40 BRG AT DUNPHY, NV",
+  "state": "NV",
+  "latitude": 40.7054675,
+  "longitude": -116.5309216,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRDN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humboldt River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrdn2",
+  "slug": "usgs-10323425",
+  "noaaForecastPath": "data/noaa-forecast/HRDN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

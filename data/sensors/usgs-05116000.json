@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05116000",
+  "key": "05116000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05116000",
+  "name": "SOURIS RIVER NR FOXHOLM, ND",
+  "waterbody": "SOURIS RIVER NR FOXHOLM, ND",
+  "state": "ND",
+  "latitude": 48.3722357,
+  "longitude": -101.5054414,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOXN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Souris River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/foxn8",
+  "slug": "usgs-05116000",
+  "noaaForecastPath": "data/noaa-forecast/FOXN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

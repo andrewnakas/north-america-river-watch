@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12509050",
+  "key": "12509050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12509050",
+  "name": "YAKIMA RIVER AT EUCLID BR NR GRANDVIEW, WA",
+  "waterbody": "YAKIMA RIVER AT EUCLID BR NR GRANDVIEW, WA",
+  "state": "WA",
+  "latitude": 46.21679857,
+  "longitude": -119.9178163,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12509050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

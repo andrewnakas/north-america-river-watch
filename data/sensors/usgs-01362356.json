@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362356",
+  "key": "01362356",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362356",
+  "name": "WARNER CREEK AT SILVER HOLLOW RD NR CHICHESTER NY",
+  "waterbody": "WARNER CREEK AT SILVER HOLLOW RD NR CHICHESTER NY",
+  "state": "NY",
+  "latitude": 42.0950833,
+  "longitude": -74.2887222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362356",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08098450",
+  "key": "08098450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08098450",
+  "name": "Brazos Rv at FM 485 near Hearne, TX",
+  "waterbody": "Brazos Rv at FM 485 near Hearne, TX",
+  "state": "TX",
+  "latitude": 30.86508333,
+  "longitude": -96.6951667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08098450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

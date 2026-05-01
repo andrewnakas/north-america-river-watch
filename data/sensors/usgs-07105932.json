@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07105932",
+  "key": "07105932",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07105932",
+  "name": "LITTLE FOUNTAIN CR BELOW RIPLEY DITCH NR FT CARSON",
+  "waterbody": "LITTLE FOUNTAIN CR BELOW RIPLEY DITCH NR FT CARSON",
+  "state": "CO",
+  "latitude": 38.67885,
+  "longitude": -104.8515278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07105932",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

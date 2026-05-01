@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0217208135",
+  "key": "0217208135",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0217208135",
+  "name": "SAWMILL BRANCH AT ASHLEY DRIVE NR SUMMERVILLE, SC",
+  "waterbody": "SAWMILL BRANCH AT ASHLEY DRIVE NR SUMMERVILLE, SC",
+  "state": "SC",
+  "latitude": 33.0041111,
+  "longitude": -80.1826944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sawmill Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbrs1",
+  "slug": "usgs-0217208135",
+  "noaaForecastPath": "data/noaa-forecast/SBRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

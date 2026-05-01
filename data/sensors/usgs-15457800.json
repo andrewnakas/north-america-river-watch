@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15457800",
+  "key": "15457800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15457800",
+  "name": "HESS C NR LIVENGOOD AK",
+  "waterbody": "HESS C NR LIVENGOOD AK",
+  "state": "AK",
+  "latitude": 65.66483428,
+  "longitude": -149.0989254,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hess Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcra2",
+  "slug": "usgs-15457800",
+  "noaaForecastPath": "data/noaa-forecast/HCRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

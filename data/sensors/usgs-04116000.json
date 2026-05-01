@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04116000",
+  "key": "04116000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04116000",
+  "name": "GRAND RIVER AT IONIA, MI",
+  "waterbody": "GRAND RIVER AT IONIA, MI",
+  "state": "MI",
+  "latitude": 42.971977,
+  "longitude": -85.0691725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IONM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ionm4",
+  "slug": "usgs-04116000",
+  "noaaForecastPath": "data/noaa-forecast/IONM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

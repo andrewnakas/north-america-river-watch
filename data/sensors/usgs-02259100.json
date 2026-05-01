@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02259100",
+  "key": "02259100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02259100",
+  "name": "INDIAN PRAIRIE CANAL ABOVE S-72 NR OKEECHOBEE, FL",
+  "waterbody": "INDIAN PRAIRIE CANAL ABOVE S-72 NR OKEECHOBEE, FL",
+  "state": "FL",
+  "latitude": 27.0964472,
+  "longitude": -81.0091722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02259100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

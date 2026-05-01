@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14231000",
+  "key": "14231000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14231000",
+  "name": "COWLITZ RIVER AT RANDLE, WA",
+  "waterbody": "COWLITZ RIVER AT RANDLE, WA",
+  "state": "WA",
+  "latitude": 46.5319444,
+  "longitude": -121.9569444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RAWW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowlitz River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/raww1",
+  "slug": "usgs-14231000",
+  "noaaForecastPath": "data/noaa-forecast/RAWW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11126400",
+  "key": "11126400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11126400",
+  "name": "SANTA YNEZ R A HWY 154 NR SANTA YNEZ CA",
+  "waterbody": "SANTA YNEZ R A HWY 154 NR SANTA YNEZ CA",
+  "state": "CA",
+  "latitude": 34.5901111,
+  "longitude": -120.025361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11126400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02053800",
+  "key": "02053800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02053800",
+  "name": "S F ROANOKE RIVER NEAR SHAWSVILLE, VA",
+  "waterbody": "S F ROANOKE RIVER NEAR SHAWSVILLE, VA",
+  "state": "VA",
+  "latitude": 37.1401323,
+  "longitude": -80.2664328,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHAV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shav2",
+  "slug": "usgs-02053800",
+  "noaaForecastPath": "data/noaa-forecast/SHAV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

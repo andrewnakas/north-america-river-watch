@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02047370",
+  "key": "02047370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02047370",
+  "name": "NOTTOWAY RIVER NEAR RIVERDALE, VA",
+  "waterbody": "NOTTOWAY RIVER NEAR RIVERDALE, VA",
+  "state": "VA",
+  "latitude": 36.56681864,
+  "longitude": -76.9444058,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVDV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nottoway River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvdv2",
+  "slug": "usgs-02047370",
+  "noaaForecastPath": "data/noaa-forecast/RVDV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

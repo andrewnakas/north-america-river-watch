@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01172010",
+  "key": "01172010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01172010",
+  "name": "CONNECTICUT R AT I-391 BRIDGE AT HOLYOKE, MA",
+  "waterbody": "CONNECTICUT R AT I-391 BRIDGE AT HOLYOKE, MA",
+  "state": "MA",
+  "latitude": 42.19146944,
+  "longitude": -72.60931111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLYM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlym3",
+  "slug": "usgs-01172010",
+  "noaaForecastPath": "data/noaa-forecast/HLYM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

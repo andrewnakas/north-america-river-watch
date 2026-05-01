@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07227000",
+  "key": "07227000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07227000",
+  "name": "CANADIAN RIVER AT LOGAN, NM",
+  "waterbody": "CANADIAN RIVER AT LOGAN, NM",
+  "state": "NM",
+  "latitude": 35.35,
+  "longitude": -103.3997222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07227000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

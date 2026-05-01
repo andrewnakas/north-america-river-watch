@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06401500",
+  "key": "06401500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06401500",
+  "name": "CHEYENNE RIVER BELOW ANGOSTURA DAM,SD",
+  "waterbody": "CHEYENNE RIVER BELOW ANGOSTURA DAM,SD",
+  "state": "SD",
+  "latitude": 43.34497757,
+  "longitude": -103.4371412,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANGS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Angostura Reservoir",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/angs2",
+  "slug": "usgs-06401500",
+  "noaaForecastPath": "data/noaa-forecast/ANGS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

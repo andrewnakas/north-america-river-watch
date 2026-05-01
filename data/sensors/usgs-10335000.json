@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10335000",
+  "key": "10335000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10335000",
+  "name": "HUMBOLDT RV NR RYE PATCH, NV",
+  "waterbody": "HUMBOLDT RV NR RYE PATCH, NV",
+  "state": "NV",
+  "latitude": 40.4674063,
+  "longitude": -118.3076469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRPN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humboldt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrpn2",
+  "slug": "usgs-10335000",
+  "noaaForecastPath": "data/noaa-forecast/HRPN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

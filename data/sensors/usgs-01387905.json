@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01387905",
+  "key": "01387905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01387905",
+  "name": "Ramapo River at West Oakland Avenue at Oakland NJ",
+  "waterbody": "Ramapo River at West Oakland Avenue at Oakland NJ",
+  "state": "NJ",
+  "latitude": 41.0275,
+  "longitude": -74.25,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKLN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ramapo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okln4",
+  "slug": "usgs-01387905",
+  "noaaForecastPath": "data/noaa-forecast/OKLN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

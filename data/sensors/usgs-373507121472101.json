@@ -1,0 +1,22 @@
+{
+  "id": "usgs:373507121472101",
+  "key": "373507121472101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "373507121472101",
+  "name": "SAN ANTONIO C A INDIAN CREEK ROAD NR SUNOL CA",
+  "waterbody": "SAN ANTONIO C A INDIAN CREEK ROAD NR SUNOL CA",
+  "state": "CA",
+  "latitude": 37.58527778,
+  "longitude": -121.7891667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QSAC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Antonio Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qsac1",
+  "slug": "usgs-373507121472101",
+  "noaaForecastPath": "data/noaa-forecast/QSAC1.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

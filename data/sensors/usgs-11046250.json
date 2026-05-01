@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046250",
+  "key": "11046250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046250",
+  "name": "SAN ONOFRE C A SAN ONOFRE CA",
+  "waterbody": "SAN ONOFRE C A SAN ONOFRE CA",
+  "state": "CA",
+  "latitude": 33.38391854,
+  "longitude": -117.5742128,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

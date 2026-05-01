@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01467003",
+  "key": "01467003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467003",
+  "name": "North Branch Rancocas Creek at Ewansville NJ",
+  "waterbody": "North Branch Rancocas Creek at Ewansville NJ",
+  "state": "NJ",
+  "latitude": 39.98194444,
+  "longitude": -74.7361111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01467003",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03319000",
+  "key": "03319000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03319000",
+  "name": "ROUGH RIVER NEAR DUNDEE, KY",
+  "waterbody": "ROUGH RIVER NEAR DUNDEE, KY",
+  "state": "KY",
+  "latitude": 37.5475514,
+  "longitude": -86.7216546,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DUNK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rough River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dunk2",
+  "slug": "usgs-03319000",
+  "noaaForecastPath": "data/noaa-forecast/DUNK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

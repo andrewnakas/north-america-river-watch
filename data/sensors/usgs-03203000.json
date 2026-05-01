@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03203000",
+  "key": "03203000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03203000",
+  "name": "GUYANDOTTE RIVER AT MAN, WV",
+  "waterbody": "GUYANDOTTE RIVER AT MAN, WV",
+  "state": "WV",
+  "latitude": 37.740385,
+  "longitude": -81.8767857,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNAW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guyandotte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnaw2",
+  "slug": "usgs-03203000",
+  "noaaForecastPath": "data/noaa-forecast/MNAW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

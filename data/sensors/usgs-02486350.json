@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02486350",
+  "key": "02486350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02486350",
+  "name": "CANY CREEK AT JACKSON, MS",
+  "waterbody": "CANY CREEK AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.23805556,
+  "longitude": -90.2330556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCCM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cany Creek (MS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jccm6",
+  "slug": "usgs-02486350",
+  "noaaForecastPath": "data/noaa-forecast/JCCM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

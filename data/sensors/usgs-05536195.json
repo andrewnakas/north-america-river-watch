@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536195",
+  "key": "05536195",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536195",
+  "name": "LITTLE CALUMET RIVER AT MUNSTER, IN",
+  "waterbody": "LITTLE CALUMET RIVER AT MUNSTER, IN",
+  "state": "IN",
+  "latitude": 41.5775,
+  "longitude": -87.5222222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcmi3",
+  "slug": "usgs-05536195",
+  "noaaForecastPath": "data/noaa-forecast/LCMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

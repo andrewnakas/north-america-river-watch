@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01030500",
+  "key": "01030500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01030500",
+  "name": "Mattawamkeag River near Mattawamkeag, Maine",
+  "waterbody": "Mattawamkeag River near Mattawamkeag, Maine",
+  "state": "ME",
+  "latitude": 45.5011111,
+  "longitude": -68.3058333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MATM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mattawamkeag River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/matm1",
+  "slug": "usgs-01030500",
+  "noaaForecastPath": "data/noaa-forecast/MATM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

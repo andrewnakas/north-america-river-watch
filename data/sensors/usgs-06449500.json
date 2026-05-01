@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06449500",
+  "key": "06449500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06449500",
+  "name": "LITTLE WHITE RIVER NEAR ROSEBUD SD",
+  "waterbody": "LITTLE WHITE RIVER NEAR ROSEBUD SD",
+  "state": "SD",
+  "latitude": 43.3255586,
+  "longitude": -100.8837556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSBS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rsbs2",
+  "slug": "usgs-06449500",
+  "noaaForecastPath": "data/noaa-forecast/RSBS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

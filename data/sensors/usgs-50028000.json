@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50028000",
+  "key": "50028000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50028000",
+  "name": "RIO TANAMA NR UTUADO, PR",
+  "waterbody": "RIO TANAMA NR UTUADO, PR",
+  "state": "PR",
+  "latitude": 18.300725,
+  "longitude": -66.783014,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UTHP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Tanama",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/uthp4",
+  "slug": "usgs-50028000",
+  "noaaForecastPath": "data/noaa-forecast/UTHP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

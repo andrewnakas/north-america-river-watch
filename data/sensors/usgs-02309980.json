@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02309980",
+  "key": "02309980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02309980",
+  "name": "ANCLOTE RIVER NR ODESSA FL",
+  "waterbody": "ANCLOTE RIVER NR ODESSA FL",
+  "state": "FL",
+  "latitude": 28.2216775,
+  "longitude": -82.63509859,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02309980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

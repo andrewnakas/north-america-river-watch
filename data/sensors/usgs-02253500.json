@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02253500",
+  "key": "02253500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02253500",
+  "name": "SOUTH CANAL NEAR VERO BEACH, FL",
+  "waterbody": "SOUTH CANAL NEAR VERO BEACH, FL",
+  "state": "FL",
+  "latitude": 27.6044779,
+  "longitude": -80.386579,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02253500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

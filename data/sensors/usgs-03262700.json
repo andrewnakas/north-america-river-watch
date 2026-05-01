@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03262700",
+  "key": "03262700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03262700",
+  "name": "Great Miami River at Troy OH",
+  "waterbody": "Great Miami River at Troy OH",
+  "state": "OH",
+  "latitude": 40.03055556,
+  "longitude": -84.1872222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRYO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tryo1",
+  "slug": "usgs-03262700",
+  "noaaForecastPath": "data/noaa-forecast/TRYO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

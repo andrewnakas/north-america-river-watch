@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05567000",
+  "key": "05567000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05567000",
+  "name": "PANTHER CREEK NEAR EL PASO, IL",
+  "waterbody": "PANTHER CREEK NEAR EL PASO, IL",
+  "state": "IL",
+  "latitude": 40.7733333,
+  "longitude": -89.0769444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05567000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

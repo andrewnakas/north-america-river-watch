@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12120600",
+  "key": "12120600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12120600",
+  "name": "ISSAQUAH CREEK NEAR HOBART, WA",
+  "waterbody": "ISSAQUAH CREEK NEAR HOBART, WA",
+  "state": "WA",
+  "latitude": 47.457297,
+  "longitude": -122.0050964,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ISQW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Issaquah Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/isqw1",
+  "slug": "usgs-12120600",
+  "noaaForecastPath": "data/noaa-forecast/ISQW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

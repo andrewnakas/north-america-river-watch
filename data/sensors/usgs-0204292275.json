@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204292275",
+  "key": "0204292275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204292275",
+  "name": "LYNNHAVEN RIVER INLET NEAR VIRGINIA BEACH, VA",
+  "waterbody": "LYNNHAVEN RIVER INLET NEAR VIRGINIA BEACH, VA",
+  "state": "VA",
+  "latitude": 36.9066111,
+  "longitude": -76.0955833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LHNV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lynnhaven River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lhnv2",
+  "slug": "usgs-0204292275",
+  "noaaForecastPath": "data/noaa-forecast/LHNV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

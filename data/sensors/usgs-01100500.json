@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01100500",
+  "key": "01100500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100500",
+  "name": "MERRIMACK RIVER AT LAWRENCE, MA",
+  "waterbody": "MERRIMACK RIVER AT LAWRENCE, MA",
+  "state": "MA",
+  "latitude": 42.7048333,
+  "longitude": -71.15313889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAWM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Merrimack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lawm3",
+  "slug": "usgs-01100500",
+  "noaaForecastPath": "data/noaa-forecast/LAWM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

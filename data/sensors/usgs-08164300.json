@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08164300",
+  "key": "08164300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164300",
+  "name": "Navidad Rv nr Hallettsville, TX",
+  "waterbody": "Navidad Rv nr Hallettsville, TX",
+  "state": "TX",
+  "latitude": 29.466908,
+  "longitude": -96.812756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navidad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbmt2",
+  "slug": "usgs-08164300",
+  "noaaForecastPath": "data/noaa-forecast/SBMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

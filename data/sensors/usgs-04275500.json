@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04275500",
+  "key": "04275500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04275500",
+  "name": "AUSABLE RIVER NEAR AU SABLE FORKS NY",
+  "waterbody": "AUSABLE RIVER NEAR AU SABLE FORKS NY",
+  "state": "NY",
+  "latitude": 44.451722,
+  "longitude": -73.643389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUSN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Au Sable River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ausn6",
+  "slug": "usgs-04275500",
+  "noaaForecastPath": "data/noaa-forecast/AUSN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

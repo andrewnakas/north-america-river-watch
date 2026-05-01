@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522500",
+  "key": "09522500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522500",
+  "name": "GILA GRAVITY MAIN CANAL AT IMPERIAL DAM, AZ-CA",
+  "waterbody": "GILA GRAVITY MAIN CANAL AT IMPERIAL DAM, AZ-CA",
+  "state": "AZ",
+  "latitude": 32.8712,
+  "longitude": -114.4500806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

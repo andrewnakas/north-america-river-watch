@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03582000",
+  "key": "03582000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03582000",
+  "name": "ELK RIVER ABOVE FAYETTEVILLE, TN",
+  "waterbody": "ELK RIVER ABOVE FAYETTEVILLE, TN",
+  "state": "TN",
+  "latitude": 35.1345565,
+  "longitude": -86.5397039,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FYTT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River (TN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fytt1",
+  "slug": "usgs-03582000",
+  "noaaForecastPath": "data/noaa-forecast/FYTT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

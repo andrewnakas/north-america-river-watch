@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14054000",
+  "key": "14054000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14054000",
+  "name": "DESCHUTES R BL CRANE PRAIRIE RES NR LA PINE, OR",
+  "waterbody": "DESCHUTES R BL CRANE PRAIRIE RES NR LA PINE, OR",
+  "state": "OR",
+  "latitude": 43.75345177,
+  "longitude": -121.7836399,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deschutes River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crao3",
+  "slug": "usgs-14054000",
+  "noaaForecastPath": "data/noaa-forecast/CRAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

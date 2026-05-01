@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07367005",
+  "key": "07367005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07367005",
+  "name": "Ouachita River at West Monroe, LA",
+  "waterbody": "Ouachita River at West Monroe, LA",
+  "state": "LA",
+  "latitude": 32.50027778,
+  "longitude": -92.1197222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLUL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ouachita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlul1",
+  "slug": "usgs-07367005",
+  "noaaForecastPath": "data/noaa-forecast/MLUL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

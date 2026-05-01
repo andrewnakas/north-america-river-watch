@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08200000",
+  "key": "08200000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08200000",
+  "name": "Hondo Ck nr Tarpley, TX",
+  "waterbody": "Hondo Ck nr Tarpley, TX",
+  "state": "TX",
+  "latitude": 29.57003056,
+  "longitude": -99.2476889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TPHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hondo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tpht2",
+  "slug": "usgs-08200000",
+  "noaaForecastPath": "data/noaa-forecast/TPHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

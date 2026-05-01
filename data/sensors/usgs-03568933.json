@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03568933",
+  "key": "03568933",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03568933",
+  "name": "LOOKOUT CREEK NEAR NEW ENGLAND, GA",
+  "waterbody": "LOOKOUT CREEK NEAR NEW ENGLAND, GA",
+  "state": "GA",
+  "latitude": 34.8968611,
+  "longitude": -85.4635278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lookout Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/engg1",
+  "slug": "usgs-03568933",
+  "noaaForecastPath": "data/noaa-forecast/ENGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

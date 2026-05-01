@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02430100",
+  "key": "02430100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02430100",
+  "name": "MACKEYS CREEK NR MOORES MILL, MS",
+  "waterbody": "MACKEYS CREEK NR MOORES MILL, MS",
+  "state": "MS",
+  "latitude": 34.48704294,
+  "longitude": -88.3456019,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02430100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

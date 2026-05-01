@@ -1,0 +1,22 @@
+{
+  "id": "usgs:1203951610",
+  "key": "1203951610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "1203951610",
+  "name": "QUINAULT RIVER NEAR TAHOLAH, WA",
+  "waterbody": "QUINAULT RIVER NEAR TAHOLAH, WA",
+  "state": "WA",
+  "latitude": 47.35777778,
+  "longitude": -124.1844444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QTHW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quinault River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qthw1",
+  "slug": "usgs-1203951610",
+  "noaaForecastPath": "data/noaa-forecast/QTHW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

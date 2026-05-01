@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06759100",
+  "key": "06759100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06759100",
+  "name": "BIJOU CREEK NEAR FT. MORGAN, CO.",
+  "waterbody": "BIJOU CREEK NEAR FT. MORGAN, CO.",
+  "state": "CO",
+  "latitude": 40.28275889,
+  "longitude": -103.8755062,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06759100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

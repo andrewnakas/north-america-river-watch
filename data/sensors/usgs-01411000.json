@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01411000",
+  "key": "01411000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01411000",
+  "name": "Great Egg Harbor River at Folsom NJ",
+  "waterbody": "Great Egg Harbor River at Folsom NJ",
+  "state": "NJ",
+  "latitude": 39.59472222,
+  "longitude": -74.85166667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GEHN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Egg Harbor River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gehn4",
+  "slug": "usgs-01411000",
+  "noaaForecastPath": "data/noaa-forecast/GEHN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

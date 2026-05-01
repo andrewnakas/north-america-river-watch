@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08447020",
+  "key": "08447020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08447020",
+  "name": "Independence Ck nr Sheffield, TX",
+  "waterbody": "Independence Ck nr Sheffield, TX",
+  "state": "TX",
+  "latitude": 30.45075,
+  "longitude": -101.7319167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Independence Creek 18 miles SSE of Sheffield",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfit2",
+  "slug": "usgs-08447020",
+  "noaaForecastPath": "data/noaa-forecast/SFIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

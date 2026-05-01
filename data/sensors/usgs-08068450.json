@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08068450",
+  "key": "08068450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068450",
+  "name": "Panther Br nr Spring, TX",
+  "waterbody": "Panther Br nr Spring, TX",
+  "state": "TX",
+  "latitude": 30.1343832,
+  "longitude": -95.4777175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08068450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

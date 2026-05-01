@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05504800",
+  "key": "05504800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05504800",
+  "name": "South Fork Salt River above Santa Fe, MO",
+  "waterbody": "South Fork Salt River above Santa Fe, MO",
+  "state": "MO",
+  "latitude": 39.3261111,
+  "longitude": -91.8341667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05504800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02443500",
+  "key": "02443500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02443500",
+  "name": "LUXAPALLILA CREEK NR COLUMBUS, MS",
+  "waterbody": "LUXAPALLILA CREEK NR COLUMBUS, MS",
+  "state": "MS",
+  "latitude": 33.51416667,
+  "longitude": -88.3952778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLUM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Luxapallila Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clum6",
+  "slug": "usgs-02443500",
+  "noaaForecastPath": "data/noaa-forecast/CLUM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

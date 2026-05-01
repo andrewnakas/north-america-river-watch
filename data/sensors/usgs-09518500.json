@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09518500",
+  "key": "09518500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09518500",
+  "name": "GILA BEND CANAL AT GILLESPIE DAM, AZ",
+  "waterbody": "GILA BEND CANAL AT GILLESPIE DAM, AZ",
+  "state": "AZ",
+  "latitude": 33.2292317,
+  "longitude": -112.7674059,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09518500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

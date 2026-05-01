@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06792500",
+  "key": "06792500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06792500",
+  "name": "Loup River Power Canal near Genoa, Nebr.",
+  "waterbody": "Loup River Power Canal near Genoa, Nebr.",
+  "state": "NE",
+  "latitude": 41.409497,
+  "longitude": -97.793756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GEAN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loup River Power Canal",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gean1",
+  "slug": "usgs-06792500",
+  "noaaForecastPath": "data/noaa-forecast/GEAN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

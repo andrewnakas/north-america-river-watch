@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03230450",
+  "key": "03230450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03230450",
+  "name": "Hellbranch Run near Harrisburg OH",
+  "waterbody": "Hellbranch Run near Harrisburg OH",
+  "state": "OH",
+  "latitude": 39.8478333,
+  "longitude": -83.1573333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hellbranch Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbgo1",
+  "slug": "usgs-03230450",
+  "noaaForecastPath": "data/noaa-forecast/HBGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

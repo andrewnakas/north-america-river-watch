@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15290000",
+  "key": "15290000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15290000",
+  "name": "L SUSITNA R NR PALMER AK",
+  "waterbody": "L SUSITNA R NR PALMER AK",
+  "state": "AK",
+  "latitude": 61.7097358,
+  "longitude": -149.2319635,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSUA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Susitna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsua2",
+  "slug": "usgs-15290000",
+  "noaaForecastPath": "data/noaa-forecast/LSUA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01652620",
+  "key": "01652620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01652620",
+  "name": "TRIPPS RUN AT FALLS CHURCH, VA",
+  "waterbody": "TRIPPS RUN AT FALLS CHURCH, VA",
+  "state": "VA",
+  "latitude": 38.87944444,
+  "longitude": -77.1791667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRFV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tripps Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trfv2",
+  "slug": "usgs-01652620",
+  "noaaForecastPath": "data/noaa-forecast/TRFV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07105500",
+  "key": "07105500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07105500",
+  "name": "FOUNTAIN CREEK AT COLORADO SPRINGS, CO",
+  "waterbody": "FOUNTAIN CREEK AT COLORADO SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.816389,
+  "longitude": -104.822222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FNEC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fountain Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fnec2",
+  "slug": "usgs-07105500",
+  "noaaForecastPath": "data/noaa-forecast/FNEC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02277600",
+  "key": "02277600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02277600",
+  "name": "LOXAHATCHEE RIVER NEAR JUPITER,FL",
+  "waterbody": "LOXAHATCHEE RIVER NEAR JUPITER,FL",
+  "state": "FL",
+  "latitude": 26.93925,
+  "longitude": -80.17525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02277600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

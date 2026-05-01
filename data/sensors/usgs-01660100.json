@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01660100",
+  "key": "01660100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01660100",
+  "name": "CHOPAWAMSIC CREEK AT RUSSELL ROAD NR JOPLIN, VA",
+  "waterbody": "CHOPAWAMSIC CREEK AT RUSSELL ROAD NR JOPLIN, VA",
+  "state": "VA",
+  "latitude": 38.52317757,
+  "longitude": -77.3735937,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01660100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

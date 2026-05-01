@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15906000",
+  "key": "15906000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15906000",
+  "name": "SAGAVANIRKTOK R TRIB NR PUMP STA 3 AK",
+  "waterbody": "SAGAVANIRKTOK R TRIB NR PUMP STA 3 AK",
+  "state": "AK",
+  "latitude": 68.6865738,
+  "longitude": -149.0977902,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15906000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

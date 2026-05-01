@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10219000",
+  "key": "10219000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10219000",
+  "name": "SEVIER RIVER NEAR JUAB, UT",
+  "waterbody": "SEVIER RIVER NEAR JUAB, UT",
+  "state": "UT",
+  "latitude": 39.37468029,
+  "longitude": -112.0396557,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10219000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

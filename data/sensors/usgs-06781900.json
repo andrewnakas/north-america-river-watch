@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06781900",
+  "key": "06781900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06781900",
+  "name": "South Loup River at Pressey WMA near Oconto, Nebr.",
+  "waterbody": "South Loup River at Pressey WMA near Oconto, Nebr.",
+  "state": "NE",
+  "latitude": 41.192553,
+  "longitude": -99.708714,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRSN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prsn1",
+  "slug": "usgs-06781900",
+  "noaaForecastPath": "data/noaa-forecast/PRSN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146507",
+  "key": "02146507",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146507",
+  "name": "LITTLE SUGAR C AT ARCHDALE DR AT CHARLOTTE, NC",
+  "waterbody": "LITTLE SUGAR C AT ARCHDALE DR AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.14805556,
+  "longitude": -80.8577778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSAN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sugar Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsan7",
+  "slug": "usgs-02146507",
+  "noaaForecastPath": "data/noaa-forecast/LSAN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

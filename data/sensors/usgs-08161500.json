@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08161500",
+  "key": "08161500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08161500",
+  "name": "LCRA Colorado Rv nr Garwood, TX",
+  "waterbody": "LCRA Colorado Rv nr Garwood, TX",
+  "state": "TX",
+  "latitude": 29.515,
+  "longitude": -96.4083333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08161500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

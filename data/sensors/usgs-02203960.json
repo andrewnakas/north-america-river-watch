@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02203960",
+  "key": "02203960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02203960",
+  "name": "SNAPFINGER CR AT THOMPSON MILL RD NR LITHONIA, GA",
+  "waterbody": "SNAPFINGER CR AT THOMPSON MILL RD NR LITHONIA, GA",
+  "state": "GA",
+  "latitude": 33.69666667,
+  "longitude": -84.1986111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFHG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snapfinger Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfhg1",
+  "slug": "usgs-02203960",
+  "noaaForecastPath": "data/noaa-forecast/SFHG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12505450",
+  "key": "12505450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12505450",
+  "name": "GRANGER DRAIN AT GRANGER, WA",
+  "waterbody": "GRANGER DRAIN AT GRANGER, WA",
+  "state": "WA",
+  "latitude": 46.34346299,
+  "longitude": -120.186995,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12505450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

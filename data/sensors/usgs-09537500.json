@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09537500",
+  "key": "09537500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09537500",
+  "name": "WHITEWATER DRAW NEAR DOUGLAS, AZ.",
+  "waterbody": "WHITEWATER DRAW NEAR DOUGLAS, AZ.",
+  "state": "AZ",
+  "latitude": 31.35285278,
+  "longitude": -109.5857194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWDA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewater Draw",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwda3",
+  "slug": "usgs-09537500",
+  "noaaForecastPath": "data/noaa-forecast/WWDA3.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

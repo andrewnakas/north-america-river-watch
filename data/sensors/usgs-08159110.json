@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08159110",
+  "key": "08159110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08159110",
+  "name": "Western Trib to Gilleland Ck nr Manor, TX",
+  "waterbody": "Western Trib to Gilleland Ck nr Manor, TX",
+  "state": "TX",
+  "latitude": 30.38349444,
+  "longitude": -97.6020611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08159110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

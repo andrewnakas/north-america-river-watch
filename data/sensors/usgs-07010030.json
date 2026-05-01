@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010030",
+  "key": "07010030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010030",
+  "name": "River Des Peres Tributary at Pagedale, MO",
+  "waterbody": "River Des Peres Tributary at Pagedale, MO",
+  "state": "MO",
+  "latitude": 38.6768333,
+  "longitude": -90.3148333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

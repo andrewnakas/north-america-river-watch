@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02088470",
+  "key": "02088470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02088470",
+  "name": "LITTLE RIVER NEAR KENLY, NC",
+  "waterbody": "LITTLE RIVER NEAR KENLY, NC",
+  "state": "NC",
+  "latitude": 35.5890479,
+  "longitude": -78.18805089,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02088470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

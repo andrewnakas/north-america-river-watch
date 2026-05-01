@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08110075",
+  "key": "08110075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110075",
+  "name": "Davidson Ck at SH 21 nr Caldwell, TX",
+  "waterbody": "Davidson Ck at SH 21 nr Caldwell, TX",
+  "state": "TX",
+  "latitude": 30.54027778,
+  "longitude": -96.6902778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08110075",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329880",
+  "key": "08329880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329880",
+  "name": "ACADEMY ACRES DRAIN IN ALBUQUERQUE, NM",
+  "waterbody": "ACADEMY ACRES DRAIN IN ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.1511111,
+  "longitude": -106.5730556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

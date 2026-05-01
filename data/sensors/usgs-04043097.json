@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04043097",
+  "key": "04043097",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043097",
+  "name": "FALLS RIVER NEAR L'ANSE, MI",
+  "waterbody": "FALLS RIVER NEAR L'ANSE, MI",
+  "state": "MI",
+  "latitude": 46.7346552,
+  "longitude": -88.4431868,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRLM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Falls River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frlm4",
+  "slug": "usgs-04043097",
+  "noaaForecastPath": "data/noaa-forecast/FRLM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

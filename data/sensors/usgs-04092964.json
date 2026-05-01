@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04092964",
+  "key": "04092964",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04092964",
+  "name": "TURKEY CREEK AT JOLIET ST AT SCHERERVILLE, IN",
+  "waterbody": "TURKEY CREEK AT JOLIET ST AT SCHERERVILLE, IN",
+  "state": "IN",
+  "latitude": 41.49238889,
+  "longitude": -87.433,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCSI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcsi3",
+  "slug": "usgs-04092964",
+  "noaaForecastPath": "data/noaa-forecast/TCSI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

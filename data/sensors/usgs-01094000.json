@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01094000",
+  "key": "01094000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01094000",
+  "name": "SOUHEGAN RIVER AT MERRIMACK, NH",
+  "waterbody": "SOUHEGAN RIVER AT MERRIMACK, NH",
+  "state": "NH",
+  "latitude": 42.8575865,
+  "longitude": -71.5061785,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOHN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Souhegan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sohn3",
+  "slug": "usgs-01094000",
+  "noaaForecastPath": "data/noaa-forecast/SOHN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10244950",
+  "key": "10244950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10244950",
+  "name": "STEPTOE CK NR ELY, NV",
+  "waterbody": "STEPTOE CK NR ELY, NV",
+  "state": "NV",
+  "latitude": 39.20153889,
+  "longitude": -114.689161,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STEN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Steptoe Creek nr Ely",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sten2",
+  "slug": "usgs-10244950",
+  "noaaForecastPath": "data/noaa-forecast/STEN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16057900",
+  "key": "16057900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16057900",
+  "name": "Waiahi Str US Upper Powerhouse, Kauai, HI",
+  "waterbody": "Waiahi Str US Upper Powerhouse, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.02269444,
+  "longitude": -159.4650556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16057900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

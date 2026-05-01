@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03360895",
+  "key": "03360895",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03360895",
+  "name": "KESSINGER DITCH NEAR MONROE CITY, IN",
+  "waterbody": "KESSINGER DITCH NEAR MONROE CITY, IN",
+  "state": "IN",
+  "latitude": 38.570607,
+  "longitude": -87.2769489,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03360895",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08031050",
+  "key": "08031050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08031050",
+  "name": "Cow Bayou at SH 87 nr Bridge City, TX",
+  "waterbody": "Cow Bayou at SH 87 nr Bridge City, TX",
+  "state": "TX",
+  "latitude": 30.04455278,
+  "longitude": -93.8214944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cowt2",
+  "slug": "usgs-08031050",
+  "noaaForecastPath": "data/noaa-forecast/COWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

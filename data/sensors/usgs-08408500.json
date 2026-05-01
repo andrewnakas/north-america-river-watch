@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08408500",
+  "key": "08408500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08408500",
+  "name": "DELAWARE RIVER NR RED BLUFF, NM",
+  "waterbody": "DELAWARE RIVER NR RED BLUFF, NM",
+  "state": "NM",
+  "latitude": 32.02314167,
+  "longitude": -104.0544556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDBN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River (NM) 11 miles NW of Red Bluff",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdbn5",
+  "slug": "usgs-08408500",
+  "noaaForecastPath": "data/noaa-forecast/RDBN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

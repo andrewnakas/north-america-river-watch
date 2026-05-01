@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08376300",
+  "key": "08376300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08376300",
+  "name": "Sanderson Ck at Sanderson, TX",
+  "waterbody": "Sanderson Ck at Sanderson, TX",
+  "state": "TX",
+  "latitude": 30.12851998,
+  "longitude": -102.3848654,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08376300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

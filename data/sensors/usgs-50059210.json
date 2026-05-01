@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50059210",
+  "key": "50059210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50059210",
+  "name": "QUEBRADA GRANDE AT BO. DOS BOCAS, PR",
+  "waterbody": "QUEBRADA GRANDE AT BO. DOS BOCAS, PR",
+  "state": "PR",
+  "latitude": 18.350444,
+  "longitude": -65.990461,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRJP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Loiza",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trjp4",
+  "slug": "usgs-50059210",
+  "noaaForecastPath": "data/noaa-forecast/TRJP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

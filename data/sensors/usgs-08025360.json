@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08025360",
+  "key": "08025360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08025360",
+  "name": "Sabine Rv at Toledo Bd Res nr Burkeville, TX",
+  "waterbody": "Sabine Rv at Toledo Bd Res nr Burkeville, TX",
+  "state": "TX",
+  "latitude": 31.1737991,
+  "longitude": -93.5660077,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08025360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

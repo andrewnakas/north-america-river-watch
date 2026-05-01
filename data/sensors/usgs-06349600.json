@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06349600",
+  "key": "06349600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349600",
+  "name": "HAY CREEK AT MAIN AVENUE AT BISMARCK, ND",
+  "waterbody": "HAY CREEK AT MAIN AVENUE AT BISMARCK, ND",
+  "state": "ND",
+  "latitude": 46.80717809,
+  "longitude": -100.734102,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06349600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

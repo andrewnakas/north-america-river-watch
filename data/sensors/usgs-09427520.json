@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09427520",
+  "key": "09427520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09427520",
+  "name": "COLORADO RIVER BELOW PARKER DAM, AZ-CA",
+  "waterbody": "COLORADO RIVER BELOW PARKER DAM, AZ-CA",
+  "state": "CA",
+  "latitude": 34.29558497,
+  "longitude": -114.14023,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09427520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

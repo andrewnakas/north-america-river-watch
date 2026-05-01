@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13155700",
+  "key": "13155700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13155700",
+  "name": "ALKALI CREEK NR GLENNS FERRY ID",
+  "waterbody": "ALKALI CREEK NR GLENNS FERRY ID",
+  "state": "ID",
+  "latitude": 42.95805556,
+  "longitude": -115.366111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13155700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

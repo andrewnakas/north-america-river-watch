@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08059400",
+  "key": "08059400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08059400",
+  "name": "Sister Grove Ck nr Blue Ridge, TX",
+  "waterbody": "Sister Grove Ck nr Blue Ridge, TX",
+  "state": "TX",
+  "latitude": 33.29455786,
+  "longitude": -96.4830413,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sister Grove Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvwt2",
+  "slug": "usgs-08059400",
+  "noaaForecastPath": "data/noaa-forecast/BVWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

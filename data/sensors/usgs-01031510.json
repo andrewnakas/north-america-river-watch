@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01031510",
+  "key": "01031510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01031510",
+  "name": "Black Stream near Dover-Foxcroft, Maine",
+  "waterbody": "Black Stream near Dover-Foxcroft, Maine",
+  "state": "ME",
+  "latitude": 45.15027778,
+  "longitude": -69.23638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSTM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Stream",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bstm1",
+  "slug": "usgs-01031510",
+  "noaaForecastPath": "data/noaa-forecast/BSTM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

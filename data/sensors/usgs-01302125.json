@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01302125",
+  "key": "01302125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01302125",
+  "name": "GABBLERS CREEK AT LITTLE NECK NY",
+  "waterbody": "GABBLERS CREEK AT LITTLE NECK NY",
+  "state": "NY",
+  "latitude": 40.77316667,
+  "longitude": -73.7443333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01302125",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

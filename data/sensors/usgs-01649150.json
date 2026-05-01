@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01649150",
+  "key": "01649150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01649150",
+  "name": "PAINT BRANCH TRIBUTARY NEAR COLESVILLE, MD",
+  "waterbody": "PAINT BRANCH TRIBUTARY NEAR COLESVILLE, MD",
+  "state": "MD",
+  "latitude": 39.08838889,
+  "longitude": -76.9895833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLSM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paint Branch Tributary Near Colesville, MD",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clsm2",
+  "slug": "usgs-01649150",
+  "noaaForecastPath": "data/noaa-forecast/CLSM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03114431",
+  "key": "03114431",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03114431",
+  "name": "MIDDLE ISLAND CREEK AT HWY 18 NR MIDDLEBOURNE, WV",
+  "waterbody": "MIDDLE ISLAND CREEK AT HWY 18 NR MIDDLEBOURNE, WV",
+  "state": "WV",
+  "latitude": 39.48163889,
+  "longitude": -80.8694722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBRW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Island Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbrw2",
+  "slug": "usgs-03114431",
+  "noaaForecastPath": "data/noaa-forecast/MBRW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

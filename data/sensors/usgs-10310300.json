@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10310300",
+  "key": "10310300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10310300",
+  "name": "FREDERICKSBURG CYN CK NR FREDERICKSBURG, CA",
+  "waterbody": "FREDERICKSBURG CYN CK NR FREDERICKSBURG, CA",
+  "state": "CA",
+  "latitude": 38.82712805,
+  "longitude": -119.7998997,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10310300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

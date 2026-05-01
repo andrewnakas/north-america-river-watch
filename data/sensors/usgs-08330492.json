@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330492",
+  "key": "08330492",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330492",
+  "name": "TIJERAS ARROYO AT COYOTE SPRINGS RD NR CARNUEL, NM",
+  "waterbody": "TIJERAS ARROYO AT COYOTE SPRINGS RD NR CARNUEL, NM",
+  "state": "NM",
+  "latitude": 35.0599861,
+  "longitude": -106.4445722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330492",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

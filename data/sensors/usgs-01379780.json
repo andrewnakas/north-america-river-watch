@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01379780",
+  "key": "01379780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01379780",
+  "name": "Green Pond Bk blw Picatinny Lk at Picatinny Ars NJ",
+  "waterbody": "Green Pond Bk blw Picatinny Lk at Picatinny Ars NJ",
+  "state": "NJ",
+  "latitude": 40.94944444,
+  "longitude": -74.5572222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIKN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green Pond Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pikn4",
+  "slug": "usgs-01379780",
+  "noaaForecastPath": "data/noaa-forecast/PIKN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

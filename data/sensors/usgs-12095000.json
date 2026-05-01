@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12095000",
+  "key": "12095000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12095000",
+  "name": "SOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA",
+  "waterbody": "SOUTH PRAIRIE CREEK AT SOUTH PRAIRIE, WA",
+  "state": "WA",
+  "latitude": 47.13954628,
+  "longitude": -122.0926135,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPEW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Prairie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spew1",
+  "slug": "usgs-12095000",
+  "noaaForecastPath": "data/noaa-forecast/SPEW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

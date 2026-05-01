@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08055518",
+  "key": "08055518",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08055518",
+  "name": "Farmers Br at N Stemmons Fwy nr Dallas, TX",
+  "waterbody": "Farmers Br at N Stemmons Fwy nr Dallas, TX",
+  "state": "TX",
+  "latitude": 32.91583333,
+  "longitude": -96.9001667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08055518",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

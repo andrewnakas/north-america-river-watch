@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07276000",
+  "key": "07276000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07276000",
+  "name": "COLDWATER RIVER NR LEWISBURG, MS",
+  "waterbody": "COLDWATER RIVER NR LEWISBURG, MS",
+  "state": "MS",
+  "latitude": 34.84093038,
+  "longitude": -89.8256429,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07276000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

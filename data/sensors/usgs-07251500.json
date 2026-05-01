@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07251500",
+  "key": "07251500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07251500",
+  "name": "Frog Bayou at Rudy, AR",
+  "waterbody": "Frog Bayou at Rudy, AR",
+  "state": "AR",
+  "latitude": 35.5258333,
+  "longitude": -94.2713889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07251500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06260400",
+  "key": "06260400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06260400",
+  "name": "SOUTH FORK OWL CREEK BELOW ANCHOR RESERVOIR, WY",
+  "waterbody": "SOUTH FORK OWL CREEK BELOW ANCHOR RESERVOIR, WY",
+  "state": "WY",
+  "latitude": 43.6657887,
+  "longitude": -108.7934543,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06260400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

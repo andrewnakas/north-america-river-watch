@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09523600",
+  "key": "09523600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09523600",
+  "name": "YAQUI CANAL NEAR YUMA, AZ",
+  "waterbody": "YAQUI CANAL NEAR YUMA, AZ",
+  "state": "CA",
+  "latitude": 32.8094861,
+  "longitude": -114.5884944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09523600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

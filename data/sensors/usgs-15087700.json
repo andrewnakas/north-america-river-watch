@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15087700",
+  "key": "15087700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087700",
+  "name": "INDIAN R AT SITKA AK",
+  "waterbody": "INDIAN R AT SITKA AK",
+  "state": "AK",
+  "latitude": 57.05316268,
+  "longitude": -135.3162609,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRVA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irva2",
+  "slug": "usgs-15087700",
+  "noaaForecastPath": "data/noaa-forecast/IRVA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

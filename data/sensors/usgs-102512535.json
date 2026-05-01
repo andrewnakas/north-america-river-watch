@@ -1,0 +1,19 @@
+{
+  "id": "usgs:102512535",
+  "key": "102512535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "102512535",
+  "name": "DRILLHOLE WASH ABV WELL UZ-1, NTS, NV",
+  "waterbody": "DRILLHOLE WASH ABV WELL UZ-1, NTS, NV",
+  "state": "NV",
+  "latitude": 36.87138889,
+  "longitude": -116.4633333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-102512535",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

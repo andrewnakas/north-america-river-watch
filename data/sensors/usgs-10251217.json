@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251217",
+  "key": "10251217",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251217",
+  "name": "AMARGOSA RV AT BEATTY, NV",
+  "waterbody": "AMARGOSA RV AT BEATTY, NV",
+  "state": "NV",
+  "latitude": 36.91050109,
+  "longitude": -116.7572821,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251217",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

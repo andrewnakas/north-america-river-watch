@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12446995",
+  "key": "12446995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12446995",
+  "name": "SALMON CREEK ABOVE DIVERSION NEAR OKANOGAN, WA",
+  "waterbody": "SALMON CREEK ABOVE DIVERSION NEAR OKANOGAN, WA",
+  "state": "WA",
+  "latitude": 48.40515066,
+  "longitude": -119.6217229,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SADW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sadw1",
+  "slug": "usgs-12446995",
+  "noaaForecastPath": "data/noaa-forecast/SADW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

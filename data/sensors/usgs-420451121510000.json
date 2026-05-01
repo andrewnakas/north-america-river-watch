@@ -1,0 +1,19 @@
+{
+  "id": "usgs:420451121510000",
+  "key": "420451121510000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "420451121510000",
+  "name": "KLAMATH STRAITS DRAIN NEAR HIGHWAY 97, OR",
+  "waterbody": "KLAMATH STRAITS DRAIN NEAR HIGHWAY 97, OR",
+  "state": "OR",
+  "latitude": 42.0808333,
+  "longitude": -121.85,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-420451121510000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

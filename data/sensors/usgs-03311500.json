@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03311500",
+  "key": "03311500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03311500",
+  "name": "GREEN RIVER AT LOCK 6 AT BROWNSVILLE, KY",
+  "waterbody": "GREEN RIVER AT LOCK 6 AT BROWNSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.20699194,
+  "longitude": -86.2610868,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03311500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

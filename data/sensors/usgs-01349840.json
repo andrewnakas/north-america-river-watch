@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01349840",
+  "key": "01349840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01349840",
+  "name": "BATAVIA KILL NEAR MAPLECREST NY",
+  "waterbody": "BATAVIA KILL NEAR MAPLECREST NY",
+  "state": "NY",
+  "latitude": 42.28963889,
+  "longitude": -74.11627778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01349840",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

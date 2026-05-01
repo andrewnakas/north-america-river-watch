@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01541248",
+  "key": "01541248",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01541248",
+  "name": "Anderson Creek at Curwensville, PA",
+  "waterbody": "Anderson Creek at Curwensville, PA",
+  "state": "PA",
+  "latitude": 40.97544444,
+  "longitude": -78.5307778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Anderson Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/accp1",
+  "slug": "usgs-01541248",
+  "noaaForecastPath": "data/noaa-forecast/ACCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

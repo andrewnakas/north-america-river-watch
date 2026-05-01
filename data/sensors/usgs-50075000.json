@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50075000",
+  "key": "50075000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50075000",
+  "name": "RIO ICACOS NR NAGUABO, PR",
+  "waterbody": "RIO ICACOS NR NAGUABO, PR",
+  "state": "PR",
+  "latitude": 18.27722222,
+  "longitude": -65.78583333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50075000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

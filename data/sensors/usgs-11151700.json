@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11151700",
+  "key": "11151700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11151700",
+  "name": "SALINAS R A SOLEDAD CA",
+  "waterbody": "SALINAS R A SOLEDAD CA",
+  "state": "CA",
+  "latitude": 36.4110383,
+  "longitude": -121.319331,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salinas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sddc1",
+  "slug": "usgs-11151700",
+  "noaaForecastPath": "data/noaa-forecast/SDDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

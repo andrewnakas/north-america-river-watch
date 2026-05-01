@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08065500",
+  "key": "08065500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065500",
+  "name": "Trinity Rv nr Midway, TX",
+  "waterbody": "Trinity Rv nr Midway, TX",
+  "state": "TX",
+  "latitude": 31.0746349,
+  "longitude": -95.6994155,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08065500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

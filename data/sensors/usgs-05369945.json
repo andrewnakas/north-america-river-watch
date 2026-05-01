@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05369945",
+  "key": "05369945",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05369945",
+  "name": "EAU GALLE R @ LOW-WTR BRIDGE @ SPRING VALLEY, WI",
+  "waterbody": "EAU GALLE R @ LOW-WTR BRIDGE @ SPRING VALLEY, WI",
+  "state": "WI",
+  "latitude": 44.8671875,
+  "longitude": -92.2521299,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05369945",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11459150",
+  "key": "11459150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11459150",
+  "name": "PETALUMA R A COPLAND PUMPING STATION A PETALUMA CA",
+  "waterbody": "PETALUMA R A COPLAND PUMPING STATION A PETALUMA CA",
+  "state": "CA",
+  "latitude": 38.2382502,
+  "longitude": -122.6402637,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PYSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Petaluma River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pysc1",
+  "slug": "usgs-11459150",
+  "noaaForecastPath": "data/noaa-forecast/PYSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

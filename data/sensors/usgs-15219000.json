@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15219000",
+  "key": "15219000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15219000",
+  "name": "WF OLSEN BAY C NR CORDOVA AK",
+  "waterbody": "WF OLSEN BAY C NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.761389,
+  "longitude": -146.172222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSNA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Olsen Bay Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/osna2",
+  "slug": "usgs-15219000",
+  "noaaForecastPath": "data/noaa-forecast/OSNA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

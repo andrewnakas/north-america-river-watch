@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10242000",
+  "key": "10242000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10242000",
+  "name": "COAL CREEK NEAR CEDAR CITY, UT",
+  "waterbody": "COAL CREEK NEAR CEDAR CITY, UT",
+  "state": "UT",
+  "latitude": 37.67219924,
+  "longitude": -113.0346702,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COAU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coal Creek (UT)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coau1",
+  "slug": "usgs-10242000",
+  "noaaForecastPath": "data/noaa-forecast/COAU1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

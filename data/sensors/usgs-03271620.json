@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03271620",
+  "key": "03271620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03271620",
+  "name": "Great Miami River at Franklin OH",
+  "waterbody": "Great Miami River at Franklin OH",
+  "state": "OH",
+  "latitude": 39.563114,
+  "longitude": -84.3049408,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FKNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fkno1",
+  "slug": "usgs-03271620",
+  "noaaForecastPath": "data/noaa-forecast/FKNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

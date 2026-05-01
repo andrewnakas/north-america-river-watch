@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105505",
+  "key": "08105505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105505",
+  "name": "Willis Ck nr Granger, TX",
+  "waterbody": "Willis Ck nr Granger, TX",
+  "state": "TX",
+  "latitude": 30.70216667,
+  "longitude": -97.4341667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WGRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willis Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wgrt2",
+  "slug": "usgs-08105505",
+  "noaaForecastPath": "data/noaa-forecast/WGRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

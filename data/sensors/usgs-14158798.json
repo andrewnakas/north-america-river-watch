@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14158798",
+  "key": "14158798",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14158798",
+  "name": "SMITH RIVER ABV TRAIL BRDG RESV NR BELKNAP SPRINGS",
+  "waterbody": "SMITH RIVER ABV TRAIL BRDG RESV NR BELKNAP SPRINGS",
+  "state": "OR",
+  "latitude": 44.28988889,
+  "longitude": -122.0485833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suso3",
+  "slug": "usgs-14158798",
+  "noaaForecastPath": "data/noaa-forecast/SUSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:021305805",
+  "key": "021305805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021305805",
+  "name": "CROOKED CRK BL N MARLBORO ST AT BENNETTSVILLE, SC",
+  "waterbody": "CROOKED CRK BL N MARLBORO ST AT BENNETTSVILLE, SC",
+  "state": "SC",
+  "latitude": 34.61980556,
+  "longitude": -79.6856667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-021305805",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

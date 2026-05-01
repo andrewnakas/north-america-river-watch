@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10243260",
+  "key": "10243260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10243260",
+  "name": "LEHMAN CK NR BAKER, NV",
+  "waterbody": "LEHMAN CK NR BAKER, NV",
+  "state": "NV",
+  "latitude": 39.0116129,
+  "longitude": -114.2144392,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMNN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lehman Creek (NV)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmnn2",
+  "slug": "usgs-10243260",
+  "noaaForecastPath": "data/noaa-forecast/LMNN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

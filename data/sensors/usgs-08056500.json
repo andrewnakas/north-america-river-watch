@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08056500",
+  "key": "08056500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08056500",
+  "name": "Turtle Ck at Dallas, TX",
+  "waterbody": "Turtle Ck at Dallas, TX",
+  "state": "TX",
+  "latitude": 32.80735055,
+  "longitude": -96.8025013,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08056500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

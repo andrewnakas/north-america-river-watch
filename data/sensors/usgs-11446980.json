@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11446980",
+  "key": "11446980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11446980",
+  "name": "AMERICAN R BL WATT AVE BRDG NR CARMICHAEL CA",
+  "waterbody": "AMERICAN R BL WATT AVE BRDG NR CARMICHAEL CA",
+  "state": "CA",
+  "latitude": 38.5671281,
+  "longitude": -121.3882857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11446980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

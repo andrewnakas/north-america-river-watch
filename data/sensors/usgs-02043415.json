@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02043415",
+  "key": "02043415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02043415",
+  "name": "TULL CREEK AT SR 1222 NEAR CURRITUCK, NC",
+  "waterbody": "TULL CREEK AT SR 1222 NEAR CURRITUCK, NC",
+  "state": "NC",
+  "latitude": 36.49638889,
+  "longitude": -76.0841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Currituck Sound",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlcn7",
+  "slug": "usgs-02043415",
+  "noaaForecastPath": "data/noaa-forecast/TLCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

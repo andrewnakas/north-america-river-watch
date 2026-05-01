@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09416000",
+  "key": "09416000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09416000",
+  "name": "MUDDY RV NR MOAPA, NV",
+  "waterbody": "MUDDY RV NR MOAPA, NV",
+  "state": "NV",
+  "latitude": 36.7110817,
+  "longitude": -114.6952715,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOAN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/moan2",
+  "slug": "usgs-09416000",
+  "noaaForecastPath": "data/noaa-forecast/MOAN2.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

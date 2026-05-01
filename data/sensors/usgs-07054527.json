@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07054527",
+  "key": "07054527",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07054527",
+  "name": "White River below Bull Shoals Dam near Fairview",
+  "waterbody": "White River below Bull Shoals Dam near Fairview",
+  "state": "AR",
+  "latitude": 36.3436111,
+  "longitude": -92.5741667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07054527",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

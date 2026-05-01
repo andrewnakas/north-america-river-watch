@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03116196",
+  "key": "03116196",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03116196",
+  "name": "Chippewa Creek above Easton OH",
+  "waterbody": "Chippewa Creek above Easton OH",
+  "state": "OH",
+  "latitude": 40.95805556,
+  "longitude": -81.7630556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RITO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rito1",
+  "slug": "usgs-03116196",
+  "noaaForecastPath": "data/noaa-forecast/RITO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

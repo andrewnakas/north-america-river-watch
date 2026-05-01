@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01064500",
+  "key": "01064500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01064500",
+  "name": "Saco River near Conway, NH",
+  "waterbody": "Saco River near Conway, NH",
+  "state": "NH",
+  "latitude": 43.9908333,
+  "longitude": -71.0905556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNWN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnwn3",
+  "slug": "usgs-01064500",
+  "noaaForecastPath": "data/noaa-forecast/CNWN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06845000",
+  "key": "06845000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06845000",
+  "name": "SAPPA C NR OBERLIN, KS",
+  "waterbody": "SAPPA C NR OBERLIN, KS",
+  "state": "KS",
+  "latitude": 39.8130606,
+  "longitude": -100.5343122,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OBNK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sappa Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/obnk1",
+  "slug": "usgs-06845000",
+  "noaaForecastPath": "data/noaa-forecast/OBNK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

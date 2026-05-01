@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06477000",
+  "key": "06477000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06477000",
+  "name": "JAMES RIVER NEAR FORESTBURG,SD",
+  "waterbody": "JAMES RIVER NEAR FORESTBURG,SD",
+  "state": "SD",
+  "latitude": 43.9738721,
+  "longitude": -98.070916,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FORS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fors2",
+  "slug": "usgs-06477000",
+  "noaaForecastPath": "data/noaa-forecast/FORS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06309500",
+  "key": "06309500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06309500",
+  "name": "MIDDLE FORK POWDER RIVER ABOVE KAYCEE, WY",
+  "waterbody": "MIDDLE FORK POWDER RIVER ABOVE KAYCEE, WY",
+  "state": "WY",
+  "latitude": 43.6474683,
+  "longitude": -106.8086642,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KAYW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Powder River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kayw4",
+  "slug": "usgs-06309500",
+  "noaaForecastPath": "data/noaa-forecast/KAYW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06425100",
+  "key": "06425100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06425100",
+  "name": "ELK CREEK NR RAPID CITY,SD",
+  "waterbody": "ELK CREEK NR RAPID CITY,SD",
+  "state": "SD",
+  "latitude": 44.2402646,
+  "longitude": -103.1512907,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EKCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk Creek (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ekcs2",
+  "slug": "usgs-06425100",
+  "noaaForecastPath": "data/noaa-forecast/EKCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

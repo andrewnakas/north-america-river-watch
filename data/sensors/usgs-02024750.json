@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02024750",
+  "key": "02024750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02024750",
+  "name": "JAMES RIVER AT BEDFORD DAM NR MAJOR, VA",
+  "waterbody": "JAMES RIVER AT BEDFORD DAM NR MAJOR, VA",
+  "state": "VA",
+  "latitude": 37.57983127,
+  "longitude": -79.3763942,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02024750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

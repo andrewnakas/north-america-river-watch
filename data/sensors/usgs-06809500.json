@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06809500",
+  "key": "06809500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06809500",
+  "name": "East Nishnabotna River at Red Oak, IA",
+  "waterbody": "East Nishnabotna River at Red Oak, IA",
+  "state": "IA",
+  "latitude": 41.00902778,
+  "longitude": -95.2413611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDOI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Nishnabotna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdoi4",
+  "slug": "usgs-06809500",
+  "noaaForecastPath": "data/noaa-forecast/RDOI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02131510",
+  "key": "02131510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02131510",
+  "name": "LYNCHES RIVER AT I-95 ABOVE OLANTA, SC",
+  "waterbody": "LYNCHES RIVER AT I-95 ABOVE OLANTA, SC",
+  "state": "SC",
+  "latitude": 34.03819444,
+  "longitude": -79.98613889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYOS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lynches River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lyos1",
+  "slug": "usgs-02131510",
+  "noaaForecastPath": "data/noaa-forecast/LYOS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

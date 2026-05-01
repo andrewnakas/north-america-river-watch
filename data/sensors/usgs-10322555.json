@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10322555",
+  "key": "10322555",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322555",
+  "name": "PETE HANSON CK ABV HENDERSON CK NR EUREKA, NV",
+  "waterbody": "PETE HANSON CK ABV HENDERSON CK NR EUREKA, NV",
+  "state": "NV",
+  "latitude": 39.89030556,
+  "longitude": -116.3782778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pete Hanson Creek ",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phcn2",
+  "slug": "usgs-10322555",
+  "noaaForecastPath": "data/noaa-forecast/PHCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

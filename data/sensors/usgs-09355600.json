@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09355600",
+  "key": "09355600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09355600",
+  "name": "CITIZENS DITCH AT BLOOMFIELD, NM",
+  "waterbody": "CITIZENS DITCH AT BLOOMFIELD, NM",
+  "state": "NM",
+  "latitude": 36.724181,
+  "longitude": -107.978631,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09355600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

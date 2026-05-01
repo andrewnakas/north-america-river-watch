@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12398600",
+  "key": "12398600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12398600",
+  "name": "PEND OREILLE RIVER AT INTERNATIONAL BOUNDARY",
+  "waterbody": "PEND OREILLE RIVER AT INTERNATIONAL BOUNDARY",
+  "state": "WA",
+  "latitude": 48.99881409,
+  "longitude": -117.3535794,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12398600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

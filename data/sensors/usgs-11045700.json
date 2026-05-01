@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11045700",
+  "key": "11045700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11045700",
+  "name": "ONEILL LK SPILL CH NR FALLBROOK CA",
+  "waterbody": "ONEILL LK SPILL CH NR FALLBROOK CA",
+  "state": "CA",
+  "latitude": 33.3289219,
+  "longitude": -117.3272492,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11045700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

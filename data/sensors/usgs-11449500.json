@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11449500",
+  "key": "11449500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11449500",
+  "name": "KELSEY C NR KELSEYVILLE CA",
+  "waterbody": "KELSEY C NR KELSEYVILLE CA",
+  "state": "CA",
+  "latitude": 38.9273642,
+  "longitude": -122.8435719,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCVC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kelsey Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcvc1",
+  "slug": "usgs-11449500",
+  "noaaForecastPath": "data/noaa-forecast/KCVC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

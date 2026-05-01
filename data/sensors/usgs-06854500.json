@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06854500",
+  "key": "06854500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06854500",
+  "name": "REPUBLICAN R AT SCANDIA, KS",
+  "waterbody": "REPUBLICAN R AT SCANDIA, KS",
+  "state": "KS",
+  "latitude": 39.79873,
+  "longitude": -97.7931266,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNDK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sndk1",
+  "slug": "usgs-06854500",
+  "noaaForecastPath": "data/noaa-forecast/SNDK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

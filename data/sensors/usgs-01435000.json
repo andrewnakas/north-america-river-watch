@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01435000",
+  "key": "01435000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01435000",
+  "name": "NEVERSINK RIVER NEAR CLARYVILLE NY",
+  "waterbody": "NEVERSINK RIVER NEAR CLARYVILLE NY",
+  "state": "NY",
+  "latitude": 41.88994444,
+  "longitude": -74.5898056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NVCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neversink River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nvcn6",
+  "slug": "usgs-01435000",
+  "noaaForecastPath": "data/noaa-forecast/NVCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14050500",
+  "key": "14050500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14050500",
+  "name": "CULTUS RIVER AB CULTUS CR NR LA PINE,OREG.",
+  "waterbody": "CULTUS RIVER AB CULTUS CR NR LA PINE,OREG.",
+  "state": "OR",
+  "latitude": 43.81817327,
+  "longitude": -121.7955857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14050500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

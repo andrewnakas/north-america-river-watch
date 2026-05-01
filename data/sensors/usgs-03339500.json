@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03339500",
+  "key": "03339500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03339500",
+  "name": "SUGAR CREEK AT CRAWFORDSVILLE, IN",
+  "waterbody": "SUGAR CREEK AT CRAWFORDSVILLE, IN",
+  "state": "IN",
+  "latitude": 40.05030556,
+  "longitude": -86.90725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRWI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crwi3",
+  "slug": "usgs-03339500",
+  "noaaForecastPath": "data/noaa-forecast/CRWI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

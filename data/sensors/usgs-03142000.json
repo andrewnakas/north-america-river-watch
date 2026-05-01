@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03142000",
+  "key": "03142000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03142000",
+  "name": "Wills Creek at Cambridge OH",
+  "waterbody": "Wills Creek at Cambridge OH",
+  "state": "OH",
+  "latitude": 40.01451644,
+  "longitude": -81.5870674,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDIO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wills Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdio1",
+  "slug": "usgs-03142000",
+  "noaaForecastPath": "data/noaa-forecast/CDIO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

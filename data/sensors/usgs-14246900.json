@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14246900",
+  "key": "14246900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14246900",
+  "name": "COLUMBIA RIVER AT PORT WESTWARD, NEAR QUINCY, OR",
+  "waterbody": "COLUMBIA RIVER AT PORT WESTWARD, NEAR QUINCY, OR",
+  "state": "OR",
+  "latitude": 46.18122136,
+  "longitude": -123.1834539,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Columbia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbao3",
+  "slug": "usgs-14246900",
+  "noaaForecastPath": "data/noaa-forecast/CBAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

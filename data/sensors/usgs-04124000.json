@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04124000",
+  "key": "04124000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04124000",
+  "name": "MANISTEE RIVER NEAR SHERMAN, MI",
+  "waterbody": "MANISTEE RIVER NEAR SHERMAN, MI",
+  "state": "MI",
+  "latitude": 44.43639239,
+  "longitude": -85.6986792,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manistee River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shrm4",
+  "slug": "usgs-04124000",
+  "noaaForecastPath": "data/noaa-forecast/SHRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

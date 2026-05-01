@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14179000",
+  "key": "14179000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14179000",
+  "name": "BREITENBUSH R ABV FRENCH CR NR DETROIT, OR.",
+  "waterbody": "BREITENBUSH R ABV FRENCH CR NR DETROIT, OR.",
+  "state": "OR",
+  "latitude": 44.75262179,
+  "longitude": -122.1289648,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRBO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Breitenbush River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brbo3",
+  "slug": "usgs-14179000",
+  "noaaForecastPath": "data/noaa-forecast/BRBO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

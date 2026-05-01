@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08151500",
+  "key": "08151500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08151500",
+  "name": "Llano Rv at Llano, TX",
+  "waterbody": "Llano Rv at Llano, TX",
+  "state": "TX",
+  "latitude": 30.7513041,
+  "longitude": -98.6697773,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Llano River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llat2",
+  "slug": "usgs-08151500",
+  "noaaForecastPath": "data/noaa-forecast/LLAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

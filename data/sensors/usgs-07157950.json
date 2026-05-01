@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07157950",
+  "key": "07157950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07157950",
+  "name": "Cimarron River near Buffalo, OK",
+  "waterbody": "Cimarron River near Buffalo, OK",
+  "state": "OK",
+  "latitude": 36.85197484,
+  "longitude": -99.315387,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFFO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cimarron River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bffo2",
+  "slug": "usgs-07157950",
+  "noaaForecastPath": "data/noaa-forecast/BFFO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

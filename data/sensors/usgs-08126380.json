@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08126380",
+  "key": "08126380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08126380",
+  "name": "Colorado Rv nr Ballinger, TX",
+  "waterbody": "Colorado Rv nr Ballinger, TX",
+  "state": "TX",
+  "latitude": 31.71542973,
+  "longitude": -100.0264755,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blit2",
+  "slug": "usgs-08126380",
+  "noaaForecastPath": "data/noaa-forecast/BLIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

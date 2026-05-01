@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09469500",
+  "key": "09469500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09469500",
+  "name": "GILA RIVER BELOW COOLIDGE DAM, AZ.",
+  "waterbody": "GILA RIVER BELOW COOLIDGE DAM, AZ.",
+  "state": "AZ",
+  "latitude": 33.16934444,
+  "longitude": -110.5314583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLDA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gila River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clda3",
+  "slug": "usgs-09469500",
+  "noaaForecastPath": "data/noaa-forecast/CLDA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

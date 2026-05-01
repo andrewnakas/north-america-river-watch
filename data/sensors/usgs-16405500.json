@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16405500",
+  "key": "16405500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16405500",
+  "name": "Waikolu Str at alt 900 ft nr Kalaupapa, Molokai,HI",
+  "waterbody": "Waikolu Str at alt 900 ft nr Kalaupapa, Molokai,HI",
+  "state": "HI",
+  "latitude": 21.14210278,
+  "longitude": -156.918886,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16405500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

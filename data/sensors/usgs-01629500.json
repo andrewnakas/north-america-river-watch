@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01629500",
+  "key": "01629500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01629500",
+  "name": "S F SHENANDOAH RIVER NEAR LURAY, VA",
+  "waterbody": "S F SHENANDOAH RIVER NEAR LURAY, VA",
+  "state": "VA",
+  "latitude": 38.6462305,
+  "longitude": -78.5347329,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Shenandoah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfsv2",
+  "slug": "usgs-01629500",
+  "noaaForecastPath": "data/noaa-forecast/SFSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

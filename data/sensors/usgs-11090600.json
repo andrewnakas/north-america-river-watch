@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11090600",
+  "key": "11090600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11090600",
+  "name": "CARBON C A LOS ALAMITOS CA",
+  "waterbody": "CARBON C A LOS ALAMITOS CA",
+  "state": "CA",
+  "latitude": 33.81527778,
+  "longitude": -118.0644444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11090600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

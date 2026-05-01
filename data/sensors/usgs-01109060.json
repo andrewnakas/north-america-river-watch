@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01109060",
+  "key": "01109060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109060",
+  "name": "THREEMILE RIVER AT NORTH DIGHTON, MA",
+  "waterbody": "THREEMILE RIVER AT NORTH DIGHTON, MA",
+  "state": "MA",
+  "latitude": 41.8662122,
+  "longitude": -71.12282369,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NDGM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Three Mile River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ndgm3",
+  "slug": "usgs-01109060",
+  "noaaForecastPath": "data/noaa-forecast/NDGM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

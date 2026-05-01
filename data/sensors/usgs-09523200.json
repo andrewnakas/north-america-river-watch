@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09523200",
+  "key": "09523200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09523200",
+  "name": "RESERVATION MAIN CANAL NEAR YUMA, AZ",
+  "waterbody": "RESERVATION MAIN CANAL NEAR YUMA, AZ",
+  "state": "CA",
+  "latitude": 32.8177222,
+  "longitude": -114.5145889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09523200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

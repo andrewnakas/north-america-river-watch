@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10311260",
+  "key": "10311260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10311260",
+  "name": "VICEE CYN CK NR SAGEBRUSH RANCH NR CARSON CITY, NV",
+  "waterbody": "VICEE CYN CK NR SAGEBRUSH RANCH NR CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.18407599,
+  "longitude": -119.806016,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10311260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

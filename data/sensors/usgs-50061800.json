@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50061800",
+  "key": "50061800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50061800",
+  "name": "RIO CANOVANAS NR CAMPO RICO, PR",
+  "waterbody": "RIO CANOVANAS NR CAMPO RICO, PR",
+  "state": "PR",
+  "latitude": 18.318478,
+  "longitude": -65.888914,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Canovanas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnap4",
+  "slug": "usgs-50061800",
+  "noaaForecastPath": "data/noaa-forecast/CNAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

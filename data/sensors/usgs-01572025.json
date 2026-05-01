@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01572025",
+  "key": "01572025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01572025",
+  "name": "Swatara Creek near Pine Grove, PA",
+  "waterbody": "Swatara Creek near Pine Grove, PA",
+  "state": "PA",
+  "latitude": 40.53258999,
+  "longitude": -76.4021793,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PGVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swatara Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pgvp1",
+  "slug": "usgs-01572025",
+  "noaaForecastPath": "data/noaa-forecast/PGVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

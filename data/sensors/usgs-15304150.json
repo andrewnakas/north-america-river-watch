@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15304150",
+  "key": "15304150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15304150",
+  "name": "KUSKOKWIM R AT TULUKSAK AK",
+  "waterbody": "KUSKOKWIM R AT TULUKSAK AK",
+  "state": "AK",
+  "latitude": 61.11650833,
+  "longitude": -160.95756944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15304150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

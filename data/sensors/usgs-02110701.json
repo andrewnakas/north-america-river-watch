@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02110701",
+  "key": "02110701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110701",
+  "name": "CRABTREE SWAMP AT CONWAY, SC",
+  "waterbody": "CRABTREE SWAMP AT CONWAY, SC",
+  "state": "SC",
+  "latitude": 33.86100349,
+  "longitude": -79.0411471,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crabtree Swamp",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cscs1",
+  "slug": "usgs-02110701",
+  "noaaForecastPath": "data/noaa-forecast/CSCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

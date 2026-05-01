@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03049680",
+  "key": "03049680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049680",
+  "name": "Allegheny R at Lock & Dam 2 at Aspinwall, PA",
+  "waterbody": "Allegheny R at Lock & Dam 2 at Aspinwall, PA",
+  "state": "PA",
+  "latitude": 40.4875,
+  "longitude": -79.915,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shrp1",
+  "slug": "usgs-03049680",
+  "noaaForecastPath": "data/noaa-forecast/SHRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

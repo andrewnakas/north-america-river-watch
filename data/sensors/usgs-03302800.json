@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03302800",
+  "key": "03302800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302800",
+  "name": "BLUE RIVER AT FREDERICKSBURG, IN",
+  "waterbody": "BLUE RIVER AT FREDERICKSBURG, IN",
+  "state": "IN",
+  "latitude": 38.4339422,
+  "longitude": -86.1916364,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frdi3",
+  "slug": "usgs-03302800",
+  "noaaForecastPath": "data/noaa-forecast/FRDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

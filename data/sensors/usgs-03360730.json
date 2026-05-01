@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03360730",
+  "key": "03360730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03360730",
+  "name": "WHITE RIVER NEAR EDWARDSPORT, IN",
+  "waterbody": "WHITE RIVER NEAR EDWARDSPORT, IN",
+  "state": "IN",
+  "latitude": 38.79505556,
+  "longitude": -87.2418611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FREI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frei3",
+  "slug": "usgs-03360730",
+  "noaaForecastPath": "data/noaa-forecast/FREI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

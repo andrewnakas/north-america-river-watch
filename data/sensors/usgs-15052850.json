@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15052850",
+  "key": "15052850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15052850",
+  "name": "MENDENHALL R BL MONTANA C NR AUKE BAY AK",
+  "waterbody": "MENDENHALL R BL MONTANA C NR AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.37773333,
+  "longitude": -134.59779722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNEA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mendenhall River Below Montana Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnea2",
+  "slug": "usgs-15052850",
+  "noaaForecastPath": "data/noaa-forecast/MNEA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

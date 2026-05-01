@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06671000",
+  "key": "06671000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06671000",
+  "name": "RAWHIDE CREEK NEAR LINGLE, WY",
+  "waterbody": "RAWHIDE CREEK NEAR LINGLE, WY",
+  "state": "WY",
+  "latitude": 42.125512,
+  "longitude": -104.3272362,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06671000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

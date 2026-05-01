@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05534500",
+  "key": "05534500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05534500",
+  "name": "NORTH BRANCH CHICAGO RIVER AT DEERFIELD, IL",
+  "waterbody": "NORTH BRANCH CHICAGO RIVER AT DEERFIELD, IL",
+  "state": "IL",
+  "latitude": 42.15264167,
+  "longitude": -87.8184028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Chicago River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drfi2",
+  "slug": "usgs-05534500",
+  "noaaForecastPath": "data/noaa-forecast/DRFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

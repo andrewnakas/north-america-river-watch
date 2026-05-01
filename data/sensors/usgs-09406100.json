@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09406100",
+  "key": "09406100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09406100",
+  "name": "VIRGIN RIVER AB LA VERKIN CREEK NR LA VERKIN, UT",
+  "waterbody": "VIRGIN RIVER AB LA VERKIN CREEK NR LA VERKIN, UT",
+  "state": "UT",
+  "latitude": 37.1969272,
+  "longitude": -113.285226,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09406100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

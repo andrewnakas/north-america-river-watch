@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14013500",
+  "key": "14013500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14013500",
+  "name": "BLUE CREEK NEAR WALLA WALLA, WA",
+  "waterbody": "BLUE CREEK NEAR WALLA WALLA, WA",
+  "state": "WA",
+  "latitude": 46.05763797,
+  "longitude": -118.140228,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14013500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

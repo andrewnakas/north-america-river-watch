@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06838000",
+  "key": "06838000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06838000",
+  "name": "Red Willow Creek near Red Willow, Nebr.",
+  "waterbody": "Red Willow Creek near Red Willow, Nebr.",
+  "state": "NE",
+  "latitude": 40.23503056,
+  "longitude": -100.50074167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RWCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Willow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rwcn1",
+  "slug": "usgs-06838000",
+  "noaaForecastPath": "data/noaa-forecast/RWCN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

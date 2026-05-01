@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02335075",
+  "key": "02335075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335075",
+  "name": "JOHNS CREEK AT STATE BRIDGE ROAD, NEAR WARSAW, GA",
+  "waterbody": "JOHNS CREEK AT STATE BRIDGE ROAD, NEAR WARSAW, GA",
+  "state": "GA",
+  "latitude": 34.0272222,
+  "longitude": -84.2025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02335075",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

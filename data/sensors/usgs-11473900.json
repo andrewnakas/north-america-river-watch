@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11473900",
+  "key": "11473900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11473900",
+  "name": "MF EEL R NR DOS RIOS CA",
+  "waterbody": "MF EEL R NR DOS RIOS CA",
+  "state": "CA",
+  "latitude": 39.7062356,
+  "longitude": -123.3252632,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Eel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dosc1",
+  "slug": "usgs-11473900",
+  "noaaForecastPath": "data/noaa-forecast/DOSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

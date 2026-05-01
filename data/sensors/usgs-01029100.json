@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01029100",
+  "key": "01029100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01029100",
+  "name": "E. Br. Penobscot River below Grand Lake Matagamon",
+  "waterbody": "E. Br. Penobscot River below Grand Lake Matagamon",
+  "state": "ME",
+  "latitude": 46.1343611,
+  "longitude": -68.7939056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLMM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "E. Branch of Penobscot Below Grand Lake Matagamon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glmm1",
+  "slug": "usgs-01029100",
+  "noaaForecastPath": "data/noaa-forecast/GLMM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12076800",
+  "key": "12076800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12076800",
+  "name": "GOLDSBOROUGH CREEK ABOVE 7TH STREET AT SHELTON, WA",
+  "waterbody": "GOLDSBOROUGH CREEK ABOVE 7TH STREET AT SHELTON, WA",
+  "state": "WA",
+  "latitude": 47.21176109,
+  "longitude": -123.1129292,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12076800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

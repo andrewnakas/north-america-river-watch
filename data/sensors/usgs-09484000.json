@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09484000",
+  "key": "09484000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09484000",
+  "name": "SABINO CREEK NEAR TUCSON, AZ",
+  "waterbody": "SABINO CREEK NEAR TUCSON, AZ",
+  "state": "AZ",
+  "latitude": 32.3147222,
+  "longitude": -110.8109167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabino Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbca3",
+  "slug": "usgs-09484000",
+  "noaaForecastPath": "data/noaa-forecast/SBCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

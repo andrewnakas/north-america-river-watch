@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08105892",
+  "key": "08105892",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105892",
+  "name": "Brushy Ck at FM 685 nr Hutto, TX",
+  "waterbody": "Brushy Ck at FM 685 nr Hutto, TX",
+  "state": "TX",
+  "latitude": 30.5263,
+  "longitude": -97.5667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08105892",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12021800",
+  "key": "12021800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12021800",
+  "name": "CHEHALIS RIVER NEAR ADNA, WA",
+  "waterbody": "CHEHALIS RIVER NEAR ADNA, WA",
+  "state": "WA",
+  "latitude": 46.6256583,
+  "longitude": -123.1018009,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADNW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chehalis River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adnw1",
+  "slug": "usgs-12021800",
+  "noaaForecastPath": "data/noaa-forecast/ADNW1.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

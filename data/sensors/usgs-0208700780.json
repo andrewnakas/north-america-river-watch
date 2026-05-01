@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0208700780",
+  "key": "0208700780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208700780",
+  "name": "LITTLE LICK CR AB SR1814 NR OAK GROVE, NC",
+  "waterbody": "LITTLE LICK CR AB SR1814 NR OAK GROVE, NC",
+  "state": "NC",
+  "latitude": 35.9865346,
+  "longitude": -78.7991726,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0208700780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

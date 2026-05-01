@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14150290",
+  "key": "14150290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14150290",
+  "name": "FALL CREEK ABOVE NORTH FORK, NEAR LOWELL, OR",
+  "waterbody": "FALL CREEK ABOVE NORTH FORK, NEAR LOWELL, OR",
+  "state": "OR",
+  "latitude": 43.9672222,
+  "longitude": -122.6297222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14150290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08331510",
+  "key": "08331510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08331510",
+  "name": "RIO GRANDE AT STATE HWY 346 NEAR BOSQUE, NM",
+  "waterbody": "RIO GRANDE AT STATE HWY 346 NEAR BOSQUE, NM",
+  "state": "NM",
+  "latitude": 34.545,
+  "longitude": -106.7630556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08331510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

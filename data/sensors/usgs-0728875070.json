@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0728875070",
+  "key": "0728875070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0728875070",
+  "name": "DEER CREEK EAST OF LELAND, MS",
+  "waterbody": "DEER CREEK EAST OF LELAND, MS",
+  "state": "MS",
+  "latitude": 33.4011111,
+  "longitude": -90.8919444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0728875070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11509340",
+  "key": "11509340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11509340",
+  "name": "KLAMATH STRAITS DRAIN NEAR WORDEN, OR",
+  "waterbody": "KLAMATH STRAITS DRAIN NEAR WORDEN, OR",
+  "state": "OR",
+  "latitude": 42.08095278,
+  "longitude": -121.8483222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11509340",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

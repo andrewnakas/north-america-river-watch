@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10320100",
+  "key": "10320100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10320100",
+  "name": "DIXIE CK ABV S F HUMBOLDT RV NR ELKO, NV",
+  "waterbody": "DIXIE CK ABV S F HUMBOLDT RV NR ELKO, NV",
+  "state": "NV",
+  "latitude": 40.6582566,
+  "longitude": -115.8545124,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10320100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

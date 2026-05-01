@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06764880",
+  "key": "06764880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06764880",
+  "name": "South Platte River at Roscoe, Nebr.",
+  "waterbody": "South Platte River at Roscoe, Nebr.",
+  "state": "NE",
+  "latitude": 41.1261111,
+  "longitude": -101.5766667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSON1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rson1",
+  "slug": "usgs-06764880",
+  "noaaForecastPath": "data/noaa-forecast/RSON1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

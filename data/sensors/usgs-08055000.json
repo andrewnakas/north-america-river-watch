@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08055000",
+  "key": "08055000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08055000",
+  "name": "Denton Ck nr Grapevine, TX",
+  "waterbody": "Denton Ck nr Grapevine, TX",
+  "state": "TX",
+  "latitude": 32.9870677,
+  "longitude": -97.0127857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08055000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

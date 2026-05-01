@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15955000",
+  "key": "15955000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15955000",
+  "name": "CANNING R AB STAINES R NR DEADHORSE AK",
+  "waterbody": "CANNING R AB STAINES R NR DEADHORSE AK",
+  "state": "AK",
+  "latitude": 69.8817052,
+  "longitude": -146.3886988,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CANA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canning River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cana2",
+  "slug": "usgs-15955000",
+  "noaaForecastPath": "data/noaa-forecast/CANA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

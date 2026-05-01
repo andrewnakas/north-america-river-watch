@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01387450",
+  "key": "01387450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01387450",
+  "name": "Mahwah River near Suffern NY",
+  "waterbody": "Mahwah River near Suffern NY",
+  "state": "NY",
+  "latitude": 41.1411111,
+  "longitude": -74.1161111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUFN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mahwah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sufn6",
+  "slug": "usgs-01387450",
+  "noaaForecastPath": "data/noaa-forecast/SUFN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03298242",
+  "key": "03298242",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298242",
+  "name": "CEDAR CREEK AT FAIRMOUNT RD NR MT WASHINGTON, KY",
+  "waterbody": "CEDAR CREEK AT FAIRMOUNT RD NR MT WASHINGTON, KY",
+  "state": "KY",
+  "latitude": 38.12284356,
+  "longitude": -85.42801079,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03298242",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

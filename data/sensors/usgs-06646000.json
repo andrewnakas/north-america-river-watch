@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06646000",
+  "key": "06646000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06646000",
+  "name": "DEER CREEK IN CANYON, NEAR GLENROCK, WY",
+  "waterbody": "DEER CREEK IN CANYON, NEAR GLENROCK, WY",
+  "state": "WY",
+  "latitude": 42.71160955,
+  "longitude": -106.0292409,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06646000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

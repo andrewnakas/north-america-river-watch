@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14022500",
+  "key": "14022500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14022500",
+  "name": "MCKAY CREEK NEAR PILOT ROCK,OREG.",
+  "waterbody": "MCKAY CREEK NEAR PILOT ROCK,OREG.",
+  "state": "OR",
+  "latitude": 45.54901858,
+  "longitude": -118.7744269,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYKO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKay Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myko3",
+  "slug": "usgs-14022500",
+  "noaaForecastPath": "data/noaa-forecast/MYKO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

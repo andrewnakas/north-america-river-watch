@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08180586",
+  "key": "08180586",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180586",
+  "name": "San Geronimo Ck nr Helotes, TX",
+  "waterbody": "San Geronimo Ck nr Helotes, TX",
+  "state": "TX",
+  "latitude": 29.61972778,
+  "longitude": -98.7951528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08180586",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

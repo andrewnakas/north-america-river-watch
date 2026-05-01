@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07341000",
+  "key": "07341000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07341000",
+  "name": "Saline River near Dierks, AR",
+  "waterbody": "Saline River near Dierks, AR",
+  "state": "AR",
+  "latitude": 34.0961111,
+  "longitude": -94.085,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DIRA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dira4",
+  "slug": "usgs-07341000",
+  "noaaForecastPath": "data/noaa-forecast/DIRA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

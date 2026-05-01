@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02374250",
+  "key": "02374250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02374250",
+  "name": "CONECUH RIVER AT STATE HWY 41 NEAR BREWTON, AL.",
+  "waterbody": "CONECUH RIVER AT STATE HWY 41 NEAR BREWTON, AL.",
+  "state": "AL",
+  "latitude": 31.06715578,
+  "longitude": -87.0616644,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWTA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conecuh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwta1",
+  "slug": "usgs-02374250",
+  "noaaForecastPath": "data/noaa-forecast/BWTA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0818999010",
+  "key": "0818999010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0818999010",
+  "name": "Nueces Rv nr Barksdale, TX",
+  "waterbody": "Nueces Rv nr Barksdale, TX",
+  "state": "TX",
+  "latitude": 29.71883333,
+  "longitude": -100.039575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NUBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nubt2",
+  "slug": "usgs-0818999010",
+  "noaaForecastPath": "data/noaa-forecast/NUBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

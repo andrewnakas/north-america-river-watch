@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10260480",
+  "key": "10260480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10260480",
+  "name": "WILLOW C BL LK ARROWHEAD A LAKE ARROWHEAD CA",
+  "waterbody": "WILLOW C BL LK ARROWHEAD A LAKE ARROWHEAD CA",
+  "state": "CA",
+  "latitude": 34.265,
+  "longitude": -117.1855556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10260480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

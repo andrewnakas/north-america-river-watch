@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06139900",
+  "key": "06139900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06139900",
+  "name": "Beaver Cr at Res Bndry nr Rocky Boy MT",
+  "waterbody": "Beaver Cr at Res Bndry nr Rocky Boy MT",
+  "state": "MT",
+  "latitude": 48.22408056,
+  "longitude": -109.6522667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06139900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

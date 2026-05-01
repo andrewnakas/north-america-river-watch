@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07215500",
+  "key": "07215500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07215500",
+  "name": "MORA RIVER AT LA CUEVA, NM",
+  "waterbody": "MORA RIVER AT LA CUEVA, NM",
+  "state": "NM",
+  "latitude": 35.94511667,
+  "longitude": -105.2557333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCVN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mora River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcvn5",
+  "slug": "usgs-07215500",
+  "noaaForecastPath": "data/noaa-forecast/LCVN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

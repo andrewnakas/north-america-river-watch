@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08047000",
+  "key": "08047000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08047000",
+  "name": "Clear Fk Trinity Rv nr Benbrook, TX",
+  "waterbody": "Clear Fk Trinity Rv nr Benbrook, TX",
+  "state": "TX",
+  "latitude": 32.66513275,
+  "longitude": -97.4419642,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08047000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

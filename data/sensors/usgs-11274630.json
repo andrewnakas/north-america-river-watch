@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11274630",
+  "key": "11274630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11274630",
+  "name": "DEL PUERTO C NR PATTERSON CA",
+  "waterbody": "DEL PUERTO C NR PATTERSON CA",
+  "state": "CA",
+  "latitude": 37.48657227,
+  "longitude": -121.2090645,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTTC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Del Puerto Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pttc1",
+  "slug": "usgs-11274630",
+  "noaaForecastPath": "data/noaa-forecast/PTTC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

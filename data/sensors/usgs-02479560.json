@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02479560",
+  "key": "02479560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02479560",
+  "name": "ESCATAWPA RIVER NEAR AGRICOLA MS",
+  "waterbody": "ESCATAWPA RIVER NEAR AGRICOLA MS",
+  "state": "MS",
+  "latitude": 30.8118552,
+  "longitude": -88.4586274,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02479560",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

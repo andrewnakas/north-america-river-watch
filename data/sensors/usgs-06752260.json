@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06752260",
+  "key": "06752260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06752260",
+  "name": "CACHE LA POUDRE RIVER AT FORT COLLINS, CO",
+  "waterbody": "CACHE LA POUDRE RIVER AT FORT COLLINS, CO",
+  "state": "CO",
+  "latitude": 40.588083,
+  "longitude": -105.069222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POUC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cache La Poudre River (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pouc2",
+  "slug": "usgs-06752260",
+  "noaaForecastPath": "data/noaa-forecast/POUC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

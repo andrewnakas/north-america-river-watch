@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07196500",
+  "key": "07196500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07196500",
+  "name": "Illinois River near Tahlequah, OK",
+  "waterbody": "Illinois River near Tahlequah, OK",
+  "state": "OK",
+  "latitude": 35.9255472,
+  "longitude": -94.9217028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TALO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River (AR OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/talo2",
+  "slug": "usgs-07196500",
+  "noaaForecastPath": "data/noaa-forecast/TALO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

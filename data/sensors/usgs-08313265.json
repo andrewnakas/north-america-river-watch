@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313265",
+  "key": "08313265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313265",
+  "name": "WATER CANYON BLW NM HWY 4 NR WHITE ROCK, NM",
+  "waterbody": "WATER CANYON BLW NM HWY 4 NR WHITE ROCK, NM",
+  "state": "NM",
+  "latitude": 35.80558155,
+  "longitude": -106.242804,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313265",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

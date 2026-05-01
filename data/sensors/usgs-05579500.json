@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05579500",
+  "key": "05579500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05579500",
+  "name": "LAKE FORK NEAR CORNLAND, IL",
+  "waterbody": "LAKE FORK NEAR CORNLAND, IL",
+  "state": "IL",
+  "latitude": 39.95176667,
+  "longitude": -89.3856694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Fork (Central IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clfi2",
+  "slug": "usgs-05579500",
+  "noaaForecastPath": "data/noaa-forecast/CLFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

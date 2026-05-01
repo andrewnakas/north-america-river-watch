@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09421500",
+  "key": "09421500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09421500",
+  "name": "COLORADO RV BLW HOOVER DAM, AZ-NV",
+  "waterbody": "COLORADO RV BLW HOOVER DAM, AZ-NV",
+  "state": "NV",
+  "latitude": 36.01525847,
+  "longitude": -114.7385936,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09421500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

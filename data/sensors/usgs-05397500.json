@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05397500",
+  "key": "05397500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05397500",
+  "name": "EAU CLAIRE RIVER AT KELLY, WI",
+  "waterbody": "EAU CLAIRE RIVER AT KELLY, WI",
+  "state": "WI",
+  "latitude": 44.91888889,
+  "longitude": -89.5519444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KELW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eau Claire River (East)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kelw3",
+  "slug": "usgs-05397500",
+  "noaaForecastPath": "data/noaa-forecast/KELW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

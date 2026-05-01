@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04206448",
+  "key": "04206448",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04206448",
+  "name": "Chippewa Ck in Chippewa Met Pk near Brecksville OH",
+  "waterbody": "Chippewa Ck in Chippewa Met Pk near Brecksville OH",
+  "state": "OH",
+  "latitude": 41.31672109,
+  "longitude": -81.5978997,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHPO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa Creek (Cuyahoga)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chpo1",
+  "slug": "usgs-04206448",
+  "noaaForecastPath": "data/noaa-forecast/CHPO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

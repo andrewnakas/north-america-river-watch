@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04119160",
+  "key": "04119160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04119160",
+  "name": "BUCK CREEK AT WILSON AVENUE AT GRANDVILLE, MI",
+  "waterbody": "BUCK CREEK AT WILSON AVENUE AT GRANDVILLE, MI",
+  "state": "MI",
+  "latitude": 42.9025263,
+  "longitude": -85.7628105,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buck Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bucm4",
+  "slug": "usgs-04119160",
+  "noaaForecastPath": "data/noaa-forecast/BUCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

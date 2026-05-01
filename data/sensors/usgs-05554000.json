@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05554000",
+  "key": "05554000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05554000",
+  "name": "NORTH FORK VERMILION RIVER NEAR CHARLOTTE, IL",
+  "waterbody": "NORTH FORK VERMILION RIVER NEAR CHARLOTTE, IL",
+  "state": "IL",
+  "latitude": 40.8355898,
+  "longitude": -88.2989402,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05554000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

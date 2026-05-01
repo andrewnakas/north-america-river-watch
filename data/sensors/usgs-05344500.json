@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05344500",
+  "key": "05344500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05344500",
+  "name": "MISSISSIPPI RIVER AT PRESCOTT, WI",
+  "waterbody": "MISSISSIPPI RIVER AT PRESCOTT, WI",
+  "state": "WI",
+  "latitude": 44.747085,
+  "longitude": -92.802152,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PREW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prew3",
+  "slug": "usgs-05344500",
+  "noaaForecastPath": "data/noaa-forecast/PREW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02136371",
+  "key": "02136371",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02136371",
+  "name": "SAMPIT RIVER BELOW US 17 NEAR GEORGETOWN, SC",
+  "waterbody": "SAMPIT RIVER BELOW US 17 NEAR GEORGETOWN, SC",
+  "state": "SC",
+  "latitude": 33.3598611,
+  "longitude": -79.2880278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sampit River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smgs1",
+  "slug": "usgs-02136371",
+  "noaaForecastPath": "data/noaa-forecast/SMGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

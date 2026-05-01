@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01590500",
+  "key": "01590500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01590500",
+  "name": "BACON RIDGE BRANCH AT CHESTERFIELD, MD",
+  "waterbody": "BACON RIDGE BRANCH AT CHESTERFIELD, MD",
+  "state": "MD",
+  "latitude": 39.00205528,
+  "longitude": -76.6144094,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01590500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

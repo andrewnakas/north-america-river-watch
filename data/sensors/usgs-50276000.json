@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50276000",
+  "key": "50276000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50276000",
+  "name": "TURPENTINE RUN AT MARIENDAL, ST. THOMAS USVI",
+  "waterbody": "TURPENTINE RUN AT MARIENDAL, ST. THOMAS USVI",
+  "state": "VI",
+  "latitude": 18.32800998,
+  "longitude": -64.8823642,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50276000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04247000",
+  "key": "04247000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04247000",
+  "name": "ONEIDA RIVER NEAR EUCLID NY",
+  "waterbody": "ONEIDA RIVER NEAR EUCLID NY",
+  "state": "NY",
+  "latitude": 43.2053611,
+  "longitude": -76.21777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EUCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oneida River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eucn6",
+  "slug": "usgs-04247000",
+  "noaaForecastPath": "data/noaa-forecast/EUCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

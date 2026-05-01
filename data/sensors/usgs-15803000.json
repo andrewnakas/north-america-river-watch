@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15803000",
+  "key": "15803000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15803000",
+  "name": "MEADE R AT ATKASUK AK",
+  "waterbody": "MEADE R AT ATKASUK AK",
+  "state": "AK",
+  "latitude": 70.4953764,
+  "longitude": -157.395848,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDEA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meade River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdea2",
+  "slug": "usgs-15803000",
+  "noaaForecastPath": "data/noaa-forecast/MDEA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

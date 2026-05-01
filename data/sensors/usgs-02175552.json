@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02175552",
+  "key": "02175552",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02175552",
+  "name": "LITTLE SALKEHATCHIE RIVER BELOW DENMARK, SC",
+  "waterbody": "LITTLE SALKEHATCHIE RIVER BELOW DENMARK, SC",
+  "state": "SC",
+  "latitude": 33.2531111,
+  "longitude": -81.16125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRDS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Salkehatchie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srds1",
+  "slug": "usgs-02175552",
+  "noaaForecastPath": "data/noaa-forecast/SRDS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

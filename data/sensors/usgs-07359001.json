@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07359001",
+  "key": "07359001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07359001",
+  "name": "Ouachita River below Remmel Dam at Jones Mill, AR",
+  "waterbody": "Ouachita River below Remmel Dam at Jones Mill, AR",
+  "state": "AR",
+  "latitude": 34.43064679,
+  "longitude": -92.881005,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07359001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

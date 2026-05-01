@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01378500",
+  "key": "01378500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01378500",
+  "name": "Hackensack River at New Milford NJ",
+  "waterbody": "Hackensack River at New Milford NJ",
+  "state": "NJ",
+  "latitude": 40.94833333,
+  "longitude": -74.02666667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMLN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hackensack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmln4",
+  "slug": "usgs-01378500",
+  "noaaForecastPath": "data/noaa-forecast/NMLN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05586300",
+  "key": "05586300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05586300",
+  "name": "ILLINOIS RIVER AT FLORENCE, IL",
+  "waterbody": "ILLINOIS RIVER AT FLORENCE, IL",
+  "state": "IL",
+  "latitude": 39.63275,
+  "longitude": -90.6076667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05586300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

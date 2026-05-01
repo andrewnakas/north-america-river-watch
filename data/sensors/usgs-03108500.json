@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03108500",
+  "key": "03108500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03108500",
+  "name": "Ohio River at Montgomery Lock & Dam, Lower Pool",
+  "waterbody": "Ohio River at Montgomery Lock & Dam, Lower Pool",
+  "state": "PA",
+  "latitude": 40.64724128,
+  "longitude": -80.3886663,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgyp1",
+  "slug": "usgs-03108500",
+  "noaaForecastPath": "data/noaa-forecast/MGYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

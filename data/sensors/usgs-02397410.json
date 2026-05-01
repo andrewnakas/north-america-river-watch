@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02397410",
+  "key": "02397410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02397410",
+  "name": "CEDAR CREEK AT GA AVE, AT CEDARTOWN, GA",
+  "waterbody": "CEDAR CREEK AT GA AVE, AT CEDARTOWN, GA",
+  "state": "GA",
+  "latitude": 33.99694444,
+  "longitude": -85.2660556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTWG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Cedar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctwg1",
+  "slug": "usgs-02397410",
+  "noaaForecastPath": "data/noaa-forecast/CTWG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

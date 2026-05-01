@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05453100",
+  "key": "05453100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05453100",
+  "name": "Iowa River at Marengo, IA",
+  "waterbody": "Iowa River at Marengo, IA",
+  "state": "IA",
+  "latitude": 41.81272566,
+  "longitude": -92.064792,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MROI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mroi4",
+  "slug": "usgs-05453100",
+  "noaaForecastPath": "data/noaa-forecast/MROI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

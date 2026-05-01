@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11491400",
+  "key": "11491400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11491400",
+  "name": "WILLIAMSON RIVER BELOW SHEEP CREEK NR LENZ,OREG.",
+  "waterbody": "WILLIAMSON RIVER BELOW SHEEP CREEK NR LENZ,OREG.",
+  "state": "OR",
+  "latitude": 42.91152848,
+  "longitude": -121.4766839,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11491400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

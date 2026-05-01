@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13130300",
+  "key": "13130300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13130300",
+  "name": "BIG LOST RIVER NR LESLIE ID",
+  "waterbody": "BIG LOST RIVER NR LESLIE ID",
+  "state": "ID",
+  "latitude": 43.859375,
+  "longitude": -113.4666694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LESI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Lost River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lesi1",
+  "slug": "usgs-13130300",
+  "noaaForecastPath": "data/noaa-forecast/LESI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

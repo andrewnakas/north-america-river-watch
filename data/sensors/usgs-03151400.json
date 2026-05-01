@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03151400",
+  "key": "03151400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03151400",
+  "name": "LITTLE KANAWHA RIVER NR WILDCAT, WV",
+  "waterbody": "LITTLE KANAWHA RIVER NR WILDCAT, WV",
+  "state": "WV",
+  "latitude": 38.7434337,
+  "longitude": -80.5253667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLDW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Kanawha River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wldw2",
+  "slug": "usgs-03151400",
+  "noaaForecastPath": "data/noaa-forecast/WLDW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

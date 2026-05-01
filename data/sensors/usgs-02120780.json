@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02120780",
+  "key": "02120780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02120780",
+  "name": "SECOND CREEK NEAR BARBER, NC",
+  "waterbody": "SECOND CREEK NEAR BARBER, NC",
+  "state": "NC",
+  "latitude": 35.7176083,
+  "longitude": -80.596075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRBN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Second Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brbn7",
+  "slug": "usgs-02120780",
+  "noaaForecastPath": "data/noaa-forecast/BRBN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

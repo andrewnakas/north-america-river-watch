@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02297600",
+  "key": "02297600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02297600",
+  "name": "SHELL CREEK AT CIRCLE K GROVES NEAR FT OGDEN FL",
+  "waterbody": "SHELL CREEK AT CIRCLE K GROVES NEAR FT OGDEN FL",
+  "state": "FL",
+  "latitude": 26.96734444,
+  "longitude": -81.8266361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shell Creek Near Fort Ogden",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccgf1",
+  "slug": "usgs-02297600",
+  "noaaForecastPath": "data/noaa-forecast/CCGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:023177483",
+  "key": "023177483",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023177483",
+  "name": "WITHLACOOCHEE R AT SKIPPER BRIDGE RD,NR BEMISS, GA",
+  "waterbody": "WITHLACOOCHEE R AT SKIPPER BRIDGE RD,NR BEMISS, GA",
+  "state": "GA",
+  "latitude": 30.94908333,
+  "longitude": -83.2718333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VDSG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vdsg1",
+  "slug": "usgs-023177483",
+  "noaaForecastPath": "data/noaa-forecast/VDSG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

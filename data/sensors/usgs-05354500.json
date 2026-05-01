@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05354500",
+  "key": "05354500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05354500",
+  "name": "CANNON RIVER AT CO. HWY. 29 BELOW FARIBAULT, MN",
+  "waterbody": "CANNON RIVER AT CO. HWY. 29 BELOW FARIBAULT, MN",
+  "state": "MN",
+  "latitude": 44.3597222,
+  "longitude": -93.2566667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRLM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cannon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frlm5",
+  "slug": "usgs-05354500",
+  "noaaForecastPath": "data/noaa-forecast/FRLM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

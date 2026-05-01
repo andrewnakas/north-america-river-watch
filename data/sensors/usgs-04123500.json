@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04123500",
+  "key": "04123500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04123500",
+  "name": "MANISTEE RIVER NEAR GRAYLING, MI",
+  "waterbody": "MANISTEE RIVER NEAR GRAYLING, MI",
+  "state": "MI",
+  "latitude": 44.6930538,
+  "longitude": -84.84714145,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manistee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gymm4",
+  "slug": "usgs-04123500",
+  "noaaForecastPath": "data/noaa-forecast/GYMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

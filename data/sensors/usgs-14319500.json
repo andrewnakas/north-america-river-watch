@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14319500",
+  "key": "14319500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14319500",
+  "name": "NORTH UMPQUA RIVER AT WINCHESTER, OR",
+  "waterbody": "NORTH UMPQUA RIVER AT WINCHESTER, OR",
+  "state": "OR",
+  "latitude": 43.27096667,
+  "longitude": -123.4115444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Umpqua River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnro3",
+  "slug": "usgs-14319500",
+  "noaaForecastPath": "data/noaa-forecast/WNRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

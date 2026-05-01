@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12354500",
+  "key": "12354500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12354500",
+  "name": "Clark Fork at St. Regis MT",
+  "waterbody": "Clark Fork at St. Regis MT",
+  "state": "MT",
+  "latitude": 47.30163889,
+  "longitude": -115.0868694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRGM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clark Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srgm8",
+  "slug": "usgs-12354500",
+  "noaaForecastPath": "data/noaa-forecast/SRGM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

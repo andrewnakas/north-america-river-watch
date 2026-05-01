@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10126000",
+  "key": "10126000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10126000",
+  "name": "BEAR RIVER NEAR CORINNE, UT",
+  "waterbody": "BEAR RIVER NEAR CORINNE, UT",
+  "state": "UT",
+  "latitude": 41.5763213,
+  "longitude": -112.100782,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BECU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/becu1",
+  "slug": "usgs-10126000",
+  "noaaForecastPath": "data/noaa-forecast/BECU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

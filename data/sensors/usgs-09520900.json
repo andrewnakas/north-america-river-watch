@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09520900",
+  "key": "09520900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09520900",
+  "name": "COLORADO RVR ABV OCEAN TO OCEAN BRIDGE NR YUMA, AZ",
+  "waterbody": "COLORADO RVR ABV OCEAN TO OCEAN BRIDGE NR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.72652778,
+  "longitude": -114.6019333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09520900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07380212",
+  "key": "07380212",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380212",
+  "name": "Airline Canal at Blind River near Gramercy, LA",
+  "waterbody": "Airline Canal at Blind River near Gramercy, LA",
+  "state": "LA",
+  "latitude": 30.10158889,
+  "longitude": -90.7364889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07380212",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

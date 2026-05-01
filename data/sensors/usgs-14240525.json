@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14240525",
+  "key": "14240525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14240525",
+  "name": "NF TOUTLE RIVER BELOW SRS NEAR KID VALLEY, WA",
+  "waterbody": "NF TOUTLE RIVER BELOW SRS NEAR KID VALLEY, WA",
+  "state": "WA",
+  "latitude": 46.3717753,
+  "longitude": -122.5789987,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRBW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Fk Toutle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srbw1",
+  "slug": "usgs-14240525",
+  "noaaForecastPath": "data/noaa-forecast/SRBW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

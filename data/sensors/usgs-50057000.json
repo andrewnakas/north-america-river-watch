@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50057000",
+  "key": "50057000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50057000",
+  "name": "RIO GURABO AT GURABO, PR",
+  "waterbody": "RIO GURABO AT GURABO, PR",
+  "state": "PR",
+  "latitude": 18.25649864,
+  "longitude": -65.9676837,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GURP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Gurabo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gurp4",
+  "slug": "usgs-50057000",
+  "noaaForecastPath": "data/noaa-forecast/GURP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

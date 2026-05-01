@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04182950",
+  "key": "04182950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04182950",
+  "name": "MAUMEE RIVER AT COLISEUM BLVD AT FORT WAYNE, IN",
+  "waterbody": "MAUMEE RIVER AT COLISEUM BLVD AT FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 41.0797428,
+  "longitude": -85.0874318,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maumee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/comi3",
+  "slug": "usgs-04182950",
+  "noaaForecastPath": "data/noaa-forecast/COMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

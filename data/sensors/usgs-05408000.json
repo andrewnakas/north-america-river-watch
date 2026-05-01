@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05408000",
+  "key": "05408000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05408000",
+  "name": "KICKAPOO RIVER AT LA FARGE, WI",
+  "waterbody": "KICKAPOO RIVER AT LA FARGE, WI",
+  "state": "WI",
+  "latitude": 43.57415528,
+  "longitude": -90.6431767,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAFW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kickapoo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lafw3",
+  "slug": "usgs-05408000",
+  "noaaForecastPath": "data/noaa-forecast/LAFW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

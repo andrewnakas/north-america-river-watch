@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04273700",
+  "key": "04273700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04273700",
+  "name": "SALMON RIVER AT SOUTH PLATTSBURGH NY",
+  "waterbody": "SALMON RIVER AT SOUTH PLATTSBURGH NY",
+  "state": "NY",
+  "latitude": 44.64016667,
+  "longitude": -73.49488889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spbn6",
+  "slug": "usgs-04273700",
+  "noaaForecastPath": "data/noaa-forecast/SPBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

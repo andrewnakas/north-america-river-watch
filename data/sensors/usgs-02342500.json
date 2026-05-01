@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02342500",
+  "key": "02342500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02342500",
+  "name": "UCHEE CREEK NEAR FORT MITCHELL, AL.",
+  "waterbody": "UCHEE CREEK NEAR FORT MITCHELL, AL.",
+  "state": "AL",
+  "latitude": 32.31681467,
+  "longitude": -85.014931,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02342500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

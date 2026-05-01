@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442625",
+  "key": "09442625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442625",
+  "name": "NORTH SIDE LUNA DITCH NR LUNA, NM",
+  "waterbody": "NORTH SIDE LUNA DITCH NR LUNA, NM",
+  "state": "NM",
+  "latitude": 33.81805556,
+  "longitude": -108.9888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442625",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12026400",
+  "key": "12026400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12026400",
+  "name": "SKOOKUMCHUCK RIVER NEAR BUCODA, WA",
+  "waterbody": "SKOOKUMCHUCK RIVER NEAR BUCODA, WA",
+  "state": "WA",
+  "latitude": 46.7720459,
+  "longitude": -122.924298,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCDW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skookumchuck River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcdw1",
+  "slug": "usgs-12026400",
+  "noaaForecastPath": "data/noaa-forecast/BCDW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

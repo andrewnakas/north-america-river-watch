@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01518700",
+  "key": "01518700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01518700",
+  "name": "Tioga River at Tioga Junction, PA",
+  "waterbody": "Tioga River at Tioga Junction, PA",
+  "state": "PA",
+  "latitude": 41.95257385,
+  "longitude": -77.1152486,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TGJP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tioga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tgjp1",
+  "slug": "usgs-01518700",
+  "noaaForecastPath": "data/noaa-forecast/TGJP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

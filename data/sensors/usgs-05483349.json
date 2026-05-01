@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05483349",
+  "key": "05483349",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05483349",
+  "name": "Middle Raccoon River Tributary at Carroll, IA",
+  "waterbody": "Middle Raccoon River Tributary at Carroll, IA",
+  "state": "IA",
+  "latitude": 42.04165195,
+  "longitude": -94.8788752,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLLI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Raccoon River Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clli4",
+  "slug": "usgs-05483349",
+  "noaaForecastPath": "data/noaa-forecast/CLLI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

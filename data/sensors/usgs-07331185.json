@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07331185",
+  "key": "07331185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07331185",
+  "name": "Mill Creek near Sulphur, OK",
+  "waterbody": "Mill Creek near Sulphur, OK",
+  "state": "OK",
+  "latitude": 34.477336,
+  "longitude": -96.905781,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smco2",
+  "slug": "usgs-07331185",
+  "noaaForecastPath": "data/noaa-forecast/SMCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

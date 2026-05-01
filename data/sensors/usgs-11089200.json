@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11089200",
+  "key": "11089200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11089200",
+  "name": "COYOTE C NR BUENA PARK CA",
+  "waterbody": "COYOTE C NR BUENA PARK CA",
+  "state": "CA",
+  "latitude": 33.8711111,
+  "longitude": -118.0275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11089200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

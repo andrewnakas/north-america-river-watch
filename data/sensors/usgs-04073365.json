@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04073365",
+  "key": "04073365",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04073365",
+  "name": "FOX RIVER AT PRINCETON, WI",
+  "waterbody": "FOX RIVER AT PRINCETON, WI",
+  "state": "WI",
+  "latitude": 43.8511111,
+  "longitude": -89.1333333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCNW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River (North)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcnw3",
+  "slug": "usgs-04073365",
+  "noaaForecastPath": "data/noaa-forecast/PCNW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

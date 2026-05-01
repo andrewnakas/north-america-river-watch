@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13172455",
+  "key": "13172455",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13172455",
+  "name": "SNAKE RIVER BLW BYPASS NR MURPHY, ID",
+  "waterbody": "SNAKE RIVER BLW BYPASS NR MURPHY, ID",
+  "state": "ID",
+  "latitude": 43.25481389,
+  "longitude": -116.3906389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWAI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swai1",
+  "slug": "usgs-13172455",
+  "noaaForecastPath": "data/noaa-forecast/SWAI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09419696",
+  "key": "09419696",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419696",
+  "name": "DUCK CK AT BROADBENT BLVD AT E LAS VEGAS, NV",
+  "waterbody": "DUCK CK AT BROADBENT BLVD AT E LAS VEGAS, NV",
+  "state": "NV",
+  "latitude": 36.09080799,
+  "longitude": -115.0238843,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCKN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duck Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dckn2",
+  "slug": "usgs-09419696",
+  "noaaForecastPath": "data/noaa-forecast/DCKN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08075780",
+  "key": "08075780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08075780",
+  "name": "Greens Bayou at Cutten Rd nr Houston, TX",
+  "waterbody": "Greens Bayou at Cutten Rd nr Houston, TX",
+  "state": "TX",
+  "latitude": 29.94911178,
+  "longitude": -95.5196633,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08075780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

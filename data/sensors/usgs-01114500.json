@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01114500",
+  "key": "01114500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01114500",
+  "name": "WOONASQUATUCKET RIVER AT CENTERDALE, RI",
+  "waterbody": "WOONASQUATUCKET RIVER AT CENTERDALE, RI",
+  "state": "RI",
+  "latitude": 41.8589884,
+  "longitude": -71.4872823,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CENR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Woonasquatucket",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cenr1",
+  "slug": "usgs-01114500",
+  "noaaForecastPath": "data/noaa-forecast/CENR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08117375",
+  "key": "08117375",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117375",
+  "name": "Little Bernard Ck at I-10 nr Sealy, TX",
+  "waterbody": "Little Bernard Ck at I-10 nr Sealy, TX",
+  "state": "TX",
+  "latitude": 29.761675,
+  "longitude": -96.205325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Bernard Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lebt2",
+  "slug": "usgs-08117375",
+  "noaaForecastPath": "data/noaa-forecast/LEBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

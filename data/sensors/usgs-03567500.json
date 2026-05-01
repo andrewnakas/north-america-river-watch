@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03567500",
+  "key": "03567500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03567500",
+  "name": "SOUTH CHICKAMAUGA CREEK NEAR CHICKAMAUGA, TN",
+  "waterbody": "SOUTH CHICKAMAUGA CREEK NEAR CHICKAMAUGA, TN",
+  "state": "TN",
+  "latitude": 35.0138947,
+  "longitude": -85.20941039,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHKT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "S. Chickamauga Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chkt1",
+  "slug": "usgs-03567500",
+  "noaaForecastPath": "data/noaa-forecast/CHKT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

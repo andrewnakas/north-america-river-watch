@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214642825",
+  "key": "0214642825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214642825",
+  "name": "BRIAR CREEK NEAR CHARLOTTE, NC",
+  "waterbody": "BRIAR CREEK NEAR CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.2361111,
+  "longitude": -80.7711111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Briar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smrn7",
+  "slug": "usgs-0214642825",
+  "noaaForecastPath": "data/noaa-forecast/SMRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

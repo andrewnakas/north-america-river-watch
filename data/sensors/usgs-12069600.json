@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12069600",
+  "key": "12069600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12069600",
+  "name": "DEVILS HOLE CREEK NEAR BANGOR, WA",
+  "waterbody": "DEVILS HOLE CREEK NEAR BANGOR, WA",
+  "state": "WA",
+  "latitude": 47.73731558,
+  "longitude": -122.7329347,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12069600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

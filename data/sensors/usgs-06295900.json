@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06295900",
+  "key": "06295900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06295900",
+  "name": "Rosebud Creek at Hwy 447 bridge nr Rosebud, MT",
+  "waterbody": "Rosebud Creek at Hwy 447 bridge nr Rosebud, MT",
+  "state": "MT",
+  "latitude": 46.19803056,
+  "longitude": -106.4925694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rosebud Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbdm8",
+  "slug": "usgs-06295900",
+  "noaaForecastPath": "data/noaa-forecast/RBDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

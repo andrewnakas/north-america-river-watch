@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380127",
+  "key": "07380127",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380127",
+  "name": "Henderson Bayou Pump Station near Port Vincent, LA",
+  "waterbody": "Henderson Bayou Pump Station near Port Vincent, LA",
+  "state": "LA",
+  "latitude": 30.31825,
+  "longitude": -90.8598611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBPL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbpl1",
+  "slug": "usgs-07380127",
+  "noaaForecastPath": "data/noaa-forecast/HBPL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

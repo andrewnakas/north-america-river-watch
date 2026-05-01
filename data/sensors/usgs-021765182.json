@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021765182",
+  "key": "021765182",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021765182",
+  "name": "COOSAWHATCHIE RIVER AT I95 NEAR RIDGELAND, SC",
+  "waterbody": "COOSAWHATCHIE RIVER AT I95 NEAR RIDGELAND, SC",
+  "state": "SC",
+  "latitude": 32.5883611,
+  "longitude": -80.9234722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosawhatchie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crrs1",
+  "slug": "usgs-021765182",
+  "noaaForecastPath": "data/noaa-forecast/CRRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

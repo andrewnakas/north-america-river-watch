@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02275705",
+  "key": "02275705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02275705",
+  "name": "HENRY CREEK AT HENRY CRK LOCK NR SHERMAN",
+  "waterbody": "HENRY CREEK AT HENRY CRK LOCK NR SHERMAN",
+  "state": "FL",
+  "latitude": 27.1625488,
+  "longitude": -80.717558,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02275705",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

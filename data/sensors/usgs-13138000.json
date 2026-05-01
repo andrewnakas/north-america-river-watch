@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13138000",
+  "key": "13138000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13138000",
+  "name": "EAST FORK BIG WOOD RIVER AT GIMLET ID",
+  "waterbody": "EAST FORK BIG WOOD RIVER AT GIMLET ID",
+  "state": "ID",
+  "latitude": 43.60305556,
+  "longitude": -114.3302778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EFGI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Big Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/efgi1",
+  "slug": "usgs-13138000",
+  "noaaForecastPath": "data/noaa-forecast/EFGI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

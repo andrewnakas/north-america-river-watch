@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03292557",
+  "key": "03292557",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03292557",
+  "name": "S FK BEARGRASS CR AT MASON AVE NR LOUISVILLE, KY",
+  "waterbody": "S FK BEARGRASS CR AT MASON AVE NR LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.2415,
+  "longitude": -85.736875,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03292557",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

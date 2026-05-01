@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01432110",
+  "key": "01432110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01432110",
+  "name": "Lackawaxen River at Rowland, PA",
+  "waterbody": "Lackawaxen River at Rowland, PA",
+  "state": "PA",
+  "latitude": 41.4759228,
+  "longitude": -75.036281,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROWP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lackawaxen River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rowp1",
+  "slug": "usgs-01432110",
+  "noaaForecastPath": "data/noaa-forecast/ROWP1.json",
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

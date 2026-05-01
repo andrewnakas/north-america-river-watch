@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14222500",
+  "key": "14222500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14222500",
+  "name": "EAST FORK LEWIS RIVER NEAR HEISSON, WA",
+  "waterbody": "EAST FORK LEWIS RIVER NEAR HEISSON, WA",
+  "state": "WA",
+  "latitude": 45.8367809,
+  "longitude": -122.4662083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14222500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

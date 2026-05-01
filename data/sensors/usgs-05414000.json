@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05414000",
+  "key": "05414000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05414000",
+  "name": "PLATTE RIVER NEAR ROCKVILLE, WI",
+  "waterbody": "PLATTE RIVER NEAR ROCKVILLE, WI",
+  "state": "WI",
+  "latitude": 42.7311111,
+  "longitude": -90.6402778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVLW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvlw3",
+  "slug": "usgs-05414000",
+  "noaaForecastPath": "data/noaa-forecast/RVLW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

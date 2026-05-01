@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04057801",
+  "key": "04057801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04057801",
+  "name": "M BR ESCANABA R AT US HWY 41 NR HUMBOLDT, MI",
+  "waterbody": "M BR ESCANABA R AT US HWY 41 NR HUMBOLDT, MI",
+  "state": "MI",
+  "latitude": 46.49326948,
+  "longitude": -87.8679127,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04057801",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

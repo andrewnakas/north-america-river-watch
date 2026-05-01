@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08197936",
+  "key": "08197936",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08197936",
+  "name": "Sabinal Rv bl Mill Ck nr Vanderpool, TX",
+  "waterbody": "Sabinal Rv bl Mill Ck nr Vanderpool, TX",
+  "state": "TX",
+  "latitude": 29.719,
+  "longitude": -99.5487,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabinal River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srmt2",
+  "slug": "usgs-08197936",
+  "noaaForecastPath": "data/noaa-forecast/SRMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

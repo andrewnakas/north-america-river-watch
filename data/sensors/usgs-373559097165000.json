@@ -1,0 +1,19 @@
+{
+  "id": "usgs:373559097165000",
+  "key": "373559097165000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "373559097165000",
+  "name": "McConnell C at Oliver St, Wichita, KS",
+  "waterbody": "McConnell C at Oliver St, Wichita, KS",
+  "state": "KS",
+  "latitude": 37.59972222,
+  "longitude": -97.28055556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-373559097165000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10338700",
+  "key": "10338700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10338700",
+  "name": "DONNER C AT HWY 89 NR TRUCKEE CA",
+  "waterbody": "DONNER C AT HWY 89 NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.32099225,
+  "longitude": -120.2079523,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCHC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Donner Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dchc1",
+  "slug": "usgs-10338700",
+  "noaaForecastPath": "data/noaa-forecast/DCHC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

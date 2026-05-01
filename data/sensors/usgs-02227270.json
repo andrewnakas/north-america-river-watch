@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02227270",
+  "key": "02227270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02227270",
+  "name": "ALABAHA RIVER AT GA 203, NEAR BLACKSHEAR, GA",
+  "waterbody": "ALABAHA RIVER AT GA 203, NEAR BLACKSHEAR, GA",
+  "state": "GA",
+  "latitude": 31.37558333,
+  "longitude": -82.28863889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alabaha River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abag1",
+  "slug": "usgs-02227270",
+  "noaaForecastPath": "data/noaa-forecast/ABAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

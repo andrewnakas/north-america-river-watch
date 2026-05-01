@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336152",
+  "key": "02336152",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336152",
+  "name": "SOUTH FORK PEACHTREE AT CASA DR, NR CLARKSTON, GA",
+  "waterbody": "SOUTH FORK PEACHTREE AT CASA DR, NR CLARKSTON, GA",
+  "state": "GA",
+  "latitude": 33.81044444,
+  "longitude": -84.2479722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFPG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Peachtree Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfpg1",
+  "slug": "usgs-02336152",
+  "noaaForecastPath": "data/noaa-forecast/SFPG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

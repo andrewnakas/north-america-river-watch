@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310650",
+  "key": "02310650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310650",
+  "name": "CHASSAHOWITZKA RIVER NEAR HOMOSASSA FL",
+  "waterbody": "CHASSAHOWITZKA RIVER NEAR HOMOSASSA FL",
+  "state": "FL",
+  "latitude": 28.71527923,
+  "longitude": -82.57681407,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHWF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tide Gauge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chwf1",
+  "slug": "usgs-02310650",
+  "noaaForecastPath": "data/noaa-forecast/CHWF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02172081",
+  "key": "02172081",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172081",
+  "name": "ASHLEY RIVER AT COOKE CROSSROADS, SC",
+  "waterbody": "ASHLEY RIVER AT COOKE CROSSROADS, SC",
+  "state": "SC",
+  "latitude": 32.95878299,
+  "longitude": -80.2009279,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashley River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arbs1",
+  "slug": "usgs-02172081",
+  "noaaForecastPath": "data/noaa-forecast/ARBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

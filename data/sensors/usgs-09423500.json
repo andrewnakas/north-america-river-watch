@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09423500",
+  "key": "09423500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09423500",
+  "name": "COLORADO RIVER AT NEEDLES, CA",
+  "waterbody": "COLORADO RIVER AT NEEDLES, CA",
+  "state": "CA",
+  "latitude": 34.8516722,
+  "longitude": -114.6101694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09423500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

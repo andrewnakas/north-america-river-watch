@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07331000",
+  "key": "07331000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07331000",
+  "name": "Washita River near Dickson, OK",
+  "waterbody": "Washita River near Dickson, OK",
+  "state": "OK",
+  "latitude": 34.23342725,
+  "longitude": -96.9758447,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DURO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/duro2",
+  "slug": "usgs-07331000",
+  "noaaForecastPath": "data/noaa-forecast/DURO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

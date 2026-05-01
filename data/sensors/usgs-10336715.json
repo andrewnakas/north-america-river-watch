@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10336715",
+  "key": "10336715",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336715",
+  "name": "MARLETTE CK NR CARSON CITY, NV",
+  "waterbody": "MARLETTE CK NR CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.17213045,
+  "longitude": -119.907963,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10336715",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13186000",
+  "key": "13186000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13186000",
+  "name": "SF BOISE RIVER NR FEATHERVILLE ID",
+  "waterbody": "SF BOISE RIVER NR FEATHERVILLE ID",
+  "state": "ID",
+  "latitude": 43.4958333,
+  "longitude": -115.3080556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRFI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Boise River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brfi1",
+  "slug": "usgs-13186000",
+  "noaaForecastPath": "data/noaa-forecast/BRFI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11073494",
+  "key": "11073494",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11073494",
+  "name": "ELY PERC BASIN 3 A ONTARIO CA",
+  "waterbody": "ELY PERC BASIN 3 A ONTARIO CA",
+  "state": "CA",
+  "latitude": 34.03556756,
+  "longitude": -117.6108863,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11073494",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

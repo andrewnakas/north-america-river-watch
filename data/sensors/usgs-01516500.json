@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01516500",
+  "key": "01516500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01516500",
+  "name": "Corey Creek near Mainesburg, PA",
+  "waterbody": "Corey Creek near Mainesburg, PA",
+  "state": "PA",
+  "latitude": 41.79090746,
+  "longitude": -77.0146877,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBGP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Corey Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbgp1",
+  "slug": "usgs-01516500",
+  "noaaForecastPath": "data/noaa-forecast/MBGP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

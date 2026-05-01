@@ -1,0 +1,19 @@
+{
+  "id": "usgs:432102089413102",
+  "key": "432102089413102",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "432102089413102",
+  "name": "LAKE WISCONSIN AT MP-2",
+  "waterbody": "LAKE WISCONSIN AT MP-2",
+  "state": "WI",
+  "latitude": 43.35055556,
+  "longitude": -89.6919444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-432102089413102",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

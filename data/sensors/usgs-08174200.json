@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08174200",
+  "key": "08174200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08174200",
+  "name": "Sandy Fork Ck at Hwy 97 nr Waelder, TX",
+  "waterbody": "Sandy Fork Ck at Hwy 97 nr Waelder, TX",
+  "state": "TX",
+  "latitude": 29.62491389,
+  "longitude": -97.3207444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08174200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

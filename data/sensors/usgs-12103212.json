@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12103212",
+  "key": "12103212",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12103212",
+  "name": "REDONDO CR 2 AB REDONDO HTS CONDO NR DESMOINES, WA",
+  "waterbody": "REDONDO CR 2 AB REDONDO HTS CONDO NR DESMOINES, WA",
+  "state": "WA",
+  "latitude": 47.34732195,
+  "longitude": -122.3215116,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12103212",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11452500",
+  "key": "11452500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11452500",
+  "name": "CACHE C A YOLO CA",
+  "waterbody": "CACHE C A YOLO CA",
+  "state": "CA",
+  "latitude": 38.727126,
+  "longitude": -121.8071874,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YLOC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cache Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yloc1",
+  "slug": "usgs-11452500",
+  "noaaForecastPath": "data/noaa-forecast/YLOC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

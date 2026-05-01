@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07304500",
+  "key": "07304500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07304500",
+  "name": "Elk Creek near Hobart, OK",
+  "waterbody": "Elk Creek near Hobart, OK",
+  "state": "OK",
+  "latitude": 34.9142267,
+  "longitude": -99.1139666,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07304500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

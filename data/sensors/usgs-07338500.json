@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07338500",
+  "key": "07338500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07338500",
+  "name": "Little River blw Lukfata Creek, nr Idabel, OK",
+  "waterbody": "Little River blw Lukfata Creek, nr Idabel, OK",
+  "state": "OK",
+  "latitude": 33.94122094,
+  "longitude": -94.7585482,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IDBO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/idbo2",
+  "slug": "usgs-07338500",
+  "noaaForecastPath": "data/noaa-forecast/IDBO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

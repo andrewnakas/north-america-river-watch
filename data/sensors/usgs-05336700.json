@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05336700",
+  "key": "05336700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05336700",
+  "name": "KETTLE RIVER BELOW SANDSTONE, MN",
+  "waterbody": "KETTLE RIVER BELOW SANDSTONE, MN",
+  "state": "MN",
+  "latitude": 46.105191,
+  "longitude": -92.864309,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SANM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kettle River (MN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sanm5",
+  "slug": "usgs-05336700",
+  "noaaForecastPath": "data/noaa-forecast/SANM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

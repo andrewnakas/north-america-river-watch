@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07377243",
+  "key": "07377243",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07377243",
+  "name": "Sandy Ck at Alph. Forbes nr Greenwell Springs, LA",
+  "waterbody": "Sandy Ck at Alph. Forbes nr Greenwell Springs, LA",
+  "state": "LA",
+  "latitude": 30.62110833,
+  "longitude": -90.9821167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AFRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/afrl1",
+  "slug": "usgs-07377243",
+  "noaaForecastPath": "data/noaa-forecast/AFRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

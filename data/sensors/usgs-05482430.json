@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05482430",
+  "key": "05482430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05482430",
+  "name": "North Raccoon River near Lanesboro, IA",
+  "waterbody": "North Raccoon River near Lanesboro, IA",
+  "state": "IA",
+  "latitude": 42.16905556,
+  "longitude": -94.7260278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Raccoon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkci4",
+  "slug": "usgs-05482430",
+  "noaaForecastPath": "data/noaa-forecast/LKCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

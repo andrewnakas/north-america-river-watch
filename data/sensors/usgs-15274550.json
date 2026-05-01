@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15274550",
+  "key": "15274550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15274550",
+  "name": "L CAMPBELL C AT NATHAN DR NR ANCHORAGE AK",
+  "waterbody": "L CAMPBELL C AT NATHAN DR NR ANCHORAGE AK",
+  "state": "AK",
+  "latitude": 61.1530576,
+  "longitude": -149.873865,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15274550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

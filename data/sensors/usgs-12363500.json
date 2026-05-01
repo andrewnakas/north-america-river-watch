@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12363500",
+  "key": "12363500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12363500",
+  "name": "Flathead River near Kalispell, MT",
+  "waterbody": "Flathead River near Kalispell, MT",
+  "state": "MT",
+  "latitude": 48.22113611,
+  "longitude": -114.24188611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12363500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

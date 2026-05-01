@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01421000",
+  "key": "01421000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01421000",
+  "name": "EAST BRANCH DELAWARE RIVER AT FISHS EDDY NY",
+  "waterbody": "EAST BRANCH DELAWARE RIVER AT FISHS EDDY NY",
+  "state": "NY",
+  "latitude": 41.97327778,
+  "longitude": -75.1747222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fshn6",
+  "slug": "usgs-01421000",
+  "noaaForecastPath": "data/noaa-forecast/FSHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

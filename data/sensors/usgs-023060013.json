@@ -1,0 +1,19 @@
+{
+  "id": "usgs:023060013",
+  "key": "023060013",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023060013",
+  "name": "HILLSBOROUGH R. AT I-275 BRIDGE AT SULPHUR SPGS FL",
+  "waterbody": "HILLSBOROUGH R. AT I-275 BRIDGE AT SULPHUR SPGS FL",
+  "state": "FL",
+  "latitude": 28.0202967,
+  "longitude": -82.4548166,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-023060013",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

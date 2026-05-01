@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01643590",
+  "key": "01643590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01643590",
+  "name": "LIMESTONE BRANCH NEAR LEESBURG, VA",
+  "waterbody": "LIMESTONE BRANCH NEAR LEESBURG, VA",
+  "state": "VA",
+  "latitude": 39.1676111,
+  "longitude": -77.5359167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBUV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Limestone Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbuv2",
+  "slug": "usgs-01643590",
+  "noaaForecastPath": "data/noaa-forecast/LBUV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

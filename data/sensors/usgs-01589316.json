@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589316",
+  "key": "01589316",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589316",
+  "name": "DEAD RUN TRIBUTARY NEAR WOODLAWN, MD",
+  "waterbody": "DEAD RUN TRIBUTARY NEAR WOODLAWN, MD",
+  "state": "MD",
+  "latitude": 39.31891667,
+  "longitude": -76.7506944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDLM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dead Run Tributary",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdlm2",
+  "slug": "usgs-01589316",
+  "noaaForecastPath": "data/noaa-forecast/WDLM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

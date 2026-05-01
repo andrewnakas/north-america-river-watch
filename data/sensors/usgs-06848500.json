@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06848500",
+  "key": "06848500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06848500",
+  "name": "PRAIRIE DOG C NR WOODRUFF, KS",
+  "waterbody": "PRAIRIE DOG C NR WOODRUFF, KS",
+  "state": "KS",
+  "latitude": 39.978775,
+  "longitude": -99.4781028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDRK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Dog Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdrk1",
+  "slug": "usgs-06848500",
+  "noaaForecastPath": "data/noaa-forecast/WDRK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146300",
+  "key": "02146300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146300",
+  "name": "IRWIN CREEK NEAR CHARLOTTE, NC",
+  "waterbody": "IRWIN CREEK NEAR CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.19777778,
+  "longitude": -80.9044444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRWN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Irwin Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irwn7",
+  "slug": "usgs-02146300",
+  "noaaForecastPath": "data/noaa-forecast/IRWN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

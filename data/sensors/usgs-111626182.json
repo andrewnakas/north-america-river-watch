@@ -1,0 +1,22 @@
+{
+  "id": "usgs:111626182",
+  "key": "111626182",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "111626182",
+  "name": "PILARCITOS C BL SPILLWAY NR HILLSBOROUGH CA",
+  "waterbody": "PILARCITOS C BL SPILLWAY NR HILLSBOROUGH CA",
+  "state": "CA",
+  "latitude": 37.54769444,
+  "longitude": -122.4208889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "XPSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pilarcitos Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/xpsc1",
+  "slug": "usgs-111626182",
+  "noaaForecastPath": "data/noaa-forecast/XPSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

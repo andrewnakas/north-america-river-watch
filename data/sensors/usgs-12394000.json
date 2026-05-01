@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12394000",
+  "key": "12394000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12394000",
+  "name": "PRIEST RIVER NR COOLIN ID",
+  "waterbody": "PRIEST RIVER NR COOLIN ID",
+  "state": "ID",
+  "latitude": 48.45186127,
+  "longitude": -116.9004834,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12394000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

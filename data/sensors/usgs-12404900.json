@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12404900",
+  "key": "12404900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12404900",
+  "name": "KETTLE RIVER NEAR BARSTOW, WA",
+  "waterbody": "KETTLE RIVER NEAR BARSTOW, WA",
+  "state": "WA",
+  "latitude": 48.7846261,
+  "longitude": -118.125273,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12404900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

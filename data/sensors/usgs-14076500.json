@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14076500",
+  "key": "14076500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14076500",
+  "name": "DESCHUTES RIVER NEAR CULVER, OR",
+  "waterbody": "DESCHUTES RIVER NEAR CULVER, OR",
+  "state": "OR",
+  "latitude": 44.4987293,
+  "longitude": -121.3211558,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14076500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

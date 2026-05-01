@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11458370",
+  "key": "11458370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11458370",
+  "name": "NAPA R A MARE ISLAND CAUSEWAY NR VALLEJO CA",
+  "waterbody": "NAPA R A MARE ISLAND CAUSEWAY NR VALLEJO CA",
+  "state": "CA",
+  "latitude": 38.1110306,
+  "longitude": -122.2746929,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11458370",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

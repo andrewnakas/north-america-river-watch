@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08166140",
+  "key": "08166140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08166140",
+  "name": "Guadalupe Rv abv Bear Ck at Kerrville, TX",
+  "waterbody": "Guadalupe Rv abv Bear Ck at Kerrville, TX",
+  "state": "TX",
+  "latitude": 30.06965617,
+  "longitude": -99.1953454,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grht2",
+  "slug": "usgs-08166140",
+  "noaaForecastPath": "data/noaa-forecast/GRHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

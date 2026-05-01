@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10141000",
+  "key": "10141000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10141000",
+  "name": "WEBER RIVER NEAR PLAIN CITY, UT",
+  "waterbody": "WEBER RIVER NEAR PLAIN CITY, UT",
+  "state": "UT",
+  "latitude": 41.2782765,
+  "longitude": -112.0918866,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWPU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Weber River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwpu1",
+  "slug": "usgs-10141000",
+  "noaaForecastPath": "data/noaa-forecast/WWPU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

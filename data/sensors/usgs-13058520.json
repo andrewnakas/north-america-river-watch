@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13058520",
+  "key": "13058520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13058520",
+  "name": "WILLOW CREEK FLOODWAY CHANNEL NR UCON ID",
+  "waterbody": "WILLOW CREEK FLOODWAY CHANNEL NR UCON ID",
+  "state": "ID",
+  "latitude": 43.57638889,
+  "longitude": -111.9130556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13058520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

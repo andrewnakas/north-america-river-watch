@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12332000",
+  "key": "12332000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12332000",
+  "name": "Middle Fork Rock Cr nr Philipsburg MT",
+  "waterbody": "Middle Fork Rock Cr nr Philipsburg MT",
+  "state": "MT",
+  "latitude": 46.1845694,
+  "longitude": -113.5015694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12332000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

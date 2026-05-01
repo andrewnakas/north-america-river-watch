@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05363600",
+  "key": "05363600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05363600",
+  "name": "NF YELLOW R AT YELLOW RIVER RD NR PERKINSTOWN, WI",
+  "waterbody": "NF YELLOW R AT YELLOW RIVER RD NR PERKINSTOWN, WI",
+  "state": "WI",
+  "latitude": 45.2985722,
+  "longitude": -90.5964667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YELW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Yellow River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yelw3",
+  "slug": "usgs-05363600",
+  "noaaForecastPath": "data/noaa-forecast/YELW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

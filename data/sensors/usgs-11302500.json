@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11302500",
+  "key": "11302500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11302500",
+  "name": "STANISLAUS R A OAKDALE CA",
+  "waterbody": "STANISLAUS R A OAKDALE CA",
+  "state": "CA",
+  "latitude": 37.77715006,
+  "longitude": -120.852988,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11302500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

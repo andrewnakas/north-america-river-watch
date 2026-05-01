@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04237575",
+  "key": "04237575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04237575",
+  "name": "SENECA RIVER (ERIE CANAL) AT COLD SPRINGS NY",
+  "waterbody": "SENECA RIVER (ERIE CANAL) AT COLD SPRINGS NY",
+  "state": "NY",
+  "latitude": 43.12780556,
+  "longitude": -76.25675,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04237575",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

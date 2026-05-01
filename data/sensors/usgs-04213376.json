@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04213376",
+  "key": "04213376",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04213376",
+  "name": "CANADAWAY CREEK AT FREDONIA NY",
+  "waterbody": "CANADAWAY CREEK AT FREDONIA NY",
+  "state": "NY",
+  "latitude": 42.45063889,
+  "longitude": -79.3504444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FDAN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadaway Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fdan6",
+  "slug": "usgs-04213376",
+  "noaaForecastPath": "data/noaa-forecast/FDAN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

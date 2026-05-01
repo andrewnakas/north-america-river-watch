@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09306242",
+  "key": "09306242",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09306242",
+  "name": "CORRAL GULCH NEAR RANGELY, CO",
+  "waterbody": "CORRAL GULCH NEAR RANGELY, CO",
+  "state": "CO",
+  "latitude": 39.920278,
+  "longitude": -108.472222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09306242",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

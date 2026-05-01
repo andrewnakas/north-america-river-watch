@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104475",
+  "key": "01104475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104475",
+  "name": "STONY BROOK RES., UNNAMED TRIB 1, NEAR WESTON, MA",
+  "waterbody": "STONY BROOK RES., UNNAMED TRIB 1, NEAR WESTON, MA",
+  "state": "MA",
+  "latitude": 42.3545408,
+  "longitude": -71.2681121,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104475",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

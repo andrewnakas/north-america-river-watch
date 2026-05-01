@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03217500",
+  "key": "03217500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03217500",
+  "name": "Scioto River at La Rue OH",
+  "waterbody": "Scioto River at La Rue OH",
+  "state": "OH",
+  "latitude": 40.57194444,
+  "longitude": -83.3841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LARO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scioto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/laro1",
+  "slug": "usgs-03217500",
+  "noaaForecastPath": "data/noaa-forecast/LARO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

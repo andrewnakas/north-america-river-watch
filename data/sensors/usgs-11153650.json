@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11153650",
+  "key": "11153650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11153650",
+  "name": "LLAGAS C NR GILROY",
+  "waterbody": "LLAGAS C NR GILROY",
+  "state": "CA",
+  "latitude": 36.98741308,
+  "longitude": -121.5271216,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Llagas Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llgc1",
+  "slug": "usgs-11153650",
+  "noaaForecastPath": "data/noaa-forecast/LLGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02040000",
+  "key": "02040000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02040000",
+  "name": "APPOMATTOX RIVER AT MATTOAX, VA",
+  "waterbody": "APPOMATTOX RIVER AT MATTOAX, VA",
+  "state": "VA",
+  "latitude": 37.42153845,
+  "longitude": -77.8588876,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTXV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Appomattox River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtxv2",
+  "slug": "usgs-02040000",
+  "noaaForecastPath": "data/noaa-forecast/MTXV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15331000",
+  "key": "15331000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15331000",
+  "name": "MF FORTYMILE R NR MOUTH NR CHICKEN AK",
+  "waterbody": "MF FORTYMILE R NR MOUTH NR CHICKEN AK",
+  "state": "AK",
+  "latitude": 64.4708611,
+  "longitude": -142.2215,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15331000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

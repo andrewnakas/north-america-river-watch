@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07179730",
+  "key": "07179730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179730",
+  "name": "NEOSHO R NR AMERICUS, KS",
+  "waterbody": "NEOSHO R NR AMERICUS, KS",
+  "state": "KS",
+  "latitude": 38.46695699,
+  "longitude": -96.2505533,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neosho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amck1",
+  "slug": "usgs-07179730",
+  "noaaForecastPath": "data/noaa-forecast/AMCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

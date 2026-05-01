@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11517000",
+  "key": "11517000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11517000",
+  "name": "SHASTA R NR  MONTAGUE CA",
+  "waterbody": "SHASTA R NR  MONTAGUE CA",
+  "state": "CA",
+  "latitude": 41.708993,
+  "longitude": -122.538053,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11517000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

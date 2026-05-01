@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04066030",
+  "key": "04066030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04066030",
+  "name": "MENOMINEE RIVER AT WHITE RAPIDS DAM NEAR BANAT, MI",
+  "waterbody": "MENOMINEE RIVER AT WHITE RAPIDS DAM NEAR BANAT, MI",
+  "state": "MI",
+  "latitude": 45.4819444,
+  "longitude": -87.8022222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BANM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menominee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/banm4",
+  "slug": "usgs-04066030",
+  "noaaForecastPath": "data/noaa-forecast/BANM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

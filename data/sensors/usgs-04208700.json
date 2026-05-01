@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208700",
+  "key": "04208700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208700",
+  "name": "Euclid Creek at Cleveland OH",
+  "waterbody": "Euclid Creek at Cleveland OH",
+  "state": "OH",
+  "latitude": 41.58227158,
+  "longitude": -81.5587337,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UCLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Euclid Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/uclo1",
+  "slug": "usgs-04208700",
+  "noaaForecastPath": "data/noaa-forecast/UCLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

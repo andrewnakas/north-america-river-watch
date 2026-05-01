@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11152650",
+  "key": "11152650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11152650",
+  "name": "RECLAMATION DITCH NR SALINAS CA",
+  "waterbody": "RECLAMATION DITCH NR SALINAS CA",
+  "state": "CA",
+  "latitude": 36.7049586,
+  "longitude": -121.7049475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reclamation Ditch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdsc1",
+  "slug": "usgs-11152650",
+  "noaaForecastPath": "data/noaa-forecast/RDSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

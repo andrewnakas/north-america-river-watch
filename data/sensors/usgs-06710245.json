@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06710245",
+  "key": "06710245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06710245",
+  "name": "SOUTH PLATTE RIVER AT UNION AVE AT ENGLEWOOD, CO",
+  "waterbody": "SOUTH PLATTE RIVER AT UNION AVE AT ENGLEWOOD, CO",
+  "state": "CO",
+  "latitude": 39.6310987,
+  "longitude": -105.0144274,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06710245",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

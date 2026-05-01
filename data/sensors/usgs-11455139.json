@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455139",
+  "key": "11455139",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455139",
+  "name": "TOE DRAIN A MALLARD RD NR COURTLAND CA",
+  "waterbody": "TOE DRAIN A MALLARD RD NR COURTLAND CA",
+  "state": "CA",
+  "latitude": 38.36513889,
+  "longitude": -121.6377417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455139",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

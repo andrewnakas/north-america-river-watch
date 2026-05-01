@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15744500",
+  "key": "15744500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15744500",
+  "name": "KOBUK R NR KIANA AK",
+  "waterbody": "KOBUK R NR KIANA AK",
+  "state": "AK",
+  "latitude": 66.973611,
+  "longitude": -160.130833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KIAA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kobuk River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kiaa2",
+  "slug": "usgs-15744500",
+  "noaaForecastPath": "data/noaa-forecast/KIAA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

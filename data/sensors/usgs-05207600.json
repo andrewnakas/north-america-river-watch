@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05207600",
+  "key": "05207600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05207600",
+  "name": "MISSISSIPPI RIVER AT WILLOW BEACH AT BALL CLUB, MN",
+  "waterbody": "MISSISSIPPI RIVER AT WILLOW BEACH AT BALL CLUB, MN",
+  "state": "MN",
+  "latitude": 47.3022222,
+  "longitude": -93.9013889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WILM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wilm5",
+  "slug": "usgs-05207600",
+  "noaaForecastPath": "data/noaa-forecast/WILM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04243783",
+  "key": "04243783",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04243783",
+  "name": "COWASELON CREEK AT STATE ROUTE 13 AT CANASTOTA NY",
+  "waterbody": "COWASELON CREEK AT STATE ROUTE 13 AT CANASTOTA NY",
+  "state": "NY",
+  "latitude": 43.0956111,
+  "longitude": -75.7512222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COWN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowaselon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cown6",
+  "slug": "usgs-04243783",
+  "noaaForecastPath": "data/noaa-forecast/COWN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

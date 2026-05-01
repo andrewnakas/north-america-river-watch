@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09113980",
+  "key": "09113980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09113980",
+  "name": "OHIO CREEK ABOVE MOUTH NR GUNNISON, CO",
+  "waterbody": "OHIO CREEK ABOVE MOUTH NR GUNNISON, CO",
+  "state": "CO",
+  "latitude": 38.5877696,
+  "longitude": -106.931432,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OHOC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ohoc2",
+  "slug": "usgs-09113980",
+  "noaaForecastPath": "data/noaa-forecast/OHOC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

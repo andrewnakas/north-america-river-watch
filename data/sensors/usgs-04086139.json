@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04086139",
+  "key": "04086139",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086139",
+  "name": "WEST BRANCH MILWAUKEE RIVER NEAR KEWASKUM, WI",
+  "waterbody": "WEST BRANCH MILWAUKEE RIVER NEAR KEWASKUM, WI",
+  "state": "WI",
+  "latitude": 43.54444444,
+  "longitude": -88.2455556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04086139",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

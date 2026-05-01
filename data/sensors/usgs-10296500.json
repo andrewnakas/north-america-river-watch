@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10296500",
+  "key": "10296500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10296500",
+  "name": "W WALKER RV NR COLEVILLE, CA",
+  "waterbody": "W WALKER RV NR COLEVILLE, CA",
+  "state": "CA",
+  "latitude": 38.51324495,
+  "longitude": -119.4498872,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Walker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clec1",
+  "slug": "usgs-10296500",
+  "noaaForecastPath": "data/noaa-forecast/CLEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

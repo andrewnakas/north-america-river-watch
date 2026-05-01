@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03328500",
+  "key": "03328500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03328500",
+  "name": "EEL RIVER NEAR LOGANSPORT, IN",
+  "waterbody": "EEL RIVER NEAR LOGANSPORT, IN",
+  "state": "IN",
+  "latitude": 40.7819685,
+  "longitude": -86.2638599,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eel River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/admi3",
+  "slug": "usgs-03328500",
+  "noaaForecastPath": "data/noaa-forecast/ADMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

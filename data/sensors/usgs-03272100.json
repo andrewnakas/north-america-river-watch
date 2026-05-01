@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03272100",
+  "key": "03272100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03272100",
+  "name": "Great Miami River at Middletown OH",
+  "waterbody": "Great Miami River at Middletown OH",
+  "state": "OH",
+  "latitude": 39.5198861,
+  "longitude": -84.4126778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDTO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdto1",
+  "slug": "usgs-03272100",
+  "noaaForecastPath": "data/noaa-forecast/MDTO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

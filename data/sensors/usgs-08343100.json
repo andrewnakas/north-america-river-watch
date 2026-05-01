@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08343100",
+  "key": "08343100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08343100",
+  "name": "GRANTS CANYON AT GRANTS, NM",
+  "waterbody": "GRANTS CANYON AT GRANTS, NM",
+  "state": "NM",
+  "latitude": 35.16087089,
+  "longitude": -107.8381131,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08343100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

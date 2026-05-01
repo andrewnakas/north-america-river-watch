@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07379100",
+  "key": "07379100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07379100",
+  "name": "North Branch Ward Creek at Baton Rouge, LA",
+  "waterbody": "North Branch Ward Creek at Baton Rouge, LA",
+  "state": "LA",
+  "latitude": 30.41796914,
+  "longitude": -91.0914935,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBWL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbwl1",
+  "slug": "usgs-07379100",
+  "noaaForecastPath": "data/noaa-forecast/NBWL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

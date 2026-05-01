@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05405859",
+  "key": "05405859",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05405859",
+  "name": "LAKE WISCONSIN TRIBUTARY 1 NR PRAIRIE DU SAC, WI",
+  "waterbody": "LAKE WISCONSIN TRIBUTARY 1 NR PRAIRIE DU SAC, WI",
+  "state": "WI",
+  "latitude": 43.33304298,
+  "longitude": -89.7065116,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05405859",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

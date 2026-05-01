@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09328400",
+  "key": "09328400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09328400",
+  "name": "San Rafael River below I-70 near Green River, Utah",
+  "waterbody": "San Rafael River below I-70 near Green River, Utah",
+  "state": "UT",
+  "latitude": 38.90886338,
+  "longitude": -110.3826485,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09328400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

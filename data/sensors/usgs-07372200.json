@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07372200",
+  "key": "07372200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07372200",
+  "name": "Little River near Rochelle, LA",
+  "waterbody": "Little River near Rochelle, LA",
+  "state": "LA",
+  "latitude": 31.7543363,
+  "longitude": -92.3445833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RHLL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River of Louisiana",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rhll1",
+  "slug": "usgs-07372200",
+  "noaaForecastPath": "data/noaa-forecast/RHLL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

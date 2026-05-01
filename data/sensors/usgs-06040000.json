@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06040000",
+  "key": "06040000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06040000",
+  "name": "Madison River near Cameron MT",
+  "waterbody": "Madison River near Cameron MT",
+  "state": "MT",
+  "latitude": 45.2331333,
+  "longitude": -111.7516333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMNM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Madison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmnm8",
+  "slug": "usgs-06040000",
+  "noaaForecastPath": "data/noaa-forecast/CMNM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

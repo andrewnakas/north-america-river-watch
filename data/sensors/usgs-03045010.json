@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03045010",
+  "key": "03045010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03045010",
+  "name": "Loyalhanna Creek at Latrobe, PA",
+  "waterbody": "Loyalhanna Creek at Latrobe, PA",
+  "state": "PA",
+  "latitude": 40.3161111,
+  "longitude": -79.3908333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LATP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loyalhanna Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/latp1",
+  "slug": "usgs-03045010",
+  "noaaForecastPath": "data/noaa-forecast/LATP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

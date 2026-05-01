@@ -1,0 +1,19 @@
+{
+  "id": "usgs:421209121463000",
+  "key": "421209121463000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "421209121463000",
+  "name": "KLAMATH RIVER AT RAILROAD BRIDGE, OR",
+  "waterbody": "KLAMATH RIVER AT RAILROAD BRIDGE, OR",
+  "state": "OR",
+  "latitude": 42.2025,
+  "longitude": -121.775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-421209121463000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

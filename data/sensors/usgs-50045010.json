@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50045010",
+  "key": "50045010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50045010",
+  "name": "RIO DE LA PLATA BLW LA PLATA DAMSITE, PR",
+  "waterbody": "RIO DE LA PLATA BLW LA PLATA DAMSITE, PR",
+  "state": "PR",
+  "latitude": 18.346006,
+  "longitude": -66.238814,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NASP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio De La Plata",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nasp4",
+  "slug": "usgs-50045010",
+  "noaaForecastPath": "data/noaa-forecast/NASP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

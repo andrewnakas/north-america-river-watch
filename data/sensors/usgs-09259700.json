@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09259700",
+  "key": "09259700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09259700",
+  "name": "Little Snake River bl Dry Gulch, nr Baggs, WY",
+  "waterbody": "Little Snake River bl Dry Gulch, nr Baggs, WY",
+  "state": "WY",
+  "latitude": 41.00305556,
+  "longitude": -107.9197222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSCW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lscw4",
+  "slug": "usgs-09259700",
+  "noaaForecastPath": "data/noaa-forecast/LSCW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

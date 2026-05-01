@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12170000",
+  "key": "12170000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12170000",
+  "name": "CHURCH CREEK NEAR STANWOOD, WA",
+  "waterbody": "CHURCH CREEK NEAR STANWOOD, WA",
+  "state": "WA",
+  "latitude": 48.2331551,
+  "longitude": -122.3262635,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12170000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

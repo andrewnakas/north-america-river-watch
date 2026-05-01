@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07048550",
+  "key": "07048550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07048550",
+  "name": "West Fork White River east of Fayetteville, AR",
+  "waterbody": "West Fork White River east of Fayetteville, AR",
+  "state": "AR",
+  "latitude": 36.05388889,
+  "longitude": -94.0830556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07048550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

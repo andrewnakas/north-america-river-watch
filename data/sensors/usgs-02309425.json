@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02309425",
+  "key": "02309425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02309425",
+  "name": "CURLEW CREEK AT COUNTY ROAD 1 NEAR OZONA FL",
+  "waterbody": "CURLEW CREEK AT COUNTY ROAD 1 NEAR OZONA FL",
+  "state": "FL",
+  "latitude": 28.0469618,
+  "longitude": -82.7587125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Curlew Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crcf1",
+  "slug": "usgs-02309425",
+  "noaaForecastPath": "data/noaa-forecast/CRCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

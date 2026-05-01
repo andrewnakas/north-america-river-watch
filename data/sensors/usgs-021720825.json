@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021720825",
+  "key": "021720825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021720825",
+  "name": "ASHLEY RIVER BELOW SUMMERVILLE, SC",
+  "waterbody": "ASHLEY RIVER BELOW SUMMERVILLE, SC",
+  "state": "SC",
+  "latitude": 32.92583333,
+  "longitude": -80.1516667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARDS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashley River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ards1",
+  "slug": "usgs-021720825",
+  "noaaForecastPath": "data/noaa-forecast/ARDS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

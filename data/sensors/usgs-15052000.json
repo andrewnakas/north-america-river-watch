@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15052000",
+  "key": "15052000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15052000",
+  "name": "LEMON C NR JUNEAU AK",
+  "waterbody": "LEMON C NR JUNEAU AK",
+  "state": "AK",
+  "latitude": 58.3915312,
+  "longitude": -134.4226873,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lemon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmca2",
+  "slug": "usgs-15052000",
+  "noaaForecastPath": "data/noaa-forecast/LMCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

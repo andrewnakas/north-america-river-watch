@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06889630",
+  "key": "06889630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889630",
+  "name": "SHUNGANUNGA C AT TOPEKA, KS",
+  "waterbody": "SHUNGANUNGA C AT TOPEKA, KS",
+  "state": "KS",
+  "latitude": 39.02972276,
+  "longitude": -95.685815,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSHK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shunganunga Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tshk1",
+  "slug": "usgs-06889630",
+  "noaaForecastPath": "data/noaa-forecast/TSHK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

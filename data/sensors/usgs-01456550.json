@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01456550",
+  "key": "01456550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01456550",
+  "name": "Musconetcong R at Changewater NJ",
+  "waterbody": "Musconetcong R at Changewater NJ",
+  "state": "NJ",
+  "latitude": 40.7383333,
+  "longitude": -74.94138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01456550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

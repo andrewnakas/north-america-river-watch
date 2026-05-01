@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03486000",
+  "key": "03486000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03486000",
+  "name": "WATAUGA RIVER AT ELIZABETHTON, TN",
+  "waterbody": "WATAUGA RIVER AT ELIZABETHTON, TN",
+  "state": "TN",
+  "latitude": 36.3559188,
+  "longitude": -82.2235467,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EZBT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Watauga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ezbt1",
+  "slug": "usgs-03486000",
+  "noaaForecastPath": "data/noaa-forecast/EZBT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

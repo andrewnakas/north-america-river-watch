@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05452200",
+  "key": "05452200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05452200",
+  "name": "Walnut Creek near Hartwick, IA",
+  "waterbody": "Walnut Creek near Hartwick, IA",
+  "state": "IA",
+  "latitude": 41.8349969,
+  "longitude": -92.386297,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRTI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrti4",
+  "slug": "usgs-05452200",
+  "noaaForecastPath": "data/noaa-forecast/HRTI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

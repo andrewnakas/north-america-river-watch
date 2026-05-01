@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103785",
+  "key": "07103785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103785",
+  "name": "DEADMANS CR ABV DEADMANS LAKE AT USAF ACADEMY, CO",
+  "waterbody": "DEADMANS CR ABV DEADMANS LAKE AT USAF ACADEMY, CO",
+  "state": "CO",
+  "latitude": 39.02416667,
+  "longitude": -104.9008333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103785",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

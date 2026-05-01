@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04166300",
+  "key": "04166300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04166300",
+  "name": "UPPER RIVER ROUGE AT FARMINGTON, MI",
+  "waterbody": "UPPER RIVER ROUGE AT FARMINGTON, MI",
+  "state": "MI",
+  "latitude": 42.46447955,
+  "longitude": -83.369655,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04166300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

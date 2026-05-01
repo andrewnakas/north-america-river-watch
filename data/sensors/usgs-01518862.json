@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01518862",
+  "key": "01518862",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01518862",
+  "name": "Cowanesque River at Westfield, PA",
+  "waterbody": "Cowanesque River at Westfield, PA",
+  "state": "PA",
+  "latitude": 41.9230558,
+  "longitude": -77.5319,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowanesque River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfdp1",
+  "slug": "usgs-01518862",
+  "noaaForecastPath": "data/noaa-forecast/WFDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

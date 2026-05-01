@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15057580",
+  "key": "15057580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15057580",
+  "name": "KAHTAHEENA R AB UPPER FALLS NR GUSTAVUS AK",
+  "waterbody": "KAHTAHEENA R AB UPPER FALLS NR GUSTAVUS AK",
+  "state": "AK",
+  "latitude": 58.44345936,
+  "longitude": -135.60217509,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRGA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kahtaheena River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krga2",
+  "slug": "usgs-15057580",
+  "noaaForecastPath": "data/noaa-forecast/KRGA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

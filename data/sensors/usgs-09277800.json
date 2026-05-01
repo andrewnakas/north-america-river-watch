@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09277800",
+  "key": "09277800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09277800",
+  "name": "ROCK CREEK ABOVE SOUTH FORK, NEAR HANNA, UT",
+  "waterbody": "ROCK CREEK ABOVE SOUTH FORK, NEAR HANNA, UT",
+  "state": "UT",
+  "latitude": 40.55744514,
+  "longitude": -110.6979414,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09277800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

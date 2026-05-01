@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02087359",
+  "key": "02087359",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02087359",
+  "name": "WALNUT CREEK AT SUNNYBROOK DRIVE NR RALEIGH, NC",
+  "waterbody": "WALNUT CREEK AT SUNNYBROOK DRIVE NR RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.7583333,
+  "longitude": -78.5830556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WALN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/waln7",
+  "slug": "usgs-02087359",
+  "noaaForecastPath": "data/noaa-forecast/WALN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

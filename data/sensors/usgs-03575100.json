@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03575100",
+  "key": "03575100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03575100",
+  "name": "FLINT RIVER AT BROWNSBORO, AL.",
+  "waterbody": "FLINT RIVER AT BROWNSBORO, AL.",
+  "state": "AL",
+  "latitude": 34.749167,
+  "longitude": -86.446667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSBA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsba1",
+  "slug": "usgs-03575100",
+  "noaaForecastPath": "data/noaa-forecast/BSBA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

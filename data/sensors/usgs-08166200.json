@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08166200",
+  "key": "08166200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08166200",
+  "name": "Guadalupe Rv at Kerrville, TX",
+  "waterbody": "Guadalupe Rv at Kerrville, TX",
+  "state": "TX",
+  "latitude": 30.053266,
+  "longitude": -99.163375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krrt2",
+  "slug": "usgs-08166200",
+  "noaaForecastPath": "data/noaa-forecast/KRRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

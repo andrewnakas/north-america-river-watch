@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06038800",
+  "key": "06038800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06038800",
+  "name": "Madison River at Kirby Ranch nr Cameron MT",
+  "waterbody": "Madison River at Kirby Ranch nr Cameron MT",
+  "state": "MT",
+  "latitude": 44.88865556,
+  "longitude": -111.580886,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Madison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmrm8",
+  "slug": "usgs-06038800",
+  "noaaForecastPath": "data/noaa-forecast/CMRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

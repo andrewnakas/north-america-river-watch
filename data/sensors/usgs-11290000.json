@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11290000",
+  "key": "11290000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11290000",
+  "name": "TUOLUMNE R A MODESTO CA",
+  "waterbody": "TUOLUMNE R A MODESTO CA",
+  "state": "CA",
+  "latitude": 37.627153,
+  "longitude": -120.9843777,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuolumne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdsc1",
+  "slug": "usgs-11290000",
+  "noaaForecastPath": "data/noaa-forecast/MDSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

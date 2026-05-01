@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06799385",
+  "key": "06799385",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06799385",
+  "name": "PEBBLE CREEK AT SCRIBNER, NEBR.",
+  "waterbody": "PEBBLE CREEK AT SCRIBNER, NEBR.",
+  "state": "NE",
+  "latitude": 41.65888889,
+  "longitude": -96.6841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pebble Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srbn1",
+  "slug": "usgs-06799385",
+  "noaaForecastPath": "data/noaa-forecast/SRBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

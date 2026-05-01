@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06294500",
+  "key": "06294500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06294500",
+  "name": "Bighorn River ab Tullock Cr nr Bighorn MT",
+  "waterbody": "Bighorn River ab Tullock Cr nr Bighorn MT",
+  "state": "MT",
+  "latitude": 46.1244722,
+  "longitude": -107.4687917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGHM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bighorn River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bghm8",
+  "slug": "usgs-06294500",
+  "noaaForecastPath": "data/noaa-forecast/BGHM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

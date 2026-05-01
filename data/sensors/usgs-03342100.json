@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03342100",
+  "key": "03342100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03342100",
+  "name": "BUSSERON CREEK NEAR HYMERA, IN",
+  "waterbody": "BUSSERON CREEK NEAR HYMERA, IN",
+  "state": "IN",
+  "latitude": 39.21504254,
+  "longitude": -87.3113945,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03342100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

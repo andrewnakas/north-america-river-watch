@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01337005",
+  "key": "01337005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01337005",
+  "name": "NINEMILE CREEK NEAR STITTVILLE NY",
+  "waterbody": "NINEMILE CREEK NEAR STITTVILLE NY",
+  "state": "NY",
+  "latitude": 43.20822222,
+  "longitude": -75.30541667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01337005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

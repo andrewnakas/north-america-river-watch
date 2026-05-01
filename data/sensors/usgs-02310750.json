@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310750",
+  "key": "02310750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310750",
+  "name": "CRYSTAL RIVER NEAR CRYSTAL RIVER FL",
+  "waterbody": "CRYSTAL RIVER NEAR CRYSTAL RIVER FL",
+  "state": "FL",
+  "latitude": 28.90500349,
+  "longitude": -82.6351883,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twin Rivers Marina (In MHHW)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trmf1",
+  "slug": "usgs-02310750",
+  "noaaForecastPath": "data/noaa-forecast/TRMF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

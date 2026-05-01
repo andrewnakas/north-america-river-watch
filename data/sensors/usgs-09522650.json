@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522650",
+  "key": "09522650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522650",
+  "name": "NORTH GILA MAIN CANAL NO. 2 NEAR YUMA, AZ",
+  "waterbody": "NORTH GILA MAIN CANAL NO. 2 NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.75266667,
+  "longitude": -114.4939472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

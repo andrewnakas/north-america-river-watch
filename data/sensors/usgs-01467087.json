@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01467087",
+  "key": "01467087",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467087",
+  "name": "Frankford Creek at Castor Ave, Philadelphia, PA",
+  "waterbody": "Frankford Creek at Castor Ave, Philadelphia, PA",
+  "state": "PA",
+  "latitude": 40.0159454,
+  "longitude": -75.0968411,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frankford Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcrp1",
+  "slug": "usgs-01467087",
+  "noaaForecastPath": "data/noaa-forecast/FCRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

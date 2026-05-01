@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08068310",
+  "key": "08068310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068310",
+  "name": "Spring Ck at Kuykendahl Rd, The Woodlands, TX",
+  "waterbody": "Spring Ck at Kuykendahl Rd, The Woodlands, TX",
+  "state": "TX",
+  "latitude": 30.1703611,
+  "longitude": -95.5416389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08068310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

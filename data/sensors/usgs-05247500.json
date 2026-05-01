@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05247500",
+  "key": "05247500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05247500",
+  "name": "CROW WING RIVER NEAR PILLAGER, MN",
+  "waterbody": "CROW WING RIVER NEAR PILLAGER, MN",
+  "state": "MN",
+  "latitude": 46.304779,
+  "longitude": -94.377525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLGM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crow Wing River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plgm5",
+  "slug": "usgs-05247500",
+  "noaaForecastPath": "data/noaa-forecast/PLGM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

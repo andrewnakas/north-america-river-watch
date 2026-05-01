@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04045500",
+  "key": "04045500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04045500",
+  "name": "TAHQUAMENON RIVER NEAR PARADISE, MI",
+  "waterbody": "TAHQUAMENON RIVER NEAR PARADISE, MI",
+  "state": "MI",
+  "latitude": 46.5745833,
+  "longitude": -85.26963889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TAPM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tahquamenon River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tapm4",
+  "slug": "usgs-04045500",
+  "noaaForecastPath": "data/noaa-forecast/TAPM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

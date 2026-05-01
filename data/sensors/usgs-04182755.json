@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04182755",
+  "key": "04182755",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04182755",
+  "name": "JUNK DITCH AT FORT WAYNE, IN",
+  "waterbody": "JUNK DITCH AT FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 41.06027778,
+  "longitude": -85.1852778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JUNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Junk Ditch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/juni3",
+  "slug": "usgs-04182755",
+  "noaaForecastPath": "data/noaa-forecast/JUNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

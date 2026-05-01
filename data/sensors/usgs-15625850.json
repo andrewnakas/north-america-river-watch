@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15625850",
+  "key": "15625850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15625850",
+  "name": "STEWART R 0.1 MI BL BOULDER C MTH NR NOME AK",
+  "waterbody": "STEWART R 0.1 MI BL BOULDER C MTH NR NOME AK",
+  "state": "AK",
+  "latitude": 64.80777778,
+  "longitude": -165.4295278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15625850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

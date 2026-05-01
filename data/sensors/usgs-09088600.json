@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09088600",
+  "key": "09088600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09088600",
+  "name": "COLORADO RIVER ABOVE DIVIDE CREEK NEAR SILT, CO",
+  "waterbody": "COLORADO RIVER ABOVE DIVIDE CREEK NEAR SILT, CO",
+  "state": "CO",
+  "latitude": 39.54678889,
+  "longitude": -107.5985333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09088600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

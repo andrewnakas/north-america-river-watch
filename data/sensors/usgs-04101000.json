@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04101000",
+  "key": "04101000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101000",
+  "name": "ST. JOSEPH RIVER AT ELKHART, IN",
+  "waterbody": "ST. JOSEPH RIVER AT ELKHART, IN",
+  "state": "IN",
+  "latitude": 41.69168215,
+  "longitude": -85.974961,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EKMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (MI/IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ekmi3",
+  "slug": "usgs-04101000",
+  "noaaForecastPath": "data/noaa-forecast/EKMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

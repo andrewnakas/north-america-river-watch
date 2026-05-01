@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04058200",
+  "key": "04058200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04058200",
+  "name": "SCHWEITZER CREEK NEAR PALMER, MI",
+  "waterbody": "SCHWEITZER CREEK NEAR PALMER, MI",
+  "state": "MI",
+  "latitude": 46.41104987,
+  "longitude": -87.6243028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SZCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schweitzer Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/szcm4",
+  "slug": "usgs-04058200",
+  "noaaForecastPath": "data/noaa-forecast/SZCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

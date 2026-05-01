@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07331205",
+  "key": "07331205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07331205",
+  "name": "Mill Cr at Mouth of 3Mile Cr near Mill Cr , OK",
+  "waterbody": "Mill Cr at Mouth of 3Mile Cr near Mill Cr , OK",
+  "state": "OK",
+  "latitude": 34.388836,
+  "longitude": -96.845761,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MICO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mico2",
+  "slug": "usgs-07331205",
+  "noaaForecastPath": "data/noaa-forecast/MICO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

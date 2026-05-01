@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03292900",
+  "key": "03292900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03292900",
+  "name": "M FK BEARGRASS CR AT BROWNS LN AT LOUISVILLE, KY",
+  "waterbody": "M FK BEARGRASS CR AT BROWNS LN AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.2400708,
+  "longitude": -85.6344054,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03292900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

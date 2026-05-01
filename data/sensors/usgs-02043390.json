@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02043390",
+  "key": "02043390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02043390",
+  "name": "NORTHWEST RIVER AT RT 168 NEAR NORTHWEST, VA",
+  "waterbody": "NORTHWEST RIVER AT RT 168 NEAR NORTHWEST, VA",
+  "state": "VA",
+  "latitude": 36.5668186,
+  "longitude": -76.1985466,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northwest River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwrv2",
+  "slug": "usgs-02043390",
+  "noaaForecastPath": "data/noaa-forecast/NWRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

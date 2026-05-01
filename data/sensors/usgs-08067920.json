@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08067920",
+  "key": "08067920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067920",
+  "name": "Lake Ck at Sendera Ranch Rd nr Conroe, TX",
+  "waterbody": "Lake Ck at Sendera Ranch Rd nr Conroe, TX",
+  "state": "TX",
+  "latitude": 30.25775,
+  "longitude": -95.5636944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcwt2",
+  "slug": "usgs-08067920",
+  "noaaForecastPath": "data/noaa-forecast/FCWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07054288",
+  "key": "07054288",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07054288",
+  "name": "Little North Fork River at Thornfield, MO",
+  "waterbody": "Little North Fork River at Thornfield, MO",
+  "state": "MO",
+  "latitude": 36.70666667,
+  "longitude": -92.6608333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TFDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little North Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tfdm7",
+  "slug": "usgs-07054288",
+  "noaaForecastPath": "data/noaa-forecast/TFDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

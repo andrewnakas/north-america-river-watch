@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02085039",
+  "key": "02085039",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02085039",
+  "name": "ENO RIVER AT COLE MILL RD NR HUCKLEBERRY SPRING",
+  "waterbody": "ENO RIVER AT COLE MILL RD NR HUCKLEBERRY SPRING",
+  "state": "NC",
+  "latitude": 36.05941667,
+  "longitude": -78.9780833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eno River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbsn7",
+  "slug": "usgs-02085039",
+  "noaaForecastPath": "data/noaa-forecast/HBSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

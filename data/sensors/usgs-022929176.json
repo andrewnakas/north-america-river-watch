@@ -1,0 +1,22 @@
+{
+  "id": "usgs:022929176",
+  "key": "022929176",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "022929176",
+  "name": "TELEGRAPH CREEK AT STATE HIGHWAY AT OLGA, FL",
+  "waterbody": "TELEGRAPH CREEK AT STATE HIGHWAY AT OLGA, FL",
+  "state": "FL",
+  "latitude": 26.72735833,
+  "longitude": -81.7034528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Telegraph Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlkf1",
+  "slug": "usgs-022929176",
+  "noaaForecastPath": "data/noaa-forecast/TLKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08235700",
+  "key": "08235700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08235700",
+  "name": "ALAMOSA RIVER BELOW CASTLEMAN GULCH NEAR JASPER",
+  "waterbody": "ALAMOSA RIVER BELOW CASTLEMAN GULCH NEAR JASPER",
+  "state": "CO",
+  "latitude": 37.40278317,
+  "longitude": -106.450592,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08235700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

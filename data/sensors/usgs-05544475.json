@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05544475",
+  "key": "05544475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05544475",
+  "name": "FOX RIVER AT ROCHESTER, WI",
+  "waterbody": "FOX RIVER AT ROCHESTER, WI",
+  "state": "WI",
+  "latitude": 42.74119444,
+  "longitude": -88.2245,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSRW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rsrw3",
+  "slug": "usgs-05544475",
+  "noaaForecastPath": "data/noaa-forecast/RSRW3.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

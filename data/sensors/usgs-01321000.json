@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01321000",
+  "key": "01321000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01321000",
+  "name": "SACANDAGA RIVER NEAR HOPE NY",
+  "waterbody": "SACANDAGA RIVER NEAR HOPE NY",
+  "state": "NY",
+  "latitude": 43.3534722,
+  "longitude": -74.2684722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOPN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacandaga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hopn6",
+  "slug": "usgs-01321000",
+  "noaaForecastPath": "data/noaa-forecast/HOPN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

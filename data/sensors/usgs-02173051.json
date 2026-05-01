@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02173051",
+  "key": "02173051",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02173051",
+  "name": "SOUTH FORK EDISTO RIVER NEAR BAMBERG, SC",
+  "waterbody": "SOUTH FORK EDISTO RIVER NEAR BAMBERG, SC",
+  "state": "SC",
+  "latitude": 33.33710079,
+  "longitude": -81.018708,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Edisto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmbs1",
+  "slug": "usgs-02173051",
+  "noaaForecastPath": "data/noaa-forecast/BMBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

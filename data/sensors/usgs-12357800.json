@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12357800",
+  "key": "12357800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12357800",
+  "name": "Snyder Creek nr mouth, nr West Glacier, MT",
+  "waterbody": "Snyder Creek nr mouth, nr West Glacier, MT",
+  "state": "MT",
+  "latitude": 48.61641667,
+  "longitude": -113.8763889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12357800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

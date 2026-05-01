@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07147070",
+  "key": "07147070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07147070",
+  "name": "WHITEWATER R AT TOWANDA, KS",
+  "waterbody": "WHITEWATER R AT TOWANDA, KS",
+  "state": "KS",
+  "latitude": 37.79602778,
+  "longitude": -97.0143222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOWK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewater River (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/towk1",
+  "slug": "usgs-07147070",
+  "noaaForecastPath": "data/noaa-forecast/TOWK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

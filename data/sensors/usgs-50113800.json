@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50113800",
+  "key": "50113800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50113800",
+  "name": "RIO CERRILLOS ABV LAGO CERRILLOS NR PONCE, PR",
+  "waterbody": "RIO CERRILLOS ABV LAGO CERRILLOS NR PONCE, PR",
+  "state": "PR",
+  "latitude": 18.11480247,
+  "longitude": -66.6045061,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCEP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Cerrillos ",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcep4",
+  "slug": "usgs-50113800",
+  "noaaForecastPath": "data/noaa-forecast/PCEP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

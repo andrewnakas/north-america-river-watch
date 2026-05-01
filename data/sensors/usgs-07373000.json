@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07373000",
+  "key": "07373000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07373000",
+  "name": "Big Creek at Pollock, LA",
+  "waterbody": "Big Creek at Pollock, LA",
+  "state": "LA",
+  "latitude": 31.5362873,
+  "longitude": -92.4084714,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07373000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

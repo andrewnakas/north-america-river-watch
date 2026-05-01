@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04240508",
+  "key": "04240508",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04240508",
+  "name": "SENECA R (DS ONONDAGA OUTLET) NEAR LIVERPOOL NY",
+  "waterbody": "SENECA R (DS ONONDAGA OUTLET) NEAR LIVERPOOL NY",
+  "state": "NY",
+  "latitude": 43.1261111,
+  "longitude": -76.2519444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04240508",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

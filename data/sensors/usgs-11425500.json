@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11425500",
+  "key": "11425500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11425500",
+  "name": "SACRAMENTO R A VERONA CA",
+  "waterbody": "SACRAMENTO R A VERONA CA",
+  "state": "CA",
+  "latitude": 38.77432258,
+  "longitude": -121.5982593,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VONC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacramento River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vonc1",
+  "slug": "usgs-11425500",
+  "noaaForecastPath": "data/noaa-forecast/VONC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

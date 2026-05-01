@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05567545",
+  "key": "05567545",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05567545",
+  "name": "MACKINAW RIVER ABOVE MACKINAW, IL",
+  "waterbody": "MACKINAW RIVER ABOVE MACKINAW, IL",
+  "state": "IL",
+  "latitude": 40.56815,
+  "longitude": -89.3187,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05567545",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

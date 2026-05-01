@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01633702",
+  "key": "01633702",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01633702",
+  "name": "PUGHS RUN AT WETZEL RD NR WOODSTOCK, VA",
+  "waterbody": "PUGHS RUN AT WETZEL RD NR WOODSTOCK, VA",
+  "state": "VA",
+  "latitude": 38.91291667,
+  "longitude": -78.5068056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01633702",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08108700",
+  "key": "08108700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08108700",
+  "name": "Brazos Rv at SH 21 nr Bryan, TX",
+  "waterbody": "Brazos Rv at SH 21 nr Bryan, TX",
+  "state": "TX",
+  "latitude": 30.6268665,
+  "longitude": -96.544135,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBZT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbzt2",
+  "slug": "usgs-08108700",
+  "noaaForecastPath": "data/noaa-forecast/BBZT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

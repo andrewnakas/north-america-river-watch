@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01037380",
+  "key": "01037380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01037380",
+  "name": "Ducktrap River near Lincolnville, Maine",
+  "waterbody": "Ducktrap River near Lincolnville, Maine",
+  "state": "ME",
+  "latitude": 44.32916667,
+  "longitude": -69.0608333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LINM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ducktrap River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/linm1",
+  "slug": "usgs-01037380",
+  "noaaForecastPath": "data/noaa-forecast/LINM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

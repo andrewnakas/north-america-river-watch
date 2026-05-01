@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03276000",
+  "key": "03276000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03276000",
+  "name": "EAST FORK WHITEWATER RIVER AT BROOKVILLE, IN",
+  "waterbody": "EAST FORK WHITEWATER RIVER AT BROOKVILLE, IN",
+  "state": "IN",
+  "latitude": 39.43392795,
+  "longitude": -85.003264,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOOI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Whitewater River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/booi3",
+  "slug": "usgs-03276000",
+  "noaaForecastPath": "data/noaa-forecast/BOOI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

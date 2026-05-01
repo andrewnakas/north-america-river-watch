@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12193500",
+  "key": "12193500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12193500",
+  "name": "BAKER RIVER AT CONCRETE, WA",
+  "waterbody": "BAKER RIVER AT CONCRETE, WA",
+  "state": "WA",
+  "latitude": 48.53983699,
+  "longitude": -121.7431956,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12193500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

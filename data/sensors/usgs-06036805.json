@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06036805",
+  "key": "06036805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06036805",
+  "name": "Firehole River at Old Faithful, YNP",
+  "waterbody": "Firehole River at Old Faithful, YNP",
+  "state": "WY",
+  "latitude": 44.4593333,
+  "longitude": -110.8222722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOFW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Firehole River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fofw4",
+  "slug": "usgs-06036805",
+  "noaaForecastPath": "data/noaa-forecast/FOFW4.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

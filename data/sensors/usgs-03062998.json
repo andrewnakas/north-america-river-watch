@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03062998",
+  "key": "03062998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062998",
+  "name": "Monongahela R L&D8 (Upper Pool) @ Point Marion, PA",
+  "waterbody": "Monongahela R L&D8 (Upper Pool) @ Point Marion, PA",
+  "state": "PA",
+  "latitude": 39.7283898,
+  "longitude": -79.9109038,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03062998",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

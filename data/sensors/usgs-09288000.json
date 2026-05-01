@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09288000",
+  "key": "09288000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09288000",
+  "name": "CURRANT CREEK NEAR FRUITLAND, UT",
+  "waterbody": "CURRANT CREEK NEAR FRUITLAND, UT",
+  "state": "UT",
+  "latitude": 40.20023128,
+  "longitude": -110.9076623,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09288000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

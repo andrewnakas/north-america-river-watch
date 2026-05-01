@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05407468",
+  "key": "05407468",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05407468",
+  "name": "KICKAPOO R @ ST HWY 131 AT ONTARIO, WI",
+  "waterbody": "KICKAPOO R @ ST HWY 131 AT ONTARIO, WI",
+  "state": "WI",
+  "latitude": 43.72994444,
+  "longitude": -90.5889444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ONTW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kickapoo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ontw3",
+  "slug": "usgs-05407468",
+  "noaaForecastPath": "data/noaa-forecast/ONTW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

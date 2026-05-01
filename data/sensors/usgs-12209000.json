@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12209000",
+  "key": "12209000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12209000",
+  "name": "SF NOOKSACK RIVER NEAR WICKERSHAM, WA",
+  "waterbody": "SF NOOKSACK RIVER NEAR WICKERSHAM, WA",
+  "state": "WA",
+  "latitude": 48.6642413,
+  "longitude": -122.1334622,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12209000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

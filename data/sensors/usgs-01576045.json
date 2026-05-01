@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01576045",
+  "key": "01576045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576045",
+  "name": "Fishing Creek at Craley, PA",
+  "waterbody": "Fishing Creek at Craley, PA",
+  "state": "PA",
+  "latitude": 39.94194444,
+  "longitude": -76.50027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fishing Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fccp1",
+  "slug": "usgs-01576045",
+  "noaaForecastPath": "data/noaa-forecast/FCCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105897",
+  "key": "08105897",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105897",
+  "name": "Brushy Ck at FM 973 nr Coupland, TX",
+  "waterbody": "Brushy Ck at FM 973 nr Coupland, TX",
+  "state": "TX",
+  "latitude": 30.46938889,
+  "longitude": -97.4634722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsyt2",
+  "slug": "usgs-08105897",
+  "noaaForecastPath": "data/noaa-forecast/BSYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

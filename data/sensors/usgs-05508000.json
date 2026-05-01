@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05508000",
+  "key": "05508000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05508000",
+  "name": "Salt River near New London, MO",
+  "waterbody": "Salt River near New London, MO",
+  "state": "MO",
+  "latitude": 39.6125,
+  "longitude": -91.4073611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NLDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nldm7",
+  "slug": "usgs-05508000",
+  "noaaForecastPath": "data/noaa-forecast/NLDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

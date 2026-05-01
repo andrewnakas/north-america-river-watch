@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09279100",
+  "key": "09279100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09279100",
+  "name": "ROCK CREEK NEAR TALMAGE, UT",
+  "waterbody": "ROCK CREEK NEAR TALMAGE, UT",
+  "state": "UT",
+  "latitude": 40.31106428,
+  "longitude": -110.4940467,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09279100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

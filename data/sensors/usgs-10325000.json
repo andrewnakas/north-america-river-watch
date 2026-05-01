@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10325000",
+  "key": "10325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10325000",
+  "name": "HUMBOLDT RV AT BATTLE MOUNTAIN, NV",
+  "waterbody": "HUMBOLDT RV AT BATTLE MOUNTAIN, NV",
+  "state": "NV",
+  "latitude": 40.6676885,
+  "longitude": -116.9312118,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBMN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humboldt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbmn2",
+  "slug": "usgs-10325000",
+  "noaaForecastPath": "data/noaa-forecast/HBMN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

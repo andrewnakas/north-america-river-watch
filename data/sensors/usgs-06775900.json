@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06775900",
+  "key": "06775900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06775900",
+  "name": "Dismal River near Thedford, Nebr.",
+  "waterbody": "Dismal River near Thedford, Nebr.",
+  "state": "NE",
+  "latitude": 41.77858611,
+  "longitude": -100.52514722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dismal River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thdn1",
+  "slug": "usgs-06775900",
+  "noaaForecastPath": "data/noaa-forecast/THDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

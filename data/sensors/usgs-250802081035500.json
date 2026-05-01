@@ -1,0 +1,22 @@
+{
+  "id": "usgs:250802081035500",
+  "key": "250802081035500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "250802081035500",
+  "name": "EAST SIDE CREEK NEAR LAKE INGRAHAM, FL",
+  "waterbody": "EAST SIDE CREEK NEAR LAKE INGRAHAM, FL",
+  "state": "FL",
+  "latitude": 25.13696944,
+  "longitude": -81.0643806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Side Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/escf1",
+  "slug": "usgs-250802081035500",
+  "noaaForecastPath": "data/noaa-forecast/ESCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01525500",
+  "key": "01525500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01525500",
+  "name": "CANISTEO RIVER AT WEST CAMERON NY",
+  "waterbody": "CANISTEO RIVER AT WEST CAMERON NY",
+  "state": "NY",
+  "latitude": 42.2224722,
+  "longitude": -77.41752778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canisteo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcrn6",
+  "slug": "usgs-01525500",
+  "noaaForecastPath": "data/noaa-forecast/WCRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

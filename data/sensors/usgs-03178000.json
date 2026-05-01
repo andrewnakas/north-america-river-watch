@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03178000",
+  "key": "03178000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03178000",
+  "name": "BLUESTONE R NR SPANISHBURG, WV",
+  "waterbody": "BLUESTONE R NR SPANISHBURG, WV",
+  "state": "WV",
+  "latitude": 37.4334722,
+  "longitude": -81.11,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPNW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bluestone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spnw2",
+  "slug": "usgs-03178000",
+  "noaaForecastPath": "data/noaa-forecast/SPNW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

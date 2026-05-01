@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01579905",
+  "key": "01579905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01579905",
+  "name": "DEER CREEK AT EDEN MILL DAM NEAR PYLESVILLE, MD",
+  "waterbody": "DEER CREEK AT EDEN MILL DAM NEAR PYLESVILLE, MD",
+  "state": "MD",
+  "latitude": 39.675111,
+  "longitude": -76.452889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01579905",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

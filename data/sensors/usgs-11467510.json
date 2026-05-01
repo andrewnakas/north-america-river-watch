@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11467510",
+  "key": "11467510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11467510",
+  "name": "SF GUALALA R NR THE SEA RANCH CA",
+  "waterbody": "SF GUALALA R NR THE SEA RANCH CA",
+  "state": "CA",
+  "latitude": 38.70902938,
+  "longitude": -123.4266393,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Gualala River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gsrc1",
+  "slug": "usgs-11467510",
+  "noaaForecastPath": "data/noaa-forecast/GSRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03203647",
+  "key": "03203647",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03203647",
+  "name": "ISLAND CREEK AT ROUTE 44 AT LOGAN, WV",
+  "waterbody": "ISLAND CREEK AT ROUTE 44 AT LOGAN, WV",
+  "state": "WV",
+  "latitude": 37.84494444,
+  "longitude": -82.00988889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Island Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ormw2",
+  "slug": "usgs-03203647",
+  "noaaForecastPath": "data/noaa-forecast/ORMW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

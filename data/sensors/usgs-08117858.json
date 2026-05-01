@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08117858",
+  "key": "08117858",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117858",
+  "name": "Linnville Bayou at FM 521 nr Cedar Lane, TX",
+  "waterbody": "Linnville Bayou at FM 521 nr Cedar Lane, TX",
+  "state": "TX",
+  "latitude": 28.95151389,
+  "longitude": -95.7112278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Linnville Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbut2",
+  "slug": "usgs-08117858",
+  "noaaForecastPath": "data/noaa-forecast/LBUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

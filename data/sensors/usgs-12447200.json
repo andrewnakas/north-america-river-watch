@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12447200",
+  "key": "12447200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12447200",
+  "name": "OKANOGAN RIVER AT MALOTT, WA",
+  "waterbody": "OKANOGAN RIVER AT MALOTT, WA",
+  "state": "WA",
+  "latitude": 48.2812606,
+  "longitude": -119.7045047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKMW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Okanogan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okmw1",
+  "slug": "usgs-12447200",
+  "noaaForecastPath": "data/noaa-forecast/OKMW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

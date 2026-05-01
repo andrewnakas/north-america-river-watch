@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12101100",
+  "key": "12101100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12101100",
+  "name": "LAKE TAPPS DIVERSION AT DIERINGER, WA",
+  "waterbody": "LAKE TAPPS DIVERSION AT DIERINGER, WA",
+  "state": "WA",
+  "latitude": 47.2381564,
+  "longitude": -122.2281746,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12101100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:400329107192801",
+  "key": "400329107192801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "400329107192801",
+  "name": "N FK WHITE R BLW MIRROR CR NR RIPPLE CR PASS, CO",
+  "waterbody": "N FK WHITE R BLW MIRROR CR NR RIPPLE CR PASS, CO",
+  "state": "CO",
+  "latitude": 40.0581111,
+  "longitude": -107.3245417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-400329107192801",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

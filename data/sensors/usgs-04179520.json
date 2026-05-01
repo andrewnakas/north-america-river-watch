@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04179520",
+  "key": "04179520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04179520",
+  "name": "CEDAR CREEK AT 18TH STREET AT AUBURN, IN",
+  "waterbody": "CEDAR CREEK AT 18TH STREET AT AUBURN, IN",
+  "state": "IN",
+  "latitude": 41.36001796,
+  "longitude": -85.0490969,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABBI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abbi3",
+  "slug": "usgs-04179520",
+  "noaaForecastPath": "data/noaa-forecast/ABBI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

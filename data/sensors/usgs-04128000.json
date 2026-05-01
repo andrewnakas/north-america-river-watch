@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04128000",
+  "key": "04128000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04128000",
+  "name": "STURGEON RIVER NEAR WOLVERINE, MI",
+  "waterbody": "STURGEON RIVER NEAR WOLVERINE, MI",
+  "state": "MI",
+  "latitude": 45.29890157,
+  "longitude": -84.6111438,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04128000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

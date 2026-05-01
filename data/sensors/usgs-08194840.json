@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08194840",
+  "key": "08194840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08194840",
+  "name": "Frio Rv at Leakey, TX",
+  "waterbody": "Frio Rv at Leakey, TX",
+  "state": "TX",
+  "latitude": 29.72298333,
+  "longitude": -99.75345,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FILT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frio River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/filt2",
+  "slug": "usgs-08194840",
+  "noaaForecastPath": "data/noaa-forecast/FILT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

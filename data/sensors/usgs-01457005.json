@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01457005",
+  "key": "01457005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01457005",
+  "name": "Musconetcong River trib 6 nr Bloomsbury NJ",
+  "waterbody": "Musconetcong River trib 6 nr Bloomsbury NJ",
+  "state": "NJ",
+  "latitude": 40.66969444,
+  "longitude": -75.0671111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01457005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

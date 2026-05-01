@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04182769",
+  "key": "04182769",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04182769",
+  "name": "ST. MARYS RIVER AT MAIN ST. AT FORT WAYNE, IN",
+  "waterbody": "ST. MARYS RIVER AT MAIN ST. AT FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 41.07863177,
+  "longitude": -85.1543785,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FWAI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Marys River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fwai3",
+  "slug": "usgs-04182769",
+  "noaaForecastPath": "data/noaa-forecast/FWAI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

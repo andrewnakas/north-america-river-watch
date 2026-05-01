@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09357245",
+  "key": "09357245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09357245",
+  "name": "GALLEGOS CANYON AT NIIP NR CARSON TRADING POST, NM",
+  "waterbody": "GALLEGOS CANYON AT NIIP NR CARSON TRADING POST, NM",
+  "state": "NM",
+  "latitude": 36.4556,
+  "longitude": -108.0048,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09357245",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

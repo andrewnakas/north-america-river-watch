@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05046475",
+  "key": "05046475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05046475",
+  "name": "OTTER TAIL RIVER DIVERSION AT BRECKENRIDGE, MN",
+  "waterbody": "OTTER TAIL RIVER DIVERSION AT BRECKENRIDGE, MN",
+  "state": "MN",
+  "latitude": 46.27724167,
+  "longitude": -96.5821111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTWM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Otter Tail River Diversion",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btwm5",
+  "slug": "usgs-05046475",
+  "noaaForecastPath": "data/noaa-forecast/BTWM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

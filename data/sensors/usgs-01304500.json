@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01304500",
+  "key": "01304500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01304500",
+  "name": "PECONIC RIVER AT RIVERHEAD NY",
+  "waterbody": "PECONIC RIVER AT RIVERHEAD NY",
+  "state": "NY",
+  "latitude": 40.91369444,
+  "longitude": -72.6869444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01304500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

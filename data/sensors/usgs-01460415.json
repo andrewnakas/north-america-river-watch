@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01460415",
+  "key": "01460415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01460415",
+  "name": "Del and Rar fdr Ca at Perdicaris Pl at Trenton NJ",
+  "waterbody": "Del and Rar fdr Ca at Perdicaris Pl at Trenton NJ",
+  "state": "NJ",
+  "latitude": 40.225,
+  "longitude": -74.7775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01460415",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

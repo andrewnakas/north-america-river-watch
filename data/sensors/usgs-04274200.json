@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04274200",
+  "key": "04274200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04274200",
+  "name": "WEST BRANCH AUSABLE RIVER AT WILMINGTON NY",
+  "waterbody": "WEST BRANCH AUSABLE RIVER AT WILMINGTON NY",
+  "state": "NY",
+  "latitude": 44.38963056,
+  "longitude": -73.817125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04274200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

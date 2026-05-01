@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08207500",
+  "key": "08207500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08207500",
+  "name": "Atascosa Rv nr McCoy, TX",
+  "waterbody": "Atascosa Rv nr McCoy, TX",
+  "state": "TX",
+  "latitude": 28.86497693,
+  "longitude": -98.3383454,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atascosa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myat2",
+  "slug": "usgs-08207500",
+  "noaaForecastPath": "data/noaa-forecast/MYAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

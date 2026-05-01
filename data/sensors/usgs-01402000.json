@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01402000",
+  "key": "01402000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01402000",
+  "name": "Millstone River at Blackwells Mills NJ",
+  "waterbody": "Millstone River at Blackwells Mills NJ",
+  "state": "NJ",
+  "latitude": 40.475,
+  "longitude": -74.57583333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKWN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Millstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkwn4",
+  "slug": "usgs-01402000",
+  "noaaForecastPath": "data/noaa-forecast/BKWN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

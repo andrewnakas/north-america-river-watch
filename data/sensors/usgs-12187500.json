@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12187500",
+  "key": "12187500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12187500",
+  "name": "SAUK RIVER AT DARRINGTON, WA",
+  "waterbody": "SAUK RIVER AT DARRINGTON, WA",
+  "state": "WA",
+  "latitude": 48.2498311,
+  "longitude": -121.5845688,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12187500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09448500",
+  "key": "09448500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09448500",
+  "name": "GILA RIVER AT HEAD OF SAFFORD VALLEY, NR SOLOMON,",
+  "waterbody": "GILA RIVER AT HEAD OF SAFFORD VALLEY, NR SOLOMON,",
+  "state": "AZ",
+  "latitude": 32.8827222,
+  "longitude": -109.4796056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLHA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gila River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glha3",
+  "slug": "usgs-09448500",
+  "noaaForecastPath": "data/noaa-forecast/GLHA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

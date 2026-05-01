@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313253",
+  "key": "08313253",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313253",
+  "name": "CANON DE VALLE ABV NM HWY 501 NR LOS ALAMOS, NM",
+  "waterbody": "CANON DE VALLE ABV NM HWY 501 NR LOS ALAMOS, NM",
+  "state": "NM",
+  "latitude": 35.85169107,
+  "longitude": -106.3553067,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313253",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

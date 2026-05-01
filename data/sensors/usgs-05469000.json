@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05469000",
+  "key": "05469000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05469000",
+  "name": "HENDERSON CREEK NEAR OQUAWKA, IL",
+  "waterbody": "HENDERSON CREEK NEAR OQUAWKA, IL",
+  "state": "IL",
+  "latitude": 41.001425,
+  "longitude": -90.8543083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OQUI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Henderson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oqui2",
+  "slug": "usgs-05469000",
+  "noaaForecastPath": "data/noaa-forecast/OQUI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

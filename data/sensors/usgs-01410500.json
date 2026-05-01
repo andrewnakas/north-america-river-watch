@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01410500",
+  "key": "01410500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01410500",
+  "name": "Absecon Creek at Absecon NJ",
+  "waterbody": "Absecon Creek at Absecon NJ",
+  "state": "NJ",
+  "latitude": 39.43027778,
+  "longitude": -74.5205556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABSN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Absecon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/absn4",
+  "slug": "usgs-01410500",
+  "noaaForecastPath": "data/noaa-forecast/ABSN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

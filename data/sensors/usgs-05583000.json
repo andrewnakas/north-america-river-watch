@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05583000",
+  "key": "05583000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05583000",
+  "name": "SANGAMON RIVER NEAR OAKFORD, IL",
+  "waterbody": "SANGAMON RIVER NEAR OAKFORD, IL",
+  "state": "IL",
+  "latitude": 40.1233611,
+  "longitude": -89.9839722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sangamon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okfi2",
+  "slug": "usgs-05583000",
+  "noaaForecastPath": "data/noaa-forecast/OKFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

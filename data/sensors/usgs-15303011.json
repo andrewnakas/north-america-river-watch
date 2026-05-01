@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15303011",
+  "key": "15303011",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15303011",
+  "name": "WOOD R TR NR ALEKNAGIK AK",
+  "waterbody": "WOOD R TR NR ALEKNAGIK AK",
+  "state": "AK",
+  "latitude": 59.20647667,
+  "longitude": -158.6694205,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15303011",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

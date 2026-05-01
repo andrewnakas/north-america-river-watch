@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05124000",
+  "key": "05124000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05124000",
+  "name": "SOURIS RIVER NR WESTHOPE, ND",
+  "waterbody": "SOURIS RIVER NR WESTHOPE, ND",
+  "state": "ND",
+  "latitude": 48.9964079,
+  "longitude": -100.9584889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSTN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Souris River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wstn8",
+  "slug": "usgs-05124000",
+  "noaaForecastPath": "data/noaa-forecast/WSTN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

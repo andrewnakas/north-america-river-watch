@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05367500",
+  "key": "05367500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05367500",
+  "name": "RED CEDAR RIVER NEAR COLFAX, WI",
+  "waterbody": "RED CEDAR RIVER NEAR COLFAX, WI",
+  "state": "WI",
+  "latitude": 45.05305556,
+  "longitude": -91.7119444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLXW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Cedar River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clxw3",
+  "slug": "usgs-05367500",
+  "noaaForecastPath": "data/noaa-forecast/CLXW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04168400",
+  "key": "04168400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04168400",
+  "name": "LOWER RIVER ROUGE AT DEARBORN, MI",
+  "waterbody": "LOWER RIVER ROUGE AT DEARBORN, MI",
+  "state": "MI",
+  "latitude": 42.30837099,
+  "longitude": -83.2527063,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lower Rouge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlrm4",
+  "slug": "usgs-04168400",
+  "noaaForecastPath": "data/noaa-forecast/DLRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

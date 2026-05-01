@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09196960",
+  "key": "09196960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09196960",
+  "name": "HIGHLAND DITCH NEAR PINEDALE, WY",
+  "waterbody": "HIGHLAND DITCH NEAR PINEDALE, WY",
+  "state": "WY",
+  "latitude": 42.8988329,
+  "longitude": -109.8390417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCPW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcpw4",
+  "slug": "usgs-09196960",
+  "noaaForecastPath": "data/noaa-forecast/PCPW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09210500",
+  "key": "09210500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09210500",
+  "name": "FONTENELLE C NR HERSCHLER RANCH, NR FONTENELLE, WY",
+  "waterbody": "FONTENELLE C NR HERSCHLER RANCH, NR FONTENELLE, WY",
+  "state": "WY",
+  "latitude": 42.09580556,
+  "longitude": -110.4160833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCHW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fontenelle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fchw4",
+  "slug": "usgs-09210500",
+  "noaaForecastPath": "data/noaa-forecast/FCHW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03170000",
+  "key": "03170000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03170000",
+  "name": "LITTLE RIVER AT GRAYSONTOWN, VA",
+  "waterbody": "LITTLE RIVER AT GRAYSONTOWN, VA",
+  "state": "VA",
+  "latitude": 37.03762635,
+  "longitude": -80.5567239,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRYV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little  River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gryv2",
+  "slug": "usgs-03170000",
+  "noaaForecastPath": "data/noaa-forecast/GRYV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

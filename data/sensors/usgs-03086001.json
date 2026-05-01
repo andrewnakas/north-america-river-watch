@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03086001",
+  "key": "03086001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03086001",
+  "name": "Ohio River (lower pool) at Sewickley, PA",
+  "waterbody": "Ohio River (lower pool) at Sewickley, PA",
+  "state": "PA",
+  "latitude": 40.5497222,
+  "longitude": -80.2069444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03086001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

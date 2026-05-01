@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13290450",
+  "key": "13290450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13290450",
+  "name": "SNAKE RIVER AT HELLS CANYON DAM ID-OR STATE LINE",
+  "waterbody": "SNAKE RIVER AT HELLS CANYON DAM ID-OR STATE LINE",
+  "state": "OR",
+  "latitude": 45.2544444,
+  "longitude": -116.6969444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13290450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

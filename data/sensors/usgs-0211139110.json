@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0211139110",
+  "key": "0211139110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0211139110",
+  "name": "YADKIN RIVER BL W KERR SCOTT DAM NEAR BUCK, NC",
+  "waterbody": "YADKIN RIVER BL W KERR SCOTT DAM NEAR BUCK, NC",
+  "state": "NC",
+  "latitude": 36.1361111,
+  "longitude": -81.2233333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yadkin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlkn7",
+  "slug": "usgs-0211139110",
+  "noaaForecastPath": "data/noaa-forecast/WLKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

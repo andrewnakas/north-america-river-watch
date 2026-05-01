@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15068040",
+  "key": "15068040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15068040",
+  "name": "LEASK CREEK AT SHELTER COVE NR KETCHIKAN AK",
+  "waterbody": "LEASK CREEK AT SHELTER COVE NR KETCHIKAN AK",
+  "state": "AK",
+  "latitude": 55.5193045,
+  "longitude": -131.524399,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leask Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsca2",
+  "slug": "usgs-15068040",
+  "noaaForecastPath": "data/noaa-forecast/LSCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

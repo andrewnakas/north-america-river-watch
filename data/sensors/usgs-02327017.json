@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02327017",
+  "key": "02327017",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02327017",
+  "name": "MUNSON SLOUGH AT CAPITAL CIR (NO.7) TALLAHASSEE FL",
+  "waterbody": "MUNSON SLOUGH AT CAPITAL CIR (NO.7) TALLAHASSEE FL",
+  "state": "FL",
+  "latitude": 30.3874227,
+  "longitude": -84.3135114,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Munson Slough",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/capf1",
+  "slug": "usgs-02327017",
+  "noaaForecastPath": "data/noaa-forecast/CAPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

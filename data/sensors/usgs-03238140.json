@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03238140",
+  "key": "03238140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03238140",
+  "name": "TAYLOR CREEK AT DONNERMEYER DRIVE AT BELLEVUE, KY",
+  "waterbody": "TAYLOR CREEK AT DONNERMEYER DRIVE AT BELLEVUE, KY",
+  "state": "KY",
+  "latitude": 39.0974212,
+  "longitude": -84.48360879,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVUK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Taylor Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvuk2",
+  "slug": "usgs-03238140",
+  "noaaForecastPath": "data/noaa-forecast/BVUK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

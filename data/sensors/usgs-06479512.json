@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479512",
+  "key": "06479512",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479512",
+  "name": "BIG SIOUX RIVER AT BROADWAY AT WATERTOWN, SD",
+  "waterbody": "BIG SIOUX RIVER AT BROADWAY AT WATERTOWN, SD",
+  "state": "SD",
+  "latitude": 44.88940887,
+  "longitude": -97.118962,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBWS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbws2",
+  "slug": "usgs-06479512",
+  "noaaForecastPath": "data/noaa-forecast/WBWS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

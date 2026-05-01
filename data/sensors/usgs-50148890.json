@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50148890",
+  "key": "50148890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50148890",
+  "name": "RIO CULEBRINAS AT MARGARITA DAMSITE NR AGUADA, PR",
+  "waterbody": "RIO CULEBRINAS AT MARGARITA DAMSITE NR AGUADA, PR",
+  "state": "PR",
+  "latitude": 18.394503,
+  "longitude": -67.1512,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MODP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Culebrinas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/modp4",
+  "slug": "usgs-50148890",
+  "noaaForecastPath": "data/noaa-forecast/MODP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14092500",
+  "key": "14092500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14092500",
+  "name": "DESCHUTES RIVER NEAR MADRAS, OR",
+  "waterbody": "DESCHUTES RIVER NEAR MADRAS, OR",
+  "state": "OR",
+  "latitude": 44.72595225,
+  "longitude": -121.2469939,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PERO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deschutes River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pero3",
+  "slug": "usgs-14092500",
+  "noaaForecastPath": "data/noaa-forecast/PERO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

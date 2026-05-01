@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02069000",
+  "key": "02069000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02069000",
+  "name": "DAN RIVER AT PINE HALL, NC",
+  "waterbody": "DAN RIVER AT PINE HALL, NC",
+  "state": "NC",
+  "latitude": 36.31930349,
+  "longitude": -80.0500424,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnhn7",
+  "slug": "usgs-02069000",
+  "noaaForecastPath": "data/noaa-forecast/PNHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

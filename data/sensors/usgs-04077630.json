@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04077630",
+  "key": "04077630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04077630",
+  "name": "RED RIVER AT MORGAN ROAD NEAR MORGAN, WI",
+  "waterbody": "RED RIVER AT MORGAN ROAD NEAR MORGAN, WI",
+  "state": "WI",
+  "latitude": 44.8980311,
+  "longitude": -88.8442729,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MORW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/morw3",
+  "slug": "usgs-04077630",
+  "noaaForecastPath": "data/noaa-forecast/MORW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

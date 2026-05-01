@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02162100",
+  "key": "02162100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02162100",
+  "name": "BROAD RIVER AT DIV. DAM AT COLUMBIA, SC",
+  "waterbody": "BROAD RIVER AT DIV. DAM AT COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 34.0334863,
+  "longitude": -81.0689818,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02162100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

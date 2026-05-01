@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07139000",
+  "key": "07139000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07139000",
+  "name": "ARKANSAS R AT GARDEN CITY, KS",
+  "waterbody": "ARKANSAS R AT GARDEN CITY, KS",
+  "state": "KS",
+  "latitude": 37.9558565,
+  "longitude": -100.8773844,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCKK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gckk1",
+  "slug": "usgs-07139000",
+  "noaaForecastPath": "data/noaa-forecast/GCKK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

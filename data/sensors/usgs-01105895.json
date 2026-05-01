@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01105895",
+  "key": "01105895",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105895",
+  "name": "WEWEANTIC RIVER AT SOUTH WAREHAM, MA",
+  "waterbody": "WEWEANTIC RIVER AT SOUTH WAREHAM, MA",
+  "state": "MA",
+  "latitude": 41.76997601,
+  "longitude": -70.75445658,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01105895",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

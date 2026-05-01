@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11313315",
+  "key": "11313315",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11313315",
+  "name": "OLD RIVER NEAR BYRON CA",
+  "waterbody": "OLD RIVER NEAR BYRON CA",
+  "state": "CA",
+  "latitude": 37.89103627,
+  "longitude": -121.5702283,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orbc1",
+  "slug": "usgs-11313315",
+  "noaaForecastPath": "data/noaa-forecast/ORBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

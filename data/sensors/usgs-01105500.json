@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105500",
+  "key": "01105500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105500",
+  "name": "EAST BRANCH NEPONSET RIVER AT CANTON, MA",
+  "waterbody": "EAST BRANCH NEPONSET RIVER AT CANTON, MA",
+  "state": "MA",
+  "latitude": 42.15454356,
+  "longitude": -71.1458842,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CANM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neponset River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/canm3",
+  "slug": "usgs-01105500",
+  "noaaForecastPath": "data/noaa-forecast/CANM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

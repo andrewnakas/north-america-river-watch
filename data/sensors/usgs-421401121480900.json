@@ -1,0 +1,19 @@
+{
+  "id": "usgs:421401121480900",
+  "key": "421401121480900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "421401121480900",
+  "name": "LINK RIVER DAM",
+  "waterbody": "LINK RIVER DAM",
+  "state": "OR",
+  "latitude": 42.2336111,
+  "longitude": -121.8025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-421401121480900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03045000",
+  "key": "03045000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03045000",
+  "name": "Loyalhanna Creek at Kingston, PA",
+  "waterbody": "Loyalhanna Creek at Kingston, PA",
+  "state": "PA",
+  "latitude": 40.29257045,
+  "longitude": -79.340591,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KINP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loyalhanna Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kinp1",
+  "slug": "usgs-03045000",
+  "noaaForecastPath": "data/noaa-forecast/KINP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

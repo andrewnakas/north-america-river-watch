@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10145400",
+  "key": "10145400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10145400",
+  "name": "SALT CRK BL NEPHI POWERPLANT DIV NR NEPHI, UT",
+  "waterbody": "SALT CRK BL NEPHI POWERPLANT DIV NR NEPHI, UT",
+  "state": "UT",
+  "latitude": 39.7171797,
+  "longitude": -111.7335396,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10145400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

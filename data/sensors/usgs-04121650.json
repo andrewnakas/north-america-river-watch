@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04121650",
+  "key": "04121650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04121650",
+  "name": "MUSKEGON RIVER AT BIG RAPIDS, MI",
+  "waterbody": "MUSKEGON RIVER AT BIG RAPIDS, MI",
+  "state": "MI",
+  "latitude": 43.693634,
+  "longitude": -85.4675442,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04121650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

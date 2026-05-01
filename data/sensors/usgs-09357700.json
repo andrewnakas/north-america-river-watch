@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09357700",
+  "key": "09357700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09357700",
+  "name": "SAN JUAN R AT BOLACK RANCH BRDG NR FARMINGTON NM",
+  "waterbody": "SAN JUAN R AT BOLACK RANCH BRDG NR FARMINGTON NM",
+  "state": "NM",
+  "latitude": 36.70788611,
+  "longitude": -108.15048056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09357700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

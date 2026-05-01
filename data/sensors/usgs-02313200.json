@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02313200",
+  "key": "02313200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02313200",
+  "name": "WITHLACOOCHEE RIVER AT US 41 AT DUNNELLON, FL",
+  "waterbody": "WITHLACOOCHEE RIVER AT US 41 AT DUNNELLON, FL",
+  "state": "FL",
+  "latitude": 29.045833,
+  "longitude": -82.464722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnlf1",
+  "slug": "usgs-02313200",
+  "noaaForecastPath": "data/noaa-forecast/DNLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

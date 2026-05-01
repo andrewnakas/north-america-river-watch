@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07179750",
+  "key": "07179750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179750",
+  "name": "NEOSHO R AT BURLINGAME RD NR EMPORIA, KS",
+  "waterbody": "NEOSHO R AT BURLINGAME RD NR EMPORIA, KS",
+  "state": "KS",
+  "latitude": 38.42862475,
+  "longitude": -96.1583287,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07179750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

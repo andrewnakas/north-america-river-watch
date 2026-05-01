@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02334885",
+  "key": "02334885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02334885",
+  "name": "SUWANEE CREEK AT SUWANEE, GA",
+  "waterbody": "SUWANEE CREEK AT SUWANEE, GA",
+  "state": "GA",
+  "latitude": 34.0325,
+  "longitude": -84.08888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWEG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwanee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sweg1",
+  "slug": "usgs-02334885",
+  "noaaForecastPath": "data/noaa-forecast/SWEG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

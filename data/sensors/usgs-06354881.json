@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06354881",
+  "key": "06354881",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06354881",
+  "name": "OAK CREEK NR RATTLESNAKE BUTTE NR WAKPALA, SD",
+  "waterbody": "OAK CREEK NR RATTLESNAKE BUTTE NR WAKPALA, SD",
+  "state": "SD",
+  "latitude": 45.72842778,
+  "longitude": -100.596275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkps2",
+  "slug": "usgs-06354881",
+  "noaaForecastPath": "data/noaa-forecast/WKPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02335815",
+  "key": "02335815",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335815",
+  "name": "CHATTAHOOCHEE RIVER BELOW MORGAN FALLS DAM, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER BELOW MORGAN FALLS DAM, GA",
+  "state": "GA",
+  "latitude": 33.96775,
+  "longitude": -84.3836667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGFG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgfg1",
+  "slug": "usgs-02335815",
+  "noaaForecastPath": "data/noaa-forecast/MGFG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

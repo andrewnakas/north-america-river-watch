@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16403900",
+  "key": "16403900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16403900",
+  "name": "KAWAINUI STREAM NR PELEKUNU, MOLOKAI, HI",
+  "waterbody": "KAWAINUI STREAM NR PELEKUNU, MOLOKAI, HI",
+  "state": "HI",
+  "latitude": 21.12988056,
+  "longitude": -156.87445,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16403900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

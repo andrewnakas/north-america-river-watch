@@ -1,0 +1,22 @@
+{
+  "id": "usgs:295906090054200",
+  "key": "295906090054200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "295906090054200",
+  "name": "City Park South Lagoon at New Orleans, LA",
+  "waterbody": "City Park South Lagoon at New Orleans, LA",
+  "state": "LA",
+  "latitude": 29.985,
+  "longitude": -90.095,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPLL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Pontchartrain",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpll1",
+  "slug": "usgs-295906090054200",
+  "noaaForecastPath": "data/noaa-forecast/CPLL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

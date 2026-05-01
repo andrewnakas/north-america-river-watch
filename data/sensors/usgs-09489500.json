@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09489500",
+  "key": "09489500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09489500",
+  "name": "BLACK RVR BLW PUMPING PLANT, NR POINT OF PINES, AZ",
+  "waterbody": "BLACK RVR BLW PUMPING PLANT, NR POINT OF PINES, AZ",
+  "state": "AZ",
+  "latitude": 33.4767422,
+  "longitude": -109.7639928,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09489500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

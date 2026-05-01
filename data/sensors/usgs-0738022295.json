@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0738022295",
+  "key": "0738022295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0738022295",
+  "name": "Grand Goudine at Babin Rd Near Duplessis, LA",
+  "waterbody": "Grand Goudine at Babin Rd Near Duplessis, LA",
+  "state": "LA",
+  "latitude": 30.2621648,
+  "longitude": -90.9634442,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRDL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grdl1",
+  "slug": "usgs-0738022295",
+  "noaaForecastPath": "data/noaa-forecast/GRDL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

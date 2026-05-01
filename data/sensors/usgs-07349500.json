@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07349500",
+  "key": "07349500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07349500",
+  "name": "Bodcau Bayou near Sarepta, LA",
+  "waterbody": "Bodcau Bayou near Sarepta, LA",
+  "state": "LA",
+  "latitude": 32.9051392,
+  "longitude": -93.4829512,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07349500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

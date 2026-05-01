@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14194150",
+  "key": "14194150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14194150",
+  "name": "SOUTH YAMHILL RIVER AT MCMINNVILLE, OR",
+  "waterbody": "SOUTH YAMHILL RIVER AT MCMINNVILLE, OR",
+  "state": "OR",
+  "latitude": 45.2069444,
+  "longitude": -123.1816667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Yamhill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcmo3",
+  "slug": "usgs-14194150",
+  "noaaForecastPath": "data/noaa-forecast/MCMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

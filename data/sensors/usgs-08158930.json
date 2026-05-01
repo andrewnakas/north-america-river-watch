@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158930",
+  "key": "08158930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158930",
+  "name": "Williamson Ck at Manchaca Rd, Austin, TX",
+  "waterbody": "Williamson Ck at Manchaca Rd, Austin, TX",
+  "state": "TX",
+  "latitude": 30.22132179,
+  "longitude": -97.7936396,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AAIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williamson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aait2",
+  "slug": "usgs-08158930",
+  "noaaForecastPath": "data/noaa-forecast/AAIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

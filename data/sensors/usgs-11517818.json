@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11517818",
+  "key": "11517818",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11517818",
+  "name": "KLAMATH R A WALKER BR NR KLAMATH RIVER CA",
+  "waterbody": "KLAMATH R A WALKER BR NR KLAMATH RIVER CA",
+  "state": "CA",
+  "latitude": 41.8375994,
+  "longitude": -122.864453,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11517818",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

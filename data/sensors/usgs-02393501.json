@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02393501",
+  "key": "02393501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02393501",
+  "name": "ETOWAH RIVER ALLATOONA DAM TW, ABV CARTERSVILLE,GA",
+  "waterbody": "ETOWAH RIVER ALLATOONA DAM TW, ABV CARTERSVILLE,GA",
+  "state": "GA",
+  "latitude": 34.1636111,
+  "longitude": -84.7281944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Etowah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvlg1",
+  "slug": "usgs-02393501",
+  "noaaForecastPath": "data/noaa-forecast/CVLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

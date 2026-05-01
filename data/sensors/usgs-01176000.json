@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01176000",
+  "key": "01176000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01176000",
+  "name": "QUABOAG RIVER AT WEST BRIMFIELD, MA",
+  "waterbody": "QUABOAG RIVER AT WEST BRIMFIELD, MA",
+  "state": "MA",
+  "latitude": 42.18231566,
+  "longitude": -72.263691,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBFM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quaboag River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbfm3",
+  "slug": "usgs-01176000",
+  "noaaForecastPath": "data/noaa-forecast/WBFM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04032150",
+  "key": "04032150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04032150",
+  "name": "PRESQUE ISLE RIVER NEAR CONNORVILLE, MI",
+  "waterbody": "PRESQUE ISLE RIVER NEAR CONNORVILLE, MI",
+  "state": "MI",
+  "latitude": 46.69609487,
+  "longitude": -89.97399254,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSQM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Presque Isle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/psqm4",
+  "slug": "usgs-04032150",
+  "noaaForecastPath": "data/noaa-forecast/PSQM4.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

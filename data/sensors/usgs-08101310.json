@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08101310",
+  "key": "08101310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08101310",
+  "name": "House Ck at Old Georgetown Rd nr Ft Hood, TX",
+  "waterbody": "House Ck at Old Georgetown Rd nr Ft Hood, TX",
+  "state": "TX",
+  "latitude": 31.16493889,
+  "longitude": -97.8781944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08101310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04236800",
+  "key": "04236800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04236800",
+  "name": "SKANEATELES CREEK NEAR SKANEATELES JUNCTION NY",
+  "waterbody": "SKANEATELES CREEK NEAR SKANEATELES JUNCTION NY",
+  "state": "NY",
+  "latitude": 43.01488889,
+  "longitude": -76.47225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skaneateles Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skyn6",
+  "slug": "usgs-04236800",
+  "noaaForecastPath": "data/noaa-forecast/SKYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

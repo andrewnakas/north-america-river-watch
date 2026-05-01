@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07097000",
+  "key": "07097000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07097000",
+  "name": "ARKANSAS RIVER AT PORTLAND, CO.",
+  "waterbody": "ARKANSAS RIVER AT PORTLAND, CO.",
+  "state": "CO",
+  "latitude": 38.38833418,
+  "longitude": -105.0160961,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRTC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prtc2",
+  "slug": "usgs-07097000",
+  "noaaForecastPath": "data/noaa-forecast/PRTC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

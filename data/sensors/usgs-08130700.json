@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08130700",
+  "key": "08130700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08130700",
+  "name": "Spring Ck abv Twin Buttes Res nr San Angelo, TX",
+  "waterbody": "Spring Ck abv Twin Buttes Res nr San Angelo, TX",
+  "state": "TX",
+  "latitude": 31.3309973,
+  "longitude": -100.600931,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08130700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

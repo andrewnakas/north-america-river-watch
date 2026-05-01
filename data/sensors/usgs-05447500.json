@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05447500",
+  "key": "05447500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05447500",
+  "name": "GREEN RIVER NEAR GENESEO, IL",
+  "waterbody": "GREEN RIVER NEAR GENESEO, IL",
+  "state": "IL",
+  "latitude": 41.4889333,
+  "longitude": -90.1580083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GENI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/geni2",
+  "slug": "usgs-05447500",
+  "noaaForecastPath": "data/noaa-forecast/GENI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

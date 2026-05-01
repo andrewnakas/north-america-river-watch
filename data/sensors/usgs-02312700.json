@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02312700",
+  "key": "02312700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312700",
+  "name": "OUTLET RIVER AT PANACOOCHEE RETREATS, FL",
+  "waterbody": "OUTLET RIVER AT PANACOOCHEE RETREATS, FL",
+  "state": "FL",
+  "latitude": 28.8002651,
+  "longitude": -82.1528658,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02312700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08053000",
+  "key": "08053000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08053000",
+  "name": "Elm Fk Trinity Rv nr Lewisville, TX",
+  "waterbody": "Elm Fk Trinity Rv nr Lewisville, TX",
+  "state": "TX",
+  "latitude": 33.0456773,
+  "longitude": -96.9611173,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08053000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

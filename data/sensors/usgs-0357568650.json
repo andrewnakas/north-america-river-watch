@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0357568650",
+  "key": "0357568650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0357568650",
+  "name": "ALDRIDGE CREEK AT TONEY DRIVE AT HUNTSVILLE, AL.",
+  "waterbody": "ALDRIDGE CREEK AT TONEY DRIVE AT HUNTSVILLE, AL.",
+  "state": "AL",
+  "latitude": 34.6981466,
+  "longitude": -86.5505467,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TONA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aldridge Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tona1",
+  "slug": "usgs-0357568650",
+  "noaaForecastPath": "data/noaa-forecast/TONA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

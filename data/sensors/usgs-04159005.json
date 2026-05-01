@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04159005",
+  "key": "04159005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04159005",
+  "name": "PIGEON RIVER AT LIMERICK ROAD NEAR CASEVILLE, MI",
+  "waterbody": "PIGEON RIVER AT LIMERICK ROAD NEAR CASEVILLE, MI",
+  "state": "MI",
+  "latitude": 43.917222,
+  "longitude": -83.243333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04159005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

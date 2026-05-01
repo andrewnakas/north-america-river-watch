@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09201500",
+  "key": "09201500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09201500",
+  "name": "Boulder Creek above Boulder Lake, near Boulder, WY",
+  "waterbody": "Boulder Creek above Boulder Lake, near Boulder, WY",
+  "state": "WY",
+  "latitude": 42.8563369,
+  "longitude": -109.6173664,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCAW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boulder Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcaw4",
+  "slug": "usgs-09201500",
+  "noaaForecastPath": "data/noaa-forecast/BCAW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

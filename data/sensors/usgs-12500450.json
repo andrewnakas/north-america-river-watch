@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12500450",
+  "key": "12500450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12500450",
+  "name": "YAKIMA RIVER ABOVE AHTANUM CREEK AT UNION GAP, WA",
+  "waterbody": "YAKIMA RIVER ABOVE AHTANUM CREEK AT UNION GAP, WA",
+  "state": "WA",
+  "latitude": 46.53425817,
+  "longitude": -120.4672519,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12500450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

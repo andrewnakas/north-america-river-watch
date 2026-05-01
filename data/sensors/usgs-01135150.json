@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01135150",
+  "key": "01135150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01135150",
+  "name": "POPE BROOK (SITE W-3) NEAR NORTH DANVILLE, VT",
+  "waterbody": "POPE BROOK (SITE W-3) NEAR NORTH DANVILLE, VT",
+  "state": "VT",
+  "latitude": 44.47616707,
+  "longitude": -72.1245431,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NDVV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pope Brook (VT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ndvv1",
+  "slug": "usgs-01135150",
+  "noaaForecastPath": "data/noaa-forecast/NDVV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10239000",
+  "key": "10239000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10239000",
+  "name": "BEAVER RIVER AT ROCKY FORD DAM, NR MINERSVILLE, UT",
+  "waterbody": "BEAVER RIVER AT ROCKY FORD DAM, NR MINERSVILLE, UT",
+  "state": "UT",
+  "latitude": 38.21746996,
+  "longitude": -112.8402256,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10239000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

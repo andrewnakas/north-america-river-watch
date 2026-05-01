@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06920520",
+  "key": "06920520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06920520",
+  "name": "Weaubleau Creek near Weaubleau, MO",
+  "waterbody": "Weaubleau Creek near Weaubleau, MO",
+  "state": "MO",
+  "latitude": 37.89549167,
+  "longitude": -93.5147611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBLM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Weaubleau Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wblm7",
+  "slug": "usgs-06920520",
+  "noaaForecastPath": "data/noaa-forecast/WBLM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

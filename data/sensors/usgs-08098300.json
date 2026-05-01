@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08098300",
+  "key": "08098300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08098300",
+  "name": "Little Pond Ck nr Burlington, TX",
+  "waterbody": "Little Pond Ck nr Burlington, TX",
+  "state": "TX",
+  "latitude": 31.02657804,
+  "longitude": -96.98834133,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08098300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

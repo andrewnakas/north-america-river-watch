@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07221500",
+  "key": "07221500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07221500",
+  "name": "CANADIAN RIVER NEAR SANCHEZ, NM",
+  "waterbody": "CANADIAN RIVER NEAR SANCHEZ, NM",
+  "state": "NM",
+  "latitude": 35.6548333,
+  "longitude": -104.3786111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sncn5",
+  "slug": "usgs-07221500",
+  "noaaForecastPath": "data/noaa-forecast/SNCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

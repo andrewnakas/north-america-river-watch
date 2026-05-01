@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01330000",
+  "key": "01330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01330000",
+  "name": "GLOWEGEE CREEK AT WEST MILTON NY",
+  "waterbody": "GLOWEGEE CREEK AT WEST MILTON NY",
+  "state": "NY",
+  "latitude": 43.03080556,
+  "longitude": -73.9275833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01330000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13346800",
+  "key": "13346800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13346800",
+  "name": "PARADISE CR AT UNIVERSITY OF IDAHO AT MOSCOW ID",
+  "waterbody": "PARADISE CR AT UNIVERSITY OF IDAHO AT MOSCOW ID",
+  "state": "ID",
+  "latitude": 46.7319444,
+  "longitude": -117.0241667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PACI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paradise Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paci1",
+  "slug": "usgs-13346800",
+  "noaaForecastPath": "data/noaa-forecast/PACI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

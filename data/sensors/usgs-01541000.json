@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01541000",
+  "key": "01541000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01541000",
+  "name": "West Branch Susquehanna River at Bower, PA",
+  "waterbody": "West Branch Susquehanna River at Bower, PA",
+  "state": "PA",
+  "latitude": 40.89695718,
+  "longitude": -78.6769425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Susquehanna River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwrp1",
+  "slug": "usgs-01541000",
+  "noaaForecastPath": "data/noaa-forecast/BWRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

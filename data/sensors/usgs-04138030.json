@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04138030",
+  "key": "04138030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04138030",
+  "name": "E BR AU GRES R AT E ANDREWS RD NR ALABASTER, MI",
+  "waterbody": "E BR AU GRES R AT E ANDREWS RD NR ALABASTER, MI",
+  "state": "MI",
+  "latitude": 44.1435833,
+  "longitude": -83.5856278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALAM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Au Gres River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alam4",
+  "slug": "usgs-04138030",
+  "noaaForecastPath": "data/noaa-forecast/ALAM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

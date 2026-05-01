@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03065400",
+  "key": "03065400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03065400",
+  "name": "BLACKWATER RIVER NEAR DAVIS, WV",
+  "waterbody": "BLACKWATER RIVER NEAR DAVIS, WV",
+  "state": "WV",
+  "latitude": 39.14010775,
+  "longitude": -79.4197715,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAVW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackwater River (WV)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/davw2",
+  "slug": "usgs-03065400",
+  "noaaForecastPath": "data/noaa-forecast/DAVW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

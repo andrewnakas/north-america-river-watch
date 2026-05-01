@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01644600",
+  "key": "01644600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644600",
+  "name": "GREAT SENECA CREEK NEAR QUINCE ORCHARD, MD",
+  "waterbody": "GREAT SENECA CREEK NEAR QUINCE ORCHARD, MD",
+  "state": "MD",
+  "latitude": 39.1328611,
+  "longitude": -77.2681111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01644600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

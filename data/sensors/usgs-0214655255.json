@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214655255",
+  "key": "0214655255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214655255",
+  "name": "MCALPINE CREEK AT SR3150 NR IDLEWILD, NC",
+  "waterbody": "MCALPINE CREEK AT SR3150 NR IDLEWILD, NC",
+  "state": "NC",
+  "latitude": 35.1758333,
+  "longitude": -80.7191667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCIN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "McAlpine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcin7",
+  "slug": "usgs-0214655255",
+  "noaaForecastPath": "data/noaa-forecast/MCIN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

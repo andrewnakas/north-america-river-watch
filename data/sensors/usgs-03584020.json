@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03584020",
+  "key": "03584020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03584020",
+  "name": "RICHLAND CREEK AT HWY 64 NEAR PULASKI, TN",
+  "waterbody": "RICHLAND CREEK AT HWY 64 NEAR PULASKI, TN",
+  "state": "TN",
+  "latitude": 35.2108329,
+  "longitude": -87.100402,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03584020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

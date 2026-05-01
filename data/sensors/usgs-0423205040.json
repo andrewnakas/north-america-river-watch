@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0423205040",
+  "key": "0423205040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0423205040",
+  "name": "IRONDEQUOIT BAY AT MOUTH AT ROCHESTER NY",
+  "waterbody": "IRONDEQUOIT BAY AT MOUTH AT ROCHESTER NY",
+  "state": "NY",
+  "latitude": 43.23488889,
+  "longitude": -77.5338611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0423205040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

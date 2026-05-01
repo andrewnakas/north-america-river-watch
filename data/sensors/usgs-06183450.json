@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06183450",
+  "key": "06183450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06183450",
+  "name": "Big Muddy Creek near Antelope MT",
+  "waterbody": "Big Muddy Creek near Antelope MT",
+  "state": "MT",
+  "latitude": 48.6728972,
+  "longitude": -104.5120861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Muddy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgcm8",
+  "slug": "usgs-06183450",
+  "noaaForecastPath": "data/noaa-forecast/BGCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

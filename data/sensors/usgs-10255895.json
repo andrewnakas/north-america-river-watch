@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10255895",
+  "key": "10255895",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10255895",
+  "name": "SF WHITEWATER R NR BANNING CA",
+  "waterbody": "SF WHITEWATER R NR BANNING CA",
+  "state": "CA",
+  "latitude": 34.0623333,
+  "longitude": -116.819111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10255895",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

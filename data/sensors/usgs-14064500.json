@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14064500",
+  "key": "14064500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14064500",
+  "name": "DESCHUTES R AT BENHAM FALLS NR BEND, OR",
+  "waterbody": "DESCHUTES R AT BENHAM FALLS NR BEND, OR",
+  "state": "OR",
+  "latitude": 43.93011715,
+  "longitude": -121.4119746,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BENO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deschutes River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/beno3",
+  "slug": "usgs-14064500",
+  "noaaForecastPath": "data/noaa-forecast/BENO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

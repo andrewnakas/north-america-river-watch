@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07381500",
+  "key": "07381500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381500",
+  "name": "Atchafalaya R @ Krotz Springs, LA",
+  "waterbody": "Atchafalaya R @ Krotz Springs, LA",
+  "state": "LA",
+  "latitude": 30.5468588,
+  "longitude": -91.7512264,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07381500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

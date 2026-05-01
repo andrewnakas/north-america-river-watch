@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06852000",
+  "key": "06852000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06852000",
+  "name": " ELM CREEK AT AMBOY, NEBR.",
+  "waterbody": " ELM CREEK AT AMBOY, NEBR.",
+  "state": "NE",
+  "latitude": 40.08888889,
+  "longitude": -98.435,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elm Creek (trib. to Republican River)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ambn1",
+  "slug": "usgs-06852000",
+  "noaaForecastPath": "data/noaa-forecast/AMBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

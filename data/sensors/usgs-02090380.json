@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02090380",
+  "key": "02090380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02090380",
+  "name": "CONTENTNEA CREEK NEAR LUCAMA, NC",
+  "waterbody": "CONTENTNEA CREEK NEAR LUCAMA, NC",
+  "state": "NC",
+  "latitude": 35.6911111,
+  "longitude": -78.1097222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Contentnea Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lucn7",
+  "slug": "usgs-02090380",
+  "noaaForecastPath": "data/noaa-forecast/LUCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

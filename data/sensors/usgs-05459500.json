@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05459500",
+  "key": "05459500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05459500",
+  "name": "Winnebago River at Mason City, IA",
+  "waterbody": "Winnebago River at Mason City, IA",
+  "state": "IA",
+  "latitude": 43.165,
+  "longitude": -93.1925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winnebago River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcwi4",
+  "slug": "usgs-05459500",
+  "noaaForecastPath": "data/noaa-forecast/MCWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

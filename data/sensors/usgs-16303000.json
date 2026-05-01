@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16303000",
+  "key": "16303000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16303000",
+  "name": "Punaluu Str nr Punaluu, Oahu, HI",
+  "waterbody": "Punaluu Str nr Punaluu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.55638889,
+  "longitude": -157.8988889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16303000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

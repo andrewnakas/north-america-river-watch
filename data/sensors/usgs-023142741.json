@@ -1,0 +1,19 @@
+{
+  "id": "usgs:023142741",
+  "key": "023142741",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023142741",
+  "name": "NORTH FORK SUWANNEE RIVER AT SILL NEAR FARGO GA",
+  "waterbody": "NORTH FORK SUWANNEE RIVER AT SILL NEAR FARGO GA",
+  "state": "GA",
+  "latitude": 30.81633217,
+  "longitude": -82.41346259,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-023142741",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

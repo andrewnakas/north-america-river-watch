@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021720869",
+  "key": "021720869",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021720869",
+  "name": "ASHLEY RIVER NEAR NORTH CHARLESTON, SC",
+  "waterbody": "ASHLEY RIVER NEAR NORTH CHARLESTON, SC",
+  "state": "SC",
+  "latitude": 32.8346201,
+  "longitude": -80.0237014,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASPS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashley River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asps1",
+  "slug": "usgs-021720869",
+  "noaaForecastPath": "data/noaa-forecast/ASPS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

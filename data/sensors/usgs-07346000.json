@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07346000",
+  "key": "07346000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07346000",
+  "name": "Big Cypress Bayou nr Jefferson, TX",
+  "waterbody": "Big Cypress Bayou nr Jefferson, TX",
+  "state": "TX",
+  "latitude": 32.74958345,
+  "longitude": -94.4988102,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JFET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Cypress Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jfet2",
+  "slug": "usgs-07346000",
+  "noaaForecastPath": "data/noaa-forecast/JFET2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

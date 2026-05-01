@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12039516",
+  "key": "12039516",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039516",
+  "name": "QUINAULT RIVER BLW NO NAME CR (4A) NR NEILTON, WA",
+  "waterbody": "QUINAULT RIVER BLW NO NAME CR (4A) NR NEILTON, WA",
+  "state": "WA",
+  "latitude": 47.3606472,
+  "longitude": -124.1752389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12039516",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

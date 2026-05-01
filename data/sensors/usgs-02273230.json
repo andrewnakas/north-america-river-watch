@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02273230",
+  "key": "02273230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02273230",
+  "name": "C-41 CANAL NEAR BRIGHTON, FL",
+  "waterbody": "C-41 CANAL NEAR BRIGHTON, FL",
+  "state": "FL",
+  "latitude": 27.21393588,
+  "longitude": -81.201458,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCZF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "C-41 Canal",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cczf1",
+  "slug": "usgs-02273230",
+  "noaaForecastPath": "data/noaa-forecast/CCZF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13352600",
+  "key": "13352600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13352600",
+  "name": "SNAKE RIVER BELOW LOWER MONUMENTAL DAM, WA",
+  "waterbody": "SNAKE RIVER BELOW LOWER MONUMENTAL DAM, WA",
+  "state": "WA",
+  "latitude": 46.5537292,
+  "longitude": -118.5488527,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13352600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07151000",
+  "key": "07151000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07151000",
+  "name": "Salt Fork Arkansas River at Tonkawa, OK",
+  "waterbody": "Salt Fork Arkansas River at Tonkawa, OK",
+  "state": "OK",
+  "latitude": 36.6719792,
+  "longitude": -97.3094887,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TONO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tono2",
+  "slug": "usgs-07151000",
+  "noaaForecastPath": "data/noaa-forecast/TONO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

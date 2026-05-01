@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336030",
+  "key": "02336030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336030",
+  "name": "N.F. PEACHTREE CREEK AT GRAVES RD, NR DORAVILLE,GA",
+  "waterbody": "N.F. PEACHTREE CREEK AT GRAVES RD, NR DORAVILLE,GA",
+  "state": "GA",
+  "latitude": 33.9058333,
+  "longitude": -84.225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFPG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Peachtree Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfpg1",
+  "slug": "usgs-02336030",
+  "noaaForecastPath": "data/noaa-forecast/NFPG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

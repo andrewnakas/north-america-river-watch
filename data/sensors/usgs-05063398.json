@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05063398",
+  "key": "05063398",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05063398",
+  "name": "S. BR. WILD RICE RIVER AT CO. RD. 27 NR FELTON, MN",
+  "waterbody": "S. BR. WILD RICE RIVER AT CO. RD. 27 NR FELTON, MN",
+  "state": "MN",
+  "latitude": 47.113291,
+  "longitude": -96.386064,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLTM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Wild Rice River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fltm5",
+  "slug": "usgs-05063398",
+  "noaaForecastPath": "data/noaa-forecast/FLTM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

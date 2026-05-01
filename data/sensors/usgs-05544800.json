@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05544800",
+  "key": "05544800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05544800",
+  "name": "LAUDERDALE LAKES OUTLET AT LAUDERDALE, WI",
+  "waterbody": "LAUDERDALE LAKES OUTLET AT LAUDERDALE, WI",
+  "state": "WI",
+  "latitude": 42.76640205,
+  "longitude": -88.5562119,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05544800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01454700",
+  "key": "01454700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01454700",
+  "name": "Lehigh River at Glendon, PA",
+  "waterbody": "Lehigh River at Glendon, PA",
+  "state": "PA",
+  "latitude": 40.6692656,
+  "longitude": -75.23628808,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lehigh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gldp1",
+  "slug": "usgs-01454700",
+  "noaaForecastPath": "data/noaa-forecast/GLDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

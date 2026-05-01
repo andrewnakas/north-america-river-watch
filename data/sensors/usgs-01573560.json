@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01573560",
+  "key": "01573560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573560",
+  "name": "Swatara Creek near Hershey, PA",
+  "waterbody": "Swatara Creek near Hershey, PA",
+  "state": "PA",
+  "latitude": 40.29842358,
+  "longitude": -76.6677469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HERP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swatara Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/herp1",
+  "slug": "usgs-01573560",
+  "noaaForecastPath": "data/noaa-forecast/HERP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

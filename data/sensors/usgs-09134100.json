@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09134100",
+  "key": "09134100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09134100",
+  "name": "NORTH FORK GUNNISON RIVER BELOW PAONIA, CO",
+  "waterbody": "NORTH FORK GUNNISON RIVER BELOW PAONIA, CO",
+  "state": "CO",
+  "latitude": 38.8575,
+  "longitude": -107.6219444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09134100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

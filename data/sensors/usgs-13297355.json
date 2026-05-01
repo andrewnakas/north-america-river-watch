@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13297355",
+  "key": "13297355",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13297355",
+  "name": "Paasasikwana Naokwaide bl Bruno Ck",
+  "waterbody": "Paasasikwana Naokwaide bl Bruno Ck",
+  "state": "ID",
+  "latitude": 44.2908333,
+  "longitude": -114.4716667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SQUI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Squaw Creek (ID)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/squi1",
+  "slug": "usgs-13297355",
+  "noaaForecastPath": "data/noaa-forecast/SQUI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

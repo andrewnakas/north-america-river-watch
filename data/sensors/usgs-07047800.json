@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07047800",
+  "key": "07047800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07047800",
+  "name": "St. Francis River at Parkin, AR",
+  "waterbody": "St. Francis River at Parkin, AR",
+  "state": "AR",
+  "latitude": 35.27305556,
+  "longitude": -90.5591667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Francis River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnga4",
+  "slug": "usgs-07047800",
+  "noaaForecastPath": "data/noaa-forecast/PNGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

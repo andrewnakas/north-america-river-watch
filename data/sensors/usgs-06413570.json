@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06413570",
+  "key": "06413570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06413570",
+  "name": "RAPID C AB JACKSON BLVD AT RAPID CITY, SD",
+  "waterbody": "RAPID C AB JACKSON BLVD AT RAPID CITY, SD",
+  "state": "SD",
+  "latitude": 44.06526559,
+  "longitude": -103.2729605,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06413570",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

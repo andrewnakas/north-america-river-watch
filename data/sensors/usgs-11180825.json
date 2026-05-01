@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11180825",
+  "key": "11180825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11180825",
+  "name": "SAN LORENZO C AB DON CASTRO RES NR CASTRO V CA",
+  "waterbody": "SAN LORENZO C AB DON CASTRO RES NR CASTRO V CA",
+  "state": "CA",
+  "latitude": 37.695172,
+  "longitude": -122.0449223,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Lorenzo Creek (Alameda)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lscc1",
+  "slug": "usgs-11180825",
+  "noaaForecastPath": "data/noaa-forecast/LSCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

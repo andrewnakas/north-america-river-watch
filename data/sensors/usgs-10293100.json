@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10293100",
+  "key": "10293100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10293100",
+  "name": "E WALKER RV BLW CONFL ROUGH CK NR THE ELBOW, NV",
+  "waterbody": "E WALKER RV BLW CONFL ROUGH CK NR THE ELBOW, NV",
+  "state": "NV",
+  "latitude": 38.43603056,
+  "longitude": -119.0112,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWEN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Walker blw Rough Ck",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewen2",
+  "slug": "usgs-10293100",
+  "noaaForecastPath": "data/noaa-forecast/EWEN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

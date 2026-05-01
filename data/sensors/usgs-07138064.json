@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07138064",
+  "key": "07138064",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07138064",
+  "name": "SOUTHSIDE DITCH RETURN NR DEERFIELD, KS",
+  "waterbody": "SOUTHSIDE DITCH RETURN NR DEERFIELD, KS",
+  "state": "KS",
+  "latitude": 37.9598611,
+  "longitude": -101.1207222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07138064",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

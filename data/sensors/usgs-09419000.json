@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09419000",
+  "key": "09419000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419000",
+  "name": "MUDDY RV NR GLENDALE, NV",
+  "waterbody": "MUDDY RV NR GLENDALE, NV",
+  "state": "NV",
+  "latitude": 36.64302844,
+  "longitude": -114.5397075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUDN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mudn2",
+  "slug": "usgs-09419000",
+  "noaaForecastPath": "data/noaa-forecast/MUDN2.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

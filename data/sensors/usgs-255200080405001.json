@@ -1,0 +1,19 @@
+{
+  "id": "usgs:255200080405001",
+  "key": "255200080405001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "255200080405001",
+  "name": "EDEN 8 in Water Conservation Area 3-A",
+  "waterbody": "EDEN 8 in Water Conservation Area 3-A",
+  "state": "FL",
+  "latitude": 25.86666667,
+  "longitude": -80.6805556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-255200080405001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.211Z"
+}

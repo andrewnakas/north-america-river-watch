@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01475001",
+  "key": "01475001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01475001",
+  "name": "Mantua Creek at East Holly Avenue at Pitman NJ",
+  "waterbody": "Mantua Creek at East Holly Avenue at Pitman NJ",
+  "state": "NJ",
+  "latitude": 39.73888889,
+  "longitude": -75.1144444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PITN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mantua Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pitn4",
+  "slug": "usgs-01475001",
+  "noaaForecastPath": "data/noaa-forecast/PITN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05085000",
+  "key": "05085000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05085000",
+  "name": "FOREST RIVER AT MINTO, ND",
+  "waterbody": "FOREST RIVER AT MINTO, ND",
+  "state": "ND",
+  "latitude": 48.286099,
+  "longitude": -97.3700763,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTON8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Forest River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mton8",
+  "slug": "usgs-05085000",
+  "noaaForecastPath": "data/noaa-forecast/MTON8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

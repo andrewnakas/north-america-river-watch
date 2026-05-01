@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06893060",
+  "key": "06893060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893060",
+  "name": "Missouri River at Randolph, MO",
+  "waterbody": "Missouri River at Randolph, MO",
+  "state": "MO",
+  "latitude": 39.15169444,
+  "longitude": -94.4940556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06893060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

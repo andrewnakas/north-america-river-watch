@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08108710",
+  "key": "08108710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08108710",
+  "name": "Walnut Ck at FM 46 nr Bremond, TX",
+  "waterbody": "Walnut Ck at FM 46 nr Bremond, TX",
+  "state": "TX",
+  "latitude": 31.1214861,
+  "longitude": -96.6172417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08108710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

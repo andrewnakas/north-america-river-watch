@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12026150",
+  "key": "12026150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12026150",
+  "name": "SKOOKUMCHUCK RIVER BL BLDY RUN CR NR CENTRALIA, WA",
+  "waterbody": "SKOOKUMCHUCK RIVER BL BLDY RUN CR NR CENTRALIA, WA",
+  "state": "WA",
+  "latitude": 46.79010157,
+  "longitude": -122.7354019,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKRW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skookumchuck Reservoir",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skrw1",
+  "slug": "usgs-12026150",
+  "noaaForecastPath": "data/noaa-forecast/SKRW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

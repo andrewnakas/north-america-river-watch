@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06295220",
+  "key": "06295220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06295220",
+  "name": "Rosebud C Bel Lame Deer C nr Lame Deer MT",
+  "waterbody": "Rosebud C Bel Lame Deer C nr Lame Deer MT",
+  "state": "MT",
+  "latitude": 45.67582545,
+  "longitude": -106.700309,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rosebud Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rclm8",
+  "slug": "usgs-06295220",
+  "noaaForecastPath": "data/noaa-forecast/RCLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

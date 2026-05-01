@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07117000",
+  "key": "07117000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07117000",
+  "name": "ARKANSAS RIVER NEAR NEPESTA, CO.",
+  "waterbody": "ARKANSAS RIVER NEAR NEPESTA, CO.",
+  "state": "CO",
+  "latitude": 38.184167,
+  "longitude": -104.172778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07117000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

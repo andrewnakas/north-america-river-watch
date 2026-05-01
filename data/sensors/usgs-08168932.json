@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08168932",
+  "key": "08168932",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08168932",
+  "name": "Comal Rv (nc) nr Landa Lk, New Braunfels, TX",
+  "waterbody": "Comal Rv (nc) nr Landa Lk, New Braunfels, TX",
+  "state": "TX",
+  "latitude": 29.7089611,
+  "longitude": -98.1334417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08168932",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

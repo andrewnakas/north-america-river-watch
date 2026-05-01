@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11509200",
+  "key": "11509200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11509200",
+  "name": "ADY CANAL AT HIGHWAY 97, NEAR WORDEN, OR",
+  "waterbody": "ADY CANAL AT HIGHWAY 97, NEAR WORDEN, OR",
+  "state": "OR",
+  "latitude": 42.08088889,
+  "longitude": -121.8446389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11509200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

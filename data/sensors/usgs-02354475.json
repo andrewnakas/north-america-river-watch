@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02354475",
+  "key": "02354475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02354475",
+  "name": "SPRING CREEK NEAR LEARY, GA",
+  "waterbody": "SPRING CREEK NEAR LEARY, GA",
+  "state": "GA",
+  "latitude": 31.46555556,
+  "longitude": -84.4494444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LESG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lesg1",
+  "slug": "usgs-02354475",
+  "noaaForecastPath": "data/noaa-forecast/LESG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02113500",
+  "key": "02113500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02113500",
+  "name": "YADKIN RIVER AT SILOAM, NC",
+  "waterbody": "YADKIN RIVER AT SILOAM, NC",
+  "state": "NC",
+  "latitude": 36.28208264,
+  "longitude": -80.5625602,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02113500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

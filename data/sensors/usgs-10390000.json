@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10390000",
+  "key": "10390000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10390000",
+  "name": "SILVER CREEK NEAR SILVER LAKE, OR",
+  "waterbody": "SILVER CREEK NEAR SILVER LAKE, OR",
+  "state": "OR",
+  "latitude": 43.11097318,
+  "longitude": -121.0691648,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10390000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

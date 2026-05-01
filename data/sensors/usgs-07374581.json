@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07374581",
+  "key": "07374581",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07374581",
+  "name": "Bayou Liberty near Slidell,LA",
+  "waterbody": "Bayou Liberty near Slidell,LA",
+  "state": "LA",
+  "latitude": 30.30130578,
+  "longitude": -89.83062149,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBSL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Liberty",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbsl1",
+  "slug": "usgs-07374581",
+  "noaaForecastPath": "data/noaa-forecast/LBSL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

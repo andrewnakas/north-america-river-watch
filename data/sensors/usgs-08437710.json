@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08437710",
+  "key": "08437710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08437710",
+  "name": "Pecos Rv at RR 1776 nr Grandfalls, TX",
+  "waterbody": "Pecos Rv at RR 1776 nr Grandfalls, TX",
+  "state": "TX",
+  "latitude": 31.3668055,
+  "longitude": -103.0059908,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PGFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 9 miles WNW of Grandfalls",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pgft2",
+  "slug": "usgs-08437710",
+  "noaaForecastPath": "data/noaa-forecast/PGFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

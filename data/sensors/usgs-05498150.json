@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05498150",
+  "key": "05498150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05498150",
+  "name": "Middle Fabius River near Ewing, MO",
+  "waterbody": "Middle Fabius River near Ewing, MO",
+  "state": "MO",
+  "latitude": 40.028933,
+  "longitude": -91.7057179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWMM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fabius River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewmm7",
+  "slug": "usgs-05498150",
+  "noaaForecastPath": "data/noaa-forecast/EWMM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

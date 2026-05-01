@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03448800",
+  "key": "03448800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03448800",
+  "name": "SWANNANOA RIVER AT INTERSTATE 40 AT BLACK MTN, NC",
+  "waterbody": "SWANNANOA RIVER AT INTERSTATE 40 AT BLACK MTN, NC",
+  "state": "NC",
+  "latitude": 35.61892778,
+  "longitude": -82.30781389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03448800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

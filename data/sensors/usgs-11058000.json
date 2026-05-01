@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11058000",
+  "key": "11058000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11058000",
+  "name": "SAND CANYON C NR HIGHLAND CA",
+  "waterbody": "SAND CANYON C NR HIGHLAND CA",
+  "state": "CA",
+  "latitude": 34.1547222,
+  "longitude": -117.2266667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11058000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

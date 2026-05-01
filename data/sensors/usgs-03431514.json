@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03431514",
+  "key": "03431514",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431514",
+  "name": "CUMBERLAND RIVER NEAR BORDEAUX, TN",
+  "waterbody": "CUMBERLAND RIVER NEAR BORDEAUX, TN",
+  "state": "TN",
+  "latitude": 36.1889717,
+  "longitude": -86.8283959,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDXT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdxt1",
+  "slug": "usgs-03431514",
+  "noaaForecastPath": "data/noaa-forecast/BDXT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

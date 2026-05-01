@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08074810",
+  "key": "08074810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08074810",
+  "name": "Brays Bayou at Gessner Dr, Houston, TX",
+  "waterbody": "Brays Bayou at Gessner Dr, Houston, TX",
+  "state": "TX",
+  "latitude": 29.6727317,
+  "longitude": -95.5282765,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brays Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gsst2",
+  "slug": "usgs-08074810",
+  "noaaForecastPath": "data/noaa-forecast/GSST2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

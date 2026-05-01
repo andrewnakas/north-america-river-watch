@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03062250",
+  "key": "03062250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062250",
+  "name": "MONONGAHELA R AT HILDEBRAND LOCK & DAM (LOWER), WV",
+  "waterbody": "MONONGAHELA R AT HILDEBRAND LOCK & DAM (LOWER), WV",
+  "state": "WV",
+  "latitude": 39.5828606,
+  "longitude": -80.0100678,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03062250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

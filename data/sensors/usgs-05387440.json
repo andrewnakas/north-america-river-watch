@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05387440",
+  "key": "05387440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05387440",
+  "name": "Upper Iowa River at Bluffton, IA",
+  "waterbody": "Upper Iowa River at Bluffton, IA",
+  "state": "IA",
+  "latitude": 43.40691316,
+  "longitude": -91.8990464,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLFI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upper Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blfi4",
+  "slug": "usgs-05387440",
+  "noaaForecastPath": "data/noaa-forecast/BLFI4.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

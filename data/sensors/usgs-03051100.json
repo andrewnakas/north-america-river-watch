@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03051100",
+  "key": "03051100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03051100",
+  "name": "MIDDLE FORK RIVER AT ADOLPH, WV",
+  "waterbody": "MIDDLE FORK RIVER AT ADOLPH, WV",
+  "state": "WV",
+  "latitude": 38.7459407,
+  "longitude": -80.04562858,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADOW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adow2",
+  "slug": "usgs-03051100",
+  "noaaForecastPath": "data/noaa-forecast/ADOW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

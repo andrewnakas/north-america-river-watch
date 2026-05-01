@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07191322",
+  "key": "07191322",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07191322",
+  "name": "Saline Ck at CR 490 nr Kenwood OK",
+  "waterbody": "Saline Ck at CR 490 nr Kenwood OK",
+  "state": "OK",
+  "latitude": 36.31161944,
+  "longitude": -94.9892139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07191322",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

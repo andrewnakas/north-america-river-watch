@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01594000",
+  "key": "01594000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594000",
+  "name": "LITTLE PATUXENT RIVER AT SAVAGE, MD",
+  "waterbody": "LITTLE PATUXENT RIVER AT SAVAGE, MD",
+  "state": "MD",
+  "latitude": 39.134417,
+  "longitude": -76.816167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAVM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Patuxent River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/savm2",
+  "slug": "usgs-01594000",
+  "noaaForecastPath": "data/noaa-forecast/SAVM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

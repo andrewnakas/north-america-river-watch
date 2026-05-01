@@ -1,0 +1,19 @@
+{
+  "id": "usgs:103087891",
+  "key": "103087891",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "103087891",
+  "name": "ASPEN C ABV LEVIATHAN MINE NR MARKLEEVILLE CA",
+  "waterbody": "ASPEN C ABV LEVIATHAN MINE NR MARKLEEVILLE CA",
+  "state": "CA",
+  "latitude": 38.7086111,
+  "longitude": -119.648611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-103087891",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

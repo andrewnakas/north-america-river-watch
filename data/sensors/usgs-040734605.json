@@ -1,0 +1,19 @@
+{
+  "id": "usgs:040734605",
+  "key": "040734605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "040734605",
+  "name": "GREEN LAKE SW INLET @ CT HIGHWY K NR GREEN LAKE,WI",
+  "waterbody": "GREEN LAKE SW INLET @ CT HIGHWY K NR GREEN LAKE,WI",
+  "state": "WI",
+  "latitude": 43.7771111,
+  "longitude": -89.0568611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-040734605",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

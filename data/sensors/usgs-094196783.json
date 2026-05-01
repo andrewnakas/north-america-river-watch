@@ -1,0 +1,22 @@
+{
+  "id": "usgs:094196783",
+  "key": "094196783",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "094196783",
+  "name": "LV WASH BLW FLAMINGO WASH CONFL NR LAS VEGAS, NV",
+  "waterbody": "LV WASH BLW FLAMINGO WASH CONFL NR LAS VEGAS, NV",
+  "state": "NV",
+  "latitude": 36.13969527,
+  "longitude": -115.0477755,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Las Vegas Wash",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwcn2",
+  "slug": "usgs-094196783",
+  "noaaForecastPath": "data/noaa-forecast/LWCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

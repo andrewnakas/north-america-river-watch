@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07372750",
+  "key": "07372750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07372750",
+  "name": "LITTLE R NR POLLOCK, LA",
+  "waterbody": "LITTLE R NR POLLOCK, LA",
+  "state": "LA",
+  "latitude": 31.5807373,
+  "longitude": -92.3098739,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07372750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

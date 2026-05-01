@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04112000",
+  "key": "04112000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04112000",
+  "name": "SLOAN CREEK NEAR WILLIAMSTON, MI",
+  "waterbody": "SLOAN CREEK NEAR WILLIAMSTON, MI",
+  "state": "MI",
+  "latitude": 42.67586828,
+  "longitude": -84.3638605,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCWM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sloan Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scwm4",
+  "slug": "usgs-04112000",
+  "noaaForecastPath": "data/noaa-forecast/SCWM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

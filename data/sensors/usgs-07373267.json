@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07373267",
+  "key": "07373267",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07373267",
+  "name": "Black R @ Jonesville, LA",
+  "waterbody": "Black R @ Jonesville, LA",
+  "state": "LA",
+  "latitude": 31.6221111,
+  "longitude": -91.8121389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BJNL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "BLACK RIVER AT JONESVILLE",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bjnl1",
+  "slug": "usgs-07373267",
+  "noaaForecastPath": "data/noaa-forecast/BJNL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02167000",
+  "key": "02167000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02167000",
+  "name": "SALUDA RIVER AT CHAPPELLS, SC",
+  "waterbody": "SALUDA RIVER AT CHAPPELLS, SC",
+  "state": "SC",
+  "latitude": 34.17457619,
+  "longitude": -81.864002,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHAS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saluda River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chas1",
+  "slug": "usgs-02167000",
+  "noaaForecastPath": "data/noaa-forecast/CHAS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

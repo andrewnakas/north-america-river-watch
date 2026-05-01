@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12472600",
+  "key": "12472600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12472600",
+  "name": "CRAB CREEK NEAR BEVERLY, WA",
+  "waterbody": "CRAB CREEK NEAR BEVERLY, WA",
+  "state": "WA",
+  "latitude": 46.8298196,
+  "longitude": -119.8311276,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12472600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

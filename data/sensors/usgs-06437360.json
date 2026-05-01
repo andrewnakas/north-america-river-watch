@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06437360",
+  "key": "06437360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06437360",
+  "name": "DEADMAN GULCH AT STURGIS, SD",
+  "waterbody": "DEADMAN GULCH AT STURGIS, SD",
+  "state": "SD",
+  "latitude": 44.3924611,
+  "longitude": -103.5191722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STGS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deadman Gulch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stgs2",
+  "slug": "usgs-06437360",
+  "noaaForecastPath": "data/noaa-forecast/STGS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09060550",
+  "key": "09060550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09060550",
+  "name": "ROCK CREEK AT CRATER, CO.",
+  "waterbody": "ROCK CREEK AT CRATER, CO.",
+  "state": "CO",
+  "latitude": 39.9783206,
+  "longitude": -106.7100387,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09060550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

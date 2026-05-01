@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15564900",
+  "key": "15564900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15564900",
+  "name": "KOYUKUK R AT HUGHES AK",
+  "waterbody": "KOYUKUK R AT HUGHES AK",
+  "state": "AK",
+  "latitude": 66.046983,
+  "longitude": -154.2610644,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRHA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Koyukuk River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krha2",
+  "slug": "usgs-15564900",
+  "noaaForecastPath": "data/noaa-forecast/KRHA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

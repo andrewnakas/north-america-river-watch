@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08034500",
+  "key": "08034500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08034500",
+  "name": "Mud Ck nr Jacksonville, TX",
+  "waterbody": "Mud Ck nr Jacksonville, TX",
+  "state": "TX",
+  "latitude": 31.97655578,
+  "longitude": -95.1607787,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JKST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jkst2",
+  "slug": "usgs-08034500",
+  "noaaForecastPath": "data/noaa-forecast/JKST2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

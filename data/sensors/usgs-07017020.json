@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07017020",
+  "key": "07017020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07017020",
+  "name": "Meramec River at Pacific, MO",
+  "waterbody": "Meramec River at Pacific, MO",
+  "state": "MO",
+  "latitude": 38.46694444,
+  "longitude": -90.7348889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCFM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meramec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcfm7",
+  "slug": "usgs-07017020",
+  "noaaForecastPath": "data/noaa-forecast/PCFM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

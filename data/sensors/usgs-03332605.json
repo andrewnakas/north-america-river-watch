@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03332605",
+  "key": "03332605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03332605",
+  "name": "TIPPECANOE RIVER BELOW OAKDALE DAM, IN",
+  "waterbody": "TIPPECANOE RIVER BELOW OAKDALE DAM, IN",
+  "state": "IN",
+  "latitude": 40.6533588,
+  "longitude": -86.756654,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OAKI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tippecanoe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oaki3",
+  "slug": "usgs-03332605",
+  "noaaForecastPath": "data/noaa-forecast/OAKI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

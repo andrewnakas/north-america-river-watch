@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208734095",
+  "key": "0208734095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208734095",
+  "name": "SIMMONS BRANCH AT LAIL COURT NEAR RALEIGH, NC",
+  "waterbody": "SIMMONS BRANCH AT LAIL COURT NEAR RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.768783,
+  "longitude": -78.703408,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JHSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek (NC)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jhsn7",
+  "slug": "usgs-0208734095",
+  "noaaForecastPath": "data/noaa-forecast/JHSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

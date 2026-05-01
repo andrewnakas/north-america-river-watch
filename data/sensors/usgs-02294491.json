@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294491",
+  "key": "02294491",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294491",
+  "name": "SADDLE CREEK AT STRUCTURE P-11 NEAR BARTOW FL",
+  "waterbody": "SADDLE CREEK AT STRUCTURE P-11 NEAR BARTOW FL",
+  "state": "FL",
+  "latitude": 27.93788056,
+  "longitude": -81.8507083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saddle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atpf1",
+  "slug": "usgs-02294491",
+  "noaaForecastPath": "data/noaa-forecast/ATPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

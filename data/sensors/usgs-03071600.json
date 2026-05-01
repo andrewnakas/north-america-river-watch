@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03071600",
+  "key": "03071600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03071600",
+  "name": "CHEAT RIVER AT LAKE LYNN, PA",
+  "waterbody": "CHEAT RIVER AT LAKE LYNN, PA",
+  "state": "PA",
+  "latitude": 39.72091177,
+  "longitude": -79.8553338,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheat River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lldp1",
+  "slug": "usgs-03071600",
+  "noaaForecastPath": "data/noaa-forecast/LLDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

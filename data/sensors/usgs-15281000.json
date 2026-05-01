@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15281000",
+  "key": "15281000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15281000",
+  "name": "KNIK R NR PALMER AK",
+  "waterbody": "KNIK R NR PALMER AK",
+  "state": "AK",
+  "latitude": 61.50445678,
+  "longitude": -149.0327778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Knik River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knka2",
+  "slug": "usgs-15281000",
+  "noaaForecastPath": "data/noaa-forecast/KNKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

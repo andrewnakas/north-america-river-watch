@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10020300",
+  "key": "10020300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10020300",
+  "name": "BEAR RIVER BELOW RESERVOIR, NEAR WOODRUFF, UT",
+  "waterbody": "BEAR RIVER BELOW RESERVOIR, NEAR WOODRUFF, UT",
+  "state": "WY",
+  "latitude": 41.50547872,
+  "longitude": -111.01466126,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRWU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brwu1",
+  "slug": "usgs-10020300",
+  "noaaForecastPath": "data/noaa-forecast/BRWU1.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

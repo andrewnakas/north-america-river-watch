@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01483750",
+  "key": "01483750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01483750",
+  "name": "ST JONES RIVER NEAR MAGNOLIA, DE",
+  "waterbody": "ST JONES RIVER NEAR MAGNOLIA, DE",
+  "state": "DE",
+  "latitude": 39.0848611,
+  "longitude": -75.46052778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01483750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

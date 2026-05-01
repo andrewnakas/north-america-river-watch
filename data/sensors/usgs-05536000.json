@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536000",
+  "key": "05536000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536000",
+  "name": "NORTH BRANCH CHICAGO RIVER AT NILES, IL",
+  "waterbody": "NORTH BRANCH CHICAGO RIVER AT NILES, IL",
+  "state": "IL",
+  "latitude": 42.0122222,
+  "longitude": -87.7958333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NILI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Chicago River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nili2",
+  "slug": "usgs-05536000",
+  "noaaForecastPath": "data/noaa-forecast/NILI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

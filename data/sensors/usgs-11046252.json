@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046252",
+  "key": "11046252",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046252",
+  "name": "SAN ONOFRE C LAGOON A MOUTH NR SAN CLEMENTE CA",
+  "waterbody": "SAN ONOFRE C LAGOON A MOUTH NR SAN CLEMENTE CA",
+  "state": "CA",
+  "latitude": 33.38138889,
+  "longitude": -117.578611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046252",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

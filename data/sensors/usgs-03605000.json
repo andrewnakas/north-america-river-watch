@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03605000",
+  "key": "03605000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03605000",
+  "name": "TENNESSEE RIVER NEAR NEW JOHNSONVILLE, TN",
+  "waterbody": "TENNESSEE RIVER NEAR NEW JOHNSONVILLE, TN",
+  "state": "TN",
+  "latitude": 36.01783805,
+  "longitude": -88.0030892,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NJNT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tennessee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/njnt1",
+  "slug": "usgs-03605000",
+  "noaaForecastPath": "data/noaa-forecast/NJNT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14178000",
+  "key": "14178000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14178000",
+  "name": "NO SANTIAM R BLW BOULDER CRK, NR DETROIT, OR",
+  "waterbody": "NO SANTIAM R BLW BOULDER CRK, NR DETROIT, OR",
+  "state": "OR",
+  "latitude": 44.7067885,
+  "longitude": -122.1011859,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCKO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Santiam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcko3",
+  "slug": "usgs-14178000",
+  "noaaForecastPath": "data/noaa-forecast/BCKO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

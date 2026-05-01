@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178871",
+  "key": "08178871",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178871",
+  "name": "W Prong Medina Rv at Carpenter Ck Rd nr Medina, TX",
+  "waterbody": "W Prong Medina Rv at Carpenter Ck Rd nr Medina, TX",
+  "state": "TX",
+  "latitude": 29.78013889,
+  "longitude": -99.3792778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Prong Medina River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wpmt2",
+  "slug": "usgs-08178871",
+  "noaaForecastPath": "data/noaa-forecast/WPMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

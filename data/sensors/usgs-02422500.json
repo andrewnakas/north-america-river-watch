@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02422500",
+  "key": "02422500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02422500",
+  "name": "MULBERRY CREEK AT JONES AL",
+  "waterbody": "MULBERRY CREEK AT JONES AL",
+  "state": "AL",
+  "latitude": 32.5829103,
+  "longitude": -86.9035991,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JONA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mulberry Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jona1",
+  "slug": "usgs-02422500",
+  "noaaForecastPath": "data/noaa-forecast/JONA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

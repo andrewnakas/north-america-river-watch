@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04121500",
+  "key": "04121500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04121500",
+  "name": "MUSKEGON RIVER AT EVART, MI",
+  "waterbody": "MUSKEGON RIVER AT EVART, MI",
+  "state": "MI",
+  "latitude": 43.8991863,
+  "longitude": -85.2553192,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muskegon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evrm4",
+  "slug": "usgs-04121500",
+  "noaaForecastPath": "data/noaa-forecast/EVRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

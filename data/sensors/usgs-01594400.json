@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01594400",
+  "key": "01594400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594400",
+  "name": "DORSEY RUN NEAR JESSUP, MD",
+  "waterbody": "DORSEY RUN NEAR JESSUP, MD",
+  "state": "MD",
+  "latitude": 39.12027778,
+  "longitude": -76.7822222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01594400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

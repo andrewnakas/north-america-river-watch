@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01553005",
+  "key": "01553005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01553005",
+  "name": "Muncy Creek near Muncy, PA",
+  "waterbody": "Muncy Creek near Muncy, PA",
+  "state": "PA",
+  "latitude": 41.2075044,
+  "longitude": -76.75215568,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muncy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnyp1",
+  "slug": "usgs-01553005",
+  "noaaForecastPath": "data/noaa-forecast/MNYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

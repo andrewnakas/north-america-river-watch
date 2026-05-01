@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08261000",
+  "key": "08261000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08261000",
+  "name": "COSTILLA CREEK NEAR GARCIA, CO",
+  "waterbody": "COSTILLA CREEK NEAR GARCIA, CO",
+  "state": "NM",
+  "latitude": 36.98902778,
+  "longitude": -105.5324583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08261000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

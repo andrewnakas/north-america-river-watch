@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07329852",
+  "key": "07329852",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07329852",
+  "name": "Rock Creek at Sulphur, OK",
+  "waterbody": "Rock Creek at Sulphur, OK",
+  "state": "OK",
+  "latitude": 34.49536695,
+  "longitude": -96.9886281,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srco2",
+  "slug": "usgs-07329852",
+  "noaaForecastPath": "data/noaa-forecast/SRCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

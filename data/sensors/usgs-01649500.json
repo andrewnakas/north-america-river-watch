@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01649500",
+  "key": "01649500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01649500",
+  "name": "NORTHEAST BRANCH ANACOSTIA RIVER AT RIVERDALE, MD",
+  "waterbody": "NORTHEAST BRANCH ANACOSTIA RIVER AT RIVERDALE, MD",
+  "state": "MD",
+  "latitude": 38.96025,
+  "longitude": -76.9259722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVDM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northeast Branch Anacostia River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvdm2",
+  "slug": "usgs-01649500",
+  "noaaForecastPath": "data/noaa-forecast/RVDM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

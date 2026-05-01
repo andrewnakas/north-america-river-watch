@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02135501",
+  "key": "02135501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02135501",
+  "name": "BLACK RIVER AT I-95 NEAR MANNING, SC",
+  "waterbody": "BLACK RIVER AT I-95 NEAR MANNING, SC",
+  "state": "SC",
+  "latitude": 33.83388889,
+  "longitude": -80.1315833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLIS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River (SC)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blis1",
+  "slug": "usgs-02135501",
+  "noaaForecastPath": "data/noaa-forecast/BLIS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07378650",
+  "key": "07378650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07378650",
+  "name": "Jones Cr. at Old Hammond Hwy near Baton Rouge, LA",
+  "waterbody": "Jones Cr. at Old Hammond Hwy near Baton Rouge, LA",
+  "state": "LA",
+  "latitude": 30.4407463,
+  "longitude": -91.044548,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCHL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jchl1",
+  "slug": "usgs-07378650",
+  "noaaForecastPath": "data/noaa-forecast/JCHL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03042280",
+  "key": "03042280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03042280",
+  "name": "Yellow Creek near Homer City, PA",
+  "waterbody": "Yellow Creek near Homer City, PA",
+  "state": "PA",
+  "latitude": 40.57256726,
+  "longitude": -79.1033664,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmrp1",
+  "slug": "usgs-03042280",
+  "noaaForecastPath": "data/noaa-forecast/HMRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

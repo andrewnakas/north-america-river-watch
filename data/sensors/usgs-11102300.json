@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11102300",
+  "key": "11102300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11102300",
+  "name": "RIO HONDO BL WHITTIER NARROWS DAM CA",
+  "waterbody": "RIO HONDO BL WHITTIER NARROWS DAM CA",
+  "state": "CA",
+  "latitude": 34.0166788,
+  "longitude": -118.0884018,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RHCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Hondo",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rhcc1",
+  "slug": "usgs-11102300",
+  "noaaForecastPath": "data/noaa-forecast/RHCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12025310",
+  "key": "12025310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12025310",
+  "name": "SALZER CR AT CENTRALIA ALPHA RD NR CENTRALIA, WA",
+  "waterbody": "SALZER CR AT CENTRALIA ALPHA RD NR CENTRALIA, WA",
+  "state": "WA",
+  "latitude": 46.6995473,
+  "longitude": -122.9292954,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12025310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

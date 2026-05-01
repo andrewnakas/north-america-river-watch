@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04293430",
+  "key": "04293430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04293430",
+  "name": "NORTH BRANCH ABOVE RIVER STREET, AT RICHFORD, VT",
+  "waterbody": "NORTH BRANCH ABOVE RIVER STREET, AT RICHFORD, VT",
+  "state": "VT",
+  "latitude": 45.0019444,
+  "longitude": -72.6755556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04293430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

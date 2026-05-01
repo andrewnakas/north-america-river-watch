@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01112500",
+  "key": "01112500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01112500",
+  "name": "BLACKSTONE RIVER AT WOONSOCKET, RI",
+  "waterbody": "BLACKSTONE RIVER AT WOONSOCKET, RI",
+  "state": "RI",
+  "latitude": 42.0064871,
+  "longitude": -71.5025613,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOOR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/woor1",
+  "slug": "usgs-01112500",
+  "noaaForecastPath": "data/noaa-forecast/WOOR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

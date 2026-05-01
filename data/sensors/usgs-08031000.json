@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08031000",
+  "key": "08031000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08031000",
+  "name": "Cow Bayou nr Mauriceville, TX",
+  "waterbody": "Cow Bayou nr Mauriceville, TX",
+  "state": "TX",
+  "latitude": 30.18632045,
+  "longitude": -93.9085058,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcvt2",
+  "slug": "usgs-08031000",
+  "noaaForecastPath": "data/noaa-forecast/MCVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

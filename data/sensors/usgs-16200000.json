@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16200000",
+  "key": "16200000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16200000",
+  "name": "NF Kaukonahua Str abv RB, nr Wahiawa, Oahu, HI",
+  "waterbody": "NF Kaukonahua Str abv RB, nr Wahiawa, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.51627778,
+  "longitude": -157.9453056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNFH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaukonahua Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knfh1",
+  "slug": "usgs-16200000",
+  "noaaForecastPath": "data/noaa-forecast/KNFH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

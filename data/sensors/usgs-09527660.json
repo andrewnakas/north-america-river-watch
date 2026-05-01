@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09527660",
+  "key": "09527660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09527660",
+  "name": "BROCK RESERVOIR OUTLET NEAR CALEXICO, CA",
+  "waterbody": "BROCK RESERVOIR OUTLET NEAR CALEXICO, CA",
+  "state": "CA",
+  "latitude": 32.70575278,
+  "longitude": -115.0343306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09527660",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

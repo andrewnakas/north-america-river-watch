@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09078475",
+  "key": "09078475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09078475",
+  "name": "LAST CHANCE CREEK NEAR NORRIE, CO",
+  "waterbody": "LAST CHANCE CREEK NEAR NORRIE, CO",
+  "state": "CO",
+  "latitude": 39.34388889,
+  "longitude": -106.6565278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FPTC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frying Pan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fptc2",
+  "slug": "usgs-09078475",
+  "noaaForecastPath": "data/noaa-forecast/FPTC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07179710",
+  "key": "07179710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179710",
+  "name": "NEOSHO R NR DUNLAP, KS",
+  "waterbody": "NEOSHO R NR DUNLAP, KS",
+  "state": "KS",
+  "latitude": 38.55473265,
+  "longitude": -96.3713894,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07179710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

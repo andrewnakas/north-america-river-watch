@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08040600",
+  "key": "08040600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08040600",
+  "name": "Neches Rv nr Town Bluff, TX",
+  "waterbody": "Neches Rv nr Town Bluff, TX",
+  "state": "TX",
+  "latitude": 30.79103579,
+  "longitude": -94.1510237,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TBFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neches River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tbft2",
+  "slug": "usgs-08040600",
+  "noaaForecastPath": "data/noaa-forecast/TBFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

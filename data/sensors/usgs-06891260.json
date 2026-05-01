@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06891260",
+  "key": "06891260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06891260",
+  "name": "WAKARUSA R NR RICHLAND, KS",
+  "waterbody": "WAKARUSA R NR RICHLAND, KS",
+  "state": "KS",
+  "latitude": 38.89194444,
+  "longitude": -95.5944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCHK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wakarusa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rchk1",
+  "slug": "usgs-06891260",
+  "noaaForecastPath": "data/noaa-forecast/RCHK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

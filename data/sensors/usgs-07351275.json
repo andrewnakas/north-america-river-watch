@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07351275",
+  "key": "07351275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07351275",
+  "name": "Gilmer Bayou near Shreveport, LA",
+  "waterbody": "Gilmer Bayou near Shreveport, LA",
+  "state": "LA",
+  "latitude": 32.4136111,
+  "longitude": -93.8941667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07351275",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

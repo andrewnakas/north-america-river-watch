@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03062450",
+  "key": "03062450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062450",
+  "name": "MONONGAHELA R AT MORGANTOWN LOCK & DAM (LOWER), WV",
+  "waterbody": "MONONGAHELA R AT MORGANTOWN LOCK & DAM (LOWER), WV",
+  "state": "WV",
+  "latitude": 39.62008188,
+  "longitude": -79.9689533,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MORW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monongahela River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/morw2",
+  "slug": "usgs-03062450",
+  "noaaForecastPath": "data/noaa-forecast/MORW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

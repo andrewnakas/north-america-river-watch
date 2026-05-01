@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06751490",
+  "key": "06751490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06751490",
+  "name": "NORTH FORK CACHE LA POUDRE RIVER AT LIVERMORE, CO",
+  "waterbody": "NORTH FORK CACHE LA POUDRE RIVER AT LIVERMORE, CO",
+  "state": "CO",
+  "latitude": 40.7875,
+  "longitude": -105.251667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06751490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

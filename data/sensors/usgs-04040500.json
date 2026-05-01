@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04040500",
+  "key": "04040500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04040500",
+  "name": "STURGEON RIVER NEAR SIDNAW, MI",
+  "waterbody": "STURGEON RIVER NEAR SIDNAW, MI",
+  "state": "MI",
+  "latitude": 46.58410589,
+  "longitude": -88.5759697,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNWM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sturgeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snwm4",
+  "slug": "usgs-04040500",
+  "noaaForecastPath": "data/noaa-forecast/SNWM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

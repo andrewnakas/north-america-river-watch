@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12091100",
+  "key": "12091100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12091100",
+  "name": "FLETT CREEK AT TACOMA, WA",
+  "waterbody": "FLETT CREEK AT TACOMA, WA",
+  "state": "WA",
+  "latitude": 47.1888583,
+  "longitude": -122.5201028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12091100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

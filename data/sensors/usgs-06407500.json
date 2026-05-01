@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06407500",
+  "key": "06407500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06407500",
+  "name": "SPRING CREEK NEAR KEYSTONE,SD",
+  "waterbody": "SPRING CREEK NEAR KEYSTONE,SD",
+  "state": "SD",
+  "latitude": 43.97871038,
+  "longitude": -103.3460469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KSTS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ksts2",
+  "slug": "usgs-06407500",
+  "noaaForecastPath": "data/noaa-forecast/KSTS2.json",
+  "generatedAt": "2026-05-01T12:10:11.379Z"
+}

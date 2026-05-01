@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06406760",
+  "key": "06406760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06406760",
+  "name": "RENO GULCH NEAR HILL CITY,SD",
+  "waterbody": "RENO GULCH NEAR HILL CITY,SD",
+  "state": "SD",
+  "latitude": 43.9097067,
+  "longitude": -103.6124162,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RGUS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reno Gulch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rgus2",
+  "slug": "usgs-06406760",
+  "noaaForecastPath": "data/noaa-forecast/RGUS2.json",
+  "generatedAt": "2026-05-01T12:10:11.379Z"
+}

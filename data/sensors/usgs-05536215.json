@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536215",
+  "key": "05536215",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536215",
+  "name": "THORN CREEK AT GLENWOOD, IL",
+  "waterbody": "THORN CREEK AT GLENWOOD, IL",
+  "state": "IL",
+  "latitude": 41.5302222,
+  "longitude": -87.6225833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thorn Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glwi2",
+  "slug": "usgs-05536215",
+  "noaaForecastPath": "data/noaa-forecast/GLWI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

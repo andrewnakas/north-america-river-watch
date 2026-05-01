@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04271500",
+  "key": "04271500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04271500",
+  "name": "GREAT CHAZY RIVER AT PERRY MILLS NY",
+  "waterbody": "GREAT CHAZY RIVER AT PERRY MILLS NY",
+  "state": "NY",
+  "latitude": 44.9996111,
+  "longitude": -73.5020833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CZRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Chazy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/czrn6",
+  "slug": "usgs-04271500",
+  "noaaForecastPath": "data/noaa-forecast/CZRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

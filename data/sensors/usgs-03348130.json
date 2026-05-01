@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03348130",
+  "key": "03348130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03348130",
+  "name": "WHITE RIVER AT RAIBLE AVENUE AT ANDERSON, IN",
+  "waterbody": "WHITE RIVER AT RAIBLE AVENUE AT ANDERSON, IN",
+  "state": "IN",
+  "latitude": 40.1105867,
+  "longitude": -85.7107865,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adni3",
+  "slug": "usgs-03348130",
+  "noaaForecastPath": "data/noaa-forecast/ADNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

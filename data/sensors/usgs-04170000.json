@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04170000",
+  "key": "04170000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04170000",
+  "name": "HURON RIVER AT MILFORD, MI",
+  "waterbody": "HURON RIVER AT MILFORD, MI",
+  "state": "MI",
+  "latitude": 42.57892089,
+  "longitude": -83.62660809,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFHM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Huron River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfhm4",
+  "slug": "usgs-04170000",
+  "noaaForecastPath": "data/noaa-forecast/MFHM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

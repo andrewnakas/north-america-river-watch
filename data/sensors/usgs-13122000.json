@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13122000",
+  "key": "13122000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13122000",
+  "name": "THOUSAND SPRINGS CREEK NR CHILLY ID",
+  "waterbody": "THOUSAND SPRINGS CREEK NR CHILLY ID",
+  "state": "ID",
+  "latitude": 44.06666667,
+  "longitude": -113.8402778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thousand Springs Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thsi1",
+  "slug": "usgs-13122000",
+  "noaaForecastPath": "data/noaa-forecast/THSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

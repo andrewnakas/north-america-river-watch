@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07138075",
+  "key": "07138075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07138075",
+  "name": "FARMERS DITCH NR DEERFIELD, KS",
+  "waterbody": "FARMERS DITCH NR DEERFIELD, KS",
+  "state": "KS",
+  "latitude": 37.99807888,
+  "longitude": -101.0607228,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07138075",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

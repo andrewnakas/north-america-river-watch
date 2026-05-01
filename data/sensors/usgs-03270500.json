@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03270500",
+  "key": "03270500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03270500",
+  "name": "Great Miami River at Dayton OH",
+  "waterbody": "Great Miami River at Dayton OH",
+  "state": "OH",
+  "latitude": 39.7653365,
+  "longitude": -84.1974405,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DTNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dtno1",
+  "slug": "usgs-03270500",
+  "noaaForecastPath": "data/noaa-forecast/DTNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

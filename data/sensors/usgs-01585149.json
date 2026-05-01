@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01585149",
+  "key": "01585149",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585149",
+  "name": "DUNDEE CREEK TRIBUTARY AT CHASE, MD",
+  "waterbody": "DUNDEE CREEK TRIBUTARY AT CHASE, MD",
+  "state": "MD",
+  "latitude": 39.3521111,
+  "longitude": -76.3594722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dundee Creek Tributary",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dctm2",
+  "slug": "usgs-01585149",
+  "noaaForecastPath": "data/noaa-forecast/DCTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

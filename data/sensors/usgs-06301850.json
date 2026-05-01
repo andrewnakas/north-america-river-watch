@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06301850",
+  "key": "06301850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06301850",
+  "name": "BIG GOOSE C AB PK DITCH, IN CANYON, NR SHERIDAN,WY",
+  "waterbody": "BIG GOOSE C AB PK DITCH, IN CANYON, NR SHERIDAN,WY",
+  "state": "WY",
+  "latitude": 44.6957189,
+  "longitude": -107.1913786,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGDW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Goose Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgdw4",
+  "slug": "usgs-06301850",
+  "noaaForecastPath": "data/noaa-forecast/BGDW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

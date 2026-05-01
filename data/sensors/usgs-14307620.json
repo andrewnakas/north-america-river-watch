@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14307620",
+  "key": "14307620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14307620",
+  "name": "SIUSLAW RIVER NEAR MAPLETON, OR",
+  "waterbody": "SIUSLAW RIVER NEAR MAPLETON, OR",
+  "state": "OR",
+  "latitude": 44.06234317,
+  "longitude": -123.8831659,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MPLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Siuslaw River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mplo3",
+  "slug": "usgs-14307620",
+  "noaaForecastPath": "data/noaa-forecast/MPLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

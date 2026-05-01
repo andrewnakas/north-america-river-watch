@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02021500",
+  "key": "02021500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02021500",
+  "name": "MAURY RIVER AT ROCKBRIDGE BATHS, VA",
+  "waterbody": "MAURY RIVER AT ROCKBRIDGE BATHS, VA",
+  "state": "VA",
+  "latitude": 37.90735266,
+  "longitude": -79.42198289,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROBV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maury River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/robv2",
+  "slug": "usgs-02021500",
+  "noaaForecastPath": "data/noaa-forecast/ROBV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

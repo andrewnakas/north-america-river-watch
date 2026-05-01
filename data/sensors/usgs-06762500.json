@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06762500",
+  "key": "06762500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06762500",
+  "name": "Lodgepole Creek at Bushnell, Nebr.",
+  "waterbody": "Lodgepole Creek at Bushnell, Nebr.",
+  "state": "NE",
+  "latitude": 41.22777778,
+  "longitude": -103.8930556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06762500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

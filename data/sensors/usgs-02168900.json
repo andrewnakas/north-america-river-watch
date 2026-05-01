@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02168900",
+  "key": "02168900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02168900",
+  "name": "SALUDA RIVER AT I-20, NEAR COLUMBIA,SC",
+  "waterbody": "SALUDA RIVER AT I-20, NEAR COLUMBIA,SC",
+  "state": "SC",
+  "latitude": 34.02596518,
+  "longitude": -81.127874,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRIS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saluda River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sris1",
+  "slug": "usgs-02168900",
+  "noaaForecastPath": "data/noaa-forecast/SRIS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

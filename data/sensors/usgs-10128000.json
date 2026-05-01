@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10128000",
+  "key": "10128000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10128000",
+  "name": "SMITH AND MOREHOUSE CREEK NEAR OAKLEY, UTAH",
+  "waterbody": "SMITH AND MOREHOUSE CREEK NEAR OAKLEY, UTAH",
+  "state": "UT",
+  "latitude": 40.78578206,
+  "longitude": -111.1124036,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10128000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

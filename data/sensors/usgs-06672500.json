@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06672500",
+  "key": "06672500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06672500",
+  "name": "CHERRY CREEK DRAIN NEAR TORRINGTON, WY",
+  "waterbody": "CHERRY CREEK DRAIN NEAR TORRINGTON, WY",
+  "state": "WY",
+  "latitude": 42.0394024,
+  "longitude": -104.1691748,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06672500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

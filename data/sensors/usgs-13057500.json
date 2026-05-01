@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13057500",
+  "key": "13057500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13057500",
+  "name": "GRAYS LAKE OUTLET NR HERMAN ID",
+  "waterbody": "GRAYS LAKE OUTLET NR HERMAN ID",
+  "state": "ID",
+  "latitude": 43.1347222,
+  "longitude": -111.495,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13057500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

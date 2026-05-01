@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06888700",
+  "key": "06888700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06888700",
+  "name": "CROSS C AT ROSSVILLE, KS",
+  "waterbody": "CROSS C AT ROSSVILLE, KS",
+  "state": "KS",
+  "latitude": 39.1388874,
+  "longitude": -95.9544342,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSSK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cross Creek (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rssk1",
+  "slug": "usgs-06888700",
+  "noaaForecastPath": "data/noaa-forecast/RSSK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

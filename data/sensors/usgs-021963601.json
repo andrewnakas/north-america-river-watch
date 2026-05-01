@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021963601",
+  "key": "021963601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021963601",
+  "name": "STEVENS CREEK AT WOODLAWN RD NR MURPHY VILLAGE, SC",
+  "waterbody": "STEVENS CREEK AT WOODLAWN RD NR MURPHY VILLAGE, SC",
+  "state": "SC",
+  "latitude": 33.6111111,
+  "longitude": -82.0286111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stevens Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mvcs1",
+  "slug": "usgs-021963601",
+  "noaaForecastPath": "data/noaa-forecast/MVCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

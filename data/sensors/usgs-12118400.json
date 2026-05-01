@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12118400",
+  "key": "12118400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12118400",
+  "name": "ROCK CREEK AT HIGHWAY 516 NEAR RAVENSDALE, WA",
+  "waterbody": "ROCK CREEK AT HIGHWAY 516 NEAR RAVENSDALE, WA",
+  "state": "WA",
+  "latitude": 47.36232337,
+  "longitude": -122.0109484,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12118400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07344370",
+  "key": "07344370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07344370",
+  "name": "Red River at Spring Bank, AR",
+  "waterbody": "Red River at Spring Bank, AR",
+  "state": "AR",
+  "latitude": 33.08944444,
+  "longitude": -93.8594444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBFA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbfa4",
+  "slug": "usgs-07344370",
+  "noaaForecastPath": "data/noaa-forecast/SBFA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

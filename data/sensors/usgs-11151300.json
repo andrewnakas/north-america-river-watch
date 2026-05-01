@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11151300",
+  "key": "11151300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11151300",
+  "name": "SAN LORENZO C BL BITTERWATER C NR KING CITY CA",
+  "waterbody": "SAN LORENZO C BL BITTERWATER C NR KING CITY CA",
+  "state": "CA",
+  "latitude": 36.26802087,
+  "longitude": -121.066303,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCYC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Lorenzo Creek (Monterey)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcyc1",
+  "slug": "usgs-11151300",
+  "noaaForecastPath": "data/noaa-forecast/KCYC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

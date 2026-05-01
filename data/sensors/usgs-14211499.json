@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14211499",
+  "key": "14211499",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14211499",
+  "name": "KELLEY CREEK AT SE 159TH DRIVE AT PORTLAND, OR",
+  "waterbody": "KELLEY CREEK AT SE 159TH DRIVE AT PORTLAND, OR",
+  "state": "OR",
+  "latitude": 45.4767869,
+  "longitude": -122.4984239,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCPO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kelley Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcpo3",
+  "slug": "usgs-14211499",
+  "noaaForecastPath": "data/noaa-forecast/KCPO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

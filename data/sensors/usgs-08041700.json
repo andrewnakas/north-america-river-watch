@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08041700",
+  "key": "08041700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08041700",
+  "name": "Pine Island Bayou nr Sour Lake, TX",
+  "waterbody": "Pine Island Bayou nr Sour Lake, TX",
+  "state": "TX",
+  "latitude": 30.1060464,
+  "longitude": -94.3346324,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Island Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/solt2",
+  "slug": "usgs-08041700",
+  "noaaForecastPath": "data/noaa-forecast/SOLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

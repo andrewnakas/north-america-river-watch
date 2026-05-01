@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01085500",
+  "key": "01085500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01085500",
+  "name": "CONTOOCOOK R BL HOPKINTON DAM AT W HOPKINTON, NH",
+  "waterbody": "CONTOOCOOK R BL HOPKINTON DAM AT W HOPKINTON, NH",
+  "state": "NH",
+  "latitude": 43.1928569,
+  "longitude": -71.7472995,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01085500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

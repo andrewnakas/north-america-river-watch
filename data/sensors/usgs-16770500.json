@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16770500",
+  "key": "16770500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16770500",
+  "name": "Paauau Gulch at Pahala, HI",
+  "waterbody": "Paauau Gulch at Pahala, HI",
+  "state": "HI",
+  "latitude": 19.20777778,
+  "longitude": -155.4770833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAGH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paauau Gulch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pagh1",
+  "slug": "usgs-16770500",
+  "noaaForecastPath": "data/noaa-forecast/PAGH1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

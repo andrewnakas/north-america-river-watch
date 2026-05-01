@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05578500",
+  "key": "05578500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05578500",
+  "name": "SALT CREEK NEAR ROWELL, IL",
+  "waterbody": "SALT CREEK NEAR ROWELL, IL",
+  "state": "IL",
+  "latitude": 40.11516944,
+  "longitude": -89.049175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rlli2",
+  "slug": "usgs-05578500",
+  "noaaForecastPath": "data/noaa-forecast/RLLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

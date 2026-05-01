@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01502632",
+  "key": "01502632",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01502632",
+  "name": "SUSQUEHANNA RIVER AT BAINBRIDGE NY",
+  "waterbody": "SUSQUEHANNA RIVER AT BAINBRIDGE NY",
+  "state": "NY",
+  "latitude": 42.2918333,
+  "longitude": -75.47677778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAIN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bain6",
+  "slug": "usgs-01502632",
+  "noaaForecastPath": "data/noaa-forecast/BAIN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

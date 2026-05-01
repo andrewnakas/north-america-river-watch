@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09390500",
+  "key": "09390500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09390500",
+  "name": "SHOW LOW CREEK NEAR LAKESIDE, AZ",
+  "waterbody": "SHOW LOW CREEK NEAR LAKESIDE, AZ",
+  "state": "AZ",
+  "latitude": 34.17948755,
+  "longitude": -109.9878858,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09390500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

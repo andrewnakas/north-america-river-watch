@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07019130",
+  "key": "07019130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07019130",
+  "name": "Meramec River at Valley Park, MO",
+  "waterbody": "Meramec River at Valley Park, MO",
+  "state": "MO",
+  "latitude": 38.5466111,
+  "longitude": -90.4850278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLLM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meramec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vllm7",
+  "slug": "usgs-07019130",
+  "noaaForecastPath": "data/noaa-forecast/VLLM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03075850",
+  "key": "03075850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03075850",
+  "name": "ARROWHEAD RUN AT THAYERVILLE, MD",
+  "waterbody": "ARROWHEAD RUN AT THAYERVILLE, MD",
+  "state": "MD",
+  "latitude": 39.50275,
+  "longitude": -79.3271944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arrowhead Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/artm2",
+  "slug": "usgs-03075850",
+  "noaaForecastPath": "data/noaa-forecast/ARTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

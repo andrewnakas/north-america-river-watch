@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05060400",
+  "key": "05060400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05060400",
+  "name": "SHEYENNE RIVER AT HARWOOD, ND",
+  "waterbody": "SHEYENNE RIVER AT HARWOOD, ND",
+  "state": "ND",
+  "latitude": 46.97746739,
+  "longitude": -96.8917491,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HWDN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hwdn8",
+  "slug": "usgs-05060400",
+  "noaaForecastPath": "data/noaa-forecast/HWDN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

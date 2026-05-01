@@ -1,0 +1,22 @@
+{
+  "id": "usgs:452314122450400",
+  "key": "452314122450400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "452314122450400",
+  "name": "TUALATIN RIVER AT I-5, NEAR DURHAM, OR",
+  "waterbody": "TUALATIN RIVER AT I-5, NEAR DURHAM, OR",
+  "state": "OR",
+  "latitude": 45.38731389,
+  "longitude": -122.751086,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TUAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tualatin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tuao3",
+  "slug": "usgs-452314122450400",
+  "noaaForecastPath": "data/noaa-forecast/TUAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.351Z"
+}

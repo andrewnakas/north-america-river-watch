@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07052120",
+  "key": "07052120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07052120",
+  "name": "South Creek near Springfield, MO",
+  "waterbody": "South Creek near Springfield, MO",
+  "state": "MO",
+  "latitude": 37.15363889,
+  "longitude": -93.3627778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scrm7",
+  "slug": "usgs-07052120",
+  "noaaForecastPath": "data/noaa-forecast/SCRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

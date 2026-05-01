@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03425290",
+  "key": "03425290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03425290",
+  "name": "GOOSE CREEK NEAR HARTSVILLE, TN",
+  "waterbody": "GOOSE CREEK NEAR HARTSVILLE, TN",
+  "state": "TN",
+  "latitude": 36.4083836,
+  "longitude": -86.1058207,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcrt1",
+  "slug": "usgs-03425290",
+  "noaaForecastPath": "data/noaa-forecast/GCRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

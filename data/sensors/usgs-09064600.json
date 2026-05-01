@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09064600",
+  "key": "09064600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09064600",
+  "name": "EAGLE RIVER NEAR MINTURN, CO",
+  "waterbody": "EAGLE RIVER NEAR MINTURN, CO",
+  "state": "CO",
+  "latitude": 39.55387495,
+  "longitude": -106.402529,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eamc2",
+  "slug": "usgs-09064600",
+  "noaaForecastPath": "data/noaa-forecast/EAMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

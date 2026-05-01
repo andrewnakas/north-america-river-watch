@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50031200",
+  "key": "50031200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50031200",
+  "name": "RIO GRANDE DE MANATI NR MOROVIS, PR",
+  "waterbody": "RIO GRANDE DE MANATI NR MOROVIS, PR",
+  "state": "PR",
+  "latitude": 18.29372253,
+  "longitude": -66.413351,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50031200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

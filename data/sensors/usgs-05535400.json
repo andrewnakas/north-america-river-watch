@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05535400",
+  "key": "05535400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05535400",
+  "name": "WF OF NB CHICAGO RIVER AT DEERFIELD, IL",
+  "waterbody": "WF OF NB CHICAGO RIVER AT DEERFIELD, IL",
+  "state": "IL",
+  "latitude": 42.16733889,
+  "longitude": -87.8570222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork North Branch Chicago River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drwi2",
+  "slug": "usgs-05535400",
+  "noaaForecastPath": "data/noaa-forecast/DRWI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

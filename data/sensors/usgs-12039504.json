@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12039504",
+  "key": "12039504",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039504",
+  "name": "QUINAULT R BLW PRAIRIE CR (9B) NR QUINAULT, WA",
+  "waterbody": "QUINAULT R BLW PRAIRIE CR (9B) NR QUINAULT, WA",
+  "state": "WA",
+  "latitude": 47.43086667,
+  "longitude": -123.9493806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12039504",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

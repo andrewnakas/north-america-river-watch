@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03229610",
+  "key": "03229610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03229610",
+  "name": "Scioto River near Commercial Point OH",
+  "waterbody": "Scioto River near Commercial Point OH",
+  "state": "OH",
+  "latitude": 39.77422977,
+  "longitude": -83.0076834,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scioto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmmo1",
+  "slug": "usgs-03229610",
+  "noaaForecastPath": "data/noaa-forecast/CMMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

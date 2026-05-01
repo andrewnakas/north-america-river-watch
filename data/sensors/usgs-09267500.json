@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09267500",
+  "key": "09267500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09267500",
+  "name": "MOSBY CANAL NEAR LAPOINT, UT",
+  "waterbody": "MOSBY CANAL NEAR LAPOINT, UT",
+  "state": "UT",
+  "latitude": 40.6082881,
+  "longitude": -109.8840393,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09267500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

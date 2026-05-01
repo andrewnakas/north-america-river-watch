@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02197309",
+  "key": "02197309",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197309",
+  "name": "TIMS BRANCH AT ROAD C, SAVANNAH RIVER SITE , SC",
+  "waterbody": "TIMS BRANCH AT ROAD C, SAVANNAH RIVER SITE , SC",
+  "state": "SC",
+  "latitude": 33.28709008,
+  "longitude": -81.6967783,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02197309",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

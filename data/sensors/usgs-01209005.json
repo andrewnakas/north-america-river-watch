@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01209005",
+  "key": "01209005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01209005",
+  "name": "SAUGATUCK R BELOW SAUGATUCK RES NR LYONS PLAIN, CT",
+  "waterbody": "SAUGATUCK R BELOW SAUGATUCK RES NR LYONS PLAIN, CT",
+  "state": "CT",
+  "latitude": 41.24551389,
+  "longitude": -73.34923611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01209005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

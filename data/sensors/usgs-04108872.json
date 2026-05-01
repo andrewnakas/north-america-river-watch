@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04108872",
+  "key": "04108872",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04108872",
+  "name": "PIGEON RIVER AT WEST OLIVE RD NR PORT SHELDON, MI",
+  "waterbody": "PIGEON RIVER AT WEST OLIVE RD NR PORT SHELDON, MI",
+  "state": "MI",
+  "latitude": 42.91634444,
+  "longitude": -86.1461333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04108872",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

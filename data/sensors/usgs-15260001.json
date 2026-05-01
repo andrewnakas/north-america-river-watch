@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15260001",
+  "key": "15260001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15260001",
+  "name": "COOPER C AT SIPHON OUTLET NR COOPER LANDING AK",
+  "waterbody": "COOPER C AT SIPHON OUTLET NR COOPER LANDING AK",
+  "state": "AK",
+  "latitude": 60.43441667,
+  "longitude": -149.8245278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15260001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

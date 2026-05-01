@@ -1,0 +1,19 @@
+{
+  "id": "usgs:413340087285001",
+  "key": "413340087285001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "413340087285001",
+  "name": "HART DITCH AT MUNSTER, IN (LCRDAN)",
+  "waterbody": "HART DITCH AT MUNSTER, IN (LCRDAN)",
+  "state": "IN",
+  "latitude": 41.5611467,
+  "longitude": -87.4805959,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-413340087285001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

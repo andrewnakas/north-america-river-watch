@@ -1,0 +1,19 @@
+{
+  "id": "usgs:041377255",
+  "key": "041377255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "041377255",
+  "name": "AU SABLE RIVER NR US23 AT OSCODA, MI",
+  "waterbody": "AU SABLE RIVER NR US23 AT OSCODA, MI",
+  "state": "MI",
+  "latitude": 44.4170611,
+  "longitude": -83.3307472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-041377255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

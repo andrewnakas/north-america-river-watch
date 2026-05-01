@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11073360",
+  "key": "11073360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11073360",
+  "name": "CHINO C A SCHAEFER AVENUE NR CHINO CA",
+  "waterbody": "CHINO C A SCHAEFER AVENUE NR CHINO CA",
+  "state": "CA",
+  "latitude": 34.00390144,
+  "longitude": -117.7270006,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11073360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

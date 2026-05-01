@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06483950",
+  "key": "06483950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06483950",
+  "name": "BIG SIOUX RIVER NEAR HAWARDEN, IA",
+  "waterbody": "BIG SIOUX RIVER NEAR HAWARDEN, IA",
+  "state": "SD",
+  "latitude": 43.051389,
+  "longitude": -96.489444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06483950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

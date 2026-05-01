@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06220800",
+  "key": "06220800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06220800",
+  "name": "WIND RIVER ABOVE RED CREEK, NEAR DUBOIS, WY",
+  "waterbody": "WIND RIVER ABOVE RED CREEK, NEAR DUBOIS, WY",
+  "state": "WY",
+  "latitude": 43.441622,
+  "longitude": -109.4587584,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRCW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wind River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrcw4",
+  "slug": "usgs-06220800",
+  "noaaForecastPath": "data/noaa-forecast/WRCW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

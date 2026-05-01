@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083420",
+  "key": "08083420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083420",
+  "name": "Cat Claw Ck at Abilene, TX",
+  "waterbody": "Cat Claw Ck at Abilene, TX",
+  "state": "TX",
+  "latitude": 32.47540219,
+  "longitude": -99.7492556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

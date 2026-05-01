@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01613900",
+  "key": "01613900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01613900",
+  "name": "HOGUE CREEK NEAR HAYFIELD, VA",
+  "waterbody": "HOGUE CREEK NEAR HAYFIELD, VA",
+  "state": "VA",
+  "latitude": 39.2145479,
+  "longitude": -78.2880592,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HFDV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hogue Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hfdv2",
+  "slug": "usgs-01613900",
+  "noaaForecastPath": "data/noaa-forecast/HFDV2.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10322000",
+  "key": "10322000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322000",
+  "name": "MAGGIE CK AT CARLIN, NV",
+  "waterbody": "MAGGIE CK AT CARLIN, NV",
+  "state": "NV",
+  "latitude": 40.71624444,
+  "longitude": -116.093575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maggie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgcn2",
+  "slug": "usgs-10322000",
+  "noaaForecastPath": "data/noaa-forecast/MGCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

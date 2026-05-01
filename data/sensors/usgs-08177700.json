@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08177700",
+  "key": "08177700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08177700",
+  "name": "Olmos Ck at Dresden Dr, San Antonio, TX",
+  "waterbody": "Olmos Ck at Dresden Dr, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.4991192,
+  "longitude": -98.5102958,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Olmos Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/siot2",
+  "slug": "usgs-08177700",
+  "noaaForecastPath": "data/noaa-forecast/SIOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

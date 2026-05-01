@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02161805",
+  "key": "02161805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02161805",
+  "name": "LITTLE RIVER AT CLARK BRIDGE RD NR WINNSBORO, SC",
+  "waterbody": "LITTLE RIVER AT CLARK BRIDGE RD NR WINNSBORO, SC",
+  "state": "SC",
+  "latitude": 34.3933333,
+  "longitude": -81.2457222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02161805",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

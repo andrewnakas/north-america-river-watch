@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03141870",
+  "key": "03141870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03141870",
+  "name": "Leatherwood Creek near Kipling OH",
+  "waterbody": "Leatherwood Creek near Kipling OH",
+  "state": "OH",
+  "latitude": 39.99007179,
+  "longitude": -81.4956758,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWCO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leatherwood Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwco1",
+  "slug": "usgs-03141870",
+  "noaaForecastPath": "data/noaa-forecast/LWCO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

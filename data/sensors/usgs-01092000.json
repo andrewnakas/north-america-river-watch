@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01092000",
+  "key": "01092000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01092000",
+  "name": "MERRIMACK R NR GOFFS FALLS, BELOW MANCHESTER, NH",
+  "waterbody": "MERRIMACK R NR GOFFS FALLS, BELOW MANCHESTER, NH",
+  "state": "NH",
+  "latitude": 42.9481405,
+  "longitude": -71.4634002,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GOFN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Merrimack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gofn3",
+  "slug": "usgs-01092000",
+  "noaaForecastPath": "data/noaa-forecast/GOFN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

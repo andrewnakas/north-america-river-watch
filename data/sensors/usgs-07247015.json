@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07247015",
+  "key": "07247015",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07247015",
+  "name": "Poteau River at Loving, OK",
+  "waterbody": "Poteau River at Loving, OK",
+  "state": "OK",
+  "latitude": 34.87982388,
+  "longitude": -94.4841112,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVNO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Poteau River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvno2",
+  "slug": "usgs-07247015",
+  "noaaForecastPath": "data/noaa-forecast/LVNO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02337410",
+  "key": "02337410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02337410",
+  "name": "DOG RIVER AT GA 5, NEAR FAIRPLAY, GA",
+  "waterbody": "DOG RIVER AT GA 5, NEAR FAIRPLAY, GA",
+  "state": "GA",
+  "latitude": 33.65380556,
+  "longitude": -84.8210278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dog River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dogg1",
+  "slug": "usgs-02337410",
+  "noaaForecastPath": "data/noaa-forecast/DOGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

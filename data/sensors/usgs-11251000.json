@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11251000",
+  "key": "11251000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11251000",
+  "name": "SAN JOAQUIN R BL FRIANT CA",
+  "waterbody": "SAN JOAQUIN R BL FRIANT CA",
+  "state": "CA",
+  "latitude": 36.98439397,
+  "longitude": -119.7243124,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11251000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

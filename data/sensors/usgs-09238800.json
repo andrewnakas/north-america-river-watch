@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09238800",
+  "key": "09238800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09238800",
+  "name": "MID FK FISH CR TRIBUTARY BLW FISH CR RESERVOIR, CO",
+  "waterbody": "MID FK FISH CR TRIBUTARY BLW FISH CR RESERVOIR, CO",
+  "state": "CO",
+  "latitude": 40.49720037,
+  "longitude": -106.6989339,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09238800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

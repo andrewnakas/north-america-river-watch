@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08277150",
+  "key": "08277150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08277150",
+  "name": "ALAMITOS CREEK BLW FR 161H NR HOLMAN, NM",
+  "waterbody": "ALAMITOS CREEK BLW FR 161H NR HOLMAN, NM",
+  "state": "NM",
+  "latitude": 36.05778889,
+  "longitude": -105.463,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08277150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

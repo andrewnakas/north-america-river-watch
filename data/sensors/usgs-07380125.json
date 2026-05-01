@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07380125",
+  "key": "07380125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380125",
+  "name": "Henderson Bayou Trib. No.2 nr Duplessis, LA",
+  "waterbody": "Henderson Bayou Trib. No.2 nr Duplessis, LA",
+  "state": "LA",
+  "latitude": 30.29908344,
+  "longitude": -90.9187102,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07380125",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

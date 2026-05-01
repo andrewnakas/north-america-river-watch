@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03456100",
+  "key": "03456100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03456100",
+  "name": "WEST FORK PIGEON RIVER AT BETHEL, NC",
+  "waterbody": "WEST FORK PIGEON RIVER AT BETHEL, NC",
+  "state": "NC",
+  "latitude": 35.46388889,
+  "longitude": -82.9,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Pigeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwpn7",
+  "slug": "usgs-03456100",
+  "noaaForecastPath": "data/noaa-forecast/CWPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

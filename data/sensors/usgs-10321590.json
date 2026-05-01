@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10321590",
+  "key": "10321590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10321590",
+  "name": "SUSIE CK AT CARLIN, NV",
+  "waterbody": "SUSIE CK AT CARLIN, NV",
+  "state": "NV",
+  "latitude": 40.72602928,
+  "longitude": -116.0778547,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10321590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05469990",
+  "key": "05469990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05469990",
+  "name": "Keigley Branch near Story City, IA",
+  "waterbody": "Keigley Branch near Story City, IA",
+  "state": "IA",
+  "latitude": 42.15026194,
+  "longitude": -93.6204947,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Keigley Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stci4",
+  "slug": "usgs-05469990",
+  "noaaForecastPath": "data/noaa-forecast/STCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

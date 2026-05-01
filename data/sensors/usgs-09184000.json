@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09184000",
+  "key": "09184000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09184000",
+  "name": "MILL CREEK NEAR MOAB, UT",
+  "waterbody": "MILL CREEK NEAR MOAB, UT",
+  "state": "UT",
+  "latitude": 38.56220477,
+  "longitude": -109.5140057,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09184000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

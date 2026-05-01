@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03424860",
+  "key": "03424860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03424860",
+  "name": "CANEY FORK AT STONEWALL",
+  "waterbody": "CANEY FORK AT STONEWALL",
+  "state": "TN",
+  "latitude": 36.1861111,
+  "longitude": -85.9044444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STWT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Caney Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stwt1",
+  "slug": "usgs-03424860",
+  "noaaForecastPath": "data/noaa-forecast/STWT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

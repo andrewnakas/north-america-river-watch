@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05451210",
+  "key": "05451210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05451210",
+  "name": "South Fork Iowa River NE of New Providence, IA",
+  "waterbody": "South Fork Iowa River NE of New Providence, IA",
+  "state": "IA",
+  "latitude": 42.31530556,
+  "longitude": -93.1521944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NPVI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/npvi4",
+  "slug": "usgs-05451210",
+  "noaaForecastPath": "data/noaa-forecast/NPVI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

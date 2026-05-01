@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02247510",
+  "key": "02247510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02247510",
+  "name": "TOMOKA RIVER NEAR HOLLY HILL, FL",
+  "waterbody": "TOMOKA RIVER NEAR HOLLY HILL, FL",
+  "state": "FL",
+  "latitude": 29.21748099,
+  "longitude": -81.1086687,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tomoka River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thhf1",
+  "slug": "usgs-02247510",
+  "noaaForecastPath": "data/noaa-forecast/THHF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

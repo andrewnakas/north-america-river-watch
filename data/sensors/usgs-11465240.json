@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11465240",
+  "key": "11465240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11465240",
+  "name": "DRY C BLW LAMBERT BR NR GEYSERVILLE CA",
+  "waterbody": "DRY C BLW LAMBERT BR NR GEYSERVILLE CA",
+  "state": "CA",
+  "latitude": 38.65320165,
+  "longitude": -122.927181,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Creek (Russian R.)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dclc1",
+  "slug": "usgs-11465240",
+  "noaaForecastPath": "data/noaa-forecast/DCLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

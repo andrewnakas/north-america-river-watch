@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10259100",
+  "key": "10259100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10259100",
+  "name": "WHITEWATER R A RANCHO MIRAGE CA",
+  "waterbody": "WHITEWATER R A RANCHO MIRAGE CA",
+  "state": "CA",
+  "latitude": 33.74947257,
+  "longitude": -116.4227854,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewater River (CA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwic1",
+  "slug": "usgs-10259100",
+  "noaaForecastPath": "data/noaa-forecast/WWIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

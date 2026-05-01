@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536235",
+  "key": "05536235",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536235",
+  "name": "DEER CREEK NEAR CHICAGO HEIGHTS, IL",
+  "waterbody": "DEER CREEK NEAR CHICAGO HEIGHTS, IL",
+  "state": "IL",
+  "latitude": 41.5208611,
+  "longitude": -87.59013889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deer Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdci2",
+  "slug": "usgs-05536235",
+  "noaaForecastPath": "data/noaa-forecast/CDCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

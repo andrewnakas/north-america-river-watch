@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13141500",
+  "key": "13141500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13141500",
+  "name": "CAMAS CREEK NR BLAINE ID",
+  "waterbody": "CAMAS CREEK NR BLAINE ID",
+  "state": "ID",
+  "latitude": 43.33277778,
+  "longitude": -114.5419444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Camas Creek (south-central Idaho)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmci1",
+  "slug": "usgs-13141500",
+  "noaaForecastPath": "data/noaa-forecast/CMCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

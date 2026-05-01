@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08111110",
+  "key": "08111110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111110",
+  "name": "New Year Ck at FM 1155 nr Chappell Hill, TX",
+  "waterbody": "New Year Ck at FM 1155 nr Chappell Hill, TX",
+  "state": "TX",
+  "latitude": 30.21231389,
+  "longitude": -96.2429583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08111110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

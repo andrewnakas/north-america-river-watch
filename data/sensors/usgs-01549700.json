@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01549700",
+  "key": "01549700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01549700",
+  "name": "Pine Creek bl L Pine Creek near Waterville, PA",
+  "waterbody": "Pine Creek bl L Pine Creek near Waterville, PA",
+  "state": "PA",
+  "latitude": 41.27361657,
+  "longitude": -77.3241186,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtvp1",
+  "slug": "usgs-01549700",
+  "noaaForecastPath": "data/noaa-forecast/WTVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

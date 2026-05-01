@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15081610",
+  "key": "15081610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15081610",
+  "name": "THREEMILE C NR KLAWOCK AK",
+  "waterbody": "THREEMILE C NR KLAWOCK AK",
+  "state": "AK",
+  "latitude": 55.5346476,
+  "longitude": -132.9563845,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15081610",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

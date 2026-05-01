@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09294500",
+  "key": "09294500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09294500",
+  "name": "LAKE FORK RIVER NEAR MYTON, UT",
+  "waterbody": "LAKE FORK RIVER NEAR MYTON, UT",
+  "state": "UT",
+  "latitude": 40.20844444,
+  "longitude": -110.11736111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09294500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

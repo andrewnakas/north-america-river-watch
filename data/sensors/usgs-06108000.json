@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06108000",
+  "key": "06108000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06108000",
+  "name": "Teton River near Dutton MT",
+  "waterbody": "Teton River near Dutton MT",
+  "state": "MT",
+  "latitude": 47.930325,
+  "longitude": -111.5529417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DTTM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Teton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dttm8",
+  "slug": "usgs-06108000",
+  "noaaForecastPath": "data/noaa-forecast/DTTM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08022070",
+  "key": "08022070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08022070",
+  "name": "Martin Ck nr Tatum, TX",
+  "waterbody": "Martin Ck nr Tatum, TX",
+  "state": "TX",
+  "latitude": 32.2957125,
+  "longitude": -94.4915904,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08022070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

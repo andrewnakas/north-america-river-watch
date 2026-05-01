@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03049807",
+  "key": "03049807",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049807",
+  "name": "Pine Creek at Grant Avenue at Etna, PA",
+  "waterbody": "Pine Creek at Grant Avenue at Etna, PA",
+  "state": "PA",
+  "latitude": 40.50313889,
+  "longitude": -79.9484444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNEP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnep1",
+  "slug": "usgs-03049807",
+  "noaaForecastPath": "data/noaa-forecast/PNEP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

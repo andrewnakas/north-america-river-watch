@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06294000",
+  "key": "06294000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06294000",
+  "name": "Little Bighorn River near Hardin MT",
+  "waterbody": "Little Bighorn River near Hardin MT",
+  "state": "MT",
+  "latitude": 45.7356861,
+  "longitude": -107.5574694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Bighorn River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrdm8",
+  "slug": "usgs-06294000",
+  "noaaForecastPath": "data/noaa-forecast/HRDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

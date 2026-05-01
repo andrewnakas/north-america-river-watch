@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03090500",
+  "key": "03090500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03090500",
+  "name": "Mahoning River bl Berlin Dam nr Berlin Center OH",
+  "waterbody": "Mahoning River bl Berlin Dam nr Berlin Center OH",
+  "state": "OH",
+  "latitude": 41.0483912,
+  "longitude": -81.0012032,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRWO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mahoning River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brwo1",
+  "slug": "usgs-03090500",
+  "noaaForecastPath": "data/noaa-forecast/BRWO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

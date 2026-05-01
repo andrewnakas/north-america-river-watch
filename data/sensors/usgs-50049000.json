@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50049000",
+  "key": "50049000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50049000",
+  "name": "RIO PIEDRAS AT RIO PIEDRAS, PR",
+  "waterbody": "RIO PIEDRAS AT RIO PIEDRAS, PR",
+  "state": "PR",
+  "latitude": 18.39467043,
+  "longitude": -66.0562769,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50049000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

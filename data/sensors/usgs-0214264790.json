@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214264790",
+  "key": "0214264790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214264790",
+  "name": "CATAWBA R AT RR BRIDGE AB NC 73 AT COWANS FORD, NC",
+  "waterbody": "CATAWBA R AT RR BRIDGE AB NC 73 AT COWANS FORD, NC",
+  "state": "NC",
+  "latitude": 35.4277333,
+  "longitude": -80.9573417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWAN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwan7",
+  "slug": "usgs-0214264790",
+  "noaaForecastPath": "data/noaa-forecast/CWAN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

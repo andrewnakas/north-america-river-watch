@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03343010",
+  "key": "03343010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03343010",
+  "name": "WABASH RIVER AT MEMORIAL BRIDGE AT VINCENNES, IN",
+  "waterbody": "WABASH RIVER AT MEMORIAL BRIDGE AT VINCENNES, IN",
+  "state": "IN",
+  "latitude": 38.68143874,
+  "longitude": -87.5352906,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VCNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vcni3",
+  "slug": "usgs-03343010",
+  "noaaForecastPath": "data/noaa-forecast/VCNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

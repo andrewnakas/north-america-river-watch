@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15086225",
+  "key": "15086225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15086225",
+  "name": "HATCHERY C AT FOREST SVC RD 23 NR COFFMAN COVE AK",
+  "waterbody": "HATCHERY C AT FOREST SVC RD 23 NR COFFMAN COVE AK",
+  "state": "AK",
+  "latitude": 55.9086111,
+  "longitude": -132.9308333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hatchery Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcca2",
+  "slug": "usgs-15086225",
+  "noaaForecastPath": "data/noaa-forecast/HCCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

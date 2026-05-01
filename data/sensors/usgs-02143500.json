@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02143500",
+  "key": "02143500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02143500",
+  "name": "INDIAN CREEK NEAR LABORATORY, NC",
+  "waterbody": "INDIAN CREEK NEAR LABORATORY, NC",
+  "state": "NC",
+  "latitude": 35.42055556,
+  "longitude": -81.2652778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LABN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/labn7",
+  "slug": "usgs-02143500",
+  "noaaForecastPath": "data/noaa-forecast/LABN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

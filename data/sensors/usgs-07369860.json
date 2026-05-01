@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07369860",
+  "key": "07369860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07369860",
+  "name": "Bayou Macon at Hwy 134 east of Epps, LA",
+  "waterbody": "Bayou Macon at Hwy 134 east of Epps, LA",
+  "state": "LA",
+  "latitude": 32.62063889,
+  "longitude": -91.4055,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMEL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "BAYOU MACON NEAR EPPS",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmel1",
+  "slug": "usgs-07369860",
+  "noaaForecastPath": "data/noaa-forecast/BMEL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

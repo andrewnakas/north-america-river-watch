@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03305000",
+  "key": "03305000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03305000",
+  "name": "GREEN RIVER NEAR MCKINNEY, KY",
+  "waterbody": "GREEN RIVER NEAR MCKINNEY, KY",
+  "state": "KY",
+  "latitude": 37.42202127,
+  "longitude": -84.7502243,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mckk2",
+  "slug": "usgs-03305000",
+  "noaaForecastPath": "data/noaa-forecast/MCKK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

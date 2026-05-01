@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03384450",
+  "key": "03384450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03384450",
+  "name": "LUSK CREEK NEAR EDDYVILLE, IL",
+  "waterbody": "LUSK CREEK NEAR EDDYVILLE, IL",
+  "state": "IL",
+  "latitude": 37.4725833,
+  "longitude": -88.5476944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lusk Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eddi2",
+  "slug": "usgs-03384450",
+  "noaaForecastPath": "data/noaa-forecast/EDDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

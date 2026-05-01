@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01654250",
+  "key": "01654250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01654250",
+  "name": "LONG BRANCH BELOW GUINEA ROAD NR FAIRFAX, VA",
+  "waterbody": "LONG BRANCH BELOW GUINEA ROAD NR FAIRFAX, VA",
+  "state": "VA",
+  "latitude": 38.82049444,
+  "longitude": -77.2604111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01654250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

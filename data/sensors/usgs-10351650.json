@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10351650",
+  "key": "10351650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10351650",
+  "name": "TRUCKEE RV AT WADSWORTH, NV",
+  "waterbody": "TRUCKEE RV AT WADSWORTH, NV",
+  "state": "NV",
+  "latitude": 39.63213447,
+  "longitude": -119.2832254,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WADN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wadn2",
+  "slug": "usgs-10351650",
+  "noaaForecastPath": "data/noaa-forecast/WADN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

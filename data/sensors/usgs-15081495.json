@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15081495",
+  "key": "15081495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15081495",
+  "name": "NF STANEY C NR KLAWOCK AK",
+  "waterbody": "NF STANEY C NR KLAWOCK AK",
+  "state": "AK",
+  "latitude": 55.7324084,
+  "longitude": -132.9688959,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15081495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

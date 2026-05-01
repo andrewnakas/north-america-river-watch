@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01105638",
+  "key": "01105638",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105638",
+  "name": "WEIR RIVER AT LEAVITT STREET AT HINGHAM, MA",
+  "waterbody": "WEIR RIVER AT LEAVITT STREET AT HINGHAM, MA",
+  "state": "MA",
+  "latitude": 42.2348226,
+  "longitude": -70.8719892,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01105638",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

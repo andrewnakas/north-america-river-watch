@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06262300",
+  "key": "06262300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06262300",
+  "name": "NORTH FORK OWL CR AB BASIN RANCH NR ANCHOR, WY",
+  "waterbody": "NORTH FORK OWL CR AB BASIN RANCH NR ANCHOR, WY",
+  "state": "WY",
+  "latitude": 43.6890863,
+  "longitude": -108.8407308,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06262300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

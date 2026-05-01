@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01078000",
+  "key": "01078000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01078000",
+  "name": "SMITH RIVER NEAR BRISTOL, NH",
+  "waterbody": "SMITH RIVER NEAR BRISTOL, NH",
+  "state": "NH",
+  "latitude": 43.56646307,
+  "longitude": -71.747857,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRSN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River  (NH)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brsn3",
+  "slug": "usgs-01078000",
+  "noaaForecastPath": "data/noaa-forecast/BRSN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

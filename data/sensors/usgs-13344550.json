@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13344550",
+  "key": "13344550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13344550",
+  "name": "SNAKE RIVER NEAR POWERS, WA",
+  "waterbody": "SNAKE RIVER NEAR POWERS, WA",
+  "state": "WA",
+  "latitude": 46.56449167,
+  "longitude": -118.184486,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13344550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

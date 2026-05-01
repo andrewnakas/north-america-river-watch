@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50332000",
+  "key": "50332000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50332000",
+  "name": "RIVER GUT AT RIVER, ST. CROIX USVI",
+  "waterbody": "RIVER GUT AT RIVER, ST. CROIX USVI",
+  "state": "VI",
+  "latitude": 17.74025128,
+  "longitude": -64.8140345,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50332000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

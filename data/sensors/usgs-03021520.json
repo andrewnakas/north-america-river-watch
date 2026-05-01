@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03021520",
+  "key": "03021520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03021520",
+  "name": "French Creek near Union City, PA",
+  "waterbody": "French Creek near Union City, PA",
+  "state": "PA",
+  "latitude": 41.90783338,
+  "longitude": -79.8967189,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UCDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ucdp1",
+  "slug": "usgs-03021520",
+  "noaaForecastPath": "data/noaa-forecast/UCDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06884000",
+  "key": "06884000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06884000",
+  "name": "Little Blue River near Fairbury, Nebr.",
+  "waterbody": "Little Blue River near Fairbury, Nebr.",
+  "state": "NE",
+  "latitude": 40.14649167,
+  "longitude": -97.19959444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frbn1",
+  "slug": "usgs-06884000",
+  "noaaForecastPath": "data/noaa-forecast/FRBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

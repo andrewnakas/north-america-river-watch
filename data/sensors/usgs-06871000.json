@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06871000",
+  "key": "06871000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06871000",
+  "name": "NF SOLOMON R AT GLADE, KS",
+  "waterbody": "NF SOLOMON R AT GLADE, KS",
+  "state": "KS",
+  "latitude": 39.67284444,
+  "longitude": -99.3092389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDEK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N F Solomon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdek1",
+  "slug": "usgs-06871000",
+  "noaaForecastPath": "data/noaa-forecast/GDEK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05506800",
+  "key": "05506800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05506800",
+  "name": "Elk Fork Salt River near Madison, MO",
+  "waterbody": "Elk Fork Salt River near Madison, MO",
+  "state": "MO",
+  "latitude": 39.4348333,
+  "longitude": -92.1677778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05506800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

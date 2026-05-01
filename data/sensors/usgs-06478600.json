@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06478600",
+  "key": "06478600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478600",
+  "name": "EAST FORK VERMILLION RIVER NEAR PARKER, SD",
+  "waterbody": "EAST FORK VERMILLION RIVER NEAR PARKER, SD",
+  "state": "SD",
+  "latitude": 43.445278,
+  "longitude": -97.109444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VRPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Vermillion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vrps2",
+  "slug": "usgs-06478600",
+  "noaaForecastPath": "data/noaa-forecast/VRPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

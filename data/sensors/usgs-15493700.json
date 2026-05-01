@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15493700",
+  "key": "15493700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15493700",
+  "name": "CHENA R BL MOOSE C DAM AK",
+  "waterbody": "CHENA R BL MOOSE C DAM AK",
+  "state": "AK",
+  "latitude": 64.80040137,
+  "longitude": -147.230223,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chena River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcda2",
+  "slug": "usgs-15493700",
+  "noaaForecastPath": "data/noaa-forecast/MCDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

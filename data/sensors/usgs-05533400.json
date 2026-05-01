@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05533400",
+  "key": "05533400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05533400",
+  "name": "SAWMILL CREEK NEAR LEMONT, IL",
+  "waterbody": "SAWMILL CREEK NEAR LEMONT, IL",
+  "state": "IL",
+  "latitude": 41.70777778,
+  "longitude": -87.9627778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMTI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sawmill Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmti2",
+  "slug": "usgs-05533400",
+  "noaaForecastPath": "data/noaa-forecast/LMTI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

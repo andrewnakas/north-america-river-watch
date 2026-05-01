@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11465750",
+  "key": "11465750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11465750",
+  "name": "LAGUNA DE SANTA ROSA C NR SEBASTOPOL CA",
+  "waterbody": "LAGUNA DE SANTA ROSA C NR SEBASTOPOL CA",
+  "state": "CA",
+  "latitude": 38.42546874,
+  "longitude": -122.8291584,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Laguna de Santa Rosa",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsec1",
+  "slug": "usgs-11465750",
+  "noaaForecastPath": "data/noaa-forecast/LSEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

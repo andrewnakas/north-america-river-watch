@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08287000",
+  "key": "08287000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08287000",
+  "name": "RIO CHAMA BELOW ABIQUIU DAM, NM",
+  "waterbody": "RIO CHAMA BELOW ABIQUIU DAM, NM",
+  "state": "NM",
+  "latitude": 36.2372222,
+  "longitude": -106.4174167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AICN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Chama",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aicn5",
+  "slug": "usgs-08287000",
+  "noaaForecastPath": "data/noaa-forecast/AICN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

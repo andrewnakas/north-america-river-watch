@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07069500",
+  "key": "07069500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07069500",
+  "name": "Spring River at Imboden, AR",
+  "waterbody": "Spring River at Imboden, AR",
+  "state": "AR",
+  "latitude": 36.20555556,
+  "longitude": -91.1716667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IMBA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring River (AR)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/imba4",
+  "slug": "usgs-07069500",
+  "noaaForecastPath": "data/noaa-forecast/IMBA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06098120",
+  "key": "06098120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06098120",
+  "name": "Birch Creek at Bullhead Bridge, nr Valier, MT",
+  "waterbody": "Birch Creek at Bullhead Bridge, nr Valier, MT",
+  "state": "MT",
+  "latitude": 48.39110278,
+  "longitude": -112.319661,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06098120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

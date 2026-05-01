@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11518700",
+  "key": "11518700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11518700",
+  "name": "SCOTT R AB HWY 3 BR A FORT JONES CA",
+  "waterbody": "SCOTT R AB HWY 3 BR A FORT JONES CA",
+  "state": "CA",
+  "latitude": 41.595528,
+  "longitude": -122.851528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11518700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

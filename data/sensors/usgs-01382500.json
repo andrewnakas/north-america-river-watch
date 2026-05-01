@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01382500",
+  "key": "01382500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01382500",
+  "name": "Pequannock River at Macopin Intake Dam NJ",
+  "waterbody": "Pequannock River at Macopin Intake Dam NJ",
+  "state": "NJ",
+  "latitude": 41.01833333,
+  "longitude": -74.40111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCPN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pequannock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcpn4",
+  "slug": "usgs-01382500",
+  "noaaForecastPath": "data/noaa-forecast/MCPN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

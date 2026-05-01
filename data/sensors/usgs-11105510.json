@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11105510",
+  "key": "11105510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11105510",
+  "name": "MALIBU C A MALIBU CA",
+  "waterbody": "MALIBU C A MALIBU CA",
+  "state": "CA",
+  "latitude": 34.0433333,
+  "longitude": -118.6841667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11105510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

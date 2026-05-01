@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11070365",
+  "key": "11070365",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11070365",
+  "name": "SAN JACINTO R NR SUN CITY CA",
+  "waterbody": "SAN JACINTO R NR SUN CITY CA",
+  "state": "CA",
+  "latitude": 33.74613375,
+  "longitude": -117.2316953,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11070365",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

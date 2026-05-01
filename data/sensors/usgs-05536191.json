@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536191",
+  "key": "05536191",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536191",
+  "name": "LITTLE CALUMET R AT NORTHCOTE AV AT MUNSTER, IN",
+  "waterbody": "LITTLE CALUMET R AT NORTHCOTE AV AT MUNSTER, IN",
+  "state": "IN",
+  "latitude": 41.5665833,
+  "longitude": -87.4857778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcni3",
+  "slug": "usgs-05536191",
+  "noaaForecastPath": "data/noaa-forecast/LCNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01409500",
+  "key": "01409500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01409500",
+  "name": "Batsto River at Batsto NJ",
+  "waterbody": "Batsto River at Batsto NJ",
+  "state": "NJ",
+  "latitude": 39.64166667,
+  "longitude": -74.65027778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01409500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

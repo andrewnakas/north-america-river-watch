@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07313585",
+  "key": "07313585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07313585",
+  "name": "Cow Creek nr Addington, OK",
+  "waterbody": "Cow Creek nr Addington, OK",
+  "state": "OK",
+  "latitude": 34.245,
+  "longitude": -97.9741667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADDO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/addo2",
+  "slug": "usgs-07313585",
+  "noaaForecastPath": "data/noaa-forecast/ADDO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01030350",
+  "key": "01030350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01030350",
+  "name": "Wytopitlock Stream near Wytopitlock Maine",
+  "waterbody": "Wytopitlock Stream near Wytopitlock Maine",
+  "state": "ME",
+  "latitude": 45.7086111,
+  "longitude": -68.1580556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WYTM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wytopitlock Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wytm1",
+  "slug": "usgs-01030350",
+  "noaaForecastPath": "data/noaa-forecast/WYTM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11072100",
+  "key": "11072100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11072100",
+  "name": "TEMESCAL C AB MAIN ST A CORONA CA",
+  "waterbody": "TEMESCAL C AB MAIN ST A CORONA CA",
+  "state": "CA",
+  "latitude": 33.8891821,
+  "longitude": -117.5628274,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Temescal Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tslc1",
+  "slug": "usgs-11072100",
+  "noaaForecastPath": "data/noaa-forecast/TSLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

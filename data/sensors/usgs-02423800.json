@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02423800",
+  "key": "02423800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02423800",
+  "name": "LITTLE CAHABA RIVER NEAR BRIERFIELD AL",
+  "waterbody": "LITTLE CAHABA RIVER NEAR BRIERFIELD AL",
+  "state": "AL",
+  "latitude": 33.0576205,
+  "longitude": -86.95276899,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02423800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

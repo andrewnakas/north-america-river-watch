@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04061500",
+  "key": "04061500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04061500",
+  "name": "PAINT RIVER AT CRYSTAL FALLS, MI",
+  "waterbody": "PAINT RIVER AT CRYSTAL FALLS, MI",
+  "state": "MI",
+  "latitude": 46.1057841,
+  "longitude": -88.3348576,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRYM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paint River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crym4",
+  "slug": "usgs-04061500",
+  "noaaForecastPath": "data/noaa-forecast/CRYM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157293",
+  "key": "13157293",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157293",
+  "name": "MECHAM AND SONS PUMPING PLANT NR HAMMETT ID",
+  "waterbody": "MECHAM AND SONS PUMPING PLANT NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.9472222,
+  "longitude": -115.6152778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157293",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

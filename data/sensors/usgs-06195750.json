@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06195750",
+  "key": "06195750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06195750",
+  "name": "Yellowstone River at Springdale, MT",
+  "waterbody": "Yellowstone River at Springdale, MT",
+  "state": "MT",
+  "latitude": 45.74632347,
+  "longitude": -110.2324168,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06195750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

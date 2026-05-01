@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11128250",
+  "key": "11128250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11128250",
+  "name": "ALAMO PINTADO C NR SOLVANG CA",
+  "waterbody": "ALAMO PINTADO C NR SOLVANG CA",
+  "state": "CA",
+  "latitude": 34.61831236,
+  "longitude": -120.1206677,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11128250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

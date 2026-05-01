@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05432695",
+  "key": "05432695",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05432695",
+  "name": "RIDGEWAY BRANCH NEAR HOLLANDALE, WI",
+  "waterbody": "RIDGEWAY BRANCH NEAR HOLLANDALE, WI",
+  "state": "WI",
+  "latitude": 42.94055556,
+  "longitude": -89.9211111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05432695",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

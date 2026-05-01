@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03470000",
+  "key": "03470000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03470000",
+  "name": "LITTLE PIGEON RIVER AT SEVIERVILLE, TN",
+  "waterbody": "LITTLE PIGEON RIVER AT SEVIERVILLE, TN",
+  "state": "TN",
+  "latitude": 35.878469,
+  "longitude": -83.577539,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEVT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Pigeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sevt1",
+  "slug": "usgs-03470000",
+  "noaaForecastPath": "data/noaa-forecast/SEVT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

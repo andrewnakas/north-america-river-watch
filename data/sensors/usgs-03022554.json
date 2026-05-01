@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03022554",
+  "key": "03022554",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03022554",
+  "name": "Woodcock Creek at Woodcock Creek Dam, PA",
+  "waterbody": "Woodcock Creek at Woodcock Creek Dam, PA",
+  "state": "PA",
+  "latitude": 41.69588905,
+  "longitude": -80.1081133,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Woodcock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcdp1",
+  "slug": "usgs-03022554",
+  "noaaForecastPath": "data/noaa-forecast/WCDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01429000",
+  "key": "01429000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01429000",
+  "name": "West Branch Lackawaxen River at Prompton, PA",
+  "waterbody": "West Branch Lackawaxen River at Prompton, PA",
+  "state": "PA",
+  "latitude": 41.5872185,
+  "longitude": -75.326829,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRMP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Lackawaxen River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prmp1",
+  "slug": "usgs-01429000",
+  "noaaForecastPath": "data/noaa-forecast/PRMP1.json",
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

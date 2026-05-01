@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09090785",
+  "key": "09090785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09090785",
+  "name": "DIVIDE CREEK NEAR SILT, CO",
+  "waterbody": "DIVIDE CREEK NEAR SILT, CO",
+  "state": "CO",
+  "latitude": 39.54050278,
+  "longitude": -107.6230722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09090785",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

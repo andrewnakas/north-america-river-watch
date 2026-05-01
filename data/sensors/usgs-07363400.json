@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07363400",
+  "key": "07363400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07363400",
+  "name": "Hurricane Creek below Sheridan, AR",
+  "waterbody": "Hurricane Creek below Sheridan, AR",
+  "state": "AR",
+  "latitude": 34.2286111,
+  "longitude": -92.3725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07363400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

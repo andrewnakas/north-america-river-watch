@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13140335",
+  "key": "13140335",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13140335",
+  "name": "BIG WOOD R AT S BROADFORD BRIDGE NR BELLEVUE, ID",
+  "waterbody": "BIG WOOD R AT S BROADFORD BRIDGE NR BELLEVUE, ID",
+  "state": "ID",
+  "latitude": 43.4679833,
+  "longitude": -114.2677389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWBI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwbi1",
+  "slug": "usgs-13140335",
+  "noaaForecastPath": "data/noaa-forecast/BWBI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

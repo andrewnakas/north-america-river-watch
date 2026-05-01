@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03051260",
+  "key": "03051260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03051260",
+  "name": "MIDDLE FORK RIVER AT ELLAMORE, WV",
+  "waterbody": "MIDDLE FORK RIVER AT ELLAMORE, WV",
+  "state": "WV",
+  "latitude": 38.91788048,
+  "longitude": -80.0889669,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELLW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ellw2",
+  "slug": "usgs-03051260",
+  "noaaForecastPath": "data/noaa-forecast/ELLW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

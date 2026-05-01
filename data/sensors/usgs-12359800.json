@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12359800",
+  "key": "12359800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12359800",
+  "name": "S F Flathead R ab Twin C nr Hungry Horse MT",
+  "waterbody": "S F Flathead R ab Twin C nr Hungry Horse MT",
+  "state": "MT",
+  "latitude": 47.9790972,
+  "longitude": -113.5606833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TNCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Flathead River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tncm8",
+  "slug": "usgs-12359800",
+  "noaaForecastPath": "data/noaa-forecast/TNCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

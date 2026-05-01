@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06823000",
+  "key": "06823000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06823000",
+  "name": "North Fork Republican River at Colorado-Nebraska",
+  "waterbody": "North Fork Republican River at Colorado-Nebraska",
+  "state": "NE",
+  "latitude": 40.069403,
+  "longitude": -102.051589,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STEN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sten1",
+  "slug": "usgs-06823000",
+  "noaaForecastPath": "data/noaa-forecast/STEN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

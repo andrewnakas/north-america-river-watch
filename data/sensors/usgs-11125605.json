@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11125605",
+  "key": "11125605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11125605",
+  "name": "HILTON CYN C 0.25 MI BL BRADBURY DAM NR SANTA YNEZ",
+  "waterbody": "HILTON CYN C 0.25 MI BL BRADBURY DAM NR SANTA YNEZ",
+  "state": "CA",
+  "latitude": 34.58388889,
+  "longitude": -119.985,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11125605",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

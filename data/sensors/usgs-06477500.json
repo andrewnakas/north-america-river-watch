@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06477500",
+  "key": "06477500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06477500",
+  "name": "FIRESTEEL CREEK NEAR MOUNT VERNON,SD",
+  "waterbody": "FIRESTEEL CREEK NEAR MOUNT VERNON,SD",
+  "state": "SD",
+  "latitude": 43.77640219,
+  "longitude": -98.2456658,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTVS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Firesteel Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtvs2",
+  "slug": "usgs-06477500",
+  "noaaForecastPath": "data/noaa-forecast/MTVS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

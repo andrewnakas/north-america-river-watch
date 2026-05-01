@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08049569",
+  "key": "08049569",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08049569",
+  "name": "Bear Ck at SH 183 nr Euless, TX",
+  "waterbody": "Bear Ck at SH 183 nr Euless, TX",
+  "state": "TX",
+  "latitude": 32.83555556,
+  "longitude": -97.0358333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08049569",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

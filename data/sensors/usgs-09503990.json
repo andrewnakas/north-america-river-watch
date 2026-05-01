@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09503990",
+  "key": "09503990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09503990",
+  "name": "SYCAMORE CREEK ABOVE VERDE RVR, NEAR CLARKDALE, AZ",
+  "waterbody": "SYCAMORE CREEK ABOVE VERDE RVR, NEAR CLARKDALE, AZ",
+  "state": "AZ",
+  "latitude": 34.8648611,
+  "longitude": -112.0741667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SYMA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sycamore Creek (AZ)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/syma3",
+  "slug": "usgs-09503990",
+  "noaaForecastPath": "data/noaa-forecast/SYMA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

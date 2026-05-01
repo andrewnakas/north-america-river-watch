@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05595952",
+  "key": "05595952",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595952",
+  "name": "BIG MUDDY RIVER BELOW REND LAKE NR BENTON, IL",
+  "waterbody": "BIG MUDDY RIVER BELOW REND LAKE NR BENTON, IL",
+  "state": "IL",
+  "latitude": 38.02702778,
+  "longitude": -88.9605556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RNDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Muddy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rndi2",
+  "slug": "usgs-05595952",
+  "noaaForecastPath": "data/noaa-forecast/RNDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

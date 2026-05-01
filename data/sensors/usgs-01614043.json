@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01614043",
+  "key": "01614043",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01614043",
+  "name": "HARLAN RUN NEAR HEDGESVILLE, WV",
+  "waterbody": "HARLAN RUN NEAR HEDGESVILLE, WV",
+  "state": "WV",
+  "latitude": 39.56975,
+  "longitude": -77.9514167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01614043",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

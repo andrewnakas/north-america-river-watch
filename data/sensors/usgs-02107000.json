@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02107000",
+  "key": "02107000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02107000",
+  "name": "SOUTH RIVER NEAR PARKERSBURG, NC",
+  "waterbody": "SOUTH RIVER NEAR PARKERSBURG, NC",
+  "state": "NC",
+  "latitude": 34.8126708,
+  "longitude": -78.4569493,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02107000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

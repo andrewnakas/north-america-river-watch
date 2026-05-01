@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04176500",
+  "key": "04176500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04176500",
+  "name": "RIVER RAISIN NEAR MONROE, MI",
+  "waterbody": "RIVER RAISIN NEAR MONROE, MI",
+  "state": "MI",
+  "latitude": 41.9605671,
+  "longitude": -83.5309896,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GPEM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "River Raisin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gpem4",
+  "slug": "usgs-04176500",
+  "noaaForecastPath": "data/noaa-forecast/GPEM4.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

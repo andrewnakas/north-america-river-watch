@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02367310",
+  "key": "02367310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02367310",
+  "name": "JUNIPER CREEK AT STATE HWY 85 NR NICEVILLE, FLA.",
+  "waterbody": "JUNIPER CREEK AT STATE HWY 85 NR NICEVILLE, FLA.",
+  "state": "FL",
+  "latitude": 30.5574179,
+  "longitude": -86.5193954,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JNPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Juniper Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jnpf1",
+  "slug": "usgs-02367310",
+  "noaaForecastPath": "data/noaa-forecast/JNPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

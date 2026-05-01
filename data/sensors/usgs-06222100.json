@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06222100",
+  "key": "06222100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06222100",
+  "name": "UPPER WIND RIV A CANAL AT HEADWORKS, NR BURRIS, WY",
+  "waterbody": "UPPER WIND RIV A CANAL AT HEADWORKS, NR BURRIS, WY",
+  "state": "WY",
+  "latitude": 43.4163454,
+  "longitude": -109.3284733,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06222100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

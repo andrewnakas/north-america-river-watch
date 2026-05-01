@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05311150",
+  "key": "05311150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05311150",
+  "name": "MINNESOTA RIVER AT HWY 212 IN GRANITE FALLS, MN",
+  "waterbody": "MINNESOTA RIVER AT HWY 212 IN GRANITE FALLS, MN",
+  "state": "MN",
+  "latitude": 44.805246,
+  "longitude": -95.544093,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTEM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnesota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gtem5",
+  "slug": "usgs-05311150",
+  "noaaForecastPath": "data/noaa-forecast/GTEM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

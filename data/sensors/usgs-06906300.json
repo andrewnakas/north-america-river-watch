@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06906300",
+  "key": "06906300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06906300",
+  "name": "East Fork Little Chariton R. near Huntsville, MO",
+  "waterbody": "East Fork Little Chariton R. near Huntsville, MO",
+  "state": "MO",
+  "latitude": 39.45491667,
+  "longitude": -92.5685,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06906300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0423204140",
+  "key": "0423204140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0423204140",
+  "name": "MILL CR TRIB SITEA-MILL RD NR BUSHNELL BASIN NY",
+  "waterbody": "MILL CR TRIB SITEA-MILL RD NR BUSHNELL BASIN NY",
+  "state": "NY",
+  "latitude": 43.06061866,
+  "longitude": -77.50471848,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0423204140",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

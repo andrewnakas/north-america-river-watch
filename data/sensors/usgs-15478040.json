@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15478040",
+  "key": "15478040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15478040",
+  "name": "PHELAN C NR PAXSON AK",
+  "waterbody": "PHELAN C NR PAXSON AK",
+  "state": "AK",
+  "latitude": 63.24027778,
+  "longitude": -145.4680556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHLA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Phelan Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phla2",
+  "slug": "usgs-15478040",
+  "noaaForecastPath": "data/noaa-forecast/PHLA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

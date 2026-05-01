@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08048800",
+  "key": "08048800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08048800",
+  "name": "Big Fossil Ck at Haltom City, TX",
+  "waterbody": "Big Fossil Ck at Haltom City, TX",
+  "state": "TX",
+  "latitude": 32.80735146,
+  "longitude": -97.2486256,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08048800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

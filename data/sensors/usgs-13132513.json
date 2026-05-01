@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13132513",
+  "key": "13132513",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13132513",
+  "name": "INL DIVERSION AT HEAD NEAR ARCO ID",
+  "waterbody": "INL DIVERSION AT HEAD NEAR ARCO ID",
+  "state": "ID",
+  "latitude": 43.5136111,
+  "longitude": -113.0838889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INEI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Lost River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/inei1",
+  "slug": "usgs-13132513",
+  "noaaForecastPath": "data/noaa-forecast/INEI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06928000",
+  "key": "06928000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06928000",
+  "name": "Gasconade River near Hazelgreen, MO",
+  "waterbody": "Gasconade River near Hazelgreen, MO",
+  "state": "MO",
+  "latitude": 37.75913889,
+  "longitude": -92.4520278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HZLM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gasconade River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hzlm7",
+  "slug": "usgs-06928000",
+  "noaaForecastPath": "data/noaa-forecast/HZLM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

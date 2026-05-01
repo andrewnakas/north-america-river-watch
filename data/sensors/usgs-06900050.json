@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06900050",
+  "key": "06900050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06900050",
+  "name": "Medicine Creek near Laredo, MO",
+  "waterbody": "Medicine Creek near Laredo, MO",
+  "state": "MO",
+  "latitude": 40.0266111,
+  "longitude": -93.4362222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06900050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

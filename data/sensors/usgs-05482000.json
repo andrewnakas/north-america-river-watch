@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05482000",
+  "key": "05482000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05482000",
+  "name": "Des Moines River at 2nd Avenue at Des Moines, IA",
+  "waterbody": "Des Moines River at 2nd Avenue at Des Moines, IA",
+  "state": "IA",
+  "latitude": 41.61194444,
+  "longitude": -93.6197222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DMOI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dmoi4",
+  "slug": "usgs-05482000",
+  "noaaForecastPath": "data/noaa-forecast/DMOI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08166700",
+  "key": "08166700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08166700",
+  "name": "Cypress Ck at Saur Farm nr Comfort, TX",
+  "waterbody": "Cypress Ck at Saur Farm nr Comfort, TX",
+  "state": "TX",
+  "latitude": 30.0114361,
+  "longitude": -98.9741361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08166700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10137500",
+  "key": "10137500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10137500",
+  "name": "SOUTH FORK OGDEN RIVER NEAR HUNTSVILLE, UT",
+  "waterbody": "SOUTH FORK OGDEN RIVER NEAR HUNTSVILLE, UT",
+  "state": "UT",
+  "latitude": 41.26855226,
+  "longitude": -111.6741004,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OGHU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Ogden River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oghu1",
+  "slug": "usgs-10137500",
+  "noaaForecastPath": "data/noaa-forecast/OGHU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

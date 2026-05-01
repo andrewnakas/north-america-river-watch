@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08179520",
+  "key": "08179520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08179520",
+  "name": "Medina Rv bl Medina Lk nr San Antonio, TX",
+  "waterbody": "Medina Rv bl Medina Lk nr San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.5341187,
+  "longitude": -98.9353075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdlt2",
+  "slug": "usgs-08179520",
+  "noaaForecastPath": "data/noaa-forecast/MDLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

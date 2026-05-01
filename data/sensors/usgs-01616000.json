@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01616000",
+  "key": "01616000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01616000",
+  "name": "ABRAMS CREEK NEAR WINCHESTER, VA",
+  "waterbody": "ABRAMS CREEK NEAR WINCHESTER, VA",
+  "state": "VA",
+  "latitude": 39.1778819,
+  "longitude": -78.0858325,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01616000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

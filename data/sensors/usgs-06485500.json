@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06485500",
+  "key": "06485500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06485500",
+  "name": "BIG SIOUX RIVER AT AKRON, IA",
+  "waterbody": "BIG SIOUX RIVER AT AKRON, IA",
+  "state": "IA",
+  "latitude": 42.8375091,
+  "longitude": -96.5619306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AKRI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/akri4",
+  "slug": "usgs-06485500",
+  "noaaForecastPath": "data/noaa-forecast/AKRI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

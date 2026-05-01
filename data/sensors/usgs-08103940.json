@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08103940",
+  "key": "08103940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08103940",
+  "name": "Lampasas Rv at Ding Dong, TX",
+  "waterbody": "Lampasas Rv at Ding Dong, TX",
+  "state": "TX",
+  "latitude": 30.97252778,
+  "longitude": -97.7785278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08103940",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

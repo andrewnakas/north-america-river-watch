@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03486311",
+  "key": "03486311",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03486311",
+  "name": "SINKING CR AT HWY 67 AT JOHNSON CITY, TN",
+  "waterbody": "SINKING CR AT HWY 67 AT JOHNSON CITY, TN",
+  "state": "TN",
+  "latitude": 36.3114955,
+  "longitude": -82.3298604,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03486311",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

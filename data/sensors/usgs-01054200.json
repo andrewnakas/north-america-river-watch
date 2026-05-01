@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01054200",
+  "key": "01054200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01054200",
+  "name": "Wild River at Gilead, Maine",
+  "waterbody": "Wild River at Gilead, Maine",
+  "state": "ME",
+  "latitude": 44.39055556,
+  "longitude": -70.9797222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GILM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wild River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gilm1",
+  "slug": "usgs-01054200",
+  "noaaForecastPath": "data/noaa-forecast/GILM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

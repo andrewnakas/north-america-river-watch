@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08382600",
+  "key": "08382600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08382600",
+  "name": "PECOS R ABV CANON DEL UTA NR COLONIAS, NM",
+  "waterbody": "PECOS R ABV CANON DEL UTA NR COLONIAS, NM",
+  "state": "NM",
+  "latitude": 35.09138889,
+  "longitude": -104.8005556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08382600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

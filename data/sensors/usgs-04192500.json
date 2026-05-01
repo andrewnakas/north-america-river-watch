@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04192500",
+  "key": "04192500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04192500",
+  "name": "Maumee River near Defiance OH",
+  "waterbody": "Maumee River near Defiance OH",
+  "state": "OH",
+  "latitude": 41.2919928,
+  "longitude": -84.2810573,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DFNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maumee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dfno1",
+  "slug": "usgs-04192500",
+  "noaaForecastPath": "data/noaa-forecast/DFNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067555",
+  "key": "08067555",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067555",
+  "name": "East Sandy Ck at FM 1374 nr New Waverly, TX",
+  "waterbody": "East Sandy Ck at FM 1374 nr New Waverly, TX",
+  "state": "TX",
+  "latitude": 30.58396389,
+  "longitude": -95.5662611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067555",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

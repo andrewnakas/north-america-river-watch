@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08111051",
+  "key": "08111051",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111051",
+  "name": "Carters Ck at FM 60 nr College Station, TX",
+  "waterbody": "Carters Ck at FM 60 nr College Station, TX",
+  "state": "TX",
+  "latitude": 30.64173333,
+  "longitude": -96.308125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carters Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cakt2",
+  "slug": "usgs-08111051",
+  "noaaForecastPath": "data/noaa-forecast/CAKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02193500",
+  "key": "02193500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02193500",
+  "name": "LITTLE RIVER NEAR WASHINGTON, GA",
+  "waterbody": "LITTLE RIVER NEAR WASHINGTON, GA",
+  "state": "GA",
+  "latitude": 33.61277778,
+  "longitude": -82.7425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little  River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtng1",
+  "slug": "usgs-02193500",
+  "noaaForecastPath": "data/noaa-forecast/WTNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

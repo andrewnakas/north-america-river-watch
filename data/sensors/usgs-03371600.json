@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03371600",
+  "key": "03371600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03371600",
+  "name": "SOUTH FORK SALT CREEK AT KURTZ, IN",
+  "waterbody": "SOUTH FORK SALT CREEK AT KURTZ, IN",
+  "state": "IN",
+  "latitude": 38.96302778,
+  "longitude": -86.2034722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRZI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Salt Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krzi3",
+  "slug": "usgs-03371600",
+  "noaaForecastPath": "data/noaa-forecast/KRZI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

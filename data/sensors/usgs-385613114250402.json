@@ -1,0 +1,22 @@
+{
+  "id": "usgs:385613114250402",
+  "key": "385613114250402",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "385613114250402",
+  "name": "SHOSHONE POND WELL 2 OUTFLOW",
+  "waterbody": "SHOSHONE POND WELL 2 OUTFLOW",
+  "state": "NV",
+  "latitude": 38.9365,
+  "longitude": -114.41895,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPFN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoshone Pond Outflow",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spfn2",
+  "slug": "usgs-385613114250402",
+  "noaaForecastPath": "data/noaa-forecast/SPFN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

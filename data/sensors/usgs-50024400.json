@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50024400",
+  "key": "50024400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50024400",
+  "name": "RIO VIVI NR UTUADO, PR",
+  "waterbody": "RIO VIVI NR UTUADO, PR",
+  "state": "PR",
+  "latitude": 18.25356565,
+  "longitude": -66.6787849,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50024400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

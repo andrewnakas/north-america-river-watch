@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13337095",
+  "key": "13337095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13337095",
+  "name": "UPPER CLEAR CREEK NEAR KOOSKIA, ID",
+  "waterbody": "UPPER CLEAR CREEK NEAR KOOSKIA, ID",
+  "state": "ID",
+  "latitude": 46.0470361,
+  "longitude": -115.866161,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13337095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

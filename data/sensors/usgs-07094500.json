@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07094500",
+  "key": "07094500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07094500",
+  "name": "ARKANSAS RIVER AT PARKDALE, CO.",
+  "waterbody": "ARKANSAS RIVER AT PARKDALE, CO.",
+  "state": "CO",
+  "latitude": 38.487222,
+  "longitude": -105.373056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdlc2",
+  "slug": "usgs-07094500",
+  "noaaForecastPath": "data/noaa-forecast/PDLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

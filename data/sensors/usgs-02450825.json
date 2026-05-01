@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02450825",
+  "key": "02450825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02450825",
+  "name": "CLEAR C AT NEW HOPE CHURCH NR POPLAR SPRINGS, AL.",
+  "waterbody": "CLEAR C AT NEW HOPE CHURCH NR POPLAR SPRINGS, AL.",
+  "state": "AL",
+  "latitude": 34.08121506,
+  "longitude": -87.422793,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POPA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/popa1",
+  "slug": "usgs-02450825",
+  "noaaForecastPath": "data/noaa-forecast/POPA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

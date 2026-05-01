@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08375300",
+  "key": "08375300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08375300",
+  "name": "Rio Grande at Rio Grande Village, Big Bnd NP, TX",
+  "waterbody": "Rio Grande at Rio Grande Village, Big Bnd NP, TX",
+  "state": "TX",
+  "latitude": 29.1835386,
+  "longitude": -102.9754409,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOQT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boqt2",
+  "slug": "usgs-08375300",
+  "noaaForecastPath": "data/noaa-forecast/BOQT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

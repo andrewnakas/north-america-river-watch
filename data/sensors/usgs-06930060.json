@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06930060",
+  "key": "06930060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06930060",
+  "name": "Big Piney below Fort Leonard Wood, MO",
+  "waterbody": "Big Piney below Fort Leonard Wood, MO",
+  "state": "MO",
+  "latitude": 37.76025,
+  "longitude": -92.0579722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIGM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Piney",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bigm7",
+  "slug": "usgs-06930060",
+  "noaaForecastPath": "data/noaa-forecast/BIGM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05338500",
+  "key": "05338500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05338500",
+  "name": "SNAKE RIVER NEAR PINE CITY, MN",
+  "waterbody": "SNAKE RIVER NEAR PINE CITY, MN",
+  "state": "MN",
+  "latitude": 45.83986823,
+  "longitude": -92.93631879,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNCM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pncm5",
+  "slug": "usgs-05338500",
+  "noaaForecastPath": "data/noaa-forecast/PNCM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11458500",
+  "key": "11458500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11458500",
+  "name": "SONOMA C A AGUA CALIENTE CA",
+  "waterbody": "SONOMA C A AGUA CALIENTE CA",
+  "state": "CA",
+  "latitude": 38.32321159,
+  "longitude": -122.4943873,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AGCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sonoma Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/agcc1",
+  "slug": "usgs-11458500",
+  "noaaForecastPath": "data/noaa-forecast/AGCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

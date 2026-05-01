@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14167000",
+  "key": "14167000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14167000",
+  "name": "COYOTE CREEK NEAR CROW, OREG.",
+  "waterbody": "COYOTE CREEK NEAR CROW, OREG.",
+  "state": "OR",
+  "latitude": 44.0217904,
+  "longitude": -123.255926,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14167000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

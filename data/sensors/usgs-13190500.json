@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13190500",
+  "key": "13190500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13190500",
+  "name": "SF BOISE RIVER AT ANDERSON RANCH DAM ID",
+  "waterbody": "SF BOISE RIVER AT ANDERSON RANCH DAM ID",
+  "state": "ID",
+  "latitude": 43.3436111,
+  "longitude": -115.4775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANDI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Boise River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/andi1",
+  "slug": "usgs-13190500",
+  "noaaForecastPath": "data/noaa-forecast/ANDI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

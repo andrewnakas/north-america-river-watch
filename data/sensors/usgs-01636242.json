@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01636242",
+  "key": "01636242",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01636242",
+  "name": "CROOKED RUN BELOW HWY 340 AT RIVERTON, VA",
+  "waterbody": "CROOKED RUN BELOW HWY 340 AT RIVERTON, VA",
+  "state": "VA",
+  "latitude": 38.9551101,
+  "longitude": -78.1972225,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01636242",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

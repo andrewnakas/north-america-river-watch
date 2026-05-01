@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11136710",
+  "key": "11136710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11136710",
+  "name": "CUYAMA R NR NEW CUYAMA CA",
+  "waterbody": "CUYAMA R NR NEW CUYAMA CA",
+  "state": "CA",
+  "latitude": 35.0561111,
+  "longitude": -119.9595472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11136710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

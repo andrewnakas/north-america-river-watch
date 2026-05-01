@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06400000",
+  "key": "06400000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06400000",
+  "name": "HAT CREEK NEAR EDGEMONT,SD",
+  "waterbody": "HAT CREEK NEAR EDGEMONT,SD",
+  "state": "SD",
+  "latitude": 43.2399736,
+  "longitude": -103.5882519,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HATS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hat Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hats2",
+  "slug": "usgs-06400000",
+  "noaaForecastPath": "data/noaa-forecast/HATS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

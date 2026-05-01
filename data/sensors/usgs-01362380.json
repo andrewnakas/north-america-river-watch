@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362380",
+  "key": "01362380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362380",
+  "name": "STONY CLOVE CREEK NEAR PHOENICIA NY",
+  "waterbody": "STONY CLOVE CREEK NEAR PHOENICIA NY",
+  "state": "NY",
+  "latitude": 42.09814568,
+  "longitude": -74.31709199,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362380",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

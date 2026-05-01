@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03044810",
+  "key": "03044810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03044810",
+  "name": "Linn Run at Linn Run State Park near Rector, PA",
+  "waterbody": "Linn Run at Linn Run State Park near Rector, PA",
+  "state": "PA",
+  "latitude": 40.16888889,
+  "longitude": -79.23388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03044810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

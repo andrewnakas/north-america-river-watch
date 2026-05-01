@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12323242",
+  "key": "12323242",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12323242",
+  "name": "Silver Bow Creek at Montana Street, at Butte, MT",
+  "waterbody": "Silver Bow Creek at Montana Street, at Butte, MT",
+  "state": "MT",
+  "latitude": 45.99572778,
+  "longitude": -112.538761,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12323242",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

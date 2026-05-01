@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08150800",
+  "key": "08150800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08150800",
+  "name": "Beaver Ck nr Mason, TX",
+  "waterbody": "Beaver Ck nr Mason, TX",
+  "state": "TX",
+  "latitude": 30.64351548,
+  "longitude": -99.0958848,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (Llano River Basin)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbct2",
+  "slug": "usgs-08150800",
+  "noaaForecastPath": "data/noaa-forecast/MBCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

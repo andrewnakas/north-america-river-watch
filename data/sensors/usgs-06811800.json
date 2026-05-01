@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06811800",
+  "key": "06811800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06811800",
+  "name": "East Tarkio Creek near Stanton, IA",
+  "waterbody": "East Tarkio Creek near Stanton, IA",
+  "state": "IA",
+  "latitude": 41.07999087,
+  "longitude": -95.093044,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ETRI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Tarkio Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/etri4",
+  "slug": "usgs-06811800",
+  "noaaForecastPath": "data/noaa-forecast/ETRI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

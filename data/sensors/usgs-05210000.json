@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05210000",
+  "key": "05210000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05210000",
+  "name": "MISSISSIPPI R. AT DAYS HIGH LANDING NR DEER RIVER",
+  "waterbody": "MISSISSIPPI R. AT DAYS HIGH LANDING NR DEER RIVER",
+  "state": "MN",
+  "latitude": 47.25203449,
+  "longitude": -93.8040781,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAYM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi R.",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/daym5",
+  "slug": "usgs-05210000",
+  "noaaForecastPath": "data/noaa-forecast/DAYM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

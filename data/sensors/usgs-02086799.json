@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02086799",
+  "key": "02086799",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02086799",
+  "name": "GOOSE CREEK AT CAMDEN AVENUE AT DURHAM, NC",
+  "waterbody": "GOOSE CREEK AT CAMDEN AVENUE AT DURHAM, NC",
+  "state": "NC",
+  "latitude": 36.02455,
+  "longitude": -78.8605694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02086799",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

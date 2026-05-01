@@ -1,0 +1,19 @@
+{
+  "id": "usgs:073816501",
+  "key": "073816501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073816501",
+  "name": "Avoca Island Cutoff south of Morgan City, LA",
+  "waterbody": "Avoca Island Cutoff south of Morgan City, LA",
+  "state": "LA",
+  "latitude": 29.5386111,
+  "longitude": -91.2458333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-073816501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

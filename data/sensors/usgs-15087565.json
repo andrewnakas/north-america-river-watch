@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15087565",
+  "key": "15087565",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087565",
+  "name": "GUNNUK C NR KAKE AK",
+  "waterbody": "GUNNUK C NR KAKE AK",
+  "state": "AK",
+  "latitude": 56.97902778,
+  "longitude": -133.9300278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15087565",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

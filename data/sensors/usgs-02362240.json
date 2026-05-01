@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02362240",
+  "key": "02362240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02362240",
+  "name": "LITTLE DOUBLE BRIDGES CREEK NR ENTERPRISE, AL.",
+  "waterbody": "LITTLE DOUBLE BRIDGES CREEK NR ENTERPRISE, AL.",
+  "state": "AL",
+  "latitude": 31.272222,
+  "longitude": -85.958333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LDBA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Double Bridges Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ldba1",
+  "slug": "usgs-02362240",
+  "noaaForecastPath": "data/noaa-forecast/LDBA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

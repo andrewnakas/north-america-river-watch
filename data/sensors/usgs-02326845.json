@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02326845",
+  "key": "02326845",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326845",
+  "name": "LAFAYETTE CRK AT WEEMS RD TALLAHASSEE FL",
+  "waterbody": "LAFAYETTE CRK AT WEEMS RD TALLAHASSEE FL",
+  "state": "FL",
+  "latitude": 30.45547844,
+  "longitude": -84.2223976,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKVF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Park Avenue Drainage",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkvf1",
+  "slug": "usgs-02326845",
+  "noaaForecastPath": "data/noaa-forecast/PKVF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

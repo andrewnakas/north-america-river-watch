@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610780",
+  "key": "06610780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610780",
+  "name": "West Papillion Creek at Pacific St at Omaha, Nebr.",
+  "waterbody": "West Papillion Creek at Pacific St at Omaha, Nebr.",
+  "state": "NE",
+  "latitude": 41.24841111,
+  "longitude": -96.16813333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewdn1",
+  "slug": "usgs-06610780",
+  "noaaForecastPath": "data/noaa-forecast/EWDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0810588650",
+  "key": "0810588650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0810588650",
+  "name": "UBC Dam 101 at O'Connor Blvd nr Round Rock, TX",
+  "waterbody": "UBC Dam 101 at O'Connor Blvd nr Round Rock, TX",
+  "state": "TX",
+  "latitude": 30.48413611,
+  "longitude": -97.72003889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0810588650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

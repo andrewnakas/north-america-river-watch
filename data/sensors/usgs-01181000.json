@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01181000",
+  "key": "01181000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01181000",
+  "name": "WEST BRANCH WESTFIELD RIVER AT HUNTINGTON, MA",
+  "waterbody": "WEST BRANCH WESTFIELD RIVER AT HUNTINGTON, MA",
+  "state": "MA",
+  "latitude": 42.23731169,
+  "longitude": -72.895654,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNTM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Westfield River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hntm3",
+  "slug": "usgs-01181000",
+  "noaaForecastPath": "data/noaa-forecast/HNTM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251946080254800",
+  "key": "251946080254800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251946080254800",
+  "name": "EVERGLADES 1 IN C-111 BASIN NR HOMESTEAD, FL",
+  "waterbody": "EVERGLADES 1 IN C-111 BASIN NR HOMESTEAD, FL",
+  "state": "FL",
+  "latitude": 25.33033333,
+  "longitude": -80.4351667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251946080254800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

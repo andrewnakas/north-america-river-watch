@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03364500",
+  "key": "03364500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03364500",
+  "name": "CLIFTY CREEK AT HARTSVILLE, IN",
+  "waterbody": "CLIFTY CREEK AT HARTSVILLE, IN",
+  "state": "IN",
+  "latitude": 39.2747637,
+  "longitude": -85.7016201,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCHI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clifty Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cchi3",
+  "slug": "usgs-03364500",
+  "noaaForecastPath": "data/noaa-forecast/CCHI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

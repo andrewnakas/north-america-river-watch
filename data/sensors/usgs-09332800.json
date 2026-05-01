@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09332800",
+  "key": "09332800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09332800",
+  "name": "MUDDY CREEK AT MOUTH NR HANKSVILLE, UTAH",
+  "waterbody": "MUDDY CREEK AT MOUTH NR HANKSVILLE, UTAH",
+  "state": "UT",
+  "latitude": 38.4027598,
+  "longitude": -110.700705,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09332800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08111080",
+  "key": "08111080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111080",
+  "name": "Grassy Ck at SH 105 nr Navasota, TX",
+  "waterbody": "Grassy Ck at SH 105 nr Navasota, TX",
+  "state": "TX",
+  "latitude": 30.35330556,
+  "longitude": -95.9962778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grassy Creek",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gyst2",
+  "slug": "usgs-08111080",
+  "noaaForecastPath": "data/noaa-forecast/GYST2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

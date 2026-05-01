@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09378600",
+  "key": "09378600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09378600",
+  "name": "MONTEZUMA CREEK NEAR BLUFF, UTAH",
+  "waterbody": "MONTEZUMA CREEK NEAR BLUFF, UTAH",
+  "state": "UT",
+  "latitude": 37.2716111,
+  "longitude": -109.3286,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09378600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

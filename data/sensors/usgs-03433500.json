@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03433500",
+  "key": "03433500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03433500",
+  "name": "HARPETH RIVER AT BELLEVUE, TN",
+  "waterbody": "HARPETH RIVER AT BELLEVUE, TN",
+  "state": "TN",
+  "latitude": 36.0545965,
+  "longitude": -86.9285018,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BELT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Harpeth River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/belt1",
+  "slug": "usgs-03433500",
+  "noaaForecastPath": "data/noaa-forecast/BELT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

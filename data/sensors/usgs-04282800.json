@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04282800",
+  "key": "04282800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282800",
+  "name": "MUNROE BROOK AT SHELBURNE, VT",
+  "waterbody": "MUNROE BROOK AT SHELBURNE, VT",
+  "state": "VT",
+  "latitude": 44.4061111,
+  "longitude": -73.2175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04282800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

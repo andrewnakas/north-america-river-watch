@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07218680",
+  "key": "07218680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07218680",
+  "name": "RITO SAN JOSE AT LOWER ROCIADA, NM",
+  "waterbody": "RITO SAN JOSE AT LOWER ROCIADA, NM",
+  "state": "NM",
+  "latitude": 35.83656667,
+  "longitude": -105.4164389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07218680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

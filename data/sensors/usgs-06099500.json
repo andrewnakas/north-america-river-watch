@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06099500",
+  "key": "06099500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06099500",
+  "name": "Marias River near Shelby MT",
+  "waterbody": "Marias River near Shelby MT",
+  "state": "MT",
+  "latitude": 48.4271972,
+  "longitude": -111.889836,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marias River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shlm8",
+  "slug": "usgs-06099500",
+  "noaaForecastPath": "data/noaa-forecast/SHLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

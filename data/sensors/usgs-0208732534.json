@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208732534",
+  "key": "0208732534",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208732534",
+  "name": "PIGEON HOUSE CR AT CAMERON VILLAGE AT RALEIGH, NC",
+  "waterbody": "PIGEON HOUSE CR AT CAMERON VILLAGE AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.7875,
+  "longitude": -78.6547222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIGN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon House Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pign7",
+  "slug": "usgs-0208732534",
+  "noaaForecastPath": "data/noaa-forecast/PIGN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

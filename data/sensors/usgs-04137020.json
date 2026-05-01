@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04137020",
+  "key": "04137020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04137020",
+  "name": "AU SABLE RIVER NEAR SOUTH BRANCH, MI",
+  "waterbody": "AU SABLE RIVER NEAR SOUTH BRANCH, MI",
+  "state": "MI",
+  "latitude": 44.46334886,
+  "longitude": -83.7213714,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04137020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

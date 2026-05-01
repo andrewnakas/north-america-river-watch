@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04117500",
+  "key": "04117500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04117500",
+  "name": "THORNAPPLE RIVER NEAR HASTINGS, MI",
+  "waterbody": "THORNAPPLE RIVER NEAR HASTINGS, MI",
+  "state": "MI",
+  "latitude": 42.6158688,
+  "longitude": -85.2363933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HSTM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thornapple River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hstm4",
+  "slug": "usgs-04117500",
+  "noaaForecastPath": "data/noaa-forecast/HSTM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

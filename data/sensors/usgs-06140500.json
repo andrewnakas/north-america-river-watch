@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06140500",
+  "key": "06140500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06140500",
+  "name": "Milk River at Havre MT",
+  "waterbody": "Milk River at Havre MT",
+  "state": "MT",
+  "latitude": 48.5636861,
+  "longitude": -109.6959556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HVRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Milk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hvrm8",
+  "slug": "usgs-06140500",
+  "noaaForecastPath": "data/noaa-forecast/HVRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

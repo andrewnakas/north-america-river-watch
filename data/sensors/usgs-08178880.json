@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178880",
+  "key": "08178880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178880",
+  "name": "Medina Rv at Bandera, TX",
+  "waterbody": "Medina Rv at Bandera, TX",
+  "state": "TX",
+  "latitude": 29.72383537,
+  "longitude": -99.070035,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdat2",
+  "slug": "usgs-08178880",
+  "noaaForecastPath": "data/noaa-forecast/BDAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

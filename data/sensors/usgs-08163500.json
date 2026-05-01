@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08163500",
+  "key": "08163500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08163500",
+  "name": "Lavaca Rv at Hallettsville, TX",
+  "waterbody": "Lavaca Rv at Hallettsville, TX",
+  "state": "TX",
+  "latitude": 29.4432973,
+  "longitude": -96.9449819,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lavaca River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htst2",
+  "slug": "usgs-08163500",
+  "noaaForecastPath": "data/noaa-forecast/HTST2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

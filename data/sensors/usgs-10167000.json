@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10167000",
+  "key": "10167000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10167000",
+  "name": "JORDAN RIVER AT NARROWS NEAR LEHI, UTAH",
+  "waterbody": "JORDAN RIVER AT NARROWS NEAR LEHI, UTAH",
+  "state": "UT",
+  "latitude": 40.4438384,
+  "longitude": -111.9221572,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10167000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

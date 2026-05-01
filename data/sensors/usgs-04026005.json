@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04026005",
+  "key": "04026005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04026005",
+  "name": "BOIS BRULE RIVER NEAR LAKE SUPERIOR, WI",
+  "waterbody": "BOIS BRULE RIVER NEAR LAKE SUPERIOR, WI",
+  "state": "WI",
+  "latitude": 46.7055374,
+  "longitude": -91.6021071,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04026005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

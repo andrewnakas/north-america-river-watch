@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05365550",
+  "key": "05365550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05365550",
+  "name": "CHIPPEWA RIVER BELOW DELLS DAM AT EAU CLAIRE, WI",
+  "waterbody": "CHIPPEWA RIVER BELOW DELLS DAM AT EAU CLAIRE, WI",
+  "state": "WI",
+  "latitude": 44.8225833,
+  "longitude": -91.5076111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECTW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River (WI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ectw3",
+  "slug": "usgs-05365550",
+  "noaaForecastPath": "data/noaa-forecast/ECTW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

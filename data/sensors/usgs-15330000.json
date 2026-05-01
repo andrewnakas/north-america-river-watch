@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15330000",
+  "key": "15330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15330000",
+  "name": "NF FORTYMILE R AB MF NR FRANKLIN AK",
+  "waterbody": "NF FORTYMILE R AB MF NR FRANKLIN AK",
+  "state": "AK",
+  "latitude": 64.4668333,
+  "longitude": -142.21625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15330000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

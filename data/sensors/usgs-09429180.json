@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429180",
+  "key": "09429180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429180",
+  "name": "PVID D23 SPILL NEAR BLYTHE, CA",
+  "waterbody": "PVID D23 SPILL NEAR BLYTHE, CA",
+  "state": "CA",
+  "latitude": 33.4918,
+  "longitude": -114.603611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

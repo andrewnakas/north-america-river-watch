@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06303500",
+  "key": "06303500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06303500",
+  "name": "LITTLE GOOSE CREEK IN CANYON, NEAR BIG HORN, WY",
+  "waterbody": "LITTLE GOOSE CREEK IN CANYON, NEAR BIG HORN, WY",
+  "state": "WY",
+  "latitude": 44.5959722,
+  "longitude": -107.0397222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGCW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Goose Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgcw4",
+  "slug": "usgs-06303500",
+  "noaaForecastPath": "data/noaa-forecast/LGCW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

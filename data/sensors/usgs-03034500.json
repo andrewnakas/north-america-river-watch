@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03034500",
+  "key": "03034500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03034500",
+  "name": "Little Mahoning Creek at McCormick, PA",
+  "waterbody": "Little Mahoning Creek at McCormick, PA",
+  "state": "PA",
+  "latitude": 40.8361756,
+  "longitude": -79.1100356,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Mahoning Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcrp1",
+  "slug": "usgs-03034500",
+  "noaaForecastPath": "data/noaa-forecast/MCRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

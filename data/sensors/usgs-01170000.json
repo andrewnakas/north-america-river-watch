@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01170000",
+  "key": "01170000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01170000",
+  "name": "DEERFIELD RIVER NEAR WEST DEERFIELD, MA",
+  "waterbody": "DEERFIELD RIVER NEAR WEST DEERFIELD, MA",
+  "state": "MA",
+  "latitude": 42.53591957,
+  "longitude": -72.65342328,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDEM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deerfield River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdem3",
+  "slug": "usgs-01170000",
+  "noaaForecastPath": "data/noaa-forecast/WDEM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

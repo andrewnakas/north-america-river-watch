@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03599000",
+  "key": "03599000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03599000",
+  "name": "BIG ROCK CREEK AT LEWISBURG, TN",
+  "waterbody": "BIG ROCK CREEK AT LEWISBURG, TN",
+  "state": "TN",
+  "latitude": 35.44896258,
+  "longitude": -86.785833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03599000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

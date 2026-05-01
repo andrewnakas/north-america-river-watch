@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01466510",
+  "key": "01466510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466510",
+  "name": "McDonalds B 2000' ds ff gage in Byrne State For NJ",
+  "waterbody": "McDonalds B 2000' ds ff gage in Byrne State For NJ",
+  "state": "NJ",
+  "latitude": 39.88352778,
+  "longitude": -74.5113333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01466510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

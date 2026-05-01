@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08063030",
+  "key": "08063030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08063030",
+  "name": "Ash Ck at Hwy 171 nr Malone, TX",
+  "waterbody": "Ash Ck at Hwy 171 nr Malone, TX",
+  "state": "TX",
+  "latitude": 31.90955833,
+  "longitude": -96.8814639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08063030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

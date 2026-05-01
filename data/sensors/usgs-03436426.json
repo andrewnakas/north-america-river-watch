@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03436426",
+  "key": "03436426",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03436426",
+  "name": "LITTLE WEST FORK NEAR FORT CAMPBELL, KY-TN",
+  "waterbody": "LITTLE WEST FORK NEAR FORT CAMPBELL, KY-TN",
+  "state": "TN",
+  "latitude": 36.6103258,
+  "longitude": -87.4697331,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03436426",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

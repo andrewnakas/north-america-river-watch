@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14326510",
+  "key": "14326510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14326510",
+  "name": "SF COQUILLE RIVER AT MYRTLE POINT, OR",
+  "waterbody": "SF COQUILLE RIVER AT MYRTLE POINT, OR",
+  "state": "OR",
+  "latitude": 43.06566537,
+  "longitude": -124.1470479,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYPO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fk Coquille River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mypo3",
+  "slug": "usgs-14326510",
+  "noaaForecastPath": "data/noaa-forecast/MYPO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

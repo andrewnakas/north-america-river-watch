@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03049681",
+  "key": "03049681",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049681",
+  "name": "Allegheny R at L&D 2 (lower pool) at Aspinwall, PA",
+  "waterbody": "Allegheny R at L&D 2 (lower pool) at Aspinwall, PA",
+  "state": "PA",
+  "latitude": 40.4881361,
+  "longitude": -79.9173333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03049681",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

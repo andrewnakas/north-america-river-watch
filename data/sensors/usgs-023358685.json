@@ -1,0 +1,22 @@
+{
+  "id": "usgs:023358685",
+  "key": "023358685",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023358685",
+  "name": "SEWELL MILL CREEK AT GA 120, NEAR MARIETTA, GA",
+  "waterbody": "SEWELL MILL CREEK AT GA 120, NEAR MARIETTA, GA",
+  "state": "GA",
+  "latitude": 33.97902778,
+  "longitude": -84.4520278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sewell Mill Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smcg1",
+  "slug": "usgs-023358685",
+  "noaaForecastPath": "data/noaa-forecast/SMCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04116500",
+  "key": "04116500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04116500",
+  "name": "FLAT RIVER AT SMYRNA, MI",
+  "waterbody": "FLAT RIVER AT SMYRNA, MI",
+  "state": "MI",
+  "latitude": 43.05280928,
+  "longitude": -85.2647392,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMYM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smym4",
+  "slug": "usgs-04116500",
+  "noaaForecastPath": "data/noaa-forecast/SMYM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

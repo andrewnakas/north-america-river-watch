@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11159200",
+  "key": "11159200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11159200",
+  "name": "CORRALITOS C A FREEDOM CA",
+  "waterbody": "CORRALITOS C A FREEDOM CA",
+  "state": "CA",
+  "latitude": 36.9393968,
+  "longitude": -121.7705065,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GVRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Corralitos Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gvrc1",
+  "slug": "usgs-11159200",
+  "noaaForecastPath": "data/noaa-forecast/GVRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11153000",
+  "key": "11153000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11153000",
+  "name": "PACHECO C NR DUNNEVILLE CA",
+  "waterbody": "PACHECO C NR DUNNEVILLE CA",
+  "state": "CA",
+  "latitude": 36.98,
+  "longitude": -121.38027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHOC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pacheco Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phoc1",
+  "slug": "usgs-11153000",
+  "noaaForecastPath": "data/noaa-forecast/PHOC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06110020",
+  "key": "06110020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06110020",
+  "name": "Judith River above Carr Creek near Utica MT",
+  "waterbody": "Judith River above Carr Creek near Utica MT",
+  "state": "MT",
+  "latitude": 46.9177222,
+  "longitude": -110.1889444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRUM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Judith River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrum8",
+  "slug": "usgs-06110020",
+  "noaaForecastPath": "data/noaa-forecast/JRUM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

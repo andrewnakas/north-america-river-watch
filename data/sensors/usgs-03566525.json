@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03566525",
+  "key": "03566525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03566525",
+  "name": "NORTH CHICKAMAUGA CREEK NEAR MONTLAKE, TN",
+  "waterbody": "NORTH CHICKAMAUGA CREEK NEAR MONTLAKE, TN",
+  "state": "TN",
+  "latitude": 35.23840184,
+  "longitude": -85.23576419,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03566525",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

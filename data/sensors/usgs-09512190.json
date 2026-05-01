@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09512190",
+  "key": "09512190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512190",
+  "name": "SALT RIVER AT 24TH STREET AT PHOENIX",
+  "waterbody": "SALT RIVER AT 24TH STREET AT PHOENIX",
+  "state": "AZ",
+  "latitude": 33.41560044,
+  "longitude": -112.0298688,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09512190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

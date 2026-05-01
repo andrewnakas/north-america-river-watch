@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08174545",
+  "key": "08174545",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08174545",
+  "name": "Peach Ck at I-10 nr Waelder, TX",
+  "waterbody": "Peach Ck at I-10 nr Waelder, TX",
+  "state": "TX",
+  "latitude": 29.6926472,
+  "longitude": -97.2314944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08174545",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

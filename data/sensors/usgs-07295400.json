@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07295400",
+  "key": "07295400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07295400",
+  "name": "Palo Duro Ck at Westline Rd nr Umbarger, TX",
+  "waterbody": "Palo Duro Ck at Westline Rd nr Umbarger, TX",
+  "state": "TX",
+  "latitude": 35.03550556,
+  "longitude": -102.1506,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UMRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Palo Duro Creek 6NNW Umbarger",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/umrt2",
+  "slug": "usgs-07295400",
+  "noaaForecastPath": "data/noaa-forecast/UMRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

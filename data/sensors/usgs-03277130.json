@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03277130",
+  "key": "03277130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03277130",
+  "name": "MUD LICK CR AT HWY 42 NR BEAVERLICK, KY",
+  "waterbody": "MUD LICK CR AT HWY 42 NR BEAVERLICK, KY",
+  "state": "KY",
+  "latitude": 38.84504677,
+  "longitude": -84.7207555,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud Lick Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvlk2",
+  "slug": "usgs-03277130",
+  "noaaForecastPath": "data/noaa-forecast/BVLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

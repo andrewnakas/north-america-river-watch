@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10206000",
+  "key": "10206000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10206000",
+  "name": "SALINA CREEK AT SALINA, UT",
+  "waterbody": "SALINA CREEK AT SALINA, UT",
+  "state": "UT",
+  "latitude": 38.95662956,
+  "longitude": -111.8668697,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10206000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

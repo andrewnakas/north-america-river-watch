@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01576980",
+  "key": "01576980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576980",
+  "name": "Susquehanna River at Holtwood Dam at Holtwood, PA",
+  "waterbody": "Susquehanna River at Holtwood Dam at Holtwood, PA",
+  "state": "PA",
+  "latitude": 39.82788027,
+  "longitude": -76.33329279,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01576980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

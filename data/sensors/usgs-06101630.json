@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06101630",
+  "key": "06101630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06101630",
+  "name": "Marias River at Highway 223 bridge near Chester,MT",
+  "waterbody": "Marias River at Highway 223 bridge near Chester,MT",
+  "state": "MT",
+  "latitude": 48.26,
+  "longitude": -110.8916667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06101630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

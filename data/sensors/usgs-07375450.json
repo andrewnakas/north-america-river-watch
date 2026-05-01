@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07375450",
+  "key": "07375450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07375450",
+  "name": "Tangipahoa R nr Tickfaw, La.",
+  "waterbody": "Tangipahoa R nr Tickfaw, La.",
+  "state": "LA",
+  "latitude": 30.60268909,
+  "longitude": -90.438978,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRTL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tangipahoa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trtl1",
+  "slug": "usgs-07375450",
+  "noaaForecastPath": "data/noaa-forecast/TRTL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

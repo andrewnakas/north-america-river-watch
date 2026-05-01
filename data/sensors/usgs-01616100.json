@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01616100",
+  "key": "01616100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01616100",
+  "name": "DRY MARSH RUN NEAR BERRYVILLE, VA",
+  "waterbody": "DRY MARSH RUN NEAR BERRYVILLE, VA",
+  "state": "VA",
+  "latitude": 39.19259167,
+  "longitude": -78.0686306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BERV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Marsh Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/berv2",
+  "slug": "usgs-01616100",
+  "noaaForecastPath": "data/noaa-forecast/BERV2.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

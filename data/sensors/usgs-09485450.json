@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09485450",
+  "key": "09485450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09485450",
+  "name": "PANTANO WASH AT BROADWAY BLVD. AT TUCSON, AZ.",
+  "waterbody": "PANTANO WASH AT BROADWAY BLVD. AT TUCSON, AZ.",
+  "state": "AZ",
+  "latitude": 32.22083056,
+  "longitude": -110.8289278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PWBA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pantano Wash",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pwba3",
+  "slug": "usgs-09485450",
+  "noaaForecastPath": "data/noaa-forecast/PWBA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03325311",
+  "key": "03325311",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03325311",
+  "name": "LITTLE MISSISSINEWA RIVER AT UNION CITY, IN",
+  "waterbody": "LITTLE MISSISSINEWA RIVER AT UNION CITY, IN",
+  "state": "IN",
+  "latitude": 40.19614085,
+  "longitude": -84.82909089,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03325311",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01472000",
+  "key": "01472000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01472000",
+  "name": "Schuylkill River at Pottstown, PA",
+  "waterbody": "Schuylkill River at Pottstown, PA",
+  "state": "PA",
+  "latitude": 40.2417631,
+  "longitude": -75.6515752,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schuylkill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptnp1",
+  "slug": "usgs-01472000",
+  "noaaForecastPath": "data/noaa-forecast/PTNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

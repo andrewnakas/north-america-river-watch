@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02423630",
+  "key": "02423630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02423630",
+  "name": "SHADES CREEK NEAR GREENWOOD AL",
+  "waterbody": "SHADES CREEK NEAR GREENWOOD AL",
+  "state": "AL",
+  "latitude": 33.3262234,
+  "longitude": -86.9497141,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GWDA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shades Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gwda1",
+  "slug": "usgs-02423630",
+  "noaaForecastPath": "data/noaa-forecast/GWDA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

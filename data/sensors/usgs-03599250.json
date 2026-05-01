@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03599250",
+  "key": "03599250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03599250",
+  "name": "DUCK RIVER AT MILLTOWN (LILLARD'S MILL), TN",
+  "waterbody": "DUCK RIVER AT MILLTOWN (LILLARD'S MILL), TN",
+  "state": "TN",
+  "latitude": 35.58618158,
+  "longitude": -86.7863883,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03599250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

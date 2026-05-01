@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13247500",
+  "key": "13247500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13247500",
+  "name": "PAYETTE RIVER NR HORSESHOE BEND ID",
+  "waterbody": "PAYETTE RIVER NR HORSESHOE BEND ID",
+  "state": "ID",
+  "latitude": 43.943333,
+  "longitude": -116.196667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Payette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrsi1",
+  "slug": "usgs-13247500",
+  "noaaForecastPath": "data/noaa-forecast/HRSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

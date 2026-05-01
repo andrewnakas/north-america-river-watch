@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07179500",
+  "key": "07179500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179500",
+  "name": "NEOSHO R AT COUNCIL GROVE, KS",
+  "waterbody": "NEOSHO R AT COUNCIL GROVE, KS",
+  "state": "KS",
+  "latitude": 38.66584085,
+  "longitude": -96.493614,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07179500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

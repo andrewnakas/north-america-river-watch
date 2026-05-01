@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16114000",
+  "key": "16114000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16114000",
+  "name": "Limahuli Str nr Wainiha, Kauai, HI",
+  "waterbody": "Limahuli Str nr Wainiha, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.21769444,
+  "longitude": -159.5771833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16114000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

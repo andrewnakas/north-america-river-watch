@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05289800",
+  "key": "05289800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05289800",
+  "name": "MINNEHAHA CREEK AT HIAWATHA AVE. IN MINNEAPOLIS,MN",
+  "waterbody": "MINNEHAHA CREEK AT HIAWATHA AVE. IN MINNEAPOLIS,MN",
+  "state": "MN",
+  "latitude": 44.91550278,
+  "longitude": -93.21293889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPAM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spam5",
+  "slug": "usgs-05289800",
+  "noaaForecastPath": "data/noaa-forecast/SPAM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02197600",
+  "key": "02197600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197600",
+  "name": "BRUSHY CREEK NEAR WRENS, GA",
+  "waterbody": "BRUSHY CREEK NEAR WRENS, GA",
+  "state": "GA",
+  "latitude": 33.17709065,
+  "longitude": -82.3056793,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02197600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

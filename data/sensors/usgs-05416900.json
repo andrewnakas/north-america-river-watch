@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05416900",
+  "key": "05416900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05416900",
+  "name": "Maquoketa River at Manchester, IA",
+  "waterbody": "Maquoketa River at Manchester, IA",
+  "state": "IA",
+  "latitude": 42.4699878,
+  "longitude": -91.4487147,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCHI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maquoketa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mchi4",
+  "slug": "usgs-05416900",
+  "noaaForecastPath": "data/noaa-forecast/MCHI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

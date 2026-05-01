@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442760",
+  "key": "09442760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442760",
+  "name": "SAN FRANCISCO DITCH NEAR RESERVE, NM",
+  "waterbody": "SAN FRANCISCO DITCH NEAR RESERVE, NM",
+  "state": "NM",
+  "latitude": 33.6725,
+  "longitude": -108.7841667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442760",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06357600",
+  "key": "06357600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06357600",
+  "name": "GRAND RIVER NEAR THUNDER HAWK, SD",
+  "waterbody": "GRAND RIVER NEAR THUNDER HAWK, SD",
+  "state": "SD",
+  "latitude": 45.7120972,
+  "longitude": -101.9207083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTHS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River (SD)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gths2",
+  "slug": "usgs-06357600",
+  "noaaForecastPath": "data/noaa-forecast/GTHS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

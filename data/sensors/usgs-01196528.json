@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01196528",
+  "key": "01196528",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01196528",
+  "name": "QUINNIPIAC RIVER US RTE 22 AT N HAVEN, CT",
+  "waterbody": "QUINNIPIAC RIVER US RTE 22 AT N HAVEN, CT",
+  "state": "CT",
+  "latitude": 41.39795,
+  "longitude": -72.86820556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01196528",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

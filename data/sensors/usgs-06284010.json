@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06284010",
+  "key": "06284010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06284010",
+  "name": "Shoshone River bl Willwood Dam, nr Ralston, WY",
+  "waterbody": "Shoshone River bl Willwood Dam, nr Ralston, WY",
+  "state": "WY",
+  "latitude": 44.6717583,
+  "longitude": -108.9153944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLLW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoshone River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wllw4",
+  "slug": "usgs-06284010",
+  "noaaForecastPath": "data/noaa-forecast/WLLW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

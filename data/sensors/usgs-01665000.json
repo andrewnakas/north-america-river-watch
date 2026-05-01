@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01665000",
+  "key": "01665000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01665000",
+  "name": "MOUNTAIN RUN NEAR CULPEPER, VA",
+  "waterbody": "MOUNTAIN RUN NEAR CULPEPER, VA",
+  "state": "VA",
+  "latitude": 38.47818135,
+  "longitude": -78.0486094,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01665000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

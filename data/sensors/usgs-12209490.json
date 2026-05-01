@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12209490",
+  "key": "12209490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12209490",
+  "name": "SKOOKUM CREEK ABOVE DIVERSION NEAR WICKERSHAM, WA",
+  "waterbody": "SKOOKUM CREEK ABOVE DIVERSION NEAR WICKERSHAM, WA",
+  "state": "WA",
+  "latitude": 48.6728524,
+  "longitude": -122.139296,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12209490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

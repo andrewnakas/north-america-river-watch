@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11304200",
+  "key": "11304200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11304200",
+  "name": "SAN JOAQUIN R A MOSSDALE",
+  "waterbody": "SAN JOAQUIN R A MOSSDALE",
+  "state": "CA",
+  "latitude": 37.7860388,
+  "longitude": -121.3079988,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Joaquin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mosc1",
+  "slug": "usgs-11304200",
+  "noaaForecastPath": "data/noaa-forecast/MOSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

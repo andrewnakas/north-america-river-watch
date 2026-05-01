@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08211800",
+  "key": "08211800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08211800",
+  "name": "San Diego Ck at Alice, TX",
+  "waterbody": "San Diego Ck at Alice, TX",
+  "state": "TX",
+  "latitude": 27.76663889,
+  "longitude": -98.0755556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Diego Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acet2",
+  "slug": "usgs-08211800",
+  "noaaForecastPath": "data/noaa-forecast/ACET2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

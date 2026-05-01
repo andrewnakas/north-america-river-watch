@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208460",
+  "key": "04208460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208460",
+  "name": "Mill Creek at Garfield Hts OH",
+  "waterbody": "Mill Creek at Garfield Hts OH",
+  "state": "OH",
+  "latitude": 41.4239415,
+  "longitude": -81.6376266,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GARO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/garo1",
+  "slug": "usgs-04208460",
+  "noaaForecastPath": "data/noaa-forecast/GARO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

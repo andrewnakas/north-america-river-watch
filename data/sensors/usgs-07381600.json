@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07381600",
+  "key": "07381600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381600",
+  "name": "Lower Atchafalaya River at Morgan City, LA",
+  "waterbody": "Lower Atchafalaya River at Morgan City, LA",
+  "state": "LA",
+  "latitude": 29.6928482,
+  "longitude": -91.2119507,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCGL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atchafalaya River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcgl1",
+  "slug": "usgs-07381600",
+  "noaaForecastPath": "data/noaa-forecast/MCGL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

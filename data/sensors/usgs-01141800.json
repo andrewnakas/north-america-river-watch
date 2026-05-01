@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01141800",
+  "key": "01141800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01141800",
+  "name": "MINK BROOK NEAR ETNA, NH",
+  "waterbody": "MINK BROOK NEAR ETNA, NH",
+  "state": "NH",
+  "latitude": 43.70229338,
+  "longitude": -72.187033,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01141800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

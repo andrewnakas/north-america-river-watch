@@ -1,0 +1,22 @@
+{
+  "id": "usgs:370000089094501",
+  "key": "370000089094501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "370000089094501",
+  "name": "OHIO RIVER AT CAIRO, IL (CORPS)",
+  "waterbody": "OHIO RIVER AT CAIRO, IL (CORPS)",
+  "state": "IL",
+  "latitude": 37.00007593,
+  "longitude": -89.16256359,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CIRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ciri2",
+  "slug": "usgs-370000089094501",
+  "noaaForecastPath": "data/noaa-forecast/CIRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

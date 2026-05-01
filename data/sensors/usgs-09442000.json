@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442000",
+  "key": "09442000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442000",
+  "name": "GILA RIVER NEAR CLIFTON, AZ",
+  "waterbody": "GILA RIVER NEAR CLIFTON, AZ",
+  "state": "AZ",
+  "latitude": 32.96527778,
+  "longitude": -109.3086111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

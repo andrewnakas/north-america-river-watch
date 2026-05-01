@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01390500",
+  "key": "01390500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01390500",
+  "name": "Saddle River at Ridgewood NJ",
+  "waterbody": "Saddle River at Ridgewood NJ",
+  "state": "NJ",
+  "latitude": 40.985,
+  "longitude": -74.0905556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RWDN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saddle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rwdn4",
+  "slug": "usgs-01390500",
+  "noaaForecastPath": "data/noaa-forecast/RWDN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

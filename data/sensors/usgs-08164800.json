@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08164800",
+  "key": "08164800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164800",
+  "name": "Placedo Ck nr Placedo, TX",
+  "waterbody": "Placedo Ck nr Placedo, TX",
+  "state": "TX",
+  "latitude": 28.72527137,
+  "longitude": -96.7688702,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Placedo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plpt2",
+  "slug": "usgs-08164800",
+  "noaaForecastPath": "data/noaa-forecast/PLPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

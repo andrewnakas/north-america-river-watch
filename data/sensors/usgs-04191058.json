@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04191058",
+  "key": "04191058",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04191058",
+  "name": "Little Auglaize River at Melrose OH",
+  "waterbody": "Little Auglaize River at Melrose OH",
+  "state": "OH",
+  "latitude": 41.09194444,
+  "longitude": -84.4075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MREO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Auglaize River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mreo1",
+  "slug": "usgs-04191058",
+  "noaaForecastPath": "data/noaa-forecast/MREO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

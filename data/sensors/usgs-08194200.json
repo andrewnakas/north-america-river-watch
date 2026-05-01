@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08194200",
+  "key": "08194200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08194200",
+  "name": "San Casimiro Ck nr Freer, TX",
+  "waterbody": "San Casimiro Ck nr Freer, TX",
+  "state": "TX",
+  "latitude": 27.96501329,
+  "longitude": -98.9669678,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Casimiro Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frrt2",
+  "slug": "usgs-08194200",
+  "noaaForecastPath": "data/noaa-forecast/FRRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

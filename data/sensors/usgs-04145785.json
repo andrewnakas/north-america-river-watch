@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04145785",
+  "key": "04145785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04145785",
+  "name": "SWAN CREEK AT FROST ROAD NEAR FROST, MI",
+  "waterbody": "SWAN CREEK AT FROST ROAD NEAR FROST, MI",
+  "state": "MI",
+  "latitude": 43.4522487,
+  "longitude": -84.1202582,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04145785",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

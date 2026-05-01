@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03414002",
+  "key": "03414002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03414002",
+  "name": "CUMBERLAND RIVER AT LONG BOTTOM NEAR ROWENA, KY",
+  "waterbody": "CUMBERLAND RIVER AT LONG BOTTOM NEAR ROWENA, KY",
+  "state": "KY",
+  "latitude": 36.88405556,
+  "longitude": -85.12963889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03414002",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

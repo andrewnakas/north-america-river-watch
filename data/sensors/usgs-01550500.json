@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01550500",
+  "key": "01550500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01550500",
+  "name": "Lycoming Creek near Williamsport, PA",
+  "waterbody": "Lycoming Creek near Williamsport, PA",
+  "state": "PA",
+  "latitude": 41.26694917,
+  "longitude": -77.04660948,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lycoming Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lycp1",
+  "slug": "usgs-01550500",
+  "noaaForecastPath": "data/noaa-forecast/LYCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

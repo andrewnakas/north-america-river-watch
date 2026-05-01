@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09035800",
+  "key": "09035800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09035800",
+  "name": "DARLING CREEK NEAR LEAL, CO.",
+  "waterbody": "DARLING CREEK NEAR LEAL, CO.",
+  "state": "CO",
+  "latitude": 39.8005418,
+  "longitude": -106.0264066,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09035800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02245500",
+  "key": "02245500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02245500",
+  "name": "SOUTH FORK BLACK CREEK NEAR PENNEY FARMS, FL",
+  "waterbody": "SOUTH FORK BLACK CREEK NEAR PENNEY FARMS, FL",
+  "state": "FL",
+  "latitude": 29.9794075,
+  "longitude": -81.8520426,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNYF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Black Creek",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnyf1",
+  "slug": "usgs-02245500",
+  "noaaForecastPath": "data/noaa-forecast/PNYF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

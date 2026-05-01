@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04096100",
+  "key": "04096100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04096100",
+  "name": "GALENA RIVER NEAR LAPORTE, IN",
+  "waterbody": "GALENA RIVER NEAR LAPORTE, IN",
+  "state": "IN",
+  "latitude": 41.7483485,
+  "longitude": -86.6749844,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04096100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

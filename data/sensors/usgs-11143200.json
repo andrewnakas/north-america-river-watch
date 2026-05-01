@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11143200",
+  "key": "11143200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11143200",
+  "name": "CARMEL R A ROBLES DEL RIO CA",
+  "waterbody": "CARMEL R A ROBLES DEL RIO CA",
+  "state": "CA",
+  "latitude": 36.4748611,
+  "longitude": -121.7288889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carmel River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdrc1",
+  "slug": "usgs-11143200",
+  "noaaForecastPath": "data/noaa-forecast/RDRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12447387",
+  "key": "12447387",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12447387",
+  "name": "WOLF CREEK BELOW DIVERSION NEAR WINTHROP, WA",
+  "waterbody": "WOLF CREEK BELOW DIVERSION NEAR WINTHROP, WA",
+  "state": "WA",
+  "latitude": 48.4832,
+  "longitude": -120.3078672,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12447387",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

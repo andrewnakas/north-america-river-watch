@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02321958",
+  "key": "02321958",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02321958",
+  "name": "SANTA FE RIVER AT RIVER RISE NR HIGH SPRINGS, FL",
+  "waterbody": "SANTA FE RIVER AT RIVER RISE NR HIGH SPRINGS, FL",
+  "state": "FL",
+  "latitude": 29.8735723,
+  "longitude": -82.59122849,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRZF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Fe River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrzf1",
+  "slug": "usgs-02321958",
+  "noaaForecastPath": "data/noaa-forecast/RRZF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

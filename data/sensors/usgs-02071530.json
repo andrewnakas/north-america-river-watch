@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02071530",
+  "key": "02071530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02071530",
+  "name": "SMITH RIVER AT SMITH RIV CHURCH NR WOOLWINE, VA",
+  "waterbody": "SMITH RIVER AT SMITH RIV CHURCH NR WOOLWINE, VA",
+  "state": "VA",
+  "latitude": 36.778468,
+  "longitude": -80.24921848,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMWV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smwv2",
+  "slug": "usgs-02071530",
+  "noaaForecastPath": "data/noaa-forecast/SMWV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

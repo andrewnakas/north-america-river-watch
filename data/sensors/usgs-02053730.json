@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02053730",
+  "key": "02053730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02053730",
+  "name": "GOOSE CREEK AT RT 653 NEAR CROCKETT SPRING, VA",
+  "waterbody": "GOOSE CREEK AT RT 653 NEAR CROCKETT SPRING, VA",
+  "state": "VA",
+  "latitude": 37.09386111,
+  "longitude": -80.20727778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FGCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fgcv2",
+  "slug": "usgs-02053730",
+  "noaaForecastPath": "data/noaa-forecast/FGCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09303300",
+  "key": "09303300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09303300",
+  "name": "SOUTH FORK WHITE RIVER AT BUDGES RESORT, CO.",
+  "waterbody": "SOUTH FORK WHITE RIVER AT BUDGES RESORT, CO.",
+  "state": "CO",
+  "latitude": 39.84331509,
+  "longitude": -107.3347778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09303300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

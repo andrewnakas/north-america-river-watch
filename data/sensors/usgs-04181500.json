@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04181500",
+  "key": "04181500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04181500",
+  "name": "ST. MARYS RIVER AT DECATUR, IN",
+  "waterbody": "ST. MARYS RIVER AT DECATUR, IN",
+  "state": "IN",
+  "latitude": 40.84807836,
+  "longitude": -84.9377049,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Marys River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcri3",
+  "slug": "usgs-04181500",
+  "noaaForecastPath": "data/noaa-forecast/DCRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

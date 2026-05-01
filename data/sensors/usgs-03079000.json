@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03079000",
+  "key": "03079000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03079000",
+  "name": "Casselman River at Markleton, PA",
+  "waterbody": "Casselman River at Markleton, PA",
+  "state": "PA",
+  "latitude": 39.85991667,
+  "longitude": -79.2288333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAKP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Casselman River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/makp1",
+  "slug": "usgs-03079000",
+  "noaaForecastPath": "data/noaa-forecast/MAKP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

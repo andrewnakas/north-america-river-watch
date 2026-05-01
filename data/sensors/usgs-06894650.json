@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06894650",
+  "key": "06894650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06894650",
+  "name": "Missouri River at Napoleon, MO",
+  "waterbody": "Missouri River at Napoleon, MO",
+  "state": "MO",
+  "latitude": 39.1336111,
+  "longitude": -94.0638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAPM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/napm7",
+  "slug": "usgs-06894650",
+  "noaaForecastPath": "data/noaa-forecast/NAPM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01455135",
+  "key": "01455135",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01455135",
+  "name": "Pohatcong C at Tunnel Hill Rd nr Washington NJ",
+  "waterbody": "Pohatcong C at Tunnel Hill Rd nr Washington NJ",
+  "state": "NJ",
+  "latitude": 40.785,
+  "longitude": -74.96138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01455135",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

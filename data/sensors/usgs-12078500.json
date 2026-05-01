@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12078500",
+  "key": "12078500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12078500",
+  "name": "KENNEDY CREEK NEAR NEW KAMILCHE, WA",
+  "waterbody": "KENNEDY CREEK NEAR NEW KAMILCHE, WA",
+  "state": "WA",
+  "latitude": 47.09527778,
+  "longitude": -123.0905556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12078500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

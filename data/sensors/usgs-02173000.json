@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02173000",
+  "key": "02173000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02173000",
+  "name": "SOUTH FORK EDISTO RIVER NEAR DENMARK, SC",
+  "waterbody": "SOUTH FORK EDISTO RIVER NEAR DENMARK, SC",
+  "state": "SC",
+  "latitude": 33.39320916,
+  "longitude": -81.1331559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DENS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Edisto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dens1",
+  "slug": "usgs-02173000",
+  "noaaForecastPath": "data/noaa-forecast/DENS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

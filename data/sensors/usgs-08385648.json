@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08385648",
+  "key": "08385648",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08385648",
+  "name": "PECOS RIVER ABOVE ACME, NM",
+  "waterbody": "PECOS RIVER ABOVE ACME, NM",
+  "state": "NM",
+  "latitude": 33.68564507,
+  "longitude": -104.316079,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08385648",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

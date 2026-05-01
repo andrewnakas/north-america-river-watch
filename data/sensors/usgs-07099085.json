@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07099085",
+  "key": "07099085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07099085",
+  "name": "RED CREEK ABOVE SALT CANYON AT FORT CARSON, CO",
+  "waterbody": "RED CREEK ABOVE SALT CANYON AT FORT CARSON, CO",
+  "state": "CO",
+  "latitude": 38.4789722,
+  "longitude": -104.9405556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07099085",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08117855",
+  "key": "08117855",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117855",
+  "name": "Caney Ck at SH 35 nr Van Vleck, TX",
+  "waterbody": "Caney Ck at SH 35 nr Van Vleck, TX",
+  "state": "TX",
+  "latitude": 29.0417222,
+  "longitude": -95.8635194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08117855",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

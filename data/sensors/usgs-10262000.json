@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10262000",
+  "key": "10262000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10262000",
+  "name": "MOJAVE R NR HODGE CA",
+  "waterbody": "MOJAVE R NR HODGE CA",
+  "state": "CA",
+  "latitude": 34.83551667,
+  "longitude": -117.1916778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "XMHC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mojave River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/xmhc1",
+  "slug": "usgs-10262000",
+  "noaaForecastPath": "data/noaa-forecast/XMHC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

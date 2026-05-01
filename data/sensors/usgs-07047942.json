@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07047942",
+  "key": "07047942",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07047942",
+  "name": "LAnguille River near Colt, AR",
+  "waterbody": "LAnguille River near Colt, AR",
+  "state": "AR",
+  "latitude": 35.1447222,
+  "longitude": -90.8780556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COTA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "L'Anguille River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cota4",
+  "slug": "usgs-07047942",
+  "noaaForecastPath": "data/noaa-forecast/COTA4.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

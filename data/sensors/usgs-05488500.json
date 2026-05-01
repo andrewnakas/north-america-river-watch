@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05488500",
+  "key": "05488500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05488500",
+  "name": "Des Moines River near Tracy, IA",
+  "waterbody": "Des Moines River near Tracy, IA",
+  "state": "IA",
+  "latitude": 41.2813611,
+  "longitude": -92.8608222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trci4",
+  "slug": "usgs-05488500",
+  "noaaForecastPath": "data/noaa-forecast/TRCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

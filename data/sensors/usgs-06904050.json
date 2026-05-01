@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06904050",
+  "key": "06904050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06904050",
+  "name": "Chariton River at Livonia, MO",
+  "waterbody": "Chariton River at Livonia, MO",
+  "state": "MO",
+  "latitude": 40.48402778,
+  "longitude": -92.6859167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06904050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

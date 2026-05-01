@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15452300",
+  "key": "15452300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15452300",
+  "name": "BEAVER C NR MICHEL LK NR BEAVER AK",
+  "waterbody": "BEAVER C NR MICHEL LK NR BEAVER AK",
+  "state": "AK",
+  "latitude": 66.2212817,
+  "longitude": -146.7647463,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15452300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

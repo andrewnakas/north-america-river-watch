@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08075110",
+  "key": "08075110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08075110",
+  "name": "Brays Bayou at MLK Jr Blvd, Houston, TX",
+  "waterbody": "Brays Bayou at MLK Jr Blvd, Houston, TX",
+  "state": "TX",
+  "latitude": 29.71416667,
+  "longitude": -95.3388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08075110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

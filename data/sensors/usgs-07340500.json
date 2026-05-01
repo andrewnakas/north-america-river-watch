@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07340500",
+  "key": "07340500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07340500",
+  "name": "Cossatot River near DeQueen, AR",
+  "waterbody": "Cossatot River near DeQueen, AR",
+  "state": "AR",
+  "latitude": 34.045,
+  "longitude": -94.2125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEQA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cossatot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/deqa4",
+  "slug": "usgs-07340500",
+  "noaaForecastPath": "data/noaa-forecast/DEQA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

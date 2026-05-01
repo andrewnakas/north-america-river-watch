@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08331160",
+  "key": "08331160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08331160",
+  "name": "RIO GRANDE NEAR BOSQUE FARMS, NM",
+  "waterbody": "RIO GRANDE NEAR BOSQUE FARMS, NM",
+  "state": "NM",
+  "latitude": 34.87055556,
+  "longitude": -106.72,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08331160",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

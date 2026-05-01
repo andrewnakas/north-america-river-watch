@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11070465",
+  "key": "11070465",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11070465",
+  "name": "SALT C A MURRIETA RD NR SUN CITY CA",
+  "waterbody": "SALT C A MURRIETA RD NR SUN CITY CA",
+  "state": "CA",
+  "latitude": 33.69419084,
+  "longitude": -117.205583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11070465",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

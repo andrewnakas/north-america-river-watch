@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04060993",
+  "key": "04060993",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04060993",
+  "name": "BRULE RIVER AT US HIGHWAY 2 NEAR FLORENCE, WI",
+  "waterbody": "BRULE RIVER AT US HIGHWAY 2 NEAR FLORENCE, WI",
+  "state": "MI",
+  "latitude": 45.96078737,
+  "longitude": -88.3159663,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04060993",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

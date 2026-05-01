@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067548",
+  "key": "08067548",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067548",
+  "name": "W Fk San Jacinto Rv nr Huntsville, TX",
+  "waterbody": "W Fk San Jacinto Rv nr Huntsville, TX",
+  "state": "TX",
+  "latitude": 30.6460298,
+  "longitude": -95.675224,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067548",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

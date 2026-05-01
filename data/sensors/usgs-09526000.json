@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09526000",
+  "key": "09526000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09526000",
+  "name": "DIVERSION FROM YUMA MAIN CANAL FOR YUMA MUNICIPAL",
+  "waterbody": "DIVERSION FROM YUMA MAIN CANAL FOR YUMA MUNICIPAL",
+  "state": "AZ",
+  "latitude": 32.72638889,
+  "longitude": -114.6172222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09526000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

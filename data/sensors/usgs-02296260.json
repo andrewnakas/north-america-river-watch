@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02296260",
+  "key": "02296260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02296260",
+  "name": "CHARLIE CREEK NEAR CREWSVILLE FL",
+  "waterbody": "CHARLIE CREEK NEAR CREWSVILLE FL",
+  "state": "FL",
+  "latitude": 27.45948376,
+  "longitude": -81.6784128,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWVF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Charlie Creek Near Crewsville",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwvf1",
+  "slug": "usgs-02296260",
+  "noaaForecastPath": "data/noaa-forecast/CWVF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

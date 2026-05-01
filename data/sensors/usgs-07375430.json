@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07375430",
+  "key": "07375430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07375430",
+  "name": "Tangipahoa River near Amite, LA",
+  "waterbody": "Tangipahoa River near Amite, LA",
+  "state": "LA",
+  "latitude": 30.72907467,
+  "longitude": -90.48425869,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMIL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tangipahoa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amil1",
+  "slug": "usgs-07375430",
+  "noaaForecastPath": "data/noaa-forecast/AMIL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01196561",
+  "key": "01196561",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01196561",
+  "name": "MUDDY RIVER NEAR EAST WALLINGFORD, CT",
+  "waterbody": "MUDDY RIVER NEAR EAST WALLINGFORD, CT",
+  "state": "CT",
+  "latitude": 41.43560833,
+  "longitude": -72.77949167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01196561",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

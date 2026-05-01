@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07309990",
+  "key": "07309990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07309990",
+  "name": "East Cache Creek nr Lawton, OK",
+  "waterbody": "East Cache Creek nr Lawton, OK",
+  "state": "OK",
+  "latitude": 34.59416667,
+  "longitude": -98.3691667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07309990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

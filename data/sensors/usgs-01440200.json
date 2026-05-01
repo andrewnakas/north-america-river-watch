@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01440200",
+  "key": "01440200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01440200",
+  "name": "Delaware River near Delaware Water Gap Pa",
+  "waterbody": "Delaware River near Delaware Water Gap Pa",
+  "state": "NJ",
+  "latitude": 41.01333333,
+  "longitude": -75.08611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TKSN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tksn4",
+  "slug": "usgs-01440200",
+  "noaaForecastPath": "data/noaa-forecast/TKSN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02481880",
+  "key": "02481880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02481880",
+  "name": "PEARL RIVER AT BURNSIDE, MS",
+  "waterbody": "PEARL RIVER AT BURNSIDE, MS",
+  "state": "MS",
+  "latitude": 32.84138889,
+  "longitude": -89.0977778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLAM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plam6",
+  "slug": "usgs-02481880",
+  "noaaForecastPath": "data/noaa-forecast/PLAM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

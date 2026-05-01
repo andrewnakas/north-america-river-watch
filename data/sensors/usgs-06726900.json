@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06726900",
+  "key": "06726900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06726900",
+  "name": "BUMMERS GULCH NEAR EL VADO, CO.",
+  "waterbody": "BUMMERS GULCH NEAR EL VADO, CO.",
+  "state": "CO",
+  "latitude": 40.01165266,
+  "longitude": -105.3486038,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06726900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

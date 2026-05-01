@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14321400",
+  "key": "14321400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14321400",
+  "name": "ELK CREEK NEAR ELKHEAD,OREG.",
+  "waterbody": "ELK CREEK NEAR ELKHEAD,OREG.",
+  "state": "OR",
+  "latitude": 43.59567599,
+  "longitude": -123.1942455,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14321400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

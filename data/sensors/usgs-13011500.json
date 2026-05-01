@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13011500",
+  "key": "13011500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13011500",
+  "name": "PACIFIC CREEK AT MORAN, WY",
+  "waterbody": "PACIFIC CREEK AT MORAN, WY",
+  "state": "WY",
+  "latitude": 43.8510187,
+  "longitude": -110.5171751,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PACW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pacific Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pacw4",
+  "slug": "usgs-13011500",
+  "noaaForecastPath": "data/noaa-forecast/PACW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

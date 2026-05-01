@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13335050",
+  "key": "13335050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13335050",
+  "name": "ASOTIN CREEK AT ASOTIN, WA",
+  "waterbody": "ASOTIN CREEK AT ASOTIN, WA",
+  "state": "WA",
+  "latitude": 46.3406798,
+  "longitude": -117.0560319,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACAW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Asotin Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acaw1",
+  "slug": "usgs-13335050",
+  "noaaForecastPath": "data/noaa-forecast/ACAW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

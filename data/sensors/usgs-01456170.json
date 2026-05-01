@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01456170",
+  "key": "01456170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01456170",
+  "name": "Schooleys Mountian Brk nr Beattystown NJ",
+  "waterbody": "Schooleys Mountian Brk nr Beattystown NJ",
+  "state": "NJ",
+  "latitude": 40.82016667,
+  "longitude": -74.8296667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01456170",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

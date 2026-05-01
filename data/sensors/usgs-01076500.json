@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01076500",
+  "key": "01076500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01076500",
+  "name": "PEMIGEWASSET RIVER AT PLYMOUTH, NH",
+  "waterbody": "PEMIGEWASSET RIVER AT PLYMOUTH, NH",
+  "state": "NH",
+  "latitude": 43.7592388,
+  "longitude": -71.6856337,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLMN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pemigewasset River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plmn3",
+  "slug": "usgs-01076500",
+  "noaaForecastPath": "data/noaa-forecast/PLMN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04218700",
+  "key": "04218700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04218700",
+  "name": "ERIE(BARGE)CANAL(W OF GENESEE R)AT ROCHESTER NY",
+  "waterbody": "ERIE(BARGE)CANAL(W OF GENESEE R)AT ROCHESTER NY",
+  "state": "NY",
+  "latitude": 43.1256111,
+  "longitude": -77.6501111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCSN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Erie Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcsn6",
+  "slug": "usgs-04218700",
+  "noaaForecastPath": "data/noaa-forecast/RCSN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

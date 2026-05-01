@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214269560",
+  "key": "0214269560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214269560",
+  "name": "KILLIAN CREEK NEAR MARIPOSA, NC",
+  "waterbody": "KILLIAN CREEK NEAR MARIPOSA, NC",
+  "state": "NC",
+  "latitude": 35.43416667,
+  "longitude": -81.03,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KILN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Killian Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kiln7",
+  "slug": "usgs-0214269560",
+  "noaaForecastPath": "data/noaa-forecast/KILN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

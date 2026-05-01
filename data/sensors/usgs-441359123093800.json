@@ -1,0 +1,19 @@
+{
+  "id": "usgs:441359123093800",
+  "key": "441359123093800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "441359123093800",
+  "name": "WILLAMETTE R ON LB NEAR RM 164.2",
+  "waterbody": "WILLAMETTE R ON LB NEAR RM 164.2",
+  "state": "OR",
+  "latitude": 44.2329222,
+  "longitude": -123.1605556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-441359123093800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06647500",
+  "key": "06647500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06647500",
+  "name": "BOX ELDER CREEK AT BOXELDER, WY",
+  "waterbody": "BOX ELDER CREEK AT BOXELDER, WY",
+  "state": "WY",
+  "latitude": 42.61191679,
+  "longitude": -105.8597344,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06647500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

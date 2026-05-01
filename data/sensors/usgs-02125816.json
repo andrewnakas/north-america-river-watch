@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02125816",
+  "key": "02125816",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02125816",
+  "name": "LANE'S CR NR MARSHVILLE, NC",
+  "waterbody": "LANE'S CR NR MARSHVILLE, NC",
+  "state": "NC",
+  "latitude": 34.9754319,
+  "longitude": -80.3036742,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02125816",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07378008",
+  "key": "07378008",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07378008",
+  "name": "Hurricane Creek at Baton Rouge, LA",
+  "waterbody": "Hurricane Creek at Baton Rouge, LA",
+  "state": "LA",
+  "latitude": 30.48213429,
+  "longitude": -91.1281616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hurricane Creek (SE LA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbrl1",
+  "slug": "usgs-07378008",
+  "noaaForecastPath": "data/noaa-forecast/HBRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

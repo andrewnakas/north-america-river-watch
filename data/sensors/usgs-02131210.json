@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02131210",
+  "key": "02131210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02131210",
+  "name": "PEE DEE RIVER AT US378 ABOVE POSTON, SC",
+  "waterbody": "PEE DEE RIVER AT US378 ABOVE POSTON, SC",
+  "state": "SC",
+  "latitude": 33.9035833,
+  "longitude": -79.4358056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDPS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pee Dee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdps1",
+  "slug": "usgs-02131210",
+  "noaaForecastPath": "data/noaa-forecast/PDPS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

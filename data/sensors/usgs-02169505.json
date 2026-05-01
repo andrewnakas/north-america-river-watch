@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02169505",
+  "key": "02169505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169505",
+  "name": "ROCKY BRANCH AT PICKENS ST AT COLUMBIA, SC",
+  "waterbody": "ROCKY BRANCH AT PICKENS ST AT COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 33.9948774,
+  "longitude": -81.0237029,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBPS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky  Branch (SC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbps1",
+  "slug": "usgs-02169505",
+  "noaaForecastPath": "data/noaa-forecast/RBPS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

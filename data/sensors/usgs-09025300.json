@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09025300",
+  "key": "09025300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09025300",
+  "name": "ELK CREEK AT UPPER STATION, NEAR FRASER, CO",
+  "waterbody": "ELK CREEK AT UPPER STATION, NEAR FRASER, CO",
+  "state": "CO",
+  "latitude": 39.8894312,
+  "longitude": -105.8325098,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09025300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

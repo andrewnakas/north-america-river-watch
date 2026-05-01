@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09512400",
+  "key": "09512400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512400",
+  "name": "CAVE CREEK AT PHOENIX, ARIZ.",
+  "waterbody": "CAVE CREEK AT PHOENIX, ARIZ.",
+  "state": "AZ",
+  "latitude": 33.58226304,
+  "longitude": -112.1126513,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09512400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02208150",
+  "key": "02208150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02208150",
+  "name": "ALCOVY RIVER AT NEW HOPE ROAD, NEAR GRAYSON, GA",
+  "waterbody": "ALCOVY RIVER AT NEW HOPE ROAD, NEAR GRAYSON, GA",
+  "state": "GA",
+  "latitude": 33.91694444,
+  "longitude": -83.8880556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alcovy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alcg1",
+  "slug": "usgs-02208150",
+  "noaaForecastPath": "data/noaa-forecast/ALCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

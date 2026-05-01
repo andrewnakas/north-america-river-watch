@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05304500",
+  "key": "05304500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05304500",
+  "name": "CHIPPEWA RIVER NEAR MILAN, MN",
+  "waterbody": "CHIPPEWA RIVER NEAR MILAN, MN",
+  "state": "MN",
+  "latitude": 45.1085449,
+  "longitude": -95.79877,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLNM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River (MN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlnm5",
+  "slug": "usgs-05304500",
+  "noaaForecastPath": "data/noaa-forecast/MLNM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

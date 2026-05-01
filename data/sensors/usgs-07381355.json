@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07381355",
+  "key": "07381355",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381355",
+  "name": "Company Canal at Salt Barrier near Lockport, LA",
+  "waterbody": "Company Canal at Salt Barrier near Lockport, LA",
+  "state": "LA",
+  "latitude": 29.62733333,
+  "longitude": -90.5576667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCLL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River Delta Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccll1",
+  "slug": "usgs-07381355",
+  "noaaForecastPath": "data/noaa-forecast/CCLL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

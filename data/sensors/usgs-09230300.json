@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09230300",
+  "key": "09230300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09230300",
+  "name": "BIRCH SPRING DRAW AT FGNRA BOUNDARY NR MANILA, UT",
+  "waterbody": "BIRCH SPRING DRAW AT FGNRA BOUNDARY NR MANILA, UT",
+  "state": "UT",
+  "latitude": 40.990278,
+  "longitude": -109.654528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09230300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

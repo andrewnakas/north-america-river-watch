@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0210382325",
+  "key": "0210382325",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0210382325",
+  "name": "CROSS CREEK AT BLUE STREET AT FAYETTEVILLE, NC",
+  "waterbody": "CROSS CREEK AT BLUE STREET AT FAYETTEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.06456389,
+  "longitude": -78.8906778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cross Creek NC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cchn7",
+  "slug": "usgs-0210382325",
+  "noaaForecastPath": "data/noaa-forecast/CCHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04026511",
+  "key": "04026511",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04026511",
+  "name": "BAD RIVER AT US HIGHWAY 169 NEAR MELLEN, WI",
+  "waterbody": "BAD RIVER AT US HIGHWAY 169 NEAR MELLEN, WI",
+  "state": "WI",
+  "latitude": 46.33527778,
+  "longitude": -90.6519444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BADW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bad River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/badw3",
+  "slug": "usgs-04026511",
+  "noaaForecastPath": "data/noaa-forecast/BADW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06713500",
+  "key": "06713500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06713500",
+  "name": "CHERRY CREEK AT DENVER, CO.",
+  "waterbody": "CHERRY CREEK AT DENVER, CO.",
+  "state": "CO",
+  "latitude": 39.74248685,
+  "longitude": -104.9999817,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDVC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cherry Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdvc2",
+  "slug": "usgs-06713500",
+  "noaaForecastPath": "data/noaa-forecast/CDVC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

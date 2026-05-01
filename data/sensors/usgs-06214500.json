@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06214500",
+  "key": "06214500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06214500",
+  "name": "Yellowstone River at Billings MT",
+  "waterbody": "Yellowstone River at Billings MT",
+  "state": "MT",
+  "latitude": 45.800119,
+  "longitude": -108.468031,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BILM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellowstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bilm8",
+  "slug": "usgs-06214500",
+  "noaaForecastPath": "data/noaa-forecast/BILM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04246500",
+  "key": "04246500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04246500",
+  "name": "ONEIDA RIVER AT CAUGHDENOY NY",
+  "waterbody": "ONEIDA RIVER AT CAUGHDENOY NY",
+  "state": "NY",
+  "latitude": 43.24694444,
+  "longitude": -76.1697222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04246500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08072050",
+  "key": "08072050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08072050",
+  "name": "San Jacinto Rv nr Sheldon, TX",
+  "waterbody": "San Jacinto Rv nr Sheldon, TX",
+  "state": "TX",
+  "latitude": 29.87633426,
+  "longitude": -95.0938189,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Jacinto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shlt2",
+  "slug": "usgs-08072050",
+  "noaaForecastPath": "data/noaa-forecast/SHLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

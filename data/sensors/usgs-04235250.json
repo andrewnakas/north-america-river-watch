@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04235250",
+  "key": "04235250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04235250",
+  "name": "FLINT CREEK AT PHELPS NY",
+  "waterbody": "FLINT CREEK AT PHELPS NY",
+  "state": "NY",
+  "latitude": 42.95816667,
+  "longitude": -77.06791667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLIN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flin6",
+  "slug": "usgs-04235250",
+  "noaaForecastPath": "data/noaa-forecast/FLIN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10336000",
+  "key": "10336000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336000",
+  "name": "HUMBOLDT RV NR LOVELOCK, NV",
+  "waterbody": "HUMBOLDT RV NR LOVELOCK, NV",
+  "state": "NV",
+  "latitude": 40.0521327,
+  "longitude": -118.46709,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10336000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

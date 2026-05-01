@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06016000",
+  "key": "06016000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06016000",
+  "name": "Beaverhead River at Barretts MT",
+  "waterbody": "Beaverhead River at Barretts MT",
+  "state": "MT",
+  "latitude": 45.11612778,
+  "longitude": -112.7504944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BARM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaverhead River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/barm8",
+  "slug": "usgs-06016000",
+  "noaaForecastPath": "data/noaa-forecast/BARM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05423510",
+  "key": "05423510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05423510",
+  "name": "WEST BRANCH ROCK RIVER @ STATE HWY 49 NR WAUPUN,WI",
+  "waterbody": "WEST BRANCH ROCK RIVER @ STATE HWY 49 NR WAUPUN,WI",
+  "state": "WI",
+  "latitude": 43.63388889,
+  "longitude": -88.6844444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPUW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Rock River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wpuw3",
+  "slug": "usgs-05423510",
+  "noaaForecastPath": "data/noaa-forecast/WPUW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

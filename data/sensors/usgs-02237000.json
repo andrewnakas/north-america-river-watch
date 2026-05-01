@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02237000",
+  "key": "02237000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02237000",
+  "name": "PALATLAKAHA RIVER NEAR MASCOTTE, FL",
+  "waterbody": "PALATLAKAHA RIVER NEAR MASCOTTE, FL",
+  "state": "FL",
+  "latitude": 28.6158301,
+  "longitude": -81.8645229,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02237000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

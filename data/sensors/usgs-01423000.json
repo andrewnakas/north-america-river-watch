@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01423000",
+  "key": "01423000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01423000",
+  "name": "WEST BRANCH DELAWARE RIVER AT WALTON NY",
+  "waterbody": "WEST BRANCH DELAWARE RIVER AT WALTON NY",
+  "state": "NY",
+  "latitude": 42.1661111,
+  "longitude": -75.14002778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WALN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/waln6",
+  "slug": "usgs-01423000",
+  "noaaForecastPath": "data/noaa-forecast/WALN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

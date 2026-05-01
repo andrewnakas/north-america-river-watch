@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11476500",
+  "key": "11476500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11476500",
+  "name": "SF EEL R NR MIRANDA CA",
+  "waterbody": "SF EEL R NR MIRANDA CA",
+  "state": "CA",
+  "latitude": 40.18177947,
+  "longitude": -123.776116,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Eel River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrnc1",
+  "slug": "usgs-11476500",
+  "noaaForecastPath": "data/noaa-forecast/MRNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

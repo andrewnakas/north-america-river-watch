@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03212500",
+  "key": "03212500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03212500",
+  "name": "LEVISA FORK AT PAINTSVILLE, KY",
+  "waterbody": "LEVISA FORK AT PAINTSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.81537197,
+  "longitude": -82.7915493,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Levisa Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptvk2",
+  "slug": "usgs-03212500",
+  "noaaForecastPath": "data/noaa-forecast/PTVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

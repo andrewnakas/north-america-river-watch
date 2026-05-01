@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03301000",
+  "key": "03301000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03301000",
+  "name": "BEECH FORK AT BARDSTOWN, KY",
+  "waterbody": "BEECH FORK AT BARDSTOWN, KY",
+  "state": "KY",
+  "latitude": 37.79700569,
+  "longitude": -85.4807919,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTDK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beech Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btdk2",
+  "slug": "usgs-03301000",
+  "noaaForecastPath": "data/noaa-forecast/BTDK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

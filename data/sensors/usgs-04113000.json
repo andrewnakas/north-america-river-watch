@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04113000",
+  "key": "04113000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04113000",
+  "name": "GRAND RIVER AT LANSING, MI",
+  "waterbody": "GRAND RIVER AT LANSING, MI",
+  "state": "MI",
+  "latitude": 42.75059039,
+  "longitude": -84.555257,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnsm4",
+  "slug": "usgs-04113000",
+  "noaaForecastPath": "data/noaa-forecast/LNSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

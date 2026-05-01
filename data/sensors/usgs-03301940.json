@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03301940",
+  "key": "03301940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03301940",
+  "name": "NORTHERN DITCH AT OKOLONA, KY",
+  "waterbody": "NORTHERN DITCH AT OKOLONA, KY",
+  "state": "KY",
+  "latitude": 38.1492,
+  "longitude": -85.6788,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northern Ditch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oklk2",
+  "slug": "usgs-03301940",
+  "noaaForecastPath": "data/noaa-forecast/OKLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

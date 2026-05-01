@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02197830",
+  "key": "02197830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197830",
+  "name": "BRIER CREEK NEAR WAYNESBORO, GA",
+  "waterbody": "BRIER CREEK NEAR WAYNESBORO, GA",
+  "state": "GA",
+  "latitude": 33.11830556,
+  "longitude": -81.9636111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCWG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brier Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcwg1",
+  "slug": "usgs-02197830",
+  "noaaForecastPath": "data/noaa-forecast/BCWG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

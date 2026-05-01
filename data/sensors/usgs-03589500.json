@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03589500",
+  "key": "03589500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03589500",
+  "name": "TENNESSEE RIVER AT FLORENCE AL",
+  "waterbody": "TENNESSEE RIVER AT FLORENCE AL",
+  "state": "AL",
+  "latitude": 34.78703254,
+  "longitude": -87.6700288,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLOA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tennessee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/floa1",
+  "slug": "usgs-03589500",
+  "noaaForecastPath": "data/noaa-forecast/FLOA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

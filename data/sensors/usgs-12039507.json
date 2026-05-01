@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12039507",
+  "key": "12039507",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039507",
+  "name": "QUINAULT RIVER (8A) NEAR NEILTON, WA",
+  "waterbody": "QUINAULT RIVER (8A) NEAR NEILTON, WA",
+  "state": "WA",
+  "latitude": 47.42260278,
+  "longitude": -124.0039667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12039507",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

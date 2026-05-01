@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02131455",
+  "key": "02131455",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02131455",
+  "name": "LITTLE LYNCHES RIVER NEAR KERSHAW, SC",
+  "waterbody": "LITTLE LYNCHES RIVER NEAR KERSHAW, SC",
+  "state": "SC",
+  "latitude": 34.5512656,
+  "longitude": -80.5464611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KELS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Lynches River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kels1",
+  "slug": "usgs-02131455",
+  "noaaForecastPath": "data/noaa-forecast/KELS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

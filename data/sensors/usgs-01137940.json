@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01137940",
+  "key": "01137940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01137940",
+  "name": "AMMONOOSUC RIVER BELOW LISBON DAM, AT LISBON, NH",
+  "waterbody": "AMMONOOSUC RIVER BELOW LISBON DAM, AT LISBON, NH",
+  "state": "NH",
+  "latitude": 44.2125,
+  "longitude": -71.9141667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01137940",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

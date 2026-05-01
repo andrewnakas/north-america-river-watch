@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02261400",
+  "key": "02261400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02261400",
+  "name": "CAT ISLAND SWAMP AT NOVA RD NR NARCOOSSEE, FL",
+  "waterbody": "CAT ISLAND SWAMP AT NOVA RD NR NARCOOSSEE, FL",
+  "state": "FL",
+  "latitude": 28.27562778,
+  "longitude": -81.1398111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02261400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10159500",
+  "key": "10159500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10159500",
+  "name": "PROVO RIVER BELOW DEER CREEK DAM, UT",
+  "waterbody": "PROVO RIVER BELOW DEER CREEK DAM, UT",
+  "state": "UT",
+  "latitude": 40.40328927,
+  "longitude": -111.5296355,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10159500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06302000",
+  "key": "06302000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06302000",
+  "name": "BIG GOOSE CREEK NEAR SHERIDAN, WY",
+  "waterbody": "BIG GOOSE CREEK NEAR SHERIDAN, WY",
+  "state": "WY",
+  "latitude": 44.70214739,
+  "longitude": -107.1815224,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06302000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

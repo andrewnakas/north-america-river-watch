@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157125",
+  "key": "13157125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157125",
+  "name": "LOWER INDIAN COVE CANAL NR HAMMETT ID",
+  "waterbody": "LOWER INDIAN COVE CANAL NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.9336111,
+  "longitude": -115.5569444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157125",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

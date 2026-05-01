@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05515000",
+  "key": "05515000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05515000",
+  "name": "KANKAKEE RIVER NEAR NORTH LIBERTY, IN",
+  "waterbody": "KANKAKEE RIVER NEAR NORTH LIBERTY, IN",
+  "state": "IN",
+  "latitude": 41.5636278,
+  "longitude": -86.49442289,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05515000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

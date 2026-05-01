@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589290",
+  "key": "01589290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589290",
+  "name": "SCOTTS LEVEL BRANCH AT ROCKDALE, MD",
+  "waterbody": "SCOTTS LEVEL BRANCH AT ROCKDALE, MD",
+  "state": "MD",
+  "latitude": 39.36158333,
+  "longitude": -76.76175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scotts Level Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slrm2",
+  "slug": "usgs-01589290",
+  "noaaForecastPath": "data/noaa-forecast/SLRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

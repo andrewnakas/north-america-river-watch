@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09357000",
+  "key": "09357000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09357000",
+  "name": "SAN JUAN RIVER AT BLOOMFIELD, NM",
+  "waterbody": "SAN JUAN RIVER AT BLOOMFIELD, NM",
+  "state": "NM",
+  "latitude": 36.699675,
+  "longitude": -107.9814417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09357000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

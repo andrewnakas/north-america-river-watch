@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02478500",
+  "key": "02478500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02478500",
+  "name": "CHICKASAWHAY RIVER AT LEAKESVILLE, MS",
+  "waterbody": "CHICKASAWHAY RIVER AT LEAKESVILLE, MS",
+  "state": "MS",
+  "latitude": 31.1486111,
+  "longitude": -88.5480556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEKM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chickasawhay River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lekm6",
+  "slug": "usgs-02478500",
+  "noaaForecastPath": "data/noaa-forecast/LEKM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

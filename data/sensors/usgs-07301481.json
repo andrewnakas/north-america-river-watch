@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07301481",
+  "key": "07301481",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07301481",
+  "name": "North Fork Red River near Sayre, OK",
+  "waterbody": "North Fork Red River near Sayre, OK",
+  "state": "OK",
+  "latitude": 35.2847732,
+  "longitude": -99.6220406,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAYO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork of the Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sayo2",
+  "slug": "usgs-07301481",
+  "noaaForecastPath": "data/noaa-forecast/SAYO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

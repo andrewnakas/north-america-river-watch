@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10172791",
+  "key": "10172791",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10172791",
+  "name": "SETTLEMENT CREEK ABOVE RESERVOIR NEAR TOOELE, UT",
+  "waterbody": "SETTLEMENT CREEK ABOVE RESERVOIR NEAR TOOELE, UT",
+  "state": "UT",
+  "latitude": 40.50549997,
+  "longitude": -112.2905017,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10172791",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06298000",
+  "key": "06298000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06298000",
+  "name": "TONGUE RIVER NEAR DAYTON, WY",
+  "waterbody": "TONGUE RIVER NEAR DAYTON, WY",
+  "state": "WY",
+  "latitude": 44.8494123,
+  "longitude": -107.3045253,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAYW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dayw4",
+  "slug": "usgs-06298000",
+  "noaaForecastPath": "data/noaa-forecast/DAYW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

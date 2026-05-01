@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03097550",
+  "key": "03097550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03097550",
+  "name": "Mahoning River at Ohio Edison P Plt at Niles OH",
+  "waterbody": "Mahoning River at Ohio Edison P Plt at Niles OH",
+  "state": "OH",
+  "latitude": 41.17255756,
+  "longitude": -80.75702408,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03097550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

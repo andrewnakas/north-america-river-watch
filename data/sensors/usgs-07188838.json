@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07188838",
+  "key": "07188838",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07188838",
+  "name": "Little Sugar Creek near Pineville, MO",
+  "waterbody": "Little Sugar Creek near Pineville, MO",
+  "state": "MO",
+  "latitude": 36.58405556,
+  "longitude": -94.3729722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSGM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sugar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsgm7",
+  "slug": "usgs-07188838",
+  "noaaForecastPath": "data/noaa-forecast/LSGM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

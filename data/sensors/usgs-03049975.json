@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03049975",
+  "key": "03049975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049975",
+  "name": "TYGART VALLEY RIVER AT MILL CREEK, WV",
+  "waterbody": "TYGART VALLEY RIVER AT MILL CREEK, WV",
+  "state": "WV",
+  "latitude": 38.73166667,
+  "longitude": -79.95963889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLLW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mllw2",
+  "slug": "usgs-03049975",
+  "noaaForecastPath": "data/noaa-forecast/MLLW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

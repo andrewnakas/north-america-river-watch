@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08449100",
+  "key": "08449100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08449100",
+  "name": "Dolan Ck abv Devils River nr Comstock, TX",
+  "waterbody": "Dolan Ck abv Devils River nr Comstock, TX",
+  "state": "TX",
+  "latitude": 29.888325,
+  "longitude": -100.9898028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dolan Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dolt2",
+  "slug": "usgs-08449100",
+  "noaaForecastPath": "data/noaa-forecast/DOLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

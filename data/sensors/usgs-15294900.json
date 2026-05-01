@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15294900",
+  "key": "15294900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15294900",
+  "name": "PAINT R NR KAMISHAK AK",
+  "waterbody": "PAINT R NR KAMISHAK AK",
+  "state": "AK",
+  "latitude": 59.1545916,
+  "longitude": -154.2612832,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15294900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

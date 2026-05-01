@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03028500",
+  "key": "03028500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03028500",
+  "name": "Clarion River at Johnsonburg, PA",
+  "waterbody": "Clarion River at Johnsonburg, PA",
+  "state": "PA",
+  "latitude": 41.48617269,
+  "longitude": -78.6783595,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JHNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clarion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jhnp1",
+  "slug": "usgs-03028500",
+  "noaaForecastPath": "data/noaa-forecast/JHNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

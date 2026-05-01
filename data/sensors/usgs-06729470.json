@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06729470",
+  "key": "06729470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06729470",
+  "name": "SOUTH BOULDER CR AT FOREBAY NR ELDORADO SPRINGS CO",
+  "waterbody": "SOUTH BOULDER CR AT FOREBAY NR ELDORADO SPRINGS CO",
+  "state": "CO",
+  "latitude": 39.93244444,
+  "longitude": -105.3086667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BELC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Boulder Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/belc2",
+  "slug": "usgs-06729470",
+  "noaaForecastPath": "data/noaa-forecast/BELC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

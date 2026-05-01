@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02153800",
+  "key": "02153800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02153800",
+  "name": "BULLOCK CREEK NR SHARON, SC",
+  "waterbody": "BULLOCK CREEK NR SHARON, SC",
+  "state": "SC",
+  "latitude": 34.95374457,
+  "longitude": -81.38258499,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02153800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

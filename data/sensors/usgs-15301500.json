@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15301500",
+  "key": "15301500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15301500",
+  "name": "ALLEN R NR ALEKNAGIK AK",
+  "waterbody": "ALLEN R NR ALEKNAGIK AK",
+  "state": "AK",
+  "latitude": 60.1539944,
+  "longitude": -158.7366923,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALNA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allen River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alna2",
+  "slug": "usgs-15301500",
+  "noaaForecastPath": "data/noaa-forecast/ALNA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

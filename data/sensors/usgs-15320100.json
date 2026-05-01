@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15320100",
+  "key": "15320100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15320100",
+  "name": "WADE C TRIB NR CHICKEN AK",
+  "waterbody": "WADE C TRIB NR CHICKEN AK",
+  "state": "AK",
+  "latitude": 64.12041729,
+  "longitude": -141.5602063,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jack Wade Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdca2",
+  "slug": "usgs-15320100",
+  "noaaForecastPath": "data/noaa-forecast/WDCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

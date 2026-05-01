@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536085",
+  "key": "05536085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536085",
+  "name": "NB CHICAGO RIVER AT N PULASKI ROAD AT CHICAGO, IL",
+  "waterbody": "NB CHICAGO RIVER AT N PULASKI ROAD AT CHICAGO, IL",
+  "state": "IL",
+  "latitude": 41.9747222,
+  "longitude": -87.7283333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Chicago River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbpi2",
+  "slug": "usgs-05536085",
+  "noaaForecastPath": "data/noaa-forecast/NBPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

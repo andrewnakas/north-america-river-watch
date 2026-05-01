@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06862850",
+  "key": "06862850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06862850",
+  "name": "SMOKY HILL R BL SCHOENCHEN, KS",
+  "waterbody": "SMOKY HILL R BL SCHOENCHEN, KS",
+  "state": "KS",
+  "latitude": 38.71223475,
+  "longitude": -99.292325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCSK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smoky Hill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scsk1",
+  "slug": "usgs-06862850",
+  "noaaForecastPath": "data/noaa-forecast/SCSK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

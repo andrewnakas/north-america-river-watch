@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50044810",
+  "key": "50044810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50044810",
+  "name": "RIO GUADIANA NR GUADIANA, NARANJITO PR",
+  "waterbody": "RIO GUADIANA NR GUADIANA, NARANJITO PR",
+  "state": "PR",
+  "latitude": 18.301403,
+  "longitude": -66.228581,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAMP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Guadiana",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/namp4",
+  "slug": "usgs-50044810",
+  "noaaForecastPath": "data/noaa-forecast/NAMP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

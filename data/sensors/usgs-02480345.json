@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02480345",
+  "key": "02480345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02480345",
+  "name": "TCHOUTACABOUFFA RIVER TRIB NEAR WHITE PLAINS, MS",
+  "waterbody": "TCHOUTACABOUFFA RIVER TRIB NEAR WHITE PLAINS, MS",
+  "state": "MS",
+  "latitude": 30.5910972,
+  "longitude": -88.9068417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPTM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tchoutacabouffa River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wptm6",
+  "slug": "usgs-02480345",
+  "noaaForecastPath": "data/noaa-forecast/WPTM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

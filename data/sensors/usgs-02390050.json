@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02390050",
+  "key": "02390050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02390050",
+  "name": "ETOWAH RIVER AT KELLY BRIDGE ROAD, NEAR MATT, GA",
+  "waterbody": "ETOWAH RIVER AT KELLY BRIDGE ROAD, NEAR MATT, GA",
+  "state": "GA",
+  "latitude": 34.35255556,
+  "longitude": -84.2062222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Etowah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brtg1",
+  "slug": "usgs-02390050",
+  "noaaForecastPath": "data/noaa-forecast/BRTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

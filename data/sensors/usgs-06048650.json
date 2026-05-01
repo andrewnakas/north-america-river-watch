@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06048650",
+  "key": "06048650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06048650",
+  "name": "E Gallatin R ab Water Reclamation Fa nr Bozeman MT",
+  "waterbody": "E Gallatin R ab Water Reclamation Fa nr Bozeman MT",
+  "state": "MT",
+  "latitude": 45.72566667,
+  "longitude": -111.0661944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EGBM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Gallatin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/egbm8",
+  "slug": "usgs-06048650",
+  "noaaForecastPath": "data/noaa-forecast/EGBM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

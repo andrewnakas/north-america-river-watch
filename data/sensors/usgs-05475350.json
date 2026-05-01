@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05475350",
+  "key": "05475350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05475350",
+  "name": "DES MOINES RIVER ABOVE WINDOM, MN",
+  "waterbody": "DES MOINES RIVER ABOVE WINDOM, MN",
+  "state": "MN",
+  "latitude": 43.89025707,
+  "longitude": -95.1611105,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDOM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdom5",
+  "slug": "usgs-05475350",
+  "noaaForecastPath": "data/noaa-forecast/WDOM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

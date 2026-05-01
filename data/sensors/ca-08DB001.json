@@ -1,0 +1,20 @@
+{
+  "id": "ca:08DB001",
+  "key": "08DB001",
+  "network": "ECCC",
+  "country": "CA",
+  "stationId": "08DB001",
+  "name": "NASS RIVER ABOVE SHUMAL CREEK",
+  "waterbody": "NASS RIVER ABOVE SHUMAL CREEK",
+  "state": "BC",
+  "latitude": 55.26224899291992,
+  "longitude": -129.0850372314453,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "status": "Active",
+  "slug": "ca-08DB001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.543Z"
+}

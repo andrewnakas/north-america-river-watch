@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13210050",
+  "key": "13210050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13210050",
+  "name": "BOISE RIVER NR MIDDLETON ID",
+  "waterbody": "BOISE RIVER NR MIDDLETON ID",
+  "state": "ID",
+  "latitude": 43.6848841,
+  "longitude": -116.5737442,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOMI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boise River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bomi1",
+  "slug": "usgs-13210050",
+  "noaaForecastPath": "data/noaa-forecast/BOMI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

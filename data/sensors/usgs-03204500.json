@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03204500",
+  "key": "03204500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03204500",
+  "name": "MUD RIVER NEAR MILTON, WV",
+  "waterbody": "MUD RIVER NEAR MILTON, WV",
+  "state": "WV",
+  "latitude": 38.38825,
+  "longitude": -82.1131111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTNW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud River (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtnw2",
+  "slug": "usgs-03204500",
+  "noaaForecastPath": "data/noaa-forecast/MTNW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

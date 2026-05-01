@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02326885",
+  "key": "02326885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326885",
+  "name": "ST. MARKS RIVER SWALLET NEAR WOODVILLE,FL",
+  "waterbody": "ST. MARKS RIVER SWALLET NEAR WOODVILLE,FL",
+  "state": "FL",
+  "latitude": 30.2852222,
+  "longitude": -84.1511944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Marks River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbrf1",
+  "slug": "usgs-02326885",
+  "noaaForecastPath": "data/noaa-forecast/NBRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

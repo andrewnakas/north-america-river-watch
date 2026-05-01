@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04149000",
+  "key": "04149000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04149000",
+  "name": "FLINT RIVER NEAR FOSTERS, MI",
+  "waterbody": "FLINT RIVER NEAR FOSTERS, MI",
+  "state": "MI",
+  "latitude": 43.30833635,
+  "longitude": -83.95350144,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fosm4",
+  "slug": "usgs-04149000",
+  "noaaForecastPath": "data/noaa-forecast/FOSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

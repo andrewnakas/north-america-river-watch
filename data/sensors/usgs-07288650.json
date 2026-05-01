@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07288650",
+  "key": "07288650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288650",
+  "name": "BOGUE PHALIA NR LELAND, MS",
+  "waterbody": "BOGUE PHALIA NR LELAND, MS",
+  "state": "MS",
+  "latitude": 33.39666667,
+  "longitude": -90.8477778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBGM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bogue Phalia",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbgm6",
+  "slug": "usgs-07288650",
+  "noaaForecastPath": "data/noaa-forecast/LBGM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

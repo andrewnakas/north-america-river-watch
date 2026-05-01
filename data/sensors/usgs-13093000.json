@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13093000",
+  "key": "13093000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13093000",
+  "name": "ROCK CREEK BELOW POLELINE ROAD NR TWIN FALLS ID",
+  "waterbody": "ROCK CREEK BELOW POLELINE ROAD NR TWIN FALLS ID",
+  "state": "ID",
+  "latitude": 42.5935205,
+  "longitude": -114.529763,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13093000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

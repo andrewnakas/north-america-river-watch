@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08385630",
+  "key": "08385630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08385630",
+  "name": "PECOS RIVER NEAR DUNLAP, NM",
+  "waterbody": "PECOS RIVER NEAR DUNLAP, NM",
+  "state": "NM",
+  "latitude": 34.0633333,
+  "longitude": -104.3066667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08385630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

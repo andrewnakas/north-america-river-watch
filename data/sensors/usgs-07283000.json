@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07283000",
+  "key": "07283000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07283000",
+  "name": "SKUNA RIVER AT BRUCE, MS",
+  "waterbody": "SKUNA RIVER AT BRUCE, MS",
+  "state": "MS",
+  "latitude": 33.9736111,
+  "longitude": -89.3477778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRCM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skuna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brcm6",
+  "slug": "usgs-07283000",
+  "noaaForecastPath": "data/noaa-forecast/BRCM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

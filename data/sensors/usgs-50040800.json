@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50040800",
+  "key": "50040800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50040800",
+  "name": "RIO DE LA PLATA AT CAYEY, PR",
+  "waterbody": "RIO DE LA PLATA AT CAYEY, PR",
+  "state": "PR",
+  "latitude": 18.136389,
+  "longitude": -66.138611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAYP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio de la Plata",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cayp4",
+  "slug": "usgs-50040800",
+  "noaaForecastPath": "data/noaa-forecast/CAYP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

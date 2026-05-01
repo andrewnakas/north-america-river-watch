@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01661510",
+  "key": "01661510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01661510",
+  "name": "St George Creek at Piney Point, MD",
+  "waterbody": "St George Creek at Piney Point, MD",
+  "state": "MD",
+  "latitude": 38.1378611,
+  "longitude": -76.5002611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGSM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. George Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgsm2",
+  "slug": "usgs-01661510",
+  "noaaForecastPath": "data/noaa-forecast/SGSM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

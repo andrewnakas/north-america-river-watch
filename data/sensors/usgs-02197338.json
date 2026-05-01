@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02197338",
+  "key": "02197338",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197338",
+  "name": "SITE NO. 5 AT SAVANNAH RIVER SITE, SC",
+  "waterbody": "SITE NO. 5 AT SAVANNAH RIVER SITE, SC",
+  "state": "SC",
+  "latitude": 33.2807015,
+  "longitude": -81.6706668,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02197338",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

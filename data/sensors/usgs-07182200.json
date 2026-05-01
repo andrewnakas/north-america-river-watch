@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07182200",
+  "key": "07182200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07182200",
+  "name": "SF COTTONWOOD R NR BAZAAR, KS",
+  "waterbody": "SF COTTONWOOD R NR BAZAAR, KS",
+  "state": "KS",
+  "latitude": 38.28557125,
+  "longitude": -96.5127844,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07182200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

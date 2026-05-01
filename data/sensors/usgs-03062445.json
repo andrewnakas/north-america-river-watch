@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03062445",
+  "key": "03062445",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062445",
+  "name": "MONONGAHELA R AT MORGANTOWN LOCK & DAM (UPPER), WV",
+  "waterbody": "MONONGAHELA R AT MORGANTOWN LOCK & DAM (UPPER), WV",
+  "state": "WV",
+  "latitude": 39.6198041,
+  "longitude": -79.9695089,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03062445",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

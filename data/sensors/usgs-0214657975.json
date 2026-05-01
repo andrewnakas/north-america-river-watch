@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214657975",
+  "key": "0214657975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214657975",
+  "name": "IRVINS CREEK AT SR3168 NR CHARLOTTE, NC",
+  "waterbody": "IRVINS CREEK AT SR3168 NR CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.1586111,
+  "longitude": -80.7133333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ISNN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Irvins Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/isnn7",
+  "slug": "usgs-0214657975",
+  "noaaForecastPath": "data/noaa-forecast/ISNN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

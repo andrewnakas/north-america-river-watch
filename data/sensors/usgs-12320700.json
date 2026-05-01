@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12320700",
+  "key": "12320700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12320700",
+  "name": "SMITH CREEK BL DIVERSION NR PORTHILL ID",
+  "waterbody": "SMITH CREEK BL DIVERSION NR PORTHILL ID",
+  "state": "ID",
+  "latitude": 48.92966487,
+  "longitude": -116.6571636,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12320700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

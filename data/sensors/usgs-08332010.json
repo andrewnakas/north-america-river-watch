@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08332010",
+  "key": "08332010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08332010",
+  "name": "RIO GRANDE FLOODWAY NEAR BERNARDO, NM",
+  "waterbody": "RIO GRANDE FLOODWAY NEAR BERNARDO, NM",
+  "state": "NM",
+  "latitude": 34.41701204,
+  "longitude": -106.8005832,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08332010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

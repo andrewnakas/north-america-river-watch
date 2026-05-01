@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03335673",
+  "key": "03335673",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03335673",
+  "name": "LITTLE WEA CREEK AT SOUTH RAUB, IN",
+  "waterbody": "LITTLE WEA CREEK AT SOUTH RAUB, IN",
+  "state": "IN",
+  "latitude": 40.30141819,
+  "longitude": -86.923604,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wea Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwci3",
+  "slug": "usgs-03335673",
+  "noaaForecastPath": "data/noaa-forecast/LWCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05242300",
+  "key": "05242300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05242300",
+  "name": "MISSISSIPPI RIVER AT BRAINERD, MN",
+  "waterbody": "MISSISSIPPI RIVER AT BRAINERD, MN",
+  "state": "MN",
+  "latitude": 46.37769,
+  "longitude": -94.182648,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRAM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bram5",
+  "slug": "usgs-05242300",
+  "noaaForecastPath": "data/noaa-forecast/BRAM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

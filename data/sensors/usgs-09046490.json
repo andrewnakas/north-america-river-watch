@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09046490",
+  "key": "09046490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09046490",
+  "name": "BLUE RIVER AT BLUE RIVER, CO.",
+  "waterbody": "BLUE RIVER AT BLUE RIVER, CO.",
+  "state": "CO",
+  "latitude": 39.455833,
+  "longitude": -106.031111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUEC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/buec2",
+  "slug": "usgs-09046490",
+  "noaaForecastPath": "data/noaa-forecast/BUEC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

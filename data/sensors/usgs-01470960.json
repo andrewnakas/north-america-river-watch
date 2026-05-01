@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01470960",
+  "key": "01470960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01470960",
+  "name": "Tulpehocken Cr at Blue Marsh Damsite near Reading",
+  "waterbody": "Tulpehocken Cr at Blue Marsh Damsite near Reading",
+  "state": "PA",
+  "latitude": 40.37056658,
+  "longitude": -76.025192,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tulpehocken Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plvp1",
+  "slug": "usgs-01470960",
+  "noaaForecastPath": "data/noaa-forecast/PLVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

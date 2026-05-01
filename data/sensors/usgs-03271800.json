@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03271800",
+  "key": "03271800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03271800",
+  "name": "Twin Creek near Ingomar OH",
+  "waterbody": "Twin Creek near Ingomar OH",
+  "state": "OH",
+  "latitude": 39.70783125,
+  "longitude": -84.5249498,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03271800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

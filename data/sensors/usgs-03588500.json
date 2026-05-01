@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03588500",
+  "key": "03588500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03588500",
+  "name": "SHOAL CREEK AT IRON CITY, TN",
+  "waterbody": "SHOAL CREEK AT IRON CITY, TN",
+  "state": "TN",
+  "latitude": 35.02415329,
+  "longitude": -87.5790219,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRCT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoal Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irct1",
+  "slug": "usgs-03588500",
+  "noaaForecastPath": "data/noaa-forecast/IRCT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08086212",
+  "key": "08086212",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08086212",
+  "name": "Hubbard Ck bl Albany, TX",
+  "waterbody": "Hubbard Ck bl Albany, TX",
+  "state": "TX",
+  "latitude": 32.73289717,
+  "longitude": -99.1406299,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hubbard Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abat2",
+  "slug": "usgs-08086212",
+  "noaaForecastPath": "data/noaa-forecast/ABAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

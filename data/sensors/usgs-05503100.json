@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05503100",
+  "key": "05503100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05503100",
+  "name": "Black Creek below Shelbyville, MO",
+  "waterbody": "Black Creek below Shelbyville, MO",
+  "state": "MO",
+  "latitude": 39.73805556,
+  "longitude": -91.9361111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05503100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

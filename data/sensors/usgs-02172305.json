@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02172305",
+  "key": "02172305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172305",
+  "name": "MCTIER CREEK NEAR NEW HOLLAND, SC",
+  "waterbody": "MCTIER CREEK NEAR NEW HOLLAND, SC",
+  "state": "SC",
+  "latitude": 33.7183333,
+  "longitude": -81.6080556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02172305",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

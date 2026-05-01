@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13170700",
+  "key": "13170700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13170700",
+  "name": "LITTLE VALLEY MUTUAL CANAL NR BRUNEAU ID",
+  "waterbody": "LITTLE VALLEY MUTUAL CANAL NR BRUNEAU ID",
+  "state": "ID",
+  "latitude": 42.92166667,
+  "longitude": -115.9516667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13170700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310322",
+  "key": "02310322",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310322",
+  "name": "LAKE WORRELL OUTFALL NR NEW PORT RICHEY EAST FL",
+  "waterbody": "LAKE WORRELL OUTFALL NR NEW PORT RICHEY EAST FL",
+  "state": "FL",
+  "latitude": 28.28055556,
+  "longitude": -82.66777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWOF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Worrell Outfall Near New Port Richey",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwof1",
+  "slug": "usgs-02310322",
+  "noaaForecastPath": "data/noaa-forecast/LWOF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

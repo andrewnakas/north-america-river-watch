@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105300",
+  "key": "08105300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105300",
+  "name": "San Gabriel Rv nr Weir, TX",
+  "waterbody": "San Gabriel Rv nr Weir, TX",
+  "state": "TX",
+  "latitude": 30.646,
+  "longitude": -97.5852,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Gabriel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsgt2",
+  "slug": "usgs-08105300",
+  "noaaForecastPath": "data/noaa-forecast/WSGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06880800",
+  "key": "06880800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06880800",
+  "name": "West Fork Big Blue River near Dorchester, Nebr.",
+  "waterbody": "West Fork Big Blue River near Dorchester, Nebr.",
+  "state": "NE",
+  "latitude": 40.73151667,
+  "longitude": -97.17776667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRGN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Big Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drgn1",
+  "slug": "usgs-06880800",
+  "noaaForecastPath": "data/noaa-forecast/DRGN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

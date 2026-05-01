@@ -1,0 +1,19 @@
+{
+  "id": "usgs:384041121410301",
+  "key": "384041121410301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "384041121410301",
+  "name": "CACHE C SETTLING BASIN SITE B NR WOODLAND CA",
+  "waterbody": "CACHE C SETTLING BASIN SITE B NR WOODLAND CA",
+  "state": "CA",
+  "latitude": 38.6779346,
+  "longitude": -121.6852046,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-384041121410301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

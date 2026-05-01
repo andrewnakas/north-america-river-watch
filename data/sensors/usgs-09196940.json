@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09196940",
+  "key": "09196940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09196940",
+  "name": "FREMONT DITCH NEAR PINEDALE, WY",
+  "waterbody": "FREMONT DITCH NEAR PINEDALE, WY",
+  "state": "WY",
+  "latitude": 42.89466605,
+  "longitude": -109.8534866,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09196940",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

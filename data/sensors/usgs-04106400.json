@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04106400",
+  "key": "04106400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04106400",
+  "name": "WEST FORK PORTAGE CREEK AT KALAMAZOO, MI",
+  "waterbody": "WEST FORK PORTAGE CREEK AT KALAMAZOO, MI",
+  "state": "MI",
+  "latitude": 42.2444854,
+  "longitude": -85.6144495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Portage Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wpcm4",
+  "slug": "usgs-04106400",
+  "noaaForecastPath": "data/noaa-forecast/WPCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

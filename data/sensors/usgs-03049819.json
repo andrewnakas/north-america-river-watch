@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03049819",
+  "key": "03049819",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049819",
+  "name": "Girtys Run above Grant Avenue at Millvale, PA",
+  "waterbody": "Girtys Run above Grant Avenue at Millvale, PA",
+  "state": "PA",
+  "latitude": 40.4778333,
+  "longitude": -79.9700278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Girty's Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gtyp1",
+  "slug": "usgs-03049819",
+  "noaaForecastPath": "data/noaa-forecast/GTYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

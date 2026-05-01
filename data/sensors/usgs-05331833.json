@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05331833",
+  "key": "05331833",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05331833",
+  "name": "NAMEKAGON RIVER AT LEONARDS, WI",
+  "waterbody": "NAMEKAGON RIVER AT LEONARDS, WI",
+  "state": "WI",
+  "latitude": 46.1713687,
+  "longitude": -91.3293778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEOW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Namekagon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/leow3",
+  "slug": "usgs-05331833",
+  "noaaForecastPath": "data/noaa-forecast/LEOW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

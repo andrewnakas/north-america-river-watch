@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50055000",
+  "key": "50055000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50055000",
+  "name": "RIO GRANDE DE LOIZA AT CAGUAS, PR",
+  "waterbody": "RIO GRANDE DE LOIZA AT CAGUAS, PR",
+  "state": "PR",
+  "latitude": 18.24269444,
+  "longitude": -66.00958889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAGP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Loiza",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cagp4",
+  "slug": "usgs-50055000",
+  "noaaForecastPath": "data/noaa-forecast/CAGP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

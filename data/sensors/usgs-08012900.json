@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08012900",
+  "key": "08012900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08012900",
+  "name": "Calcasieu R @ Hineston, LA",
+  "waterbody": "Calcasieu R @ Hineston, LA",
+  "state": "LA",
+  "latitude": 31.12888889,
+  "longitude": -92.7620833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08012900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03061500",
+  "key": "03061500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03061500",
+  "name": "BUFFALO CREEK AT BARRACKVILLE, WV",
+  "waterbody": "BUFFALO CREEK AT BARRACKVILLE, WV",
+  "state": "WV",
+  "latitude": 39.50566667,
+  "longitude": -80.1681667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRIW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Creek (WV)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/briw2",
+  "slug": "usgs-03061500",
+  "noaaForecastPath": "data/noaa-forecast/BRIW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

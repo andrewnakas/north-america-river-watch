@@ -1,0 +1,19 @@
+{
+  "id": "usgs:434928072192701",
+  "key": "434928072192701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "434928072192701",
+  "name": "Elizabeth Mine PTS discharge nr S Strafford, VT",
+  "waterbody": "Elizabeth Mine PTS discharge nr S Strafford, VT",
+  "state": "VT",
+  "latitude": 43.8243222,
+  "longitude": -72.3242194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-434928072192701",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

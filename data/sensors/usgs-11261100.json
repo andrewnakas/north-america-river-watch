@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11261100",
+  "key": "11261100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11261100",
+  "name": "SALT SLOUGH A HWY 165 NR STEVINSON CA",
+  "waterbody": "SALT SLOUGH A HWY 165 NR STEVINSON CA",
+  "state": "CA",
+  "latitude": 37.2476912,
+  "longitude": -120.8521075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11261100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

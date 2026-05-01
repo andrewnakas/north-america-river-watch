@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14051000",
+  "key": "14051000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14051000",
+  "name": "CULTUS CR AB CRANE PRAIRIE RES NR LA PINE,OREG.",
+  "waterbody": "CULTUS CR AB CRANE PRAIRIE RES NR LA PINE,OREG.",
+  "state": "OR",
+  "latitude": 43.82122909,
+  "longitude": -121.8239195,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14051000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

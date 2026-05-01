@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01425000",
+  "key": "01425000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01425000",
+  "name": "WEST BRANCH DELAWARE RIVER AT STILESVILLE NY",
+  "waterbody": "WEST BRANCH DELAWARE RIVER AT STILESVILLE NY",
+  "state": "NY",
+  "latitude": 42.07491667,
+  "longitude": -75.3958056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Delaware River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slvn6",
+  "slug": "usgs-01425000",
+  "noaaForecastPath": "data/noaa-forecast/SLVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

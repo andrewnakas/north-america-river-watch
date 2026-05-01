@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01474500",
+  "key": "01474500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01474500",
+  "name": "Schuylkill River at Philadelphia, PA",
+  "waterbody": "Schuylkill River at Philadelphia, PA",
+  "state": "PA",
+  "latitude": 39.9677908,
+  "longitude": -75.1885007,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PADP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schuylkill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/padp1",
+  "slug": "usgs-01474500",
+  "noaaForecastPath": "data/noaa-forecast/PADP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

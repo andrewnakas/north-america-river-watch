@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03598165",
+  "key": "03598165",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03598165",
+  "name": "HURRICANE CREEK NEAR ELBETHEL, TN",
+  "waterbody": "HURRICANE CREEK NEAR ELBETHEL, TN",
+  "state": "TN",
+  "latitude": 35.55757044,
+  "longitude": -86.498327,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03598165",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

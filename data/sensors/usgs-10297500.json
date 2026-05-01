@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10297500",
+  "key": "10297500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10297500",
+  "name": "W WALKER RV AT HOYE BRG NR WELLINGTON, NV",
+  "waterbody": "W WALKER RV AT HOYE BRG NR WELLINGTON, NV",
+  "state": "NV",
+  "latitude": 38.72806389,
+  "longitude": -119.427861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOYN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Walker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hoyn2",
+  "slug": "usgs-10297500",
+  "noaaForecastPath": "data/noaa-forecast/HOYN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

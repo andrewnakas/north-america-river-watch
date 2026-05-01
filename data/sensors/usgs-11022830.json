@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11022830",
+  "key": "11022830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11022830",
+  "name": "ALVARADO C NR LA MESA CA",
+  "waterbody": "ALVARADO C NR LA MESA CA",
+  "state": "CA",
+  "latitude": 32.778325,
+  "longitude": -117.06339722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11022830",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

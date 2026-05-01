@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15746980",
+  "key": "15746980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15746980",
+  "name": "IKALUKROK C AB RED DOG C NR KIVALINA AK",
+  "waterbody": "IKALUKROK C AB RED DOG C NR KIVALINA AK",
+  "state": "AK",
+  "latitude": 68.0932357,
+  "longitude": -162.9493459,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15746980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

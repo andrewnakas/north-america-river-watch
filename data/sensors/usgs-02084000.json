@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02084000",
+  "key": "02084000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02084000",
+  "name": "TAR RIVER AT GREENVILLE, NC",
+  "waterbody": "TAR RIVER AT GREENVILLE, NC",
+  "state": "NC",
+  "latitude": 35.61666667,
+  "longitude": -77.37277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PGVN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pgvn7",
+  "slug": "usgs-02084000",
+  "noaaForecastPath": "data/noaa-forecast/PGVN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

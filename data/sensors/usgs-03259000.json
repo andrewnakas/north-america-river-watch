@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03259000",
+  "key": "03259000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03259000",
+  "name": "Mill Creek at Carthage OH",
+  "waterbody": "Mill Creek at Carthage OH",
+  "state": "OH",
+  "latitude": 39.2019722,
+  "longitude": -84.4712778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03259000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

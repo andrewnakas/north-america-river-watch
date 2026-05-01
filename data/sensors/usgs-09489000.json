@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09489000",
+  "key": "09489000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09489000",
+  "name": "SANTA CRUZ RIVER NEAR LAVEEN, AZ.",
+  "waterbody": "SANTA CRUZ RIVER NEAR LAVEEN, AZ.",
+  "state": "AZ",
+  "latitude": 33.23262778,
+  "longitude": -112.1695806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09489000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

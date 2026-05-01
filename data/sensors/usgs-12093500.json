@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12093500",
+  "key": "12093500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12093500",
+  "name": "PUYALLUP RIVER NEAR ORTING, WA",
+  "waterbody": "PUYALLUP RIVER NEAR ORTING, WA",
+  "state": "WA",
+  "latitude": 47.0392396,
+  "longitude": -122.2078708,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORTW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Puyallup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ortw1",
+  "slug": "usgs-12093500",
+  "noaaForecastPath": "data/noaa-forecast/ORTW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

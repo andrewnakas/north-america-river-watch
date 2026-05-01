@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07027003",
+  "key": "07027003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07027003",
+  "name": "Reelfoot Lake Spillway nr Tiptonville",
+  "waterbody": "Reelfoot Lake Spillway nr Tiptonville",
+  "state": "TN",
+  "latitude": 36.35148889,
+  "longitude": -89.409775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07027003",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

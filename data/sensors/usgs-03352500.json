@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03352500",
+  "key": "03352500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03352500",
+  "name": "FALL CREEK AT MILLERSVILLE, IN",
+  "waterbody": "FALL CREEK AT MILLERSVILLE, IN",
+  "state": "IN",
+  "latitude": 39.8519788,
+  "longitude": -86.08746569,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fall Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlri3",
+  "slug": "usgs-03352500",
+  "noaaForecastPath": "data/noaa-forecast/MLRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

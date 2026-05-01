@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14070500",
+  "key": "14070500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14070500",
+  "name": "DESCHUTES RIVER BELOW BEND,OREG.",
+  "waterbody": "DESCHUTES RIVER BELOW BEND,OREG.",
+  "state": "OR",
+  "latitude": 44.08289525,
+  "longitude": -121.30781,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEBO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deschutes River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/debo3",
+  "slug": "usgs-14070500",
+  "noaaForecastPath": "data/noaa-forecast/DEBO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

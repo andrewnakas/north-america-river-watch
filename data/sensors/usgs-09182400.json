@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09182400",
+  "key": "09182400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09182400",
+  "name": "CASTLE CREEK BELOW CASTLE VALLEY NEAR MOAB, UT",
+  "waterbody": "CASTLE CREEK BELOW CASTLE VALLEY NEAR MOAB, UT",
+  "state": "UT",
+  "latitude": 38.673859,
+  "longitude": -109.4501395,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTLU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Castle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctlu1",
+  "slug": "usgs-09182400",
+  "noaaForecastPath": "data/noaa-forecast/CTLU1.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

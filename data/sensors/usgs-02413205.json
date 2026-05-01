@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02413205",
+  "key": "02413205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02413205",
+  "name": "LITTLE TALLAPOOSA R AT REAVESVILLE RD NR BOWDON,GA",
+  "waterbody": "LITTLE TALLAPOOSA R AT REAVESVILLE RD NR BOWDON,GA",
+  "state": "GA",
+  "latitude": 33.5008333,
+  "longitude": -85.2525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02413205",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

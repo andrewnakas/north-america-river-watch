@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12102212",
+  "key": "12102212",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12102212",
+  "name": "SWAN CREEK AT PIONEER WAY TACOMA, WA",
+  "waterbody": "SWAN CREEK AT PIONEER WAY TACOMA, WA",
+  "state": "WA",
+  "latitude": 47.2284329,
+  "longitude": -122.3917891,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12102212",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

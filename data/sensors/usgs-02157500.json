@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02157500",
+  "key": "02157500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02157500",
+  "name": "MIDDLE TYGER RIVER AT LYMAN, S.C.",
+  "waterbody": "MIDDLE TYGER RIVER AT LYMAN, S.C.",
+  "state": "SC",
+  "latitude": 34.944117,
+  "longitude": -82.133578,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02157500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

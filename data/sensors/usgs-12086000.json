@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12086000",
+  "key": "12086000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12086000",
+  "name": "NISQUALLY RIVER AT LA GRANDE DAM, WA",
+  "waterbody": "NISQUALLY RIVER AT LA GRANDE DAM, WA",
+  "state": "WA",
+  "latitude": 46.82260445,
+  "longitude": -122.30428,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12086000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

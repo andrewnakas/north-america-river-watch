@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05514500",
+  "key": "05514500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05514500",
+  "name": "Cuivre River near Troy, MO",
+  "waterbody": "Cuivre River near Troy, MO",
+  "state": "MO",
+  "latitude": 39.01130556,
+  "longitude": -90.97775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRYM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuivre River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trym7",
+  "slug": "usgs-05514500",
+  "noaaForecastPath": "data/noaa-forecast/TRYM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

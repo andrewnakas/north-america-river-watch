@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16242500",
+  "key": "16242500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16242500",
+  "name": "Manoa Str at Kanewai Field, Honolulu, Oahu, HI",
+  "waterbody": "Manoa Str at Kanewai Field, Honolulu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.29322222,
+  "longitude": -157.8127222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16242500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

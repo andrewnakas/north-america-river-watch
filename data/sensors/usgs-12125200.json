@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12125200",
+  "key": "12125200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12125200",
+  "name": "SAMMAMISH RIVER NEAR WOODINVILLE, WA",
+  "waterbody": "SAMMAMISH RIVER NEAR WOODINVILLE, WA",
+  "state": "WA",
+  "latitude": 47.70343228,
+  "longitude": -122.1437349,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12125200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

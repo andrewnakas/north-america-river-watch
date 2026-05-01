@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04105700",
+  "key": "04105700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04105700",
+  "name": "AUGUSTA CREEK NEAR AUGUSTA, MI",
+  "waterbody": "AUGUSTA CREEK NEAR AUGUSTA, MI",
+  "state": "MI",
+  "latitude": 42.3533734,
+  "longitude": -85.3538894,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Augusta Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/augm4",
+  "slug": "usgs-04105700",
+  "noaaForecastPath": "data/noaa-forecast/AUGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

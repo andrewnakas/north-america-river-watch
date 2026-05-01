@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05058000",
+  "key": "05058000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05058000",
+  "name": "SHEYENNE RIVER BELOW BALDHILL DAM, ND",
+  "waterbody": "SHEYENNE RIVER BELOW BALDHILL DAM, ND",
+  "state": "ND",
+  "latitude": 47.0338718,
+  "longitude": -98.0837077,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLDN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Ashtabula",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bldn8",
+  "slug": "usgs-05058000",
+  "noaaForecastPath": "data/noaa-forecast/BLDN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

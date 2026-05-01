@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08235290",
+  "key": "08235290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08235290",
+  "name": "WIGHTMAN FORK AT MOUTH NEAR JASPER, CO",
+  "waterbody": "WIGHTMAN FORK AT MOUTH NEAR JASPER, CO",
+  "state": "CO",
+  "latitude": 37.40389457,
+  "longitude": -106.5217044,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08235290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

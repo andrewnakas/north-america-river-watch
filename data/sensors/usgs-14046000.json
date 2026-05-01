@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14046000",
+  "key": "14046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14046000",
+  "name": "NORTH FORK JOHN DAY RIVER AT MONUMENT, OR",
+  "waterbody": "NORTH FORK JOHN DAY RIVER AT MONUMENT, OR",
+  "state": "OR",
+  "latitude": 44.81491667,
+  "longitude": -119.432,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MONO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork John Day River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mono3",
+  "slug": "usgs-14046000",
+  "noaaForecastPath": "data/noaa-forecast/MONO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

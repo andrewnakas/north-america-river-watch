@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07164480",
+  "key": "07164480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07164480",
+  "name": "Arkansas Rv at SH 344 nr Tulsa, OK",
+  "waterbody": "Arkansas Rv at SH 344 nr Tulsa, OK",
+  "state": "OK",
+  "latitude": 36.1419111,
+  "longitude": -96.0573694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TZDO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tzdo2",
+  "slug": "usgs-07164480",
+  "noaaForecastPath": "data/noaa-forecast/TZDO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

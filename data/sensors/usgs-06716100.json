@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06716100",
+  "key": "06716100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06716100",
+  "name": "WEST FORK CLEAR CREEK ABV MOUTH NR EMPIRE, CO",
+  "waterbody": "WEST FORK CLEAR CREEK ABV MOUTH NR EMPIRE, CO",
+  "state": "CO",
+  "latitude": 39.75887636,
+  "longitude": -105.6600025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06716100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

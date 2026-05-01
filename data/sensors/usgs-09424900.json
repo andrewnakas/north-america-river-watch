@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09424900",
+  "key": "09424900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09424900",
+  "name": "SANTA MARIA RIVER NEAR BAGDAD, AZ",
+  "waterbody": "SANTA MARIA RIVER NEAR BAGDAD, AZ",
+  "state": "AZ",
+  "latitude": 34.3058675,
+  "longitude": -113.3471532,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMBA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Maria River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smba3",
+  "slug": "usgs-09424900",
+  "noaaForecastPath": "data/noaa-forecast/SMBA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

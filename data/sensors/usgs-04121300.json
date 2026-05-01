@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04121300",
+  "key": "04121300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04121300",
+  "name": "CLAM RIVER AT VOGEL CENTER, MI",
+  "waterbody": "CLAM RIVER AT VOGEL CENTER, MI",
+  "state": "MI",
+  "latitude": 44.2005692,
+  "longitude": -85.0528147,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VGCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vgcm4",
+  "slug": "usgs-04121300",
+  "noaaForecastPath": "data/noaa-forecast/VGCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

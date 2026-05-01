@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10384000",
+  "key": "10384000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10384000",
+  "name": "CHEWAUCAN RIVER NEAR PAISLEY,OREG.",
+  "waterbody": "CHEWAUCAN RIVER NEAR PAISLEY,OREG.",
+  "state": "OR",
+  "latitude": 42.68459668,
+  "longitude": -120.5699722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10384000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

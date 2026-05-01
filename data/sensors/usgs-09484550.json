@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09484550",
+  "key": "09484550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09484550",
+  "name": "CIENEGA CREEK NEAR SONOITA, AZ.",
+  "waterbody": "CIENEGA CREEK NEAR SONOITA, AZ.",
+  "state": "AZ",
+  "latitude": 31.86555556,
+  "longitude": -110.57,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNEA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cienega Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnea3",
+  "slug": "usgs-09484550",
+  "noaaForecastPath": "data/noaa-forecast/CNEA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

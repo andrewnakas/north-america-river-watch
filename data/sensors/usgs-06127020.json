@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06127020",
+  "key": "06127020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06127020",
+  "name": "Willow Cr ab LMGA Reservoir nr Roundup MT",
+  "waterbody": "Willow Cr ab LMGA Reservoir nr Roundup MT",
+  "state": "MT",
+  "latitude": 46.5976722,
+  "longitude": -108.6936861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06127020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

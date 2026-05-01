@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50048565",
+  "key": "50048565",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50048565",
+  "name": "QUEBRADA SANTA CATALINA NEAR GUAYNABO, PR",
+  "waterbody": "QUEBRADA SANTA CATALINA NEAR GUAYNABO, PR",
+  "state": "PR",
+  "latitude": 18.409028,
+  "longitude": -66.118472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Bayamon",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcap4",
+  "slug": "usgs-50048565",
+  "noaaForecastPath": "data/noaa-forecast/BCAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09222100",
+  "key": "09222100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09222100",
+  "name": "Muddy Creek near Piedmont, WY",
+  "waterbody": "Muddy Creek near Piedmont, WY",
+  "state": "WY",
+  "latitude": 41.28064444,
+  "longitude": -110.59708056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09222100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

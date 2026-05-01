@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06819500",
+  "key": "06819500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06819500",
+  "name": "One Hundred and Two River at Maryville, MO",
+  "waterbody": "One Hundred and Two River at Maryville, MO",
+  "state": "MO",
+  "latitude": 40.3455,
+  "longitude": -94.8323611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYVM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "102 River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myvm7",
+  "slug": "usgs-06819500",
+  "noaaForecastPath": "data/noaa-forecast/MYVM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

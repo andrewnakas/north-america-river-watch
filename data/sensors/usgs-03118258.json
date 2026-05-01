@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03118258",
+  "key": "03118258",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03118258",
+  "name": "Zimber Ditch at North Canton OH",
+  "waterbody": "Zimber Ditch at North Canton OH",
+  "state": "OH",
+  "latitude": 40.87027778,
+  "longitude": -81.41638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZMBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Zimber Ditch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zmbo1",
+  "slug": "usgs-03118258",
+  "noaaForecastPath": "data/noaa-forecast/ZMBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

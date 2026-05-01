@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04127997",
+  "key": "04127997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04127997",
+  "name": "STURGEON RIVER AT WOLVERINE, MI",
+  "waterbody": "STURGEON RIVER AT WOLVERINE, MI",
+  "state": "MI",
+  "latitude": 45.27445746,
+  "longitude": -84.6000315,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOLM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sturgeon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wolm4",
+  "slug": "usgs-04127997",
+  "noaaForecastPath": "data/noaa-forecast/WOLM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

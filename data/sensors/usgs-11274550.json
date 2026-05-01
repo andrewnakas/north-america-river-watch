@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11274550",
+  "key": "11274550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11274550",
+  "name": "SAN JOAQUIN R NR CROWS LANDING CA",
+  "waterbody": "SAN JOAQUIN R NR CROWS LANDING CA",
+  "state": "CA",
+  "latitude": 37.43218889,
+  "longitude": -121.0133444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Joaquin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crdc1",
+  "slug": "usgs-11274550",
+  "noaaForecastPath": "data/noaa-forecast/CRDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

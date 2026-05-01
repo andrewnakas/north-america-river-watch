@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12415290",
+  "key": "12415290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12415290",
+  "name": "CARLIN CREEK NEAR HARRISON ID",
+  "waterbody": "CARLIN CREEK NEAR HARRISON ID",
+  "state": "ID",
+  "latitude": 47.53407308,
+  "longitude": -116.7540704,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12415290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

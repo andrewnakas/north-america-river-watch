@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11493100",
+  "key": "11493100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11493100",
+  "name": "SCOTT CREEK BLW SAND CREEK CANAL NR CHINCHALO, OR",
+  "waterbody": "SCOTT CREEK BLW SAND CREEK CANAL NR CHINCHALO, OR",
+  "state": "OR",
+  "latitude": 42.88709167,
+  "longitude": -121.8727556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11493100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

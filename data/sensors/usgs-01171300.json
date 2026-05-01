@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01171300",
+  "key": "01171300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01171300",
+  "name": "FORT RIVER NEAR AMHERST, MA",
+  "waterbody": "FORT RIVER NEAR AMHERST, MA",
+  "state": "MA",
+  "latitude": 42.35842359,
+  "longitude": -72.50592039,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01171300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

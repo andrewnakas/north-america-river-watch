@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03611500",
+  "key": "03611500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03611500",
+  "name": "OHIO RIVER AT METROPOLIS, IL",
+  "waterbody": "OHIO RIVER AT METROPOLIS, IL",
+  "state": "IL",
+  "latitude": 37.14755435,
+  "longitude": -88.7408872,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03611500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

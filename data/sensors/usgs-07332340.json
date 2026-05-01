@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07332340",
+  "key": "07332340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332340",
+  "name": "Little West Blue Creek Nr Connerville, OK",
+  "waterbody": "Little West Blue Creek Nr Connerville, OK",
+  "state": "OK",
+  "latitude": 34.475753,
+  "longitude": -96.681544,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWBO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little West Blue Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwbo2",
+  "slug": "usgs-07332340",
+  "noaaForecastPath": "data/noaa-forecast/CWBO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

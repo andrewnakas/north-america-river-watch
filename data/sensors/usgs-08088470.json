@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08088470",
+  "key": "08088470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08088470",
+  "name": "Cedar Ck at FM 3253 nr Caddo, TX",
+  "waterbody": "Cedar Ck at FM 3253 nr Caddo, TX",
+  "state": "TX",
+  "latitude": 32.85163889,
+  "longitude": -98.6617611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08088470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

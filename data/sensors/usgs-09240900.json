@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09240900",
+  "key": "09240900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09240900",
+  "name": "ELK RIVER ABOVE CLARK, CO",
+  "waterbody": "ELK RIVER ABOVE CLARK, CO",
+  "state": "CO",
+  "latitude": 40.743306,
+  "longitude": -106.8553254,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09240900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

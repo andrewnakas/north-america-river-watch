@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50128920",
+  "key": "50128920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50128920",
+  "name": "CANAL DE RIEGO DE LAJAS ABV MAJINAS FILT. PLANT PR",
+  "waterbody": "CANAL DE RIEGO DE LAJAS ABV MAJINAS FILT. PLANT PR",
+  "state": "PR",
+  "latitude": 18.045869,
+  "longitude": -66.949139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50128920",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09111250",
+  "key": "09111250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09111250",
+  "name": "COAL CREEK ABV MCCORMICK DTCH AT CRESTED BUTTE, CO",
+  "waterbody": "COAL CREEK ABV MCCORMICK DTCH AT CRESTED BUTTE, CO",
+  "state": "CO",
+  "latitude": 38.871556,
+  "longitude": -106.985297,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09111250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

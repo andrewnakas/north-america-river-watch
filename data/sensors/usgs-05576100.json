@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05576100",
+  "key": "05576100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576100",
+  "name": "LICK CREEK NEAR WOODSIDE, IL",
+  "waterbody": "LICK CREEK NEAR WOODSIDE, IL",
+  "state": "IL",
+  "latitude": 39.71553889,
+  "longitude": -89.7024444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05576100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

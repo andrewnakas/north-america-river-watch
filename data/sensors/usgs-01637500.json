@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01637500",
+  "key": "01637500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01637500",
+  "name": "CATOCTIN CREEK NEAR MIDDLETOWN, MD",
+  "waterbody": "CATOCTIN CREEK NEAR MIDDLETOWN, MD",
+  "state": "MD",
+  "latitude": 39.42725,
+  "longitude": -77.55616667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDLM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catoctin Creek Near Middletown",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdlm2",
+  "slug": "usgs-01637500",
+  "noaaForecastPath": "data/noaa-forecast/MDLM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

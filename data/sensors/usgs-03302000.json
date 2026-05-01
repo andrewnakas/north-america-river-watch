@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03302000",
+  "key": "03302000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302000",
+  "name": "POND CREEK NEAR LOUISVILLE, KY",
+  "waterbody": "POND CREEK NEAR LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.1197916,
+  "longitude": -85.7957955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FDLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pond Creek (C KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fdlk2",
+  "slug": "usgs-03302000",
+  "noaaForecastPath": "data/noaa-forecast/FDLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

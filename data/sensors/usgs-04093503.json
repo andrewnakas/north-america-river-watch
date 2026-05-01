@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04093503",
+  "key": "04093503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04093503",
+  "name": "BURNS DITCH AT USHWY 20 AT LAKE STATION, IN",
+  "waterbody": "BURNS DITCH AT USHWY 20 AT LAKE STATION, IN",
+  "state": "IN",
+  "latitude": 41.5938333,
+  "longitude": -87.2205,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04093503",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

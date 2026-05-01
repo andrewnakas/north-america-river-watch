@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03139850",
+  "key": "03139850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03139850",
+  "name": "Walhonding River below Randle OH",
+  "waterbody": "Walhonding River below Randle OH",
+  "state": "OH",
+  "latitude": 40.30923629,
+  "longitude": -81.9068012,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHDO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walhonding River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whdo1",
+  "slug": "usgs-03139850",
+  "noaaForecastPath": "data/noaa-forecast/WHDO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

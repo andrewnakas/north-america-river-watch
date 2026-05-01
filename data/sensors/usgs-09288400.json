@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09288400",
+  "key": "09288400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09288400",
+  "name": "STRAWBERRY R BLW STARVATION RES NR DUCHESNE, UT",
+  "waterbody": "STRAWBERRY R BLW STARVATION RES NR DUCHESNE, UT",
+  "state": "UT",
+  "latitude": 40.17384647,
+  "longitude": -110.4295999,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09288400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

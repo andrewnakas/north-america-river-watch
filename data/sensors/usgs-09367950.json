@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09367950",
+  "key": "09367950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09367950",
+  "name": "CHACO RIVER NEAR WATERFLOW , NM",
+  "waterbody": "CHACO RIVER NEAR WATERFLOW , NM",
+  "state": "NM",
+  "latitude": 36.72444488,
+  "longitude": -108.5914736,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09367950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

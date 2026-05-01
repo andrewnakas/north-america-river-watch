@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02232900",
+  "key": "02232900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02232900",
+  "name": "LITTLE ECON SWAMP AT NOVA RD NR NARCOOSSEE, FL",
+  "waterbody": "LITTLE ECON SWAMP AT NOVA RD NR NARCOOSSEE, FL",
+  "state": "FL",
+  "latitude": 28.27543333,
+  "longitude": -81.10941389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02232900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

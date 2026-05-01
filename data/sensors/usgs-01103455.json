@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01103455",
+  "key": "01103455",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01103455",
+  "name": "TROUT BROOK AT DOVER, MA",
+  "waterbody": "TROUT BROOK AT DOVER, MA",
+  "state": "MA",
+  "latitude": 42.25398645,
+  "longitude": -71.29339017,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01103455",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

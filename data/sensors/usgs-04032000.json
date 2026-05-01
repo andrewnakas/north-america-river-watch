@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04032000",
+  "key": "04032000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04032000",
+  "name": "PRESQUE ISLE RIVER NEAR TULA, MI",
+  "waterbody": "PRESQUE ISLE RIVER NEAR TULA, MI",
+  "state": "MI",
+  "latitude": 46.5472222,
+  "longitude": -89.7772222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PQSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Presque Isle River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pqsm4",
+  "slug": "usgs-04032000",
+  "noaaForecastPath": "data/noaa-forecast/PQSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

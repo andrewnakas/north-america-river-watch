@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522850",
+  "key": "09522850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522850",
+  "name": "GILA GRAVITY CANAL AT YUMA-MESA PUMPING PLANT, AZ",
+  "waterbody": "GILA GRAVITY CANAL AT YUMA-MESA PUMPING PLANT, AZ",
+  "state": "AZ",
+  "latitude": 32.68175,
+  "longitude": -114.4703639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

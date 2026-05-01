@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14101500",
+  "key": "14101500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14101500",
+  "name": "WHITE RIVER BELOW TYGH VALLEY, OR",
+  "waterbody": "WHITE RIVER BELOW TYGH VALLEY, OR",
+  "state": "OR",
+  "latitude": 45.241722,
+  "longitude": -121.095139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14101500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01449000",
+  "key": "01449000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01449000",
+  "name": "Lehigh River at Lehighton, PA",
+  "waterbody": "Lehigh River at Lehighton, PA",
+  "state": "PA",
+  "latitude": 40.8292587,
+  "longitude": -75.70518938,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LHTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lehigh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lhtp1",
+  "slug": "usgs-01449000",
+  "noaaForecastPath": "data/noaa-forecast/LHTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

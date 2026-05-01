@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01021480",
+  "key": "01021480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01021480",
+  "name": "Old Stream near Wesley, Maine",
+  "waterbody": "Old Stream near Wesley, Maine",
+  "state": "ME",
+  "latitude": 44.9369444,
+  "longitude": -67.7361111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSLM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wslm1",
+  "slug": "usgs-01021480",
+  "noaaForecastPath": "data/noaa-forecast/WSLM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

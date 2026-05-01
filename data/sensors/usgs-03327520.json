@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03327520",
+  "key": "03327520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03327520",
+  "name": "PIPE CREEK NEAR BUNKER HILL, IND.",
+  "waterbody": "PIPE CREEK NEAR BUNKER HILL, IND.",
+  "state": "IN",
+  "latitude": 40.6683585,
+  "longitude": -86.0955211,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03327520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

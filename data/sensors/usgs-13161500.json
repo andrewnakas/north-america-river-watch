@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13161500",
+  "key": "13161500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13161500",
+  "name": "BRUNEAU RV AT ROWLAND, NV",
+  "waterbody": "BRUNEAU RV AT ROWLAND, NV",
+  "state": "NV",
+  "latitude": 41.9332368,
+  "longitude": -115.6745268,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRON2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bruneau River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bron2",
+  "slug": "usgs-13161500",
+  "noaaForecastPath": "data/noaa-forecast/BRON2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

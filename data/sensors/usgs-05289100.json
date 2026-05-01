@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05289100",
+  "key": "05289100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05289100",
+  "name": "MINNEHAHA CREEK BLW GRAYS BAY DAM IN MINNETONKA MN",
+  "waterbody": "MINNEHAHA CREEK BLW GRAYS BAY DAM IN MINNETONKA MN",
+  "state": "MN",
+  "latitude": 44.9533333,
+  "longitude": -93.4872222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTKM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Minnetonka",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtkm5",
+  "slug": "usgs-05289100",
+  "noaaForecastPath": "data/noaa-forecast/MTKM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

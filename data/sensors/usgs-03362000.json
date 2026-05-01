@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03362000",
+  "key": "03362000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03362000",
+  "name": "YOUNGS CREEK NEAR EDINBURGH, IN",
+  "waterbody": "YOUNGS CREEK NEAR EDINBURGH, IN",
+  "state": "IN",
+  "latitude": 39.4189286,
+  "longitude": -86.0049632,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Youngs Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amti3",
+  "slug": "usgs-03362000",
+  "noaaForecastPath": "data/noaa-forecast/AMTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

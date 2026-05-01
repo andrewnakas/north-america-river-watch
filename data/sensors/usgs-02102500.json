@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02102500",
+  "key": "02102500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02102500",
+  "name": "CAPE FEAR RIVER AT LILLINGTON, NC",
+  "waterbody": "CAPE FEAR RIVER AT LILLINGTON, NC",
+  "state": "NC",
+  "latitude": 35.4061111,
+  "longitude": -78.8133333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cape Fear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llln7",
+  "slug": "usgs-02102500",
+  "noaaForecastPath": "data/noaa-forecast/LLLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

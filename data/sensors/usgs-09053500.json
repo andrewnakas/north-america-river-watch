@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09053500",
+  "key": "09053500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09053500",
+  "name": "BLUE RIVER ABOVE GREEN MOUNTAIN RESERVOIR, CO.",
+  "waterbody": "BLUE RIVER ABOVE GREEN MOUNTAIN RESERVOIR, CO.",
+  "state": "CO",
+  "latitude": 39.83193005,
+  "longitude": -106.2228033,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09053500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03325000",
+  "key": "03325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03325000",
+  "name": "WABASH RIVER AT WABASH, IN",
+  "waterbody": "WABASH RIVER AT WABASH, IN",
+  "state": "IN",
+  "latitude": 40.79085717,
+  "longitude": -85.8202341,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WABI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wabi3",
+  "slug": "usgs-03325000",
+  "noaaForecastPath": "data/noaa-forecast/WABI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

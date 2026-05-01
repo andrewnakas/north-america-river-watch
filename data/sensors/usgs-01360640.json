@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01360640",
+  "key": "01360640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01360640",
+  "name": "VALATIE KILL NEAR NASSAU NY",
+  "waterbody": "VALATIE KILL NEAR NASSAU NY",
+  "state": "NY",
+  "latitude": 42.5523611,
+  "longitude": -73.5905833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01360640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

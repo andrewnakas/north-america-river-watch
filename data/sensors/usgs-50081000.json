@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50081000",
+  "key": "50081000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50081000",
+  "name": "RIO HUMACAO AT LAS PIEDRAS, PR",
+  "waterbody": "RIO HUMACAO AT LAS PIEDRAS, PR",
+  "state": "PR",
+  "latitude": 18.174058,
+  "longitude": -65.869439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIEP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Humacao",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/piep4",
+  "slug": "usgs-50081000",
+  "noaaForecastPath": "data/noaa-forecast/PIEP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

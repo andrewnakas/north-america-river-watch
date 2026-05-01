@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380215",
+  "key": "07380215",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380215",
+  "name": "Amite River at Hwy 22 near Maurepas, LA",
+  "waterbody": "Amite River at Hwy 22 near Maurepas, LA",
+  "state": "LA",
+  "latitude": 30.30769444,
+  "longitude": -90.6087222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAUL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/maul1",
+  "slug": "usgs-07380215",
+  "noaaForecastPath": "data/noaa-forecast/MAUL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

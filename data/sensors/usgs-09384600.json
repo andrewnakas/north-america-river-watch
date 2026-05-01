@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09384600",
+  "key": "09384600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09384600",
+  "name": "LYMAN LAKE NEAR ST. JOHNS, AZ",
+  "waterbody": "LYMAN LAKE NEAR ST. JOHNS, AZ",
+  "state": "AZ",
+  "latitude": 34.37448424,
+  "longitude": -109.3848182,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09384600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

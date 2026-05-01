@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06423500",
+  "key": "06423500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06423500",
+  "name": "CHEYENNE RIVER NEAR WASTA, SD",
+  "waterbody": "CHEYENNE RIVER NEAR WASTA, SD",
+  "state": "SD",
+  "latitude": 44.08109849,
+  "longitude": -102.4012746,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WASS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wass2",
+  "slug": "usgs-06423500",
+  "noaaForecastPath": "data/noaa-forecast/WASS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

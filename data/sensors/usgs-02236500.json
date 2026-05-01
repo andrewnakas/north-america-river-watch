@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02236500",
+  "key": "02236500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02236500",
+  "name": "BIG CREEK NEAR CLERMONT, FL",
+  "waterbody": "BIG CREEK NEAR CLERMONT, FL",
+  "state": "FL",
+  "latitude": 28.44778229,
+  "longitude": -81.74007599,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02236500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02206100",
+  "key": "02206100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02206100",
+  "name": "SWEETWATER CREEK AT US 29, NEAR LUXOMNI, GA",
+  "waterbody": "SWEETWATER CREEK AT US 29, NEAR LUXOMNI, GA",
+  "state": "GA",
+  "latitude": 33.91416667,
+  "longitude": -84.0983333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02206100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

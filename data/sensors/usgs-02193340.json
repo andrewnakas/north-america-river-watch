@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02193340",
+  "key": "02193340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02193340",
+  "name": "KETTLE CREEK NEAR WASHINGTON, GA",
+  "waterbody": "KETTLE CREEK NEAR WASHINGTON, GA",
+  "state": "GA",
+  "latitude": 33.68266667,
+  "longitude": -82.8585,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KETG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kettle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ketg1",
+  "slug": "usgs-02193340",
+  "noaaForecastPath": "data/noaa-forecast/KETG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

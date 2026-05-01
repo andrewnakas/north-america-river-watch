@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08386970",
+  "key": "08386970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08386970",
+  "name": "GAVILAN CANYON AT SKUNK CANYON NR HOLLYWOOD, NM",
+  "waterbody": "GAVILAN CANYON AT SKUNK CANYON NR HOLLYWOOD, NM",
+  "state": "NM",
+  "latitude": 33.34488056,
+  "longitude": -105.6439111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08386970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08265000",
+  "key": "08265000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08265000",
+  "name": "RED RIVER NEAR QUESTA, NM",
+  "waterbody": "RED RIVER NEAR QUESTA, NM",
+  "state": "NM",
+  "latitude": 36.70331111,
+  "longitude": -105.56843056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08265000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

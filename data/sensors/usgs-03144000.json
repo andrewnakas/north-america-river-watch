@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03144000",
+  "key": "03144000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03144000",
+  "name": "Wakatomika Creek near Frazeysburg OH",
+  "waterbody": "Wakatomika Creek near Frazeysburg OH",
+  "state": "OH",
+  "latitude": 40.1197222,
+  "longitude": -82.13638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wakatomika Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frao1",
+  "slug": "usgs-03144000",
+  "noaaForecastPath": "data/noaa-forecast/FRAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

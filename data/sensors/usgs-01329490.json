@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01329490",
+  "key": "01329490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01329490",
+  "name": "BATTEN KILL BELOW MILL AT BATTENVILLE NY",
+  "waterbody": "BATTEN KILL BELOW MILL AT BATTENVILLE NY",
+  "state": "NY",
+  "latitude": 43.10866667,
+  "longitude": -73.4224167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Battenkill",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bttn6",
+  "slug": "usgs-01329490",
+  "noaaForecastPath": "data/noaa-forecast/BTTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

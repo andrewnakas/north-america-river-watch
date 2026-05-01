@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157130",
+  "key": "13157130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157130",
+  "name": "WES FARRIS PUMPING PLANT NR HAMMETT ID",
+  "waterbody": "WES FARRIS PUMPING PLANT NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.93416667,
+  "longitude": -115.5591667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157130",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

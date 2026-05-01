@@ -1,0 +1,19 @@
+{
+  "id": "usgs:351208106382601",
+  "key": "351208106382601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "351208106382601",
+  "name": "T11N.R03E.08.222a (projected) argsw",
+  "waterbody": "T11N.R03E.08.222a (projected) argsw",
+  "state": "NM",
+  "latitude": 35.20219444,
+  "longitude": -106.6405,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-351208106382601",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

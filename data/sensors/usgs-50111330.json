@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50111330",
+  "key": "50111330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50111330",
+  "name": "CANAL DE JUANA DIAZ AT PASO SECO NR SANTA ISABEL",
+  "waterbody": "CANAL DE JUANA DIAZ AT PASO SECO NR SANTA ISABEL",
+  "state": "PR",
+  "latitude": 18.014328,
+  "longitude": -66.390317,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50111330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

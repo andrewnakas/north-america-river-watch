@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11421000",
+  "key": "11421000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11421000",
+  "name": "YUBA R NR MARYSVILLE CA",
+  "waterbody": "YUBA R NR MARYSVILLE CA",
+  "state": "CA",
+  "latitude": 39.1757251,
+  "longitude": -121.5249647,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRYC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yuba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mryc1",
+  "slug": "usgs-11421000",
+  "noaaForecastPath": "data/noaa-forecast/MRYC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

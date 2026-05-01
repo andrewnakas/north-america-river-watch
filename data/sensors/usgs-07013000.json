@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07013000",
+  "key": "07013000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07013000",
+  "name": "Meramec River near Steelville, MO",
+  "waterbody": "Meramec River near Steelville, MO",
+  "state": "MO",
+  "latitude": 37.9984722,
+  "longitude": -91.3609444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEEM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meramec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seem7",
+  "slug": "usgs-07013000",
+  "noaaForecastPath": "data/noaa-forecast/SEEM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

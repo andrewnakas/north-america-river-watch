@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01553240",
+  "key": "01553240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01553240",
+  "name": "W Br Susquehanna River at West Milton, PA",
+  "waterbody": "W Br Susquehanna River at West Milton, PA",
+  "state": "PA",
+  "latitude": 41.01861775,
+  "longitude": -76.8649381,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ILTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iltp1",
+  "slug": "usgs-01553240",
+  "noaaForecastPath": "data/noaa-forecast/ILTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

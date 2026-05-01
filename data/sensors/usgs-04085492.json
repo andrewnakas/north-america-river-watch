@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04085492",
+  "key": "04085492",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085492",
+  "name": "ELKHART LAKE OUTLET NEAR ELKHART LAKE, WI",
+  "waterbody": "ELKHART LAKE OUTLET NEAR ELKHART LAKE, WI",
+  "state": "WI",
+  "latitude": 43.83027126,
+  "longitude": -88.03704,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04085492",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

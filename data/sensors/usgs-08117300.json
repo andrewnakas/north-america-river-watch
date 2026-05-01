@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08117300",
+  "key": "08117300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117300",
+  "name": "Brazos Rv at GIWW Flood Gates nr Freeport, TX",
+  "waterbody": "Brazos Rv at GIWW Flood Gates nr Freeport, TX",
+  "state": "TX",
+  "latitude": 28.8980278,
+  "longitude": -95.3816078,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08117300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

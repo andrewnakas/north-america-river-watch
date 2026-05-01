@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08027700",
+  "key": "08027700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08027700",
+  "name": "Anacoco lk nr Leesville, LA",
+  "waterbody": "Anacoco lk nr Leesville, LA",
+  "state": "LA",
+  "latitude": 31.09466667,
+  "longitude": -93.3885833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08027700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

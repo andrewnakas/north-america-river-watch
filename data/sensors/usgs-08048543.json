@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08048543",
+  "key": "08048543",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08048543",
+  "name": "W Fk Trinity Rv at Beach St, Ft Worth, TX",
+  "waterbody": "W Fk Trinity Rv at Beach St, Ft Worth, TX",
+  "state": "TX",
+  "latitude": 32.7517972,
+  "longitude": -97.2894598,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08048543",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

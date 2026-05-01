@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01115183",
+  "key": "01115183",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115183",
+  "name": "QUONOPAUG BK AT RT 116 NR NORTH SCITUATE, RI",
+  "waterbody": "QUONOPAUG BK AT RT 116 NR NORTH SCITUATE, RI",
+  "state": "RI",
+  "latitude": 41.79759966,
+  "longitude": -71.5847857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01115183",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

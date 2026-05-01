@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11289500",
+  "key": "11289500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11289500",
+  "name": "TURLOCK CN NR LA GRANGE CA",
+  "waterbody": "TURLOCK CN NR LA GRANGE CA",
+  "state": "CA",
+  "latitude": 37.6657419,
+  "longitude": -120.4409912,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11289500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

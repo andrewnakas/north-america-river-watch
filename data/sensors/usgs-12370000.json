@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12370000",
+  "key": "12370000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12370000",
+  "name": "Swan River near Bigfork, MT",
+  "waterbody": "Swan River near Bigfork, MT",
+  "state": "MT",
+  "latitude": 48.02423056,
+  "longitude": -113.9788194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swrm8",
+  "slug": "usgs-12370000",
+  "noaaForecastPath": "data/noaa-forecast/SWRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

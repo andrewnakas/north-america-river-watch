@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08186500",
+  "key": "08186500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08186500",
+  "name": "Ecleto Ck nr Runge, TX",
+  "waterbody": "Ecleto Ck nr Runge, TX",
+  "state": "TX",
+  "latitude": 28.92025074,
+  "longitude": -97.7722462,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08186500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

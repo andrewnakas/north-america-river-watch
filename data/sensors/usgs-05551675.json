@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05551675",
+  "key": "05551675",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05551675",
+  "name": "BLACKBERRY CREEK NEAR MONTGOMERY, IL",
+  "waterbody": "BLACKBERRY CREEK NEAR MONTGOMERY, IL",
+  "state": "IL",
+  "latitude": 41.7408333,
+  "longitude": -88.3833333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackberry Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbmi2",
+  "slug": "usgs-05551675",
+  "noaaForecastPath": "data/noaa-forecast/BBMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

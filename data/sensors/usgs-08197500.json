@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08197500",
+  "key": "08197500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08197500",
+  "name": "Frio Rv bl Dry Frio Rv nr Uvalde, TX",
+  "waterbody": "Frio Rv bl Dry Frio Rv nr Uvalde, TX",
+  "state": "TX",
+  "latitude": 29.2457934,
+  "longitude": -99.6744978,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UDET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/udet2",
+  "slug": "usgs-08197500",
+  "noaaForecastPath": "data/noaa-forecast/UDET2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

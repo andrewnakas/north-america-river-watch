@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05382325",
+  "key": "05382325",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05382325",
+  "name": "LA CROSSE RIVER AT SPARTA, WI",
+  "waterbody": "LA CROSSE RIVER AT SPARTA, WI",
+  "state": "WI",
+  "latitude": 43.9375,
+  "longitude": -90.8105556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPAW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "La Crosse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spaw3",
+  "slug": "usgs-05382325",
+  "noaaForecastPath": "data/noaa-forecast/SPAW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

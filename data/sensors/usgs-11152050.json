@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11152050",
+  "key": "11152050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11152050",
+  "name": "ARROYO SECO BL RELIZ C NR SOLEDAD CA",
+  "waterbody": "ARROYO SECO BL RELIZ C NR SOLEDAD CA",
+  "state": "CA",
+  "latitude": 36.39968708,
+  "longitude": -121.3240962,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRFC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arroyo Seco (Monterey)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grfc1",
+  "slug": "usgs-11152050",
+  "noaaForecastPath": "data/noaa-forecast/GRFC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

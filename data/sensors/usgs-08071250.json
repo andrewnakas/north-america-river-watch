@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08071250",
+  "key": "08071250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08071250",
+  "name": "Luce Bayou at SH-99 nr Huffman, TX",
+  "waterbody": "Luce Bayou at SH-99 nr Huffman, TX",
+  "state": "TX",
+  "latitude": 30.12597778,
+  "longitude": -95.0494861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08071250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

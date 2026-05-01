@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12303500",
+  "key": "12303500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12303500",
+  "name": "Lake Creek at Troy MT",
+  "waterbody": "Lake Creek at Troy MT",
+  "state": "MT",
+  "latitude": 48.4468611,
+  "longitude": -115.877136,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12303500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

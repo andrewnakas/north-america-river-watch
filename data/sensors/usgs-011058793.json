@@ -1,0 +1,19 @@
+{
+  "id": "usgs:011058793",
+  "key": "011058793",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "011058793",
+  "name": "HERRING RIVER NEAR WELLFLEET, MA",
+  "waterbody": "HERRING RIVER NEAR WELLFLEET, MA",
+  "state": "MA",
+  "latitude": 41.9620489,
+  "longitude": -70.0205778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-011058793",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

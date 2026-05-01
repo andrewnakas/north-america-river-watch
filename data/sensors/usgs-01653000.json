@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01653000",
+  "key": "01653000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01653000",
+  "name": "CAMERON RUN AT ALEXANDRIA, VA",
+  "waterbody": "CAMERON RUN AT ALEXANDRIA, VA",
+  "state": "VA",
+  "latitude": 38.8044466,
+  "longitude": -77.10558989,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRPV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cameron Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crpv2",
+  "slug": "usgs-01653000",
+  "noaaForecastPath": "data/noaa-forecast/CRPV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

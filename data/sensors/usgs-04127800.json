@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04127800",
+  "key": "04127800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04127800",
+  "name": "JORDAN RIVER NEAR EAST JORDAN, MI",
+  "waterbody": "JORDAN RIVER NEAR EAST JORDAN, MI",
+  "state": "MI",
+  "latitude": 45.10111787,
+  "longitude": -85.0972788,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EJJM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jordan River (N Lower MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ejjm4",
+  "slug": "usgs-04127800",
+  "noaaForecastPath": "data/noaa-forecast/EJJM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

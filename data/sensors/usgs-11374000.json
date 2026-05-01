@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11374000",
+  "key": "11374000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11374000",
+  "name": "COW C NR MILLVILLE CA",
+  "waterbody": "COW C NR MILLVILLE CA",
+  "state": "CA",
+  "latitude": 40.50487467,
+  "longitude": -122.2330577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwcc1",
+  "slug": "usgs-11374000",
+  "noaaForecastPath": "data/noaa-forecast/CWCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

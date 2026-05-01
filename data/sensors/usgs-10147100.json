@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10147100",
+  "key": "10147100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10147100",
+  "name": "SUMMIT CREEK ABV SUMMIT CR CANAL NR SANTAQUIN UT",
+  "waterbody": "SUMMIT CREEK ABV SUMMIT CR CANAL NR SANTAQUIN UT",
+  "state": "UT",
+  "latitude": 39.9444722,
+  "longitude": -111.7748889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10147100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04065106",
+  "key": "04065106",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04065106",
+  "name": "MENOMINEE RIVER AT NIAGARA, WI",
+  "waterbody": "MENOMINEE RIVER AT NIAGARA, WI",
+  "state": "WI",
+  "latitude": 45.76777778,
+  "longitude": -87.9805556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NIAW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menominee River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/niaw3",
+  "slug": "usgs-04065106",
+  "noaaForecastPath": "data/noaa-forecast/NIAW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

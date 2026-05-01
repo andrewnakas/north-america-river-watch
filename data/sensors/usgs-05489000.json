@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05489000",
+  "key": "05489000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05489000",
+  "name": "Cedar Creek near Bussey, IA",
+  "waterbody": "Cedar Creek near Bussey, IA",
+  "state": "IA",
+  "latitude": 41.2191111,
+  "longitude": -92.9088333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bssi4",
+  "slug": "usgs-05489000",
+  "noaaForecastPath": "data/noaa-forecast/BSSI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

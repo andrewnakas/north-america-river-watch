@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07230000",
+  "key": "07230000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07230000",
+  "name": "Little River blw Lk Thunderbird nr Norman, OK",
+  "waterbody": "Little River blw Lk Thunderbird nr Norman, OK",
+  "state": "OK",
+  "latitude": 35.22173637,
+  "longitude": -97.2139165,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRMO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrmo2",
+  "slug": "usgs-07230000",
+  "noaaForecastPath": "data/noaa-forecast/NRMO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

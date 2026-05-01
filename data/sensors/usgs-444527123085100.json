@@ -1,0 +1,19 @@
+{
+  "id": "usgs:444527123085100",
+  "key": "444527123085100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "444527123085100",
+  "name": "WILLAMETTE R ON RB AT RM 107.3",
+  "waterbody": "WILLAMETTE R ON RB AT RM 107.3",
+  "state": "OR",
+  "latitude": 44.75746389,
+  "longitude": -123.1474722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-444527123085100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.351Z"
+}

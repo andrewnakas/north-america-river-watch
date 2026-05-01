@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07204500",
+  "key": "07204500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07204500",
+  "name": "CIENEGUILLA CR NR EAGLE NEST, NM",
+  "waterbody": "CIENEGUILLA CR NR EAGLE NEST, NM",
+  "state": "NM",
+  "latitude": 36.48521667,
+  "longitude": -105.26538056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07204500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

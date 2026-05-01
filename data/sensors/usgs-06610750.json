@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610750",
+  "key": "06610750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610750",
+  "name": "Little Papillion Creek at Irvington, Nebr.",
+  "waterbody": "Little Papillion Creek at Irvington, Nebr.",
+  "state": "NE",
+  "latitude": 41.31077222,
+  "longitude": -96.0475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRVN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irvn1",
+  "slug": "usgs-06610750",
+  "noaaForecastPath": "data/noaa-forecast/IRVN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:033521504",
+  "key": "033521504",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "033521504",
+  "name": "SAND CREEK AT 116TH STREET AT FISHERS, IN",
+  "waterbody": "SAND CREEK AT 116TH STREET AT FISHERS, IN",
+  "state": "IN",
+  "latitude": 39.95694444,
+  "longitude": -85.9891667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDFI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sand Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdfi3",
+  "slug": "usgs-033521504",
+  "noaaForecastPath": "data/noaa-forecast/SDFI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

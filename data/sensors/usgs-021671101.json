@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021671101",
+  "key": "021671101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021671101",
+  "name": "LITTLE RIVER AT LAURENS, SC",
+  "waterbody": "LITTLE RIVER AT LAURENS, SC",
+  "state": "SC",
+  "latitude": 34.50075,
+  "longitude": -82.008944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRLS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrls1",
+  "slug": "usgs-021671101",
+  "noaaForecastPath": "data/noaa-forecast/LRLS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02130980",
+  "key": "02130980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02130980",
+  "name": "BLACK CREEK NEAR QUINBY, SC",
+  "waterbody": "BLACK CREEK NEAR QUINBY, SC",
+  "state": "SC",
+  "latitude": 34.24376518,
+  "longitude": -79.7447833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Creek (SC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcrs1",
+  "slug": "usgs-02130980",
+  "noaaForecastPath": "data/noaa-forecast/BCRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

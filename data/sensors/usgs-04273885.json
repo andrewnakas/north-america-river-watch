@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04273885",
+  "key": "04273885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04273885",
+  "name": "CHUBB RIVER NEAR LAKE PLACID NY",
+  "waterbody": "CHUBB RIVER NEAR LAKE PLACID NY",
+  "state": "NY",
+  "latitude": 44.2622222,
+  "longitude": -74.01338889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04273885",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

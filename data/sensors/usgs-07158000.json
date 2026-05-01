@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07158000",
+  "key": "07158000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07158000",
+  "name": "Cimarron River near Waynoka, OK",
+  "waterbody": "Cimarron River near Waynoka, OK",
+  "state": "OK",
+  "latitude": 36.51725644,
+  "longitude": -98.8795366,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WANO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cimarron River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wano2",
+  "slug": "usgs-07158000",
+  "noaaForecastPath": "data/noaa-forecast/WANO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

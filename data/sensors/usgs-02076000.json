@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02076000",
+  "key": "02076000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02076000",
+  "name": "DAN RIVER AT SOUTH BOSTON, VA",
+  "waterbody": "DAN RIVER AT SOUTH BOSTON, VA",
+  "state": "VA",
+  "latitude": 36.6932222,
+  "longitude": -78.9004167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBNV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbnv2",
+  "slug": "usgs-02076000",
+  "noaaForecastPath": "data/noaa-forecast/SBNV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

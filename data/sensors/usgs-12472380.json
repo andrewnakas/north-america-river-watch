@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12472380",
+  "key": "12472380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12472380",
+  "name": "CRAB CREEK LATERAL ABOVE ROYAL LAKE NR OTHELLO, WA",
+  "waterbody": "CRAB CREEK LATERAL ABOVE ROYAL LAKE NR OTHELLO, WA",
+  "state": "WA",
+  "latitude": 46.87680678,
+  "longitude": -119.3486328,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12472380",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

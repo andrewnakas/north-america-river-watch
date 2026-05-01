@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07142620",
+  "key": "07142620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07142620",
+  "name": "RATTLESNAKE C NR RAYMOND, KS",
+  "waterbody": "RATTLESNAKE C NR RAYMOND, KS",
+  "state": "KS",
+  "latitude": 38.2293287,
+  "longitude": -98.4179046,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07142620",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09529420",
+  "key": "09529420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09529420",
+  "name": "SOUTH GILA TERMINAL CANAL WASTEWAY NR YUMA, AZ",
+  "waterbody": "SOUTH GILA TERMINAL CANAL WASTEWAY NR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.692889,
+  "longitude": -114.581306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09529420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

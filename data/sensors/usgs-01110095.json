@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01110095",
+  "key": "01110095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01110095",
+  "name": "QUINSIGAMOND RIVER AT PLEASANT ST NEAR GRAFTON, MA",
+  "waterbody": "QUINSIGAMOND RIVER AT PLEASANT ST NEAR GRAFTON, MA",
+  "state": "MA",
+  "latitude": 42.1986111,
+  "longitude": -71.6936111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01110095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

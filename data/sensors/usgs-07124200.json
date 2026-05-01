@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07124200",
+  "key": "07124200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07124200",
+  "name": "PURGATOIRE RIVER AT MADRID, CO.",
+  "waterbody": "PURGATOIRE RIVER AT MADRID, CO.",
+  "state": "CO",
+  "latitude": 37.12946459,
+  "longitude": -104.6399888,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PGMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Purgatoire River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pgmc2",
+  "slug": "usgs-07124200",
+  "noaaForecastPath": "data/noaa-forecast/PGMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

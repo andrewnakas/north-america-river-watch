@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06911000",
+  "key": "06911000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06911000",
+  "name": "MARAIS DES CYGNES R AT MELVERN, KS",
+  "waterbody": "MARAIS DES CYGNES R AT MELVERN, KS",
+  "state": "KS",
+  "latitude": 38.51611111,
+  "longitude": -95.69611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLVK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marais Des Cygnes River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlvk1",
+  "slug": "usgs-06911000",
+  "noaaForecastPath": "data/noaa-forecast/MLVK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

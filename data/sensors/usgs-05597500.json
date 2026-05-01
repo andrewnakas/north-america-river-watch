@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05597500",
+  "key": "05597500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05597500",
+  "name": "CRAB ORCHARD CREEK NEAR MARION, IL",
+  "waterbody": "CRAB ORCHARD CREEK NEAR MARION, IL",
+  "state": "IL",
+  "latitude": 37.7311111,
+  "longitude": -88.8891667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCOI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crab Orchard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcoi2",
+  "slug": "usgs-05597500",
+  "noaaForecastPath": "data/noaa-forecast/MCOI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13170800",
+  "key": "13170800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13170800",
+  "name": "GRAND VIEW REALTY PUMPING PLANT NR GRAND VIEW ID",
+  "waterbody": "GRAND VIEW REALTY PUMPING PLANT NR GRAND VIEW ID",
+  "state": "ID",
+  "latitude": 42.93138889,
+  "longitude": -115.9575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13170800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

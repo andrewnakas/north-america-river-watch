@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08100630",
+  "key": "08100630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08100630",
+  "name": "Henson Ck at W Range Rd nr Gatesville, TX",
+  "waterbody": "Henson Ck at W Range Rd nr Gatesville, TX",
+  "state": "TX",
+  "latitude": 31.323225,
+  "longitude": -97.7576639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08100630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

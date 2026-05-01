@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06413800",
+  "key": "06413800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06413800",
+  "name": "DEADWOOD AVE DRAIN AT MOUTH AT RAPID CITY SD",
+  "waterbody": "DEADWOOD AVE DRAIN AT MOUTH AT RAPID CITY SD",
+  "state": "SD",
+  "latitude": 44.0827655,
+  "longitude": -103.2565712,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06413800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

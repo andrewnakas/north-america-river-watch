@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08163900",
+  "key": "08163900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08163900",
+  "name": "Little Brushy Ck at US 77 nr Yoakum, TX",
+  "waterbody": "Little Brushy Ck at US 77 nr Yoakum, TX",
+  "state": "TX",
+  "latitude": 29.1354361,
+  "longitude": -96.9865944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08163900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

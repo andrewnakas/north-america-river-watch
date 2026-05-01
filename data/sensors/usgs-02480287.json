@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02480287",
+  "key": "02480287",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02480287",
+  "name": "GRAVELINE BAYOU NEAR GAUTIER, MS",
+  "waterbody": "GRAVELINE BAYOU NEAR GAUTIER, MS",
+  "state": "MS",
+  "latitude": 30.36288889,
+  "longitude": -88.6947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBGM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi Sound",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbgm6",
+  "slug": "usgs-02480287",
+  "noaaForecastPath": "data/noaa-forecast/GBGM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01632000",
+  "key": "01632000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01632000",
+  "name": "N F SHENANDOAH RIVER AT COOTES STORE, VA",
+  "waterbody": "N F SHENANDOAH RIVER AT COOTES STORE, VA",
+  "state": "VA",
+  "latitude": 38.63706254,
+  "longitude": -78.852803,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COOV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Shenandoah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coov2",
+  "slug": "usgs-01632000",
+  "noaaForecastPath": "data/noaa-forecast/COOV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

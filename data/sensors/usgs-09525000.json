@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09525000",
+  "key": "09525000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09525000",
+  "name": "YUMA MAIN CANAL WASTEWAY AT YUMA, AZ",
+  "waterbody": "YUMA MAIN CANAL WASTEWAY AT YUMA, AZ",
+  "state": "CA",
+  "latitude": 32.7333801,
+  "longitude": -114.623008,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09525000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09339900",
+  "key": "09339900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09339900",
+  "name": "EF SAN JUAN R AB SAND CREEK, NR PAGOSA SPGS, CO.",
+  "waterbody": "EF SAN JUAN R AB SAND CREEK, NR PAGOSA SPGS, CO.",
+  "state": "CO",
+  "latitude": 37.38972959,
+  "longitude": -106.8411509,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09339900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

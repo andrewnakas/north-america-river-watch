@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11467590",
+  "key": "11467590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11467590",
+  "name": "GARCIA R AT EUREKA HILL RD NR PT ARENA CA",
+  "waterbody": "GARCIA R AT EUREKA HILL RD NR PT ARENA CA",
+  "state": "CA",
+  "latitude": 38.9036111,
+  "longitude": -123.6077778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Garcia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grcc1",
+  "slug": "usgs-11467590",
+  "noaaForecastPath": "data/noaa-forecast/GRCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

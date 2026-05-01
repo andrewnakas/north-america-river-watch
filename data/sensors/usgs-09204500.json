@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09204500",
+  "key": "09204500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09204500",
+  "name": "East Fork at New Fork, WY",
+  "waterbody": "East Fork at New Fork, WY",
+  "state": "WY",
+  "latitude": 42.696111,
+  "longitude": -109.714444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09204500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

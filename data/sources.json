@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-05-01T12:10:12.953Z",
+  "stations": 24983,
+  "usgsStations": 16928,
+  "canadaStations": 8055,
+  "noaaGauges": 12640,
+  "matchedForecastStations": 8309,
+  "config": {
+    "forceRefresh": false,
+    "stationCacheMaxAgeHours": 72,
+    "forecastCacheMaxAgeHours": 12,
+    "noaaConcurrency": 20
+  },
+  "notes": [
+    "US current and historical series are fetched live from USGS Water Services from the browser.",
+    "Canada real-time and historical daily mean series are fetched live from Environment and Climate Change Canada GeoMet APIs from the browser.",
+    "NOAA NWPS forecast series are prefetched into static JSON because NOAA APIs do not expose permissive browser CORS headers.",
+    "Builder is incremental: station indexes are cached and per-gauge NOAA bundles are refreshed only when stale or missing."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01101000",
+  "key": "01101000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01101000",
+  "name": "PARKER RIVER AT BYFIELD, MA",
+  "waterbody": "PARKER RIVER AT BYFIELD, MA",
+  "state": "MA",
+  "latitude": 42.75286948,
+  "longitude": -70.9456096,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYFM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Parker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/byfm3",
+  "slug": "usgs-01101000",
+  "noaaForecastPath": "data/noaa-forecast/BYFM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

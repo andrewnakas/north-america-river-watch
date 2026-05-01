@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01187300",
+  "key": "01187300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01187300",
+  "name": "HUBBARD RIVER NEAR WEST HARTLAND, CT",
+  "waterbody": "HUBBARD RIVER NEAR WEST HARTLAND, CT",
+  "state": "CT",
+  "latitude": 42.0375,
+  "longitude": -72.93932778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01187300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

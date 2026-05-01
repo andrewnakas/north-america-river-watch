@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08108705",
+  "key": "08108705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08108705",
+  "name": "Little Brazos Rv at SH 6 nr Reagan, TX",
+  "waterbody": "Little Brazos Rv at SH 6 nr Reagan, TX",
+  "state": "TX",
+  "latitude": 31.1778972,
+  "longitude": -96.7515333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08108705",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

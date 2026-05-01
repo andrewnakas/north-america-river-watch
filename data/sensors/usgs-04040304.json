@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04040304",
+  "key": "04040304",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04040304",
+  "name": "MONTREAL RIVER AT LAC LA BELLE RD NR DELAWARE, MI",
+  "waterbody": "MONTREAL RIVER AT LAC LA BELLE RD NR DELAWARE, MI",
+  "state": "MI",
+  "latitude": 47.42129999,
+  "longitude": -88.0762171,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04040304",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

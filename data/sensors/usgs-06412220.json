@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06412220",
+  "key": "06412220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06412220",
+  "name": "VICTORIA CREEK ABV VICTORIA DAM NR RAPID CITY,SD",
+  "waterbody": "VICTORIA CREEK ABV VICTORIA DAM NR RAPID CITY,SD",
+  "state": "SD",
+  "latitude": 44.02990427,
+  "longitude": -103.4354937,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VAVS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Victoria Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vavs2",
+  "slug": "usgs-06412220",
+  "noaaForecastPath": "data/noaa-forecast/VAVS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

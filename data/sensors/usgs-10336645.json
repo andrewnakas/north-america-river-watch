@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10336645",
+  "key": "10336645",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336645",
+  "name": "GENERAL C NR MEEKS BAY CA",
+  "waterbody": "GENERAL C NR MEEKS BAY CA",
+  "state": "CA",
+  "latitude": 39.05183077,
+  "longitude": -120.1185016,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "General Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnrc1",
+  "slug": "usgs-10336645",
+  "noaaForecastPath": "data/noaa-forecast/GNRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12391950",
+  "key": "12391950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12391950",
+  "name": "CLARK FORK RIVER BELOW CABINET GORGE DAM ID",
+  "waterbody": "CLARK FORK RIVER BELOW CABINET GORGE DAM ID",
+  "state": "ID",
+  "latitude": 48.08805556,
+  "longitude": -116.0727778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBBI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clark Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbbi1",
+  "slug": "usgs-12391950",
+  "noaaForecastPath": "data/noaa-forecast/CBBI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

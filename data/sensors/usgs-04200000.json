@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04200000",
+  "key": "04200000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04200000",
+  "name": "East Branch Black River at Elyria OH",
+  "waterbody": "East Branch Black River at Elyria OH",
+  "state": "OH",
+  "latitude": 41.34754779,
+  "longitude": -82.0943144,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04200000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

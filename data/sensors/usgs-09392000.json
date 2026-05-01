@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09392000",
+  "key": "09392000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09392000",
+  "name": "SHOW LOW CR BL JAQUES DAM, NR SHOW LOW, AZ",
+  "waterbody": "SHOW LOW CR BL JAQUES DAM, NR SHOW LOW, AZ",
+  "state": "AZ",
+  "latitude": 34.19643165,
+  "longitude": -110.0042754,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09392000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

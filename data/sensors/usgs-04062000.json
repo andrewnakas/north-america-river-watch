@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04062000",
+  "key": "04062000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04062000",
+  "name": "PAINT RIVER NEAR ALPHA, MI",
+  "waterbody": "PAINT RIVER NEAR ALPHA, MI",
+  "state": "MI",
+  "latitude": 46.0110635,
+  "longitude": -88.2584682,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRAM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paint River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pram4",
+  "slug": "usgs-04062000",
+  "noaaForecastPath": "data/noaa-forecast/PRAM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

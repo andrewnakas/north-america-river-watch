@@ -1,0 +1,19 @@
+{
+  "id": "usgs:021973011",
+  "key": "021973011",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021973011",
+  "name": "H-002 AT SRS, SC",
+  "waterbody": "H-002 AT SRS, SC",
+  "state": "SC",
+  "latitude": 33.2862571,
+  "longitude": -81.6334438,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-021973011",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

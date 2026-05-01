@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01583000",
+  "key": "01583000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01583000",
+  "name": "SLADE RUN NEAR GLYNDON, MD",
+  "waterbody": "SLADE RUN NEAR GLYNDON, MD",
+  "state": "MD",
+  "latitude": 39.49538889,
+  "longitude": -76.7948333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01583000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

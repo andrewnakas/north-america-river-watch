@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13334450",
+  "key": "13334450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13334450",
+  "name": "ASOTIN CREEK BELOW CONFLUENCE NEAR ASOTIN, WA",
+  "waterbody": "ASOTIN CREEK BELOW CONFLUENCE NEAR ASOTIN, WA",
+  "state": "WA",
+  "latitude": 46.2736111,
+  "longitude": -117.2913889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13334450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08090830",
+  "key": "08090830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08090830",
+  "name": "Kickapoo Ck at FM 1189 nr Dennis, TX",
+  "waterbody": "Kickapoo Ck at FM 1189 nr Dennis, TX",
+  "state": "TX",
+  "latitude": 32.58659444,
+  "longitude": -97.9199583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08090830",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05465000",
+  "key": "05465000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05465000",
+  "name": "Cedar River near Conesville, IA",
+  "waterbody": "Cedar River near Conesville, IA",
+  "state": "IA",
+  "latitude": 41.40919167,
+  "longitude": -91.2904306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNEI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnei4",
+  "slug": "usgs-05465000",
+  "noaaForecastPath": "data/noaa-forecast/CNEI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

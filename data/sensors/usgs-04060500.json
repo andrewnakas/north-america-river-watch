@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04060500",
+  "key": "04060500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04060500",
+  "name": "IRON RIVER AT CASPIAN, MI",
+  "waterbody": "IRON RIVER AT CASPIAN, MI",
+  "state": "MI",
+  "latitude": 46.05856639,
+  "longitude": -88.627354,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSPM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iron River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cspm4",
+  "slug": "usgs-04060500",
+  "noaaForecastPath": "data/noaa-forecast/CSPM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

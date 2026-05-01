@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08090905",
+  "key": "08090905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08090905",
+  "name": "Brazos Rv ds Lk Granbury nr Granbury, TX",
+  "waterbody": "Brazos Rv ds Lk Granbury nr Granbury, TX",
+  "state": "TX",
+  "latitude": 32.38638889,
+  "longitude": -97.6522222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08090905",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

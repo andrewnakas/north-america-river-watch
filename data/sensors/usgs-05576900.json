@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05576900",
+  "key": "05576900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576900",
+  "name": "SANGAMON RIVER NEAR SPRINGFIELD, IL",
+  "waterbody": "SANGAMON RIVER NEAR SPRINGFIELD, IL",
+  "state": "IL",
+  "latitude": 39.87138889,
+  "longitude": -89.6140556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sangamon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srsi2",
+  "slug": "usgs-05576900",
+  "noaaForecastPath": "data/noaa-forecast/SRSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:010735562",
+  "key": "010735562",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "010735562",
+  "name": "EXETER RIVER AT ODELL ROAD, NEAR SANDOWN, NH",
+  "waterbody": "EXETER RIVER AT ODELL ROAD, NEAR SANDOWN, NH",
+  "state": "NH",
+  "latitude": 42.94897557,
+  "longitude": -71.16478279,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SANN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Exeter River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sann3",
+  "slug": "usgs-010735562",
+  "noaaForecastPath": "data/noaa-forecast/SANN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

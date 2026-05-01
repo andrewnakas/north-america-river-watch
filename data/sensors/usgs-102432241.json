@@ -1,0 +1,19 @@
+{
+  "id": "usgs:102432241",
+  "key": "102432241",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "102432241",
+  "name": "BIG SPGS CK NORTH CHANNEL NR BAKER, NV",
+  "waterbody": "BIG SPGS CK NORTH CHANNEL NR BAKER, NV",
+  "state": "NV",
+  "latitude": 38.6993966,
+  "longitude": -114.131932,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-102432241",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

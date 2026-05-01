@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09235490",
+  "key": "09235490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09235490",
+  "name": "VERMILLION CR. BLW. DOUGLAS DRAW NR. LODORE, CO",
+  "waterbody": "VERMILLION CR. BLW. DOUGLAS DRAW NR. LODORE, CO",
+  "state": "CO",
+  "latitude": 40.72218614,
+  "longitude": -108.7578892,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09235490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

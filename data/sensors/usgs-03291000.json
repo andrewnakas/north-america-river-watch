@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03291000",
+  "key": "03291000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03291000",
+  "name": "EAGLE CREEK AT SADIEVILLE, KY",
+  "waterbody": "EAGLE CREEK AT SADIEVILLE, KY",
+  "state": "KY",
+  "latitude": 38.38951686,
+  "longitude": -84.5432759,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle Creek (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdvk2",
+  "slug": "usgs-03291000",
+  "noaaForecastPath": "data/noaa-forecast/SDVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

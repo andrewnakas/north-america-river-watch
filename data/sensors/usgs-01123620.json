@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01123620",
+  "key": "01123620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01123620",
+  "name": "QUINEBAUG RIVER AT MILL ST AT SOUTHBRIDGE, MA",
+  "waterbody": "QUINEBAUG RIVER AT MILL ST AT SOUTHBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.081175,
+  "longitude": -72.0441472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01123620",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

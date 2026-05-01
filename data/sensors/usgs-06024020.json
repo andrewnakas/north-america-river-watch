@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06024020",
+  "key": "06024020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06024020",
+  "name": "Big Hole River at Miner Creek nr Jackson MT",
+  "waterbody": "Big Hole River at Miner Creek nr Jackson MT",
+  "state": "MT",
+  "latitude": 45.42286389,
+  "longitude": -113.4493944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mckm8",
+  "slug": "usgs-06024020",
+  "noaaForecastPath": "data/noaa-forecast/MCKM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

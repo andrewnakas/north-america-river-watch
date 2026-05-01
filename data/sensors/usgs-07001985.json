@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07001985",
+  "key": "07001985",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07001985",
+  "name": "Watkins Creek at Bellefontaine Neighbors, MO",
+  "waterbody": "Watkins Creek at Bellefontaine Neighbors, MO",
+  "state": "MO",
+  "latitude": 38.76227778,
+  "longitude": -90.1969167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07001985",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

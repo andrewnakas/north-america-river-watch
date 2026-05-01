@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12211195",
+  "key": "12211195",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12211195",
+  "name": "NOOKSACK R OVERFLOW AT HIGHWAY 544 AT EVERSON, WA",
+  "waterbody": "NOOKSACK R OVERFLOW AT HIGHWAY 544 AT EVERSON, WA",
+  "state": "WA",
+  "latitude": 48.92011729,
+  "longitude": -122.3340474,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOEW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nooksack River Overflow At SR544 Everson",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/noew1",
+  "slug": "usgs-12211195",
+  "noaaForecastPath": "data/noaa-forecast/NOEW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

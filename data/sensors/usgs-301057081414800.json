@@ -1,0 +1,22 @@
+{
+  "id": "usgs:301057081414800",
+  "key": "301057081414800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "301057081414800",
+  "name": "ST.JOHNS RVR AB BUCKMAN BRIDGE AT JACKSONVILLE,FL",
+  "waterbody": "ST.JOHNS RVR AB BUCKMAN BRIDGE AT JACKSONVILLE,FL",
+  "state": "FL",
+  "latitude": 30.18245833,
+  "longitude": -81.69676389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKBF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Johns River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkbf1",
+  "slug": "usgs-301057081414800",
+  "noaaForecastPath": "data/noaa-forecast/BKBF1.json",
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

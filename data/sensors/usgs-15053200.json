@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15053200",
+  "key": "15053200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15053200",
+  "name": "DUCK C BL NANCY ST NR AUKE BAY AK",
+  "waterbody": "DUCK C BL NANCY ST NR AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.3749514,
+  "longitude": -134.579003,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jordan Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrda2",
+  "slug": "usgs-15053200",
+  "noaaForecastPath": "data/noaa-forecast/JRDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

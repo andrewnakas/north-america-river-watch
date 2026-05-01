@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08095300",
+  "key": "08095300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08095300",
+  "name": "Middle Bosque Rv nr McGregor, TX",
+  "waterbody": "Middle Bosque Rv nr McGregor, TX",
+  "state": "TX",
+  "latitude": 31.50933179,
+  "longitude": -97.365845,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Bosque River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcgt2",
+  "slug": "usgs-08095300",
+  "noaaForecastPath": "data/noaa-forecast/MCGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

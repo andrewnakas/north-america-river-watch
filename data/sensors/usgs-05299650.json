@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05299650",
+  "key": "05299650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05299650",
+  "name": "LAC QUI PARLE RIVER NEAR PROVIDENCE, MN",
+  "waterbody": "LAC QUI PARLE RIVER NEAR PROVIDENCE, MN",
+  "state": "MN",
+  "latitude": 44.8852384,
+  "longitude": -96.0522583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PVRM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lac Qui Parle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pvrm5",
+  "slug": "usgs-05299650",
+  "noaaForecastPath": "data/noaa-forecast/PVRM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

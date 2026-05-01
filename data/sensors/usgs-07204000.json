@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07204000",
+  "key": "07204000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07204000",
+  "name": "MORENO CREEK AT EAGLE NEST, N. MEX.",
+  "waterbody": "MORENO CREEK AT EAGLE NEST, N. MEX.",
+  "state": "NM",
+  "latitude": 36.55387222,
+  "longitude": -105.26798056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07204000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

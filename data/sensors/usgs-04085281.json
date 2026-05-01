@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04085281",
+  "key": "04085281",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085281",
+  "name": "EAST TWIN RIVER AT MISHICOT, WI",
+  "waterbody": "EAST TWIN RIVER AT MISHICOT, WI",
+  "state": "WI",
+  "latitude": 44.23777309,
+  "longitude": -87.6364725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04085281",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

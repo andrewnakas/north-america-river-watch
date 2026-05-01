@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01203510",
+  "key": "01203510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01203510",
+  "name": "POOTATUCK RIVER AT SANDY HOOK, CT",
+  "waterbody": "POOTATUCK RIVER AT SANDY HOOK, CT",
+  "state": "CT",
+  "latitude": 41.41925,
+  "longitude": -73.2821,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01203510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

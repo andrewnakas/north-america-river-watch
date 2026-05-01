@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03010720",
+  "key": "03010720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03010720",
+  "name": "DODGE CREEK AT PORTVILLE NY",
+  "waterbody": "DODGE CREEK AT PORTVILLE NY",
+  "state": "NY",
+  "latitude": 42.03630556,
+  "longitude": -78.3423611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dodge Creek (NY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/potn6",
+  "slug": "usgs-03010720",
+  "noaaForecastPath": "data/noaa-forecast/POTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11523200",
+  "key": "11523200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11523200",
+  "name": "TRINITY R AB COFFEE C NR TRINITY CENTER CA",
+  "waterbody": "TRINITY R AB COFFEE C NR TRINITY CENTER CA",
+  "state": "CA",
+  "latitude": 41.11122108,
+  "longitude": -122.7055474,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tccc1",
+  "slug": "usgs-11523200",
+  "noaaForecastPath": "data/noaa-forecast/TCCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

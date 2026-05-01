@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03322900",
+  "key": "03322900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03322900",
+  "name": "WABASH RIVER AT LINN GROVE, IN",
+  "waterbody": "WABASH RIVER AT LINN GROVE, IN",
+  "state": "IN",
+  "latitude": 40.64388889,
+  "longitude": -85.03088889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lyni3",
+  "slug": "usgs-03322900",
+  "noaaForecastPath": "data/noaa-forecast/LYNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

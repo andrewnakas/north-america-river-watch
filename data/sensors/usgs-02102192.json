@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02102192",
+  "key": "02102192",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02102192",
+  "name": "BUCKHORN CREEK NR CORINTH, NC",
+  "waterbody": "BUCKHORN CREEK NR CORINTH, NC",
+  "state": "NC",
+  "latitude": 35.5597222,
+  "longitude": -78.9736111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buckhorn Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bucn7",
+  "slug": "usgs-02102192",
+  "noaaForecastPath": "data/noaa-forecast/BUCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

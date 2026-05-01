@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11463000",
+  "key": "11463000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11463000",
+  "name": "RUSSIAN R NR CLOVERDALE CA",
+  "waterbody": "RUSSIAN R NR CLOVERDALE CA",
+  "state": "CA",
+  "latitude": 38.87930758,
+  "longitude": -123.0535767,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdlc1",
+  "slug": "usgs-11463000",
+  "noaaForecastPath": "data/noaa-forecast/CDLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

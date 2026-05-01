@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08066300",
+  "key": "08066300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08066300",
+  "name": "Menard Ck nr Rye, TX",
+  "waterbody": "Menard Ck nr Rye, TX",
+  "state": "TX",
+  "latitude": 30.48138889,
+  "longitude": -94.7797222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RYET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menard Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ryet2",
+  "slug": "usgs-08066300",
+  "noaaForecastPath": "data/noaa-forecast/RYET2.json",
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04183030",
+  "key": "04183030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04183030",
+  "name": "BLACK CREEK AT DARLING RD NEAR HARLAN, IN",
+  "waterbody": "BLACK CREEK AT DARLING RD NEAR HARLAN, IN",
+  "state": "IN",
+  "latitude": 41.17416667,
+  "longitude": -84.91575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04183030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

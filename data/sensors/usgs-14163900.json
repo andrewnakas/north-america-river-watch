@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14163900",
+  "key": "14163900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14163900",
+  "name": "MCKENZIE RIVER NEAR WALTERVILLE, OR",
+  "waterbody": "MCKENZIE RIVER NEAR WALTERVILLE, OR",
+  "state": "OR",
+  "latitude": 44.0698492,
+  "longitude": -122.7711874,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCZO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKenzie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mczo3",
+  "slug": "usgs-14163900",
+  "noaaForecastPath": "data/noaa-forecast/MCZO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

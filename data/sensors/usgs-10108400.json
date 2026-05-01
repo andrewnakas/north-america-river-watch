@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10108400",
+  "key": "10108400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10108400",
+  "name": "CACHE HIGHLINE CANAL NEAR LOGAN, UTAH",
+  "waterbody": "CACHE HIGHLINE CANAL NEAR LOGAN, UTAH",
+  "state": "UT",
+  "latitude": 41.743375,
+  "longitude": -111.762061,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10108400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

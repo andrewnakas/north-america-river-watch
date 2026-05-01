@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03014500",
+  "key": "03014500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03014500",
+  "name": "CHADAKOIN RIVER AT FALCONER NY",
+  "waterbody": "CHADAKOIN RIVER AT FALCONER NY",
+  "state": "NY",
+  "latitude": 42.11263889,
+  "longitude": -79.20363889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chadakoin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flcn6",
+  "slug": "usgs-03014500",
+  "noaaForecastPath": "data/noaa-forecast/FLCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07301110",
+  "key": "07301110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07301110",
+  "name": "Salt Fork Red River near Elmer, OK",
+  "waterbody": "Salt Fork Red River near Elmer, OK",
+  "state": "OK",
+  "latitude": 34.47896485,
+  "longitude": -99.38231,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESFO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork of the Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/esfo2",
+  "slug": "usgs-07301110",
+  "noaaForecastPath": "data/noaa-forecast/ESFO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04024098",
+  "key": "04024098",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04024098",
+  "name": "DEER CREEK NEAR HOLYOKE, MN",
+  "waterbody": "DEER CREEK NEAR HOLYOKE, MN",
+  "state": "MN",
+  "latitude": 46.52494308,
+  "longitude": -92.3890828,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEMM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nemadji River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nemm5",
+  "slug": "usgs-04024098",
+  "noaaForecastPath": "data/noaa-forecast/NEMM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

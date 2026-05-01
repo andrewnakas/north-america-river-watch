@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03364650",
+  "key": "03364650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03364650",
+  "name": "CLIFTY CREEK NEAR COLUMBUS, IN",
+  "waterbody": "CLIFTY CREEK NEAR COLUMBUS, IN",
+  "state": "IN",
+  "latitude": 39.1853205,
+  "longitude": -85.8749591,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clifty Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccci3",
+  "slug": "usgs-03364650",
+  "noaaForecastPath": "data/noaa-forecast/CCCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

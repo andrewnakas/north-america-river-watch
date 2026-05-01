@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07381350",
+  "key": "07381350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381350",
+  "name": "Company Canal at Hwy 1 at Lockport, LA",
+  "waterbody": "Company Canal at Hwy 1 at Lockport, LA",
+  "state": "LA",
+  "latitude": 29.64523908,
+  "longitude": -90.5448205,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River Delta Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lccl1",
+  "slug": "usgs-07381350",
+  "noaaForecastPath": "data/noaa-forecast/LCCL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

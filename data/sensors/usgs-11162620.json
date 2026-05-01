@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11162620",
+  "key": "11162620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11162620",
+  "name": "PILARCITOS C BL STONE DAM NR HILLSBOROUGH CA",
+  "waterbody": "PILARCITOS C BL STONE DAM NR HILLSBOROUGH CA",
+  "state": "CA",
+  "latitude": 37.52461674,
+  "longitude": -122.3993735,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMOC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pilarcitos Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmoc1",
+  "slug": "usgs-11162620",
+  "noaaForecastPath": "data/noaa-forecast/HMOC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

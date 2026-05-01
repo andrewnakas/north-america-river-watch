@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06914100",
+  "key": "06914100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06914100",
+  "name": "POTTAWATOMIE C NR SCIPIO, KS",
+  "waterbody": "POTTAWATOMIE C NR SCIPIO, KS",
+  "state": "KS",
+  "latitude": 38.34888889,
+  "longitude": -95.2033333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06914100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

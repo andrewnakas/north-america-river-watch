@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03592718",
+  "key": "03592718",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03592718",
+  "name": "LITTLE YELLOW CREEK EAST NR BURNSVILLE, MS",
+  "waterbody": "LITTLE YELLOW CREEK EAST NR BURNSVILLE, MS",
+  "state": "MS",
+  "latitude": 34.83555556,
+  "longitude": -88.2880556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03592718",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

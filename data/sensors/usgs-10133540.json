@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10133540",
+  "key": "10133540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10133540",
+  "name": "KIMBALL CRK ABV EAST CANYON CRK NR PARK CITY, UT",
+  "waterbody": "KIMBALL CRK ABV EAST CANYON CRK NR PARK CITY, UT",
+  "state": "UT",
+  "latitude": 40.7252264,
+  "longitude": -111.5143659,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10133540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

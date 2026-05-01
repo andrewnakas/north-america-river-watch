@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13019500",
+  "key": "13019500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13019500",
+  "name": "HOBACK RIVER NEAR JACKSON, WY",
+  "waterbody": "HOBACK RIVER NEAR JACKSON, WY",
+  "state": "WY",
+  "latitude": 43.30527778,
+  "longitude": -110.6801944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOJW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hoback River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hojw4",
+  "slug": "usgs-13019500",
+  "noaaForecastPath": "data/noaa-forecast/HOJW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

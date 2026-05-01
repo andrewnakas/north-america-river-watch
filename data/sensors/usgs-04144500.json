@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04144500",
+  "key": "04144500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04144500",
+  "name": "SHIAWASSEE RIVER AT OWOSSO, MI",
+  "waterbody": "SHIAWASSEE RIVER AT OWOSSO, MI",
+  "state": "MI",
+  "latitude": 43.01502685,
+  "longitude": -84.17997,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWOM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shiawassee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owom4",
+  "slug": "usgs-04144500",
+  "noaaForecastPath": "data/noaa-forecast/OWOM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

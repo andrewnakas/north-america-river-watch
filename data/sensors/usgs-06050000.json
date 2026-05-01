@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06050000",
+  "key": "06050000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06050000",
+  "name": "Hyalite C at Hyalite R S nr Bozeman MT",
+  "waterbody": "Hyalite C at Hyalite R S nr Bozeman MT",
+  "state": "MT",
+  "latitude": 45.56332778,
+  "longitude": -111.0718889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hyalite Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hccm8",
+  "slug": "usgs-06050000",
+  "noaaForecastPath": "data/noaa-forecast/HCCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

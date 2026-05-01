@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09219200",
+  "key": "09219200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09219200",
+  "name": "Blacks Fork above Smiths Fork, near Lyman, WY",
+  "waterbody": "Blacks Fork above Smiths Fork, near Lyman, WY",
+  "state": "WY",
+  "latitude": 41.39415,
+  "longitude": -110.2059583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09219200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

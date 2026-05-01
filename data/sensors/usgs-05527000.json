@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05527000",
+  "key": "05527000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05527000",
+  "name": "KANKAKEE RIVER AT CUSTER PARK, IL",
+  "waterbody": "KANKAKEE RIVER AT CUSTER PARK, IL",
+  "state": "IL",
+  "latitude": 41.2461111,
+  "longitude": -88.1275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05527000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06845110",
+  "key": "06845110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06845110",
+  "name": "SAPPA C NR LYLE, KS",
+  "waterbody": "SAPPA C NR LYLE, KS",
+  "state": "KS",
+  "latitude": 40.0016,
+  "longitude": -99.9924889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCRK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sappa Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncrk1",
+  "slug": "usgs-06845110",
+  "noaaForecastPath": "data/noaa-forecast/NCRK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

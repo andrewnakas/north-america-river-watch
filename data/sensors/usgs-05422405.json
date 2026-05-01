@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05422405",
+  "key": "05422405",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05422405",
+  "name": "MISS R AT AUX LOCK 14 (US) AT PLEASANT VALLEY, IA",
+  "waterbody": "MISS R AT AUX LOCK 14 (US) AT PLEASANT VALLEY, IA",
+  "state": "IA",
+  "latitude": 41.57488889,
+  "longitude": -90.4043611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LECI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/leci4",
+  "slug": "usgs-05422405",
+  "noaaForecastPath": "data/noaa-forecast/LECI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

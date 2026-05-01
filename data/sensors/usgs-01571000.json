@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01571000",
+  "key": "01571000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01571000",
+  "name": "Paxton Creek near Penbrook, PA",
+  "waterbody": "Paxton Creek near Penbrook, PA",
+  "state": "PA",
+  "latitude": 40.30842198,
+  "longitude": -76.8496948,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01571000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

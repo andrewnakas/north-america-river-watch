@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01111212",
+  "key": "01111212",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01111212",
+  "name": "BLACKSTONE RIVER, RT 122 BRIDGE NEAR UXBRIDGE, MA",
+  "waterbody": "BLACKSTONE RIVER, RT 122 BRIDGE NEAR UXBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.05481959,
+  "longitude": -71.6164542,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "XBRM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackstone River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/xbrm3",
+  "slug": "usgs-01111212",
+  "noaaForecastPath": "data/noaa-forecast/XBRM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

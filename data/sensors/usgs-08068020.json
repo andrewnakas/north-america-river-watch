@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068020",
+  "key": "08068020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068020",
+  "name": "E Fk Crystal Ck at FM 1485 nr Cut and Shoot, TX",
+  "waterbody": "E Fk Crystal Ck at FM 1485 nr Cut and Shoot, TX",
+  "state": "TX",
+  "latitude": 30.2949,
+  "longitude": -95.3521056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Crystal Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ecyt2",
+  "slug": "usgs-08068020",
+  "noaaForecastPath": "data/noaa-forecast/ECYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

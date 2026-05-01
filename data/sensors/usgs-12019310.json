@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12019310",
+  "key": "12019310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12019310",
+  "name": "CHEHALIS RIVER ABOVE MAHAFFEY CREEK NR PE ELL, WA",
+  "waterbody": "CHEHALIS RIVER ABOVE MAHAFFEY CREEK NR PE ELL, WA",
+  "state": "WA",
+  "latitude": 46.54531667,
+  "longitude": -123.2987167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12019310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

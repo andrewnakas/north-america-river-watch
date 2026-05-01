@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06253000",
+  "key": "06253000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06253000",
+  "name": "FIVEMILE CREEK NEAR SHOSHONI, WY",
+  "waterbody": "FIVEMILE CREEK NEAR SHOSHONI, WY",
+  "state": "WY",
+  "latitude": 43.22191667,
+  "longitude": -108.2196944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMIW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Five Mile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmiw4",
+  "slug": "usgs-06253000",
+  "noaaForecastPath": "data/noaa-forecast/FMIW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

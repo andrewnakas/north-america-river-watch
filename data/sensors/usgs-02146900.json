@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02146900",
+  "key": "02146900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146900",
+  "name": "TWELVE MILE CREEK NEAR WAXHAW, NC",
+  "waterbody": "TWELVE MILE CREEK NEAR WAXHAW, NC",
+  "state": "NC",
+  "latitude": 34.95194444,
+  "longitude": -80.7558333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02146900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

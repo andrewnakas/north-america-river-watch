@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02041000",
+  "key": "02041000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02041000",
+  "name": "DEEP CREEK NEAR MANNBORO, VA",
+  "waterbody": "DEEP CREEK NEAR MANNBORO, VA",
+  "state": "VA",
+  "latitude": 37.28320595,
+  "longitude": -77.869722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DECV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/decv2",
+  "slug": "usgs-02041000",
+  "noaaForecastPath": "data/noaa-forecast/DECV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

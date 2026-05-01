@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06426100",
+  "key": "06426100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06426100",
+  "name": "STONEPILE CREEK AT GILLETTE, WY",
+  "waterbody": "STONEPILE CREEK AT GILLETTE, WY",
+  "state": "WY",
+  "latitude": 44.2883137,
+  "longitude": -105.4769416,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06426100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

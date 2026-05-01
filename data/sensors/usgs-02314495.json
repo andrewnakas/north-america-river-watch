@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02314495",
+  "key": "02314495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02314495",
+  "name": "SUWANNEE RIVER ABOVE FARGO, GA",
+  "waterbody": "SUWANNEE RIVER ABOVE FARGO, GA",
+  "state": "GA",
+  "latitude": 30.7075,
+  "longitude": -82.5391667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02314495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

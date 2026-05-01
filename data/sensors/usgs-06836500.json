@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06836500",
+  "key": "06836500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06836500",
+  "name": "Driftwood Creek near McCook, Nebr.",
+  "waterbody": "Driftwood Creek near McCook, Nebr.",
+  "state": "NE",
+  "latitude": 40.14583333,
+  "longitude": -100.67386667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Driftwood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mckn1",
+  "slug": "usgs-06836500",
+  "noaaForecastPath": "data/noaa-forecast/MCKN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

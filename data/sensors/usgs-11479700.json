@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11479700",
+  "key": "11479700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11479700",
+  "name": "ELK R NR FALK CA",
+  "waterbody": "ELK R NR FALK CA",
+  "state": "CA",
+  "latitude": 40.70191258,
+  "longitude": -124.15621515,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERFC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/erfc1",
+  "slug": "usgs-11479700",
+  "noaaForecastPath": "data/noaa-forecast/ERFC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

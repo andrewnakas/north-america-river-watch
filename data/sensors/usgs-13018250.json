@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13018250",
+  "key": "13018250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13018250",
+  "name": "Flat Creek above Cache Creek, at Jackson, WY",
+  "waterbody": "Flat Creek above Cache Creek, at Jackson, WY",
+  "state": "WY",
+  "latitude": 43.4873833,
+  "longitude": -110.7632806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13018250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07039500",
+  "key": "07039500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07039500",
+  "name": "St. Francis River at Wappapello, MO",
+  "waterbody": "St. Francis River at Wappapello, MO",
+  "state": "MO",
+  "latitude": 36.9281111,
+  "longitude": -90.2652778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07039500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

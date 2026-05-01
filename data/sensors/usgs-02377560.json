@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02377560",
+  "key": "02377560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02377560",
+  "name": "STYX R NR LOXLEY, AT SMITHS SIDING, ALA",
+  "waterbody": "STYX R NR LOXLEY, AT SMITHS SIDING, ALA",
+  "state": "AL",
+  "latitude": 30.6371679,
+  "longitude": -87.6072359,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXLA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Styx River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxla1",
+  "slug": "usgs-02377560",
+  "noaaForecastPath": "data/noaa-forecast/SXLA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

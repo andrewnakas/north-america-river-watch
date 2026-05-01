@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05313500",
+  "key": "05313500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05313500",
+  "name": "YELLOW MEDICINE RIVER NEAR GRANITE FALLS, MN",
+  "waterbody": "YELLOW MEDICINE RIVER NEAR GRANITE FALLS, MN",
+  "state": "MN",
+  "latitude": 44.71533,
+  "longitude": -95.543937,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRNM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow Medicine River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grnm5",
+  "slug": "usgs-05313500",
+  "noaaForecastPath": "data/noaa-forecast/GRNM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

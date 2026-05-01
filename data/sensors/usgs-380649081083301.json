@@ -1,0 +1,22 @@
+{
+  "id": "usgs:380649081083301",
+  "key": "380649081083301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "380649081083301",
+  "name": "NEW RIVER BELOW HAWKS NEST DAM, WV",
+  "waterbody": "NEW RIVER BELOW HAWKS NEST DAM, WV",
+  "state": "WV",
+  "latitude": 38.11372008,
+  "longitude": -81.14232689,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNNW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnnw2",
+  "slug": "usgs-380649081083301",
+  "noaaForecastPath": "data/noaa-forecast/HNNW2.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

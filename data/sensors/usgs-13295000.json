@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13295000",
+  "key": "13295000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13295000",
+  "name": "VALLEY CREEK AT STANLEY ID",
+  "waterbody": "VALLEY CREEK AT STANLEY ID",
+  "state": "ID",
+  "latitude": 44.2225,
+  "longitude": -114.931111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VCSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Valley Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vcsi1",
+  "slug": "usgs-13295000",
+  "noaaForecastPath": "data/noaa-forecast/VCSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

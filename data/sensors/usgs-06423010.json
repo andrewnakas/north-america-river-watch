@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06423010",
+  "key": "06423010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06423010",
+  "name": "BOXELDER CREEK NEAR RAPID CITY,SD",
+  "waterbody": "BOXELDER CREEK NEAR RAPID CITY,SD",
+  "state": "SD",
+  "latitude": 44.131654,
+  "longitude": -103.2987949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boxelder Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnrs2",
+  "slug": "usgs-06423010",
+  "noaaForecastPath": "data/noaa-forecast/BNRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

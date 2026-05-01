@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09512060",
+  "key": "09512060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512060",
+  "name": "SALT RIVER AT ALMA SCHOOL RD NR MESA,AZ",
+  "waterbody": "SALT RIVER AT ALMA SCHOOL RD NR MESA,AZ",
+  "state": "AZ",
+  "latitude": 33.45310077,
+  "longitude": -111.8576418,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09512060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

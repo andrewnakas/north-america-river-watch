@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03146500",
+  "key": "03146500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03146500",
+  "name": "Licking River near Newark OH",
+  "waterbody": "Licking River near Newark OH",
+  "state": "OH",
+  "latitude": 40.05923245,
+  "longitude": -82.3395948,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Licking River (OH)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/neao1",
+  "slug": "usgs-03146500",
+  "noaaForecastPath": "data/noaa-forecast/NEAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

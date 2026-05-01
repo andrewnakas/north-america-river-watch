@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07375300",
+  "key": "07375300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07375300",
+  "name": "Tangipahoa River near Kentwood, LA",
+  "waterbody": "Tangipahoa River near Kentwood, LA",
+  "state": "LA",
+  "latitude": 30.93768029,
+  "longitude": -90.4903728,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KENL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tangipahoa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kenl1",
+  "slug": "usgs-07375300",
+  "noaaForecastPath": "data/noaa-forecast/KENL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09498400",
+  "key": "09498400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09498400",
+  "name": "PINAL CREEK AT INSPIRATION DAM, NR GLOBE, AZ.",
+  "waterbody": "PINAL CREEK AT INSPIRATION DAM, NR GLOBE, AZ.",
+  "state": "AZ",
+  "latitude": 33.5731068,
+  "longitude": -110.9012251,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09498400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09504350",
+  "key": "09504350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09504350",
+  "name": "WEST FORK OAK CREEK NR SEDONA, AZ",
+  "waterbody": "WEST FORK OAK CREEK NR SEDONA, AZ",
+  "state": "AZ",
+  "latitude": 34.98775,
+  "longitude": -111.7461944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OAWA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Oak Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oawa3",
+  "slug": "usgs-09504350",
+  "noaaForecastPath": "data/noaa-forecast/OAWA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

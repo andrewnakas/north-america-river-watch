@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09494200",
+  "key": "09494200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09494200",
+  "name": "CARRIZO CREEK NEAR CIBECUE, AZ",
+  "waterbody": "CARRIZO CREEK NEAR CIBECUE, AZ",
+  "state": "AZ",
+  "latitude": 34.1211111,
+  "longitude": -110.4169444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09494200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

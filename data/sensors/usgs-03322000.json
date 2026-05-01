@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03322000",
+  "key": "03322000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03322000",
+  "name": "OHIO RIVER AT EVANSVILLE, IN",
+  "waterbody": "OHIO RIVER AT EVANSVILLE, IN",
+  "state": "IN",
+  "latitude": 37.97228264,
+  "longitude": -87.5764029,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVVI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evvi3",
+  "slug": "usgs-03322000",
+  "noaaForecastPath": "data/noaa-forecast/EVVI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

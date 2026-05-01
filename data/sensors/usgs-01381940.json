@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01381940",
+  "key": "01381940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01381940",
+  "name": "Passaic R at Horse Neck Bridge near Pine Bk NJ",
+  "waterbody": "Passaic R at Horse Neck Bridge near Pine Bk NJ",
+  "state": "NJ",
+  "latitude": 40.8822222,
+  "longitude": -74.34,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01381940",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

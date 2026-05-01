@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02295420",
+  "key": "02295420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02295420",
+  "name": "PAYNE CREEK NEAR BOWLING GREEN FL",
+  "waterbody": "PAYNE CREEK NEAR BOWLING GREEN FL",
+  "state": "FL",
+  "latitude": 27.62059006,
+  "longitude": -81.8256384,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAYF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Payne Creek Near Bowling Green",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/payf1",
+  "slug": "usgs-02295420",
+  "noaaForecastPath": "data/noaa-forecast/PAYF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

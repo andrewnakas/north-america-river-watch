@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02172300",
+  "key": "02172300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172300",
+  "name": "MCTIER CREEK RD 209 NEAR MONETTA, SC",
+  "waterbody": "MCTIER CREEK RD 209 NEAR MONETTA, SC",
+  "state": "SC",
+  "latitude": 33.75347736,
+  "longitude": -81.6017714,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCTS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "McTier Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcts1",
+  "slug": "usgs-02172300",
+  "noaaForecastPath": "data/noaa-forecast/MCTS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

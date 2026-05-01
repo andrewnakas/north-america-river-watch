@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05458300",
+  "key": "05458300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05458300",
+  "name": "Cedar River at Waverly, IA",
+  "waterbody": "Cedar River at Waverly, IA",
+  "state": "IA",
+  "latitude": 42.7372222,
+  "longitude": -92.4700917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WVLI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wvli4",
+  "slug": "usgs-05458300",
+  "noaaForecastPath": "data/noaa-forecast/WVLI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06441000",
+  "key": "06441000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06441000",
+  "name": "BAD RIVER NEAR MIDLAND,SD",
+  "waterbody": "BAD RIVER NEAR MIDLAND,SD",
+  "state": "SD",
+  "latitude": 44.0672095,
+  "longitude": -101.1608623,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MIDS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bad River (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mids2",
+  "slug": "usgs-06441000",
+  "noaaForecastPath": "data/noaa-forecast/MIDS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

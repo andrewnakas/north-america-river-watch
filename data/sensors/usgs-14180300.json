@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14180300",
+  "key": "14180300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14180300",
+  "name": "BLOWOUT CREEK NEAR DETROIT, OR",
+  "waterbody": "BLOWOUT CREEK NEAR DETROIT, OR",
+  "state": "OR",
+  "latitude": 44.65289999,
+  "longitude": -122.130908,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEQO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blowout Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/deqo3",
+  "slug": "usgs-14180300",
+  "noaaForecastPath": "data/noaa-forecast/DEQO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

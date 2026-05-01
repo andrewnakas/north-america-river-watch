@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01487500",
+  "key": "01487500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01487500",
+  "name": "TRAP P OUTLET NR LAUREL DE",
+  "waterbody": "TRAP P OUTLET NR LAUREL DE",
+  "state": "DE",
+  "latitude": 38.5278929,
+  "longitude": -75.48242119,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01487500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03085000",
+  "key": "03085000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085000",
+  "name": "Monongahela River at Braddock, PA",
+  "waterbody": "Monongahela River at Braddock, PA",
+  "state": "PA",
+  "latitude": 40.39113189,
+  "longitude": -79.8580943,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03085000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

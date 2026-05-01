@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12103000",
+  "key": "12103000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12103000",
+  "name": "WEST TRIB TO HYLEBOS CR NEAR MILTON, WA",
+  "waterbody": "WEST TRIB TO HYLEBOS CR NEAR MILTON, WA",
+  "state": "WA",
+  "latitude": 47.2670445,
+  "longitude": -122.3295662,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12103000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

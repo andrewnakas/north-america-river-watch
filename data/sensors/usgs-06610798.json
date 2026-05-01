@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610798",
+  "key": "06610798",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610798",
+  "name": "Papillion Cr at Harlan Lewis Rd nr La Platte, Nebr",
+  "waterbody": "Papillion Cr at Harlan Lewis Rd nr La Platte, Nebr",
+  "state": "NE",
+  "latitude": 41.08210556,
+  "longitude": -95.88975556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHRN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phrn1",
+  "slug": "usgs-06610798",
+  "noaaForecastPath": "data/noaa-forecast/PHRN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

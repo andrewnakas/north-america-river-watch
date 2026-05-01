@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02197020",
+  "key": "02197020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197020",
+  "name": "SPIRIT CREEK AT US 1, NEAR AUGUSTA, GA",
+  "waterbody": "SPIRIT CREEK AT US 1, NEAR AUGUSTA, GA",
+  "state": "GA",
+  "latitude": 33.37366667,
+  "longitude": -82.1391944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spirit Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sptg1",
+  "slug": "usgs-02197020",
+  "noaaForecastPath": "data/noaa-forecast/SPTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

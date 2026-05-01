@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04282650",
+  "key": "04282650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282650",
+  "name": "LITTLE OTTER CREEK AT FERRISBURG, VT",
+  "waterbody": "LITTLE OTTER CREEK AT FERRISBURG, VT",
+  "state": "VT",
+  "latitude": 44.1981424,
+  "longitude": -73.2491311,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FERV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Otter Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ferv1",
+  "slug": "usgs-04282650",
+  "noaaForecastPath": "data/noaa-forecast/FERV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

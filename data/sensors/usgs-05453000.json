@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05453000",
+  "key": "05453000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05453000",
+  "name": "Big Bear Creek at Ladora, IA",
+  "waterbody": "Big Bear Creek at Ladora, IA",
+  "state": "IA",
+  "latitude": 41.74944709,
+  "longitude": -92.1821267,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LADI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Bear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ladi4",
+  "slug": "usgs-05453000",
+  "noaaForecastPath": "data/noaa-forecast/LADI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

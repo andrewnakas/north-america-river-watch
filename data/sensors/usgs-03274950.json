@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03274950",
+  "key": "03274950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03274950",
+  "name": "LITTLE WILLIAMS CREEK AT CONNERSVILLE, IND",
+  "waterbody": "LITTLE WILLIAMS CREEK AT CONNERSVILLE, IND",
+  "state": "IN",
+  "latitude": 39.63781436,
+  "longitude": -85.1721582,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03274950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07050152",
+  "key": "07050152",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07050152",
+  "name": "Roaring River at Roaring River State Park",
+  "waterbody": "Roaring River at Roaring River State Park",
+  "state": "MO",
+  "latitude": 36.5809722,
+  "longitude": -93.8336944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRSM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roaring River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrsm7",
+  "slug": "usgs-07050152",
+  "noaaForecastPath": "data/noaa-forecast/RRSM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

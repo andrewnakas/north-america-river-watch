@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08170860",
+  "key": "08170860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08170860",
+  "name": "Blanco Rv at Blanco, TX",
+  "waterbody": "Blanco Rv at Blanco, TX",
+  "state": "TX",
+  "latitude": 30.09278056,
+  "longitude": -98.42315,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brbt2",
+  "slug": "usgs-08170860",
+  "noaaForecastPath": "data/noaa-forecast/BRBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13310570",
+  "key": "13310570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13310570",
+  "name": "SF SALMON RIVER AT POVERTY FLAT NR CASCADE ID",
+  "waterbody": "SF SALMON RIVER AT POVERTY FLAT NR CASCADE ID",
+  "state": "ID",
+  "latitude": 44.83240027,
+  "longitude": -115.7042846,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13310570",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

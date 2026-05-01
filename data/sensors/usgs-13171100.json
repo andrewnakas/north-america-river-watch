@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13171100",
+  "key": "13171100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13171100",
+  "name": "SNAKE RIVER IRR DIST CANAL NR GRAND VIEW ID",
+  "waterbody": "SNAKE RIVER IRR DIST CANAL NR GRAND VIEW ID",
+  "state": "ID",
+  "latitude": 42.95055556,
+  "longitude": -115.9758333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13171100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:103087898",
+  "key": "103087898",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "103087898",
+  "name": "ASPEN C AB LEVIATHAN C NR MARKLEEVILLE CA",
+  "waterbody": "ASPEN C AB LEVIATHAN C NR MARKLEEVILLE CA",
+  "state": "CA",
+  "latitude": 38.71711812,
+  "longitude": -119.65931792,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-103087898",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

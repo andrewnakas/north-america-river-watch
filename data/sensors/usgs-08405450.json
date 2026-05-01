@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08405450",
+  "key": "08405450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08405450",
+  "name": "BLUE SPRINGS ABOVE DIVERSIONS NR WHITES CITY, NM",
+  "waterbody": "BLUE SPRINGS ABOVE DIVERSIONS NR WHITES CITY, NM",
+  "state": "NM",
+  "latitude": 32.18458889,
+  "longitude": -104.2844972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSSN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue Spring 5 miles E of Whites City",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bssn5",
+  "slug": "usgs-08405450",
+  "noaaForecastPath": "data/noaa-forecast/BSSN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

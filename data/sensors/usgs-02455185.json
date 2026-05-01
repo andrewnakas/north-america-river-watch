@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02455185",
+  "key": "02455185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02455185",
+  "name": "BLACKBURN FORK LITTLE WARRIOR R NR HOLLY SPRINGS",
+  "waterbody": "BLACKBURN FORK LITTLE WARRIOR R NR HOLLY SPRINGS",
+  "state": "AL",
+  "latitude": 33.86069558,
+  "longitude": -86.4458124,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02455185",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

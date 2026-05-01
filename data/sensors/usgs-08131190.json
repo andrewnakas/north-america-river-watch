@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08131190",
+  "key": "08131190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08131190",
+  "name": "S Concho Rv abv Gardner Dam nr San Angelo, TX",
+  "waterbody": "S Concho Rv abv Gardner Dam nr San Angelo, TX",
+  "state": "TX",
+  "latitude": 31.2829432,
+  "longitude": -100.5078722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08131190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

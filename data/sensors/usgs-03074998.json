@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03074998",
+  "key": "03074998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03074998",
+  "name": "Monongahela R at L&D4 Upper Pool at Charleroi, PA",
+  "waterbody": "Monongahela R at L&D4 Upper Pool at Charleroi, PA",
+  "state": "PA",
+  "latitude": 40.14805556,
+  "longitude": -79.8922222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03074998",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

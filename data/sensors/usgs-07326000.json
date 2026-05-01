@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07326000",
+  "key": "07326000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07326000",
+  "name": "Cobb Creek near Fort Cobb, OK",
+  "waterbody": "Cobb Creek near Fort Cobb, OK",
+  "state": "OK",
+  "latitude": 35.14367036,
+  "longitude": -98.4428358,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cobb Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcco2",
+  "slug": "usgs-07326000",
+  "noaaForecastPath": "data/noaa-forecast/FCCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

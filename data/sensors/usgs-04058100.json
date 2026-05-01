@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04058100",
+  "key": "04058100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04058100",
+  "name": "MIDDLE BRANCH ESCANABA RIVER NR PRINCETON, MI",
+  "waterbody": "MIDDLE BRANCH ESCANABA RIVER NR PRINCETON, MI",
+  "state": "MI",
+  "latitude": 46.3171649,
+  "longitude": -87.5020817,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRNM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Branch Escanaba River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prnm4",
+  "slug": "usgs-04058100",
+  "noaaForecastPath": "data/noaa-forecast/PRNM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

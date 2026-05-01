@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03566420",
+  "key": "03566420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03566420",
+  "name": "WOLFTEVER CREEK NEAR OOLTEWAH, TN",
+  "waterbody": "WOLFTEVER CREEK NEAR OOLTEWAH, TN",
+  "state": "TN",
+  "latitude": 35.0621992,
+  "longitude": -85.0663838,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFCT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolftever Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfct1",
+  "slug": "usgs-03566420",
+  "noaaForecastPath": "data/noaa-forecast/WFCT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

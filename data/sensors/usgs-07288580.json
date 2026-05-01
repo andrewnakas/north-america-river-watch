@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07288580",
+  "key": "07288580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288580",
+  "name": "QUIVER RIVER NR SUNFLOWER, MS",
+  "waterbody": "QUIVER RIVER NR SUNFLOWER, MS",
+  "state": "MS",
+  "latitude": 33.52957845,
+  "longitude": -90.4387103,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNFM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quiver River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snfm6",
+  "slug": "usgs-07288580",
+  "noaaForecastPath": "data/noaa-forecast/SNFM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

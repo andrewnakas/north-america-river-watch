@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03435770",
+  "key": "03435770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03435770",
+  "name": "SULPHUR FORK RED RIVER ABOVE SPRINGFIELD, TN",
+  "waterbody": "SULPHUR FORK RED RIVER ABOVE SPRINGFIELD, TN",
+  "state": "TN",
+  "latitude": 36.5131006,
+  "longitude": -86.8622203,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03435770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07332390",
+  "key": "07332390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332390",
+  "name": "Blue River near Connerville, OK",
+  "waterbody": "Blue River near Connerville, OK",
+  "state": "OK",
+  "latitude": 34.383426,
+  "longitude": -96.6005579,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNVO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnvo2",
+  "slug": "usgs-07332390",
+  "noaaForecastPath": "data/noaa-forecast/CNVO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

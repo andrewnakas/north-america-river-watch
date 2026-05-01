@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05400513",
+  "key": "05400513",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05400513",
+  "name": "PLOVER RIVER AT HIGHWAY 66 AT STEVENS POINT, WI",
+  "waterbody": "PLOVER RIVER AT HIGHWAY 66 AT STEVENS POINT, WI",
+  "state": "WI",
+  "latitude": 44.5233333,
+  "longitude": -89.5366667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05400513",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

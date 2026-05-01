@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50252000",
+  "key": "50252000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50252000",
+  "name": "BONNE RESOLUTION GUT AT BONNE RESOLUTION ST THOMAS",
+  "waterbody": "BONNE RESOLUTION GUT AT BONNE RESOLUTION ST THOMAS",
+  "state": "VI",
+  "latitude": 18.36384507,
+  "longitude": -64.9590352,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50252000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

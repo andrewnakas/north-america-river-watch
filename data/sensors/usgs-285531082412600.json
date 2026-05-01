@@ -1,0 +1,22 @@
+{
+  "id": "usgs:285531082412600",
+  "key": "285531082412600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "285531082412600",
+  "name": "CRYSTAL RV AT MOUTH NR SHELL ISL NR CRYSTAL RV FL",
+  "waterbody": "CRYSTAL RV AT MOUTH NR SHELL ISL NR CRYSTAL RV FL",
+  "state": "FL",
+  "latitude": 28.92527778,
+  "longitude": -82.69063889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SISF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tide Gauge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sisf1",
+  "slug": "usgs-285531082412600",
+  "noaaForecastPath": "data/noaa-forecast/SISF1.json",
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

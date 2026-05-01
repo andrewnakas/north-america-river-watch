@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01593710",
+  "key": "01593710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01593710",
+  "name": "MIDDLE PATUXENT RIVER NEAR SIMPSONVILLE, MD",
+  "waterbody": "MIDDLE PATUXENT RIVER NEAR SIMPSONVILLE, MD",
+  "state": "MD",
+  "latitude": 39.19677349,
+  "longitude": -76.89941938,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01593710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

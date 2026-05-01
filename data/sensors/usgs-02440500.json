@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02440500",
+  "key": "02440500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02440500",
+  "name": "CHUQUATONCHEE CREEK NR WEST POINT, MS",
+  "waterbody": "CHUQUATONCHEE CREEK NR WEST POINT, MS",
+  "state": "MS",
+  "latitude": 33.6072222,
+  "longitude": -88.7091667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02440500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02124269",
+  "key": "02124269",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02124269",
+  "name": "BACK CR AT SR1173 NEAR HARRISBURG, NC",
+  "waterbody": "BACK CR AT SR1173 NEAR HARRISBURG, NC",
+  "state": "NC",
+  "latitude": 35.30916667,
+  "longitude": -80.6736111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Back Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkcn7",
+  "slug": "usgs-02124269",
+  "noaaForecastPath": "data/noaa-forecast/BKCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04063700",
+  "key": "04063700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04063700",
+  "name": "POPPLE RIVER NEAR FENCE, WI",
+  "waterbody": "POPPLE RIVER NEAR FENCE, WI",
+  "state": "WI",
+  "latitude": 45.7636111,
+  "longitude": -88.4636111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCEW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Popple River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcew3",
+  "slug": "usgs-04063700",
+  "noaaForecastPath": "data/noaa-forecast/FCEW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

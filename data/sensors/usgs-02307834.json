@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02307834",
+  "key": "02307834",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307834",
+  "name": "UPPER HIGHLANDS CANAL AT CONTROL NR PINELLAS PK FL",
+  "waterbody": "UPPER HIGHLANDS CANAL AT CONTROL NR PINELLAS PK FL",
+  "state": "FL",
+  "latitude": 27.87194444,
+  "longitude": -82.6897222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02307834",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

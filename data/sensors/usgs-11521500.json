@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11521500",
+  "key": "11521500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11521500",
+  "name": "INDIAN C NR HAPPY CAMP CA",
+  "waterbody": "INDIAN C NR HAPPY CAMP CA",
+  "state": "CA",
+  "latitude": 41.83509438,
+  "longitude": -123.383078,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hapc1",
+  "slug": "usgs-11521500",
+  "noaaForecastPath": "data/noaa-forecast/HAPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

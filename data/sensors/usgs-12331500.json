@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12331500",
+  "key": "12331500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12331500",
+  "name": "Flint Creek near Drummond MT",
+  "waterbody": "Flint Creek near Drummond MT",
+  "state": "MT",
+  "latitude": 46.62872778,
+  "longitude": -113.1506917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12331500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

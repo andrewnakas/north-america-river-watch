@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01043500",
+  "key": "01043500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01043500",
+  "name": "Dead River near Dead River, Maine",
+  "waterbody": "Dead River near Dead River, Maine",
+  "state": "ME",
+  "latitude": 45.22905,
+  "longitude": -70.20112778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01043500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

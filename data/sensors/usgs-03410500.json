@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03410500",
+  "key": "03410500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03410500",
+  "name": "SOUTH FORK CUMBERLAND RIVER NEAR STEARNS, KY",
+  "waterbody": "SOUTH FORK CUMBERLAND RIVER NEAR STEARNS, KY",
+  "state": "KY",
+  "latitude": 36.62702209,
+  "longitude": -84.5332723,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STRK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Cumberland River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/strk2",
+  "slug": "usgs-03410500",
+  "noaaForecastPath": "data/noaa-forecast/STRK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

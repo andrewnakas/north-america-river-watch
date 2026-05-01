@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05426031",
+  "key": "05426031",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05426031",
+  "name": "ROCK RIVER AT JEFFERSON, WI",
+  "waterbody": "ROCK RIVER AT JEFFERSON, WI",
+  "state": "WI",
+  "latitude": 42.99611515,
+  "longitude": -88.8073274,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JFFW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jffw3",
+  "slug": "usgs-05426031",
+  "noaaForecastPath": "data/noaa-forecast/JFFW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03255420",
+  "key": "03255420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03255420",
+  "name": "Mill Creek at Evendale OH",
+  "waterbody": "Mill Creek at Evendale OH",
+  "state": "OH",
+  "latitude": 39.2545024,
+  "longitude": -84.4257749,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evno1",
+  "slug": "usgs-03255420",
+  "noaaForecastPath": "data/noaa-forecast/EVNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

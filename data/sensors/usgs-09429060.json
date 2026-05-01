@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429060",
+  "key": "09429060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429060",
+  "name": "CRIR LOWER MAIN DRAIN NEAR PARKER, AZ",
+  "waterbody": "CRIR LOWER MAIN DRAIN NEAR PARKER, AZ",
+  "state": "AZ",
+  "latitude": 33.761132,
+  "longitude": -114.4855107,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

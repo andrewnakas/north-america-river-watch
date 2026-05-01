@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05576022",
+  "key": "05576022",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576022",
+  "name": "SOUTH FORK SANGAMON RIVER BELOW ROCHESTER, IL",
+  "waterbody": "SOUTH FORK SANGAMON RIVER BELOW ROCHESTER, IL",
+  "state": "IL",
+  "latitude": 39.7538333,
+  "longitude": -89.56575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Sangamon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcsi2",
+  "slug": "usgs-05576022",
+  "noaaForecastPath": "data/noaa-forecast/RCSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

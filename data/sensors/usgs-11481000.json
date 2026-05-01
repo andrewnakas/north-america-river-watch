@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11481000",
+  "key": "11481000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11481000",
+  "name": "MAD R NR ARCATA CA",
+  "waterbody": "MAD R NR ARCATA CA",
+  "state": "CA",
+  "latitude": 40.9098217,
+  "longitude": -124.06058,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arcc1",
+  "slug": "usgs-11481000",
+  "noaaForecastPath": "data/noaa-forecast/ARCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

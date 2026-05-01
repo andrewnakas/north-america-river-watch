@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021108125",
+  "key": "021108125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021108125",
+  "name": "WACCAMAW RIVER NEAR PAWLEYS ISLAND, SC",
+  "waterbody": "WACCAMAW RIVER NEAR PAWLEYS ISLAND, SC",
+  "state": "SC",
+  "latitude": 33.50655724,
+  "longitude": -79.1269867,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPIS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waccamaw River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wpis1",
+  "slug": "usgs-021108125",
+  "noaaForecastPath": "data/noaa-forecast/WPIS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

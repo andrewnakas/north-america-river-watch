@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06710150",
+  "key": "06710150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06710150",
+  "name": "BIG DRY CREEK BELOW C-470 AT HIGHLANDS RANCH, CO",
+  "waterbody": "BIG DRY CREEK BELOW C-470 AT HIGHLANDS RANCH, CO",
+  "state": "CO",
+  "latitude": 39.563333,
+  "longitude": -104.927222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06710150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

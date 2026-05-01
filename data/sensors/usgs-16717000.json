@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16717000",
+  "key": "16717000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16717000",
+  "name": "Honolii Stream nr Papaikou, HI",
+  "waterbody": "Honolii Stream nr Papaikou, HI",
+  "state": "HI",
+  "latitude": 19.76433333,
+  "longitude": -155.1518333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NLIH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Honolii Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nlih1",
+  "slug": "usgs-16717000",
+  "noaaForecastPath": "data/noaa-forecast/NLIH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

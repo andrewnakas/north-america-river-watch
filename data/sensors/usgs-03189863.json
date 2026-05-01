@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03189863",
+  "key": "03189863",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03189863",
+  "name": "MEADOW RIVER NEAR HINES, WV",
+  "waterbody": "MEADOW RIVER NEAR HINES, WV",
+  "state": "WV",
+  "latitude": 37.9848333,
+  "longitude": -80.7231111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNEW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meadow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnew2",
+  "slug": "usgs-03189863",
+  "noaaForecastPath": "data/noaa-forecast/HNEW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

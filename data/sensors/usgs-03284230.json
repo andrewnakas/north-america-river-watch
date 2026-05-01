@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03284230",
+  "key": "03284230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03284230",
+  "name": "KENTUCKY RIVER AT LOCK 9 AT VALLEY VIEW, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 9 AT VALLEY VIEW, KY",
+  "state": "KY",
+  "latitude": 37.843968,
+  "longitude": -84.44063039,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlvk2",
+  "slug": "usgs-03284230",
+  "noaaForecastPath": "data/noaa-forecast/VLVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

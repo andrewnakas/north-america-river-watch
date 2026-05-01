@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01017550",
+  "key": "01017550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01017550",
+  "name": "Williams Brook at Phair, Maine",
+  "waterbody": "Williams Brook at Phair, Maine",
+  "state": "ME",
+  "latitude": 46.62805556,
+  "longitude": -67.9530556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHRM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williams Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phrm1",
+  "slug": "usgs-01017550",
+  "noaaForecastPath": "data/noaa-forecast/PHRM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

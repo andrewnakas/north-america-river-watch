@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11465500",
+  "key": "11465500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11465500",
+  "name": "MARK WEST C NR WINDSOR CA",
+  "waterbody": "MARK WEST C NR WINDSOR CA",
+  "state": "CA",
+  "latitude": 38.50935499,
+  "longitude": -122.7697109,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11465500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

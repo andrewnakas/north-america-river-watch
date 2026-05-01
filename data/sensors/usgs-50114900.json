@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50114900",
+  "key": "50114900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50114900",
+  "name": "RIO PORTUGUES NR TIBES, PR",
+  "waterbody": "RIO PORTUGUES NR TIBES, PR",
+  "state": "PR",
+  "latitude": 18.099878,
+  "longitude": -66.642869,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRTP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Portugues",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prtp4",
+  "slug": "usgs-50114900",
+  "noaaForecastPath": "data/noaa-forecast/PRTP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03181949",
+  "key": "03181949",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03181949",
+  "name": "KNAPP CREEK NEAR MARLINTON, WV",
+  "waterbody": "KNAPP CREEK NEAR MARLINTON, WV",
+  "state": "WV",
+  "latitude": 38.1978611,
+  "longitude": -80.0278056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MINW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Knapp Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/minw2",
+  "slug": "usgs-03181949",
+  "noaaForecastPath": "data/noaa-forecast/MINW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07062575",
+  "key": "07062575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07062575",
+  "name": "Black River above Williamsville, MO",
+  "waterbody": "Black River above Williamsville, MO",
+  "state": "MO",
+  "latitude": 36.9725,
+  "longitude": -90.596944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLMM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlmm7",
+  "slug": "usgs-07062575",
+  "noaaForecastPath": "data/noaa-forecast/WLMM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

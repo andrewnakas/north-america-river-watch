@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01662800",
+  "key": "01662800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01662800",
+  "name": "BATTLE RUN NEAR LAUREL MILLS, VA",
+  "waterbody": "BATTLE RUN NEAR LAUREL MILLS, VA",
+  "state": "VA",
+  "latitude": 38.65567564,
+  "longitude": -78.0738869,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thornton River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trlv2",
+  "slug": "usgs-01662800",
+  "noaaForecastPath": "data/noaa-forecast/TRLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

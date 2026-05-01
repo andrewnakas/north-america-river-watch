@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07075000",
+  "key": "07075000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07075000",
+  "name": "Middle Fork of Little Red River at Shirley, AR",
+  "waterbody": "Middle Fork of Little Red River at Shirley, AR",
+  "state": "AR",
+  "latitude": 35.65666667,
+  "longitude": -92.2927778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07075000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

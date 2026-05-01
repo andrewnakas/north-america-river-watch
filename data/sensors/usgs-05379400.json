@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05379400",
+  "key": "05379400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05379400",
+  "name": "TREMPEALEAU RIVER AT ARCADIA, WI",
+  "waterbody": "TREMPEALEAU RIVER AT ARCADIA, WI",
+  "state": "WI",
+  "latitude": 44.25444444,
+  "longitude": -91.5052778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARCW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trempealeau River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arcw3",
+  "slug": "usgs-05379400",
+  "noaaForecastPath": "data/noaa-forecast/ARCW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

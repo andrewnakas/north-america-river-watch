@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16265000",
+  "key": "16265000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16265000",
+  "name": "Kawa Str at Kaneohe, Oahu, HI",
+  "waterbody": "Kawa Str at Kaneohe, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.40575,
+  "longitude": -157.7905,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KWWH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kawa Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kwwh1",
+  "slug": "usgs-16265000",
+  "noaaForecastPath": "data/noaa-forecast/KWWH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

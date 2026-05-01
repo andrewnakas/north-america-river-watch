@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02359500",
+  "key": "02359500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02359500",
+  "name": "ECONFINA CREEK NEAR BENNETT, FLA.",
+  "waterbody": "ECONFINA CREEK NEAR BENNETT, FLA.",
+  "state": "FL",
+  "latitude": 30.3846406,
+  "longitude": -85.5565932,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BENF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Econfina Creek",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/benf1",
+  "slug": "usgs-02359500",
+  "noaaForecastPath": "data/noaa-forecast/BENF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

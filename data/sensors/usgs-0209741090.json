@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209741090",
+  "key": "0209741090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209741090",
+  "name": "CROOKED CREEK AT SCOTT KING ROAD NEAR BLANDS, NC",
+  "waterbody": "CROOKED CREEK AT SCOTT KING ROAD NEAR BLANDS, NC",
+  "state": "NC",
+  "latitude": 35.87613889,
+  "longitude": -78.9433611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cskn7",
+  "slug": "usgs-0209741090",
+  "noaaForecastPath": "data/noaa-forecast/CSKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

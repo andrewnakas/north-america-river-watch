@@ -1,0 +1,19 @@
+{
+  "id": "usgs:441613123102600",
+  "key": "441613123102600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "441613123102600",
+  "name": "WILLAMETTE R ON RB AT RM 161",
+  "waterbody": "WILLAMETTE R ON RB AT RM 161",
+  "state": "OR",
+  "latitude": 44.270275,
+  "longitude": -123.1739139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-441613123102600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

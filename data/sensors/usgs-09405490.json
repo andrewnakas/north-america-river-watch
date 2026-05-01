@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09405490",
+  "key": "09405490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09405490",
+  "name": "NORTH FORK VIRGIN R. AB BIG BEND NR SPRINGDALE, UT",
+  "waterbody": "NORTH FORK VIRGIN R. AB BIG BEND NR SPRINGDALE, UT",
+  "state": "UT",
+  "latitude": 37.27859285,
+  "longitude": -112.9446625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09405490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

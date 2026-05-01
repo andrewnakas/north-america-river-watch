@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11179000",
+  "key": "11179000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11179000",
+  "name": "ALAMEDA C NR NILES CA",
+  "waterbody": "ALAMEDA C NR NILES CA",
+  "state": "CA",
+  "latitude": 37.5871193,
+  "longitude": -121.960752,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NILC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alameda Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nilc1",
+  "slug": "usgs-11179000",
+  "noaaForecastPath": "data/noaa-forecast/NILC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04121900",
+  "key": "04121900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04121900",
+  "name": "LITTLE MUSKEGON RIVER NEAR MORLEY, MI",
+  "waterbody": "LITTLE MUSKEGON RIVER NEAR MORLEY, MI",
+  "state": "MI",
+  "latitude": 43.50252875,
+  "longitude": -85.3425356,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MORM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Muskegon River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/morm4",
+  "slug": "usgs-04121900",
+  "noaaForecastPath": "data/noaa-forecast/MORM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

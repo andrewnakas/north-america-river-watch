@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03040000",
+  "key": "03040000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03040000",
+  "name": "Stonycreek River at Ferndale, PA",
+  "waterbody": "Stonycreek River at Ferndale, PA",
+  "state": "PA",
+  "latitude": 40.28563049,
+  "longitude": -78.9205806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FDLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stonycreek River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fdlp1",
+  "slug": "usgs-03040000",
+  "noaaForecastPath": "data/noaa-forecast/FDLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

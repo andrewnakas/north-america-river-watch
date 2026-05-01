@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06892494",
+  "key": "06892494",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06892494",
+  "name": "CAMP C AT 95TH ST NR DESOTO, KS",
+  "waterbody": "CAMP C AT 95TH ST NR DESOTO, KS",
+  "state": "KS",
+  "latitude": 38.95638889,
+  "longitude": -94.9230556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06892494",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

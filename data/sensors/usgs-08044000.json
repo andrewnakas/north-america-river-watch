@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08044000",
+  "key": "08044000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08044000",
+  "name": "Big Sandy Ck nr Bridgeport, TX",
+  "waterbody": "Big Sandy Ck nr Bridgeport, TX",
+  "state": "TX",
+  "latitude": 33.23178218,
+  "longitude": -97.6947538,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy Creek (Trinity River Basin)",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brpt2",
+  "slug": "usgs-08044000",
+  "noaaForecastPath": "data/noaa-forecast/BRPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105876",
+  "key": "01105876",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105876",
+  "name": "EEL RIVER AT RT 3A NEAR PLYMOUTH, MA",
+  "waterbody": "EEL RIVER AT RT 3A NEAR PLYMOUTH, MA",
+  "state": "MA",
+  "latitude": 41.9416405,
+  "longitude": -70.6225064,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EELM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eels River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eelm3",
+  "slug": "usgs-01105876",
+  "noaaForecastPath": "data/noaa-forecast/EELM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

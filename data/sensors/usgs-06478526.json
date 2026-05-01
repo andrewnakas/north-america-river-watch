@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06478526",
+  "key": "06478526",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478526",
+  "name": "Missouri River near Maskell, Nebr.",
+  "waterbody": "Missouri River near Maskell, Nebr.",
+  "state": "NE",
+  "latitude": 42.72205556,
+  "longitude": -96.94901389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mkln1",
+  "slug": "usgs-06478526",
+  "noaaForecastPath": "data/noaa-forecast/MKLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14202550",
+  "key": "14202550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14202550",
+  "name": "AYERS CREEK AT NE NORTH VALLEY RD, NR GASTON, OR",
+  "waterbody": "AYERS CREEK AT NE NORTH VALLEY RD, NR GASTON, OR",
+  "state": "OR",
+  "latitude": 45.3793,
+  "longitude": -123.0960639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14202550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04273500",
+  "key": "04273500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04273500",
+  "name": "SARANAC RIVER AT PLATTSBURGH NY",
+  "waterbody": "SARANAC RIVER AT PLATTSBURGH NY",
+  "state": "NY",
+  "latitude": 44.68172222,
+  "longitude": -73.47097222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saranac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbgn6",
+  "slug": "usgs-04273500",
+  "noaaForecastPath": "data/noaa-forecast/PBGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

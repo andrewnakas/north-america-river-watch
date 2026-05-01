@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12327090",
+  "key": "12327090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12327090",
+  "name": "Flint Cr ab Fred Burr Cr nr Philipsburg MT",
+  "waterbody": "Flint Cr ab Fred Burr Cr nr Philipsburg MT",
+  "state": "MT",
+  "latitude": 46.29527778,
+  "longitude": -113.33275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12327090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

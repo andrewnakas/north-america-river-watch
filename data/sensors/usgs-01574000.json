@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01574000",
+  "key": "01574000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01574000",
+  "name": "West Conewago Creek near Manchester, PA",
+  "waterbody": "West Conewago Creek near Manchester, PA",
+  "state": "PA",
+  "latitude": 40.08082205,
+  "longitude": -76.71805199,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MANP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Conewago Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/manp1",
+  "slug": "usgs-01574000",
+  "noaaForecastPath": "data/noaa-forecast/MANP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

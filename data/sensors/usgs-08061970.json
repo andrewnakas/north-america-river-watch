@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08061970",
+  "key": "08061970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08061970",
+  "name": "E Fk Trinity Rv abv Seagoville, TX",
+  "waterbody": "E Fk Trinity Rv abv Seagoville, TX",
+  "state": "TX",
+  "latitude": 32.7004229,
+  "longitude": -96.5313887,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08061970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

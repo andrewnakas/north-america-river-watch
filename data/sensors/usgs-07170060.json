@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07170060",
+  "key": "07170060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07170060",
+  "name": "ELK R BL ELK CITY LK, KS",
+  "waterbody": "ELK R BL ELK CITY LK, KS",
+  "state": "KS",
+  "latitude": 37.2769187,
+  "longitude": -95.7522722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "ELK RIVER BELOW ELK CITY LAKE",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elck1",
+  "slug": "usgs-07170060",
+  "noaaForecastPath": "data/noaa-forecast/ELCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

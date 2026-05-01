@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03024000",
+  "key": "03024000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03024000",
+  "name": "French Creek at Utica, PA",
+  "waterbody": "French Creek at Utica, PA",
+  "state": "PA",
+  "latitude": 41.43755525,
+  "longitude": -79.9558912,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UTCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/utcp1",
+  "slug": "usgs-03024000",
+  "noaaForecastPath": "data/noaa-forecast/UTCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

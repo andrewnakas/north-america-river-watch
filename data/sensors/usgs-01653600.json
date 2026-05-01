@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01653600",
+  "key": "01653600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01653600",
+  "name": "PISCATAWAY CREEK AT PISCATAWAY, MD",
+  "waterbody": "PISCATAWAY CREEK AT PISCATAWAY, MD",
+  "state": "MD",
+  "latitude": 38.70577778,
+  "longitude": -76.9661944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSCM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piscataway Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pscm2",
+  "slug": "usgs-01653600",
+  "noaaForecastPath": "data/noaa-forecast/PSCM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

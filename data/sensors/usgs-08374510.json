@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08374510",
+  "key": "08374510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08374510",
+  "name": "Rio Grande Dws Santa Elena Canyon, BBNP, TX",
+  "waterbody": "Rio Grande Dws Santa Elena Canyon, BBNP, TX",
+  "state": "TX",
+  "latitude": 29.1547222,
+  "longitude": -103.5977778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08374510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

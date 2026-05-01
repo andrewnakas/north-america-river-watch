@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05464500",
+  "key": "05464500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05464500",
+  "name": "Cedar River at Cedar Rapids, IA",
+  "waterbody": "Cedar River at Cedar Rapids, IA",
+  "state": "IA",
+  "latitude": 41.97194549,
+  "longitude": -91.6671239,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CIDI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cidi4",
+  "slug": "usgs-05464500",
+  "noaaForecastPath": "data/noaa-forecast/CIDI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

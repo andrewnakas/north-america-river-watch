@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12201700",
+  "key": "12201700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12201700",
+  "name": "CHUCKANUT CREEK NEAR BELLINGHAM, WA",
+  "waterbody": "CHUCKANUT CREEK NEAR BELLINGHAM, WA",
+  "state": "WA",
+  "latitude": 48.70216667,
+  "longitude": -122.4824722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12201700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

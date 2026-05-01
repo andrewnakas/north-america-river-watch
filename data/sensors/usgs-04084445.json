@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04084445",
+  "key": "04084445",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04084445",
+  "name": "FOX RIVER AT APPLETON, WI",
+  "waterbody": "FOX RIVER AT APPLETON, WI",
+  "state": "WI",
+  "latitude": 44.24805556,
+  "longitude": -88.4230556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APLW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River (North)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aplw3",
+  "slug": "usgs-04084445",
+  "noaaForecastPath": "data/noaa-forecast/APLW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

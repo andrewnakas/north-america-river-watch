@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01358000",
+  "key": "01358000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01358000",
+  "name": "HUDSON RIVER AT GREEN ISLAND NY",
+  "waterbody": "HUDSON RIVER AT GREEN ISLAND NY",
+  "state": "NY",
+  "latitude": 42.75225,
+  "longitude": -73.68908333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hudson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tryn6",
+  "slug": "usgs-01358000",
+  "noaaForecastPath": "data/noaa-forecast/TRYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

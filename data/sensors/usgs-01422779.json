@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01422779",
+  "key": "01422779",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01422779",
+  "name": "WEST BROOK AT AUSTIN LINCOLN PARK AT WALTON NY",
+  "waterbody": "WEST BROOK AT AUSTIN LINCOLN PARK AT WALTON NY",
+  "state": "NY",
+  "latitude": 42.17738889,
+  "longitude": -75.1289167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWAN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwan6",
+  "slug": "usgs-01422779",
+  "noaaForecastPath": "data/noaa-forecast/WWAN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14021000",
+  "key": "14021000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14021000",
+  "name": "UMATILLA RIVER AT PENDLETON,OREG",
+  "waterbody": "UMATILLA RIVER AT PENDLETON,OREG",
+  "state": "OR",
+  "latitude": 45.67207498,
+  "longitude": -118.7927637,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Umatilla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdto3",
+  "slug": "usgs-14021000",
+  "noaaForecastPath": "data/noaa-forecast/PDTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

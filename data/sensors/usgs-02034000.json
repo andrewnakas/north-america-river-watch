@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02034000",
+  "key": "02034000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02034000",
+  "name": "RIVANNA RIVER AT PALMYRA, VA",
+  "waterbody": "RIVANNA RIVER AT PALMYRA, VA",
+  "state": "VA",
+  "latitude": 37.8579192,
+  "longitude": -78.2658373,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PYAV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rivanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pyav2",
+  "slug": "usgs-02034000",
+  "noaaForecastPath": "data/noaa-forecast/PYAV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

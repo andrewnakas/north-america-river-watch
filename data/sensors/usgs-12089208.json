@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12089208",
+  "key": "12089208",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12089208",
+  "name": "CENTRALIA POWER CANAL NEAR MCKENNA, WA",
+  "waterbody": "CENTRALIA POWER CANAL NEAR MCKENNA, WA",
+  "state": "WA",
+  "latitude": 46.9001003,
+  "longitude": -122.4984532,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12089208",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

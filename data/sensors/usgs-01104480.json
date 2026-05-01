@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104480",
+  "key": "01104480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104480",
+  "name": "STONY BROOK RESERVOIR AT DAM NEAR WALTHAM, MA",
+  "waterbody": "STONY BROOK RESERVOIR AT DAM NEAR WALTHAM, MA",
+  "state": "MA",
+  "latitude": 42.3556519,
+  "longitude": -71.2650565,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

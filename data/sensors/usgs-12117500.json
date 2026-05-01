@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12117500",
+  "key": "12117500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12117500",
+  "name": "CEDAR RIVER NEAR LANDSBURG, WA",
+  "waterbody": "CEDAR RIVER NEAR LANDSBURG, WA",
+  "state": "WA",
+  "latitude": 47.39368648,
+  "longitude": -121.9545378,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNDW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River (WA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lndw1",
+  "slug": "usgs-12117500",
+  "noaaForecastPath": "data/noaa-forecast/LNDW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

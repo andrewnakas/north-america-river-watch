@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50076000",
+  "key": "50076000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50076000",
+  "name": "RIO BLANCO NR FLORIDA, PR",
+  "waterbody": "RIO BLANCO NR FLORIDA, PR",
+  "state": "PR",
+  "latitude": 18.22717929,
+  "longitude": -65.78460707,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50076000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

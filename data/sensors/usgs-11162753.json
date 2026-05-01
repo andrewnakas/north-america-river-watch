@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11162753",
+  "key": "11162753",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11162753",
+  "name": "SAN MATEO C BL LO CRYSTAL SP RES NR SAN MATEO CA",
+  "waterbody": "SAN MATEO C BL LO CRYSTAL SP RES NR SAN MATEO CA",
+  "state": "CA",
+  "latitude": 37.52944444,
+  "longitude": -122.3583333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MEDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Mateo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/medc1",
+  "slug": "usgs-11162753",
+  "noaaForecastPath": "data/noaa-forecast/MEDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

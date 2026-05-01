@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01568750",
+  "key": "01568750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01568750",
+  "name": "Stony Creek at Water Tank Trail nr Dauphin, PA",
+  "waterbody": "Stony Creek at Water Tank Trail nr Dauphin, PA",
+  "state": "PA",
+  "latitude": 40.41425388,
+  "longitude": -76.7802479,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01568750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

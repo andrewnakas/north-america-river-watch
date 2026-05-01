@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16756100",
+  "key": "16756100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16756100",
+  "name": "Kohakohau Stream above intake, nr Kamuela, HI",
+  "waterbody": "Kohakohau Stream above intake, nr Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.0456111,
+  "longitude": -155.6816944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16756100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

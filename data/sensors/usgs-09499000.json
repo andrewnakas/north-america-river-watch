@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09499000",
+  "key": "09499000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09499000",
+  "name": "TONTO CREEK ABOVE GUN CREEK, NEAR ROOSEVELT, AZ",
+  "waterbody": "TONTO CREEK ABOVE GUN CREEK, NEAR ROOSEVELT, AZ",
+  "state": "AZ",
+  "latitude": 33.98005443,
+  "longitude": -111.30348355,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TNRA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tonto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tnra3",
+  "slug": "usgs-09499000",
+  "noaaForecastPath": "data/noaa-forecast/TNRA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

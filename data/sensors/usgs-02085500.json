@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02085500",
+  "key": "02085500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02085500",
+  "name": "FLAT RIVER AT BAHAMA, NC",
+  "waterbody": "FLAT RIVER AT BAHAMA, NC",
+  "state": "NC",
+  "latitude": 36.18277778,
+  "longitude": -78.87888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMAN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bman7",
+  "slug": "usgs-02085500",
+  "noaaForecastPath": "data/noaa-forecast/BMAN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

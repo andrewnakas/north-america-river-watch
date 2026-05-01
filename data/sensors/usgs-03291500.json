@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03291500",
+  "key": "03291500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03291500",
+  "name": "EAGLE CREEK AT GLENCOE, KY",
+  "waterbody": "EAGLE CREEK AT GLENCOE, KY",
+  "state": "KY",
+  "latitude": 38.7064538,
+  "longitude": -84.8248089,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle Creek (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnck2",
+  "slug": "usgs-03291500",
+  "noaaForecastPath": "data/noaa-forecast/GNCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

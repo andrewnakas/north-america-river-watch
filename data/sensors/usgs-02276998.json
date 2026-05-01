@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02276998",
+  "key": "02276998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02276998",
+  "name": "ST LUCIE CANAL ABV S-80 NR STUART FL",
+  "waterbody": "ST LUCIE CANAL ABV S-80 NR STUART FL",
+  "state": "FL",
+  "latitude": 27.10866667,
+  "longitude": -80.28725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Lucie Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sllf1",
+  "slug": "usgs-02276998",
+  "noaaForecastPath": "data/noaa-forecast/SLLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

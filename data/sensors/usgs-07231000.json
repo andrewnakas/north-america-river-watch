@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07231000",
+  "key": "07231000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07231000",
+  "name": "Little River near Sasakwa, OK",
+  "waterbody": "Little River near Sasakwa, OK",
+  "state": "OK",
+  "latitude": 34.9653615,
+  "longitude": -96.5125113,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SASO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saso2",
+  "slug": "usgs-07231000",
+  "noaaForecastPath": "data/noaa-forecast/SASO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

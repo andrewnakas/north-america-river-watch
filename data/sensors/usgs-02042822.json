@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02042822",
+  "key": "02042822",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02042822",
+  "name": "NANSEMOND RIVER AT ROUTE 460 AT SUFFOLK, VA",
+  "waterbody": "NANSEMOND RIVER AT ROUTE 460 AT SUFFOLK, VA",
+  "state": "VA",
+  "latitude": 36.739111,
+  "longitude": -76.58275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMDV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nansemond River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmdv2",
+  "slug": "usgs-02042822",
+  "noaaForecastPath": "data/noaa-forecast/NMDV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

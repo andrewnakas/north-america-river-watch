@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08018000",
+  "key": "08018000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08018000",
+  "name": "Grand Saline Ck at FM 857 nr Grand Saline, TX",
+  "waterbody": "Grand Saline Ck at FM 857 nr Grand Saline, TX",
+  "state": "TX",
+  "latitude": 32.66174167,
+  "longitude": -95.6910806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08018000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

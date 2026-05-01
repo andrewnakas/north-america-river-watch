@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02343241",
+  "key": "02343241",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02343241",
+  "name": "CHATTAHOOCHEE R BELOW WFG DAM AB FT. GAINES, GA",
+  "waterbody": "CHATTAHOOCHEE R BELOW WFG DAM AB FT. GAINES, GA",
+  "state": "GA",
+  "latitude": 31.6251111,
+  "longitude": -85.0641944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fogg1",
+  "slug": "usgs-02343241",
+  "noaaForecastPath": "data/noaa-forecast/FOGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

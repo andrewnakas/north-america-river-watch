@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16211800",
+  "key": "16211800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16211800",
+  "name": "Kaupuni Str at alt 374 ft nr Waianae, Oahu, HI",
+  "waterbody": "Kaupuni Str at alt 374 ft nr Waianae, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.46906944,
+  "longitude": -158.1544694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16211800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

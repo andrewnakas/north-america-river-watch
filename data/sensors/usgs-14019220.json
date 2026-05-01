@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14019220",
+  "key": "14019220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14019220",
+  "name": "COLUMBIA RIVER AT MCNARY DAM LOCK NR UMATILLA, OR",
+  "waterbody": "COLUMBIA RIVER AT MCNARY DAM LOCK NR UMATILLA, OR",
+  "state": "WA",
+  "latitude": 45.9412437,
+  "longitude": -119.2930719,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14019220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

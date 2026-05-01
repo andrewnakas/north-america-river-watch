@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07216500",
+  "key": "07216500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07216500",
+  "name": "MORA RIVER NEAR GOLONDRINAS, NM",
+  "waterbody": "MORA RIVER NEAR GOLONDRINAS, NM",
+  "state": "NM",
+  "latitude": 35.8908722,
+  "longitude": -105.1636194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GOLN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mora River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/goln5",
+  "slug": "usgs-07216500",
+  "noaaForecastPath": "data/noaa-forecast/GOLN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

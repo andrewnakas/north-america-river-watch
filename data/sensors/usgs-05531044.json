@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05531044",
+  "key": "05531044",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05531044",
+  "name": "SALT CREEK NEAR ELK GROVE VILLAGE, IL",
+  "waterbody": "SALT CREEK NEAR ELK GROVE VILLAGE, IL",
+  "state": "IL",
+  "latitude": 42.01694444,
+  "longitude": -88.0008333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05531044",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06662000",
+  "key": "06662000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06662000",
+  "name": "LARAMIE RIVER NEAR LOOKOUT, WY",
+  "waterbody": "LARAMIE RIVER NEAR LOOKOUT, WY",
+  "state": "WY",
+  "latitude": 41.7621749,
+  "longitude": -105.6883874,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06662000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05356000",
+  "key": "05356000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05356000",
+  "name": "CHIPPEWA RIVER AT BISHOPS BRIDGE NEAR WINTER, WI",
+  "waterbody": "CHIPPEWA RIVER AT BISHOPS BRIDGE NEAR WINTER, WI",
+  "state": "WI",
+  "latitude": 45.8486111,
+  "longitude": -91.0788889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WERW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/werw3",
+  "slug": "usgs-05356000",
+  "noaaForecastPath": "data/noaa-forecast/WERW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

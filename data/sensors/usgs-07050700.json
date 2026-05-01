@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07050700",
+  "key": "07050700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07050700",
+  "name": "James River near Springfield, MO",
+  "waterbody": "James River near Springfield, MO",
+  "state": "MO",
+  "latitude": 37.1499722,
+  "longitude": -93.2033889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGFM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgfm7",
+  "slug": "usgs-07050700",
+  "noaaForecastPath": "data/noaa-forecast/SGFM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

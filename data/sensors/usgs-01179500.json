@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01179500",
+  "key": "01179500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01179500",
+  "name": "WESTFIELD RIVER AT KNIGHTVILLE, MA",
+  "waterbody": "WESTFIELD RIVER AT KNIGHTVILLE, MA",
+  "state": "MA",
+  "latitude": 42.28786655,
+  "longitude": -72.8642636,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01179500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

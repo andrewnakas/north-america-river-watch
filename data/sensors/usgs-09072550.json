@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09072550",
+  "key": "09072550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09072550",
+  "name": "ROARING FORK RIVER ABV LOST MAN CR NEAR ASPEN, CO",
+  "waterbody": "ROARING FORK RIVER ABV LOST MAN CR NEAR ASPEN, CO",
+  "state": "CO",
+  "latitude": 39.1193611,
+  "longitude": -106.6239167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09072550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

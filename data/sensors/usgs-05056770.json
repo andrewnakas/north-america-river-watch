@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056770",
+  "key": "05056770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056770",
+  "name": "SHEYENNE RIVER AT CO RD 20 NEAR KLOTEN, ND",
+  "waterbody": "SHEYENNE RIVER AT CO RD 20 NEAR KLOTEN, ND",
+  "state": "ND",
+  "latitude": 47.68682222,
+  "longitude": -98.13041944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVCN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mvcn8",
+  "slug": "usgs-05056770",
+  "noaaForecastPath": "data/noaa-forecast/MVCN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

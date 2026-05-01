@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16325000",
+  "key": "16325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16325000",
+  "name": "Kamananui Str at Pupukea Mil Rd, Oahu, HI",
+  "waterbody": "Kamananui Str at Pupukea Mil Rd, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.62055556,
+  "longitude": -158.015,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KMPH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kamananui Stream",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kmph1",
+  "slug": "usgs-16325000",
+  "noaaForecastPath": "data/noaa-forecast/KMPH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

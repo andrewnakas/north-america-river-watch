@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03351072",
+  "key": "03351072",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03351072",
+  "name": "WILLIAMS CREEK AT 96TH STREET, INDIANAPOLIS, IN",
+  "waterbody": "WILLIAMS CREEK AT 96TH STREET, INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.9269779,
+  "longitude": -86.1721906,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williams Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcri3",
+  "slug": "usgs-03351072",
+  "noaaForecastPath": "data/noaa-forecast/WCRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

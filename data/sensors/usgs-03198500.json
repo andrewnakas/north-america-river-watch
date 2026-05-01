@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03198500",
+  "key": "03198500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03198500",
+  "name": "BIG COAL RIVER AT ASHFORD, WV",
+  "waterbody": "BIG COAL RIVER AT ASHFORD, WV",
+  "state": "WV",
+  "latitude": 38.1798222,
+  "longitude": -81.7115106,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASHW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Coal River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ashw2",
+  "slug": "usgs-03198500",
+  "noaaForecastPath": "data/noaa-forecast/ASHW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

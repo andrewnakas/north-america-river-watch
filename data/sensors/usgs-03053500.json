@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03053500",
+  "key": "03053500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03053500",
+  "name": "BUCKHANNON RIVER AT HALL, WV",
+  "waterbody": "BUCKHANNON RIVER AT HALL, WV",
+  "state": "WV",
+  "latitude": 39.05121,
+  "longitude": -80.1145254,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HALW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buckhannon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/halw2",
+  "slug": "usgs-03053500",
+  "noaaForecastPath": "data/noaa-forecast/HALW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

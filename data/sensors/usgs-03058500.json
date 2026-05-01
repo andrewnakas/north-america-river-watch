@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03058500",
+  "key": "03058500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03058500",
+  "name": "WEST FORK RIVER AT BUTCHERVILLE, WV",
+  "waterbody": "WEST FORK RIVER AT BUTCHERVILLE, WV",
+  "state": "WV",
+  "latitude": 39.09064846,
+  "longitude": -80.4675915,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCVW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcvw2",
+  "slug": "usgs-03058500",
+  "noaaForecastPath": "data/noaa-forecast/BCVW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

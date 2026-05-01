@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03567340",
+  "key": "03567340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03567340",
+  "name": "WEST CHICKAMAUGA CR AT GA 146, NEAR LAKEVIEW, GA",
+  "waterbody": "WEST CHICKAMAUGA CR AT GA 146, NEAR LAKEVIEW, GA",
+  "state": "GA",
+  "latitude": 34.95755556,
+  "longitude": -85.2052778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCKG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Chickamauga Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wckg1",
+  "slug": "usgs-03567340",
+  "noaaForecastPath": "data/noaa-forecast/WCKG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

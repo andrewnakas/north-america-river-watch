@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15302070",
+  "key": "15302070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15302070",
+  "name": "NAPOTOLI C 4 MI AB NUSHAGAK R NR DILLINGHAM AK",
+  "waterbody": "NAPOTOLI C 4 MI AB NUSHAGAK R NR DILLINGHAM AK",
+  "state": "AK",
+  "latitude": 59.75488889,
+  "longitude": -157.4478056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15302070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

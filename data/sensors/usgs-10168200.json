@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10168200",
+  "key": "10168200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10168200",
+  "name": "BIG COTTONWOOD CR @ ARGENTA NR BRIGHTON, UT",
+  "waterbody": "BIG COTTONWOOD CR @ ARGENTA NR BRIGHTON, UT",
+  "state": "UT",
+  "latitude": 40.64189336,
+  "longitude": -111.6785382,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10168200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

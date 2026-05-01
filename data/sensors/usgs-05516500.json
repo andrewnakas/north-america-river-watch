@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05516500",
+  "key": "05516500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05516500",
+  "name": "YELLOW RIVER AT PLYMOUTH, IN",
+  "waterbody": "YELLOW RIVER AT PLYMOUTH, IN",
+  "state": "IN",
+  "latitude": 41.34029645,
+  "longitude": -86.3044166,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PYMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pymi3",
+  "slug": "usgs-05516500",
+  "noaaForecastPath": "data/noaa-forecast/PYMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

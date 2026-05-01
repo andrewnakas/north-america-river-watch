@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16701300",
+  "key": "16701300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16701300",
+  "name": "Waiakea Stream at Hilo, HI",
+  "waterbody": "Waiakea Stream at Hilo, HI",
+  "state": "HI",
+  "latitude": 19.70725,
+  "longitude": -155.0817222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16701300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

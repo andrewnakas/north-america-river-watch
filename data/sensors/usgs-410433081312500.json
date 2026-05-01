@@ -1,0 +1,22 @@
+{
+  "id": "usgs:410433081312500",
+  "key": "410433081312500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "410433081312500",
+  "name": "Lock 1 Outlet O&E Canal OH",
+  "waterbody": "Lock 1 Outlet O&E Canal OH",
+  "state": "OH",
+  "latitude": 41.0758891,
+  "longitude": -81.52345,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cuyahoga River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ecao1",
+  "slug": "usgs-410433081312500",
+  "noaaForecastPath": "data/noaa-forecast/ECAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

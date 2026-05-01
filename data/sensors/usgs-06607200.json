@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06607200",
+  "key": "06607200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06607200",
+  "name": "Maple River at Mapleton, IA",
+  "waterbody": "Maple River at Mapleton, IA",
+  "state": "IA",
+  "latitude": 42.15677778,
+  "longitude": -95.8102778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAPI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maple River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mapi4",
+  "slug": "usgs-06607200",
+  "noaaForecastPath": "data/noaa-forecast/MAPI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

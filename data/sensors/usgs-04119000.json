@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04119000",
+  "key": "04119000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04119000",
+  "name": "GRAND RIVER AT GRAND RAPIDS, MI",
+  "waterbody": "GRAND RIVER AT GRAND RAPIDS, MI",
+  "state": "MI",
+  "latitude": 42.963082,
+  "longitude": -85.6772533,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdrm4",
+  "slug": "usgs-04119000",
+  "noaaForecastPath": "data/noaa-forecast/GDRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

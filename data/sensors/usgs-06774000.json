@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06774000",
+  "key": "06774000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06774000",
+  "name": "Platte River near Duncan, Nebr.",
+  "waterbody": "Platte River near Duncan, Nebr.",
+  "state": "NE",
+  "latitude": 41.36813611,
+  "longitude": -97.49473611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dncn1",
+  "slug": "usgs-06774000",
+  "noaaForecastPath": "data/noaa-forecast/DNCN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

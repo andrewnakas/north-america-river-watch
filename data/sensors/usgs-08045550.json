@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08045550",
+  "key": "08045550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08045550",
+  "name": "WFk TrinityRv at White Settlement Rd,Fort Worth,TX",
+  "waterbody": "WFk TrinityRv at White Settlement Rd,Fort Worth,TX",
+  "state": "TX",
+  "latitude": 32.7597222,
+  "longitude": -97.4038889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08045550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

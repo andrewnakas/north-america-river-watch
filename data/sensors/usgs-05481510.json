@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05481510",
+  "key": "05481510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05481510",
+  "name": "Bluff Creek at Pilot Mound, IA",
+  "waterbody": "Bluff Creek at Pilot Mound, IA",
+  "state": "IA",
+  "latitude": 42.16636699,
+  "longitude": -94.0199543,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PMDI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bluff Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pmdi4",
+  "slug": "usgs-05481510",
+  "noaaForecastPath": "data/noaa-forecast/PMDI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

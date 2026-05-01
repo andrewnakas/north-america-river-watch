@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12166400",
+  "key": "12166400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12166400",
+  "name": "NF STILLAGUAMISH R AT WHITEHORSE TRAIL NR OSO, WA",
+  "waterbody": "NF STILLAGUAMISH R AT WHITEHORSE TRAIL NR OSO, WA",
+  "state": "WA",
+  "latitude": 48.2742,
+  "longitude": -121.9101167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12166400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

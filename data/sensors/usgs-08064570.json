@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08064570",
+  "key": "08064570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08064570",
+  "name": "Trinity Rv at Hwy 287 nr Cayuga, TX",
+  "waterbody": "Trinity Rv at Hwy 287 nr Cayuga, TX",
+  "state": "TX",
+  "latitude": 31.96708333,
+  "longitude": -96.0471667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08064570",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

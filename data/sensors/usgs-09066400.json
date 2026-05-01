@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09066400",
+  "key": "09066400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09066400",
+  "name": "RED SANDSTONE CREEK NEAR MINTURN, CO.",
+  "waterbody": "RED SANDSTONE CREEK NEAR MINTURN, CO.",
+  "state": "CO",
+  "latitude": 39.68276376,
+  "longitude": -106.4014184,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09066400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

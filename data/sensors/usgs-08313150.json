@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313150",
+  "key": "08313150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313150",
+  "name": "RIO GRANDE ABV BUCKMAN DIVERSION, NR WHITE ROCK,NM",
+  "waterbody": "RIO GRANDE ABV BUCKMAN DIVERSION, NR WHITE ROCK,NM",
+  "state": "NM",
+  "latitude": 35.83841667,
+  "longitude": -106.15908333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

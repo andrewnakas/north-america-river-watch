@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05437050",
+  "key": "05437050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05437050",
+  "name": "PECATONICA RIVER NR SHIRLAND, ILL",
+  "waterbody": "PECATONICA RIVER NR SHIRLAND, ILL",
+  "state": "IL",
+  "latitude": 42.43805556,
+  "longitude": -89.175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecatonica River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/siri2",
+  "slug": "usgs-05437050",
+  "noaaForecastPath": "data/noaa-forecast/SIRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

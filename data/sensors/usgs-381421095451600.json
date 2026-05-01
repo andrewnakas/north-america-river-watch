@@ -1,0 +1,22 @@
+{
+  "id": "usgs:381421095451600",
+  "key": "381421095451600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "381421095451600",
+  "name": "JOHN REDMOND RE OUTFLOW S OF OTTUMWA, KS",
+  "waterbody": "JOHN REDMOND RE OUTFLOW S OF OTTUMWA, KS",
+  "state": "KS",
+  "latitude": 38.23926944,
+  "longitude": -95.7544861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRLK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neosho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrlk1",
+  "slug": "usgs-381421095451600",
+  "noaaForecastPath": "data/noaa-forecast/JRLK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

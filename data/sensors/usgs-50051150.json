@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50051150",
+  "key": "50051150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50051150",
+  "name": "QUEBRADA BLANCA AT EL JAGUAL, PR",
+  "waterbody": "QUEBRADA BLANCA AT EL JAGUAL, PR",
+  "state": "PR",
+  "latitude": 18.15912565,
+  "longitude": -65.9823861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50051150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11372000",
+  "key": "11372000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11372000",
+  "name": "CLEAR C NR IGO CA",
+  "waterbody": "CLEAR C NR IGO CA",
+  "state": "CA",
+  "latitude": 40.51320587,
+  "longitude": -122.5241795,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdgc1",
+  "slug": "usgs-11372000",
+  "noaaForecastPath": "data/noaa-forecast/RDGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

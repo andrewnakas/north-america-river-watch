@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09404200",
+  "key": "09404200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404200",
+  "name": "COLORADO RVR ABV DIAMOND CREEK NR PEACH SPRINGS AZ",
+  "waterbody": "COLORADO RVR ABV DIAMOND CREEK NR PEACH SPRINGS AZ",
+  "state": "AZ",
+  "latitude": 35.7735994,
+  "longitude": -113.363544,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdca3",
+  "slug": "usgs-09404200",
+  "noaaForecastPath": "data/noaa-forecast/CDCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08072300",
+  "key": "08072300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08072300",
+  "name": "Buffalo Bayou nr Katy, TX",
+  "waterbody": "Buffalo Bayou nr Katy, TX",
+  "state": "TX",
+  "latitude": 29.74328664,
+  "longitude": -95.8068951,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08072300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

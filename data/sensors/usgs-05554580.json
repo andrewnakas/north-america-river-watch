@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05554580",
+  "key": "05554580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05554580",
+  "name": "VERMILION RIVER AT RTE 23 NEAR CORNELL, IL",
+  "waterbody": "VERMILION RIVER AT RTE 23 NEAR CORNELL, IL",
+  "state": "IL",
+  "latitude": 40.9892222,
+  "longitude": -88.765,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05554580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

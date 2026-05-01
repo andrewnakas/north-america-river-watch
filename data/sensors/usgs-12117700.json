@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12117700",
+  "key": "12117700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12117700",
+  "name": "ROCK CREEK BELOW WALSH LAKE NEAR LANDSBURG, WA",
+  "waterbody": "ROCK CREEK BELOW WALSH LAKE NEAR LANDSBURG, WA",
+  "state": "WA",
+  "latitude": 47.3986868,
+  "longitude": -121.9212036,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12117700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

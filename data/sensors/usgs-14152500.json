@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14152500",
+  "key": "14152500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14152500",
+  "name": "COAST FORK WILLAMETTE AT LONDON, OR",
+  "waterbody": "COAST FORK WILLAMETTE AT LONDON, OR",
+  "state": "OR",
+  "latitude": 43.64151015,
+  "longitude": -123.0859089,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LONO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coast Fork Willamette River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lono3",
+  "slug": "usgs-14152500",
+  "noaaForecastPath": "data/noaa-forecast/LONO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

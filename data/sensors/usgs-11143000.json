@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11143000",
+  "key": "11143000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11143000",
+  "name": "BIG SUR R NR BIG SUR CA",
+  "waterbody": "BIG SUR R NR BIG SUR CA",
+  "state": "CA",
+  "latitude": 36.24576038,
+  "longitude": -121.7732293,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sur River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsrc1",
+  "slug": "usgs-11143000",
+  "noaaForecastPath": "data/noaa-forecast/BSRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

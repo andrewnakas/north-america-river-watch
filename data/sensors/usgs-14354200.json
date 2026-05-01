@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14354200",
+  "key": "14354200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14354200",
+  "name": "BEAR CREEK BELOW ASHLAND CREEK AT ASHLAND, OR",
+  "waterbody": "BEAR CREEK BELOW ASHLAND CREEK AT ASHLAND, OR",
+  "state": "OR",
+  "latitude": 42.2185,
+  "longitude": -122.7248056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14354200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

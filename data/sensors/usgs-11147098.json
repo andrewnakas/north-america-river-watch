@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11147098",
+  "key": "11147098",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11147098",
+  "name": "PASO ROBLES C A GARCIA RD NR TEMPLETON CA",
+  "waterbody": "PASO ROBLES C A GARCIA RD NR TEMPLETON CA",
+  "state": "CA",
+  "latitude": 35.52613889,
+  "longitude": -120.7138583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11147098",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

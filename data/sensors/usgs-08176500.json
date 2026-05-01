@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08176500",
+  "key": "08176500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08176500",
+  "name": "Guadalupe Rv at Victoria, TX",
+  "waterbody": "Guadalupe Rv at Victoria, TX",
+  "state": "TX",
+  "latitude": 28.7930456,
+  "longitude": -97.0130429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VICT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vict2",
+  "slug": "usgs-08176500",
+  "noaaForecastPath": "data/noaa-forecast/VICT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

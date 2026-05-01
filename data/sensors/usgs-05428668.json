@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05428668",
+  "key": "05428668",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05428668",
+  "name": "STARKWEATHER CREEK ABOVE ATWOOD AVE AT MADISON, WI",
+  "waterbody": "STARKWEATHER CREEK ABOVE ATWOOD AVE AT MADISON, WI",
+  "state": "WI",
+  "latitude": 43.09194946,
+  "longitude": -89.3331309,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05428668",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

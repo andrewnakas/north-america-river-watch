@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07183500",
+  "key": "07183500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07183500",
+  "name": "NEOSHO R NR PARSONS, KS",
+  "waterbody": "NEOSHO R NR PARSONS, KS",
+  "state": "KS",
+  "latitude": 37.34005866,
+  "longitude": -95.1099687,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPFK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neosho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ppfk1",
+  "slug": "usgs-07183500",
+  "noaaForecastPath": "data/noaa-forecast/PPFK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

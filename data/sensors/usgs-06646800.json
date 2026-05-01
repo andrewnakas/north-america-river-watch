@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06646800",
+  "key": "06646800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06646800",
+  "name": "NORTH PLATTE RIVER NEAR GLENROCK, WY",
+  "waterbody": "NORTH PLATTE RIVER NEAR GLENROCK, WY",
+  "state": "WY",
+  "latitude": 42.83605456,
+  "longitude": -105.7589557,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLNW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Platte River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glnw4",
+  "slug": "usgs-06646800",
+  "noaaForecastPath": "data/noaa-forecast/GLNW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02469100",
+  "key": "02469100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02469100",
+  "name": "TOMBIGBEE RIVER AT PENNINGTON AL",
+  "waterbody": "TOMBIGBEE RIVER AT PENNINGTON AL",
+  "state": "AL",
+  "latitude": 32.2376437,
+  "longitude": -88.0083498,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02469100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

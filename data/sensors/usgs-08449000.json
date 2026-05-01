@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08449000",
+  "key": "08449000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08449000",
+  "name": "Devils Rv nr Juno, TX",
+  "waterbody": "Devils Rv nr Juno, TX",
+  "state": "TX",
+  "latitude": 29.96353604,
+  "longitude": -101.1453849,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08449000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

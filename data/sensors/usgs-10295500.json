@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10295500",
+  "key": "10295500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10295500",
+  "name": "L WALKER RV NR BRIDGEPORT, CA",
+  "waterbody": "L WALKER RV NR BRIDGEPORT, CA",
+  "state": "CA",
+  "latitude": 38.3607482,
+  "longitude": -119.4448868,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10295500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

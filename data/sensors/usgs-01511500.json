@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01511500",
+  "key": "01511500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01511500",
+  "name": "TIOUGHNIOGA RIVER AT ITASKA NY",
+  "waterbody": "TIOUGHNIOGA RIVER AT ITASKA NY",
+  "state": "NY",
+  "latitude": 42.29805556,
+  "longitude": -75.90888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ISKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tioughnioga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iskn6",
+  "slug": "usgs-01511500",
+  "noaaForecastPath": "data/noaa-forecast/ISKN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

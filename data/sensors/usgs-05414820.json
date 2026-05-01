@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05414820",
+  "key": "05414820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05414820",
+  "name": "SINSINAWA RIVER NEAR MENOMINEE, IL",
+  "waterbody": "SINSINAWA RIVER NEAR MENOMINEE, IL",
+  "state": "IL",
+  "latitude": 42.4786111,
+  "longitude": -90.4866667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MENI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sinsinawa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/meni2",
+  "slug": "usgs-05414820",
+  "noaaForecastPath": "data/noaa-forecast/MENI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

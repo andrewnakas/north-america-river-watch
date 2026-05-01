@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04109000",
+  "key": "04109000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04109000",
+  "name": "GRAND RIVER AT JACKSON, MI",
+  "waterbody": "GRAND RIVER AT JACKSON, MI",
+  "state": "MI",
+  "latitude": 42.28364676,
+  "longitude": -84.4088483,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JACM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jacm4",
+  "slug": "usgs-04109000",
+  "noaaForecastPath": "data/noaa-forecast/JACM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313240",
+  "key": "08313240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313240",
+  "name": "PAJARITO CANYON ABV NM HWY 501 NR WHITE ROCK, NM",
+  "waterbody": "PAJARITO CANYON ABV NM HWY 501 NR WHITE ROCK, NM",
+  "state": "NM",
+  "latitude": 35.8683574,
+  "longitude": -106.3530845,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

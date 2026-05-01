@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12323248",
+  "key": "12323248",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12323248",
+  "name": "Silver Bow Cr ab wastewater plnt outflow, at Butte",
+  "waterbody": "Silver Bow Cr ab wastewater plnt outflow, at Butte",
+  "state": "MT",
+  "latitude": 45.99692778,
+  "longitude": -112.562861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12323248",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

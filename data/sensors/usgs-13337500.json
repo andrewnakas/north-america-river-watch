@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13337500",
+  "key": "13337500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13337500",
+  "name": "SF CLEARWATER RIVER NR ELK CITY ID",
+  "waterbody": "SF CLEARWATER RIVER NR ELK CITY ID",
+  "state": "ID",
+  "latitude": 45.82527778,
+  "longitude": -115.5272222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13337500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

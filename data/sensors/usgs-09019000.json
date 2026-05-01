@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09019000",
+  "key": "09019000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09019000",
+  "name": "COLORADO RIVER BELOW LAKE GRANBY, CO.",
+  "waterbody": "COLORADO RIVER BELOW LAKE GRANBY, CO.",
+  "state": "CO",
+  "latitude": 40.144167,
+  "longitude": -105.866667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09019000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03360000",
+  "key": "03360000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03360000",
+  "name": "EEL RIVER AT BOWLING GREEN, IN",
+  "waterbody": "EEL RIVER AT BOWLING GREEN, IN",
+  "state": "IN",
+  "latitude": 39.3840681,
+  "longitude": -87.0208851,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eel River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boli3",
+  "slug": "usgs-03360000",
+  "noaaForecastPath": "data/noaa-forecast/BOLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

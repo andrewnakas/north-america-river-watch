@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05054000",
+  "key": "05054000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05054000",
+  "name": "RED RIVER OF THE NORTH AT FARGO, ND",
+  "waterbody": "RED RIVER OF THE NORTH AT FARGO, ND",
+  "state": "ND",
+  "latitude": 46.861075,
+  "longitude": -96.7836924,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FGON8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River of the North",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fgon8",
+  "slug": "usgs-05054000",
+  "noaaForecastPath": "data/noaa-forecast/FGON8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

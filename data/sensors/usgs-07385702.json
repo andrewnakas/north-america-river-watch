@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07385702",
+  "key": "07385702",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07385702",
+  "name": "Bayou Teche below Keystone L&D nr St. Martinville",
+  "waterbody": "Bayou Teche below Keystone L&D nr St. Martinville",
+  "state": "LA",
+  "latitude": 30.07075759,
+  "longitude": -91.8290058,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07385702",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

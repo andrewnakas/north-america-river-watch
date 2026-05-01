@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04064500",
+  "key": "04064500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04064500",
+  "name": "PINE RIVER BELOW PINE R POWERPLANT NR FLORENCE, WI",
+  "waterbody": "PINE RIVER BELOW PINE R POWERPLANT NR FLORENCE, WI",
+  "state": "WI",
+  "latitude": 45.8372222,
+  "longitude": -88.2252778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRKW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brkw3",
+  "slug": "usgs-04064500",
+  "noaaForecastPath": "data/noaa-forecast/BRKW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50034000",
+  "key": "50034000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50034000",
+  "name": "RIO BAUTA NR OROCOVIS, PR",
+  "waterbody": "RIO BAUTA NR OROCOVIS, PR",
+  "state": "PR",
+  "latitude": 18.235956,
+  "longitude": -66.454828,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAUP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Bauta",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/baup4",
+  "slug": "usgs-50034000",
+  "noaaForecastPath": "data/noaa-forecast/BAUP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

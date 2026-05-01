@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02423400",
+  "key": "02423400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02423400",
+  "name": "LITTLE CAHABA RIVER NR JEFFERSON PARK, AL.",
+  "waterbody": "LITTLE CAHABA RIVER NR JEFFERSON PARK, AL.",
+  "state": "AL",
+  "latitude": 33.4998273,
+  "longitude": -86.6141521,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02423400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

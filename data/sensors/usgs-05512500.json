@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05512500",
+  "key": "05512500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05512500",
+  "name": "BAY CREEK AT PITTSFIELD, IL",
+  "waterbody": "BAY CREEK AT PITTSFIELD, IL",
+  "state": "IL",
+  "latitude": 39.62080556,
+  "longitude": -90.7803889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05512500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06428200",
+  "key": "06428200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06428200",
+  "name": "BELLE FOURCHE RIVER NEAR ALVA, WY",
+  "waterbody": "BELLE FOURCHE RIVER NEAR ALVA, WY",
+  "state": "WY",
+  "latitude": 44.78938456,
+  "longitude": -104.4814336,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFAW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Belle Fourche River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfaw4",
+  "slug": "usgs-06428200",
+  "noaaForecastPath": "data/noaa-forecast/BFAW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

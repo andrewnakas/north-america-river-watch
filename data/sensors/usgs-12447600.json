@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12447600",
+  "key": "12447600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12447600",
+  "name": "CHEWUCH RIVER ABOVE CUB CREEK NEAR WINTHROP, WA",
+  "waterbody": "CHEWUCH RIVER ABOVE CUB CREEK NEAR WINTHROP, WA",
+  "state": "WA",
+  "latitude": 48.5645898,
+  "longitude": -120.177586,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12447600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

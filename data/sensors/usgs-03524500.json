@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03524500",
+  "key": "03524500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03524500",
+  "name": "GUEST RIVER AT COEBURN, VA",
+  "waterbody": "GUEST RIVER AT COEBURN, VA",
+  "state": "VA",
+  "latitude": 36.92926938,
+  "longitude": -82.4562619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSTV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guest River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gstv2",
+  "slug": "usgs-03524500",
+  "noaaForecastPath": "data/noaa-forecast/GSTV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

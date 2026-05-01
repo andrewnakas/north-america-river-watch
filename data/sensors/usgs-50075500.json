@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50075500",
+  "key": "50075500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50075500",
+  "name": "RIO BLANCO AT FLORIDA, PR",
+  "waterbody": "RIO BLANCO AT FLORIDA, PR",
+  "state": "PR",
+  "latitude": 18.240833,
+  "longitude": -65.785,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NGKP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Blanco",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ngkp4",
+  "slug": "usgs-50075500",
+  "noaaForecastPath": "data/noaa-forecast/NGKP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02215500",
+  "key": "02215500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02215500",
+  "name": "OCMULGEE RIVER AT LUMBER CITY, GA",
+  "waterbody": "OCMULGEE RIVER AT LUMBER CITY, GA",
+  "state": "GA",
+  "latitude": 31.91991667,
+  "longitude": -82.6740556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ocmulgee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbrg1",
+  "slug": "usgs-02215500",
+  "noaaForecastPath": "data/noaa-forecast/LBRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03076600",
+  "key": "03076600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03076600",
+  "name": "BEAR CREEK AT FRIENDSVILLE, MD",
+  "waterbody": "BEAR CREEK AT FRIENDSVILLE, MD",
+  "state": "MD",
+  "latitude": 39.65613889,
+  "longitude": -79.39411111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRCM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brcm2",
+  "slug": "usgs-03076600",
+  "noaaForecastPath": "data/noaa-forecast/BRCM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

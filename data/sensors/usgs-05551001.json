@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05551001",
+  "key": "05551001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05551001",
+  "name": "FOX RIVER AT SOUTH ELGIN, IL (TAILWATER)",
+  "waterbody": "FOX RIVER AT SOUTH ELGIN, IL (TAILWATER)",
+  "state": "IL",
+  "latitude": 41.9961861,
+  "longitude": -88.2949972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05551001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

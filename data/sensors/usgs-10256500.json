@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10256500",
+  "key": "10256500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10256500",
+  "name": "SNOW C NR WHITE WATER CA",
+  "waterbody": "SNOW C NR WHITE WATER CA",
+  "state": "CA",
+  "latitude": 33.87057878,
+  "longitude": -116.6811266,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10256500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

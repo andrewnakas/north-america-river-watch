@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03227107",
+  "key": "03227107",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03227107",
+  "name": "Olentangy River at J H Herrick Dr at Columbus OH",
+  "waterbody": "Olentangy River at J H Herrick Dr at Columbus OH",
+  "state": "OH",
+  "latitude": 39.99777778,
+  "longitude": -83.0236111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRKO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Olentangy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrko1",
+  "slug": "usgs-03227107",
+  "noaaForecastPath": "data/noaa-forecast/HRKO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

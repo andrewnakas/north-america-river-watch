@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12179000",
+  "key": "12179000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12179000",
+  "name": "SKAGIT RIVER ABOVE ALMA CREEK NEAR MARBLEMOUNT, WA",
+  "waterbody": "SKAGIT RIVER ABOVE ALMA CREEK NEAR MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.60734468,
+  "longitude": -121.3615155,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12179000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

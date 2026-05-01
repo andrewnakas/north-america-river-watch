@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08206910",
+  "key": "08206910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08206910",
+  "name": "Choke Canyon Res OWC nr Three Rivers, TX",
+  "waterbody": "Choke Canyon Res OWC nr Three Rivers, TX",
+  "state": "TX",
+  "latitude": 28.48610326,
+  "longitude": -98.2416752,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frio River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chot2",
+  "slug": "usgs-08206910",
+  "noaaForecastPath": "data/noaa-forecast/CHOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

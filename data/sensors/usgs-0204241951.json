@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0204241951",
+  "key": "0204241951",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204241951",
+  "name": "NORTH RUN AT HILLIARD RD NEAR RICHMOND, VA",
+  "waterbody": "NORTH RUN AT HILLIARD RD NEAR RICHMOND, VA",
+  "state": "VA",
+  "latitude": 37.6177111,
+  "longitude": -77.45778889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0204241951",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

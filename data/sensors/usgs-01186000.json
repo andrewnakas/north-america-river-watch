@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01186000",
+  "key": "01186000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01186000",
+  "name": "WEST BRANCH FARMINGTON RIVER AT RIVERTON, CT",
+  "waterbody": "WEST BRANCH FARMINGTON RIVER AT RIVERTON, CT",
+  "state": "CT",
+  "latitude": 41.9627621,
+  "longitude": -73.01758414,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01186000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

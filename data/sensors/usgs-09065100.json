@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09065100",
+  "key": "09065100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09065100",
+  "name": "CROSS CREEK NEAR MINTURN, CO",
+  "waterbody": "CROSS CREEK NEAR MINTURN, CO",
+  "state": "CO",
+  "latitude": 39.56829167,
+  "longitude": -106.4124306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSSC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cross Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cssc2",
+  "slug": "usgs-09065100",
+  "noaaForecastPath": "data/noaa-forecast/CSSC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

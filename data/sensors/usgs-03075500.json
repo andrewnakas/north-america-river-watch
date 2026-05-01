@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03075500",
+  "key": "03075500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03075500",
+  "name": "YOUGHIOGHENY RIVER NEAR OAKLAND, MD",
+  "waterbody": "YOUGHIOGHENY RIVER NEAR OAKLAND, MD",
+  "state": "MD",
+  "latitude": 39.42158333,
+  "longitude": -79.42363889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OAKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Youghiogheny River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oakm2",
+  "slug": "usgs-03075500",
+  "noaaForecastPath": "data/noaa-forecast/OAKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

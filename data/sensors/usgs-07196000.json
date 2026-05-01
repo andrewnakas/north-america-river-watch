@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07196000",
+  "key": "07196000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07196000",
+  "name": "Flint Creek near Kansas, OK",
+  "waterbody": "Flint Creek near Kansas, OK",
+  "state": "OK",
+  "latitude": 36.18647245,
+  "longitude": -94.7068913,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNSO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint Creek (OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knso2",
+  "slug": "usgs-07196000",
+  "noaaForecastPath": "data/noaa-forecast/KNSO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

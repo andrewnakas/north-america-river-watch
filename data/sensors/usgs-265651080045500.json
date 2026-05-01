@@ -1,0 +1,22 @@
+{
+  "id": "usgs:265651080045500",
+  "key": "265651080045500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "265651080045500",
+  "name": "LOX RIVER AT COAST GUARD DOCK NR JUPITER, FL",
+  "waterbody": "LOX RIVER AT COAST GUARD DOCK NR JUPITER, FL",
+  "state": "FL",
+  "latitude": 26.9478354,
+  "longitude": -80.08170838,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loxahatchee River 500 ft downstream of US 1",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrpf1",
+  "slug": "usgs-265651080045500",
+  "noaaForecastPath": "data/noaa-forecast/LRPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

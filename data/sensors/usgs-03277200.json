@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03277200",
+  "key": "03277200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03277200",
+  "name": "OHIO RIVER AT MARKLAND DAM NEAR WARSAW, KY",
+  "waterbody": "OHIO RIVER AT MARKLAND DAM NEAR WARSAW, KY",
+  "state": "KY",
+  "latitude": 38.77525,
+  "longitude": -84.97238889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mklk2",
+  "slug": "usgs-03277200",
+  "noaaForecastPath": "data/noaa-forecast/MKLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

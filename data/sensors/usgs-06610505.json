@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06610505",
+  "key": "06610505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610505",
+  "name": "Missouri River near Council Bluffs, IA",
+  "waterbody": "Missouri River near Council Bluffs, IA",
+  "state": "IA",
+  "latitude": 41.18916667,
+  "longitude": -95.8625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06610505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

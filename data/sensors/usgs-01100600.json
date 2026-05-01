@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01100600",
+  "key": "01100600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100600",
+  "name": "SHAWSHEEN RIVER NEAR WILMINGTON, MA",
+  "waterbody": "SHAWSHEEN RIVER NEAR WILMINGTON, MA",
+  "state": "MA",
+  "latitude": 42.5681488,
+  "longitude": -71.2147792,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLMM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shawsheen River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlmm3",
+  "slug": "usgs-01100600",
+  "noaaForecastPath": "data/noaa-forecast/WLMM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

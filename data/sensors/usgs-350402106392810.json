@@ -1,0 +1,19 @@
+{
+  "id": "usgs:350402106392810",
+  "key": "350402106392810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "350402106392810",
+  "name": "10N.03E.30.244H BRGSW",
+  "waterbody": "10N.03E.30.244H BRGSW",
+  "state": "NM",
+  "latitude": 35.06719167,
+  "longitude": -106.6582278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-350402106392810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

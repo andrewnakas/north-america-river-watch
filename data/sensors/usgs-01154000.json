@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01154000",
+  "key": "01154000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01154000",
+  "name": "SAXTONS RIVER AT SAXTONS RIVER, VT",
+  "waterbody": "SAXTONS RIVER AT SAXTONS RIVER, VT",
+  "state": "VT",
+  "latitude": 43.13757777,
+  "longitude": -72.4881444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01154000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

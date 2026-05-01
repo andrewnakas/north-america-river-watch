@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04086443",
+  "key": "04086443",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086443",
+  "name": "CEDAR CREEK TRIBUTARY @ CT HIGHWAY P AT JACKSON,WI",
+  "waterbody": "CEDAR CREEK TRIBUTARY @ CT HIGHWAY P AT JACKSON,WI",
+  "state": "WI",
+  "latitude": 43.3077812,
+  "longitude": -88.1814821,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04086443",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

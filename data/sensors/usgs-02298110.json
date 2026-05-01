@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298110",
+  "key": "02298110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298110",
+  "name": "PRAIRIE CREEK UPSTREAM OF SR 31 NEAR FT OGDEN FL",
+  "waterbody": "PRAIRIE CREEK UPSTREAM OF SR 31 NEAR FT OGDEN FL",
+  "state": "FL",
+  "latitude": 27.04155556,
+  "longitude": -81.7431667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTOF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Creek Upstream SR 31",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftof1",
+  "slug": "usgs-02298110",
+  "noaaForecastPath": "data/noaa-forecast/FTOF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

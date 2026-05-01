@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06076690",
+  "key": "06076690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06076690",
+  "name": "Smith River near Ft Logan MT",
+  "waterbody": "Smith River near Ft Logan MT",
+  "state": "MT",
+  "latitude": 46.7958,
+  "longitude": -111.1785556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River (MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sflm8",
+  "slug": "usgs-06076690",
+  "noaaForecastPath": "data/noaa-forecast/SFLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08458975",
+  "key": "08458975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08458975",
+  "name": "Manadas Ck at Laredo, TX",
+  "waterbody": "Manadas Ck at Laredo, TX",
+  "state": "TX",
+  "latitude": 27.57568333,
+  "longitude": -99.5060389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manadas Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmkt2",
+  "slug": "usgs-08458975",
+  "noaaForecastPath": "data/noaa-forecast/LMKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

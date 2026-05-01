@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01631000",
+  "key": "01631000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01631000",
+  "name": "S F SHENANDOAH RIVER AT FRONT ROYAL, VA",
+  "waterbody": "S F SHENANDOAH RIVER AT FRONT ROYAL, VA",
+  "state": "VA",
+  "latitude": 38.91400059,
+  "longitude": -78.21083388,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FROV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Shenandoah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frov2",
+  "slug": "usgs-01631000",
+  "noaaForecastPath": "data/noaa-forecast/FROV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

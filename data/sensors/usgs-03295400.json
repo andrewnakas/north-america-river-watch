@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03295400",
+  "key": "03295400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03295400",
+  "name": "SALT RIVER AT GLENSBORO, KY",
+  "waterbody": "SALT RIVER AT GLENSBORO, KY",
+  "state": "KY",
+  "latitude": 38.00201594,
+  "longitude": -85.0605085,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNBK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnbk2",
+  "slug": "usgs-03295400",
+  "noaaForecastPath": "data/noaa-forecast/GNBK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

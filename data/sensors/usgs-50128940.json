@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50128940",
+  "key": "50128940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50128940",
+  "name": "CANAL DE RIEGO DE LAJAS BLW LAJAS FILT PLANT LAJAS",
+  "waterbody": "CANAL DE RIEGO DE LAJAS BLW LAJAS FILT PLANT LAJAS",
+  "state": "PR",
+  "latitude": 18.045342,
+  "longitude": -67.055286,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAGP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canal de Riego de Lajas Blw Lajas Filtration Plant",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lagp4",
+  "slug": "usgs-50128940",
+  "noaaForecastPath": "data/noaa-forecast/LAGP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

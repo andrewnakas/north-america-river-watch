@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06061500",
+  "key": "06061500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06061500",
+  "name": "Prickly Pear Creek near Clancy MT",
+  "waterbody": "Prickly Pear Creek near Clancy MT",
+  "state": "MT",
+  "latitude": 46.5190972,
+  "longitude": -111.946786,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKPM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prickly Pear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkpm8",
+  "slug": "usgs-06061500",
+  "noaaForecastPath": "data/noaa-forecast/PKPM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12413130",
+  "key": "12413130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413130",
+  "name": "NINEMILE CREEK AB MOUTH AT WALLACE, ID",
+  "waterbody": "NINEMILE CREEK AB MOUTH AT WALLACE, ID",
+  "state": "ID",
+  "latitude": 47.4749,
+  "longitude": -115.9227,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMLI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ninemile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmli1",
+  "slug": "usgs-12413130",
+  "noaaForecastPath": "data/noaa-forecast/NMLI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

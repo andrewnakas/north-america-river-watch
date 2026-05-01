@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08110325",
+  "key": "08110325",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110325",
+  "name": "Navasota Rv abv Groesbeck, TX",
+  "waterbody": "Navasota Rv abv Groesbeck, TX",
+  "state": "TX",
+  "latitude": 31.57434158,
+  "longitude": -96.5208295,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navasota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grst2",
+  "slug": "usgs-08110325",
+  "noaaForecastPath": "data/noaa-forecast/GRST2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

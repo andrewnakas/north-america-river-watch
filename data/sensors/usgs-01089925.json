@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01089925",
+  "key": "01089925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01089925",
+  "name": "SUNCOOK RIVER AT NH 28, NEAR SUNCOOK, NH",
+  "waterbody": "SUNCOOK RIVER AT NH 28, NEAR SUNCOOK, NH",
+  "state": "NH",
+  "latitude": 43.15980438,
+  "longitude": -71.4059011,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01089925",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

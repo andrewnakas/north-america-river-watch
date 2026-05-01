@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04133501",
+  "key": "04133501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04133501",
+  "name": "THUNDER BAY RIVER AT HERRON ROAD NEAR BOLTON, MI",
+  "waterbody": "THUNDER BAY RIVER AT HERRON ROAD NEAR BOLTON, MI",
+  "state": "MI",
+  "latitude": 45.1241787,
+  "longitude": -83.63554,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOLM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thunder Bay River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bolm4",
+  "slug": "usgs-04133501",
+  "noaaForecastPath": "data/noaa-forecast/BOLM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

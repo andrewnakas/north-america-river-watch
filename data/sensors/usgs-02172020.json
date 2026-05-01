@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02172020",
+  "key": "02172020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172020",
+  "name": "W BRANCH COOPER R AT PIMLICO NR MONCKS CORNER, SC",
+  "waterbody": "W BRANCH COOPER R AT PIMLICO NR MONCKS CORNER, SC",
+  "state": "SC",
+  "latitude": 33.0935042,
+  "longitude": -79.9489708,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02172020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.364Z"
+}

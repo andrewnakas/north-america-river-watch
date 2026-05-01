@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056678",
+  "key": "05056678",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056678",
+  "name": "TOLNA COULEE NEAR TOLNA, ND",
+  "waterbody": "TOLNA COULEE NEAR TOLNA, ND",
+  "state": "ND",
+  "latitude": 47.8608333,
+  "longitude": -98.4944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOLN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tolna Coulee",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/toln8",
+  "slug": "usgs-05056678",
+  "noaaForecastPath": "data/noaa-forecast/TOLN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

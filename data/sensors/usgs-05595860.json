@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05595860",
+  "key": "05595860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595860",
+  "name": "CASEY FORK SUBIMPOUNDMENT NEAR BONNIE, IL",
+  "waterbody": "CASEY FORK SUBIMPOUNDMENT NEAR BONNIE, IL",
+  "state": "IL",
+  "latitude": 38.1875,
+  "longitude": -88.9272222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BONI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Casey Fork  Subimpoundment",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boni2",
+  "slug": "usgs-05595860",
+  "noaaForecastPath": "data/noaa-forecast/BONI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

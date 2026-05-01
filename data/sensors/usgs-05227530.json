@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05227530",
+  "key": "05227530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05227530",
+  "name": "MISSISSIPPI RIVER DIVERSION NEAR AITKIN, MN",
+  "waterbody": "MISSISSIPPI RIVER DIVERSION NEAR AITKIN, MN",
+  "state": "MN",
+  "latitude": 46.59166667,
+  "longitude": -93.6869444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATDM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River Diversion",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atdm5",
+  "slug": "usgs-05227530",
+  "noaaForecastPath": "data/noaa-forecast/ATDM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

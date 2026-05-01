@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04207200",
+  "key": "04207200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04207200",
+  "name": "Tinkers Creek at Bedford OH",
+  "waterbody": "Tinkers Creek at Bedford OH",
+  "state": "OH",
+  "latitude": 41.38449868,
+  "longitude": -81.5273419,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFDO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tinkers Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfdo1",
+  "slug": "usgs-04207200",
+  "noaaForecastPath": "data/noaa-forecast/BFDO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

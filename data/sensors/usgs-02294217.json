@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294217",
+  "key": "02294217",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294217",
+  "name": "SADDLE CREEK AT ST.HWY 542 NEAR LAKELAND FL",
+  "waterbody": "SADDLE CREEK AT ST.HWY 542 NEAR LAKELAND FL",
+  "state": "FL",
+  "latitude": 28.04418733,
+  "longitude": -81.876192,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saddle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdlf1",
+  "slug": "usgs-02294217",
+  "noaaForecastPath": "data/noaa-forecast/SDLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

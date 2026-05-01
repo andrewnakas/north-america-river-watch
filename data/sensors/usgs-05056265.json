@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056265",
+  "key": "05056265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056265",
+  "name": "BIG COULEE AT HWY 2 NEAR CHURCHS FERRY, ND",
+  "waterbody": "BIG COULEE AT HWY 2 NEAR CHURCHS FERRY, ND",
+  "state": "ND",
+  "latitude": 48.26166538,
+  "longitude": -99.1876342,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFCN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Coulee",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfcn8",
+  "slug": "usgs-05056265",
+  "noaaForecastPath": "data/noaa-forecast/CFCN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

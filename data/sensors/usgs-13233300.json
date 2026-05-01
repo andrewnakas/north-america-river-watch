@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13233300",
+  "key": "13233300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13233300",
+  "name": "MALHEUR RIVER BELOW NEVADA DAM NEAR VALE OR",
+  "waterbody": "MALHEUR RIVER BELOW NEVADA DAM NEAR VALE OR",
+  "state": "OR",
+  "latitude": 43.9875,
+  "longitude": -117.2188889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VALO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Malheur River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/valo3",
+  "slug": "usgs-13233300",
+  "noaaForecastPath": "data/noaa-forecast/VALO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

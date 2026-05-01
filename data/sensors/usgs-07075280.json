@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07075280",
+  "key": "07075280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07075280",
+  "name": "S Fk Lit Red Riv nr Walnut Grove, AR",
+  "waterbody": "S Fk Lit Red Riv nr Walnut Grove, AR",
+  "state": "AR",
+  "latitude": 35.55719444,
+  "longitude": -92.5509722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07075280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

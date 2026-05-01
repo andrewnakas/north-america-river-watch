@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294405",
+  "key": "02294405",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294405",
+  "name": "BANANA-HANCOCK CANAL NR HIGHLAND CITY, FL",
+  "waterbody": "BANANA-HANCOCK CANAL NR HIGHLAND CITY, FL",
+  "state": "FL",
+  "latitude": 27.98277778,
+  "longitude": -81.8944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Banana-Hancock Canal Near Highland City (in NGVD29)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhcf1",
+  "slug": "usgs-02294405",
+  "noaaForecastPath": "data/noaa-forecast/BHCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07376300",
+  "key": "07376300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07376300",
+  "name": "Tickfaw River Near Springfield, La.",
+  "waterbody": "Tickfaw River Near Springfield, La.",
+  "state": "LA",
+  "latitude": 30.37655556,
+  "longitude": -90.5511111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSPL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tickfaw River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tspl1",
+  "slug": "usgs-07376300",
+  "noaaForecastPath": "data/noaa-forecast/TSPL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

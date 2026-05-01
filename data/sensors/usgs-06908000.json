@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06908000",
+  "key": "06908000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06908000",
+  "name": "Blackwater River at Blue Lick, MO",
+  "waterbody": "Blackwater River at Blue Lick, MO",
+  "state": "MO",
+  "latitude": 38.99224236,
+  "longitude": -93.1968713,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLVM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackwater River",
+  "noaaStatus": "moderate",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blvm7",
+  "slug": "usgs-06908000",
+  "noaaForecastPath": "data/noaa-forecast/BLVM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

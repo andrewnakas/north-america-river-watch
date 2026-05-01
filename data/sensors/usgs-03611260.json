@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03611260",
+  "key": "03611260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03611260",
+  "name": "MASSAC CREEK NEAR PADUCAH, KY",
+  "waterbody": "MASSAC CREEK NEAR PADUCAH, KY",
+  "state": "KY",
+  "latitude": 37.04144404,
+  "longitude": -88.7108852,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCPK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Massac Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcpk2",
+  "slug": "usgs-03611260",
+  "noaaForecastPath": "data/noaa-forecast/MCPK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

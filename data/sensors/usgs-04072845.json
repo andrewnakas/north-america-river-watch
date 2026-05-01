@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04072845",
+  "key": "04072845",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04072845",
+  "name": "MONTELLO RIVER NEAR MONTELLO, WI",
+  "waterbody": "MONTELLO RIVER NEAR MONTELLO, WI",
+  "state": "WI",
+  "latitude": 43.8211111,
+  "longitude": -89.3652778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04072845",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

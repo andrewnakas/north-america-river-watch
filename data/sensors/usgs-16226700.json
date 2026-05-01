@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16226700",
+  "key": "16226700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16226700",
+  "name": "South Halawa Stream nr H-3 Freeway, Oahu, HI",
+  "waterbody": "South Halawa Stream nr H-3 Freeway, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.37067778,
+  "longitude": -157.9100222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16226700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

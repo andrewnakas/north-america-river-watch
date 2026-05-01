@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08128030",
+  "key": "08128030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08128030",
+  "name": "S Concho Rv abv Twin Buttes Res nr San Angelo, TX",
+  "waterbody": "S Concho Rv abv Twin Buttes Res nr San Angelo, TX",
+  "state": "TX",
+  "latitude": 31.2727611,
+  "longitude": -100.5042194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08128030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01513831",
+  "key": "01513831",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01513831",
+  "name": "SUSQUEHANNA RIVER AT OWEGO NY",
+  "waterbody": "SUSQUEHANNA RIVER AT OWEGO NY",
+  "state": "NY",
+  "latitude": 42.09613889,
+  "longitude": -76.2656944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owgn6",
+  "slug": "usgs-01513831",
+  "noaaForecastPath": "data/noaa-forecast/OWGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

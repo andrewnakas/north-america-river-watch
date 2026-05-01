@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08017044",
+  "key": "08017044",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08017044",
+  "name": "Calcasieu River at I-10 at Lake Charles, LA",
+  "waterbody": "Calcasieu River at I-10 at Lake Charles, LA",
+  "state": "LA",
+  "latitude": 30.23714987,
+  "longitude": -93.2473764,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08017044",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

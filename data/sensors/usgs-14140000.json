@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14140000",
+  "key": "14140000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14140000",
+  "name": "BULL RUN RIVER NEAR BULL RUN (RIVER ONLY), OR",
+  "waterbody": "BULL RUN RIVER NEAR BULL RUN (RIVER ONLY), OR",
+  "state": "OR",
+  "latitude": 45.4373,
+  "longitude": -122.1796556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RUNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bull Run River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/runo3",
+  "slug": "usgs-14140000",
+  "noaaForecastPath": "data/noaa-forecast/RUNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

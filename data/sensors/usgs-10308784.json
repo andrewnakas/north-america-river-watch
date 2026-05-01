@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10308784",
+  "key": "10308784",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10308784",
+  "name": "LEVIATHAN MINE ADIT DRAIN NR MARKLEEVILLE CA",
+  "waterbody": "LEVIATHAN MINE ADIT DRAIN NR MARKLEEVILLE CA",
+  "state": "CA",
+  "latitude": 38.7040628,
+  "longitude": -119.6587622,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10308784",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

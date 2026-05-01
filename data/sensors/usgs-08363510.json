@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08363510",
+  "key": "08363510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08363510",
+  "name": "RIO GRANDE BELOW LEASBURG DAM AT FORT SELDEN, NM",
+  "waterbody": "RIO GRANDE BELOW LEASBURG DAM AT FORT SELDEN, NM",
+  "state": "NM",
+  "latitude": 32.47731016,
+  "longitude": -106.920566,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBDN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbdn5",
+  "slug": "usgs-08363510",
+  "noaaForecastPath": "data/noaa-forecast/LBDN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

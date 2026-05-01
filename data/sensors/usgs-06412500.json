@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06412500",
+  "key": "06412500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06412500",
+  "name": "RAPID CREEK ABV CANYON LAKE NEAR RAPID CITY,SD",
+  "waterbody": "RAPID CREEK ABV CANYON LAKE NEAR RAPID CITY,SD",
+  "state": "SD",
+  "latitude": 44.05276555,
+  "longitude": -103.3118507,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cyns2",
+  "slug": "usgs-06412500",
+  "noaaForecastPath": "data/noaa-forecast/CYNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

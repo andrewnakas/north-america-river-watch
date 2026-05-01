@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13342500",
+  "key": "13342500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13342500",
+  "name": "CLEARWATER RIVER AT SPALDING ID",
+  "waterbody": "CLEARWATER RIVER AT SPALDING ID",
+  "state": "ID",
+  "latitude": 46.4483333,
+  "longitude": -116.8275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPDI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clearwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spdi1",
+  "slug": "usgs-13342500",
+  "noaaForecastPath": "data/noaa-forecast/SPDI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03302680",
+  "key": "03302680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302680",
+  "name": "WEST FORK BLUE RIVER AT SALEM, IN",
+  "waterbody": "WEST FORK BLUE RIVER AT SALEM, IN",
+  "state": "IN",
+  "latitude": 38.60532859,
+  "longitude": -86.094411,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Blue River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/semi3",
+  "slug": "usgs-03302680",
+  "noaaForecastPath": "data/noaa-forecast/SEMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

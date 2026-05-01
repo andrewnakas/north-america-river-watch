@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353494",
+  "key": "03353494",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353494",
+  "name": "FARLEY CREEK ABOVE 10TH STREET AT INDIANAPOLIS, IN",
+  "waterbody": "FARLEY CREEK ABOVE 10TH STREET AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.78055556,
+  "longitude": -86.2858333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FARI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Retention Pond in Marion County Indiana",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fari3",
+  "slug": "usgs-03353494",
+  "noaaForecastPath": "data/noaa-forecast/FARI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

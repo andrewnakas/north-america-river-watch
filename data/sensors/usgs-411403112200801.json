@@ -1,0 +1,19 @@
+{
+  "id": "usgs:411403112200801",
+  "key": "411403112200801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "411403112200801",
+  "name": "BEAR RIVER BAY OUTFLOW AT GSL MINERALS CORP BRIDGE",
+  "waterbody": "BEAR RIVER BAY OUTFLOW AT GSL MINERALS CORP BRIDGE",
+  "state": "UT",
+  "latitude": 41.27138889,
+  "longitude": -112.356111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-411403112200801",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

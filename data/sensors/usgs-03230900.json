@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03230900",
+  "key": "03230900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03230900",
+  "name": "Deer Creek near Pancoastburg OH",
+  "waterbody": "Deer Creek near Pancoastburg OH",
+  "state": "OH",
+  "latitude": 39.6206174,
+  "longitude": -83.2129682,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCRO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deer Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcro1",
+  "slug": "usgs-03230900",
+  "noaaForecastPath": "data/noaa-forecast/DCRO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

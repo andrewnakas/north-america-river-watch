@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251248",
+  "key": "10251248",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251248",
+  "name": "UNM TRIB-STOCKADE WASH NR RATTLESNAKE RG, NTS, NV",
+  "waterbody": "UNM TRIB-STOCKADE WASH NR RATTLESNAKE RG, NTS, NV",
+  "state": "NV",
+  "latitude": 37.18244978,
+  "longitude": -116.267269,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251248",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

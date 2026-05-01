@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04188100",
+  "key": "04188100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04188100",
+  "name": "Ottawa River near Kalida OH",
+  "waterbody": "Ottawa River near Kalida OH",
+  "state": "OH",
+  "latitude": 40.9903287,
+  "longitude": -84.2266132,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KALO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ottawa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kalo1",
+  "slug": "usgs-04188100",
+  "noaaForecastPath": "data/noaa-forecast/KALO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

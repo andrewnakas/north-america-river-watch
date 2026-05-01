@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03247041",
+  "key": "03247041",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03247041",
+  "name": "E Fk Little Miami River bl Harsha Dam nr Bantam OH",
+  "waterbody": "E Fk Little Miami River bl Harsha Dam nr Bantam OH",
+  "state": "OH",
+  "latitude": 39.02395294,
+  "longitude": -84.1499346,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHDO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Little Miami River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhdo1",
+  "slug": "usgs-03247041",
+  "noaaForecastPath": "data/noaa-forecast/BHDO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

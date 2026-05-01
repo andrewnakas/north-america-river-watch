@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362332",
+  "key": "01362332",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362332",
+  "name": "STONY CLOVE CREEK AT WRIGHT RD NEAR LANESVILLE NY",
+  "waterbody": "STONY CLOVE CREEK AT WRIGHT RD NEAR LANESVILLE NY",
+  "state": "NY",
+  "latitude": 42.13027778,
+  "longitude": -74.2458333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362332",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

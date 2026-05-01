@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12395000",
+  "key": "12395000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12395000",
+  "name": "Priest River near Priest River, ID",
+  "waterbody": "Priest River near Priest River, ID",
+  "state": "ID",
+  "latitude": 48.20852,
+  "longitude": -116.9146429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRTI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Priest River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prti1",
+  "slug": "usgs-12395000",
+  "noaaForecastPath": "data/noaa-forecast/PRTI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

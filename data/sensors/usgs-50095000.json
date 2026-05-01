@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50095000",
+  "key": "50095000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50095000",
+  "name": "CANAL DE GUAMANI OESTE AT HWY 15 GUAYAMA, PR",
+  "waterbody": "CANAL DE GUAMANI OESTE AT HWY 15 GUAYAMA, PR",
+  "state": "PR",
+  "latitude": 18.003056,
+  "longitude": -66.115556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50095000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

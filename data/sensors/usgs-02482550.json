@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02482550",
+  "key": "02482550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02482550",
+  "name": "PEARL RIVER NR CARTHAGE, MS",
+  "waterbody": "PEARL RIVER NR CARTHAGE, MS",
+  "state": "MS",
+  "latitude": 32.7072222,
+  "longitude": -89.5263889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CARM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/carm6",
+  "slug": "usgs-02482550",
+  "noaaForecastPath": "data/noaa-forecast/CARM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

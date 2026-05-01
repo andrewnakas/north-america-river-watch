@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01119500",
+  "key": "01119500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01119500",
+  "name": "WILLIMANTIC RIVER NEAR COVENTRY, CT",
+  "waterbody": "WILLIMANTIC RIVER NEAR COVENTRY, CT",
+  "state": "CT",
+  "latitude": 41.75053857,
+  "longitude": -72.26561677,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVTC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willimantic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvtc3",
+  "slug": "usgs-01119500",
+  "noaaForecastPath": "data/noaa-forecast/CVTC3.json",
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

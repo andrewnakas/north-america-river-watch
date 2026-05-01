@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08077670",
+  "key": "08077670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08077670",
+  "name": "Highland Bayou at FM 646 nr Santa Fe, TX",
+  "waterbody": "Highland Bayou at FM 646 nr Santa Fe, TX",
+  "state": "TX",
+  "latitude": 29.38055833,
+  "longitude": -95.0900528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Highland Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hglt2",
+  "slug": "usgs-08077670",
+  "noaaForecastPath": "data/noaa-forecast/HGLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

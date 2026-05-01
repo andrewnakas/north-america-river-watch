@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07383360",
+  "key": "07383360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07383360",
+  "name": "Little River at Boggy Bayou Rd e of Marksville, LA",
+  "waterbody": "Little River at Boggy Bayou Rd e of Marksville, LA",
+  "state": "LA",
+  "latitude": 31.14191667,
+  "longitude": -92.0094722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRBL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrbl1",
+  "slug": "usgs-07383360",
+  "noaaForecastPath": "data/noaa-forecast/LRBL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

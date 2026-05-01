@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04201409",
+  "key": "04201409",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04201409",
+  "name": "Unnamed Tributary to W B Rocky R near Berea OH",
+  "waterbody": "Unnamed Tributary to W B Rocky R near Berea OH",
+  "state": "OH",
+  "latitude": 41.3508333,
+  "longitude": -81.8861111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPOO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unnamed Tributary to WB Rocky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spoo1",
+  "slug": "usgs-04201409",
+  "noaaForecastPath": "data/noaa-forecast/SPOO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

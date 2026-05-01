@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02052000",
+  "key": "02052000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02052000",
+  "name": "MEHERRIN RIVER AT EMPORIA, VA",
+  "waterbody": "MEHERRIN RIVER AT EMPORIA, VA",
+  "state": "VA",
+  "latitude": 36.69014954,
+  "longitude": -77.5405364,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EPOV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meherrin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/epov2",
+  "slug": "usgs-02052000",
+  "noaaForecastPath": "data/noaa-forecast/EPOV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

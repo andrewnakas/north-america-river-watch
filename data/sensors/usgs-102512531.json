@@ -1,0 +1,19 @@
+{
+  "id": "usgs:102512531",
+  "key": "102512531",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "102512531",
+  "name": "PAGANY WASH NR THE PROW, NTS, NV",
+  "waterbody": "PAGANY WASH NR THE PROW, NTS, NV",
+  "state": "NV",
+  "latitude": 36.8683333,
+  "longitude": -116.4480556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-102512531",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

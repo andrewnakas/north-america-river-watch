@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01031500",
+  "key": "01031500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01031500",
+  "name": "Piscataquis River near Dover-Foxcroft, Maine",
+  "waterbody": "Piscataquis River near Dover-Foxcroft, Maine",
+  "state": "ME",
+  "latitude": 45.175,
+  "longitude": -69.3147222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOVM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piscataquis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dovm1",
+  "slug": "usgs-01031500",
+  "noaaForecastPath": "data/noaa-forecast/DOVM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

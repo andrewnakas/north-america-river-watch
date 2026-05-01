@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310300",
+  "key": "02310300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310300",
+  "name": "PITHLACHASCOTEE RIVER NEAR NEW PORT RICHEY FL",
+  "waterbody": "PITHLACHASCOTEE RIVER NEAR NEW PORT RICHEY FL",
+  "state": "FL",
+  "latitude": 28.25731495,
+  "longitude": -82.6429044,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pithlachascotee River Near New Port Richey",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pthf1",
+  "slug": "usgs-02310300",
+  "noaaForecastPath": "data/noaa-forecast/PTHF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

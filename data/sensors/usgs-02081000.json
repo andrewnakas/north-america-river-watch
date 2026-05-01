@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02081000",
+  "key": "02081000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02081000",
+  "name": "ROANOKE RIVER NEAR SCOTLAND NECK, NC",
+  "waterbody": "ROANOKE RIVER NEAR SCOTLAND NECK, NC",
+  "state": "NC",
+  "latitude": 36.20916667,
+  "longitude": -77.38388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCON7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scon7",
+  "slug": "usgs-02081000",
+  "noaaForecastPath": "data/noaa-forecast/SCON7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

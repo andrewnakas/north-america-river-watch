@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09114520",
+  "key": "09114520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09114520",
+  "name": "GUNNISON RIVER AT GUNNISON WHITEWATER PARK, CO",
+  "waterbody": "GUNNISON RIVER AT GUNNISON WHITEWATER PARK, CO",
+  "state": "CO",
+  "latitude": 38.5332722,
+  "longitude": -106.9490861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09114520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

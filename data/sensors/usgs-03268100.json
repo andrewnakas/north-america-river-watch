@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03268100",
+  "key": "03268100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03268100",
+  "name": "Buck Creek bl CJ Brown Reservoir nr Springfield OH",
+  "waterbody": "Buck Creek bl CJ Brown Reservoir nr Springfield OH",
+  "state": "OH",
+  "latitude": 39.951449,
+  "longitude": -83.7540936,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CJBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buck Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cjbo1",
+  "slug": "usgs-03268100",
+  "noaaForecastPath": "data/noaa-forecast/CJBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

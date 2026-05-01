@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06819185",
+  "key": "06819185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06819185",
+  "name": "East Fork 102 River at Bedford, IA",
+  "waterbody": "East Fork 102 River at Bedford, IA",
+  "state": "IA",
+  "latitude": 40.6609722,
+  "longitude": -94.7163056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDFI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork 102 River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdfi4",
+  "slug": "usgs-06819185",
+  "noaaForecastPath": "data/noaa-forecast/BDFI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

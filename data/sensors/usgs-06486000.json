@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06486000",
+  "key": "06486000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06486000",
+  "name": "Missouri River at Sioux City, IA",
+  "waterbody": "Missouri River at Sioux City, IA",
+  "state": "NE",
+  "latitude": 42.48619444,
+  "longitude": -96.4130833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sscn1",
+  "slug": "usgs-06486000",
+  "noaaForecastPath": "data/noaa-forecast/SSCN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

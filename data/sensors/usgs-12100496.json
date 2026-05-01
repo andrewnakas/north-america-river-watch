@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12100496",
+  "key": "12100496",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12100496",
+  "name": "WHITE RIVER NEAR AUBURN, WA",
+  "waterbody": "WHITE RIVER NEAR AUBURN, WA",
+  "state": "WA",
+  "latitude": 47.26593409,
+  "longitude": -122.2298417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WABW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wabw1",
+  "slug": "usgs-12100496",
+  "noaaForecastPath": "data/noaa-forecast/WABW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07194500",
+  "key": "07194500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07194500",
+  "name": "Arkansas River near Muskogee, OK",
+  "waterbody": "Arkansas River near Muskogee, OK",
+  "state": "OK",
+  "latitude": 35.7695432,
+  "longitude": -95.2971867,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKGO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mkgo2",
+  "slug": "usgs-07194500",
+  "noaaForecastPath": "data/noaa-forecast/MKGO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16294100",
+  "key": "16294100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16294100",
+  "name": "Waiahole Stream above Kamehameha Hwy, Oahu, HI",
+  "waterbody": "Waiahole Stream above Kamehameha Hwy, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.48202778,
+  "longitude": -157.8458889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waiahole Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whsh1",
+  "slug": "usgs-16294100",
+  "noaaForecastPath": "data/noaa-forecast/WHSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:011277905",
+  "key": "011277905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "011277905",
+  "name": "LATIMER BROOK NR I-95N EXIT 75 NR FLANDERS, CT",
+  "waterbody": "LATIMER BROOK NR I-95N EXIT 75 NR FLANDERS, CT",
+  "state": "CT",
+  "latitude": 41.36861111,
+  "longitude": -72.20222222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-011277905",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

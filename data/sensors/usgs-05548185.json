@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05548185",
+  "key": "05548185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05548185",
+  "name": "ELIZABETH LAKE DRAIN NR TWIN LAKES, WI-IL",
+  "waterbody": "ELIZABETH LAKE DRAIN NR TWIN LAKES, WI-IL",
+  "state": "IL",
+  "latitude": 42.48613889,
+  "longitude": -88.2835833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05548185",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

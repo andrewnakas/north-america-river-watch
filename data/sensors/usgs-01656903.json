@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01656903",
+  "key": "01656903",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01656903",
+  "name": "FLATLICK BRANCH ABOVE FROG BRANCH AT CHANTILLY, VA",
+  "waterbody": "FLATLICK BRANCH ABOVE FROG BRANCH AT CHANTILLY, VA",
+  "state": "VA",
+  "latitude": 38.8823899,
+  "longitude": -77.4319047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTYV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flatlick Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctyv2",
+  "slug": "usgs-01656903",
+  "noaaForecastPath": "data/noaa-forecast/CTYV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

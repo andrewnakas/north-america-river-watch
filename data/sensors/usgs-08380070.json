@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08380070",
+  "key": "08380070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08380070",
+  "name": "BEAVER CREEK NEAR EL PORVENIR, NM",
+  "waterbody": "BEAVER CREEK NEAR EL PORVENIR, NM",
+  "state": "NM",
+  "latitude": 35.7133611,
+  "longitude": -105.4198806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08380070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

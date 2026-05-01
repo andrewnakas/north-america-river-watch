@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11023000",
+  "key": "11023000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11023000",
+  "name": "SAN DIEGO R A FASHION VALLEY AT SAN DIEGO CA",
+  "waterbody": "SAN DIEGO R A FASHION VALLEY AT SAN DIEGO CA",
+  "state": "CA",
+  "latitude": 32.76504955,
+  "longitude": -117.1686285,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Diego River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fsnc1",
+  "slug": "usgs-11023000",
+  "noaaForecastPath": "data/noaa-forecast/FSNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

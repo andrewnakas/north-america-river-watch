@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294760",
+  "key": "02294760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294760",
+  "name": "BARBER BRANCH NEAR HOMELAND FL",
+  "waterbody": "BARBER BRANCH NEAR HOMELAND FL",
+  "state": "FL",
+  "latitude": 27.83833333,
+  "longitude": -81.8122222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PMOF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Phosphate Mine Outfall CS-8 Near Bartow",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pmof1",
+  "slug": "usgs-02294760",
+  "noaaForecastPath": "data/noaa-forecast/PMOF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

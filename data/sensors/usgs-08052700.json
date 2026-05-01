@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08052700",
+  "key": "08052700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08052700",
+  "name": "Little Elm Ck nr Aubrey, TX",
+  "waterbody": "Little Elm Ck nr Aubrey, TX",
+  "state": "TX",
+  "latitude": 33.28344977,
+  "longitude": -96.8927805,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08052700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

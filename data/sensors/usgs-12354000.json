@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12354000",
+  "key": "12354000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12354000",
+  "name": "St. Regis River near St. Regis, MT",
+  "waterbody": "St. Regis River near St. Regis, MT",
+  "state": "MT",
+  "latitude": 47.2967111,
+  "longitude": -115.122625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Regis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/strm8",
+  "slug": "usgs-12354000",
+  "noaaForecastPath": "data/noaa-forecast/STRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

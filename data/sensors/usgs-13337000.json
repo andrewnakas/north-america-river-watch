@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13337000",
+  "key": "13337000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13337000",
+  "name": "LOCHSA RIVER NR LOWELL ID",
+  "waterbody": "LOCHSA RIVER NR LOWELL ID",
+  "state": "ID",
+  "latitude": 46.1508333,
+  "longitude": -115.5872222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lochsa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/loci1",
+  "slug": "usgs-13337000",
+  "noaaForecastPath": "data/noaa-forecast/LOCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

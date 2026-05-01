@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344424",
+  "key": "02344424",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344424",
+  "name": "LAKE HORTON TAILRACE NEAR FAYETTEVILLE, GA",
+  "waterbody": "LAKE HORTON TAILRACE NEAR FAYETTEVILLE, GA",
+  "state": "GA",
+  "latitude": 33.3186111,
+  "longitude": -84.4186111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LHBG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Horton Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lhbg1",
+  "slug": "usgs-02344424",
+  "noaaForecastPath": "data/noaa-forecast/LHBG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

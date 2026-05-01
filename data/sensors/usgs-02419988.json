@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02419988",
+  "key": "02419988",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02419988",
+  "name": "ALABAMA RIVER AT MONTGOMERY AL",
+  "waterbody": "ALABAMA RIVER AT MONTGOMERY AL",
+  "state": "AL",
+  "latitude": 32.3922361,
+  "longitude": -86.3154056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGMA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alabama River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgma1",
+  "slug": "usgs-02419988",
+  "noaaForecastPath": "data/noaa-forecast/MGMA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

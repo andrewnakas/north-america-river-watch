@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10329500",
+  "key": "10329500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10329500",
+  "name": "MARTIN CK NR PARADISE VALLEY, NV",
+  "waterbody": "MARTIN CK NR PARADISE VALLEY, NV",
+  "state": "NV",
+  "latitude": 41.5346175,
+  "longitude": -117.4179047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MARN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Martin Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/marn2",
+  "slug": "usgs-10329500",
+  "noaaForecastPath": "data/noaa-forecast/MARN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

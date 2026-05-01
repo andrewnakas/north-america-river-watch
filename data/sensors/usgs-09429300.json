@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429300",
+  "key": "09429300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429300",
+  "name": "COLORADO RIVER BELOW CIBOLA VALLEY, AZ.",
+  "waterbody": "COLORADO RIVER BELOW CIBOLA VALLEY, AZ.",
+  "state": "AZ",
+  "latitude": 33.22114635,
+  "longitude": -114.672457,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

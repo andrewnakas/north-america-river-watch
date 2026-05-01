@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14309500",
+  "key": "14309500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14309500",
+  "name": "WEST FORK COW CREEK NEAR GLENDALE, OR",
+  "waterbody": "WEST FORK COW CREEK NEAR GLENDALE, OR",
+  "state": "OR",
+  "latitude": 42.80400356,
+  "longitude": -123.6109071,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Cow Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glno3",
+  "slug": "usgs-14309500",
+  "noaaForecastPath": "data/noaa-forecast/GLNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

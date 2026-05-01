@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01380500",
+  "key": "01380500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01380500",
+  "name": "Rockaway River above Reservoir at Boonton NJ",
+  "waterbody": "Rockaway River above Reservoir at Boonton NJ",
+  "state": "NJ",
+  "latitude": 40.90277778,
+  "longitude": -74.4097222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01380500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

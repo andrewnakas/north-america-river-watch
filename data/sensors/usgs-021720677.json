@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021720677",
+  "key": "021720677",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021720677",
+  "name": "COOPER R AT FILBIN CREEK AT NORTH CHARLESTON, SC",
+  "waterbody": "COOPER R AT FILBIN CREEK AT NORTH CHARLESTON, SC",
+  "state": "SC",
+  "latitude": 32.89045228,
+  "longitude": -79.9628645,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPFS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cooper River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpfs1",
+  "slug": "usgs-021720677",
+  "noaaForecastPath": "data/noaa-forecast/CPFS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

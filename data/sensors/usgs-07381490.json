@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07381490",
+  "key": "07381490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381490",
+  "name": "Atchafalaya River at Simmesport, LA",
+  "waterbody": "Atchafalaya River at Simmesport, LA",
+  "state": "LA",
+  "latitude": 30.9825,
+  "longitude": -91.7983333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMML1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atchafalaya River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smml1",
+  "slug": "usgs-07381490",
+  "noaaForecastPath": "data/noaa-forecast/SMML1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

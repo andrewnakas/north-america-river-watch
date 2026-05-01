@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08041788",
+  "key": "08041788",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08041788",
+  "name": "Bairds Bayou at I-10 nr Beaumont, TX",
+  "waterbody": "Bairds Bayou at I-10 nr Beaumont, TX",
+  "state": "TX",
+  "latitude": 30.09553889,
+  "longitude": -94.0767722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08041788",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

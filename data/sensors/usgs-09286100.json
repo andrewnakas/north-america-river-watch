@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09286100",
+  "key": "09286100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09286100",
+  "name": "RED CREEK ABOVE RESERVOIR, NEAR FRUITLAND, UT",
+  "waterbody": "RED CREEK ABOVE RESERVOIR, NEAR FRUITLAND, UT",
+  "state": "UT",
+  "latitude": 40.32994978,
+  "longitude": -110.8626625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09286100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

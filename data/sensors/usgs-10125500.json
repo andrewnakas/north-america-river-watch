@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10125500",
+  "key": "10125500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10125500",
+  "name": "MALAD RIVER AT WOODRUFF ID",
+  "waterbody": "MALAD RIVER AT WOODRUFF ID",
+  "state": "ID",
+  "latitude": 42.0297222,
+  "longitude": -112.2295833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDRI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Malad River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdri1",
+  "slug": "usgs-10125500",
+  "noaaForecastPath": "data/noaa-forecast/WDRI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

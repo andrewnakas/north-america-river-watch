@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13087505",
+  "key": "13087505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13087505",
+  "name": "LOWER MILNER POWER PLANT AT MILNER ID",
+  "waterbody": "LOWER MILNER POWER PLANT AT MILNER ID",
+  "state": "ID",
+  "latitude": 42.52463396,
+  "longitude": -114.0303054,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13087505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

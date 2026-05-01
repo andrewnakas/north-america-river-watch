@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08210000",
+  "key": "08210000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08210000",
+  "name": "Nueces Rv nr Three Rivers, TX",
+  "waterbody": "Nueces Rv nr Three Rivers, TX",
+  "state": "TX",
+  "latitude": 28.42749545,
+  "longitude": -98.1780625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thet2",
+  "slug": "usgs-08210000",
+  "noaaForecastPath": "data/noaa-forecast/THET2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

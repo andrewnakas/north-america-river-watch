@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07350900",
+  "key": "07350900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07350900",
+  "name": "Bayou Pierre nr. Robson, LA.",
+  "waterbody": "Bayou Pierre nr. Robson, LA.",
+  "state": "LA",
+  "latitude": 32.3736111,
+  "longitude": -93.67575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07350900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

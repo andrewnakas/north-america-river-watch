@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13181000",
+  "key": "13181000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13181000",
+  "name": "OWYHEE RIVER NR ROME OR",
+  "waterbody": "OWYHEE RIVER NR ROME OR",
+  "state": "OR",
+  "latitude": 42.86638889,
+  "longitude": -117.6491667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Owyhee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/romo3",
+  "slug": "usgs-13181000",
+  "noaaForecastPath": "data/noaa-forecast/ROMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

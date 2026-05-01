@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02316000",
+  "key": "02316000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02316000",
+  "name": "ALAPAHA RIVER NEAR ALAPAHA, GA",
+  "waterbody": "ALAPAHA RIVER NEAR ALAPAHA, GA",
+  "state": "GA",
+  "latitude": 31.38527778,
+  "longitude": -83.1935,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alapaha River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alag1",
+  "slug": "usgs-02316000",
+  "noaaForecastPath": "data/noaa-forecast/ALAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

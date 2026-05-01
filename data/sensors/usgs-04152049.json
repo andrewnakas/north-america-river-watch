@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04152049",
+  "key": "04152049",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04152049",
+  "name": "TITTABAWASSEE RIVER AT SECORD DAM NR GLADWIN, MI",
+  "waterbody": "TITTABAWASSEE RIVER AT SECORD DAM NR GLADWIN, MI",
+  "state": "MI",
+  "latitude": 44.04113225,
+  "longitude": -84.3422276,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDTM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tittabawassee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdtm4",
+  "slug": "usgs-04152049",
+  "noaaForecastPath": "data/noaa-forecast/SDTM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07066000",
+  "key": "07066000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07066000",
+  "name": "Jacks Fork at Eminence, MO",
+  "waterbody": "Jacks Fork at Eminence, MO",
+  "state": "MO",
+  "latitude": 37.1540833,
+  "longitude": -91.3581667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jacks Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/emcm7",
+  "slug": "usgs-07066000",
+  "noaaForecastPath": "data/noaa-forecast/EMCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

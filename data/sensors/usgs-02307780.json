@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02307780",
+  "key": "02307780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307780",
+  "name": "LONG BRANCH NEAR PINELLAS PARK FL",
+  "waterbody": "LONG BRANCH NEAR PINELLAS PARK FL",
+  "state": "FL",
+  "latitude": 27.91585545,
+  "longitude": -82.7248228,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Branch Near Pinellas Park",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llrf1",
+  "slug": "usgs-02307780",
+  "noaaForecastPath": "data/noaa-forecast/LLRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

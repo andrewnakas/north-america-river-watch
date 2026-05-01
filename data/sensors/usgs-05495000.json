@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05495000",
+  "key": "05495000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05495000",
+  "name": "Fox River at Wayland, MO",
+  "waterbody": "Fox River at Wayland, MO",
+  "state": "MO",
+  "latitude": 40.39241667,
+  "longitude": -91.5978889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WYLM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River (IA/MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wylm7",
+  "slug": "usgs-05495000",
+  "noaaForecastPath": "data/noaa-forecast/WYLM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09105000",
+  "key": "09105000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09105000",
+  "name": "PLATEAU CREEK NEAR CAMEO, CO",
+  "waterbody": "PLATEAU CREEK NEAR CAMEO, CO",
+  "state": "CO",
+  "latitude": 39.1836111,
+  "longitude": -108.2683333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Plateau Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pccc2",
+  "slug": "usgs-09105000",
+  "noaaForecastPath": "data/noaa-forecast/PCCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294898",
+  "key": "02294898",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294898",
+  "name": "PEACE RIVER AT FORT MEADE FL",
+  "waterbody": "PEACE RIVER AT FORT MEADE FL",
+  "state": "FL",
+  "latitude": 27.7514193,
+  "longitude": -81.7820266,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peace River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftmf1",
+  "slug": "usgs-02294898",
+  "noaaForecastPath": "data/noaa-forecast/FTMF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

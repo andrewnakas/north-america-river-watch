@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07311000",
+  "key": "07311000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07311000",
+  "name": "East Cache Creek near Walters, OK",
+  "waterbody": "East Cache Creek near Walters, OK",
+  "state": "OK",
+  "latitude": 34.36230747,
+  "longitude": -98.2825468,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Cache Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlto2",
+  "slug": "usgs-07311000",
+  "noaaForecastPath": "data/noaa-forecast/WLTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

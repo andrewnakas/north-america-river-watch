@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05520500",
+  "key": "05520500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05520500",
+  "name": "KANKAKEE RIVER AT MOMENCE, IL",
+  "waterbody": "KANKAKEE RIVER AT MOMENCE, IL",
+  "state": "IL",
+  "latitude": 41.15994444,
+  "longitude": -87.66875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kankakee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/momi2",
+  "slug": "usgs-05520500",
+  "noaaForecastPath": "data/noaa-forecast/MOMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08380500",
+  "key": "08380500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08380500",
+  "name": "GALLINAS CREEK NEAR MONTEZUMA, NM",
+  "waterbody": "GALLINAS CREEK NEAR MONTEZUMA, NM",
+  "state": "NM",
+  "latitude": 35.65199444,
+  "longitude": -105.3188306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTZN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gallinas Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtzn5",
+  "slug": "usgs-08380500",
+  "noaaForecastPath": "data/noaa-forecast/MTZN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

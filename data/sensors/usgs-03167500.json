@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03167500",
+  "key": "03167500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03167500",
+  "name": "BIG REED ISLAND CREEK NEAR ALLISONIA, VA",
+  "waterbody": "BIG REED ISLAND CREEK NEAR ALLISONIA, VA",
+  "state": "VA",
+  "latitude": 36.88901335,
+  "longitude": -80.72757,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03167500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

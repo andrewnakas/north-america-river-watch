@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07381235",
+  "key": "07381235",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381235",
+  "name": "GIWW West of Bayou Lafourche at Larose, LA",
+  "waterbody": "GIWW West of Bayou Lafourche at Larose, LA",
+  "state": "LA",
+  "latitude": 29.56888889,
+  "longitude": -90.3852778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IWLL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gulf Intracoastal Waterway",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iwll1",
+  "slug": "usgs-07381235",
+  "noaaForecastPath": "data/noaa-forecast/IWLL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

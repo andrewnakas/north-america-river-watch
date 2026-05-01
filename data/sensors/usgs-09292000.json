@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09292000",
+  "key": "09292000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09292000",
+  "name": "YELLOWSTONE R @ BRIDGE CMPGRND NR ALTONAH, UT",
+  "waterbody": "YELLOWSTONE R @ BRIDGE CMPGRND NR ALTONAH, UT",
+  "state": "UT",
+  "latitude": 40.5463369,
+  "longitude": -110.333771,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09292000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

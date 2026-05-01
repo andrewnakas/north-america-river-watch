@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09481770",
+  "key": "09481770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09481770",
+  "name": "SANTA CRUZ RIVER NEAR AMADO, AZ",
+  "waterbody": "SANTA CRUZ RIVER NEAR AMADO, AZ",
+  "state": "AZ",
+  "latitude": 31.7447222,
+  "longitude": -111.0363889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09481770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

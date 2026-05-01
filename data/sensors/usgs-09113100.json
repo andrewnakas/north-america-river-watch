@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09113100",
+  "key": "09113100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09113100",
+  "name": "CASTLE CREEK ABOVE MOUTH NEAR BALDWIN, CO",
+  "waterbody": "CASTLE CREEK ABOVE MOUTH NEAR BALDWIN, CO",
+  "state": "CO",
+  "latitude": 38.76916079,
+  "longitude": -107.084493,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09113100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10148200",
+  "key": "10148200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10148200",
+  "name": "TIE FORK NEAR SOLDIER SUMMIT, UT",
+  "waterbody": "TIE FORK NEAR SOLDIER SUMMIT, UT",
+  "state": "UT",
+  "latitude": 39.94995766,
+  "longitude": -111.2168391,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10148200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

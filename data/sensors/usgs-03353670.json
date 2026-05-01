@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353670",
+  "key": "03353670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353670",
+  "name": "WHITE LICK CREEK NEAR BROWNSBURG, IN",
+  "waterbody": "WHITE LICK CREEK NEAR BROWNSBURG, IN",
+  "state": "IN",
+  "latitude": 39.8655,
+  "longitude": -86.3947778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BROI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Lick Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/broi3",
+  "slug": "usgs-03353670",
+  "noaaForecastPath": "data/noaa-forecast/BROI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

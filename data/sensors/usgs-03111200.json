@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03111200",
+  "key": "03111200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03111200",
+  "name": "Dunkle Run near Claysville, PA",
+  "waterbody": "Dunkle Run near Claysville, PA",
+  "state": "PA",
+  "latitude": 40.199516,
+  "longitude": -80.4403444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03111200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

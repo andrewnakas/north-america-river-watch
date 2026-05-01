@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06348500",
+  "key": "06348500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06348500",
+  "name": "SWEETBRIAR CREEK NEAR JUDSON, ND",
+  "waterbody": "SWEETBRIAR CREEK NEAR JUDSON, ND",
+  "state": "ND",
+  "latitude": 46.85106476,
+  "longitude": -101.2532875,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06348500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

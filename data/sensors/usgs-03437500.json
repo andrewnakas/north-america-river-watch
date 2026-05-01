@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03437500",
+  "key": "03437500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03437500",
+  "name": "SOUTH FORK LITTLE RIVER AT HOPKINSVILLE, KY",
+  "waterbody": "SOUTH FORK LITTLE RIVER AT HOPKINSVILLE, KY",
+  "state": "KY",
+  "latitude": 36.8394899,
+  "longitude": -87.481397,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HPKK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Little River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hpkk2",
+  "slug": "usgs-03437500",
+  "noaaForecastPath": "data/noaa-forecast/HPKK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

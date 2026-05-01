@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10265100",
+  "key": "10265100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10265100",
+  "name": "DEADMAN C A BIG SPRINGS NR CRESTVIEW CA",
+  "waterbody": "DEADMAN C A BIG SPRINGS NR CRESTVIEW CA",
+  "state": "CA",
+  "latitude": 37.75027778,
+  "longitude": -118.9394444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCJC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deadman Creek (CA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcjc1",
+  "slug": "usgs-10265100",
+  "noaaForecastPath": "data/noaa-forecast/DCJC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

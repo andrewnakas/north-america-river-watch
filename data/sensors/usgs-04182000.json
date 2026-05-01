@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04182000",
+  "key": "04182000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04182000",
+  "name": "ST. MARYS RIVER NEAR FORT WAYNE, IN",
+  "waterbody": "ST. MARYS RIVER NEAR FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 40.9877993,
+  "longitude": -85.1118772,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SASI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Marys River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sasi3",
+  "slug": "usgs-04182000",
+  "noaaForecastPath": "data/noaa-forecast/SASI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

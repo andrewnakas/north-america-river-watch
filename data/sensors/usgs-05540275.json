@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05540275",
+  "key": "05540275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540275",
+  "name": "SPRING BROOK AT 87TH STREET NEAR NAPERVILLE, IL",
+  "waterbody": "SPRING BROOK AT 87TH STREET NEAR NAPERVILLE, IL",
+  "state": "IL",
+  "latitude": 41.7258972,
+  "longitude": -88.1631611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spgi2",
+  "slug": "usgs-05540275",
+  "noaaForecastPath": "data/noaa-forecast/SPGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

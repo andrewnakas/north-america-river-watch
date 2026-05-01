@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08405105",
+  "key": "08405105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08405105",
+  "name": "DARK CANYON DRAW NEAR WHITES CITY, NM",
+  "waterbody": "DARK CANYON DRAW NEAR WHITES CITY, NM",
+  "state": "NM",
+  "latitude": 32.29043056,
+  "longitude": -104.3491667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DKCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dark Canyon 8 miles N of Whites City",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dkcn5",
+  "slug": "usgs-08405105",
+  "noaaForecastPath": "data/noaa-forecast/DKCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

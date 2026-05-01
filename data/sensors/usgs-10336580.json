@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10336580",
+  "key": "10336580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336580",
+  "name": "UPPER TRUCKEE RV AT S UPPER TRUCKEE RD NR MEYERS",
+  "waterbody": "UPPER TRUCKEE RV AT S UPPER TRUCKEE RD NR MEYERS",
+  "state": "CA",
+  "latitude": 38.79629598,
+  "longitude": -120.0190718,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10336580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

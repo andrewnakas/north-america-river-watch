@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05540250",
+  "key": "05540250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540250",
+  "name": "EAST BRANCH DU PAGE RIVER AT BOLINGBROOK, IL",
+  "waterbody": "EAST BRANCH DU PAGE RIVER AT BOLINGBROOK, IL",
+  "state": "IL",
+  "latitude": 41.71805556,
+  "longitude": -88.0705556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Du Page River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boli2",
+  "slug": "usgs-05540250",
+  "noaaForecastPath": "data/noaa-forecast/BOLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

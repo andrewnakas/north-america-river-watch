@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06340900",
+  "key": "06340900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06340900",
+  "name": "MISSOURI RIVER NEAR HENSLER, ND",
+  "waterbody": "MISSOURI RIVER NEAR HENSLER, ND",
+  "state": "ND",
+  "latitude": 47.28027778,
+  "longitude": -101.1852778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06340900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

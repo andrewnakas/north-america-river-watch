@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08308025",
+  "key": "08308025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08308025",
+  "name": "RIO TESUQUE AT GRANT BOUNDARY AT TESUQUE, NM",
+  "waterbody": "RIO TESUQUE AT GRANT BOUNDARY AT TESUQUE, NM",
+  "state": "NM",
+  "latitude": 35.7669731,
+  "longitude": -105.9380771,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08308025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

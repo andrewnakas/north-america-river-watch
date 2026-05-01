@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06932000",
+  "key": "06932000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06932000",
+  "name": "Little Piney Creek at Newburg, MO",
+  "waterbody": "Little Piney Creek at Newburg, MO",
+  "state": "MO",
+  "latitude": 37.90952778,
+  "longitude": -91.9033333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEWM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Piney Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/newm7",
+  "slug": "usgs-06932000",
+  "noaaForecastPath": "data/noaa-forecast/NEWM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08474108",
+  "key": "08474108",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08474108",
+  "name": "N Main Drain at Manzano St, Brownsville, TX",
+  "waterbody": "N Main Drain at Manzano St, Brownsville, TX",
+  "state": "TX",
+  "latitude": 25.89402778,
+  "longitude": -97.4528889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08474108",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

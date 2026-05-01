@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04274000",
+  "key": "04274000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04274000",
+  "name": "W BR AUSABLE R NR LAKE PLACID NY",
+  "waterbody": "W BR AUSABLE R NR LAKE PLACID NY",
+  "state": "NY",
+  "latitude": 44.3109722,
+  "longitude": -73.9156944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04274000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

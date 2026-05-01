@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157110",
+  "key": "13157110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157110",
+  "name": "BLEDSOE FARM PUMPING PLANT NR HAMMETT ID",
+  "waterbody": "BLEDSOE FARM PUMPING PLANT NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.94555556,
+  "longitude": -115.54,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

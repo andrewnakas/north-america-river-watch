@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12366500",
+  "key": "12366500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12366500",
+  "name": "Flathead River at Foys Bend nr Kalispell MT",
+  "waterbody": "Flathead River at Foys Bend nr Kalispell MT",
+  "state": "MT",
+  "latitude": 48.1543111,
+  "longitude": -114.248925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12366500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

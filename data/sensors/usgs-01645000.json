@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01645000",
+  "key": "01645000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01645000",
+  "name": "SENECA CREEK AT DAWSONVILLE, MD",
+  "waterbody": "SENECA CREEK AT DAWSONVILLE, MD",
+  "state": "MD",
+  "latitude": 39.12808333,
+  "longitude": -77.33577778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAWM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seneca Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dawm2",
+  "slug": "usgs-01645000",
+  "noaaForecastPath": "data/noaa-forecast/DAWM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

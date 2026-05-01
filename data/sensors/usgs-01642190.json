@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01642190",
+  "key": "01642190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01642190",
+  "name": "MONOCACY RIVER AT MONOCACY BLVD AT FREDERICK, MD",
+  "waterbody": "MONOCACY RIVER AT MONOCACY BLVD AT FREDERICK, MD",
+  "state": "MD",
+  "latitude": 39.443583,
+  "longitude": -77.382278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRMM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monocacy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frmm2",
+  "slug": "usgs-01642190",
+  "noaaForecastPath": "data/noaa-forecast/FRMM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

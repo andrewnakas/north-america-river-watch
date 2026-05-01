@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04057813",
+  "key": "04057813",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04057813",
+  "name": "GREENWOOD DIVERSION NEAR GREENWOOD, MI",
+  "waterbody": "GREENWOOD DIVERSION NEAR GREENWOOD, MI",
+  "state": "MI",
+  "latitude": 46.43438238,
+  "longitude": -87.7695795,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GWDM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Escanaba River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gwdm4",
+  "slug": "usgs-04057813",
+  "noaaForecastPath": "data/noaa-forecast/GWDM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

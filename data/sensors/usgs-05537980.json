@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05537980",
+  "key": "05537980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05537980",
+  "name": "DES PLAINES RIVER AT ROUTE 53 AT JOLIET, IL",
+  "waterbody": "DES PLAINES RIVER AT ROUTE 53 AT JOLIET, IL",
+  "state": "IL",
+  "latitude": 41.5364722,
+  "longitude": -88.0836944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Plaines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrsi2",
+  "slug": "usgs-05537980",
+  "noaaForecastPath": "data/noaa-forecast/JRSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

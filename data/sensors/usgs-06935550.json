@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06935550",
+  "key": "06935550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06935550",
+  "name": "Missouri River near Labadie, MO",
+  "waterbody": "Missouri River near Labadie, MO",
+  "state": "MO",
+  "latitude": 38.5658333,
+  "longitude": -90.8391667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06935550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

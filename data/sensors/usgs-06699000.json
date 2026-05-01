@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06699000",
+  "key": "06699000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06699000",
+  "name": "ROCK CREEK NEAR JEFFERSON, CO",
+  "waterbody": "ROCK CREEK NEAR JEFFERSON, CO",
+  "state": "CO",
+  "latitude": 39.29144444,
+  "longitude": -105.6976111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06699000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

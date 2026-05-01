@@ -1,0 +1,19 @@
+{
+  "id": "usgs:401723105400000",
+  "key": "401723105400000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "401723105400000",
+  "name": "ANDREWS CREEK-LOCH VALE-RMNP",
+  "waterbody": "ANDREWS CREEK-LOCH VALE-RMNP",
+  "state": "CO",
+  "latitude": 40.29,
+  "longitude": -105.6666667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-401723105400000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

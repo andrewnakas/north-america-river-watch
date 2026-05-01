@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02257790",
+  "key": "02257790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02257790",
+  "name": "HARNEY POND CANAL ABOVE S-71 NR LAKEPORT, FL",
+  "waterbody": "HARNEY POND CANAL ABOVE S-71 NR LAKEPORT, FL",
+  "state": "FL",
+  "latitude": 27.0389222,
+  "longitude": -81.0714972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02257790",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02173299",
+  "key": "02173299",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02173299",
+  "name": "NORTH FORK EDISTO RIVER AT SC394, ABOVE NORTH, SC",
+  "waterbody": "NORTH FORK EDISTO RIVER AT SC394, ABOVE NORTH, SC",
+  "state": "SC",
+  "latitude": 33.60702778,
+  "longitude": -81.1356111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFES1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N. Fork Edisto River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfes1",
+  "slug": "usgs-02173299",
+  "noaaForecastPath": "data/noaa-forecast/NFES1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

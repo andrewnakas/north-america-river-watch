@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07307800",
+  "key": "07307800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07307800",
+  "name": "Pease Rv nr Childress, TX",
+  "waterbody": "Pease Rv nr Childress, TX",
+  "state": "TX",
+  "latitude": 34.2275718,
+  "longitude": -100.0737179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pease River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdpt2",
+  "slug": "usgs-07307800",
+  "noaaForecastPath": "data/noaa-forecast/CDPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465900",
+  "key": "01465900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465900",
+  "name": "SWB Rancocas C at Eayrestown NJ",
+  "waterbody": "SWB Rancocas C at Eayrestown NJ",
+  "state": "NJ",
+  "latitude": 39.94694444,
+  "longitude": -74.7991667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

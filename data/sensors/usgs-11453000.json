@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11453000",
+  "key": "11453000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11453000",
+  "name": "YOLO BYPASS NR WOODLAND CA",
+  "waterbody": "YOLO BYPASS NR WOODLAND CA",
+  "state": "CA",
+  "latitude": 38.6776572,
+  "longitude": -121.6440924,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11453000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

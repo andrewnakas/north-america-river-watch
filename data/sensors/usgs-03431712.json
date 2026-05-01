@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03431712",
+  "key": "03431712",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431712",
+  "name": "CUMBERLAND RIVER AT BRILEY PKWY AT COCKRILL BEND",
+  "waterbody": "CUMBERLAND RIVER AT BRILEY PKWY AT COCKRILL BEND",
+  "state": "TN",
+  "latitude": 36.1833333,
+  "longitude": -86.8652222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BPYT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bpyt1",
+  "slug": "usgs-03431712",
+  "noaaForecastPath": "data/noaa-forecast/BPYT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08104700",
+  "key": "08104700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08104700",
+  "name": "N Fk San Gabriel Rv nr Georgetown, TX",
+  "waterbody": "N Fk San Gabriel Rv nr Georgetown, TX",
+  "state": "TX",
+  "latitude": 30.6618646,
+  "longitude": -97.7114164,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08104700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

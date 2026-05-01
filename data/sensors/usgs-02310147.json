@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02310147",
+  "key": "02310147",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310147",
+  "name": "HOLLIN CREEK NEAR TARPON SPRINGS FL",
+  "waterbody": "HOLLIN CREEK NEAR TARPON SPRINGS FL",
+  "state": "FL",
+  "latitude": 28.16251317,
+  "longitude": -82.710378,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02310147",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

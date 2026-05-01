@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13333000",
+  "key": "13333000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13333000",
+  "name": "GRANDE RONDE RIVER AT TROY, OR",
+  "waterbody": "GRANDE RONDE RIVER AT TROY, OR",
+  "state": "OR",
+  "latitude": 45.9457019,
+  "longitude": -117.4510089,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRYO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grande Ronde River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tryo3",
+  "slug": "usgs-13333000",
+  "noaaForecastPath": "data/noaa-forecast/TRYO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

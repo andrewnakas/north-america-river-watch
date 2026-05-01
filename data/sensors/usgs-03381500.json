@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03381500",
+  "key": "03381500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03381500",
+  "name": "LITTLE WABASH RIVER AT CARMI, IL",
+  "waterbody": "LITTLE WABASH RIVER AT CARMI, IL",
+  "state": "IL",
+  "latitude": 38.06055556,
+  "longitude": -88.1572222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03381500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

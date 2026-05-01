@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10309030",
+  "key": "10309030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10309030",
+  "name": "INDIAN CK AT DIAMOND VALLEY NR PAYNESVILLE, CA",
+  "waterbody": "INDIAN CK AT DIAMOND VALLEY NR PAYNESVILLE, CA",
+  "state": "CA",
+  "latitude": 38.77684935,
+  "longitude": -119.7598983,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10309030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

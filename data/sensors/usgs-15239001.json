@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15239001",
+  "key": "15239001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15239001",
+  "name": "BRADLEY R BL DAM NR HOMER AK",
+  "waterbody": "BRADLEY R BL DAM NR HOMER AK",
+  "state": "AK",
+  "latitude": 59.7577407,
+  "longitude": -150.8526778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bradley River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brra2",
+  "slug": "usgs-15239001",
+  "noaaForecastPath": "data/noaa-forecast/BRRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

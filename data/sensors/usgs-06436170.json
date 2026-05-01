@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06436170",
+  "key": "06436170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06436170",
+  "name": "WHITEWOOD CREEK AT DEADWOOD, SD",
+  "waterbody": "WHITEWOOD CREEK AT DEADWOOD, SD",
+  "state": "SD",
+  "latitude": 44.37994546,
+  "longitude": -103.724182,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWDS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwds2",
+  "slug": "usgs-06436170",
+  "noaaForecastPath": "data/noaa-forecast/DWDS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

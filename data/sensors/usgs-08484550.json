@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08484550",
+  "key": "08484550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08484550",
+  "name": "LOST RIVER NEAR HOLLOMAN AIR FORCE BASE, NM",
+  "waterbody": "LOST RIVER NEAR HOLLOMAN AIR FORCE BASE, NM",
+  "state": "NM",
+  "latitude": 32.89413889,
+  "longitude": -106.12750833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08484550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

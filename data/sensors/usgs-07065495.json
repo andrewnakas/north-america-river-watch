@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07065495",
+  "key": "07065495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07065495",
+  "name": "Jacks Fork at Alley Spring, MO",
+  "waterbody": "Jacks Fork at Alley Spring, MO",
+  "state": "MO",
+  "latitude": 37.14816667,
+  "longitude": -91.4430833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALYM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jacks Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alym7",
+  "slug": "usgs-07065495",
+  "noaaForecastPath": "data/noaa-forecast/ALYM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

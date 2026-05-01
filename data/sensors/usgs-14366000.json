@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14366000",
+  "key": "14366000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14366000",
+  "name": "APPLEGATE RIVER NEAR APPLEGATE, OR",
+  "waterbody": "APPLEGATE RIVER NEAR APPLEGATE, OR",
+  "state": "OR",
+  "latitude": 42.2415113,
+  "longitude": -123.1400485,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Applegate River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/apro3",
+  "slug": "usgs-14366000",
+  "noaaForecastPath": "data/noaa-forecast/APRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

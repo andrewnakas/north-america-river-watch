@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06405800",
+  "key": "06405800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06405800",
+  "name": "BEAR GULCH NEAR HAYWARD, SD",
+  "waterbody": "BEAR GULCH NEAR HAYWARD, SD",
+  "state": "SD",
+  "latitude": 43.79193375,
+  "longitude": -103.3474139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06405800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.377Z"
+}

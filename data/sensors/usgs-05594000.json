@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05594000",
+  "key": "05594000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05594000",
+  "name": "SHOAL CREEK NEAR BREESE, IL",
+  "waterbody": "SHOAL CREEK NEAR BREESE, IL",
+  "state": "IL",
+  "latitude": 38.6097222,
+  "longitude": -89.4947222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05594000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

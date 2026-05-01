@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08069000",
+  "key": "08069000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08069000",
+  "name": "Cypress Ck nr Westfield, TX",
+  "waterbody": "Cypress Ck nr Westfield, TX",
+  "state": "TX",
+  "latitude": 30.0357753,
+  "longitude": -95.428827,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfdt2",
+  "slug": "usgs-08069000",
+  "noaaForecastPath": "data/noaa-forecast/WFDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

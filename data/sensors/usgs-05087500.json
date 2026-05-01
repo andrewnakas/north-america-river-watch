@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05087500",
+  "key": "05087500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05087500",
+  "name": "MIDDLE RIVER AT ARGYLE, MN",
+  "waterbody": "MIDDLE RIVER AT ARGYLE, MN",
+  "state": "MN",
+  "latitude": 48.34007687,
+  "longitude": -96.8165174,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AGYM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/agym5",
+  "slug": "usgs-05087500",
+  "noaaForecastPath": "data/noaa-forecast/AGYM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

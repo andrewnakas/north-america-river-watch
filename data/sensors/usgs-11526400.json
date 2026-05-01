@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11526400",
+  "key": "11526400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11526400",
+  "name": "TRINITY R AB NF TRINITY R NR HELENA CA",
+  "waterbody": "TRINITY R AB NF TRINITY R NR HELENA CA",
+  "state": "CA",
+  "latitude": 40.76649958,
+  "longitude": -123.1144415,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trnc1",
+  "slug": "usgs-11526400",
+  "noaaForecastPath": "data/noaa-forecast/TRNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

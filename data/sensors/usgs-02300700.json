@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02300700",
+  "key": "02300700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300700",
+  "name": "BULLFROG CREEK NEAR WIMAUMA FL",
+  "waterbody": "BULLFROG CREEK NEAR WIMAUMA FL",
+  "state": "FL",
+  "latitude": 27.79197565,
+  "longitude": -82.35208661,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02300700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

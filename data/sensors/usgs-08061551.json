@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08061551",
+  "key": "08061551",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08061551",
+  "name": "E Fk Trinity Rv blw Lk Ray Hubbard nr Forney, TX",
+  "waterbody": "E Fk Trinity Rv blw Lk Ray Hubbard nr Forney, TX",
+  "state": "TX",
+  "latitude": 32.7986111,
+  "longitude": -96.4941667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Texas Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frht2",
+  "slug": "usgs-08061551",
+  "noaaForecastPath": "data/noaa-forecast/FRHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

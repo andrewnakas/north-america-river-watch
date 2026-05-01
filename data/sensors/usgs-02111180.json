@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02111180",
+  "key": "02111180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02111180",
+  "name": "ELK CREEK AT ELKVILLE, NC",
+  "waterbody": "ELK CREEK AT ELKVILLE, NC",
+  "state": "NC",
+  "latitude": 36.07138889,
+  "longitude": -81.4030556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EKVN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ekvn7",
+  "slug": "usgs-02111180",
+  "noaaForecastPath": "data/noaa-forecast/EKVN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05400650",
+  "key": "05400650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05400650",
+  "name": "LITTLE PLOVER RIVER AT PLOVER, WI",
+  "waterbody": "LITTLE PLOVER RIVER AT PLOVER, WI",
+  "state": "WI",
+  "latitude": 44.47388889,
+  "longitude": -89.5288889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05400650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

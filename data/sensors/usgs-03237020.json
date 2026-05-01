@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03237020",
+  "key": "03237020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03237020",
+  "name": "Scioto River at Piketon OH",
+  "waterbody": "Scioto River at Piketon OH",
+  "state": "OH",
+  "latitude": 39.07006954,
+  "longitude": -83.0196224,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKTO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scioto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkto1",
+  "slug": "usgs-03237020",
+  "noaaForecastPath": "data/noaa-forecast/PKTO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08104866",
+  "key": "08104866",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08104866",
+  "name": "S Fk San Gabriel Rv at SH 1869 nr Liberty Hill, TX",
+  "waterbody": "S Fk San Gabriel Rv at SH 1869 nr Liberty Hill, TX",
+  "state": "TX",
+  "latitude": 30.66,
+  "longitude": -97.9378,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LHGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork San Gabriel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lhgt2",
+  "slug": "usgs-08104866",
+  "noaaForecastPath": "data/noaa-forecast/LHGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

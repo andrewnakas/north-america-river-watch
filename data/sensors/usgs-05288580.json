@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05288580",
+  "key": "05288580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05288580",
+  "name": "RICE CREEK BLW OLD HWY. 8 IN MOUNDS VIEW, MN",
+  "waterbody": "RICE CREEK BLW OLD HWY. 8 IN MOUNDS VIEW, MN",
+  "state": "MN",
+  "latitude": 45.092413,
+  "longitude": -93.200369,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCUM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rice Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcum5",
+  "slug": "usgs-05288580",
+  "noaaForecastPath": "data/noaa-forecast/RCUM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

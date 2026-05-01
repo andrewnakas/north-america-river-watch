@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05595000",
+  "key": "05595000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595000",
+  "name": "KASKASKIA RIVER AT NEW ATHENS, IL",
+  "waterbody": "KASKASKIA RIVER AT NEW ATHENS, IL",
+  "state": "IL",
+  "latitude": 38.3197222,
+  "longitude": -89.8883333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NASI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaskaskia River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nasi2",
+  "slug": "usgs-05595000",
+  "noaaForecastPath": "data/noaa-forecast/NASI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

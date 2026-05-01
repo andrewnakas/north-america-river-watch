@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10260400",
+  "key": "10260400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10260400",
+  "name": "CUSHENBURY CANYON C NR LUCERNE VALLEY CA",
+  "waterbody": "CUSHENBURY CANYON C NR LUCERNE VALLEY CA",
+  "state": "CA",
+  "latitude": 34.34777778,
+  "longitude": -116.8458333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10260400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

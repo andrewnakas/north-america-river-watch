@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07242350",
+  "key": "07242350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07242350",
+  "name": "Deep Fork near Arcadia, OK",
+  "waterbody": "Deep Fork near Arcadia, OK",
+  "state": "OK",
+  "latitude": 35.64727889,
+  "longitude": -97.3600365,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACDO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acdo2",
+  "slug": "usgs-07242350",
+  "noaaForecastPath": "data/noaa-forecast/ACDO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

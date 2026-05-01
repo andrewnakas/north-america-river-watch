@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01456212",
+  "key": "01456212",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01456212",
+  "name": "Musconetcong Rv US Old Tpke Rd nr Beattystown NJ",
+  "waterbody": "Musconetcong Rv US Old Tpke Rd nr Beattystown NJ",
+  "state": "NJ",
+  "latitude": 40.80344444,
+  "longitude": -74.8628611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01456212",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

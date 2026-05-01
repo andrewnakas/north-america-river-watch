@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06412800",
+  "key": "06412800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06412800",
+  "name": "CLEGHORN SPGS N CHANNEL AT FISH HATCH AT RC, SD",
+  "waterbody": "CLEGHORN SPGS N CHANNEL AT FISH HATCH AT RC, SD",
+  "state": "SD",
+  "latitude": 44.05887666,
+  "longitude": -103.2987947,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06412800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

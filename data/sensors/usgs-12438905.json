@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12438905",
+  "key": "12438905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12438905",
+  "name": "NINEMILE CREEK AT EASTLAKE RD NEAR OROVILLE, WA",
+  "waterbody": "NINEMILE CREEK AT EASTLAKE RD NEAR OROVILLE, WA",
+  "state": "WA",
+  "latitude": 48.9703694,
+  "longitude": -119.4185194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ONMW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ninemile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/onmw1",
+  "slug": "usgs-12438905",
+  "noaaForecastPath": "data/noaa-forecast/ONMW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

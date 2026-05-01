@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05355092",
+  "key": "05355092",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05355092",
+  "name": "CANNON RIVER AT 9TH ST. BRIDGE IN CANNON FALLS, MN",
+  "waterbody": "CANNON RIVER AT 9TH ST. BRIDGE IN CANNON FALLS, MN",
+  "state": "MN",
+  "latitude": 44.516951,
+  "longitude": -92.912915,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFLM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cannon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cflm5",
+  "slug": "usgs-05355092",
+  "noaaForecastPath": "data/noaa-forecast/CFLM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

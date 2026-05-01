@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14048000",
+  "key": "14048000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14048000",
+  "name": "JOHN DAY RIVER AT MCDONALD FERRY, OR",
+  "waterbody": "JOHN DAY RIVER AT MCDONALD FERRY, OR",
+  "state": "OR",
+  "latitude": 45.5876278,
+  "longitude": -120.4094919,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14048000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

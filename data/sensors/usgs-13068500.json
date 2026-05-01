@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13068500",
+  "key": "13068500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13068500",
+  "name": "BLACKFOOT RIVER NR BLACKFOOT ID",
+  "waterbody": "BLACKFOOT RIVER NR BLACKFOOT ID",
+  "state": "ID",
+  "latitude": 43.13055556,
+  "longitude": -112.4766667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLFI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackfoot River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blfi1",
+  "slug": "usgs-13068500",
+  "noaaForecastPath": "data/noaa-forecast/BLFI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

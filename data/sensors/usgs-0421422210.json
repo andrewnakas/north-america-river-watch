@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0421422210",
+  "key": "0421422210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0421422210",
+  "name": "EIGHTEENMILE CREEK AT HAMBURG NY",
+  "waterbody": "EIGHTEENMILE CREEK AT HAMBURG NY",
+  "state": "NY",
+  "latitude": 42.70655556,
+  "longitude": -78.84925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eighteenmile Creek (NY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmbn6",
+  "slug": "usgs-0421422210",
+  "noaaForecastPath": "data/noaa-forecast/HMBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

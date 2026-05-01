@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04240200",
+  "key": "04240200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04240200",
+  "name": "NINEMILE CREEK AT CAMILLUS NY",
+  "waterbody": "NINEMILE CREEK AT CAMILLUS NY",
+  "state": "NY",
+  "latitude": 43.03916667,
+  "longitude": -76.3080556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04240200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

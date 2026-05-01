@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05506350",
+  "key": "05506350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05506350",
+  "name": "Middle Fork Salt River near Holliday, MO",
+  "waterbody": "Middle Fork Salt River near Holliday, MO",
+  "state": "MO",
+  "latitude": 39.5241111,
+  "longitude": -92.12775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PMZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Salt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pmzm7",
+  "slug": "usgs-05506350",
+  "noaaForecastPath": "data/noaa-forecast/PMZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

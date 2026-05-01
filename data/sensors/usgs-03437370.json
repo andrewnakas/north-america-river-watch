@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03437370",
+  "key": "03437370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03437370",
+  "name": "N FK LITTLE R AT WATER PLANT AT HOPKINSVILLE, KY",
+  "waterbody": "N FK LITTLE R AT WATER PLANT AT HOPKINSVILLE, KY",
+  "state": "KY",
+  "latitude": 36.8761561,
+  "longitude": -87.47195119,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLWK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Little River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlwk2",
+  "slug": "usgs-03437370",
+  "noaaForecastPath": "data/noaa-forecast/HLWK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

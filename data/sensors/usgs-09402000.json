@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09402000",
+  "key": "09402000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09402000",
+  "name": "LITTLE COLORADO RIVER NEAR CAMERON, AZ",
+  "waterbody": "LITTLE COLORADO RIVER NEAR CAMERON, AZ",
+  "state": "AZ",
+  "latitude": 35.9263819,
+  "longitude": -111.5673682,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Colorado River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcca3",
+  "slug": "usgs-09402000",
+  "noaaForecastPath": "data/noaa-forecast/LCCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

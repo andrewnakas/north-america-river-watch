@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0213462300",
+  "key": "0213462300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0213462300",
+  "name": "LUMBER RIVER AT FAIR BLUFF, NC",
+  "waterbody": "LUMBER RIVER AT FAIR BLUFF, NC",
+  "state": "NC",
+  "latitude": 34.31405519,
+  "longitude": -79.0383656,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FBLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lumber River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fbln7",
+  "slug": "usgs-0213462300",
+  "noaaForecastPath": "data/noaa-forecast/FBLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

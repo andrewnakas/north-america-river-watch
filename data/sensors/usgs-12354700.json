@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12354700",
+  "key": "12354700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12354700",
+  "name": "Clark Fork near Paradise, MT",
+  "waterbody": "Clark Fork near Paradise, MT",
+  "state": "MT",
+  "latitude": 47.32187569,
+  "longitude": -114.890966,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12354700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

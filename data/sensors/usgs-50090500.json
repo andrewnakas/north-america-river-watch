@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50090500",
+  "key": "50090500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50090500",
+  "name": "RIO MAUNABO AT LIZAS, PR",
+  "waterbody": "RIO MAUNABO AT LIZAS, PR",
+  "state": "PR",
+  "latitude": 18.027222,
+  "longitude": -65.94,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAUP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Maunabo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/maup4",
+  "slug": "usgs-50090500",
+  "noaaForecastPath": "data/noaa-forecast/MAUP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

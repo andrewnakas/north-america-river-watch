@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0205551460",
+  "key": "0205551460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0205551460",
+  "name": "LICK RUN ABOVE PATTON AVENUE AT ROANOKE, VA",
+  "waterbody": "LICK RUN ABOVE PATTON AVENUE AT ROANOKE, VA",
+  "state": "VA",
+  "latitude": 37.27794444,
+  "longitude": -79.9375556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RTRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trout Run Above 5th St. NW in Roanoke",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rtrv2",
+  "slug": "usgs-0205551460",
+  "noaaForecastPath": "data/noaa-forecast/RTRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06904010",
+  "key": "06904010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06904010",
+  "name": "Chariton River near Moulton, IA",
+  "waterbody": "Chariton River near Moulton, IA",
+  "state": "IA",
+  "latitude": 40.69252778,
+  "longitude": -92.7725833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOLI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chariton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/moli4",
+  "slug": "usgs-06904010",
+  "noaaForecastPath": "data/noaa-forecast/MOLI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

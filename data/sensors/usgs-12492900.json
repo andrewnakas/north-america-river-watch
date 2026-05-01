@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12492900",
+  "key": "12492900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12492900",
+  "name": "OAK CREEK ABOVE TIETON RIVER NEAR NACHES, WA",
+  "waterbody": "OAK CREEK ABOVE TIETON RIVER NEAR NACHES, WA",
+  "state": "WA",
+  "latitude": 46.7237694,
+  "longitude": -120.8146,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12492900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

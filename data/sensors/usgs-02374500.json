@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02374500",
+  "key": "02374500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02374500",
+  "name": "MURDER CREEK NEAR EVERGREEN AL",
+  "waterbody": "MURDER CREEK NEAR EVERGREEN AL",
+  "state": "AL",
+  "latitude": 31.41850006,
+  "longitude": -86.9866403,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVMA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Murder Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evma1",
+  "slug": "usgs-02374500",
+  "noaaForecastPath": "data/noaa-forecast/EVMA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

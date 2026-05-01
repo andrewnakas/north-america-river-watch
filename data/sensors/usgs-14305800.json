@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14305800",
+  "key": "14305800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14305800",
+  "name": "SILETZ RIVER NEAR SILETZ, OR",
+  "waterbody": "SILETZ RIVER NEAR SILETZ, OR",
+  "state": "OR",
+  "latitude": 44.7646,
+  "longitude": -123.9137972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14305800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

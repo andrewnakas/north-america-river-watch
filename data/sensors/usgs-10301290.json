@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10301290",
+  "key": "10301290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301290",
+  "name": "PERK/JOGGLES SLOUGH ABV CONFL WITH WALKER RV, NV",
+  "waterbody": "PERK/JOGGLES SLOUGH ABV CONFL WITH WALKER RV, NV",
+  "state": "NV",
+  "latitude": 39.1425,
+  "longitude": -119.1048194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10301290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

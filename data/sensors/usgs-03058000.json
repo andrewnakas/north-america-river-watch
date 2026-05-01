@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03058000",
+  "key": "03058000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03058000",
+  "name": "WEST FORK R BL STONEWALL JACKSON DAM NR WESTON, WV",
+  "waterbody": "WEST FORK R BL STONEWALL JACKSON DAM NR WESTON, WV",
+  "state": "WV",
+  "latitude": 39.00452778,
+  "longitude": -80.4733611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STJW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stjw2",
+  "slug": "usgs-03058000",
+  "noaaForecastPath": "data/noaa-forecast/STJW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

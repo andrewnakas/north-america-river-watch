@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073802245",
+  "key": "073802245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073802245",
+  "name": "Black Bayou E of Gonzales, LA",
+  "waterbody": "Black Bayou E of Gonzales, LA",
+  "state": "LA",
+  "latitude": 30.23741844,
+  "longitude": -90.8700972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBGL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbgl1",
+  "slug": "usgs-073802245",
+  "noaaForecastPath": "data/noaa-forecast/BBGL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

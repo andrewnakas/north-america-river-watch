@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09368000",
+  "key": "09368000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09368000",
+  "name": "SAN JUAN RIVER AT SHIPROCK, NM",
+  "waterbody": "SAN JUAN RIVER AT SHIPROCK, NM",
+  "state": "NM",
+  "latitude": 36.77666667,
+  "longitude": -108.6830556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHRN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Juan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shrn5",
+  "slug": "usgs-09368000",
+  "noaaForecastPath": "data/noaa-forecast/SHRN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

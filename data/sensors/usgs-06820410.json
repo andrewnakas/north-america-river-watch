@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06820410",
+  "key": "06820410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06820410",
+  "name": "One Hundred Two River near Bolckow, MO",
+  "waterbody": "One Hundred Two River near Bolckow, MO",
+  "state": "MO",
+  "latitude": 40.1135833,
+  "longitude": -94.8376111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06820410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

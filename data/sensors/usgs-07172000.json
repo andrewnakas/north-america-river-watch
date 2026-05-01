@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07172000",
+  "key": "07172000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07172000",
+  "name": "CANEY R NR ELGIN, KS",
+  "waterbody": "CANEY R NR ELGIN, KS",
+  "state": "KS",
+  "latitude": 37.00395556,
+  "longitude": -96.3166611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07172000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

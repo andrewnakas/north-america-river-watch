@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03417500",
+  "key": "03417500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03417500",
+  "name": "CUMBERLAND RIVER AT CELINA, TN",
+  "waterbody": "CUMBERLAND RIVER AT CELINA, TN",
+  "state": "TN",
+  "latitude": 36.5542507,
+  "longitude": -85.5143938,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLAT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clat1",
+  "slug": "usgs-03417500",
+  "noaaForecastPath": "data/noaa-forecast/CLAT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

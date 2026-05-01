@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10104700",
+  "key": "10104700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10104700",
+  "name": "LITTLE BEAR R BL DAVENPORT C NR AVON UT",
+  "waterbody": "LITTLE BEAR R BL DAVENPORT C NR AVON UT",
+  "state": "UT",
+  "latitude": 41.51243597,
+  "longitude": -111.8118852,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10104700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08190000",
+  "key": "08190000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08190000",
+  "name": "Nueces Rv at Laguna, TX",
+  "waterbody": "Nueces Rv at Laguna, TX",
+  "state": "TX",
+  "latitude": 29.42856679,
+  "longitude": -99.997287,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UVAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/uvat2",
+  "slug": "usgs-08190000",
+  "noaaForecastPath": "data/noaa-forecast/UVAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

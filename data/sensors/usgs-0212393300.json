@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212393300",
+  "key": "0212393300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212393300",
+  "name": "W. BR ROCKY R B MTH OF S PRONG R NR CORNELIUS, NC",
+  "waterbody": "W. BR ROCKY R B MTH OF S PRONG R NR CORNELIUS, NC",
+  "state": "NC",
+  "latitude": 35.46777778,
+  "longitude": -80.7902778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Rocky River NC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbrn7",
+  "slug": "usgs-0212393300",
+  "noaaForecastPath": "data/noaa-forecast/WBRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

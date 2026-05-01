@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02160300",
+  "key": "02160300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02160300",
+  "name": "ENOREE RIVER AT BATESVILLE, SC",
+  "waterbody": "ENOREE RIVER AT BATESVILLE, SC",
+  "state": "SC",
+  "latitude": 34.87175,
+  "longitude": -82.242728,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02160300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

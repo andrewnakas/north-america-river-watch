@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05480080",
+  "key": "05480080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05480080",
+  "name": "Lizard Creek near Fort Dodge, IA",
+  "waterbody": "Lizard Creek near Fort Dodge, IA",
+  "state": "IA",
+  "latitude": 42.52880556,
+  "longitude": -94.2566611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLZI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lizard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flzi4",
+  "slug": "usgs-05480080",
+  "noaaForecastPath": "data/noaa-forecast/FLZI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10352500",
+  "key": "10352500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10352500",
+  "name": "MCDERMITT CK NR MCDERMITT, NV",
+  "waterbody": "MCDERMITT CK NR MCDERMITT, NV",
+  "state": "NV",
+  "latitude": 41.9665572,
+  "longitude": -117.831812,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mcdermitt Creek nr Mcdermitt, NV",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdcn2",
+  "slug": "usgs-10352500",
+  "noaaForecastPath": "data/noaa-forecast/MDCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

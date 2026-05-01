@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02091500",
+  "key": "02091500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02091500",
+  "name": "CONTENTNEA CREEK AT HOOKERTON, NC",
+  "waterbody": "CONTENTNEA CREEK AT HOOKERTON, NC",
+  "state": "NC",
+  "latitude": 35.42888889,
+  "longitude": -77.5825,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Contentnea Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hokn7",
+  "slug": "usgs-02091500",
+  "noaaForecastPath": "data/noaa-forecast/HOKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

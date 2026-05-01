@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08163720",
+  "key": "08163720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08163720",
+  "name": "Clarks Ck at US 77 nr Sweet Home, TX",
+  "waterbody": "Clarks Ck at US 77 nr Sweet Home, TX",
+  "state": "TX",
+  "latitude": 29.26886389,
+  "longitude": -96.9727694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08163720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02203900",
+  "key": "02203900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02203900",
+  "name": "SOUTH RIVER AT FLAKES MILL ROAD NR ATLANTA, GA",
+  "waterbody": "SOUTH RIVER AT FLAKES MILL ROAD NR ATLANTA, GA",
+  "state": "GA",
+  "latitude": 33.66577778,
+  "longitude": -84.224,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFMG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfmg1",
+  "slug": "usgs-02203900",
+  "noaaForecastPath": "data/noaa-forecast/SFMG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

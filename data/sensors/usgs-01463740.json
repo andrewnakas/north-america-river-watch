@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01463740",
+  "key": "01463740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01463740",
+  "name": "Shabakunk C at Sylva Lake Dam at Ewingville NJ",
+  "waterbody": "Shabakunk C at Sylva Lake Dam at Ewingville NJ",
+  "state": "NJ",
+  "latitude": 40.2711111,
+  "longitude": -74.7733333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWGN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shabakunk Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewgn4",
+  "slug": "usgs-01463740",
+  "noaaForecastPath": "data/noaa-forecast/EWGN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

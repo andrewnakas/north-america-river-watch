@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06349006",
+  "key": "06349006",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349006",
+  "name": "HEART RIVER AT RAILROAD BRIDGE BL MANDAN, ND",
+  "waterbody": "HEART RIVER AT RAILROAD BRIDGE BL MANDAN, ND",
+  "state": "ND",
+  "latitude": 46.8202714,
+  "longitude": -100.8659642,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06349006",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05458900",
+  "key": "05458900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05458900",
+  "name": "West Fork Cedar River at Finchford, IA",
+  "waterbody": "West Fork Cedar River at Finchford, IA",
+  "state": "IA",
+  "latitude": 42.62942778,
+  "longitude": -92.5435222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FNHI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fnhi4",
+  "slug": "usgs-05458900",
+  "noaaForecastPath": "data/noaa-forecast/FNHI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

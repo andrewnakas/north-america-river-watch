@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08133500",
+  "key": "08133500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08133500",
+  "name": "N Concho Rv at Sterling City, TX",
+  "waterbody": "N Concho Rv at Sterling City, TX",
+  "state": "TX",
+  "latitude": 31.83013918,
+  "longitude": -100.9937215,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Concho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srct2",
+  "slug": "usgs-08133500",
+  "noaaForecastPath": "data/noaa-forecast/SRCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

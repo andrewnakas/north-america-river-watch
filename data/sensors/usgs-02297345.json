@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02297345",
+  "key": "02297345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02297345",
+  "name": "PEACE RIVER AT PLATT FL",
+  "waterbody": "PEACE RIVER AT PLATT FL",
+  "state": "FL",
+  "latitude": 27.08666667,
+  "longitude": -81.9994444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peace River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plpf1",
+  "slug": "usgs-02297345",
+  "noaaForecastPath": "data/noaa-forecast/PLPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

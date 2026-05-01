@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04188252",
+  "key": "04188252",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04188252",
+  "name": "Shallow Run nr Dunkirk OH",
+  "waterbody": "Shallow Run nr Dunkirk OH",
+  "state": "OH",
+  "latitude": 40.76138889,
+  "longitude": -83.5952778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNKO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanchard River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnko1",
+  "slug": "usgs-04188252",
+  "noaaForecastPath": "data/noaa-forecast/DNKO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

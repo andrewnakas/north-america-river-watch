@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01335754",
+  "key": "01335754",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01335754",
+  "name": "HUDSON RIVER ABOVE LOCK 1 NEAR WATERFORD NY",
+  "waterbody": "HUDSON RIVER ABOVE LOCK 1 NEAR WATERFORD NY",
+  "state": "NY",
+  "latitude": 42.82955556,
+  "longitude": -73.66625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTFN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hudson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtfn6",
+  "slug": "usgs-01335754",
+  "noaaForecastPath": "data/noaa-forecast/WTFN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

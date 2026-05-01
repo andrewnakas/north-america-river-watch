@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05548105",
+  "key": "05548105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05548105",
+  "name": "NIPPERSINK CREEK ABOVE WONDER LAKE, IL",
+  "waterbody": "NIPPERSINK CREEK ABOVE WONDER LAKE, IL",
+  "state": "IL",
+  "latitude": 42.3853472,
+  "longitude": -88.3697083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNNI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nippersink Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnni2",
+  "slug": "usgs-05548105",
+  "noaaForecastPath": "data/noaa-forecast/WNNI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

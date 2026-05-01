@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06040800",
+  "key": "06040800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06040800",
+  "name": "Madison River ab powerplant nr McAllister MT",
+  "waterbody": "Madison River ab powerplant nr McAllister MT",
+  "state": "MT",
+  "latitude": 45.4865944,
+  "longitude": -111.6338583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRPM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Madison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrpm8",
+  "slug": "usgs-06040800",
+  "noaaForecastPath": "data/noaa-forecast/MRPM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

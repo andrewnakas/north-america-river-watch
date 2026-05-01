@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04230500",
+  "key": "04230500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04230500",
+  "name": "OATKA CREEK AT GARBUTT NY",
+  "waterbody": "OATKA CREEK AT GARBUTT NY",
+  "state": "NY",
+  "latitude": 43.01,
+  "longitude": -77.79138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oatka Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grbn6",
+  "slug": "usgs-04230500",
+  "noaaForecastPath": "data/noaa-forecast/GRBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

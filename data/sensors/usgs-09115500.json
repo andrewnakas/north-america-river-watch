@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09115500",
+  "key": "09115500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09115500",
+  "name": "TOMICHI CREEK AT SARGENTS, CO",
+  "waterbody": "TOMICHI CREEK AT SARGENTS, CO",
+  "state": "CO",
+  "latitude": 38.395028,
+  "longitude": -106.422625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tomichi Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmcc2",
+  "slug": "usgs-09115500",
+  "noaaForecastPath": "data/noaa-forecast/TMCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

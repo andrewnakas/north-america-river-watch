@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02411930",
+  "key": "02411930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02411930",
+  "name": "TALLAPOOSA RIVER AT US 78, NEAR TALLAPOOSA, GA",
+  "waterbody": "TALLAPOOSA RIVER AT US 78, NEAR TALLAPOOSA, GA",
+  "state": "GA",
+  "latitude": 33.74138889,
+  "longitude": -85.33613889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tallapoosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlag1",
+  "slug": "usgs-02411930",
+  "noaaForecastPath": "data/noaa-forecast/TLAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

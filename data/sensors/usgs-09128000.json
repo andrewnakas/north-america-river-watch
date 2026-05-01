@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09128000",
+  "key": "09128000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09128000",
+  "name": "GUNNISON RIVER BELOW GUNNISON TUNNEL, CO",
+  "waterbody": "GUNNISON RIVER BELOW GUNNISON TUNNEL, CO",
+  "state": "CO",
+  "latitude": 38.52915336,
+  "longitude": -107.648947,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GEPC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gunnison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gepc2",
+  "slug": "usgs-09128000",
+  "noaaForecastPath": "data/noaa-forecast/GEPC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

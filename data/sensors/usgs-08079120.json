@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08079120",
+  "key": "08079120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08079120",
+  "name": "Old Brazos Rv nr Freeport, TX",
+  "waterbody": "Old Brazos Rv nr Freeport, TX",
+  "state": "TX",
+  "latitude": 28.95108115,
+  "longitude": -95.3388276,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08079120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01100000",
+  "key": "01100000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100000",
+  "name": "MERRIMACK RIVER BL CONCORD RIVER AT LOWELL, MA",
+  "waterbody": "MERRIMACK RIVER BL CONCORD RIVER AT LOWELL, MA",
+  "state": "MA",
+  "latitude": 42.64592464,
+  "longitude": -71.2983937,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOWM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Merrimack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lowm3",
+  "slug": "usgs-01100000",
+  "noaaForecastPath": "data/noaa-forecast/LOWM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

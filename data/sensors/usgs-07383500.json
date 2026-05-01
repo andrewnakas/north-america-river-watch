@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07383500",
+  "key": "07383500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07383500",
+  "name": "Bayou Des Glaises Diversion Ch. at Moreauville, LA",
+  "waterbody": "Bayou Des Glaises Diversion Ch. at Moreauville, LA",
+  "state": "LA",
+  "latitude": 31.0332528,
+  "longitude": -91.9826414,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07383500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

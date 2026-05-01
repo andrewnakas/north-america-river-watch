@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06785000",
+  "key": "06785000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06785000",
+  "name": "Middle Loup River at Saint Paul, Nebr.",
+  "waterbody": "Middle Loup River at Saint Paul, Nebr.",
+  "state": "NE",
+  "latitude": 41.203944,
+  "longitude": -98.446358,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spln1",
+  "slug": "usgs-06785000",
+  "noaaForecastPath": "data/noaa-forecast/SPLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

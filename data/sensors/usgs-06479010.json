@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479010",
+  "key": "06479010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479010",
+  "name": "VERMILLION RIVER NEAR VERMILLION,SD",
+  "waterbody": "VERMILLION RIVER NEAR VERMILLION,SD",
+  "state": "SD",
+  "latitude": 42.8172187,
+  "longitude": -96.9242106,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VERS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vermillion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vers2",
+  "slug": "usgs-06479010",
+  "noaaForecastPath": "data/noaa-forecast/VERS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06770240",
+  "key": "06770240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06770240",
+  "name": "FORT KEARNEY SLOUGH NR NEWARK, NE",
+  "waterbody": "FORT KEARNEY SLOUGH NR NEWARK, NE",
+  "state": "NE",
+  "latitude": 40.64112464,
+  "longitude": -98.9898064,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06770240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

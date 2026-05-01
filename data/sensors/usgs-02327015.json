@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02327015",
+  "key": "02327015",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02327015",
+  "name": "CENTRAL D.D AT ORANGE AVE TALLAHASSEE,FL",
+  "waterbody": "CENTRAL D.D AT ORANGE AVE TALLAHASSEE,FL",
+  "state": "FL",
+  "latitude": 30.41353366,
+  "longitude": -84.3049002,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORAF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Central Drainage Ditch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oraf1",
+  "slug": "usgs-02327015",
+  "noaaForecastPath": "data/noaa-forecast/ORAF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

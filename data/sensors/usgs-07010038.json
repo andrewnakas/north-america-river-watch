@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010038",
+  "key": "07010038",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010038",
+  "name": "River Des Peres at Macklind Ave, St Louis, MO",
+  "waterbody": "River Des Peres at Macklind Ave, St Louis, MO",
+  "state": "MO",
+  "latitude": 38.622,
+  "longitude": -90.2761389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010038",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

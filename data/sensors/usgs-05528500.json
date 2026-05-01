@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05528500",
+  "key": "05528500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05528500",
+  "name": "BUFFALO CREEK NEAR WHEELING, IL",
+  "waterbody": "BUFFALO CREEK NEAR WHEELING, IL",
+  "state": "IL",
+  "latitude": 42.15194444,
+  "longitude": -87.9577778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHEI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whei2",
+  "slug": "usgs-05528500",
+  "noaaForecastPath": "data/noaa-forecast/WHEI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

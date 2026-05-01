@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05502000",
+  "key": "05502000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05502000",
+  "name": "Bear Creek at Hannibal, MO",
+  "waterbody": "Bear Creek at Hannibal, MO",
+  "state": "MO",
+  "latitude": 39.67825,
+  "longitude": -91.4096111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05502000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

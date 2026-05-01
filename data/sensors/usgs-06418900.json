@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06418900",
+  "key": "06418900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06418900",
+  "name": "RAPID CR BL SEWAGE TREATMENT PL NR RAPID CITY, SD",
+  "waterbody": "RAPID CR BL SEWAGE TREATMENT PL NR RAPID CITY, SD",
+  "state": "SD",
+  "latitude": 44.0236549,
+  "longitude": -103.095844,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06418900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

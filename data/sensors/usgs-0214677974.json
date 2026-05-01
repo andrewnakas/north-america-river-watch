@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0214677974",
+  "key": "0214677974",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214677974",
+  "name": "STEELE CR AB SR1344 NR SHOPTON, NC",
+  "waterbody": "STEELE CR AB SR1344 NR SHOPTON, NC",
+  "state": "NC",
+  "latitude": 35.12931065,
+  "longitude": -80.9531301,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0214677974",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

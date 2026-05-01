@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50028400",
+  "key": "50028400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50028400",
+  "name": "RIO TANAMA AT CHARCO HONDO, PR",
+  "waterbody": "RIO TANAMA AT CHARCO HONDO, PR",
+  "state": "PR",
+  "latitude": 18.414097,
+  "longitude": -66.714708,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARDP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Tanama",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ardp4",
+  "slug": "usgs-50028400",
+  "noaaForecastPath": "data/noaa-forecast/ARDP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

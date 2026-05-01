@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07385500",
+  "key": "07385500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07385500",
+  "name": "BAYOU TECHE @ ARNAUDVILLE, LA",
+  "waterbody": "BAYOU TECHE @ ARNAUDVILLE, LA",
+  "state": "LA",
+  "latitude": 30.3974195,
+  "longitude": -91.9306728,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07385500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

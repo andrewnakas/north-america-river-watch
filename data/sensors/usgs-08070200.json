@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08070200",
+  "key": "08070200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08070200",
+  "name": "E Fk San Jacinto Rv nr New Caney, TX",
+  "waterbody": "E Fk San Jacinto Rv nr New Caney, TX",
+  "state": "TX",
+  "latitude": 30.14523056,
+  "longitude": -95.1246139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork San Jacinto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncet2",
+  "slug": "usgs-08070200",
+  "noaaForecastPath": "data/noaa-forecast/NCET2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12318500",
+  "key": "12318500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12318500",
+  "name": "KOOTENAI RIVER NR COPELAND ID",
+  "waterbody": "KOOTENAI RIVER NR COPELAND ID",
+  "state": "ID",
+  "latitude": 48.905,
+  "longitude": -116.4019444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12318500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02303410",
+  "key": "02303410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02303410",
+  "name": "CYPRESS CREEK TRIBUTARY NR WESLEY CHAPEL FL",
+  "waterbody": "CYPRESS CREEK TRIBUTARY NR WESLEY CHAPEL FL",
+  "state": "FL",
+  "latitude": 28.2593611,
+  "longitude": -82.3861111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCYF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek Tributary Near Wesley Chapel",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcyf1",
+  "slug": "usgs-02303410",
+  "noaaForecastPath": "data/noaa-forecast/TCYF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

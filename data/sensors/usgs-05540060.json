@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05540060",
+  "key": "05540060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540060",
+  "name": "KRESS CREEK AT WEST CHICAGO, IL",
+  "waterbody": "KRESS CREEK AT WEST CHICAGO, IL",
+  "state": "IL",
+  "latitude": 41.8564083,
+  "longitude": -88.2041611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kress Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsci2",
+  "slug": "usgs-05540060",
+  "noaaForecastPath": "data/noaa-forecast/WSCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

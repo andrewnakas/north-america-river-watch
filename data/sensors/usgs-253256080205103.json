@@ -1,0 +1,19 @@
+{
+  "id": "usgs:253256080205103",
+  "key": "253256080205103",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "253256080205103",
+  "name": "BLACK CREEK CANAL UPSTREAM OF S-21 AT MIAMI, FL",
+  "waterbody": "BLACK CREEK CANAL UPSTREAM OF S-21 AT MIAMI, FL",
+  "state": "FL",
+  "latitude": 25.5488,
+  "longitude": -80.3476,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-253256080205103",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15087618",
+  "key": "15087618",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087618",
+  "name": "STARRIGAVAN C AT UPPER BRIDGE NR SITKA AK",
+  "waterbody": "STARRIGAVAN C AT UPPER BRIDGE NR SITKA AK",
+  "state": "AK",
+  "latitude": 57.12491678,
+  "longitude": -135.3334277,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Starrigavan Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stra2",
+  "slug": "usgs-15087618",
+  "noaaForecastPath": "data/noaa-forecast/STRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

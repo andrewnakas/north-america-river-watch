@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09513910",
+  "key": "09513910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09513910",
+  "name": "NEW RIVER NR GLENDALE, ARIZ.",
+  "waterbody": "NEW RIVER NR GLENDALE, ARIZ.",
+  "state": "AZ",
+  "latitude": 33.5367072,
+  "longitude": -112.2818232,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09513910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11025500",
+  "key": "11025500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11025500",
+  "name": "SANTA YSABEL C NR RAMONA CA",
+  "waterbody": "SANTA YSABEL C NR RAMONA CA",
+  "state": "CA",
+  "latitude": 33.1069866,
+  "longitude": -116.866137,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11025500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

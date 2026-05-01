@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07334428",
+  "key": "07334428",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07334428",
+  "name": "Delaware Cr Blw Del Cr Site 9 RSVR nr Bromide, OK",
+  "waterbody": "Delaware Cr Blw Del Cr Site 9 RSVR nr Bromide, OK",
+  "state": "OK",
+  "latitude": 34.40701667,
+  "longitude": -96.5399306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdco2",
+  "slug": "usgs-07334428",
+  "noaaForecastPath": "data/noaa-forecast/BDCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

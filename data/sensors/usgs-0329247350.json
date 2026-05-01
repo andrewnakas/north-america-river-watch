@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0329247350",
+  "key": "0329247350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0329247350",
+  "name": "WOLF PEN BR AB POND DISCHARGE NR PROSPECT, KY",
+  "waterbody": "WOLF PEN BR AB POND DISCHARGE NR PROSPECT, KY",
+  "state": "KY",
+  "latitude": 38.32811025,
+  "longitude": -85.59383953,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0329247350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

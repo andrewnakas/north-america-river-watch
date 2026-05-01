@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01537000",
+  "key": "01537000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01537000",
+  "name": "Toby Creek at Luzerne, PA",
+  "waterbody": "Toby Creek at Luzerne, PA",
+  "state": "PA",
+  "latitude": 41.28091437,
+  "longitude": -75.8957524,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01537000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10258500",
+  "key": "10258500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10258500",
+  "name": "PALM CYN C NR PALM SPRINGS CA",
+  "waterbody": "PALM CYN C NR PALM SPRINGS CA",
+  "state": "CA",
+  "latitude": 33.74502747,
+  "longitude": -116.535566,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Palm Canyon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcnc1",
+  "slug": "usgs-10258500",
+  "noaaForecastPath": "data/noaa-forecast/PCNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

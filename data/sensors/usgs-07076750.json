@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07076750",
+  "key": "07076750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07076750",
+  "name": "White River at Georgetown, AR",
+  "waterbody": "White River at Georgetown, AR",
+  "state": "AR",
+  "latitude": 35.12888889,
+  "longitude": -91.4497222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GEOA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/geoa4",
+  "slug": "usgs-07076750",
+  "noaaForecastPath": "data/noaa-forecast/GEOA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

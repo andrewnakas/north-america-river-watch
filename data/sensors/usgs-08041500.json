@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08041500",
+  "key": "08041500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08041500",
+  "name": "Village Ck nr Kountze, TX",
+  "waterbody": "Village Ck nr Kountze, TX",
+  "state": "TX",
+  "latitude": 30.3979862,
+  "longitude": -94.2635215,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KOUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Village Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kout2",
+  "slug": "usgs-08041500",
+  "noaaForecastPath": "data/noaa-forecast/KOUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

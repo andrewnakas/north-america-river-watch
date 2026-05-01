@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02245340",
+  "key": "02245340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02245340",
+  "name": "ST JOHNS R BLW SHANDS BRIDGE NR GRN COVE SPRG, FL",
+  "waterbody": "ST JOHNS R BLW SHANDS BRIDGE NR GRN COVE SPRG, FL",
+  "state": "FL",
+  "latitude": 30.0059222,
+  "longitude": -81.6151361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCEF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Johns River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcef1",
+  "slug": "usgs-02245340",
+  "noaaForecastPath": "data/noaa-forecast/GCEF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

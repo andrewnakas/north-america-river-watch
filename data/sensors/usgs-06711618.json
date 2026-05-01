@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06711618",
+  "key": "06711618",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06711618",
+  "name": "WEIR GULCH UPSTREAM FROM 1ST AVE. AT DENVER, CO",
+  "waterbody": "WEIR GULCH UPSTREAM FROM 1ST AVE. AT DENVER, CO",
+  "state": "CO",
+  "latitude": 39.71724722,
+  "longitude": -105.04201111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06711618",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

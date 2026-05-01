@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11308500",
+  "key": "11308500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11308500",
+  "name": "MURRAY C NR SAN ANDREAS CA",
+  "waterbody": "MURRAY C NR SAN ANDREAS CA",
+  "state": "CA",
+  "latitude": 38.2116111,
+  "longitude": -120.675611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11308500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

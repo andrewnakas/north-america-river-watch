@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15389100",
+  "key": "15389100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15389100",
+  "name": "PORCUPINE R 9.5MI AB MOUTH NR FORT YUKON AK",
+  "waterbody": "PORCUPINE R 9.5MI AB MOUTH NR FORT YUKON AK",
+  "state": "AK",
+  "latitude": 66.6514678,
+  "longitude": -145.0991477,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15389100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

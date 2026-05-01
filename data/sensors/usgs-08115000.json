@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08115000",
+  "key": "08115000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08115000",
+  "name": "Big Ck nr Needville, TX",
+  "waterbody": "Big Ck nr Needville, TX",
+  "state": "TX",
+  "latitude": 29.47190769,
+  "longitude": -95.8030067,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcnt2",
+  "slug": "usgs-08115000",
+  "noaaForecastPath": "data/noaa-forecast/BCNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

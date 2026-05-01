@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11212260",
+  "key": "11212260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11212260",
+  "name": "CROSS C A KANSAS AVE NR HANFORD CA",
+  "waterbody": "CROSS C A KANSAS AVE NR HANFORD CA",
+  "state": "CA",
+  "latitude": 36.211,
+  "longitude": -119.568636,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11212260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

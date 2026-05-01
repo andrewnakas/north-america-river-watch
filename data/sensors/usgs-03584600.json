@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03584600",
+  "key": "03584600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03584600",
+  "name": "ELK RIVER AT PROSPECT, TN",
+  "waterbody": "ELK RIVER AT PROSPECT, TN",
+  "state": "TN",
+  "latitude": 35.0142361,
+  "longitude": -86.9946574,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSPT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pspt1",
+  "slug": "usgs-03584600",
+  "noaaForecastPath": "data/noaa-forecast/PSPT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

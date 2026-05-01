@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01419500",
+  "key": "01419500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01419500",
+  "name": "WILLOWEMOC CREEK NR LIVINGSTON MANOR NY",
+  "waterbody": "WILLOWEMOC CREEK NR LIVINGSTON MANOR NY",
+  "state": "NY",
+  "latitude": 41.90352778,
+  "longitude": -74.81275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWMN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willowemoc Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwmn6",
+  "slug": "usgs-01419500",
+  "noaaForecastPath": "data/noaa-forecast/WWMN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

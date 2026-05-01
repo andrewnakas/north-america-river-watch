@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02350900",
+  "key": "02350900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02350900",
+  "name": "KINCHAFOONEE CREEK AT PINEWOOD ROAD, NR DAWSON, GA",
+  "waterbody": "KINCHAFOONEE CREEK AT PINEWOOD ROAD, NR DAWSON, GA",
+  "state": "GA",
+  "latitude": 31.76458333,
+  "longitude": -84.2531111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DSNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kinchafoonee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dsng1",
+  "slug": "usgs-02350900",
+  "noaaForecastPath": "data/noaa-forecast/DSNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

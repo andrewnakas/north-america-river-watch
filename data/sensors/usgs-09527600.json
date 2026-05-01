@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09527600",
+  "key": "09527600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09527600",
+  "name": "ALL-AMERICAN CNL BLW DR0P 1 POWERPLANT NR CALEXICO",
+  "waterbody": "ALL-AMERICAN CNL BLW DR0P 1 POWERPLANT NR CALEXICO",
+  "state": "CA",
+  "latitude": 32.70532655,
+  "longitude": -114.968023,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09527600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

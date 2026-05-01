@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10146000",
+  "key": "10146000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10146000",
+  "name": "SALT CREEK AT NEPHI, UT",
+  "waterbody": "SALT CREEK AT NEPHI, UT",
+  "state": "UT",
+  "latitude": 39.71301186,
+  "longitude": -111.8043759,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10146000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

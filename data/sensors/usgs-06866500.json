@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06866500",
+  "key": "06866500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06866500",
+  "name": "SMOKY HILL R NR MENTOR, KS",
+  "waterbody": "SMOKY HILL R NR MENTOR, KS",
+  "state": "KS",
+  "latitude": 38.7111152,
+  "longitude": -97.5717015,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTRK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smoky Hill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtrk1",
+  "slug": "usgs-06866500",
+  "noaaForecastPath": "data/noaa-forecast/MTRK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

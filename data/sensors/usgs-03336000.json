@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03336000",
+  "key": "03336000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03336000",
+  "name": "WABASH RIVER AT COVINGTON, IN",
+  "waterbody": "WABASH RIVER AT COVINGTON, IN",
+  "state": "IN",
+  "latitude": 40.1400311,
+  "longitude": -87.40667549,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVGI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvgi3",
+  "slug": "usgs-03336000",
+  "noaaForecastPath": "data/noaa-forecast/CVGI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

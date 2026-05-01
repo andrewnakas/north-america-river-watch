@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02385170",
+  "key": "02385170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02385170",
+  "name": "COAHULLA CREEK AT KEITHS MILL ROAD, NEAR DALTON,GA",
+  "waterbody": "COAHULLA CREEK AT KEITHS MILL ROAD, NEAR DALTON,GA",
+  "state": "GA",
+  "latitude": 34.7433333,
+  "longitude": -84.8805278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coahulla Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chcg1",
+  "slug": "usgs-02385170",
+  "noaaForecastPath": "data/noaa-forecast/CHCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12091180",
+  "key": "12091180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12091180",
+  "name": "LEACH CREEK AT HOLDING POND AT FIRCREST, WA",
+  "waterbody": "LEACH CREEK AT HOLDING POND AT FIRCREST, WA",
+  "state": "WA",
+  "latitude": 47.2245429,
+  "longitude": -122.510125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12091180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

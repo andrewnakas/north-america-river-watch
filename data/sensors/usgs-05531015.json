@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05531015",
+  "key": "05531015",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05531015",
+  "name": "SALT CREEK AT HIGGINS RD NR ELK GROVE VILLAGE, IL",
+  "waterbody": "SALT CREEK AT HIGGINS RD NR ELK GROVE VILLAGE, IL",
+  "state": "IL",
+  "latitude": 42.0314083,
+  "longitude": -88.0112333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05531015",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

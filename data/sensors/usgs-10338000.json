@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10338000",
+  "key": "10338000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10338000",
+  "name": "TRUCKEE R NR TRUCKEE CA",
+  "waterbody": "TRUCKEE R NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.29627044,
+  "longitude": -120.2054519,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trcc1",
+  "slug": "usgs-10338000",
+  "noaaForecastPath": "data/noaa-forecast/TRCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

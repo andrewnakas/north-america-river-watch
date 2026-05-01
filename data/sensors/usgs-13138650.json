@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13138650",
+  "key": "13138650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13138650",
+  "name": "DEER CREEK NR DEER CREEK RANCH NR HAILEY, ID",
+  "waterbody": "DEER CREEK NR DEER CREEK RANCH NR HAILEY, ID",
+  "state": "ID",
+  "latitude": 43.55364444,
+  "longitude": -114.4196583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13138650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

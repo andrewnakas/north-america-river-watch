@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10028500",
+  "key": "10028500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10028500",
+  "name": "BEAR RIVER BELOW PIXLEY DAM, NEAR COKEVILLE, WY",
+  "waterbody": "BEAR RIVER BELOW PIXLEY DAM, NEAR COKEVILLE, WY",
+  "state": "WY",
+  "latitude": 41.93795,
+  "longitude": -110.9868806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIXW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pixw4",
+  "slug": "usgs-10028500",
+  "noaaForecastPath": "data/noaa-forecast/PIXW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14016820",
+  "key": "14016820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14016820",
+  "name": "TOUCHET RIVER AT GALLAHER RD NEAR WAITSBURG, WA",
+  "waterbody": "TOUCHET RIVER AT GALLAHER RD NEAR WAITSBURG, WA",
+  "state": "WA",
+  "latitude": 46.27704167,
+  "longitude": -118.1115722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TGAW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Touchet River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tgaw1",
+  "slug": "usgs-14016820",
+  "noaaForecastPath": "data/noaa-forecast/TGAW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

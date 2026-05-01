@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03531500",
+  "key": "03531500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03531500",
+  "name": "POWELL RIVER NEAR JONESVILLE, VA",
+  "waterbody": "POWELL RIVER NEAR JONESVILLE, VA",
+  "state": "VA",
+  "latitude": 36.66203367,
+  "longitude": -83.0948928,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JNSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Powell River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jnsv2",
+  "slug": "usgs-03531500",
+  "noaaForecastPath": "data/noaa-forecast/JNSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

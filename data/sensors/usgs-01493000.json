@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01493000",
+  "key": "01493000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01493000",
+  "name": "UNICORN BRANCH NEAR MILLINGTON, MD",
+  "waterbody": "UNICORN BRANCH NEAR MILLINGTON, MD",
+  "state": "MD",
+  "latitude": 39.24994444,
+  "longitude": -75.8615,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unicorn Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mltm2",
+  "slug": "usgs-01493000",
+  "noaaForecastPath": "data/noaa-forecast/MLTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

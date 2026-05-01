@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04183000",
+  "key": "04183000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04183000",
+  "name": "MAUMEE RIVER AT NEW HAVEN, IN",
+  "waterbody": "MAUMEE RIVER AT NEW HAVEN, IN",
+  "state": "IN",
+  "latitude": 41.0850205,
+  "longitude": -85.0221518,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHVI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maumee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhvi3",
+  "slug": "usgs-04183000",
+  "noaaForecastPath": "data/noaa-forecast/NHVI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

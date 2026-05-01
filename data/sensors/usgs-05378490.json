@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05378490",
+  "key": "05378490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05378490",
+  "name": "MISSISSIPPI RIVER AT LOCK AND DAM 5A NR WINONA, MN",
+  "waterbody": "MISSISSIPPI RIVER AT LOCK AND DAM 5A NR WINONA, MN",
+  "state": "MN",
+  "latitude": 44.085096,
+  "longitude": -91.667552,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WIDM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/widm5",
+  "slug": "usgs-05378490",
+  "noaaForecastPath": "data/noaa-forecast/WIDM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

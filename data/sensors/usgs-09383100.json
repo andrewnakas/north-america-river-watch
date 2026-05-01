@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09383100",
+  "key": "09383100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09383100",
+  "name": "COLORADO R ABV LITTLE COLORADO R NR DESERT VIEW",
+  "waterbody": "COLORADO R ABV LITTLE COLORADO R NR DESERT VIEW",
+  "state": "AZ",
+  "latitude": 36.2040833,
+  "longitude": -111.8007222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09383100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02152610",
+  "key": "02152610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02152610",
+  "name": "SUGAR BRANCH NEAR BOILING SPRINGS, NC",
+  "waterbody": "SUGAR BRANCH NEAR BOILING SPRINGS, NC",
+  "state": "NC",
+  "latitude": 35.25012644,
+  "longitude": -81.62064989,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02152610",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

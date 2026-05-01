@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06853800",
+  "key": "06853800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06853800",
+  "name": "WHITE ROCK C NR BURR OAK, KS",
+  "waterbody": "WHITE ROCK C NR BURR OAK, KS",
+  "state": "KS",
+  "latitude": 39.89918,
+  "longitude": -98.2503276,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BURK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/burk1",
+  "slug": "usgs-06853800",
+  "noaaForecastPath": "data/noaa-forecast/BURK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

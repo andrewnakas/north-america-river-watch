@@ -1,0 +1,19 @@
+{
+  "id": "usgs:253047080555600",
+  "key": "253047080555600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "253047080555600",
+  "name": "UPSTREAM BROAD RIVER NEAR EVERGLADES CITY FL",
+  "waterbody": "UPSTREAM BROAD RIVER NEAR EVERGLADES CITY FL",
+  "state": "FL",
+  "latitude": 25.50129167,
+  "longitude": -80.9322222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-253047080555600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

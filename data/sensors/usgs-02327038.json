@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02327038",
+  "key": "02327038",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02327038",
+  "name": "LOST CREEK NEAR CRAWFORDVILLE, FL",
+  "waterbody": "LOST CREEK NEAR CRAWFORDVILLE, FL",
+  "state": "FL",
+  "latitude": 30.16091667,
+  "longitude": -84.3814444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lost Creek (FL)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcrf1",
+  "slug": "usgs-02327038",
+  "noaaForecastPath": "data/noaa-forecast/LCRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

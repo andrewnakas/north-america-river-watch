@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06805500",
+  "key": "06805500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06805500",
+  "name": "Platte River at Louisville, Nebr.",
+  "waterbody": "Platte River at Louisville, Nebr.",
+  "state": "NE",
+  "latitude": 41.014978,
+  "longitude": -96.1575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOUN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/loun1",
+  "slug": "usgs-06805500",
+  "noaaForecastPath": "data/noaa-forecast/LOUN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

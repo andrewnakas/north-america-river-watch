@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07295500",
+  "key": "07295500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07295500",
+  "name": "Tierra Blanca Ck abv Buffalo Lk nr Umbarger, TX",
+  "waterbody": "Tierra Blanca Ck abv Buffalo Lk nr Umbarger, TX",
+  "state": "TX",
+  "latitude": 34.84867146,
+  "longitude": -102.1760295,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UMBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tierra Blanca Creek 8SW Umbarger",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/umbt2",
+  "slug": "usgs-07295500",
+  "noaaForecastPath": "data/noaa-forecast/UMBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

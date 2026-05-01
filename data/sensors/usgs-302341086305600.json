@@ -1,0 +1,22 @@
+{
+  "id": "usgs:302341086305600",
+  "key": "302341086305600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "302341086305600",
+  "name": "EAST PASS TO CHOCTAWHATCHEE BAY AT DESTIN FL",
+  "waterbody": "EAST PASS TO CHOCTAWHATCHEE BAY AT DESTIN FL",
+  "state": "FL",
+  "latitude": 30.3948472,
+  "longitude": -86.5155722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OPLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old Pass Lagoon",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oplf1",
+  "slug": "usgs-302341086305600",
+  "noaaForecastPath": "data/noaa-forecast/OPLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

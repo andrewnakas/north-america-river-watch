@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07144301",
+  "key": "07144301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144301",
+  "name": "FLOODWAY AT ARKANSAS R AT WICHITA, KS",
+  "waterbody": "FLOODWAY AT ARKANSAS R AT WICHITA, KS",
+  "state": "KS",
+  "latitude": 37.7161242,
+  "longitude": -97.4022677,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07144301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

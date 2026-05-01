@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03110685",
+  "key": "03110685",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03110685",
+  "name": "OHIO R AT NEW CUMBERLAND LOCK & DAM (UPPER), OH",
+  "waterbody": "OHIO R AT NEW CUMBERLAND LOCK & DAM (UPPER), OH",
+  "state": "OH",
+  "latitude": 40.5283988,
+  "longitude": -80.62673998,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03110685",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

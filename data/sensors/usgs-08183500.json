@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08183500",
+  "key": "08183500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08183500",
+  "name": "San Antonio Rv nr Falls City, TX",
+  "waterbody": "San Antonio Rv nr Falls City, TX",
+  "state": "TX",
+  "latitude": 28.95163797,
+  "longitude": -98.0641989,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FACT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Antonio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fact2",
+  "slug": "usgs-08183500",
+  "noaaForecastPath": "data/noaa-forecast/FACT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

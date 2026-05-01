@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13132373",
+  "key": "13132373",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13132373",
+  "name": "BIG LOST RIVER AT ARCO AT SUNSET ROAD ID",
+  "waterbody": "BIG LOST RIVER AT ARCO AT SUNSET ROAD ID",
+  "state": "ID",
+  "latitude": 43.63819444,
+  "longitude": -113.3265,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASUI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Lost River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asui1",
+  "slug": "usgs-13132373",
+  "noaaForecastPath": "data/noaa-forecast/ASUI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

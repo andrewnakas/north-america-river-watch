@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09428505",
+  "key": "09428505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09428505",
+  "name": "GARDNER LATERAL SPILL NEAR PARKER, AZ",
+  "waterbody": "GARDNER LATERAL SPILL NEAR PARKER, AZ",
+  "state": "AZ",
+  "latitude": 34.02779463,
+  "longitude": -114.433566,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09428505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

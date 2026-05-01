@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08153500",
+  "key": "08153500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08153500",
+  "name": "Pedernales Rv nr Johnson City, TX",
+  "waterbody": "Pedernales Rv nr Johnson City, TX",
+  "state": "TX",
+  "latitude": 30.29187379,
+  "longitude": -98.3994904,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JOCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pedernales River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/joct2",
+  "slug": "usgs-08153500",
+  "noaaForecastPath": "data/noaa-forecast/JOCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

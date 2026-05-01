@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08189700",
+  "key": "08189700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08189700",
+  "name": "Aransas Rv nr Skidmore, TX",
+  "waterbody": "Aransas Rv nr Skidmore, TX",
+  "state": "TX",
+  "latitude": 28.28249389,
+  "longitude": -97.6208513,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aransas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skmt2",
+  "slug": "usgs-08189700",
+  "noaaForecastPath": "data/noaa-forecast/SKMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

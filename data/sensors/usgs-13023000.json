@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13023000",
+  "key": "13023000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13023000",
+  "name": "GREYS RIVER ABOVE RESERVOIR, NEAR ALPINE, WY",
+  "waterbody": "GREYS RIVER ABOVE RESERVOIR, NEAR ALPINE, WY",
+  "state": "WY",
+  "latitude": 43.14305556,
+  "longitude": -110.9769444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GREW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greys River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grew4",
+  "slug": "usgs-13023000",
+  "noaaForecastPath": "data/noaa-forecast/GREW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

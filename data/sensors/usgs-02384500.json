@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02384500",
+  "key": "02384500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02384500",
+  "name": "CONASAUGA RIVER AT GA 286, NEAR ETON, GA",
+  "waterbody": "CONASAUGA RIVER AT GA 286, NEAR ETON, GA",
+  "state": "GA",
+  "latitude": 34.8275,
+  "longitude": -84.8509722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ETNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conasauga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/etng1",
+  "slug": "usgs-02384500",
+  "noaaForecastPath": "data/noaa-forecast/ETNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

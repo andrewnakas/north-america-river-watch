@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09308500",
+  "key": "09308500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09308500",
+  "name": "MINNIE MAUD CREEK NR MYTON, UTAH",
+  "waterbody": "MINNIE MAUD CREEK NR MYTON, UTAH",
+  "state": "UT",
+  "latitude": 39.798574,
+  "longitude": -110.565991,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09308500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

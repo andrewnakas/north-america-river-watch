@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03432100",
+  "key": "03432100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03432100",
+  "name": "HARPETH RIVER AT MCDANIEL, TN",
+  "waterbody": "HARPETH RIVER AT MCDANIEL, TN",
+  "state": "TN",
+  "latitude": 35.832598,
+  "longitude": -86.6988753,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDNT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Harpeth River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdnt1",
+  "slug": "usgs-03432100",
+  "noaaForecastPath": "data/noaa-forecast/MDNT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

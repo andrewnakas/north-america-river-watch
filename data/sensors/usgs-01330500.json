@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01330500",
+  "key": "01330500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01330500",
+  "name": "KAYADEROSSERAS CREEK NR WEST MILTON NY",
+  "waterbody": "KAYADEROSSERAS CREEK NR WEST MILTON NY",
+  "state": "NY",
+  "latitude": 43.0383333,
+  "longitude": -73.9091667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01330500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

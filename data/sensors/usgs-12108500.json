@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12108500",
+  "key": "12108500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12108500",
+  "name": "NEWAUKUM CREEK NEAR BLACK DIAMOND, WA",
+  "waterbody": "NEWAUKUM CREEK NEAR BLACK DIAMOND, WA",
+  "state": "WA",
+  "latitude": 47.2756564,
+  "longitude": -122.059559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKDW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Newaukum Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkdw1",
+  "slug": "usgs-12108500",
+  "noaaForecastPath": "data/noaa-forecast/BKDW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

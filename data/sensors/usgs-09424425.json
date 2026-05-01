@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09424425",
+  "key": "09424425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09424425",
+  "name": "BIG SANDY RIVER AT US 93 BRIDGE, NEAR WIKIEUP, AZ",
+  "waterbody": "BIG SANDY RIVER AT US 93 BRIDGE, NEAR WIKIEUP, AZ",
+  "state": "AZ",
+  "latitude": 34.66263889,
+  "longitude": -113.5809722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSWA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy River (AZ)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bswa3",
+  "slug": "usgs-09424425",
+  "noaaForecastPath": "data/noaa-forecast/BSWA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

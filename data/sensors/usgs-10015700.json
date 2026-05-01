@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10015700",
+  "key": "10015700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10015700",
+  "name": "SULPHUR CR AB RES,BL LA CHAPELLE CR,NR EVANSTON,WY",
+  "waterbody": "SULPHUR CR AB RES,BL LA CHAPELLE CR,NR EVANSTON,WY",
+  "state": "WY",
+  "latitude": 41.12911407,
+  "longitude": -110.8065634,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10015700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

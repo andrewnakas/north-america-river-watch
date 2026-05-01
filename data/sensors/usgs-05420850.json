@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05420850",
+  "key": "05420850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05420850",
+  "name": "Little Wapsipinicon River near Oran, IA",
+  "waterbody": "Little Wapsipinicon River near Oran, IA",
+  "state": "IA",
+  "latitude": 42.71469444,
+  "longitude": -92.0415556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05420850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

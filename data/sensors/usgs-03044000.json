@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03044000",
+  "key": "03044000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03044000",
+  "name": "Conemaugh River at Tunnelton, PA",
+  "waterbody": "Conemaugh River at Tunnelton, PA",
+  "state": "PA",
+  "latitude": 40.4545117,
+  "longitude": -79.3908724,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conemaugh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmdp1",
+  "slug": "usgs-03044000",
+  "noaaForecastPath": "data/noaa-forecast/CMDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

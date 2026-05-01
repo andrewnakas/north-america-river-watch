@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12128000",
+  "key": "12128000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12128000",
+  "name": "THORNTON CREEK NEAR SEATTLE, WA",
+  "waterbody": "THORNTON CREEK NEAR SEATTLE, WA",
+  "state": "WA",
+  "latitude": 47.69565378,
+  "longitude": -122.2762368,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12128000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06752280",
+  "key": "06752280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06752280",
+  "name": "CACHE LA POUDRE RIV AB BOXELDER CRK NR TIMNATH, CO",
+  "waterbody": "CACHE LA POUDRE RIV AB BOXELDER CRK NR TIMNATH, CO",
+  "state": "CO",
+  "latitude": 40.551944,
+  "longitude": -105.010833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06752280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

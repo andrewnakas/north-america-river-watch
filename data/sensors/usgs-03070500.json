@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03070500",
+  "key": "03070500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03070500",
+  "name": "BIG SANDY CREEK AT ROCKVILLE, WV",
+  "waterbody": "BIG SANDY CREEK AT ROCKVILLE, WV",
+  "state": "WV",
+  "latitude": 39.62175,
+  "longitude": -79.7045556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROCW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rocw2",
+  "slug": "usgs-03070500",
+  "noaaForecastPath": "data/noaa-forecast/ROCW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

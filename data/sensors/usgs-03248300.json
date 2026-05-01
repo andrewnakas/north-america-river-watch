@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03248300",
+  "key": "03248300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03248300",
+  "name": "LICKING RIVER BELOW MASON FORK NR SALYERSVILLE, KY",
+  "waterbody": "LICKING RIVER BELOW MASON FORK NR SALYERSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.73064817,
+  "longitude": -83.0579478,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAYK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Licking River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sayk2",
+  "slug": "usgs-03248300",
+  "noaaForecastPath": "data/noaa-forecast/SAYK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

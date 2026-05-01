@@ -1,0 +1,22 @@
+{
+  "id": "usgs:265906080093500",
+  "key": "265906080093500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "265906080093500",
+  "name": "LOXAHATCHEE RIVER AT MILE 9.1 NEAR JUPITER, FL",
+  "waterbody": "LOXAHATCHEE RIVER AT MILE 9.1 NEAR JUPITER, FL",
+  "state": "FL",
+  "latitude": 26.98528333,
+  "longitude": -80.16,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LXRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loxahatchee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lxrf1",
+  "slug": "usgs-265906080093500",
+  "noaaForecastPath": "data/noaa-forecast/LXRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

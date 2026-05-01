@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03293548",
+  "key": "03293548",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03293548",
+  "name": "OHIO RIVER AT 2ND STREET BRIDGE AT LOUISVILLE, KY",
+  "waterbody": "OHIO RIVER AT 2ND STREET BRIDGE AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.26257074,
+  "longitude": -85.751907,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03293548",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

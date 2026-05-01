@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08120700",
+  "key": "08120700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08120700",
+  "name": "Colorado Rv nr Cuthbert, TX",
+  "waterbody": "Colorado Rv nr Cuthbert, TX",
+  "state": "TX",
+  "latitude": 32.47733745,
+  "longitude": -100.9498382,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08120700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

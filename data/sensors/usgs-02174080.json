@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02174080",
+  "key": "02174080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02174080",
+  "name": "POLK SWAMP AT US-15 BELOW ST GEORGE, SC",
+  "waterbody": "POLK SWAMP AT US-15 BELOW ST GEORGE, SC",
+  "state": "SC",
+  "latitude": 33.1336111,
+  "longitude": -80.581,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Polk Swamp",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/psgs1",
+  "slug": "usgs-02174080",
+  "noaaForecastPath": "data/noaa-forecast/PSGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

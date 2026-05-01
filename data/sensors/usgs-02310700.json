@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310700",
+  "key": "02310700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310700",
+  "name": "HOMOSASSA R AT HOMOSASSA FL",
+  "waterbody": "HOMOSASSA R AT HOMOSASSA FL",
+  "state": "FL",
+  "latitude": 28.78527705,
+  "longitude": -82.61792627,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HSAF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Homosassa River Tide Gauge",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hsaf1",
+  "slug": "usgs-02310700",
+  "noaaForecastPath": "data/noaa-forecast/HSAF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13161070",
+  "key": "13161070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13161070",
+  "name": "SIMPLOT NO.4 FARM CANAL NR GRAND VIEW ID",
+  "waterbody": "SIMPLOT NO.4 FARM CANAL NR GRAND VIEW ID",
+  "state": "ID",
+  "latitude": 42.9698932,
+  "longitude": -115.9834264,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13161070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

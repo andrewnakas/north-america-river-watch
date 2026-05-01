@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08093360",
+  "key": "08093360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08093360",
+  "name": "Aquilla Ck abv Aquilla, TX",
+  "waterbody": "Aquilla Ck abv Aquilla, TX",
+  "state": "TX",
+  "latitude": 31.8954362,
+  "longitude": -97.2030634,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Texas Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alat2",
+  "slug": "usgs-08093360",
+  "noaaForecastPath": "data/noaa-forecast/ALAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

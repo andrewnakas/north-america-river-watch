@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02225000",
+  "key": "02225000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02225000",
+  "name": "ALTAMAHA RIVER NEAR BAXLEY, GA",
+  "waterbody": "ALTAMAHA RIVER NEAR BAXLEY, GA",
+  "state": "GA",
+  "latitude": 31.9395,
+  "longitude": -82.35338889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAXG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Altamaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/baxg1",
+  "slug": "usgs-02225000",
+  "noaaForecastPath": "data/noaa-forecast/BAXG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

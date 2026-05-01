@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02326995",
+  "key": "02326995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326995",
+  "name": "BLACK CREEK NEAR HILLIARDVILLE, FL",
+  "waterbody": "BLACK CREEK NEAR HILLIARDVILLE, FL",
+  "state": "FL",
+  "latitude": 30.27825,
+  "longitude": -84.3862778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BXCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bxcf1",
+  "slug": "usgs-02326995",
+  "noaaForecastPath": "data/noaa-forecast/BXCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

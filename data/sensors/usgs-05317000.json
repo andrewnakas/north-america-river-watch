@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05317000",
+  "key": "05317000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05317000",
+  "name": "COTTONWOOD RIVER NEAR NEW ULM, MN",
+  "waterbody": "COTTONWOOD RIVER NEAR NEW ULM, MN",
+  "state": "MN",
+  "latitude": 44.289217,
+  "longitude": -94.439427,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWUM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cottonwood River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwum5",
+  "slug": "usgs-05317000",
+  "noaaForecastPath": "data/noaa-forecast/NWUM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05444000",
+  "key": "05444000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05444000",
+  "name": "ELKHORN CREEK NEAR PENROSE, IL",
+  "waterbody": "ELKHORN CREEK NEAR PENROSE, IL",
+  "state": "IL",
+  "latitude": 41.90275,
+  "longitude": -89.6963889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PENI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhorn Creek (IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/peni2",
+  "slug": "usgs-05444000",
+  "noaaForecastPath": "data/noaa-forecast/PENI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

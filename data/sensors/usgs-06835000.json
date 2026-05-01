@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06835000",
+  "key": "06835000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06835000",
+  "name": "STINKING WATER CREEK NEAR PALISADE, NEBR.",
+  "waterbody": "STINKING WATER CREEK NEAR PALISADE, NEBR.",
+  "state": "NE",
+  "latitude": 40.37305556,
+  "longitude": -101.1169444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PASN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stinking Water Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pasn1",
+  "slug": "usgs-06835000",
+  "noaaForecastPath": "data/noaa-forecast/PASN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

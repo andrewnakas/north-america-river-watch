@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06928300",
+  "key": "06928300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06928300",
+  "name": "Roubidoux Creek above Fort Leonard Wood, MO",
+  "waterbody": "Roubidoux Creek above Fort Leonard Wood, MO",
+  "state": "MO",
+  "latitude": 37.6010833,
+  "longitude": -92.2338056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBUM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roubidoux Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbum7",
+  "slug": "usgs-06928300",
+  "noaaForecastPath": "data/noaa-forecast/RBUM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

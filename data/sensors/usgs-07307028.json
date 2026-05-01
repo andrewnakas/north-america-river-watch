@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07307028",
+  "key": "07307028",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07307028",
+  "name": "North Fork Red River near Tipton, OK",
+  "waterbody": "North Fork Red River near Tipton, OK",
+  "state": "OK",
+  "latitude": 34.50702089,
+  "longitude": -99.2081389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TIPO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork of the Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tipo2",
+  "slug": "usgs-07307028",
+  "noaaForecastPath": "data/noaa-forecast/TIPO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

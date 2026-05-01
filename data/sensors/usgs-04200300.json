@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04200300",
+  "key": "04200300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04200300",
+  "name": "West Branch Black River above Elyria OH",
+  "waterbody": "West Branch Black River above Elyria OH",
+  "state": "OH",
+  "latitude": 41.3139382,
+  "longitude": -82.1312613,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04200300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

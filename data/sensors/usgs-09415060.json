@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415060",
+  "key": "09415060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415060",
+  "name": "MESQUITE CANAL NR MESQUITE, NV",
+  "waterbody": "MESQUITE CANAL NR MESQUITE, NV",
+  "state": "AZ",
+  "latitude": 36.80988889,
+  "longitude": -114.01475,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

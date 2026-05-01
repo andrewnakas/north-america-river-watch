@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12200730",
+  "key": "12200730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12200730",
+  "name": "UNNAMED TRIBUTARY DAVIS BAY ON LOPEZ ISLAND, WA",
+  "waterbody": "UNNAMED TRIBUTARY DAVIS BAY ON LOPEZ ISLAND, WA",
+  "state": "WA",
+  "latitude": 48.46787746,
+  "longitude": -122.9201773,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12200730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

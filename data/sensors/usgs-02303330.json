@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02303330",
+  "key": "02303330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02303330",
+  "name": "HILLSBOROUGH R AT MORRIS BR NEAR THONOTOSASSA FL",
+  "waterbody": "HILLSBOROUGH R AT MORRIS BR NEAR THONOTOSASSA FL",
+  "state": "FL",
+  "latitude": 28.0986111,
+  "longitude": -82.31138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MORF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hillsborough River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/morf1",
+  "slug": "usgs-02303330",
+  "noaaForecastPath": "data/noaa-forecast/MORF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

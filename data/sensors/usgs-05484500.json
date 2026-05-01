@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05484500",
+  "key": "05484500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05484500",
+  "name": "Raccoon River at Van Meter, IA",
+  "waterbody": "Raccoon River at Van Meter, IA",
+  "state": "IA",
+  "latitude": 41.53402778,
+  "longitude": -93.9497778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VNMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raccoon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vnmi4",
+  "slug": "usgs-05484500",
+  "noaaForecastPath": "data/noaa-forecast/VNMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

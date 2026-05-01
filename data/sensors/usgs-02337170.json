@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02337170",
+  "key": "02337170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02337170",
+  "name": "CHATTAHOOCHEE RIVER NEAR FAIRBURN, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER NEAR FAIRBURN, GA",
+  "state": "GA",
+  "latitude": 33.65666667,
+  "longitude": -84.6736111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FBNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fbng1",
+  "slug": "usgs-02337170",
+  "noaaForecastPath": "data/noaa-forecast/FBNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07314500",
+  "key": "07314500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07314500",
+  "name": "Little Wichita Rv nr Archer City, TX",
+  "waterbody": "Little Wichita Rv nr Archer City, TX",
+  "state": "TX",
+  "latitude": 33.66260225,
+  "longitude": -98.6131124,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alwt2",
+  "slug": "usgs-07314500",
+  "noaaForecastPath": "data/noaa-forecast/ALWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

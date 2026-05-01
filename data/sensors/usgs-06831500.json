@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06831500",
+  "key": "06831500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06831500",
+  "name": "FRENCHMAN CREEK NEAR IMPERIAL, NEBR.",
+  "waterbody": "FRENCHMAN CREEK NEAR IMPERIAL, NEBR.",
+  "state": "NE",
+  "latitude": 40.43166667,
+  "longitude": -101.6269444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06831500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

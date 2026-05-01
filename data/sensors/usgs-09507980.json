@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09507980",
+  "key": "09507980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09507980",
+  "name": "EAST VERDE RIVER NEAR CHILDS, AZ",
+  "waterbody": "EAST VERDE RIVER NEAR CHILDS, AZ",
+  "state": "AZ",
+  "latitude": 34.27643412,
+  "longitude": -111.63877301,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVDA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Verde River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evda3",
+  "slug": "usgs-09507980",
+  "noaaForecastPath": "data/noaa-forecast/EVDA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

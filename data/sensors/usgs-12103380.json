@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12103380",
+  "key": "12103380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12103380",
+  "name": "GREEN RIVER ABOVE TWIN CAMP CREEK NEAR LESTER, WA",
+  "waterbody": "GREEN RIVER ABOVE TWIN CAMP CREEK NEAR LESTER, WA",
+  "state": "WA",
+  "latitude": 47.181779,
+  "longitude": -121.3887037,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTCW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (WA)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltcw1",
+  "slug": "usgs-12103380",
+  "noaaForecastPath": "data/noaa-forecast/LTCW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11481200",
+  "key": "11481200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11481200",
+  "name": "LITTLE R NR TRINIDAD CA",
+  "waterbody": "LITTLE R NR TRINIDAD CA",
+  "state": "CA",
+  "latitude": 41.00982016,
+  "longitude": -124.0814157,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trdc1",
+  "slug": "usgs-11481200",
+  "noaaForecastPath": "data/noaa-forecast/TRDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

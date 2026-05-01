@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12166300",
+  "key": "12166300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12166300",
+  "name": "NF STILLAGUAMISH RIVER NEAR OSO, WA",
+  "waterbody": "NF STILLAGUAMISH RIVER NEAR OSO, WA",
+  "state": "WA",
+  "latitude": 48.27202778,
+  "longitude": -121.887611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNZW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oso",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snzw1",
+  "slug": "usgs-12166300",
+  "noaaForecastPath": "data/noaa-forecast/SNZW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

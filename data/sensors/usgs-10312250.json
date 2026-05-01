@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10312250",
+  "key": "10312250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10312250",
+  "name": "PAIUTE DRAIN ABV D-LINE CANAL NR STILLWATER, NV",
+  "waterbody": "PAIUTE DRAIN ABV D-LINE CANAL NR STILLWATER, NV",
+  "state": "NV",
+  "latitude": 39.59463984,
+  "longitude": -118.5704223,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10312250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

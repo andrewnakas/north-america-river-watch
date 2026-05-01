@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01638420",
+  "key": "01638420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01638420",
+  "name": "N F CATOCTIN CREEK AT RT 681 NEAR WATERFORD, VA",
+  "waterbody": "N F CATOCTIN CREEK AT RT 681 NEAR WATERFORD, VA",
+  "state": "VA",
+  "latitude": 39.205,
+  "longitude": -77.62388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNFV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Catoctin Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnfv2",
+  "slug": "usgs-01638420",
+  "noaaForecastPath": "data/noaa-forecast/WNFV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

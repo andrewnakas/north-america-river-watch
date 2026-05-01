@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08305030",
+  "key": "08305030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08305030",
+  "name": "LITTLE TESUQUE CR AT BISHOPS LODGE NR SANTA FE, NM",
+  "waterbody": "LITTLE TESUQUE CR AT BISHOPS LODGE NR SANTA FE, NM",
+  "state": "NM",
+  "latitude": 35.73111111,
+  "longitude": -105.91138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08305030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298123",
+  "key": "02298123",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298123",
+  "name": "PRAIRIE CREEK NEAR FORT OGDEN FL",
+  "waterbody": "PRAIRIE CREEK NEAR FORT OGDEN FL",
+  "state": "FL",
+  "latitude": 27.05199986,
+  "longitude": -81.7845267,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Creek Near Fort Ogden",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fogf1",
+  "slug": "usgs-02298123",
+  "noaaForecastPath": "data/noaa-forecast/FOGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

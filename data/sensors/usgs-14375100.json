@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14375100",
+  "key": "14375100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14375100",
+  "name": "SUCKER CREEK BLW LITTLE GRAYBACK CK, NR HOLLAND,OR",
+  "waterbody": "SUCKER CREEK BLW LITTLE GRAYBACK CK, NR HOLLAND,OR",
+  "state": "OR",
+  "latitude": 42.15956105,
+  "longitude": -123.4789509,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14375100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

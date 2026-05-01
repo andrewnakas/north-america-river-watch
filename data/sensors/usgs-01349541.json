@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01349541",
+  "key": "01349541",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01349541",
+  "name": "SUGARLOAF BROOK SOUTH OF TANNERSVILLE NY",
+  "waterbody": "SUGARLOAF BROOK SOUTH OF TANNERSVILLE NY",
+  "state": "NY",
+  "latitude": 42.1452222,
+  "longitude": -74.12263889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01349541",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

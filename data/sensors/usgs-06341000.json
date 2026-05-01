@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06341000",
+  "key": "06341000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06341000",
+  "name": "MISSOURI RIVER AT WASHBURN, ND",
+  "waterbody": "MISSOURI RIVER AT WASHBURN, ND",
+  "state": "ND",
+  "latitude": 47.2888822,
+  "longitude": -101.0379239,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06341000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

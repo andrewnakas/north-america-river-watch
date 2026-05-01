@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14173500",
+  "key": "14173500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14173500",
+  "name": "CALAPOOIA RIVER AT ALBANY, OR",
+  "waterbody": "CALAPOOIA RIVER AT ALBANY, OR",
+  "state": "OR",
+  "latitude": 44.62002778,
+  "longitude": -123.1284722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calapooia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpao3",
+  "slug": "usgs-14173500",
+  "noaaForecastPath": "data/noaa-forecast/CPAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

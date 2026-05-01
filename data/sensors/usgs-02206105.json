@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02206105",
+  "key": "02206105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02206105",
+  "name": "JACKSON CREEK AT ANGELS LANE, NEAR LILBURN, GA",
+  "waterbody": "JACKSON CREEK AT ANGELS LANE, NEAR LILBURN, GA",
+  "state": "GA",
+  "latitude": 33.8865833,
+  "longitude": -84.2112778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jackson Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jaag1",
+  "slug": "usgs-02206105",
+  "noaaForecastPath": "data/noaa-forecast/JAAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

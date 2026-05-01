@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04282525",
+  "key": "04282525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282525",
+  "name": "NEW HAVEN RIVER @ BROOKSVILLE, NR MIDDLEBURY, VT",
+  "waterbody": "NEW HAVEN RIVER @ BROOKSVILLE, NR MIDDLEBURY, VT",
+  "state": "VT",
+  "latitude": 44.061754,
+  "longitude": -73.17079579,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHVV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "New Haven River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhvv1",
+  "slug": "usgs-04282525",
+  "noaaForecastPath": "data/noaa-forecast/NHVV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

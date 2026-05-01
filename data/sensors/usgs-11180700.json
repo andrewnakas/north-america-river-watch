@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11180700",
+  "key": "11180700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11180700",
+  "name": "ALAMEDA C FLOOD CHANNEL A UNION CITY CA",
+  "waterbody": "ALAMEDA C FLOOD CHANNEL A UNION CITY CA",
+  "state": "CA",
+  "latitude": 37.58576818,
+  "longitude": -122.0482955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PUKC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alameda Creek Flood Channel",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pukc1",
+  "slug": "usgs-11180700",
+  "noaaForecastPath": "data/noaa-forecast/PUKC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

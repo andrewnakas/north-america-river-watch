@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12035000",
+  "key": "12035000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12035000",
+  "name": "SATSOP RIVER NEAR SATSOP, WA",
+  "waterbody": "SATSOP RIVER NEAR SATSOP, WA",
+  "state": "WA",
+  "latitude": 47.0006512,
+  "longitude": -123.4948838,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SATW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Satsop River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/satw1",
+  "slug": "usgs-12035000",
+  "noaaForecastPath": "data/noaa-forecast/SATW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

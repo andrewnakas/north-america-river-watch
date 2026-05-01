@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08186000",
+  "key": "08186000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08186000",
+  "name": "Cibolo Ck nr Falls City, TX",
+  "waterbody": "Cibolo Ck nr Falls City, TX",
+  "state": "TX",
+  "latitude": 29.01413629,
+  "longitude": -97.9303065,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cibolo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fctt2",
+  "slug": "usgs-08186000",
+  "noaaForecastPath": "data/noaa-forecast/FCTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610785",
+  "key": "06610785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610785",
+  "name": "West Papillion Creek at Millard, Nebr.",
+  "waterbody": "West Papillion Creek at Millard, Nebr.",
+  "state": "NE",
+  "latitude": 41.20756389,
+  "longitude": -96.12731111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MWBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mwbn1",
+  "slug": "usgs-06610785",
+  "noaaForecastPath": "data/noaa-forecast/MWBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

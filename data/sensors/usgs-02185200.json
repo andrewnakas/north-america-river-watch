@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02185200",
+  "key": "02185200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02185200",
+  "name": "LITTLE RIVER NEAR WALHALLA, SC",
+  "waterbody": "LITTLE RIVER NEAR WALHALLA, SC",
+  "state": "SC",
+  "latitude": 34.83648406,
+  "longitude": -82.9798708,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02185200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

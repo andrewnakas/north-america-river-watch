@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021720712",
+  "key": "021720712",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021720712",
+  "name": "COOPER RIVER AT S. ADGERS WHARF AT CHARLESTON, SC",
+  "waterbody": "COOPER RIVER AT S. ADGERS WHARF AT CHARLESTON, SC",
+  "state": "SC",
+  "latitude": 32.77503056,
+  "longitude": -79.92375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHTS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cooper River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chts1",
+  "slug": "usgs-021720712",
+  "noaaForecastPath": "data/noaa-forecast/CHTS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

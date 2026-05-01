@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05449500",
+  "key": "05449500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05449500",
+  "name": "Iowa River near Rowan, IA",
+  "waterbody": "Iowa River near Rowan, IA",
+  "state": "IA",
+  "latitude": 42.7599722,
+  "longitude": -93.6216389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rowi4",
+  "slug": "usgs-05449500",
+  "noaaForecastPath": "data/noaa-forecast/ROWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

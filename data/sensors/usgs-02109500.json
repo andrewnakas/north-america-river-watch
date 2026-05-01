@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02109500",
+  "key": "02109500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02109500",
+  "name": "WACCAMAW RIVER AT FREELAND, NC",
+  "waterbody": "WACCAMAW RIVER AT FREELAND, NC",
+  "state": "NC",
+  "latitude": 34.095,
+  "longitude": -78.5483333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FREN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waccamaw River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fren7",
+  "slug": "usgs-02109500",
+  "noaaForecastPath": "data/noaa-forecast/FREN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

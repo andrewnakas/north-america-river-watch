@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08042455",
+  "key": "08042455",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08042455",
+  "name": "Hillebrandt Bayou at US 90, Beaumont, TX",
+  "waterbody": "Hillebrandt Bayou at US 90, Beaumont, TX",
+  "state": "TX",
+  "latitude": 30.06783333,
+  "longitude": -94.1570278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08042455",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06299980",
+  "key": "06299980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06299980",
+  "name": "TONGUE RIVER AT MONARCH, WY",
+  "waterbody": "TONGUE RIVER AT MONARCH, WY",
+  "state": "WY",
+  "latitude": 44.9002032,
+  "longitude": -107.0209639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRMW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trmw4",
+  "slug": "usgs-06299980",
+  "noaaForecastPath": "data/noaa-forecast/TRMW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

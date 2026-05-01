@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15904800",
+  "key": "15904800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15904800",
+  "name": "ATIGUN R NR PUMP STATION 4 AK",
+  "waterbody": "ATIGUN R NR PUMP STATION 4 AK",
+  "state": "AK",
+  "latitude": 68.2146132,
+  "longitude": -149.406411,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15904800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

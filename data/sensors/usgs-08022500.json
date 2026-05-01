@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08022500",
+  "key": "08022500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08022500",
+  "name": "Sabine Rv at Logansport, LA",
+  "waterbody": "Sabine Rv at Logansport, LA",
+  "state": "TX",
+  "latitude": 31.97238949,
+  "longitude": -94.0063014,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08022500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

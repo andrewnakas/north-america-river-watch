@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06817300",
+  "key": "06817300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06817300",
+  "name": "East Nodaway River at Highway 2 near Clarinda, IA",
+  "waterbody": "East Nodaway River at Highway 2 near Clarinda, IA",
+  "state": "IA",
+  "latitude": 40.7274722,
+  "longitude": -94.98025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENOI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Nodaway River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/enoi4",
+  "slug": "usgs-06817300",
+  "noaaForecastPath": "data/noaa-forecast/ENOI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

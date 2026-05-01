@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06340500",
+  "key": "06340500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06340500",
+  "name": "KNIFE RIVER AT HAZEN, ND",
+  "waterbody": "KNIFE RIVER AT HAZEN, ND",
+  "state": "ND",
+  "latitude": 47.2852816,
+  "longitude": -101.6221093,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HZNN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Knife River (ND)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hznn8",
+  "slug": "usgs-06340500",
+  "noaaForecastPath": "data/noaa-forecast/HZNN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

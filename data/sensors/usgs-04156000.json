@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04156000",
+  "key": "04156000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04156000",
+  "name": "TITTABAWASSEE RIVER AT MIDLAND, MI",
+  "waterbody": "TITTABAWASSEE RIVER AT MIDLAND, MI",
+  "state": "MI",
+  "latitude": 43.59530477,
+  "longitude": -84.2355439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MIDM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tittabawassee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/midm4",
+  "slug": "usgs-04156000",
+  "noaaForecastPath": "data/noaa-forecast/MIDM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

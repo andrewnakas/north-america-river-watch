@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10155400",
+  "key": "10155400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10155400",
+  "name": "SPRING CREEK NEAR HEBER CITY, UT",
+  "waterbody": "SPRING CREEK NEAR HEBER CITY, UT",
+  "state": "UT",
+  "latitude": 40.50856597,
+  "longitude": -111.4393519,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10155400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

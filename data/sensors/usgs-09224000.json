@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09224000",
+  "key": "09224000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09224000",
+  "name": "Hams Fork at Diamondville, WY",
+  "waterbody": "Hams Fork at Diamondville, WY",
+  "state": "WY",
+  "latitude": 41.77974444,
+  "longitude": -110.53560278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09224000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

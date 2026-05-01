@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06706600",
+  "key": "06706600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06706600",
+  "name": "MILLER GULCH NR BUFFALO CREEK, CO.",
+  "waterbody": "MILLER GULCH NR BUFFALO CREEK, CO.",
+  "state": "CO",
+  "latitude": 39.39193365,
+  "longitude": -105.2847162,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06706600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

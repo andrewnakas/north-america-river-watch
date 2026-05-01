@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05479000",
+  "key": "05479000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05479000",
+  "name": "East Fork Des Moines River at Dakota City, IA",
+  "waterbody": "East Fork Des Moines River at Dakota City, IA",
+  "state": "IA",
+  "latitude": 42.7236111,
+  "longitude": -94.19325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAKI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/daki4",
+  "slug": "usgs-05479000",
+  "noaaForecastPath": "data/noaa-forecast/DAKI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

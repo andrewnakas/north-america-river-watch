@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03290500",
+  "key": "03290500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03290500",
+  "name": "KENTUCKY RIVER AT LOCK 2 AT LOCKPORT, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 2 AT LOCKPORT, KY",
+  "state": "KY",
+  "latitude": 38.43894162,
+  "longitude": -84.96326372,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lptk2",
+  "slug": "usgs-03290500",
+  "noaaForecastPath": "data/noaa-forecast/LPTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

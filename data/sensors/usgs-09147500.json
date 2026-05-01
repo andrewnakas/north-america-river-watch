@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09147500",
+  "key": "09147500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09147500",
+  "name": "UNCOMPAHGRE RIVER AT COLONA, CO",
+  "waterbody": "UNCOMPAHGRE RIVER AT COLONA, CO",
+  "state": "CO",
+  "latitude": 38.33143056,
+  "longitude": -107.779225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLOC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Uncompahgre River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cloc2",
+  "slug": "usgs-09147500",
+  "noaaForecastPath": "data/noaa-forecast/CLOC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

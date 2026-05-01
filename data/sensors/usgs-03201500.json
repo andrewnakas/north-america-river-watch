@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03201500",
+  "key": "03201500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03201500",
+  "name": "OHIO RIVER AT POINT PLEASANT, WV",
+  "waterbody": "OHIO RIVER AT POINT PLEASANT, WV",
+  "state": "WV",
+  "latitude": 38.84396959,
+  "longitude": -82.139589,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POPW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/popw2",
+  "slug": "usgs-03201500",
+  "noaaForecastPath": "data/noaa-forecast/POPW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

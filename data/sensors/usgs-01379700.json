@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01379700",
+  "key": "01379700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01379700",
+  "name": "Rockaway River at Berkshire Valley NJ",
+  "waterbody": "Rockaway River at Berkshire Valley NJ",
+  "state": "NJ",
+  "latitude": 40.9308333,
+  "longitude": -74.5947222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01379700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

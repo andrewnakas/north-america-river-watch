@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02176930",
+  "key": "02176930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02176930",
+  "name": "CHATTOOGA RIVER AT BURRELLS FORD, NR PINE MTN, GA",
+  "waterbody": "CHATTOOGA RIVER AT BURRELLS FORD, NR PINE MTN, GA",
+  "state": "GA",
+  "latitude": 34.97452778,
+  "longitude": -83.1161667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BURG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattooga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/burg1",
+  "slug": "usgs-02176930",
+  "noaaForecastPath": "data/noaa-forecast/BURG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

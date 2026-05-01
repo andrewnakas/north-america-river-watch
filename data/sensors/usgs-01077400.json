@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01077400",
+  "key": "01077400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01077400",
+  "name": "COCKERMOUTH RIVER BELOW HARDY BROOK, AT GROTON, NH",
+  "waterbody": "COCKERMOUTH RIVER BELOW HARDY BROOK, AT GROTON, NH",
+  "state": "NH",
+  "latitude": 43.70388889,
+  "longitude": -71.8333333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRTN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cockermouth River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grtn3",
+  "slug": "usgs-01077400",
+  "noaaForecastPath": "data/noaa-forecast/GRTN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

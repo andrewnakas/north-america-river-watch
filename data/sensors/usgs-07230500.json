@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07230500",
+  "key": "07230500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07230500",
+  "name": "Little River near Tecumseh, OK",
+  "waterbody": "Little River near Tecumseh, OK",
+  "state": "OK",
+  "latitude": 35.17257416,
+  "longitude": -96.9319662,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCMO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcmo2",
+  "slug": "usgs-07230500",
+  "noaaForecastPath": "data/noaa-forecast/TCMO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

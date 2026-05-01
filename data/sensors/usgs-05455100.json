@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05455100",
+  "key": "05455100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05455100",
+  "name": "Old Mans Creek near Iowa City, IA",
+  "waterbody": "Old Mans Creek near Iowa City, IA",
+  "state": "IA",
+  "latitude": 41.60640556,
+  "longitude": -91.6157222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IOCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old Mans Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ioci4",
+  "slug": "usgs-05455100",
+  "noaaForecastPath": "data/noaa-forecast/IOCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

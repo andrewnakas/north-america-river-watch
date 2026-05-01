@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02446500",
+  "key": "02446500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02446500",
+  "name": "SIPSEY RIVER NR ELROD, AL",
+  "waterbody": "SIPSEY RIVER NR ELROD, AL",
+  "state": "AL",
+  "latitude": 33.2570987,
+  "longitude": -87.776408,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELRA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sipsey River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elra1",
+  "slug": "usgs-02446500",
+  "noaaForecastPath": "data/noaa-forecast/ELRA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

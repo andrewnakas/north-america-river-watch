@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14233400",
+  "key": "14233400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14233400",
+  "name": "COWLITZ RIVER NEAR RANDLE, WA",
+  "waterbody": "COWLITZ RIVER NEAR RANDLE, WA",
+  "state": "WA",
+  "latitude": 46.47011066,
+  "longitude": -122.0987075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14233400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

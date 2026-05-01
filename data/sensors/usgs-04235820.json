@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04235820",
+  "key": "04235820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04235820",
+  "name": "GROUT BROOK TRIB SOUTHEAST OF FAIR HAVEN NY",
+  "waterbody": "GROUT BROOK TRIB SOUTHEAST OF FAIR HAVEN NY",
+  "state": "NY",
+  "latitude": 42.75777778,
+  "longitude": -76.24527778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04235820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

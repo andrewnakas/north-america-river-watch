@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08168797",
+  "key": "08168797",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08168797",
+  "name": "Dry Comal Ck at Loop 337 nr New Braunfels, TX",
+  "waterbody": "Dry Comal Ck at Loop 337 nr New Braunfels, TX",
+  "state": "TX",
+  "latitude": 29.688,
+  "longitude": -98.1548333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Comal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbdt2",
+  "slug": "usgs-08168797",
+  "noaaForecastPath": "data/noaa-forecast/NBDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03479000",
+  "key": "03479000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03479000",
+  "name": "WATAUGA RIVER NEAR SUGAR GROVE, NC",
+  "waterbody": "WATAUGA RIVER NEAR SUGAR GROVE, NC",
+  "state": "NC",
+  "latitude": 36.23916667,
+  "longitude": -81.8222222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGWN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Watauga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgwn7",
+  "slug": "usgs-03479000",
+  "noaaForecastPath": "data/noaa-forecast/SGWN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

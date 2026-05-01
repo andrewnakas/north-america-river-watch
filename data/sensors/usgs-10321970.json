@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10321970",
+  "key": "10321970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10321970",
+  "name": "MAGGIE CK NR CARLIN, NV",
+  "waterbody": "MAGGIE CK NR CARLIN, NV",
+  "state": "NV",
+  "latitude": 40.75936127,
+  "longitude": -116.1292455,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10321970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

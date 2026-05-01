@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05058700",
+  "key": "05058700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05058700",
+  "name": "SHEYENNE RIVER AT LISBON, ND",
+  "waterbody": "SHEYENNE RIVER AT LISBON, ND",
+  "state": "ND",
+  "latitude": 46.4469123,
+  "longitude": -97.6792652,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBNN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbnn8",
+  "slug": "usgs-05058700",
+  "noaaForecastPath": "data/noaa-forecast/LBNN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

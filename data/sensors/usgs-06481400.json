@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06481400",
+  "key": "06481400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06481400",
+  "name": "BIG SIOUX RIVER BELOW DIVERSION AT SIOUX FALLS, SD",
+  "waterbody": "BIG SIOUX RIVER BELOW DIVERSION AT SIOUX FALLS, SD",
+  "state": "SD",
+  "latitude": 43.5730307,
+  "longitude": -96.7642179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFMS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfms2",
+  "slug": "usgs-06481400",
+  "noaaForecastPath": "data/noaa-forecast/SFMS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

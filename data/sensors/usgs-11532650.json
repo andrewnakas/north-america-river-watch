@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11532650",
+  "key": "11532650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11532650",
+  "name": "SMITH R NR FORT DICK CA",
+  "waterbody": "SMITH R NR FORT DICK CA",
+  "state": "CA",
+  "latitude": 41.8806419,
+  "longitude": -124.1364325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftdc1",
+  "slug": "usgs-11532650",
+  "noaaForecastPath": "data/noaa-forecast/FTDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

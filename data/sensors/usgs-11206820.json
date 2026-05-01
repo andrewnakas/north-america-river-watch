@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11206820",
+  "key": "11206820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11206820",
+  "name": "MARBLE FORK KAWEAH R AB HORSE C NR LODGEPOLE CA",
+  "waterbody": "MARBLE FORK KAWEAH R AB HORSE C NR LODGEPOLE CA",
+  "state": "CA",
+  "latitude": 36.61166667,
+  "longitude": -118.7016667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marble Fork  Kaweah River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbpc1",
+  "slug": "usgs-11206820",
+  "noaaForecastPath": "data/noaa-forecast/MBPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

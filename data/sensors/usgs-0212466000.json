@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212466000",
+  "key": "0212466000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212466000",
+  "name": "CLEAR CREEK AT SR3181 NR MINT HILL, NC",
+  "waterbody": "CLEAR CREEK AT SR3181 NR MINT HILL, NC",
+  "state": "NC",
+  "latitude": 35.2083333,
+  "longitude": -80.58,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clcn7",
+  "slug": "usgs-0212466000",
+  "noaaForecastPath": "data/noaa-forecast/CLCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

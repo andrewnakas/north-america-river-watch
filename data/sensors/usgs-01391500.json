@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01391500",
+  "key": "01391500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01391500",
+  "name": "Saddle River at Lodi NJ",
+  "waterbody": "Saddle River at Lodi NJ",
+  "state": "NJ",
+  "latitude": 40.89027778,
+  "longitude": -74.0805556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LODN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saddle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lodn4",
+  "slug": "usgs-01391500",
+  "noaaForecastPath": "data/noaa-forecast/LODN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

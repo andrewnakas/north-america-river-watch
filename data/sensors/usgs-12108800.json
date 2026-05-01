@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12108800",
+  "key": "12108800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12108800",
+  "name": "GREEN RIVER BELOW CRISP CREEK NR BLACK DIAMOND, WA",
+  "waterbody": "GREEN RIVER BELOW CRISP CREEK NR BLACK DIAMOND, WA",
+  "state": "WA",
+  "latitude": 47.284833,
+  "longitude": -122.082889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12108800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04233286",
+  "key": "04233286",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04233286",
+  "name": "SIXMILE CREEK AT BROOKTONDALE NY",
+  "waterbody": "SIXMILE CREEK AT BROOKTONDALE NY",
+  "state": "NY",
+  "latitude": 42.38138889,
+  "longitude": -76.3944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sixmile Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxbn6",
+  "slug": "usgs-04233286",
+  "noaaForecastPath": "data/noaa-forecast/SXBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

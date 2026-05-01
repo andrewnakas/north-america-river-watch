@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03431517",
+  "key": "03431517",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431517",
+  "name": "CUMMINGS BRANCH AT LICKTON, TN",
+  "waterbody": "CUMMINGS BRANCH AT LICKTON, TN",
+  "state": "TN",
+  "latitude": 36.30689647,
+  "longitude": -86.8001928,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03431517",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

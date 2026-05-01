@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12186000",
+  "key": "12186000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12186000",
+  "name": "SAUK RIVER AB WHITE CHUCK RIVER NR  DARRINGTON, WA",
+  "waterbody": "SAUK RIVER AB WHITE CHUCK RIVER NR  DARRINGTON, WA",
+  "state": "WA",
+  "latitude": 48.16869195,
+  "longitude": -121.470652,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCHW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sauk River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wchw1",
+  "slug": "usgs-12186000",
+  "noaaForecastPath": "data/noaa-forecast/WCHW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

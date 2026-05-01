@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04101400",
+  "key": "04101400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101400",
+  "name": "ST. JOSEPH RIVER AT BERTRAND, MICH.",
+  "waterbody": "ST. JOSEPH RIVER AT BERTRAND, MICH.",
+  "state": "MI",
+  "latitude": 41.774444,
+  "longitude": -86.267222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04101400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

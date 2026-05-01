@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0423406130",
+  "key": "0423406130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0423406130",
+  "name": "SENECA RIVER AT FREE BRIDGE CORNERS NY",
+  "waterbody": "SENECA RIVER AT FREE BRIDGE CORNERS NY",
+  "state": "NY",
+  "latitude": 42.96292674,
+  "longitude": -76.7368961,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seneca River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfbn6",
+  "slug": "usgs-0423406130",
+  "noaaForecastPath": "data/noaa-forecast/CFBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

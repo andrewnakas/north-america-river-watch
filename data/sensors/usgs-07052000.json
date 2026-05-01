@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07052000",
+  "key": "07052000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07052000",
+  "name": "Wilson Creek at Springfield, MO",
+  "waterbody": "Wilson Creek at Springfield, MO",
+  "state": "MO",
+  "latitude": 37.1869722,
+  "longitude": -93.3313333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wilson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wccm7",
+  "slug": "usgs-07052000",
+  "noaaForecastPath": "data/noaa-forecast/WCCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

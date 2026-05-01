@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06730525",
+  "key": "06730525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06730525",
+  "name": "ST VRAIN CR BLW BOULDER CR AT HWY 119 NR LONGMONT",
+  "waterbody": "ST VRAIN CR BLW BOULDER CR AT HWY 119 NR LONGMONT",
+  "state": "CO",
+  "latitude": 40.160467,
+  "longitude": -105.007936,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saint Vrain Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svlc2",
+  "slug": "usgs-06730525",
+  "noaaForecastPath": "data/noaa-forecast/SVLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

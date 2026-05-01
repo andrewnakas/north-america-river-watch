@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13207000",
+  "key": "13207000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13207000",
+  "name": "SPRING VALLEY CREEK NR EAGLE ID",
+  "waterbody": "SPRING VALLEY CREEK NR EAGLE ID",
+  "state": "ID",
+  "latitude": 43.73888889,
+  "longitude": -116.3,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13207000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

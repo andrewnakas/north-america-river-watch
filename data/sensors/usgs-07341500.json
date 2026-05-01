@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07341500",
+  "key": "07341500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07341500",
+  "name": "Red River at Fulton, AR",
+  "waterbody": "Red River at Fulton, AR",
+  "state": "AR",
+  "latitude": 33.60734285,
+  "longitude": -93.8137942,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLTA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flta4",
+  "slug": "usgs-07341500",
+  "noaaForecastPath": "data/noaa-forecast/FLTA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

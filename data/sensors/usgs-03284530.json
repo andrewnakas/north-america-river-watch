@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03284530",
+  "key": "03284530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03284530",
+  "name": "EAST HICKMAN CR AT DELONG RD NR EAST HICKMAN, KY",
+  "waterbody": "EAST HICKMAN CR AT DELONG RD NR EAST HICKMAN, KY",
+  "state": "KY",
+  "latitude": 37.9498006,
+  "longitude": -84.4552145,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03284530",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

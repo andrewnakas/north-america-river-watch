@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16060950",
+  "key": "16060950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16060950",
+  "name": "NF Wailua Riv abv N Wailua Ditch Int, Kauai, HI",
+  "waterbody": "NF Wailua Riv abv N Wailua Ditch Int, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.06364167,
+  "longitude": -159.4705972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16060950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

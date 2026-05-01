@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09174600",
+  "key": "09174600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09174600",
+  "name": "SAN MIGUEL RIVER AT BROOKS BRIDGE NEAR NUCLA CO",
+  "waterbody": "SAN MIGUEL RIVER AT BROOKS BRIDGE NEAR NUCLA CO",
+  "state": "CO",
+  "latitude": 38.244167,
+  "longitude": -108.501389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Miguel River Brooks Bridge",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snmc2",
+  "slug": "usgs-09174600",
+  "noaaForecastPath": "data/noaa-forecast/SNMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

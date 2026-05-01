@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01473900",
+  "key": "01473900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01473900",
+  "name": "Wissahickon Creek at Fort Washington, PA",
+  "waterbody": "Wissahickon Creek at Fort Washington, PA",
+  "state": "PA",
+  "latitude": 40.1239987,
+  "longitude": -75.2198992,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01473900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

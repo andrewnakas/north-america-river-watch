@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04189260",
+  "key": "04189260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04189260",
+  "name": "Blanchard River at Ottawa OH",
+  "waterbody": "Blanchard River at Ottawa OH",
+  "state": "OH",
+  "latitude": 41.0169962,
+  "longitude": -84.0468889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OTTO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanchard River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/otto1",
+  "slug": "usgs-04189260",
+  "noaaForecastPath": "data/noaa-forecast/OTTO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

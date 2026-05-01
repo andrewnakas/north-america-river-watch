@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01115500",
+  "key": "01115500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115500",
+  "name": "NORTH BRANCH PAWTUXET RIVER AT FISKEVILLE, RI",
+  "waterbody": "NORTH BRANCH PAWTUXET RIVER AT FISKEVILLE, RI",
+  "state": "RI",
+  "latitude": 41.73287798,
+  "longitude": -71.5497842,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FKVR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Pawtuxet River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fkvr1",
+  "slug": "usgs-01115500",
+  "noaaForecastPath": "data/noaa-forecast/FKVR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

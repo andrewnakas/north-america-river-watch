@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01402630",
+  "key": "01402630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01402630",
+  "name": "Royce Brook at Hamilton Road near Manville NJ",
+  "waterbody": "Royce Brook at Hamilton Road near Manville NJ",
+  "state": "NJ",
+  "latitude": 40.50611111,
+  "longitude": -74.62305556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAMN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Royce Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hamn4",
+  "slug": "usgs-01402630",
+  "noaaForecastPath": "data/noaa-forecast/HAMN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

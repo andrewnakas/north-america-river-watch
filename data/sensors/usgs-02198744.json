@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02198744",
+  "key": "02198744",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02198744",
+  "name": "SAVANNAH RIVER NEAR TILLMAN, SC",
+  "waterbody": "SAVANNAH RIVER NEAR TILLMAN, SC",
+  "state": "SC",
+  "latitude": 32.35227778,
+  "longitude": -81.1605556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02198744",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

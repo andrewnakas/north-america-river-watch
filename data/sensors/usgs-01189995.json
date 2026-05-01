@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01189995",
+  "key": "01189995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01189995",
+  "name": "FARMINGTON RIVER AT TARIFFVILLE, CT",
+  "waterbody": "FARMINGTON RIVER AT TARIFFVILLE, CT",
+  "state": "CT",
+  "latitude": 41.90828333,
+  "longitude": -72.75935278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TARC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Farmington River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tarc3",
+  "slug": "usgs-01189995",
+  "noaaForecastPath": "data/noaa-forecast/TARC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

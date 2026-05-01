@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07024300",
+  "key": "07024300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07024300",
+  "name": "BEAVER CREEK AT HUNTINGDON, TN",
+  "waterbody": "BEAVER CREEK AT HUNTINGDON, TN",
+  "state": "TN",
+  "latitude": 35.99883725,
+  "longitude": -88.4335481,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07024300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

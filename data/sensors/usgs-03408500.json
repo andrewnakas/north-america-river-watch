@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03408500",
+  "key": "03408500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03408500",
+  "name": "NEW RIVER AT NEW RIVER, TN",
+  "waterbody": "NEW RIVER AT NEW RIVER, TN",
+  "state": "TN",
+  "latitude": 36.3855255,
+  "longitude": -84.5546973,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRVT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrvt1",
+  "slug": "usgs-03408500",
+  "noaaForecastPath": "data/noaa-forecast/NRVT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

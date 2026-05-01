@@ -1,0 +1,19 @@
+{
+  "id": "usgs:453845121564001",
+  "key": "453845121564001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "453845121564001",
+  "name": "COLUMBIA RIVER AT CASCADE ISLAND, WA",
+  "waterbody": "COLUMBIA RIVER AT CASCADE ISLAND, WA",
+  "state": "WA",
+  "latitude": 45.6456726,
+  "longitude": -121.945637,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-453845121564001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

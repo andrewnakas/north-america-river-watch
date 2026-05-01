@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02218565",
+  "key": "02218565",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02218565",
+  "name": "APALACHEE RIVER AT FENCE ROAD, NEAR DACULA, GA",
+  "waterbody": "APALACHEE RIVER AT FENCE ROAD, NEAR DACULA, GA",
+  "state": "GA",
+  "latitude": 34.01027778,
+  "longitude": -83.8941667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DACG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apalachee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dacg1",
+  "slug": "usgs-02218565",
+  "noaaForecastPath": "data/noaa-forecast/DACG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

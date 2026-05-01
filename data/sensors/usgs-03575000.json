@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03575000",
+  "key": "03575000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03575000",
+  "name": "FLINT RIVER NEAR CHASE AL",
+  "waterbody": "FLINT RIVER NEAR CHASE AL",
+  "state": "AL",
+  "latitude": 34.82286756,
+  "longitude": -86.4830456,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03575000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02175200",
+  "key": "02175200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02175200",
+  "name": "SALKEHATCHIE R AT SC HWY 64 NR BARNWELL, SC",
+  "waterbody": "SALKEHATCHIE R AT SC HWY 64 NR BARNWELL, SC",
+  "state": "SC",
+  "latitude": 33.24042765,
+  "longitude": -81.40816269,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salkehatchie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srbs1",
+  "slug": "usgs-02175200",
+  "noaaForecastPath": "data/noaa-forecast/SRBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

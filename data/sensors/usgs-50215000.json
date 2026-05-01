@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50215000",
+  "key": "50215000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50215000",
+  "name": "DRAINGAGE CANAL AT CULEBRA AIRPORT, CULEBRA PR",
+  "waterbody": "DRAINGAGE CANAL AT CULEBRA AIRPORT, CULEBRA PR",
+  "state": "PR",
+  "latitude": 18.31634485,
+  "longitude": -65.30849149,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50215000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

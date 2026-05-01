@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13018500",
+  "key": "13018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13018500",
+  "name": "FLAT CREEK NEAR CHENEY, WY",
+  "waterbody": "FLAT CREEK NEAR CHENEY, WY",
+  "state": "WY",
+  "latitude": 43.40103926,
+  "longitude": -110.7740928,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13018500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

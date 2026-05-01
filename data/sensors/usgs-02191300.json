@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02191300",
+  "key": "02191300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02191300",
+  "name": "BROAD RIVER ABOVE CARLTON, GA",
+  "waterbody": "BROAD RIVER ABOVE CARLTON, GA",
+  "state": "GA",
+  "latitude": 34.0742222,
+  "longitude": -83.0039444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CARG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broad River in GA",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/carg1",
+  "slug": "usgs-02191300",
+  "noaaForecastPath": "data/noaa-forecast/CARG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

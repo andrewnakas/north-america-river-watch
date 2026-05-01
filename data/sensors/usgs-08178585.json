@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178585",
+  "key": "08178585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178585",
+  "name": "Salado Ck at Wilderness Rd, San Antonio, TX",
+  "waterbody": "Salado Ck at Wilderness Rd, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.63078135,
+  "longitude": -98.5655755,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salado Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bswt2",
+  "slug": "usgs-08178585",
+  "noaaForecastPath": "data/noaa-forecast/BSWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06225500",
+  "key": "06225500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06225500",
+  "name": "Wind River near Crowheart, WY",
+  "waterbody": "Wind River near Crowheart, WY",
+  "state": "WY",
+  "latitude": 43.2425,
+  "longitude": -109.0105556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CROW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wind River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crow4",
+  "slug": "usgs-06225500",
+  "noaaForecastPath": "data/noaa-forecast/CROW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

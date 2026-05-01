@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08017200",
+  "key": "08017200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08017200",
+  "name": "Cowleech Fk Sabine Rv at Greenville, TX",
+  "waterbody": "Cowleech Fk Sabine Rv at Greenville, TX",
+  "state": "TX",
+  "latitude": 33.1328933,
+  "longitude": -96.0769164,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowleech Fork Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnvt2",
+  "slug": "usgs-08017200",
+  "noaaForecastPath": "data/noaa-forecast/GNVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

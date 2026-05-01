@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02315200",
+  "key": "02315200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02315200",
+  "name": "DEEP CREEK NR SUWANNEE VALLEY FL",
+  "waterbody": "DEEP CREEK NR SUWANNEE VALLEY FL",
+  "state": "FL",
+  "latitude": 30.3655034,
+  "longitude": -82.6201252,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02315200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

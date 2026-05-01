@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05590800",
+  "key": "05590800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05590800",
+  "name": "LAKE FORK AT ATWOOD, IL",
+  "waterbody": "LAKE FORK AT ATWOOD, IL",
+  "state": "IL",
+  "latitude": 39.80630556,
+  "longitude": -88.4762222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Fork (E-IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atwi2",
+  "slug": "usgs-05590800",
+  "noaaForecastPath": "data/noaa-forecast/ATWI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

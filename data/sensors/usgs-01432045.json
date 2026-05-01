@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01432045",
+  "key": "01432045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01432045",
+  "name": "Lk Wallenpaupack Div at Powerplant at Kimble, PA",
+  "waterbody": "Lk Wallenpaupack Div at Powerplant at Kimble, PA",
+  "state": "PA",
+  "latitude": 41.4681111,
+  "longitude": -75.1305556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01432045",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

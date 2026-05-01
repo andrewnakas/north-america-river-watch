@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11303000",
+  "key": "11303000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11303000",
+  "name": "STANISLAUS R A RIPON CA",
+  "waterbody": "STANISLAUS R A RIPON CA",
+  "state": "CA",
+  "latitude": 37.72962389,
+  "longitude": -121.110454,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stanislaus River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ripc1",
+  "slug": "usgs-11303000",
+  "noaaForecastPath": "data/noaa-forecast/RIPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

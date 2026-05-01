@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15087735",
+  "key": "15087735",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087735",
+  "name": "INDIAN R DIV RETURN FLOW FROM SJC AT SITKA AK",
+  "waterbody": "INDIAN R DIV RETURN FLOW FROM SJC AT SITKA AK",
+  "state": "AK",
+  "latitude": 57.0510267,
+  "longitude": -135.3214865,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ITKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sitka Sound Tide Gauge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/itka2",
+  "slug": "usgs-15087735",
+  "noaaForecastPath": "data/noaa-forecast/ITKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

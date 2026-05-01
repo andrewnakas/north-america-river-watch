@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08062895",
+  "key": "08062895",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08062895",
+  "name": "Kings Ck at SH 34 nr Kaufman, TX",
+  "waterbody": "Kings Ck at SH 34 nr Kaufman, TX",
+  "state": "TX",
+  "latitude": 32.5561111,
+  "longitude": -96.3388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08062895",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

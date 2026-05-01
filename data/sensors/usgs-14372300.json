@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14372300",
+  "key": "14372300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14372300",
+  "name": "ROGUE RIVER NEAR AGNESS, OR",
+  "waterbody": "ROGUE RIVER NEAR AGNESS, OR",
+  "state": "OR",
+  "latitude": 42.59277778,
+  "longitude": -124.062,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14372300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

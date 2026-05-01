@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146800",
+  "key": "02146800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146800",
+  "name": "SUGAR CREEK NR FORT MILL, SC",
+  "waterbody": "SUGAR CREEK NR FORT MILL, SC",
+  "state": "SC",
+  "latitude": 35.00566944,
+  "longitude": -80.90195,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar Creek NC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sugs1",
+  "slug": "usgs-02146800",
+  "noaaForecastPath": "data/noaa-forecast/SUGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

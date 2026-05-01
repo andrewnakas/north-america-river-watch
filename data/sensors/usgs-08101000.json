@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08101000",
+  "key": "08101000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08101000",
+  "name": "Cowhouse Ck at Pidcoke, TX",
+  "waterbody": "Cowhouse Ck at Pidcoke, TX",
+  "state": "TX",
+  "latitude": 31.2848902,
+  "longitude": -97.8850244,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PICT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowhouse Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pict2",
+  "slug": "usgs-08101000",
+  "noaaForecastPath": "data/noaa-forecast/PICT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

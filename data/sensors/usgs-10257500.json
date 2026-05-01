@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10257500",
+  "key": "10257500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10257500",
+  "name": "FALLS C NR WHITE WATER CA",
+  "waterbody": "FALLS C NR WHITE WATER CA",
+  "state": "CA",
+  "latitude": 33.86946776,
+  "longitude": -116.6716819,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10257500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

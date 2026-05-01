@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05244780",
+  "key": "05244780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05244780",
+  "name": "LAKE DARLING OUTLET NEAR ALEXANDRIA, MN",
+  "waterbody": "LAKE DARLING OUTLET NEAR ALEXANDRIA, MN",
+  "state": "MN",
+  "latitude": 45.93138889,
+  "longitude": -95.3805556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05244780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

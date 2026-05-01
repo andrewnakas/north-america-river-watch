@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10371500",
+  "key": "10371500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10371500",
+  "name": "DEEP CREEK ABOVE ADEL,OREG.",
+  "waterbody": "DEEP CREEK ABOVE ADEL,OREG.",
+  "state": "OR",
+  "latitude": 42.18905386,
+  "longitude": -120.0016156,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10371500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

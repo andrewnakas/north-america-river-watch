@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15129120",
+  "key": "15129120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15129120",
+  "name": "ALSEK R AT DRY BAY NR YAKUTAT AK",
+  "waterbody": "ALSEK R AT DRY BAY NR YAKUTAT AK",
+  "state": "AK",
+  "latitude": 59.192806,
+  "longitude": -138.333917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALEA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alsek River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alea2",
+  "slug": "usgs-15129120",
+  "noaaForecastPath": "data/noaa-forecast/ALEA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

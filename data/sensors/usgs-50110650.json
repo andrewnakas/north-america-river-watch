@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50110650",
+  "key": "50110650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50110650",
+  "name": "RIO JACAGUAS ABV LAGO GUAYABAL",
+  "waterbody": "RIO JACAGUAS ABV LAGO GUAYABAL",
+  "state": "PR",
+  "latitude": 18.116589,
+  "longitude": -66.504653,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JLGP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Jacaguas",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jlgp4",
+  "slug": "usgs-50110650",
+  "noaaForecastPath": "data/noaa-forecast/JLGP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

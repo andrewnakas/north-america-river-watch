@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02313098",
+  "key": "02313098",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02313098",
+  "name": "RAINBOW RIVER NEAR DUNNELLON, FL",
+  "waterbody": "RAINBOW RIVER NEAR DUNNELLON, FL",
+  "state": "FL",
+  "latitude": 29.071306,
+  "longitude": -82.426611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RABF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rainbow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rabf1",
+  "slug": "usgs-02313098",
+  "noaaForecastPath": "data/noaa-forecast/RABF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

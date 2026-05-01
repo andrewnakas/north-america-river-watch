@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03529500",
+  "key": "03529500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03529500",
+  "name": "POWELL RIVER AT BIG STONE GAP, VA",
+  "waterbody": "POWELL RIVER AT BIG STONE GAP, VA",
+  "state": "VA",
+  "latitude": 36.86898536,
+  "longitude": -82.7754387,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GAPV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Powell River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gapv2",
+  "slug": "usgs-03529500",
+  "noaaForecastPath": "data/noaa-forecast/GAPV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02086624",
+  "key": "02086624",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02086624",
+  "name": "KNAP OF REEDS CREEK NEAR BUTNER, NC",
+  "waterbody": "KNAP OF REEDS CREEK NEAR BUTNER, NC",
+  "state": "NC",
+  "latitude": 36.12792215,
+  "longitude": -78.7983389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Knap of the Reeds Creek neat Butner, NC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnrn7",
+  "slug": "usgs-02086624",
+  "noaaForecastPath": "data/noaa-forecast/BNRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

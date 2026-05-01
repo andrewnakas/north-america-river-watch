@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03518100",
+  "key": "03518100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03518100",
+  "name": "ABRAMS CREEK BELOW CADES COVE, TN",
+  "waterbody": "ABRAMS CREEK BELOW CADES COVE, TN",
+  "state": "TN",
+  "latitude": 35.59314206,
+  "longitude": -83.8448985,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03518100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

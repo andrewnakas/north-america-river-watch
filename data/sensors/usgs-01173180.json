@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01173180",
+  "key": "01173180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01173180",
+  "name": "WARE RIVER AT BARRE PLAINS, MA",
+  "waterbody": "WARE RIVER AT BARRE PLAINS, MA",
+  "state": "MA",
+  "latitude": 42.38009065,
+  "longitude": -72.1142451,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BPLM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bplm3",
+  "slug": "usgs-01173180",
+  "noaaForecastPath": "data/noaa-forecast/BPLM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01573710",
+  "key": "01573710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573710",
+  "name": "Conewago Creek near Falmouth, PA",
+  "waterbody": "Conewago Creek near Falmouth, PA",
+  "state": "PA",
+  "latitude": 40.14930556,
+  "longitude": -76.68775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FALP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conewago Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/falp1",
+  "slug": "usgs-01573710",
+  "noaaForecastPath": "data/noaa-forecast/FALP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

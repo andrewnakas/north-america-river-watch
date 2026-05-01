@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01401650",
+  "key": "01401650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01401650",
+  "name": "Pike Run at Belle Mead NJ",
+  "waterbody": "Pike Run at Belle Mead NJ",
+  "state": "NJ",
+  "latitude": 40.46805556,
+  "longitude": -74.64888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMDN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pike Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmdn4",
+  "slug": "usgs-01401650",
+  "noaaForecastPath": "data/noaa-forecast/BMDN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08132200",
+  "key": "08132200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08132200",
+  "name": "S Concho Rv at US 87, San Angelo, TX",
+  "waterbody": "S Concho Rv at US 87, San Angelo, TX",
+  "state": "TX",
+  "latitude": 31.41497778,
+  "longitude": -100.43921944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08132200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

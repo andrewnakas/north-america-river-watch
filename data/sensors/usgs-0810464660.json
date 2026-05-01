@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0810464660",
+  "key": "0810464660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0810464660",
+  "name": "N Fk San Gabriel Rv at Reagan Blvd nr Leander, TX",
+  "waterbody": "N Fk San Gabriel Rv at Reagan Blvd nr Leander, TX",
+  "state": "TX",
+  "latitude": 30.69775,
+  "longitude": -97.8492222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork San Gabriel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnrt2",
+  "slug": "usgs-0810464660",
+  "noaaForecastPath": "data/noaa-forecast/GNRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

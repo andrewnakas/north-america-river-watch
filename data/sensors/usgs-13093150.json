@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13093150",
+  "key": "13093150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13093150",
+  "name": "SONNICKSON BUTTE DRAIN NR JEROME ID",
+  "waterbody": "SONNICKSON BUTTE DRAIN NR JEROME ID",
+  "state": "ID",
+  "latitude": 42.64435216,
+  "longitude": -114.5580982,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13093150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

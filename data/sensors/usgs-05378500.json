@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05378500",
+  "key": "05378500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05378500",
+  "name": "MISSISSIPPI RIVER AT WINONA, MN",
+  "waterbody": "MISSISSIPPI RIVER AT WINONA, MN",
+  "state": "MN",
+  "latitude": 44.05571,
+  "longitude": -91.637823,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNAM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnam5",
+  "slug": "usgs-05378500",
+  "noaaForecastPath": "data/noaa-forecast/WNAM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

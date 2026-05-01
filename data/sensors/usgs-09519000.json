@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09519000",
+  "key": "09519000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09519000",
+  "name": "ENTERPRISE CANAL AT GILLESPIE DAM, AZ",
+  "waterbody": "ENTERPRISE CANAL AT GILLESPIE DAM, AZ",
+  "state": "AZ",
+  "latitude": 33.2292104,
+  "longitude": -112.7715597,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09519000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01432119",
+  "key": "01432119",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01432119",
+  "name": "Lackawaxen River at Mouth at Lackawaxen, PA",
+  "waterbody": "Lackawaxen River at Mouth at Lackawaxen, PA",
+  "state": "PA",
+  "latitude": 41.48675616,
+  "longitude": -74.9915572,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01432119",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

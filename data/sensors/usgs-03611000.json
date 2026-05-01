@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03611000",
+  "key": "03611000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03611000",
+  "name": "OHIO RIVER AT PADUCAH, KY",
+  "waterbody": "OHIO RIVER AT PADUCAH, KY",
+  "state": "KY",
+  "latitude": 37.0895004,
+  "longitude": -88.594492,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAHK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pahk2",
+  "slug": "usgs-03611000",
+  "noaaForecastPath": "data/noaa-forecast/PAHK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02104220",
+  "key": "02104220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02104220",
+  "name": "ROCKFISH CREEK AT RAEFORD, NC",
+  "waterbody": "ROCKFISH CREEK AT RAEFORD, NC",
+  "state": "NC",
+  "latitude": 34.9997222,
+  "longitude": -79.2147222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RFDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rockfish Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rfdn7",
+  "slug": "usgs-02104220",
+  "noaaForecastPath": "data/noaa-forecast/RFDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

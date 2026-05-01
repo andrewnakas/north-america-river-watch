@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02482470",
+  "key": "02482470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02482470",
+  "name": "LOBUTCHA CREEK AT RENFROE, MS",
+  "waterbody": "LOBUTCHA CREEK AT RENFROE, MS",
+  "state": "MS",
+  "latitude": 32.8622222,
+  "longitude": -89.4433333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBTM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lobutcha Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbtm6",
+  "slug": "usgs-02482470",
+  "noaaForecastPath": "data/noaa-forecast/LBTM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

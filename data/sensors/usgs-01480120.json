@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01480120",
+  "key": "01480120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480120",
+  "name": "CHRISTINA RIVER AT WILMINGTON, DE",
+  "waterbody": "CHRISTINA RIVER AT WILMINGTON, DE",
+  "state": "DE",
+  "latitude": 39.7360833,
+  "longitude": -75.5405556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WIMD1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Christina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wimd1",
+  "slug": "usgs-01480120",
+  "noaaForecastPath": "data/noaa-forecast/WIMD1.json",
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

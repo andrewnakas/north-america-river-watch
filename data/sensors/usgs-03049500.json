@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03049500",
+  "key": "03049500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049500",
+  "name": "Allegheny River at Natrona, PA",
+  "waterbody": "Allegheny River at Natrona, PA",
+  "state": "PA",
+  "latitude": 40.6152958,
+  "longitude": -79.7183667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NATP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/natp1",
+  "slug": "usgs-03049500",
+  "noaaForecastPath": "data/noaa-forecast/NATP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

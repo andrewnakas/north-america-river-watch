@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08174700",
+  "key": "08174700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08174700",
+  "name": "Guadalupe Rv at Hwy 183 nr Hochheim, TX",
+  "waterbody": "Guadalupe Rv at Hwy 183 nr Hochheim, TX",
+  "state": "TX",
+  "latitude": 29.31446667,
+  "longitude": -97.3035,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdht2",
+  "slug": "usgs-08174700",
+  "noaaForecastPath": "data/noaa-forecast/GDHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

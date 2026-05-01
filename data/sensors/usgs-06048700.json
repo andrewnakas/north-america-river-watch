@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06048700",
+  "key": "06048700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06048700",
+  "name": "East Gallatin R bl Bridger C nr Bozeman MT",
+  "waterbody": "East Gallatin R bl Bridger C nr Bozeman MT",
+  "state": "MT",
+  "latitude": 45.725425,
+  "longitude": -111.0685917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EGRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Gallatin River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/egrm8",
+  "slug": "usgs-06048700",
+  "noaaForecastPath": "data/noaa-forecast/EGRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

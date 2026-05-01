@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03318007",
+  "key": "03318007",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03318007",
+  "name": "RRD STILLING BASIN NR FALLS OF ROUGH, KY",
+  "waterbody": "RRD STILLING BASIN NR FALLS OF ROUGH, KY",
+  "state": "KY",
+  "latitude": 37.62144444,
+  "longitude": -86.50125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rough River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrlk2",
+  "slug": "usgs-03318007",
+  "noaaForecastPath": "data/noaa-forecast/RRLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

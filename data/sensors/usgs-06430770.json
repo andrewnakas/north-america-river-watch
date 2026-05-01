@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06430770",
+  "key": "06430770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06430770",
+  "name": "SPEARFISH CREEK NR LEAD, SD",
+  "waterbody": "SPEARFISH CREEK NR LEAD, SD",
+  "state": "SD",
+  "latitude": 44.29921736,
+  "longitude": -103.8681641,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spearfish Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slns2",
+  "slug": "usgs-06430770",
+  "noaaForecastPath": "data/noaa-forecast/SLNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

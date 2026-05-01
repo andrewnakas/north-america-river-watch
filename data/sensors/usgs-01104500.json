@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01104500",
+  "key": "01104500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104500",
+  "name": "CHARLES RIVER AT WALTHAM, MA",
+  "waterbody": "CHARLES RIVER AT WALTHAM, MA",
+  "state": "MA",
+  "latitude": 42.37231857,
+  "longitude": -71.2336668,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLTM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Charles River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wltm3",
+  "slug": "usgs-01104500",
+  "noaaForecastPath": "data/noaa-forecast/WLTM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

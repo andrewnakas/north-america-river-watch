@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11516530",
+  "key": "11516530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11516530",
+  "name": "KLAMATH R BL IRON GATE DAM CA",
+  "waterbody": "KLAMATH R BL IRON GATE DAM CA",
+  "state": "CA",
+  "latitude": 41.92788026,
+  "longitude": -122.4441653,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Klamath River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irgc1",
+  "slug": "usgs-11516530",
+  "noaaForecastPath": "data/noaa-forecast/IRGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

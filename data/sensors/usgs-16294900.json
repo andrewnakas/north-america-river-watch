@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16294900",
+  "key": "16294900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16294900",
+  "name": "Waikane Str at alt 75 ft at Waikane, Oahu, HI",
+  "waterbody": "Waikane Str at alt 75 ft at Waikane, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.49708333,
+  "longitude": -157.8629722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKNH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waikane Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wknh1",
+  "slug": "usgs-16294900",
+  "noaaForecastPath": "data/noaa-forecast/WKNH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

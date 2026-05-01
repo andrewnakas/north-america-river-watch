@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07252000",
+  "key": "07252000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07252000",
+  "name": "Mulberry River near Mulberry, AR",
+  "waterbody": "Mulberry River near Mulberry, AR",
+  "state": "AR",
+  "latitude": 35.57694444,
+  "longitude": -94.0152778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLBA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mulberry River (AR)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlba4",
+  "slug": "usgs-07252000",
+  "noaaForecastPath": "data/noaa-forecast/MLBA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

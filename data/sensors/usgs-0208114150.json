@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208114150",
+  "key": "0208114150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208114150",
+  "name": "ROANOKE RIVER AT NC 45 NR WESTOVER, NC",
+  "waterbody": "ROANOKE RIVER AT NC 45 NR WESTOVER, NC",
+  "state": "NC",
+  "latitude": 35.915,
+  "longitude": -76.72277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WESN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wesn7",
+  "slug": "usgs-0208114150",
+  "noaaForecastPath": "data/noaa-forecast/WESN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

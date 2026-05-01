@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13215480",
+  "key": "13215480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13215480",
+  "name": "SOUTH FORK MALHEUR RIVER NR RIVERSIDE, OR",
+  "waterbody": "SOUTH FORK MALHEUR RIVER NR RIVERSIDE, OR",
+  "state": "OR",
+  "latitude": 43.5190833,
+  "longitude": -118.1750583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Malheur River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfmo3",
+  "slug": "usgs-13215480",
+  "noaaForecastPath": "data/noaa-forecast/SFMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

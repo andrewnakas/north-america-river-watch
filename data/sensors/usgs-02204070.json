@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02204070",
+  "key": "02204070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02204070",
+  "name": "SOUTH RIVER AT KLONDIKE ROAD, NEAR LITHONIA, GA",
+  "waterbody": "SOUTH RIVER AT KLONDIKE ROAD, NEAR LITHONIA, GA",
+  "state": "GA",
+  "latitude": 33.6301111,
+  "longitude": -84.1284722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOUG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/soug1",
+  "slug": "usgs-02204070",
+  "noaaForecastPath": "data/noaa-forecast/SOUG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

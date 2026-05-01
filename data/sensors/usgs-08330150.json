@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330150",
+  "key": "08330150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330150",
+  "name": "RIO GRANDE AT RIO BRAVO BRIDGE NEAR ALBUQUERQUE,NM",
+  "waterbody": "RIO GRANDE AT RIO BRAVO BRIDGE NEAR ALBUQUERQUE,NM",
+  "state": "NM",
+  "latitude": 35.0283861,
+  "longitude": -106.6734639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11463900",
+  "key": "11463900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11463900",
+  "name": "MAACAMA C NR KELLOGG CA",
+  "waterbody": "MAACAMA C NR KELLOGG CA",
+  "state": "CA",
+  "latitude": 38.6409811,
+  "longitude": -122.7638434,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RMKC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maacama Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rmkc1",
+  "slug": "usgs-11463900",
+  "noaaForecastPath": "data/noaa-forecast/RMKC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

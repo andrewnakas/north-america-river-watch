@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01439800",
+  "key": "01439800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01439800",
+  "name": "Big Flat Brook near Hainesville NJ",
+  "waterbody": "Big Flat Brook near Hainesville NJ",
+  "state": "NJ",
+  "latitude": 41.20694444,
+  "longitude": -74.8036111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01439800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

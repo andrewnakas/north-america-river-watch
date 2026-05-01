@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03026500",
+  "key": "03026500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03026500",
+  "name": "Sevenmile Run near Rasselas, PA",
+  "waterbody": "Sevenmile Run near Rasselas, PA",
+  "state": "PA",
+  "latitude": 41.63117349,
+  "longitude": -78.5766898,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RASP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sevenmile Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rasp1",
+  "slug": "usgs-03026500",
+  "noaaForecastPath": "data/noaa-forecast/RASP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

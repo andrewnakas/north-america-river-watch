@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14159200",
+  "key": "14159200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14159200",
+  "name": "SO FK MCKENZIE RIVER ABV COUGAR LAKE NR RAINBOW OR",
+  "waterbody": "SO FK MCKENZIE RIVER ABV COUGAR LAKE NR RAINBOW OR",
+  "state": "OR",
+  "latitude": 44.047067,
+  "longitude": -122.2178245,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork McKenzie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfco3",
+  "slug": "usgs-14159200",
+  "noaaForecastPath": "data/noaa-forecast/SFCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

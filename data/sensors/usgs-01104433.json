@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104433",
+  "key": "01104433",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104433",
+  "name": "HOBBS BROOK, UNNAMED TRIBUTARY 1, NEAR WESTON, MA",
+  "waterbody": "HOBBS BROOK, UNNAMED TRIBUTARY 1, NEAR WESTON, MA",
+  "state": "MA",
+  "latitude": 42.39120689,
+  "longitude": -71.2711679,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104433",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

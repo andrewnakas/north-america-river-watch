@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07324200",
+  "key": "07324200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07324200",
+  "name": "Washita River near Hammon, OK",
+  "waterbody": "Washita River near Hammon, OK",
+  "state": "OK",
+  "latitude": 35.65643696,
+  "longitude": -99.3062086,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMMO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmmo2",
+  "slug": "usgs-07324200",
+  "noaaForecastPath": "data/noaa-forecast/HMMO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

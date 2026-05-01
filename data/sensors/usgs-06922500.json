@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06922500",
+  "key": "06922500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06922500",
+  "name": "Osage River at Warsaw, MO",
+  "waterbody": "Osage River at Warsaw, MO",
+  "state": "MO",
+  "latitude": 38.2445,
+  "longitude": -93.3871111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRSM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Osage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrsm7",
+  "slug": "usgs-06922500",
+  "noaaForecastPath": "data/noaa-forecast/WRSM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

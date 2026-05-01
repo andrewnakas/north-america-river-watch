@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09193000",
+  "key": "09193000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09193000",
+  "name": "NEW FORK RIVER BL NEW FORK LAKE, NEAR CORA, WY",
+  "waterbody": "NEW FORK RIVER BL NEW FORK LAKE, NEAR CORA, WY",
+  "state": "WY",
+  "latitude": 43.0785272,
+  "longitude": -109.9954821,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNFW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "New Fork River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnfw4",
+  "slug": "usgs-09193000",
+  "noaaForecastPath": "data/noaa-forecast/BNFW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

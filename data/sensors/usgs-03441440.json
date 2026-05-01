@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03441440",
+  "key": "03441440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03441440",
+  "name": "LITTLE RIVER AB HIGH FALLS NEAR CEDAR MT, NC",
+  "waterbody": "LITTLE RIVER AB HIGH FALLS NEAR CEDAR MT, NC",
+  "state": "NC",
+  "latitude": 35.19233856,
+  "longitude": -82.613457,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03441440",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

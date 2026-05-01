@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329918",
+  "key": "08329918",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329918",
+  "name": "RIO GRANDE AT ALAMEDA BRIDGE AT ALAMEDA, NM",
+  "waterbody": "RIO GRANDE AT ALAMEDA BRIDGE AT ALAMEDA, NM",
+  "state": "NM",
+  "latitude": 35.1977222,
+  "longitude": -106.6427778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329918",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

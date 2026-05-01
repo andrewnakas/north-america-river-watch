@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05404129",
+  "key": "05404129",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05404129",
+  "name": "BARABOO RIVER AT LA VALLE, WI",
+  "waterbody": "BARABOO RIVER AT LA VALLE, WI",
+  "state": "WI",
+  "latitude": 43.58230556,
+  "longitude": -90.1335278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAVW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Baraboo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lavw3",
+  "slug": "usgs-05404129",
+  "noaaForecastPath": "data/noaa-forecast/LAVW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

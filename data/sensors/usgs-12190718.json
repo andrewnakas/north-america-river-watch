@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12190718",
+  "key": "12190718",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12190718",
+  "name": "PARK CREEK AT UPPER BRIDGE NEAR CONCRETE, WA",
+  "waterbody": "PARK CREEK AT UPPER BRIDGE NEAR CONCRETE, WA",
+  "state": "WA",
+  "latitude": 48.7431767,
+  "longitude": -121.690975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12190718",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

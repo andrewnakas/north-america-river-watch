@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06019500",
+  "key": "06019500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06019500",
+  "name": "Ruby River above reservoir near Alder, MT",
+  "waterbody": "Ruby River above reservoir near Alder, MT",
+  "state": "MT",
+  "latitude": 45.1923194,
+  "longitude": -112.1428167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ruby River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrrm8",
+  "slug": "usgs-06019500",
+  "noaaForecastPath": "data/noaa-forecast/RRRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

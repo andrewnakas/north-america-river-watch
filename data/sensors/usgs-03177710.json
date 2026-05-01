@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03177710",
+  "key": "03177710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03177710",
+  "name": "BLUESTONE RIVER AT FALLS MILLS, VA",
+  "waterbody": "BLUESTONE RIVER AT FALLS MILLS, VA",
+  "state": "VA",
+  "latitude": 37.27150554,
+  "longitude": -81.3048227,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRVV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bluestone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brvv2",
+  "slug": "usgs-03177710",
+  "noaaForecastPath": "data/noaa-forecast/BRVV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

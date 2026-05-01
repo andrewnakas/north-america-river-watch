@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06913500",
+  "key": "06913500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06913500",
+  "name": "MARAIS DES CYGNES R NR OTTAWA, KS",
+  "waterbody": "MARAIS DES CYGNES R NR OTTAWA, KS",
+  "state": "KS",
+  "latitude": 38.61806669,
+  "longitude": -95.2683071,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OTWK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marais Des Cygnes River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/otwk1",
+  "slug": "usgs-06913500",
+  "noaaForecastPath": "data/noaa-forecast/OTWK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

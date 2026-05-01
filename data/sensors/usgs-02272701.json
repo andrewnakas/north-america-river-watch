@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02272701",
+  "key": "02272701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02272701",
+  "name": "KISSIMMEE RIVER ABOVE S-69 NR BASINGER, FL",
+  "waterbody": "KISSIMMEE RIVER ABOVE S-69 NR BASINGER, FL",
+  "state": "FL",
+  "latitude": 27.341944,
+  "longitude": -81.034167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02272701",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

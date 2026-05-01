@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13083000",
+  "key": "13083000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13083000",
+  "name": "TRAPPER CREEK NR OAKLEY ID",
+  "waterbody": "TRAPPER CREEK NR OAKLEY ID",
+  "state": "ID",
+  "latitude": 42.1658333,
+  "longitude": -113.983611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCOI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trapper Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcoi1",
+  "slug": "usgs-13083000",
+  "noaaForecastPath": "data/noaa-forecast/TCOI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

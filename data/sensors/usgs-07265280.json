@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07265280",
+  "key": "07265280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07265280",
+  "name": "Arkansas River at Pendleton, AR",
+  "waterbody": "Arkansas River at Pendleton, AR",
+  "state": "AR",
+  "latitude": 33.9786111,
+  "longitude": -91.3844444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PFAA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pfaa4",
+  "slug": "usgs-07265280",
+  "noaaForecastPath": "data/noaa-forecast/PFAA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

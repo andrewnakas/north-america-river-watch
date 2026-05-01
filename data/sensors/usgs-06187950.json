@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06187950",
+  "key": "06187950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06187950",
+  "name": "Soda Butte Cr nr Lamar Ranger Station YNP",
+  "waterbody": "Soda Butte Cr nr Lamar Ranger Station YNP",
+  "state": "WY",
+  "latitude": 44.86898889,
+  "longitude": -110.164775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06187950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

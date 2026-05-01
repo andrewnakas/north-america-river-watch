@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01542810",
+  "key": "01542810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01542810",
+  "name": "Waldy Run near Emporium, PA",
+  "waterbody": "Waldy Run near Emporium, PA",
+  "state": "PA",
+  "latitude": 41.57889415,
+  "longitude": -78.2924824,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EPMP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waldy Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/epmp1",
+  "slug": "usgs-01542810",
+  "noaaForecastPath": "data/noaa-forecast/EPMP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

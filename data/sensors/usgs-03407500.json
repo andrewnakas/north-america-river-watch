@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03407500",
+  "key": "03407500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03407500",
+  "name": "BUCK CREEK NEAR SHOPVILLE, KY",
+  "waterbody": "BUCK CREEK NEAR SHOPVILLE, KY",
+  "state": "KY",
+  "latitude": 37.21063659,
+  "longitude": -84.4643845,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buck Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shvk2",
+  "slug": "usgs-03407500",
+  "noaaForecastPath": "data/noaa-forecast/SHVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

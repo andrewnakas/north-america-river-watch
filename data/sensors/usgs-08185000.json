@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08185000",
+  "key": "08185000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08185000",
+  "name": "Cibolo Ck at Selma, TX",
+  "waterbody": "Cibolo Ck at Selma, TX",
+  "state": "TX",
+  "latitude": 29.5941173,
+  "longitude": -98.3111523,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SELT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cibolo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/selt2",
+  "slug": "usgs-08185000",
+  "noaaForecastPath": "data/noaa-forecast/SELT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

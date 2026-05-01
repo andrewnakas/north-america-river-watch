@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06195600",
+  "key": "06195600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06195600",
+  "name": "Shields River nr Livingston MT",
+  "waterbody": "Shields River nr Livingston MT",
+  "state": "MT",
+  "latitude": 45.7383611,
+  "longitude": -110.4794694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shields River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sldm8",
+  "slug": "usgs-06195600",
+  "noaaForecastPath": "data/noaa-forecast/SLDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

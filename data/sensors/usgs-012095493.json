@@ -1,0 +1,19 @@
+{
+  "id": "usgs:012095493",
+  "key": "012095493",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "012095493",
+  "name": "RIDGEFIELD BROOK AT SHIELDS LANE NR RIDGEFIELD, CT",
+  "waterbody": "RIDGEFIELD BROOK AT SHIELDS LANE NR RIDGEFIELD, CT",
+  "state": "CT",
+  "latitude": 41.31408889,
+  "longitude": -73.49289444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-012095493",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

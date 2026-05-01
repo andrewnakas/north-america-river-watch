@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01475530",
+  "key": "01475530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01475530",
+  "name": "Cobbs Cr at U.S. Hghwy No. 1 at Philadelphia, PA",
+  "waterbody": "Cobbs Cr at U.S. Hghwy No. 1 at Philadelphia, PA",
+  "state": "PA",
+  "latitude": 39.9747355,
+  "longitude": -75.2798924,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01475530",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

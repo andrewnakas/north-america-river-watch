@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04114000",
+  "key": "04114000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04114000",
+  "name": "GRAND RIVER AT PORTLAND, MI",
+  "waterbody": "GRAND RIVER AT PORTLAND, MI",
+  "state": "MI",
+  "latitude": 42.85642289,
+  "longitude": -84.9122182,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PORM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/porm4",
+  "slug": "usgs-04114000",
+  "noaaForecastPath": "data/noaa-forecast/PORM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

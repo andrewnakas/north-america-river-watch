@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09132500",
+  "key": "09132500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09132500",
+  "name": "NORTH FORK GUNNISON RIVER NEAR SOMERSET, CO.",
+  "waterbody": "NORTH FORK GUNNISON RIVER NEAR SOMERSET, CO.",
+  "state": "CO",
+  "latitude": 38.9258228,
+  "longitude": -107.4342211,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gunnison River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/somc2",
+  "slug": "usgs-09132500",
+  "noaaForecastPath": "data/noaa-forecast/SOMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

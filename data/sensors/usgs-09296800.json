@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09296800",
+  "key": "09296800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09296800",
+  "name": "UINTA R BLW POWERPLANT DIVERSION, NR NEOLA, UT",
+  "waterbody": "UINTA R BLW POWERPLANT DIVERSION, NR NEOLA, UT",
+  "state": "UT",
+  "latitude": 40.5913396,
+  "longitude": -110.1143226,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEUU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Uinta River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/neuu1",
+  "slug": "usgs-09296800",
+  "noaaForecastPath": "data/noaa-forecast/NEUU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08211502",
+  "key": "08211502",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08211502",
+  "name": "Nueces Rv nr Odem, TX",
+  "waterbody": "Nueces Rv nr Odem, TX",
+  "state": "TX",
+  "latitude": 27.8952986,
+  "longitude": -97.6288843,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08211502",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

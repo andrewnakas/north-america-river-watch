@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08394024",
+  "key": "08394024",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08394024",
+  "name": "PECOS R N BOUNDARY (BLM WETLANDS) NR DEXTER, NM",
+  "waterbody": "PECOS R N BOUNDARY (BLM WETLANDS) NR DEXTER, NM",
+  "state": "NM",
+  "latitude": 33.31725,
+  "longitude": -104.36166667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08394024",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

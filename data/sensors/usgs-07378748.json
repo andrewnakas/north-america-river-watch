@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07378748",
+  "key": "07378748",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07378748",
+  "name": "Bluff Swamp near Kleinpeter, LA",
+  "waterbody": "Bluff Swamp near Kleinpeter, LA",
+  "state": "LA",
+  "latitude": 30.323527,
+  "longitude": -91.0181576,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLUL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blul1",
+  "slug": "usgs-07378748",
+  "noaaForecastPath": "data/noaa-forecast/BLUL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

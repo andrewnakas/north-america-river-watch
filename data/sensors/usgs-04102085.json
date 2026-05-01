@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04102085",
+  "key": "04102085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04102085",
+  "name": "ST. JOSEPH R. MAIN CHAN. AT BL-94 AT BENTON HARBOR",
+  "waterbody": "ST. JOSEPH R. MAIN CHAN. AT BL-94 AT BENTON HARBOR",
+  "state": "MI",
+  "latitude": 42.11186389,
+  "longitude": -86.47061389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SJBM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (MI/IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sjbm4",
+  "slug": "usgs-04102085",
+  "noaaForecastPath": "data/noaa-forecast/SJBM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

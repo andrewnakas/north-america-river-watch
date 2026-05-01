@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08407500",
+  "key": "08407500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08407500",
+  "name": "PECOS RIVER AT RED BLUFF, NM",
+  "waterbody": "PECOS RIVER AT RED BLUFF, NM",
+  "state": "NM",
+  "latitude": 32.07519167,
+  "longitude": -104.0394361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBFN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 10 miles S of Malaga",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbfn5",
+  "slug": "usgs-08407500",
+  "noaaForecastPath": "data/noaa-forecast/RBFN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

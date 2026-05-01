@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11015000",
+  "key": "11015000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11015000",
+  "name": "SWEETWATER R NR DESCANSO CA",
+  "waterbody": "SWEETWATER R NR DESCANSO CA",
+  "state": "CA",
+  "latitude": 32.8347735,
+  "longitude": -116.6230596,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11015000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

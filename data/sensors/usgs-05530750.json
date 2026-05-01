@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05530750",
+  "key": "05530750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05530750",
+  "name": "DES PLAINES RIVER AT RIVER FOREST, IL",
+  "waterbody": "DES PLAINES RIVER AT RIVER FOREST, IL",
+  "state": "IL",
+  "latitude": 41.8883333,
+  "longitude": -87.8327778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Plaines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvfi2",
+  "slug": "usgs-05530750",
+  "noaaForecastPath": "data/noaa-forecast/RVFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

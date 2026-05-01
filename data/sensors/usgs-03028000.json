@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03028000",
+  "key": "03028000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03028000",
+  "name": "West Branch Clarion River at Wilcox, PA",
+  "waterbody": "West Branch Clarion River at Wilcox, PA",
+  "state": "PA",
+  "latitude": 41.57533955,
+  "longitude": -78.69224919,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCXP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Clarion River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcxp1",
+  "slug": "usgs-03028000",
+  "noaaForecastPath": "data/noaa-forecast/WCXP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

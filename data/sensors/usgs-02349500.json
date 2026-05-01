@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02349500",
+  "key": "02349500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02349500",
+  "name": "FLINT RIVER AT MONTEZUMA, GA",
+  "waterbody": "FLINT RIVER AT MONTEZUMA, GA",
+  "state": "GA",
+  "latitude": 32.29821336,
+  "longitude": -84.0437965,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02349500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

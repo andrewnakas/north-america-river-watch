@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15276000",
+  "key": "15276000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15276000",
+  "name": "SHIP C NR ANCHORAGE AK",
+  "waterbody": "SHIP C NR ANCHORAGE AK",
+  "state": "AK",
+  "latitude": 61.225556,
+  "longitude": -149.635,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHIA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ship Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shia2",
+  "slug": "usgs-15276000",
+  "noaaForecastPath": "data/noaa-forecast/SHIA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

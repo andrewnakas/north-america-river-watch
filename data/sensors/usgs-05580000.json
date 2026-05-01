@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05580000",
+  "key": "05580000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05580000",
+  "name": "KICKAPOO CREEK AT WAYNESVILLE, IL",
+  "waterbody": "KICKAPOO CREEK AT WAYNESVILLE, IL",
+  "state": "IL",
+  "latitude": 40.25476389,
+  "longitude": -89.1294278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAYI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kickapoo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wayi2",
+  "slug": "usgs-05580000",
+  "noaaForecastPath": "data/noaa-forecast/WAYI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

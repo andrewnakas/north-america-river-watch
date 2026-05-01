@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12388700",
+  "key": "12388700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12388700",
+  "name": "Flathead River at Perma MT",
+  "waterbody": "Flathead River at Perma MT",
+  "state": "MT",
+  "latitude": 47.36679167,
+  "longitude": -114.585,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PERM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flathead River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/perm8",
+  "slug": "usgs-12388700",
+  "noaaForecastPath": "data/noaa-forecast/PERM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

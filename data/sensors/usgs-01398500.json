@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01398500",
+  "key": "01398500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01398500",
+  "name": "North Branch Raritan River near Far Hills NJ",
+  "waterbody": "North Branch Raritan River near Far Hills NJ",
+  "state": "NJ",
+  "latitude": 40.70833333,
+  "longitude": -74.63611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FARN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Raritan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/farn4",
+  "slug": "usgs-01398500",
+  "noaaForecastPath": "data/noaa-forecast/FARN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

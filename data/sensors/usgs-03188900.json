@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03188900",
+  "key": "03188900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03188900",
+  "name": "LAUREL CREEK NEAR FENWICK, WV",
+  "waterbody": "LAUREL CREEK NEAR FENWICK, WV",
+  "state": "WV",
+  "latitude": 38.1636111,
+  "longitude": -80.5880556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FENW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cherry River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fenw2",
+  "slug": "usgs-03188900",
+  "noaaForecastPath": "data/noaa-forecast/FENW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

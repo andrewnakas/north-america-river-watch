@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04146063",
+  "key": "04146063",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04146063",
+  "name": "SOUTH BRANCH FLINT RIVER NEAR COLUMBIAVILLE,MI",
+  "waterbody": "SOUTH BRANCH FLINT RIVER NEAR COLUMBIAVILLE,MI",
+  "state": "MI",
+  "latitude": 43.1594706,
+  "longitude": -83.3507814,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COLM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "S. Br. Flint River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/colm4",
+  "slug": "usgs-04146063",
+  "noaaForecastPath": "data/noaa-forecast/COLM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05449000",
+  "key": "05449000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05449000",
+  "name": "East Branch Iowa River near Klemme, IA",
+  "waterbody": "East Branch Iowa River near Klemme, IA",
+  "state": "IA",
+  "latitude": 43.0094078,
+  "longitude": -93.6279895,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05449000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

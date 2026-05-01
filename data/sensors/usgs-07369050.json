@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07369050",
+  "key": "07369050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07369050",
+  "name": "Bayou Lafourche near Alto, LA",
+  "waterbody": "Bayou Lafourche near Alto, LA",
+  "state": "LA",
+  "latitude": 32.3973687,
+  "longitude": -91.9945763,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLFL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Lafourche (NE LA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blfl1",
+  "slug": "usgs-07369050",
+  "noaaForecastPath": "data/noaa-forecast/BLFL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

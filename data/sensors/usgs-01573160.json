@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01573160",
+  "key": "01573160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573160",
+  "name": "Quittapahilla Creek near Bellegrove, PA",
+  "waterbody": "Quittapahilla Creek near Bellegrove, PA",
+  "state": "PA",
+  "latitude": 40.3426111,
+  "longitude": -76.56188889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QCBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quittapahilla Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qcbp1",
+  "slug": "usgs-01573160",
+  "noaaForecastPath": "data/noaa-forecast/QCBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

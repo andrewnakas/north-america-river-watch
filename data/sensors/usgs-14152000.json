@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14152000",
+  "key": "14152000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14152000",
+  "name": "MIDDLE FORK WILLAMETTE RIVER AT JASPER, OR",
+  "waterbody": "MIDDLE FORK WILLAMETTE RIVER AT JASPER, OR",
+  "state": "OR",
+  "latitude": 43.99818166,
+  "longitude": -122.9059126,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JASO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mid Fork Willamette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jaso3",
+  "slug": "usgs-14152000",
+  "noaaForecastPath": "data/noaa-forecast/JASO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08143890",
+  "key": "08143890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08143890",
+  "name": "San Saba Rv at FM 864 nr Fort McKavett, TX",
+  "waterbody": "San Saba Rv at FM 864 nr Fort McKavett, TX",
+  "state": "TX",
+  "latitude": 30.83455833,
+  "longitude": -100.0940889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08143890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

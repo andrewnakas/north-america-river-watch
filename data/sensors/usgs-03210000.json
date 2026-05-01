@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03210000",
+  "key": "03210000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03210000",
+  "name": "JOHNS CREEK NEAR META, KY",
+  "waterbody": "JOHNS CREEK NEAR META, KY",
+  "state": "KY",
+  "latitude": 37.5670444,
+  "longitude": -82.45792659,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTGK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Johns Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtgk2",
+  "slug": "usgs-03210000",
+  "noaaForecastPath": "data/noaa-forecast/MTGK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

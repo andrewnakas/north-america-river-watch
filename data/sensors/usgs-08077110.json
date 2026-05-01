@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08077110",
+  "key": "08077110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08077110",
+  "name": "Hickory Sl at FM 865 nr Pearland, TX",
+  "waterbody": "Hickory Sl at FM 865 nr Pearland, TX",
+  "state": "TX",
+  "latitude": 29.56640556,
+  "longitude": -95.3507361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HYST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hickory Slough",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hyst2",
+  "slug": "usgs-08077110",
+  "noaaForecastPath": "data/noaa-forecast/HYST2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

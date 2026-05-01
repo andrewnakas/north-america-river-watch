@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11508600",
+  "key": "11508600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11508600",
+  "name": "KLAMATH RIVER NEAR KLAMATH FALLS, OR",
+  "waterbody": "KLAMATH RIVER NEAR KLAMATH FALLS, OR",
+  "state": "OR",
+  "latitude": 42.17467778,
+  "longitude": -121.798711,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11508600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

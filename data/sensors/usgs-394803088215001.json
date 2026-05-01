@@ -1,0 +1,19 @@
+{
+  "id": "usgs:394803088215001",
+  "key": "394803088215001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "394803088215001",
+  "name": "KASKASKIA RIVER INFLOW AT FICKLIN, IL",
+  "waterbody": "KASKASKIA RIVER INFLOW AT FICKLIN, IL",
+  "state": "IL",
+  "latitude": 39.8008333,
+  "longitude": -88.36388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-394803088215001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

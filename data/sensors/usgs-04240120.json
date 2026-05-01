@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04240120",
+  "key": "04240120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04240120",
+  "name": "LEY CREEK AT PARK STREET, SYRACUSE NY",
+  "waterbody": "LEY CREEK AT PARK STREET, SYRACUSE NY",
+  "state": "NY",
+  "latitude": 43.0772222,
+  "longitude": -76.17027778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04240120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

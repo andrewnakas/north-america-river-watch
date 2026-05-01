@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07138000",
+  "key": "07138000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07138000",
+  "name": "ARKANSAS R AT SYRACUSE, KS",
+  "waterbody": "ARKANSAS R AT SYRACUSE, KS",
+  "state": "KS",
+  "latitude": 37.96613038,
+  "longitude": -101.7568467,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SYRK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/syrk1",
+  "slug": "usgs-07138000",
+  "noaaForecastPath": "data/noaa-forecast/SYRK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

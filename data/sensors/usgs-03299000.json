@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03299000",
+  "key": "03299000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03299000",
+  "name": "ROLLING FORK NEAR LEBANON, KY",
+  "waterbody": "ROLLING FORK NEAR LEBANON, KY",
+  "state": "KY",
+  "latitude": 37.4972872,
+  "longitude": -85.3238512,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03299000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

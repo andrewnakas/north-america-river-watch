@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08251500",
+  "key": "08251500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08251500",
+  "name": "RIO GRANDE NEAR LOBATOS, CO",
+  "waterbody": "RIO GRANDE NEAR LOBATOS, CO",
+  "state": "CO",
+  "latitude": 37.0786111,
+  "longitude": -105.7569444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08251500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

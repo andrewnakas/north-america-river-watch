@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03223425",
+  "key": "03223425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03223425",
+  "name": "Whetstone Creek at Mt Gilead OH",
+  "waterbody": "Whetstone Creek at Mt Gilead OH",
+  "state": "OH",
+  "latitude": 40.5489487,
+  "longitude": -82.8212902,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whetstone Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mngo1",
+  "slug": "usgs-03223425",
+  "noaaForecastPath": "data/noaa-forecast/MNGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

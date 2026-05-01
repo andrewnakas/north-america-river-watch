@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12363000",
+  "key": "12363000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12363000",
+  "name": "Flathead River at Columbia Falls MT",
+  "waterbody": "Flathead River at Columbia Falls MT",
+  "state": "MT",
+  "latitude": 48.3618111,
+  "longitude": -114.18495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFMM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flathead River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfmm8",
+  "slug": "usgs-12363000",
+  "noaaForecastPath": "data/noaa-forecast/CFMM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

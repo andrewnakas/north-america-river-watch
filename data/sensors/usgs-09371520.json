@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09371520",
+  "key": "09371520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09371520",
+  "name": "MCELMO CREEK ABOVE TRAIL CANYON NEAR CORTEZ, CO",
+  "waterbody": "MCELMO CREEK ABOVE TRAIL CANYON NEAR CORTEZ, CO",
+  "state": "CO",
+  "latitude": 37.32666396,
+  "longitude": -108.70066068,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09371520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

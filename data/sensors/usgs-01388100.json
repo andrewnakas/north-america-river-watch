@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01388100",
+  "key": "01388100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01388100",
+  "name": "Ramapo River at Dawes Highway at Pompton NJ",
+  "waterbody": "Ramapo River at Dawes Highway at Pompton NJ",
+  "state": "NJ",
+  "latitude": 40.98555556,
+  "longitude": -74.27944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POMN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ramapo River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pomn4",
+  "slug": "usgs-01388100",
+  "noaaForecastPath": "data/noaa-forecast/POMN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01594930",
+  "key": "01594930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594930",
+  "name": "LAUREL RUN AT DOBBIN RD NEAR WILSON, MD",
+  "waterbody": "LAUREL RUN AT DOBBIN RD NEAR WILSON, MD",
+  "state": "MD",
+  "latitude": 39.2436111,
+  "longitude": -79.4283056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01594930",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

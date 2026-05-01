@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03232500",
+  "key": "03232500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03232500",
+  "name": "Rocky Fork near Barretts Mills OH",
+  "waterbody": "Rocky Fork near Barretts Mills OH",
+  "state": "OH",
+  "latitude": 39.21839888,
+  "longitude": -83.3854695,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brmo1",
+  "slug": "usgs-03232500",
+  "noaaForecastPath": "data/noaa-forecast/BRMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

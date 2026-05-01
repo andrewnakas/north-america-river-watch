@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0424906215",
+  "key": "0424906215",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0424906215",
+  "name": "LITTLE SALMON RIVER AT MOUTH NEAR TEXAS NY",
+  "waterbody": "LITTLE SALMON RIVER AT MOUTH NEAR TEXAS NY",
+  "state": "NY",
+  "latitude": 43.52468889,
+  "longitude": -76.2565611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TNYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tnyn6",
+  "slug": "usgs-0424906215",
+  "noaaForecastPath": "data/noaa-forecast/TNYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

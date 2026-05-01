@@ -1,0 +1,22 @@
+{
+  "id": "usgs:295501090190400",
+  "key": "295501090190400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "295501090190400",
+  "name": "Davis Pond Freshwater Diversion near Boutte, LA",
+  "waterbody": "Davis Pond Freshwater Diversion near Boutte, LA",
+  "state": "LA",
+  "latitude": 29.91694444,
+  "longitude": -90.3177778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DPDL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barataria Bay and Waterway",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dpdl1",
+  "slug": "usgs-295501090190400",
+  "noaaForecastPath": "data/noaa-forecast/DPDL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

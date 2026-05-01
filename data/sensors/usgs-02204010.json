@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02204010",
+  "key": "02204010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02204010",
+  "name": "POLE BRIDGE CRK AT FAIRINGTON DR, NR LITHONIA, GA",
+  "waterbody": "POLE BRIDGE CRK AT FAIRINGTON DR, NR LITHONIA, GA",
+  "state": "GA",
+  "latitude": 33.695556,
+  "longitude": -84.146111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02204010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

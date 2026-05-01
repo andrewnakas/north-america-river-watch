@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08030730",
+  "key": "08030730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08030730",
+  "name": "Adams Bayou at FM 3247 nr Orange, TX",
+  "waterbody": "Adams Bayou at FM 3247 nr Orange, TX",
+  "state": "TX",
+  "latitude": 30.13194444,
+  "longitude": -93.7866111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OABT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Adams Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oabt2",
+  "slug": "usgs-08030730",
+  "noaaForecastPath": "data/noaa-forecast/OABT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

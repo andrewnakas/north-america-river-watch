@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50295000",
+  "key": "50295000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50295000",
+  "name": "GUINEA GUT AT BETHANY, ST. JOHN, USVI",
+  "waterbody": "GUINEA GUT AT BETHANY, ST. JOHN, USVI",
+  "state": "VI",
+  "latitude": 18.32995428,
+  "longitude": -64.78013809,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50295000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04066500",
+  "key": "04066500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04066500",
+  "name": "PIKE RIVER AT AMBERG, WI",
+  "waterbody": "PIKE RIVER AT AMBERG, WI",
+  "state": "WI",
+  "latitude": 45.5,
+  "longitude": -88,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMBW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pike River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ambw3",
+  "slug": "usgs-04066500",
+  "noaaForecastPath": "data/noaa-forecast/AMBW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

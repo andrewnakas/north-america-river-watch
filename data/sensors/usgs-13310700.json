@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13310700",
+  "key": "13310700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13310700",
+  "name": "SF SALMON RIVER NR KRASSEL RANGER STATION ID",
+  "waterbody": "SF SALMON RIVER NR KRASSEL RANGER STATION ID",
+  "state": "ID",
+  "latitude": 44.9869444,
+  "longitude": -115.725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krsi1",
+  "slug": "usgs-13310700",
+  "noaaForecastPath": "data/noaa-forecast/KRSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

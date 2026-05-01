@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05595730",
+  "key": "05595730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595730",
+  "name": "RAYSE CREEK NEAR WALTONVILLE, IL",
+  "waterbody": "RAYSE CREEK NEAR WALTONVILLE, IL",
+  "state": "IL",
+  "latitude": 38.25416667,
+  "longitude": -89.0405556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rayse Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrci2",
+  "slug": "usgs-05595730",
+  "noaaForecastPath": "data/noaa-forecast/WRCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

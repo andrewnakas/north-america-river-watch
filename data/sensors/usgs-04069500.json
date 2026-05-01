@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04069500",
+  "key": "04069500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04069500",
+  "name": "PESHTIGO RIVER AT PESHTIGO, WI",
+  "waterbody": "PESHTIGO RIVER AT PESHTIGO, WI",
+  "state": "WI",
+  "latitude": 45.0475,
+  "longitude": -87.7444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PESW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peshtigo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pesw3",
+  "slug": "usgs-04069500",
+  "noaaForecastPath": "data/noaa-forecast/PESW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

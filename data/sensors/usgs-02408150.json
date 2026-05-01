@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02408150",
+  "key": "02408150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02408150",
+  "name": "WALNUT CREEK ABOVE CLANTON, ALA",
+  "waterbody": "WALNUT CREEK ABOVE CLANTON, ALA",
+  "state": "AL",
+  "latitude": 32.89027778,
+  "longitude": -86.5791667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCCA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcca1",
+  "slug": "usgs-02408150",
+  "noaaForecastPath": "data/noaa-forecast/WCCA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

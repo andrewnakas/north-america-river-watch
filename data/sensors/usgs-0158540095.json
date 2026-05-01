@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0158540095",
+  "key": "0158540095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0158540095",
+  "name": "BACK RIVER TRIBUTARY AT ROCKY POINT PARK, MD",
+  "waterbody": "BACK RIVER TRIBUTARY AT ROCKY POINT PARK, MD",
+  "state": "MD",
+  "latitude": 39.2503611,
+  "longitude": -76.4041667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Back River Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brtm2",
+  "slug": "usgs-0158540095",
+  "noaaForecastPath": "data/noaa-forecast/BRTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

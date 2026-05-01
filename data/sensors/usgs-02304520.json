@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02304520",
+  "key": "02304520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02304520",
+  "name": "HILLSBOROUGH RIVER AT SULPHUR SPRINGS FL",
+  "waterbody": "HILLSBOROUGH RIVER AT SULPHUR SPRINGS FL",
+  "state": "FL",
+  "latitude": 28.0197412,
+  "longitude": -82.451761,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sulphur Springs Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssrf1",
+  "slug": "usgs-02304520",
+  "noaaForecastPath": "data/noaa-forecast/SSRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

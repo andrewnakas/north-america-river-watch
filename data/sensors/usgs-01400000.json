@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01400000",
+  "key": "01400000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01400000",
+  "name": "North Branch Raritan River near Raritan NJ",
+  "waterbody": "North Branch Raritan River near Raritan NJ",
+  "state": "NJ",
+  "latitude": 40.57055556,
+  "longitude": -74.67916667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Raritan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrtn4",
+  "slug": "usgs-01400000",
+  "noaaForecastPath": "data/noaa-forecast/RRTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

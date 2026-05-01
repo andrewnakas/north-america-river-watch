@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05593520",
+  "key": "05593520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05593520",
+  "name": "CROOKED CREEK NEAR HOFFMAN, IL",
+  "waterbody": "CROOKED CREEK NEAR HOFFMAN, IL",
+  "state": "IL",
+  "latitude": 38.50694444,
+  "longitude": -89.2733333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05593520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13135840",
+  "key": "13135840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13135840",
+  "name": "BIG WOOD RIVER AT SAGE RD BRIDGE NR KETCHUM, ID",
+  "waterbody": "BIG WOOD RIVER AT SAGE RD BRIDGE NR KETCHUM, ID",
+  "state": "ID",
+  "latitude": 43.7283333,
+  "longitude": -114.3831083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13135840",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

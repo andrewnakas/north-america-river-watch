@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07328100",
+  "key": "07328100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07328100",
+  "name": "Washita River at Alex, OK",
+  "waterbody": "Washita River at Alex, OK",
+  "state": "OK",
+  "latitude": 34.92590298,
+  "longitude": -97.7739273,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALXO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alxo2",
+  "slug": "usgs-07328100",
+  "noaaForecastPath": "data/noaa-forecast/ALXO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04201404",
+  "key": "04201404",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04201404",
+  "name": "Baker Creek at Olmsted Falls OH",
+  "waterbody": "Baker Creek at Olmsted Falls OH",
+  "state": "OH",
+  "latitude": 41.35088339,
+  "longitude": -81.9001376,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAKO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Baker Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bako1",
+  "slug": "usgs-04201404",
+  "noaaForecastPath": "data/noaa-forecast/BAKO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

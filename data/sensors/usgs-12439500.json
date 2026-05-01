@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12439500",
+  "key": "12439500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12439500",
+  "name": "OKANOGAN RIVER AT OROVILLE, WA",
+  "waterbody": "OKANOGAN RIVER AT OROVILLE, WA",
+  "state": "WA",
+  "latitude": 48.9307184,
+  "longitude": -119.4203419,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKNW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Okanogan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oknw1",
+  "slug": "usgs-12439500",
+  "noaaForecastPath": "data/noaa-forecast/OKNW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08171300",
+  "key": "08171300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08171300",
+  "name": "Blanco Rv nr Kyle, TX",
+  "waterbody": "Blanco Rv nr Kyle, TX",
+  "state": "TX",
+  "latitude": 29.9793843,
+  "longitude": -97.910031,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KYET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanco River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kyet2",
+  "slug": "usgs-08171300",
+  "noaaForecastPath": "data/noaa-forecast/KYET2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

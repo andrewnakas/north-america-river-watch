@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05497150",
+  "key": "05497150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05497150",
+  "name": "North Fabius River near Ewing, MO",
+  "waterbody": "North Fabius River near Ewing, MO",
+  "state": "MO",
+  "latitude": 40.01890278,
+  "longitude": -91.6223417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fabius River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewnm7",
+  "slug": "usgs-05497150",
+  "noaaForecastPath": "data/noaa-forecast/EWNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

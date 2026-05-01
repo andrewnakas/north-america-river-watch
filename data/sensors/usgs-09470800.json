@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09470800",
+  "key": "09470800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09470800",
+  "name": "GARDEN CANYON NEAR FORT HUACHUCA, AZ",
+  "waterbody": "GARDEN CANYON NEAR FORT HUACHUCA, AZ",
+  "state": "AZ",
+  "latitude": 31.47287518,
+  "longitude": -110.3478588,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09470800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

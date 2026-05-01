@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06890100",
+  "key": "06890100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06890100",
+  "name": "DELAWARE R NR MUSCOTAH, KS",
+  "waterbody": "DELAWARE R NR MUSCOTAH, KS",
+  "state": "KS",
+  "latitude": 39.5213873,
+  "longitude": -95.532756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msck1",
+  "slug": "usgs-06890100",
+  "noaaForecastPath": "data/noaa-forecast/MSCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

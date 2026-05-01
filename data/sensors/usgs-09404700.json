@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09404700",
+  "key": "09404700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404700",
+  "name": "EAST FK VIRGIN RIVER NR MOUNT CARMEL JUNCTION, UT",
+  "waterbody": "EAST FK VIRGIN RIVER NR MOUNT CARMEL JUNCTION, UT",
+  "state": "UT",
+  "latitude": 37.20831725,
+  "longitude": -112.6885434,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09404700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

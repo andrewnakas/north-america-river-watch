@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01594950",
+  "key": "01594950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594950",
+  "name": "MCMILLAN F NEAR FORT PENDLETON, MD",
+  "waterbody": "MCMILLAN F NEAR FORT PENDLETON, MD",
+  "state": "MD",
+  "latitude": 39.27669444,
+  "longitude": -79.3903056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01594950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

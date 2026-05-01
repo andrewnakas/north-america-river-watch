@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03360652",
+  "key": "03360652",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03360652",
+  "name": "BEE HUNTER DITCH AT LINTON, IN",
+  "waterbody": "BEE HUNTER DITCH AT LINTON, IN",
+  "state": "IN",
+  "latitude": 39.0368333,
+  "longitude": -87.1521944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bee Hunter Ditch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhdi3",
+  "slug": "usgs-03360652",
+  "noaaForecastPath": "data/noaa-forecast/BHDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

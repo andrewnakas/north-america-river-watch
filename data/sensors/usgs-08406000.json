@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08406000",
+  "key": "08406000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08406000",
+  "name": "BLACK RIVER AT MALAGA, NM",
+  "waterbody": "BLACK RIVER AT MALAGA, NM",
+  "state": "NM",
+  "latitude": 32.24086667,
+  "longitude": -104.0646861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGAN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River 1 mile NE of Malaga",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgan5",
+  "slug": "usgs-08406000",
+  "noaaForecastPath": "data/noaa-forecast/MGAN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

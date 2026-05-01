@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07182280",
+  "key": "07182280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07182280",
+  "name": "COTTONWOOD R NR NEOSHO RAPIDS, KS",
+  "waterbody": "COTTONWOOD R NR NEOSHO RAPIDS, KS",
+  "state": "KS",
+  "latitude": 38.3761263,
+  "longitude": -96.0677706,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07182280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

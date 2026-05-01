@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09471580",
+  "key": "09471580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09471580",
+  "name": "SAN PEDRO RIVER AT ST DAVID, AZ",
+  "waterbody": "SAN PEDRO RIVER AT ST DAVID, AZ",
+  "state": "AZ",
+  "latitude": 31.90530556,
+  "longitude": -110.2460556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09471580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02136270",
+  "key": "02136270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02136270",
+  "name": "BLACK RIVER NEAR DUNBAR, SC",
+  "waterbody": "BLACK RIVER NEAR DUNBAR, SC",
+  "state": "SC",
+  "latitude": 33.5485833,
+  "longitude": -79.3603333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdbs1",
+  "slug": "usgs-02136270",
+  "noaaForecastPath": "data/noaa-forecast/BDBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

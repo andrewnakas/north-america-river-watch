@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04063522",
+  "key": "04063522",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04063522",
+  "name": "MENOMINEE RIVER AT US HWY-2 NEAR IRON MOUNTAIN, MI",
+  "waterbody": "MENOMINEE RIVER AT US HWY-2 NEAR IRON MOUNTAIN, MI",
+  "state": "MI",
+  "latitude": 45.86606566,
+  "longitude": -88.074573,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWFM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menominee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twfm4",
+  "slug": "usgs-04063522",
+  "noaaForecastPath": "data/noaa-forecast/TWFM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

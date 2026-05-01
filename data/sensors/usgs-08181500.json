@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08181500",
+  "key": "08181500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08181500",
+  "name": "Medina Rv at San Antonio, TX",
+  "waterbody": "Medina Rv at San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.2641276,
+  "longitude": -98.4908493,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saat2",
+  "slug": "usgs-08181500",
+  "noaaForecastPath": "data/noaa-forecast/SAAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

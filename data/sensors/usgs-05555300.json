@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05555300",
+  "key": "05555300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05555300",
+  "name": "VERMILION RIVER NEAR LEONORE, IL",
+  "waterbody": "VERMILION RIVER NEAR LEONORE, IL",
+  "state": "IL",
+  "latitude": 41.2083333,
+  "longitude": -88.9305556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vermilion River (N-IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnri2",
+  "slug": "usgs-05555300",
+  "noaaForecastPath": "data/noaa-forecast/LNRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

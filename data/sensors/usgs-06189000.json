@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06189000",
+  "key": "06189000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06189000",
+  "name": "Blacktail Deer Creek nr Mammoth YNP",
+  "waterbody": "Blacktail Deer Creek nr Mammoth YNP",
+  "state": "WY",
+  "latitude": 44.94963889,
+  "longitude": -110.5865028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06189000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01054000",
+  "key": "01054000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01054000",
+  "name": "Androscoggin River near Gorham, NH",
+  "waterbody": "Androscoggin River near Gorham, NH",
+  "state": "NH",
+  "latitude": 44.4358333,
+  "longitude": -71.19027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRMN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Androscoggin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grmn3",
+  "slug": "usgs-01054000",
+  "noaaForecastPath": "data/noaa-forecast/GRMN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

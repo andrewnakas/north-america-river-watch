@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12204010",
+  "key": "12204010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12204010",
+  "name": "SQUALICUM CREEK NEAR MOUTH AT BELLINGHAM, WA",
+  "waterbody": "SQUALICUM CREEK NEAR MOUTH AT BELLINGHAM, WA",
+  "state": "WA",
+  "latitude": 48.766,
+  "longitude": -122.4996667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12204010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

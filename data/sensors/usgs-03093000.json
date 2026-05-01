@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03093000",
+  "key": "03093000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03093000",
+  "name": "Eagle Creek at Phalanx Station OH",
+  "waterbody": "Eagle Creek at Phalanx Station OH",
+  "state": "OH",
+  "latitude": 41.26116735,
+  "longitude": -80.9542569,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle Creek (Trumbull Co)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phao1",
+  "slug": "usgs-03093000",
+  "noaaForecastPath": "data/noaa-forecast/PHAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

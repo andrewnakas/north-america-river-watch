@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01620500",
+  "key": "01620500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01620500",
+  "name": "NORTH RIVER NEAR STOKESVILLE, VA",
+  "waterbody": "NORTH RIVER NEAR STOKESVILLE, VA",
+  "state": "VA",
+  "latitude": 38.335,
+  "longitude": -79.2391667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKVV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skvv2",
+  "slug": "usgs-01620500",
+  "noaaForecastPath": "data/noaa-forecast/SKVV2.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08238380",
+  "key": "08238380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08238380",
+  "name": "TURKEY RESERVOIR INFLOW NEAR CONEJOS, CO.",
+  "waterbody": "TURKEY RESERVOIR INFLOW NEAR CONEJOS, CO.",
+  "state": "CO",
+  "latitude": 37.13778794,
+  "longitude": -106.1119703,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08238380",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

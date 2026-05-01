@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01621089",
+  "key": "01621089",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01621089",
+  "name": "MUDDY CREEK NEAR HINTON, VA",
+  "waterbody": "MUDDY CREEK NEAR HINTON, VA",
+  "state": "VA",
+  "latitude": 38.4685833,
+  "longitude": -78.9728056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01621089",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

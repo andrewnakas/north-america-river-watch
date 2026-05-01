@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415090",
+  "key": "09415090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415090",
+  "name": "VIRGIN RV AT MESQUITE, NV",
+  "waterbody": "VIRGIN RV AT MESQUITE, NV",
+  "state": "NV",
+  "latitude": 36.79027778,
+  "longitude": -114.093611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

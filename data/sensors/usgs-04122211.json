@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04122211",
+  "key": "04122211",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04122211",
+  "name": "SILVER CREEK AT SILVER LAKE DAM NEAR MEARS, MI",
+  "waterbody": "SILVER CREEK AT SILVER LAKE DAM NEAR MEARS, MI",
+  "state": "MI",
+  "latitude": 43.65695036,
+  "longitude": -86.5286905,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04122211",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

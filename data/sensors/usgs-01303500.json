@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01303500",
+  "key": "01303500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01303500",
+  "name": "COLD SPRING BROOK AT COLD SPRING HARBOR NY",
+  "waterbody": "COLD SPRING BROOK AT COLD SPRING HARBOR NY",
+  "state": "NY",
+  "latitude": 40.85716667,
+  "longitude": -73.4635556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01303500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

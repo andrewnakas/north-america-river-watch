@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04136900",
+  "key": "04136900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04136900",
+  "name": "AU SABLE RIVER NEAR MC KINLEY, MI",
+  "waterbody": "AU SABLE RIVER NEAR MC KINLEY, MI",
+  "state": "MI",
+  "latitude": 44.61277537,
+  "longitude": -83.8376616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Au Sable River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mckm4",
+  "slug": "usgs-04136900",
+  "noaaForecastPath": "data/noaa-forecast/MCKM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14240311",
+  "key": "14240311",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14240311",
+  "name": "SPIRIT LAKE TUNNEL OUTLET NR SPIRIT LAKE, WA",
+  "waterbody": "SPIRIT LAKE TUNNEL OUTLET NR SPIRIT LAKE, WA",
+  "state": "WA",
+  "latitude": 46.2822222,
+  "longitude": -122.1952778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14240311",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

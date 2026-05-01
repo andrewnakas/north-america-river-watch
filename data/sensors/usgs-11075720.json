@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11075720",
+  "key": "11075720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11075720",
+  "name": "CARBON C BL CARBON CYN DAM CA",
+  "waterbody": "CARBON C BL CARBON CYN DAM CA",
+  "state": "CA",
+  "latitude": 33.9133473,
+  "longitude": -117.8425461,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11075720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

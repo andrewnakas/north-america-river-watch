@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05425500",
+  "key": "05425500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05425500",
+  "name": "ROCK RIVER AT WATERTOWN, WI",
+  "waterbody": "ROCK RIVER AT WATERTOWN, WI",
+  "state": "WI",
+  "latitude": 43.18805556,
+  "longitude": -88.7261111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WATW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/watw3",
+  "slug": "usgs-05425500",
+  "noaaForecastPath": "data/noaa-forecast/WATW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

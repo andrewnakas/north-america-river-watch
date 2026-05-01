@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11159000",
+  "key": "11159000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11159000",
+  "name": "PAJARO R A CHITTENDEN CA",
+  "waterbody": "PAJARO R A CHITTENDEN CA",
+  "state": "CA",
+  "latitude": 36.90019209,
+  "longitude": -121.5976778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AROC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pajaro River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aroc1",
+  "slug": "usgs-11159000",
+  "noaaForecastPath": "data/noaa-forecast/AROC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

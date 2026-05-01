@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08069840",
+  "key": "08069840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08069840",
+  "name": "Winters Bayou at SH 150 nr Coldspring, TX",
+  "waterbody": "Winters Bayou at SH 150 nr Coldspring, TX",
+  "state": "TX",
+  "latitude": 30.5448,
+  "longitude": -95.2913972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08069840",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

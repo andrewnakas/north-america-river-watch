@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01608500",
+  "key": "01608500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01608500",
+  "name": "SOUTH BRANCH POTOMAC RIVER NEAR SPRINGFIELD, WV",
+  "waterbody": "SOUTH BRANCH POTOMAC RIVER NEAR SPRINGFIELD, WV",
+  "state": "WV",
+  "latitude": 39.44703879,
+  "longitude": -78.6541817,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPRW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sprw2",
+  "slug": "usgs-01608500",
+  "noaaForecastPath": "data/noaa-forecast/SPRW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

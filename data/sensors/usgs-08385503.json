@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08385503",
+  "key": "08385503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08385503",
+  "name": "SAND GATE DIV FROM FT SUMNER CANAL AT FT SUMNER,NM",
+  "waterbody": "SAND GATE DIV FROM FT SUMNER CANAL AT FT SUMNER,NM",
+  "state": "NM",
+  "latitude": 34.4758333,
+  "longitude": -104.2583333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08385503",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

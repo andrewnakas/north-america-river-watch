@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09126000",
+  "key": "09126000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09126000",
+  "name": "CIMARRON RIVER NEAR CIMARRON, CO",
+  "waterbody": "CIMARRON RIVER NEAR CIMARRON, CO",
+  "state": "CO",
+  "latitude": 38.258194,
+  "longitude": -107.546111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cimarron River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmrc2",
+  "slug": "usgs-09126000",
+  "noaaForecastPath": "data/noaa-forecast/CMRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

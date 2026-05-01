@@ -1,0 +1,19 @@
+{
+  "id": "usgs:252551081050900",
+  "key": "252551081050900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "252551081050900",
+  "name": "HARNEY RIVER NEAR FLAMINGO FL",
+  "waterbody": "HARNEY RIVER NEAR FLAMINGO FL",
+  "state": "FL",
+  "latitude": 25.43055556,
+  "longitude": -81.0859583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-252551081050900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429100",
+  "key": "09429100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429100",
+  "name": "COLORADO RIVER BELOW PALO VERDE DAM, AZ-CA",
+  "waterbody": "COLORADO RIVER BELOW PALO VERDE DAM, AZ-CA",
+  "state": "CA",
+  "latitude": 33.7191361,
+  "longitude": -114.4975389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146000",
+  "key": "02146000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146000",
+  "name": "CATAWBA RIVER NEAR ROCK HILL, SC",
+  "waterbody": "CATAWBA RIVER NEAR ROCK HILL, SC",
+  "state": "SC",
+  "latitude": 34.98486935,
+  "longitude": -80.9739658,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RHIS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rhis1",
+  "slug": "usgs-02146000",
+  "noaaForecastPath": "data/noaa-forecast/RHIS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

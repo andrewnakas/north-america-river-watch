@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09093500",
+  "key": "09093500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09093500",
+  "name": "PARACHUTE CREEK AT PARACHUTE, CO.",
+  "waterbody": "PARACHUTE CREEK AT PARACHUTE, CO.",
+  "state": "CO",
+  "latitude": 39.45344444,
+  "longitude": -108.0606944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09093500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

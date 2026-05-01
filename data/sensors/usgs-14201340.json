@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14201340",
+  "key": "14201340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14201340",
+  "name": "PUDDING RIVER NEAR WOODBURN, OR",
+  "waterbody": "PUDDING RIVER NEAR WOODBURN, OR",
+  "state": "OR",
+  "latitude": 45.15123137,
+  "longitude": -122.80426,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PUWO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pudding River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/puwo3",
+  "slug": "usgs-14201340",
+  "noaaForecastPath": "data/noaa-forecast/PUWO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

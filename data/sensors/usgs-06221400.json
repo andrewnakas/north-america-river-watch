@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06221400",
+  "key": "06221400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06221400",
+  "name": "DINWOODY CREEK ABOVE LAKES, NEAR BURRIS, WY",
+  "waterbody": "DINWOODY CREEK ABOVE LAKES, NEAR BURRIS, WY",
+  "state": "WY",
+  "latitude": 43.34616667,
+  "longitude": -109.4087778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DINW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dinwoody Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dinw4",
+  "slug": "usgs-06221400",
+  "noaaForecastPath": "data/noaa-forecast/DINW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

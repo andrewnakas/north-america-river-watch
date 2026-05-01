@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50100200",
+  "key": "50100200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50100200",
+  "name": "RIO LAPA NR RABO DEL BUEY, PR",
+  "waterbody": "RIO LAPA NR RABO DEL BUEY, PR",
+  "state": "PR",
+  "latitude": 18.059722,
+  "longitude": -66.241111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SALP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Lapa",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/salp4",
+  "slug": "usgs-50100200",
+  "noaaForecastPath": "data/noaa-forecast/SALP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

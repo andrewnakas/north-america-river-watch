@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12344501",
+  "key": "12344501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12344501",
+  "name": "Lake Como Spillway near Darby, MT",
+  "waterbody": "Lake Como Spillway near Darby, MT",
+  "state": "MT",
+  "latitude": 46.06796111,
+  "longitude": -114.23875833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12344501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04282886",
+  "key": "04282886",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282886",
+  "name": "WINOOSKI RIVER AT LOWER CABOT, VT",
+  "waterbody": "WINOOSKI RIVER AT LOWER CABOT, VT",
+  "state": "VT",
+  "latitude": 44.390525,
+  "longitude": -72.33070278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CABV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winooski River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cabv1",
+  "slug": "usgs-04282886",
+  "noaaForecastPath": "data/noaa-forecast/CABV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610742",
+  "key": "06610742",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610742",
+  "name": "Thomas Creek near Bennington, Nebr.",
+  "waterbody": "Thomas Creek near Bennington, Nebr.",
+  "state": "NE",
+  "latitude": 41.36467778,
+  "longitude": -96.10032222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thomas Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irln1",
+  "slug": "usgs-06610742",
+  "noaaForecastPath": "data/noaa-forecast/IRLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

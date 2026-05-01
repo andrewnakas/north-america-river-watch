@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06347000",
+  "key": "06347000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06347000",
+  "name": "ANTELOPE CREEK NR CARSON, ND",
+  "waterbody": "ANTELOPE CREEK NR CARSON, ND",
+  "state": "ND",
+  "latitude": 46.5452839,
+  "longitude": -101.6454228,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06347000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

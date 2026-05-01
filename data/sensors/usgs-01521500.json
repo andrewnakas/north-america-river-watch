@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01521500",
+  "key": "01521500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01521500",
+  "name": "CANISTEO RIVER AT ARKPORT NY",
+  "waterbody": "CANISTEO RIVER AT ARKPORT NY",
+  "state": "NY",
+  "latitude": 42.39588889,
+  "longitude": -77.71136111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AKLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canisteo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/akln6",
+  "slug": "usgs-01521500",
+  "noaaForecastPath": "data/noaa-forecast/AKLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

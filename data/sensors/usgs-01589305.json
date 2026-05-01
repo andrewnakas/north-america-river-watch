@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589305",
+  "key": "01589305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589305",
+  "name": "POWDER MILL RUN NEAR LOCHEARN, MD",
+  "waterbody": "POWDER MILL RUN NEAR LOCHEARN, MD",
+  "state": "MD",
+  "latitude": 39.3351111,
+  "longitude": -76.7108333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GFGM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gwynns Falls",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gfgm2",
+  "slug": "usgs-01589305",
+  "noaaForecastPath": "data/noaa-forecast/GFGM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

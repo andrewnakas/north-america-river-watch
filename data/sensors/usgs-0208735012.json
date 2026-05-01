@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208735012",
+  "key": "0208735012",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208735012",
+  "name": "ROCKY BRANCH BELOW PULLEN ROAD AT RALEIGH, NC",
+  "waterbody": "ROCKY BRANCH BELOW PULLEN ROAD AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.78,
+  "longitude": -78.66638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky Branch (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbrn7",
+  "slug": "usgs-0208735012",
+  "noaaForecastPath": "data/noaa-forecast/RBRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

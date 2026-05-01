@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07026040",
+  "key": "07026040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07026040",
+  "name": "OBION RIVER AT HWY 51 NEAR OBION, TN",
+  "waterbody": "OBION RIVER AT HWY 51 NEAR OBION, TN",
+  "state": "TN",
+  "latitude": 36.24085076,
+  "longitude": -89.2176397,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OBNT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Obion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/obnt1",
+  "slug": "usgs-07026040",
+  "noaaForecastPath": "data/noaa-forecast/OBNT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

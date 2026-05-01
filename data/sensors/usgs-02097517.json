@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02097517",
+  "key": "02097517",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02097517",
+  "name": "MORGAN CREEK NEAR CHAPEL HILL, NC",
+  "waterbody": "MORGAN CREEK NEAR CHAPEL HILL, NC",
+  "state": "NC",
+  "latitude": 35.8933333,
+  "longitude": -79.0197222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Morgan Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgcn7",
+  "slug": "usgs-02097517",
+  "noaaForecastPath": "data/noaa-forecast/MGCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14301340",
+  "key": "14301340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14301340",
+  "name": "NEHALEM RIVER AT NEHALEM, OR",
+  "waterbody": "NEHALEM RIVER AT NEHALEM, OR",
+  "state": "OR",
+  "latitude": 45.7178333,
+  "longitude": -123.88975,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nehalem River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrno3",
+  "slug": "usgs-14301340",
+  "noaaForecastPath": "data/noaa-forecast/NRNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

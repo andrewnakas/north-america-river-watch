@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11510700",
+  "key": "11510700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11510700",
+  "name": "KLAMATH RIVER BLW JOHN C.BOYLE PWRPLNT, NR KENO,OR",
+  "waterbody": "KLAMATH RIVER BLW JOHN C.BOYLE PWRPLNT, NR KENO,OR",
+  "state": "OR",
+  "latitude": 42.0845877,
+  "longitude": -122.0733453,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOYO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Klamath River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boyo3",
+  "slug": "usgs-11510700",
+  "noaaForecastPath": "data/noaa-forecast/BOYO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

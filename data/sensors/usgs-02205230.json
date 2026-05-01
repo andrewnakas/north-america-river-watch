@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02205230",
+  "key": "02205230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02205230",
+  "name": "WOLF CREEK TRIBUTARY AT DEAN ROAD, NR SUWANEE, GA",
+  "waterbody": "WOLF CREEK TRIBUTARY AT DEAN ROAD, NR SUWANEE, GA",
+  "state": "GA",
+  "latitude": 34.0013611,
+  "longitude": -84.0489722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLFG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlfg1",
+  "slug": "usgs-02205230",
+  "noaaForecastPath": "data/noaa-forecast/WLFG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04201429",
+  "key": "04201429",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04201429",
+  "name": "Unnamed Trib to W B Rocky R near Olmsted Falls OH",
+  "waterbody": "Unnamed Trib to W B Rocky R near Olmsted Falls OH",
+  "state": "OH",
+  "latitude": 41.3833333,
+  "longitude": -81.9094444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OLMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnie Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/olmo1",
+  "slug": "usgs-04201429",
+  "noaaForecastPath": "data/noaa-forecast/OLMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

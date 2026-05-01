@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10406500",
+  "key": "10406500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10406500",
+  "name": "TROUT CREEK NEAR DENIO,NEV.",
+  "waterbody": "TROUT CREEK NEAR DENIO,NEV.",
+  "state": "OR",
+  "latitude": 42.15545066,
+  "longitude": -118.4593374,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10406500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

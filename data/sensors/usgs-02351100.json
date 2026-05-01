@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02351100",
+  "key": "02351100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02351100",
+  "name": "KINCHAFOONEE CREEK AT CENTURY RD,NEAR LEESBURG,GA",
+  "waterbody": "KINCHAFOONEE CREEK AT CENTURY RD,NEAR LEESBURG,GA",
+  "state": "GA",
+  "latitude": 31.6766111,
+  "longitude": -84.17963889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kinchafoonee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kccg1",
+  "slug": "usgs-02351100",
+  "noaaForecastPath": "data/noaa-forecast/KCCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

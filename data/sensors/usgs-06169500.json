@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06169500",
+  "key": "06169500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06169500",
+  "name": "Rock Creek bl Horse Creek nr int'l boundary",
+  "waterbody": "Rock Creek bl Horse Creek nr int'l boundary",
+  "state": "MT",
+  "latitude": 48.969375,
+  "longitude": -106.8398417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORHM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek (NE MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orhm8",
+  "slug": "usgs-06169500",
+  "noaaForecastPath": "data/noaa-forecast/ORHM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

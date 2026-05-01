@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455278",
+  "key": "11455278",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455278",
+  "name": "HASS SLOUGH NR ELMIRA CA",
+  "waterbody": "HASS SLOUGH NR ELMIRA CA",
+  "state": "CA",
+  "latitude": 38.29415,
+  "longitude": -121.7257389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455278",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

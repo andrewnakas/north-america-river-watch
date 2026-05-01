@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07144486",
+  "key": "07144486",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144486",
+  "name": "CALFSKIN C AT 119TH ST, WICHITA, KS",
+  "waterbody": "CALFSKIN C AT 119TH ST, WICHITA, KS",
+  "state": "KS",
+  "latitude": 37.673675,
+  "longitude": -97.4808194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07144486",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

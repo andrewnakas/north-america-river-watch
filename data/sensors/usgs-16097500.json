@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16097500",
+  "key": "16097500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16097500",
+  "name": "Halaulani Str at alt 400 ft nr Kilauea, Kauai, HI",
+  "waterbody": "Halaulani Str at alt 400 ft nr Kilauea, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.17863889,
+  "longitude": -159.418611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLAH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Halaulani Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlah1",
+  "slug": "usgs-16097500",
+  "noaaForecastPath": "data/noaa-forecast/HLAH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

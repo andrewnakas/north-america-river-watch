@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12433200",
+  "key": "12433200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12433200",
+  "name": "CHAMOKANE CREEK BELOW FALLS NEAR LONG LAKE, WA",
+  "waterbody": "CHAMOKANE CREEK BELOW FALLS NEAR LONG LAKE, WA",
+  "state": "WA",
+  "latitude": 47.8632201,
+  "longitude": -117.858294,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHKW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chamokane Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chkw1",
+  "slug": "usgs-12433200",
+  "noaaForecastPath": "data/noaa-forecast/CHKW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

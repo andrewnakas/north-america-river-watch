@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16527500",
+  "key": "16527500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16527500",
+  "name": "Honomanu Stream near Hana Hwy, Maui, HI",
+  "waterbody": "Honomanu Stream near Hana Hwy, Maui, HI",
+  "state": "HI",
+  "latitude": 20.8533611,
+  "longitude": -156.1703333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16527500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

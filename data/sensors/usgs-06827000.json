@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06827000",
+  "key": "06827000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06827000",
+  "name": "SF REPUBLICAN R NR CO-KS ST LINE, KS",
+  "waterbody": "SF REPUBLICAN R NR CO-KS ST LINE, KS",
+  "state": "KS",
+  "latitude": 39.67184444,
+  "longitude": -102.0132611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFAK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Republican River 14SW St Francis, Kansas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfak1",
+  "slug": "usgs-06827000",
+  "noaaForecastPath": "data/noaa-forecast/SFAK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

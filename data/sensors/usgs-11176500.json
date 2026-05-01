@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11176500",
+  "key": "11176500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11176500",
+  "name": "ARROYO VALLE NR LIVERMORE CA",
+  "waterbody": "ARROYO VALLE NR LIVERMORE CA",
+  "state": "CA",
+  "latitude": 37.62323149,
+  "longitude": -121.7588028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVKC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arroyo Valle",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvkc1",
+  "slug": "usgs-11176500",
+  "noaaForecastPath": "data/noaa-forecast/LVKC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

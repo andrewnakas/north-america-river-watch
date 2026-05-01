@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03510577",
+  "key": "03510577",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03510577",
+  "name": "TUCKASEGEE RIVER AT BARKER'S CREEK, NC",
+  "waterbody": "TUCKASEGEE RIVER AT BARKER'S CREEK, NC",
+  "state": "NC",
+  "latitude": 35.38444444,
+  "longitude": -83.2916667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DILN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuckasegee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/diln7",
+  "slug": "usgs-03510577",
+  "noaaForecastPath": "data/noaa-forecast/DILN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

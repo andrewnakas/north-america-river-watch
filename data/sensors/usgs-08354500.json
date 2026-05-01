@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08354500",
+  "key": "08354500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08354500",
+  "name": "SOCORRO MAIN CANAL NORTH AT SAN ACACIA, NM",
+  "waterbody": "SOCORRO MAIN CANAL NORTH AT SAN ACACIA, NM",
+  "state": "NM",
+  "latitude": 34.25479318,
+  "longitude": -106.8958626,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08354500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

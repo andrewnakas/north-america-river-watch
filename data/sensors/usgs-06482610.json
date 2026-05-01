@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06482610",
+  "key": "06482610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06482610",
+  "name": "SPLIT ROCK CREEK AT CORSON, SD",
+  "waterbody": "SPLIT ROCK CREEK AT CORSON, SD",
+  "state": "SD",
+  "latitude": 43.61636576,
+  "longitude": -96.56532366,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COSS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Split Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coss2",
+  "slug": "usgs-06482610",
+  "noaaForecastPath": "data/noaa-forecast/COSS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

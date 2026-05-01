@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07024000",
+  "key": "07024000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07024000",
+  "name": "BAYOU DE CHIEN NEAR CLINTON, KY",
+  "waterbody": "BAYOU DE CHIEN NEAR CLINTON, KY",
+  "state": "KY",
+  "latitude": 36.6286707,
+  "longitude": -88.963951,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou De Chien",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdck2",
+  "slug": "usgs-07024000",
+  "noaaForecastPath": "data/noaa-forecast/BDCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

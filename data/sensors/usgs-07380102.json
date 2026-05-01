@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380102",
+  "key": "07380102",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380102",
+  "name": "Welsh Gully at J. Broussard Rd nr Prairieville, LA",
+  "waterbody": "Welsh Gully at J. Broussard Rd nr Prairieville, LA",
+  "state": "LA",
+  "latitude": 30.3368601,
+  "longitude": -90.9689897,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WGPL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wgpl1",
+  "slug": "usgs-07380102",
+  "noaaForecastPath": "data/noaa-forecast/WGPL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

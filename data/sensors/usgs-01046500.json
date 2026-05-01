@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01046500",
+  "key": "01046500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01046500",
+  "name": "Kennebec River at Bingham, Maine",
+  "waterbody": "Kennebec River at Bingham, Maine",
+  "state": "ME",
+  "latitude": 45.0519444,
+  "longitude": -69.8855556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BINM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kennebec River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/binm1",
+  "slug": "usgs-01046500",
+  "noaaForecastPath": "data/noaa-forecast/BINM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

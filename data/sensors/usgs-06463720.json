@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06463720",
+  "key": "06463720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06463720",
+  "name": "Niobrara River at Mariaville, Nebr.",
+  "waterbody": "Niobrara River at Mariaville, Nebr.",
+  "state": "NE",
+  "latitude": 42.78140833,
+  "longitude": -99.33471389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NISN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Niobrara River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nisn1",
+  "slug": "usgs-06463720",
+  "noaaForecastPath": "data/noaa-forecast/NISN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

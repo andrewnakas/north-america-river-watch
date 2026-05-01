@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06479450",
+  "key": "06479450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479450",
+  "name": "LAKE KAMPESKA INLET/OUTLET NEAR WATERTOWN, SD",
+  "waterbody": "LAKE KAMPESKA INLET/OUTLET NEAR WATERTOWN, SD",
+  "state": "SD",
+  "latitude": 44.9488531,
+  "longitude": -97.1753531,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06479450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

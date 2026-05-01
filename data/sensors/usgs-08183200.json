@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08183200",
+  "key": "08183200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08183200",
+  "name": "San Antonio Rv nr Floresville, TX",
+  "waterbody": "San Antonio Rv nr Floresville, TX",
+  "state": "TX",
+  "latitude": 29.11,
+  "longitude": -98.1744444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Antonio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flvt2",
+  "slug": "usgs-08183200",
+  "noaaForecastPath": "data/noaa-forecast/FLVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

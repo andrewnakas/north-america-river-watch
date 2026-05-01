@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06853020",
+  "key": "06853020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06853020",
+  "name": "Republican River at Guide Rock, Nebr.",
+  "waterbody": "Republican River at Guide Rock, Nebr.",
+  "state": "NE",
+  "latitude": 40.06390278,
+  "longitude": -98.33028056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUIN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/guin1",
+  "slug": "usgs-06853020",
+  "noaaForecastPath": "data/noaa-forecast/GUIN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

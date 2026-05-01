@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04043150",
+  "key": "04043150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043150",
+  "name": "SILVER RIVER NEAR L'ANSE, MI",
+  "waterbody": "SILVER RIVER NEAR L'ANSE, MI",
+  "state": "MI",
+  "latitude": 46.80409698,
+  "longitude": -88.3170724,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLVM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Silver River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slvm4",
+  "slug": "usgs-04043150",
+  "noaaForecastPath": "data/noaa-forecast/SLVM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

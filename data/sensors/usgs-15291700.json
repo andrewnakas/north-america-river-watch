@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15291700",
+  "key": "15291700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15291700",
+  "name": "SUSITNA R AB TSUSENA C NR CHULITNA AK",
+  "waterbody": "SUSITNA R AB TSUSENA C NR CHULITNA AK",
+  "state": "AK",
+  "latitude": 62.8233333,
+  "longitude": -148.6047222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCTA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susitna River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scta2",
+  "slug": "usgs-15291700",
+  "noaaForecastPath": "data/noaa-forecast/SCTA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

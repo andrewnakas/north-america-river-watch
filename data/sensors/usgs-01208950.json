@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01208950",
+  "key": "01208950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01208950",
+  "name": "SASCO BROOK NEAR SOUTHPORT, CT",
+  "waterbody": "SASCO BROOK NEAR SOUTHPORT, CT",
+  "state": "CT",
+  "latitude": 41.15277077,
+  "longitude": -73.30593264,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01208950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

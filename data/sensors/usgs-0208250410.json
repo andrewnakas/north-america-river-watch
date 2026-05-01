@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208250410",
+  "key": "0208250410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208250410",
+  "name": "TAR RIVER BELOW DAM NEAR LANGLEY CROSSROADS, NC",
+  "waterbody": "TAR RIVER BELOW DAM NEAR LANGLEY CROSSROADS, NC",
+  "state": "NC",
+  "latitude": 35.89987728,
+  "longitude": -77.88414888,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LXRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lxrn7",
+  "slug": "usgs-0208250410",
+  "noaaForecastPath": "data/noaa-forecast/LXRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

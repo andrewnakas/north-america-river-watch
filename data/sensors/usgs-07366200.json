@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07366200",
+  "key": "07366200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07366200",
+  "name": "Little Corney Bayou near Lillie, LA",
+  "waterbody": "Little Corney Bayou near Lillie, LA",
+  "state": "LA",
+  "latitude": 32.9293064,
+  "longitude": -92.6329305,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07366200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03189100",
+  "key": "03189100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03189100",
+  "name": "GAULEY RIVER NEAR CRAIGSVILLE, WV",
+  "waterbody": "GAULEY RIVER NEAR CRAIGSVILLE, WV",
+  "state": "WV",
+  "latitude": 38.29094494,
+  "longitude": -80.6409242,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRAW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gauley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/craw2",
+  "slug": "usgs-03189100",
+  "noaaForecastPath": "data/noaa-forecast/CRAW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

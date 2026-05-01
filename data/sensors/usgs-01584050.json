@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01584050",
+  "key": "01584050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01584050",
+  "name": "LONG GREEN CREEK AT GLEN ARM, MD",
+  "waterbody": "LONG GREEN CREEK AT GLEN ARM, MD",
+  "state": "MD",
+  "latitude": 39.454694,
+  "longitude": -76.478889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GALM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Green Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/galm2",
+  "slug": "usgs-01584050",
+  "noaaForecastPath": "data/noaa-forecast/GALM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

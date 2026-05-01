@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251433080265000",
+  "key": "251433080265000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251433080265000",
+  "name": "WEST HIGHWAY CREEK NEAR HOMESTEAD, FL",
+  "waterbody": "WEST HIGHWAY CREEK NEAR HOMESTEAD, FL",
+  "state": "FL",
+  "latitude": 25.24210833,
+  "longitude": -80.4475722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251433080265000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

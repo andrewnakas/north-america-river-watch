@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05554200",
+  "key": "05554200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05554200",
+  "name": "SOUTH FORK VERMILION RIVER AT FORREST, IL",
+  "waterbody": "SOUTH FORK VERMILION RIVER AT FORREST, IL",
+  "state": "IL",
+  "latitude": 40.74864588,
+  "longitude": -88.4161649,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05554200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

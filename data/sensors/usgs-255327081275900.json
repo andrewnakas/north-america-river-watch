@@ -1,0 +1,19 @@
+{
+  "id": "usgs:255327081275900",
+  "key": "255327081275900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "255327081275900",
+  "name": "EAST RIVER NEAR EVERGLADES CITY, FL",
+  "waterbody": "EAST RIVER NEAR EVERGLADES CITY, FL",
+  "state": "FL",
+  "latitude": 25.89538889,
+  "longitude": -81.4555,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-255327081275900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.211Z"
+}

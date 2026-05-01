@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0110587880",
+  "key": "0110587880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0110587880",
+  "name": "MILL CREEK AT SANDWICH, MA",
+  "waterbody": "MILL CREEK AT SANDWICH, MA",
+  "state": "MA",
+  "latitude": 41.75747491,
+  "longitude": -70.50028183,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SANM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atlantic Coast",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sanm3",
+  "slug": "usgs-0110587880",
+  "noaaForecastPath": "data/noaa-forecast/SANM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

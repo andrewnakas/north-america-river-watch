@@ -1,0 +1,19 @@
+{
+  "id": "usgs:333601090450000",
+  "key": "333601090450000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "333601090450000",
+  "name": "PORTER BAYOU NEAR SHAW, MS",
+  "waterbody": "PORTER BAYOU NEAR SHAW, MS",
+  "state": "MS",
+  "latitude": 33.60052778,
+  "longitude": -90.7500833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-333601090450000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

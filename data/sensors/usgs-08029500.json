@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08029500",
+  "key": "08029500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08029500",
+  "name": "Big Cow Ck nr Newton, TX",
+  "waterbody": "Big Cow Ck nr Newton, TX",
+  "state": "TX",
+  "latitude": 30.81888889,
+  "longitude": -93.7855556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Cow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncct2",
+  "slug": "usgs-08029500",
+  "noaaForecastPath": "data/noaa-forecast/NCCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

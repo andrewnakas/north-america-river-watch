@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12470500",
+  "key": "12470500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12470500",
+  "name": "ROCKY FORD CREEK NEAR EPHRATA, WA",
+  "waterbody": "ROCKY FORD CREEK NEAR EPHRATA, WA",
+  "state": "WA",
+  "latitude": 47.31264008,
+  "longitude": -119.445588,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12470500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

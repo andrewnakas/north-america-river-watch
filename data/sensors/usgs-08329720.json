@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329720",
+  "key": "08329720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329720",
+  "name": "EMBUDO ARROYO AT ALBUQUERQUE, NM",
+  "waterbody": "EMBUDO ARROYO AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.1022222,
+  "longitude": -106.4925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

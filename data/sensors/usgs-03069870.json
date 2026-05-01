@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03069870",
+  "key": "03069870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03069870",
+  "name": "CHEAT RIVER AT HWY 50 NEAR ROWLESBURG, WV",
+  "waterbody": "CHEAT RIVER AT HWY 50 NEAR ROWLESBURG, WV",
+  "state": "WV",
+  "latitude": 39.31982209,
+  "longitude": -79.6567267,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROLW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheat River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rolw2",
+  "slug": "usgs-03069870",
+  "noaaForecastPath": "data/noaa-forecast/ROLW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

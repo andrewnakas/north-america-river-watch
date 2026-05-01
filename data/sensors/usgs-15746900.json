@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15746900",
+  "key": "15746900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15746900",
+  "name": "WULIK R AB FERRIC C NR KIVALINA AK",
+  "waterbody": "WULIK R AB FERRIC C NR KIVALINA AK",
+  "state": "AK",
+  "latitude": 68.0776749,
+  "longitude": -163.190455,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15746900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

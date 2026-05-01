@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02087183",
+  "key": "02087183",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02087183",
+  "name": "NEUSE RIVER NEAR FALLS, NC",
+  "waterbody": "NEUSE RIVER NEAR FALLS, NC",
+  "state": "NC",
+  "latitude": 35.94,
+  "longitude": -78.5808333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NUDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neuse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nudn7",
+  "slug": "usgs-02087183",
+  "noaaForecastPath": "data/noaa-forecast/NUDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

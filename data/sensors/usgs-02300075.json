@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02300075",
+  "key": "02300075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300075",
+  "name": "FROG CREEK AT BUFFALO ROAD NEAR RUBONIA FL",
+  "waterbody": "FROG CREEK AT BUFFALO ROAD NEAR RUBONIA FL",
+  "state": "FL",
+  "latitude": 27.57991667,
+  "longitude": -82.51338889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frog Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frcf1",
+  "slug": "usgs-02300075",
+  "noaaForecastPath": "data/noaa-forecast/FRCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

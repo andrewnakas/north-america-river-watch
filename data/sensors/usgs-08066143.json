@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08066143",
+  "key": "08066143",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08066143",
+  "name": "White Rock Ck at SH 94 nr Trinity, TX",
+  "waterbody": "White Rock Ck at SH 94 nr Trinity, TX",
+  "state": "TX",
+  "latitude": 30.96842778,
+  "longitude": -95.3334778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08066143",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

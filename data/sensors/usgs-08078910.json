@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08078910",
+  "key": "08078910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08078910",
+  "name": "Oyster Ck at FM 1092 nr Missouri City, TX",
+  "waterbody": "Oyster Ck at FM 1092 nr Missouri City, TX",
+  "state": "TX",
+  "latitude": 29.57348056,
+  "longitude": -95.5639333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08078910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

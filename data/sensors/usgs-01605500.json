@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01605500",
+  "key": "01605500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01605500",
+  "name": "SOUTH BRANCH POTOMAC RIVER AT FRANKLIN, WV",
+  "waterbody": "SOUTH BRANCH POTOMAC RIVER AT FRANKLIN, WV",
+  "state": "WV",
+  "latitude": 38.63567247,
+  "longitude": -79.3378199,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FKLW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fklw2",
+  "slug": "usgs-01605500",
+  "noaaForecastPath": "data/noaa-forecast/FKLW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

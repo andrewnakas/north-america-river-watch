@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03348100",
+  "key": "03348100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03348100",
+  "name": "KILLBUCK CREEK NR ANDERSON, IN",
+  "waterbody": "KILLBUCK CREEK NR ANDERSON, IN",
+  "state": "IN",
+  "latitude": 40.13864195,
+  "longitude": -85.6610627,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCAI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Killbuck Creek (IN)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcai3",
+  "slug": "usgs-03348100",
+  "noaaForecastPath": "data/noaa-forecast/KCAI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01562000",
+  "key": "01562000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01562000",
+  "name": "Raystown Branch Juniata River at Saxton, PA",
+  "waterbody": "Raystown Branch Juniata River at Saxton, PA",
+  "state": "PA",
+  "latitude": 40.21585246,
+  "longitude": -78.2652653,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raystown Branch Juniata River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxtp1",
+  "slug": "usgs-01562000",
+  "noaaForecastPath": "data/noaa-forecast/SXTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

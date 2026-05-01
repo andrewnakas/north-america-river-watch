@@ -1,0 +1,22 @@
+{
+  "id": "usgs:295827090052800",
+  "key": "295827090052800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "295827090052800",
+  "name": "Bayou Saint John Southlake at New Orleans ,LA",
+  "waterbody": "Bayou Saint John Southlake at New Orleans ,LA",
+  "state": "LA",
+  "latitude": 29.97416667,
+  "longitude": -90.0911111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SJSL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Saint John",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sjsl1",
+  "slug": "usgs-295827090052800",
+  "noaaForecastPath": "data/noaa-forecast/SJSL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

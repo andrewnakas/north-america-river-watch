@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09423000",
+  "key": "09423000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09423000",
+  "name": "COLORADO RIVER BELOW DAVIS DAM, AZ-NV",
+  "waterbody": "COLORADO RIVER BELOW DAVIS DAM, AZ-NV",
+  "state": "NV",
+  "latitude": 35.191667,
+  "longitude": -114.571389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09423000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

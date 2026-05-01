@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04122200",
+  "key": "04122200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04122200",
+  "name": "WHITE RIVER NEAR WHITEHALL, MI",
+  "waterbody": "WHITE RIVER NEAR WHITEHALL, MI",
+  "state": "MI",
+  "latitude": 43.46417856,
+  "longitude": -86.2325668,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHTM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whtm4",
+  "slug": "usgs-04122200",
+  "noaaForecastPath": "data/noaa-forecast/WHTM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

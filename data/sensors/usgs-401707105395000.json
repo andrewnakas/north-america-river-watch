@@ -1,0 +1,19 @@
+{
+  "id": "usgs:401707105395000",
+  "key": "401707105395000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "401707105395000",
+  "name": "ICY BROOK-LOCH VALE-RMNP",
+  "waterbody": "ICY BROOK-LOCH VALE-RMNP",
+  "state": "CO",
+  "latitude": 40.28666667,
+  "longitude": -105.6641667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-401707105395000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

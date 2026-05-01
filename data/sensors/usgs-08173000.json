@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08173000",
+  "key": "08173000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08173000",
+  "name": "Plum Ck nr Luling, TX",
+  "waterbody": "Plum Ck nr Luling, TX",
+  "state": "TX",
+  "latitude": 29.699444,
+  "longitude": -97.603333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LULT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Plum Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lult2",
+  "slug": "usgs-08173000",
+  "noaaForecastPath": "data/noaa-forecast/LULT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

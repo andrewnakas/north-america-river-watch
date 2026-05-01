@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02382200",
+  "key": "02382200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02382200",
+  "name": "TALKING ROCK CREEK NEAR HINTON, GA",
+  "waterbody": "TALKING ROCK CREEK NEAR HINTON, GA",
+  "state": "GA",
+  "latitude": 34.52325,
+  "longitude": -84.6110278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TKRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Talking Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tkrg1",
+  "slug": "usgs-02382200",
+  "noaaForecastPath": "data/noaa-forecast/TKRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

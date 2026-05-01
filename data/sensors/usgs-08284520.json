@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08284520",
+  "key": "08284520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08284520",
+  "name": "WILLOW CREEK BELOW HERON DAM, NM",
+  "waterbody": "WILLOW CREEK BELOW HERON DAM, NM",
+  "state": "NM",
+  "latitude": 36.66277778,
+  "longitude": -106.7055556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRAN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Chama",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tran5",
+  "slug": "usgs-08284520",
+  "noaaForecastPath": "data/noaa-forecast/TRAN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

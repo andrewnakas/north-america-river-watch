@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03474000",
+  "key": "03474000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03474000",
+  "name": "M F HOLSTON RIVER AT SEVEN MILE FORD, VA",
+  "waterbody": "M F HOLSTON RIVER AT SEVEN MILE FORD, VA",
+  "state": "VA",
+  "latitude": 36.80733756,
+  "longitude": -81.6220617,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMFV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Holston River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smfv2",
+  "slug": "usgs-03474000",
+  "noaaForecastPath": "data/noaa-forecast/SMFV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

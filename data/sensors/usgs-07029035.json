@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07029035",
+  "key": "07029035",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07029035",
+  "name": "STOKES CREEK NEAR STOKES, TN",
+  "waterbody": "STOKES CREEK NEAR STOKES, TN",
+  "state": "TN",
+  "latitude": 35.97396037,
+  "longitude": -89.2186806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07029035",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

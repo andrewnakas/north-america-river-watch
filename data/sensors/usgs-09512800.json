@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09512800",
+  "key": "09512800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512800",
+  "name": "AGUA FRIA RIVER NEAR ROCK SPRINGS, AZ",
+  "waterbody": "AGUA FRIA RIVER NEAR ROCK SPRINGS, AZ",
+  "state": "AZ",
+  "latitude": 34.01560406,
+  "longitude": -112.16795193,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AFRA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Agua Fria River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/afra3",
+  "slug": "usgs-09512800",
+  "noaaForecastPath": "data/noaa-forecast/AFRA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02267000",
+  "key": "02267000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02267000",
+  "name": "CATFISH CREEK NEAR LAKE WALES, FL",
+  "waterbody": "CATFISH CREEK NEAR LAKE WALES, FL",
+  "state": "FL",
+  "latitude": 27.96141068,
+  "longitude": -81.49646319,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02267000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03321350",
+  "key": "03321350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03321350",
+  "name": "SOUTH FORK PANTHER CREEK NEAR WHITESVILLE, KY",
+  "waterbody": "SOUTH FORK PANTHER CREEK NEAR WHITESVILLE, KY",
+  "state": "KY",
+  "latitude": 37.6189392,
+  "longitude": -86.88749179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PANK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Panther Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pank2",
+  "slug": "usgs-03321350",
+  "noaaForecastPath": "data/noaa-forecast/PANK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

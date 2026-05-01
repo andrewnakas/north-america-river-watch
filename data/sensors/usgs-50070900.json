@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50070900",
+  "key": "50070900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50070900",
+  "name": "RIO FAJARDO AT PARAISO NR FAJARDO, PR",
+  "waterbody": "RIO FAJARDO AT PARAISO NR FAJARDO, PR",
+  "state": "PR",
+  "latitude": 18.282814,
+  "longitude": -65.701067,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FAEP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Fajardo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/faep4",
+  "slug": "usgs-50070900",
+  "noaaForecastPath": "data/noaa-forecast/FAEP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

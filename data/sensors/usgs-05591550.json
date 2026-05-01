@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05591550",
+  "key": "05591550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05591550",
+  "name": "WHITLEY CREEK NEAR ALLENVILLE, IL",
+  "waterbody": "WHITLEY CREEK NEAR ALLENVILLE, IL",
+  "state": "IL",
+  "latitude": 39.5067222,
+  "longitude": -88.5272778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitley Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whci2",
+  "slug": "usgs-05591550",
+  "noaaForecastPath": "data/noaa-forecast/WHCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

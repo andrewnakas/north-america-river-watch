@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11224000",
+  "key": "11224000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11224000",
+  "name": "MF SAN JOAQUIN R NR MAMMOTH LAKES CA",
+  "waterbody": "MF SAN JOAQUIN R NR MAMMOTH LAKES CA",
+  "state": "CA",
+  "latitude": 37.63194444,
+  "longitude": -119.0863889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11224000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

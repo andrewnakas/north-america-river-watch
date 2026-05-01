@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05526000",
+  "key": "05526000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05526000",
+  "name": "IROQUOIS RIVER NEAR CHEBANSE, IL",
+  "waterbody": "IROQUOIS RIVER NEAR CHEBANSE, IL",
+  "state": "IL",
+  "latitude": 41.0092222,
+  "longitude": -87.8240556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHBI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iroquois River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chbi2",
+  "slug": "usgs-05526000",
+  "noaaForecastPath": "data/noaa-forecast/CHBI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

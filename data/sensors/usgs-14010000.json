@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14010000",
+  "key": "14010000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14010000",
+  "name": "SOUTH FORK WALLA WALLA RIVER NEAR MILTON,OREG.",
+  "waterbody": "SOUTH FORK WALLA WALLA RIVER NEAR MILTON,OREG.",
+  "state": "OR",
+  "latitude": 45.8298571,
+  "longitude": -118.1699502,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14010000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

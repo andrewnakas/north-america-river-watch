@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06708750",
+  "key": "06708750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06708750",
+  "name": "EAST PLUM CR AT CASTLE ROCK, COLO.",
+  "waterbody": "EAST PLUM CR AT CASTLE ROCK, COLO.",
+  "state": "CO",
+  "latitude": 39.3844342,
+  "longitude": -104.8622014,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06708750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

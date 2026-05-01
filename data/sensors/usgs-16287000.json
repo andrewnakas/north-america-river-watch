@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16287000",
+  "key": "16287000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16287000",
+  "name": "Waiahole Tun at N Portal nr Waiahole, Oahu, HI",
+  "waterbody": "Waiahole Tun at N Portal nr Waiahole, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.4685111,
+  "longitude": -157.888361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16287000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

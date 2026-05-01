@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04044755",
+  "key": "04044755",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04044755",
+  "name": "MINERS RIVER NR MUNISING, MI",
+  "waterbody": "MINERS RIVER NR MUNISING, MI",
+  "state": "MI",
+  "latitude": 46.48777525,
+  "longitude": -86.54053381,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Miners River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrmm4",
+  "slug": "usgs-04044755",
+  "noaaForecastPath": "data/noaa-forecast/MRMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

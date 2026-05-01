@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03159823",
+  "key": "03159823",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03159823",
+  "name": "GRASS RUN TRIBUTARY ABOVE I-77 NEAR RIPLEY, WV",
+  "waterbody": "GRASS RUN TRIBUTARY ABOVE I-77 NEAR RIPLEY, WV",
+  "state": "WV",
+  "latitude": 38.7895833,
+  "longitude": -81.72813889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03159823",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

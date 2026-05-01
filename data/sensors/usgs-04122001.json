@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04122001",
+  "key": "04122001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04122001",
+  "name": "MUSKEGON RIVER AT BRIDGE STREET AT NEWAYGO, MI",
+  "waterbody": "MUSKEGON RIVER AT BRIDGE STREET AT NEWAYGO, MI",
+  "state": "MI",
+  "latitude": 43.41694444,
+  "longitude": -85.8083333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEWM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muskegon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/newm4",
+  "slug": "usgs-04122001",
+  "noaaForecastPath": "data/noaa-forecast/NEWM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

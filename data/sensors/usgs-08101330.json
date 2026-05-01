@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08101330",
+  "key": "08101330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08101330",
+  "name": "Clear Ck at Ft Hood, TX",
+  "waterbody": "Clear Ck at Ft Hood, TX",
+  "state": "TX",
+  "latitude": 31.12927778,
+  "longitude": -97.8181389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08101330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

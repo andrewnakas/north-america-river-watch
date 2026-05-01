@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12309500",
+  "key": "12309500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12309500",
+  "name": "KOOTENAI RIVER AT BONNERS FERRY ID",
+  "waterbody": "KOOTENAI RIVER AT BONNERS FERRY ID",
+  "state": "ID",
+  "latitude": 48.69805556,
+  "longitude": -116.3125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFEI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kootenai River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfei1",
+  "slug": "usgs-12309500",
+  "noaaForecastPath": "data/noaa-forecast/BFEI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

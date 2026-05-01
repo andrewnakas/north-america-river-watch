@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08170890",
+  "key": "08170890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08170890",
+  "name": "Little Blanco Rv at FM 32 nr Fischer, TX",
+  "waterbody": "Little Blanco Rv at FM 32 nr Fischer, TX",
+  "state": "TX",
+  "latitude": 30.02080556,
+  "longitude": -98.3305556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Blanco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbft2",
+  "slug": "usgs-08170890",
+  "noaaForecastPath": "data/noaa-forecast/LBFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

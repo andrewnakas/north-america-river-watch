@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14185000",
+  "key": "14185000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14185000",
+  "name": "SOUTH SANTIAM RIVER BELOW CASCADIA, OR",
+  "waterbody": "SOUTH SANTIAM RIVER BELOW CASCADIA, OR",
+  "state": "OR",
+  "latitude": 44.39179225,
+  "longitude": -122.4975817,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "S. Santiam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssco3",
+  "slug": "usgs-14185000",
+  "noaaForecastPath": "data/noaa-forecast/SSCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

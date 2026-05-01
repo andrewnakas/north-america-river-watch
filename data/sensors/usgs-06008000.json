@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06008000",
+  "key": "06008000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06008000",
+  "name": "Odell Cr ab Taft Ranch nr Lakeview MT",
+  "waterbody": "Odell Cr ab Taft Ranch nr Lakeview MT",
+  "state": "MT",
+  "latitude": 44.57740556,
+  "longitude": -111.7798639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06008000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

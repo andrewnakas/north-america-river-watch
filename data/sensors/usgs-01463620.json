@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01463620",
+  "key": "01463620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01463620",
+  "name": "Assunpink Creek near Clarksville NJ",
+  "waterbody": "Assunpink Creek near Clarksville NJ",
+  "state": "NJ",
+  "latitude": 40.26972222,
+  "longitude": -74.67194444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLKN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Assunpink Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clkn4",
+  "slug": "usgs-01463620",
+  "noaaForecastPath": "data/noaa-forecast/CLKN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

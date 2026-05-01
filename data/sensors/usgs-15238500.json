@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15238500",
+  "key": "15238500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15238500",
+  "name": "LOWELL C AT SEWARD AK",
+  "waterbody": "LOWELL C AT SEWARD AK",
+  "state": "AK",
+  "latitude": 60.0980324,
+  "longitude": -149.4451908,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWLA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lowell Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwla2",
+  "slug": "usgs-15238500",
+  "noaaForecastPath": "data/noaa-forecast/LWLA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

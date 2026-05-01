@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07099060",
+  "key": "07099060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07099060",
+  "name": "BEAVER CREEK ABOVE HIGHWAY 115 NEAR PENROSE, CO",
+  "waterbody": "BEAVER CREEK ABOVE HIGHWAY 115 NEAR PENROSE, CO",
+  "state": "CO",
+  "latitude": 38.4891658,
+  "longitude": -104.9974832,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07099060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

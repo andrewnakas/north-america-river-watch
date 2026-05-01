@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06465700",
+  "key": "06465700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06465700",
+  "name": "Verdigre Creek near Verdigre, Nebr.",
+  "waterbody": "Verdigre Creek near Verdigre, Nebr.",
+  "state": "NE",
+  "latitude": 42.65454167,
+  "longitude": -98.04311944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VEDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verdigre Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vedn1",
+  "slug": "usgs-06465700",
+  "noaaForecastPath": "data/noaa-forecast/VEDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

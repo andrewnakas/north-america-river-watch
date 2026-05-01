@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05527950",
+  "key": "05527950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05527950",
+  "name": "MILL CREEK AT OLD MILL CREEK, IL",
+  "waterbody": "MILL CREEK AT OLD MILL CREEK, IL",
+  "state": "IL",
+  "latitude": 42.41527778,
+  "longitude": -87.9691667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OMCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/omci2",
+  "slug": "usgs-05527950",
+  "noaaForecastPath": "data/noaa-forecast/OMCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

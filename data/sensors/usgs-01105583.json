@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105583",
+  "key": "01105583",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105583",
+  "name": "MONATIQUOT RIVER AT EAST BRAINTREE, MA",
+  "waterbody": "MONATIQUOT RIVER AT EAST BRAINTREE, MA",
+  "state": "MA",
+  "latitude": 42.2208065,
+  "longitude": -70.9780711,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EABM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monatiquot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eabm3",
+  "slug": "usgs-01105583",
+  "noaaForecastPath": "data/noaa-forecast/EABM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

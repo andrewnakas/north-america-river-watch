@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01446500",
+  "key": "01446500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01446500",
+  "name": "Delaware River at Belvidere NJ",
+  "waterbody": "Delaware River at Belvidere NJ",
+  "state": "NJ",
+  "latitude": 40.82638889,
+  "longitude": -75.0825,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVDN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvdn4",
+  "slug": "usgs-01446500",
+  "noaaForecastPath": "data/noaa-forecast/BVDN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

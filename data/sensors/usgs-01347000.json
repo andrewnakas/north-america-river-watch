@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01347000",
+  "key": "01347000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01347000",
+  "name": "MOHAWK RIVER NEAR LITTLE FALLS NY",
+  "waterbody": "MOHAWK RIVER NEAR LITTLE FALLS NY",
+  "state": "NY",
+  "latitude": 43.01505556,
+  "longitude": -74.77919444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mohawk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltln6",
+  "slug": "usgs-01347000",
+  "noaaForecastPath": "data/noaa-forecast/LTLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

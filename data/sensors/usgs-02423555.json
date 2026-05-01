@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02423555",
+  "key": "02423555",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02423555",
+  "name": "CAHABA RIVER NEAR HELENA AL",
+  "waterbody": "CAHABA RIVER NEAR HELENA AL",
+  "state": "AL",
+  "latitude": 33.28455786,
+  "longitude": -86.8824901,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLEA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cahaba River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlea1",
+  "slug": "usgs-02423555",
+  "noaaForecastPath": "data/noaa-forecast/HLEA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

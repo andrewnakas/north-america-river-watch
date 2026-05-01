@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09471000",
+  "key": "09471000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09471000",
+  "name": "SAN PEDRO RIVER AT CHARLESTON, AZ",
+  "waterbody": "SAN PEDRO RIVER AT CHARLESTON, AZ",
+  "state": "AZ",
+  "latitude": 31.62594167,
+  "longitude": -110.1751028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAPA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Pedro River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sapa3",
+  "slug": "usgs-09471000",
+  "noaaForecastPath": "data/noaa-forecast/SAPA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03145534",
+  "key": "03145534",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03145534",
+  "name": "Raccoon Cr. bl. Wilson Street at Newark OH",
+  "waterbody": "Raccoon Cr. bl. Wilson Street at Newark OH",
+  "state": "OH",
+  "latitude": 40.0525,
+  "longitude": -82.41138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raccoon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcno1",
+  "slug": "usgs-03145534",
+  "noaaForecastPath": "data/noaa-forecast/RCNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13340760",
+  "key": "13340760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13340760",
+  "name": "LITTLE NF CLEARWATER RIVER NR ELK RIVER ID",
+  "waterbody": "LITTLE NF CLEARWATER RIVER NR ELK RIVER ID",
+  "state": "ID",
+  "latitude": 46.90435145,
+  "longitude": -115.8473748,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13340760",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

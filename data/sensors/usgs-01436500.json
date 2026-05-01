@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01436500",
+  "key": "01436500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01436500",
+  "name": "NEVERSINK RIVER AT WOODBOURNE NY",
+  "waterbody": "NEVERSINK RIVER AT WOODBOURNE NY",
+  "state": "NY",
+  "latitude": 41.7566111,
+  "longitude": -74.5976111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01436500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

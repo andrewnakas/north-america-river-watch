@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05460100",
+  "key": "05460100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05460100",
+  "name": "Willow Creek near Mason City, IA",
+  "waterbody": "Willow Creek near Mason City, IA",
+  "state": "IA",
+  "latitude": 43.14857108,
+  "longitude": -93.2688155,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MWCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mwci4",
+  "slug": "usgs-05460100",
+  "noaaForecastPath": "data/noaa-forecast/MWCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

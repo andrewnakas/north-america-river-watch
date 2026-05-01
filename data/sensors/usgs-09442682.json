@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442682",
+  "key": "09442682",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442682",
+  "name": "KIEHNE DITCH NEAR RESERVE, NM",
+  "waterbody": "KIEHNE DITCH NEAR RESERVE, NM",
+  "state": "NM",
+  "latitude": 33.70388889,
+  "longitude": -108.7572222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442682",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

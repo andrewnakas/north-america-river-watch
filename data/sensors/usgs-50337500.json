@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50337500",
+  "key": "50337500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50337500",
+  "name": "GUT 4.5 AT CANE VALLEY ST. CROIX, USVI",
+  "waterbody": "GUT 4.5 AT CANE VALLEY ST. CROIX, USVI",
+  "state": "VI",
+  "latitude": 17.72164099,
+  "longitude": -64.8498683,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50337500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

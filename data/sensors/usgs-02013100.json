@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02013100",
+  "key": "02013100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02013100",
+  "name": "JACKSON RIVER BL DUNLAP CREEK AT COVINGTON, VA",
+  "waterbody": "JACKSON RIVER BL DUNLAP CREEK AT COVINGTON, VA",
+  "state": "VA",
+  "latitude": 37.7887362,
+  "longitude": -80.00061319,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVGV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jackson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvgv2",
+  "slug": "usgs-02013100",
+  "noaaForecastPath": "data/noaa-forecast/CVGV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

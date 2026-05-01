@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06109500",
+  "key": "06109500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06109500",
+  "name": "Missouri River at Virgelle MT",
+  "waterbody": "Missouri River at Virgelle MT",
+  "state": "MT",
+  "latitude": 48.0037833,
+  "longitude": -110.2588222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VRGM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vrgm8",
+  "slug": "usgs-06109500",
+  "noaaForecastPath": "data/noaa-forecast/VRGM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

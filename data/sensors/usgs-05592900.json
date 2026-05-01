@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05592900",
+  "key": "05592900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05592900",
+  "name": "EAST FORK KASKASKIA RIVER NEAR SANDOVAL, IL",
+  "waterbody": "EAST FORK KASKASKIA RIVER NEAR SANDOVAL, IL",
+  "state": "IL",
+  "latitude": 38.68888889,
+  "longitude": -89.1,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05592900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

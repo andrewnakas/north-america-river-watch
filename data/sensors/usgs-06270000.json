@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06270000",
+  "key": "06270000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06270000",
+  "name": "Nowood River near Ten Sleep, WY",
+  "waterbody": "Nowood River near Ten Sleep, WY",
+  "state": "WY",
+  "latitude": 44.013333,
+  "longitude": -107.4275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nowood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwsw4",
+  "slug": "usgs-06270000",
+  "noaaForecastPath": "data/noaa-forecast/NWSW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

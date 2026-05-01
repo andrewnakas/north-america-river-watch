@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01492600",
+  "key": "01492600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01492600",
+  "name": "EASTERN BAY AT CLAIBORNE, MD",
+  "waterbody": "EASTERN BAY AT CLAIBORNE, MD",
+  "state": "MD",
+  "latitude": 38.83702778,
+  "longitude": -76.2805556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLNM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eastern Bay",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clnm2",
+  "slug": "usgs-01492600",
+  "noaaForecastPath": "data/noaa-forecast/CLNM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

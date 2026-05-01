@@ -1,0 +1,22 @@
+{
+  "id": "usgs:300127090045800",
+  "key": "300127090045800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "300127090045800",
+  "name": "Bayou Saint John inside gate at New Orleans, LA",
+  "waterbody": "Bayou Saint John inside gate at New Orleans, LA",
+  "state": "LA",
+  "latitude": 30.02416667,
+  "longitude": -90.0827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSJL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Saint John",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsjl1",
+  "slug": "usgs-300127090045800",
+  "noaaForecastPath": "data/noaa-forecast/BSJL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

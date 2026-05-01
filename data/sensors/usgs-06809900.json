@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06809900",
+  "key": "06809900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06809900",
+  "name": "East Nishnabotna River at Riverton, IA",
+  "waterbody": "East Nishnabotna River at Riverton, IA",
+  "state": "IA",
+  "latitude": 40.6946111,
+  "longitude": -95.5625833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EISI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Nishnabotna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eisi4",
+  "slug": "usgs-06809900",
+  "noaaForecastPath": "data/noaa-forecast/EISI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

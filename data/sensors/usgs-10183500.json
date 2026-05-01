@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10183500",
+  "key": "10183500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10183500",
+  "name": "SEVIER RIVER NEAR KINGSTON, UT",
+  "waterbody": "SEVIER RIVER NEAR KINGSTON, UT",
+  "state": "UT",
+  "latitude": 38.20609038,
+  "longitude": -112.2077024,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEKU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sevier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seku1",
+  "slug": "usgs-10183500",
+  "noaaForecastPath": "data/noaa-forecast/SEKU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

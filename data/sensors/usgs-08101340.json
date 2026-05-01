@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08101340",
+  "key": "08101340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08101340",
+  "name": "House Ck at W Range Rd nr Ft Hood, TX",
+  "waterbody": "House Ck at W Range Rd nr Ft Hood, TX",
+  "state": "TX",
+  "latitude": 31.18553056,
+  "longitude": -97.8087167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08101340",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

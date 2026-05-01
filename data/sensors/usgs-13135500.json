@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13135500",
+  "key": "13135500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13135500",
+  "name": "BIG WOOD RIVER NR KETCHUM ID",
+  "waterbody": "BIG WOOD RIVER NR KETCHUM ID",
+  "state": "ID",
+  "latitude": 43.78626389,
+  "longitude": -114.4250556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWKI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwki1",
+  "slug": "usgs-13135500",
+  "noaaForecastPath": "data/noaa-forecast/BWKI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14032000",
+  "key": "14032000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14032000",
+  "name": "BUTTER CREEK NEAR PINE CITY, OREG.",
+  "waterbody": "BUTTER CREEK NEAR PINE CITY, OREG.",
+  "state": "OR",
+  "latitude": 45.5442902,
+  "longitude": -119.3122394,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PICO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Butter Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pico3",
+  "slug": "usgs-14032000",
+  "noaaForecastPath": "data/noaa-forecast/PICO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

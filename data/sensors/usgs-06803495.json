@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803495",
+  "key": "06803495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803495",
+  "name": "Salt Creek at Innovation Campus at Lincoln, Nebr.",
+  "waterbody": "Salt Creek at Innovation Campus at Lincoln, Nebr.",
+  "state": "NE",
+  "latitude": 40.838611,
+  "longitude": -96.691389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SALN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saln1",
+  "slug": "usgs-06803495",
+  "noaaForecastPath": "data/noaa-forecast/SALN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

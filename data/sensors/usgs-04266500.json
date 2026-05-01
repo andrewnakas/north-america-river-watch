@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04266500",
+  "key": "04266500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04266500",
+  "name": "RAQUETTE RIVER AT PIERCEFIELD NY",
+  "waterbody": "RAQUETTE RIVER AT PIERCEFIELD NY",
+  "state": "NY",
+  "latitude": 44.23416667,
+  "longitude": -74.57152778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIEN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raquette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pien6",
+  "slug": "usgs-04266500",
+  "noaaForecastPath": "data/noaa-forecast/PIEN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03602219",
+  "key": "03602219",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03602219",
+  "name": "PINEY RIVER AT CEDAR HILL, TN",
+  "waterbody": "PINEY RIVER AT CEDAR HILL, TN",
+  "state": "TN",
+  "latitude": 35.99534048,
+  "longitude": -87.4394588,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03602219",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

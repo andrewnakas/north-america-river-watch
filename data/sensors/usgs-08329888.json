@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329888",
+  "key": "08329888",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329888",
+  "name": "LA CUEVA ARROYO TRIB (UPPER) AT ALBQ., NM",
+  "waterbody": "LA CUEVA ARROYO TRIB (UPPER) AT ALBQ., NM",
+  "state": "NM",
+  "latitude": 35.18944444,
+  "longitude": -106.4952778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329888",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01151500",
+  "key": "01151500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01151500",
+  "name": "OTTAUQUECHEE RIVER AT NORTH HARTLAND, VT",
+  "waterbody": "OTTAUQUECHEE RIVER AT NORTH HARTLAND, VT",
+  "state": "VT",
+  "latitude": 43.60257077,
+  "longitude": -72.35425819,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHDV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ottauquechee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhdv1",
+  "slug": "usgs-01151500",
+  "noaaForecastPath": "data/noaa-forecast/NHDV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

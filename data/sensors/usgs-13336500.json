@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13336500",
+  "key": "13336500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13336500",
+  "name": "SELWAY RIVER NR LOWELL ID",
+  "waterbody": "SELWAY RIVER NR LOWELL ID",
+  "state": "ID",
+  "latitude": 46.08666667,
+  "longitude": -115.5138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SELI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Selway River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seli1",
+  "slug": "usgs-13336500",
+  "noaaForecastPath": "data/noaa-forecast/SELI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

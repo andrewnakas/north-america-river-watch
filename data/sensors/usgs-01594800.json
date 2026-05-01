@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01594800",
+  "key": "01594800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594800",
+  "name": "ST LEONARD CREEK NEAR ST LEONARD, MD",
+  "waterbody": "ST LEONARD CREEK NEAR ST LEONARD, MD",
+  "state": "MD",
+  "latitude": 38.44891667,
+  "longitude": -76.49513889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01594800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

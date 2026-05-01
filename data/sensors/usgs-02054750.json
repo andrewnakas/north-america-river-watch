@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02054750",
+  "key": "02054750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02054750",
+  "name": "ROANOKE RIVER AT ROUTE 117 AT ROANOKE, VA",
+  "waterbody": "ROANOKE RIVER AT ROUTE 117 AT ROANOKE, VA",
+  "state": "VA",
+  "latitude": 37.27155556,
+  "longitude": -80.00788889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RPCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peters Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rpcv2",
+  "slug": "usgs-02054750",
+  "noaaForecastPath": "data/noaa-forecast/RPCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

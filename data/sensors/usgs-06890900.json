@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06890900",
+  "key": "06890900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06890900",
+  "name": "DELAWARE R AT PERRY, KS",
+  "waterbody": "DELAWARE R AT PERRY, KS",
+  "state": "KS",
+  "latitude": 39.07500017,
+  "longitude": -95.4038634,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06890900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

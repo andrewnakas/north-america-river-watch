@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415510",
+  "key": "09415510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415510",
+  "name": "PRESTON BIG SPRG NR PRESTON, NV",
+  "waterbody": "PRESTON BIG SPRG NR PRESTON, NV",
+  "state": "NV",
+  "latitude": 38.9333333,
+  "longitude": -115.08,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

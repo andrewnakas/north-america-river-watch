@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01069500",
+  "key": "01069500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01069500",
+  "name": "Mousam River near West Kennebunk, Maine",
+  "waterbody": "Mousam River near West Kennebunk, Maine",
+  "state": "ME",
+  "latitude": 43.4183333,
+  "longitude": -70.6583333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01069500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

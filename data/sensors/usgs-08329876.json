@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329876",
+  "key": "08329876",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329876",
+  "name": "CHERRY HILLS ARROYO NO. 2 AT ALBQ., NM",
+  "waterbody": "CHERRY HILLS ARROYO NO. 2 AT ALBQ., NM",
+  "state": "NM",
+  "latitude": 35.14726719,
+  "longitude": -106.5561352,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329876",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09484500",
+  "key": "09484500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09484500",
+  "name": "TANQUE VERDE CREEK AT TUCSON, AZ.",
+  "waterbody": "TANQUE VERDE CREEK AT TUCSON, AZ.",
+  "state": "AZ",
+  "latitude": 32.26425556,
+  "longitude": -110.8413,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TVCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tanque Verde Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tvca3",
+  "slug": "usgs-09484500",
+  "noaaForecastPath": "data/noaa-forecast/TVCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14301500",
+  "key": "14301500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14301500",
+  "name": "WILSON RIVER NEAR TILLAMOOK, OR",
+  "waterbody": "WILSON RIVER NEAR TILLAMOOK, OR",
+  "state": "OR",
+  "latitude": 45.47593996,
+  "longitude": -123.7251209,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wilson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlmo3",
+  "slug": "usgs-14301500",
+  "noaaForecastPath": "data/noaa-forecast/TLMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

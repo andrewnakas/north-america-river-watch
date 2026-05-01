@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313060",
+  "key": "08313060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313060",
+  "name": "PUEBLO CANYON NEAR LOS ALAMOS, NM",
+  "waterbody": "PUEBLO CANYON NEAR LOS ALAMOS, NM",
+  "state": "NM",
+  "latitude": 35.87030269,
+  "longitude": -106.2161369,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

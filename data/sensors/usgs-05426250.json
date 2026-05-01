@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05426250",
+  "key": "05426250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05426250",
+  "name": "BARK RIVER NEAR ROME, WI",
+  "waterbody": "BARK RIVER NEAR ROME, WI",
+  "state": "WI",
+  "latitude": 42.96027778,
+  "longitude": -88.6705556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROMW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bark River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/romw3",
+  "slug": "usgs-05426250",
+  "noaaForecastPath": "data/noaa-forecast/ROMW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

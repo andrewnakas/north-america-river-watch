@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07237500",
+  "key": "07237500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07237500",
+  "name": "North Canadian River at Woodward, OK",
+  "waterbody": "North Canadian River at Woodward, OK",
+  "state": "OK",
+  "latitude": 36.43670336,
+  "longitude": -99.2784383,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDGO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdgo2",
+  "slug": "usgs-07237500",
+  "noaaForecastPath": "data/noaa-forecast/WDGO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01063310",
+  "key": "01063310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01063310",
+  "name": "Stony Brook at East Sebago, Maine",
+  "waterbody": "Stony Brook at East Sebago, Maine",
+  "state": "ME",
+  "latitude": 43.85555556,
+  "longitude": -70.6397222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01063310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03050500",
+  "key": "03050500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03050500",
+  "name": "TYGART VALLEY RIVER NEAR ELKINS, WV",
+  "waterbody": "TYGART VALLEY RIVER NEAR ELKINS, WV",
+  "state": "WV",
+  "latitude": 38.92371705,
+  "longitude": -79.8789587,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elkw2",
+  "slug": "usgs-03050500",
+  "noaaForecastPath": "data/noaa-forecast/ELKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

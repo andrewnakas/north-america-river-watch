@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06037000",
+  "key": "06037000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06037000",
+  "name": "Gibbon River near West Yellowstone MT",
+  "waterbody": "Gibbon River near West Yellowstone MT",
+  "state": "WY",
+  "latitude": 44.64910556,
+  "longitude": -110.7847361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06037000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

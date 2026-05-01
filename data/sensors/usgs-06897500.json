@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06897500",
+  "key": "06897500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06897500",
+  "name": "Grand River near Gallatin, MO",
+  "waterbody": "Grand River near Gallatin, MO",
+  "state": "MO",
+  "latitude": 39.9269517,
+  "longitude": -93.9427225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GAZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gazm7",
+  "slug": "usgs-06897500",
+  "noaaForecastPath": "data/noaa-forecast/GAZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09070000",
+  "key": "09070000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09070000",
+  "name": "EAGLE RIVER BELOW GYPSUM, CO.",
+  "waterbody": "EAGLE RIVER BELOW GYPSUM, CO.",
+  "state": "CO",
+  "latitude": 39.64942954,
+  "longitude": -106.9536554,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GPSC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gpsc2",
+  "slug": "usgs-09070000",
+  "noaaForecastPath": "data/noaa-forecast/GPSC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

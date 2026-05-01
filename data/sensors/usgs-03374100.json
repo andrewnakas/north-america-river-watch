@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03374100",
+  "key": "03374100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03374100",
+  "name": "WHITE RIVER AT HAZLETON, IN",
+  "waterbody": "WHITE RIVER AT HAZLETON, IN",
+  "state": "IN",
+  "latitude": 38.4897748,
+  "longitude": -87.5500132,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HZNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hzni3",
+  "slug": "usgs-03374100",
+  "noaaForecastPath": "data/noaa-forecast/HZNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

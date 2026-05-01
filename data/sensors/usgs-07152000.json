@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07152000",
+  "key": "07152000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07152000",
+  "name": "Chikaskia River near Blackwell, OK",
+  "waterbody": "Chikaskia River near Blackwell, OK",
+  "state": "OK",
+  "latitude": 36.8114211,
+  "longitude": -97.277265,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLKO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chikaskia River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blko2",
+  "slug": "usgs-07152000",
+  "noaaForecastPath": "data/noaa-forecast/BLKO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02430880",
+  "key": "02430880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02430880",
+  "name": "CUMMINGS CREEK NR FULTON, MS",
+  "waterbody": "CUMMINGS CREEK NR FULTON, MS",
+  "state": "MS",
+  "latitude": 34.30444444,
+  "longitude": -88.3711111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02430880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03293500",
+  "key": "03293500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03293500",
+  "name": "M FK BEARGRASS CR AT LEXINGTON RD AT LOUISVILLE,KY",
+  "waterbody": "M FK BEARGRASS CR AT LEXINGTON RD AT LOUISVILLE,KY",
+  "state": "KY",
+  "latitude": 38.25034895,
+  "longitude": -85.7166287,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Beargrass Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cftk2",
+  "slug": "usgs-03293500",
+  "noaaForecastPath": "data/noaa-forecast/CFTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

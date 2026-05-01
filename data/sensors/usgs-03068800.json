@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03068800",
+  "key": "03068800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03068800",
+  "name": "SHAVERS FORK BELOW BOWDEN, WV",
+  "waterbody": "SHAVERS FORK BELOW BOWDEN, WV",
+  "state": "WV",
+  "latitude": 38.91316335,
+  "longitude": -79.770342,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOWW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shavers Fork  Cheat River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boww2",
+  "slug": "usgs-03068800",
+  "noaaForecastPath": "data/noaa-forecast/BOWW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

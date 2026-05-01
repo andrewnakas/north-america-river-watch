@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05480820",
+  "key": "05480820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05480820",
+  "name": "Boone River near Goldfield, IA",
+  "waterbody": "Boone River near Goldfield, IA",
+  "state": "IA",
+  "latitude": 42.72441389,
+  "longitude": -93.9466944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GOLI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boone River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/goli4",
+  "slug": "usgs-05480820",
+  "noaaForecastPath": "data/noaa-forecast/GOLI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15015595",
+  "key": "15015595",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15015595",
+  "name": "UNUK R BL BLUE R NR WRANGELL AK",
+  "waterbody": "UNUK R BL BLUE R NR WRANGELL AK",
+  "state": "AK",
+  "latitude": 56.240556,
+  "longitude": -130.880278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "URWA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unuk River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/urwa2",
+  "slug": "usgs-15015595",
+  "noaaForecastPath": "data/noaa-forecast/URWA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

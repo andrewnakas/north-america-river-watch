@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05586100",
+  "key": "05586100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05586100",
+  "name": "ILLINOIS RIVER AT VALLEY CITY, IL",
+  "waterbody": "ILLINOIS RIVER AT VALLEY CITY, IL",
+  "state": "IL",
+  "latitude": 39.70319444,
+  "longitude": -90.6430833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VALI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vali2",
+  "slug": "usgs-05586100",
+  "noaaForecastPath": "data/noaa-forecast/VALI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

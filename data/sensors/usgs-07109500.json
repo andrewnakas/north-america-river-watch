@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07109500",
+  "key": "07109500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07109500",
+  "name": "ARKANSAS RIVER NEAR AVONDALE, CO.",
+  "waterbody": "ARKANSAS RIVER NEAR AVONDALE, CO.",
+  "state": "CO",
+  "latitude": 38.248056,
+  "longitude": -104.398611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adlc2",
+  "slug": "usgs-07109500",
+  "noaaForecastPath": "data/noaa-forecast/ADLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

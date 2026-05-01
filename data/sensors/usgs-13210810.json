@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13210810",
+  "key": "13210810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13210810",
+  "name": "FIFTEENMILE CREEK NR MIDLAND BLVD NR MIDDLETON, ID",
+  "waterbody": "FIFTEENMILE CREEK NR MIDLAND BLVD NR MIDDLETON, ID",
+  "state": "ID",
+  "latitude": 43.67405,
+  "longitude": -116.585411,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13210810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

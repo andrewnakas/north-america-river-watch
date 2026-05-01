@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11466320",
+  "key": "11466320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11466320",
+  "name": "SANTA ROSA C A WILLOWSIDE RD NR SANTA ROSA CA",
+  "waterbody": "SANTA ROSA C A WILLOWSIDE RD NR SANTA ROSA CA",
+  "state": "CA",
+  "latitude": 38.44519026,
+  "longitude": -122.8072129,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TARC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Rosa Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tarc1",
+  "slug": "usgs-11466320",
+  "noaaForecastPath": "data/noaa-forecast/TARC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

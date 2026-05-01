@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02146820",
+  "key": "02146820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146820",
+  "name": "SUGAR CR. NR FT. MILL, S.C.",
+  "waterbody": "SUGAR CR. NR FT. MILL, S.C.",
+  "state": "SC",
+  "latitude": 34.9501476,
+  "longitude": -80.8703512,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02146820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

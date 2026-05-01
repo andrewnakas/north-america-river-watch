@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14211500",
+  "key": "14211500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14211500",
+  "name": "JOHNSON CREEK AT SYCAMORE, OR",
+  "waterbody": "JOHNSON CREEK AT SYCAMORE, OR",
+  "state": "OR",
+  "latitude": 45.47745556,
+  "longitude": -122.5080194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SYCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Johnson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/syco3",
+  "slug": "usgs-14211500",
+  "noaaForecastPath": "data/noaa-forecast/SYCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

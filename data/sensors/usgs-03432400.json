@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03432400",
+  "key": "03432400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03432400",
+  "name": "HARPETH RIVER BELOW FRANKLIN, TN",
+  "waterbody": "HARPETH RIVER BELOW FRANKLIN, TN",
+  "state": "TN",
+  "latitude": 35.94819856,
+  "longitude": -86.8817337,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBFT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Harpeth River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbft1",
+  "slug": "usgs-03432400",
+  "noaaForecastPath": "data/noaa-forecast/HBFT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

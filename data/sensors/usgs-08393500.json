@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08393500",
+  "key": "08393500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08393500",
+  "name": "RIO HONDO AT ROSWELL, NM",
+  "waterbody": "RIO HONDO AT ROSWELL, NM",
+  "state": "NM",
+  "latitude": 33.37204378,
+  "longitude": -104.5458024,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08393500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

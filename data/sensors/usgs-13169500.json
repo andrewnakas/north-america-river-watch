@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13169500",
+  "key": "13169500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13169500",
+  "name": "BIG JACKS CREEK NR BRUNEAU ID",
+  "waterbody": "BIG JACKS CREEK NR BRUNEAU ID",
+  "state": "ID",
+  "latitude": 42.785,
+  "longitude": -115.9833333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13169500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

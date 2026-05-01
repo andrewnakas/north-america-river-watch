@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01595500",
+  "key": "01595500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01595500",
+  "name": "NORTH BRANCH POTOMAC RIVER AT KITZMILLER, MD",
+  "waterbody": "NORTH BRANCH POTOMAC RIVER AT KITZMILLER, MD",
+  "state": "MD",
+  "latitude": 39.39388889,
+  "longitude": -79.1816944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KITM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kitm2",
+  "slug": "usgs-01595500",
+  "noaaForecastPath": "data/noaa-forecast/KITM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

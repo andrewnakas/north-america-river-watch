@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158380",
+  "key": "08158380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158380",
+  "name": "Little Walnut Ck at Georgian Dr, Austin, TX",
+  "waterbody": "Little Walnut Ck at Georgian Dr, Austin, TX",
+  "state": "TX",
+  "latitude": 30.3543736,
+  "longitude": -97.6980818,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Walnut Creek (TX)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwgt2",
+  "slug": "usgs-08158380",
+  "noaaForecastPath": "data/noaa-forecast/LWGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

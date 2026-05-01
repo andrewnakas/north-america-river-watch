@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0110588228",
+  "key": "0110588228",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0110588228",
+  "name": "HAWES RUN, AT PONDVIEW AVE, NR HYANNIS, MA",
+  "waterbody": "HAWES RUN, AT PONDVIEW AVE, NR HYANNIS, MA",
+  "state": "MA",
+  "latitude": 41.66185556,
+  "longitude": -70.2611917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0110588228",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

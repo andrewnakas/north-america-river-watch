@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03347500",
+  "key": "03347500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03347500",
+  "name": "BUCK CREEK NEAR MUNCIE, IN",
+  "waterbody": "BUCK CREEK NEAR MUNCIE, IN",
+  "state": "IN",
+  "latitude": 40.13475298,
+  "longitude": -85.3735532,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03347500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

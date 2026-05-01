@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09041090",
+  "key": "09041090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09041090",
+  "name": "MUDDY CREEK ABOVE ANTELOPE CREEK NR. KREMMLING, CO",
+  "waterbody": "MUDDY CREEK ABOVE ANTELOPE CREEK NR. KREMMLING, CO",
+  "state": "CO",
+  "latitude": 40.2025,
+  "longitude": -106.421944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09041090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

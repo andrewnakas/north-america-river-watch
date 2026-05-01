@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02203536",
+  "key": "02203536",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02203536",
+  "name": "OGEECHEE RIVER AT US 17, NEAR RICHMOND HILL, GA",
+  "waterbody": "OGEECHEE RIVER AT US 17, NEAR RICHMOND HILL, GA",
+  "state": "GA",
+  "latitude": 31.9769722,
+  "longitude": -81.2878611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RICG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogeechee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ricg1",
+  "slug": "usgs-02203536",
+  "noaaForecastPath": "data/noaa-forecast/RICG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

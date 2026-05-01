@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05454500",
+  "key": "05454500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05454500",
+  "name": "Iowa River at Iowa City, IA",
+  "waterbody": "Iowa River at Iowa City, IA",
+  "state": "IA",
+  "latitude": 41.6566833,
+  "longitude": -91.541,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IOWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iowi4",
+  "slug": "usgs-05454500",
+  "noaaForecastPath": "data/noaa-forecast/IOWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

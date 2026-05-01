@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02300032",
+  "key": "02300032",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300032",
+  "name": "BRADEN RIVER NEAR LORRAINE FL",
+  "waterbody": "BRADEN RIVER NEAR LORRAINE FL",
+  "state": "FL",
+  "latitude": 27.4225425,
+  "longitude": -82.4164832,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRUF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Braden River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fruf1",
+  "slug": "usgs-02300032",
+  "noaaForecastPath": "data/noaa-forecast/FRUF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

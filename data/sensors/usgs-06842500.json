@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06842500",
+  "key": "06842500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06842500",
+  "name": "MEDICINE CREEK BELOW HARRY STRUNK LAKE, NEBR.",
+  "waterbody": "MEDICINE CREEK BELOW HARRY STRUNK LAKE, NEBR.",
+  "state": "NE",
+  "latitude": 40.37166667,
+  "longitude": -100.2222222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CABN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medicine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cabn1",
+  "slug": "usgs-06842500",
+  "noaaForecastPath": "data/noaa-forecast/CABN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

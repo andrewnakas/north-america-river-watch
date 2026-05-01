@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14128600",
+  "key": "14128600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14128600",
+  "name": "COLUMBIA RIVER AT STEVENSON, WA",
+  "waterbody": "COLUMBIA RIVER AT STEVENSON, WA",
+  "state": "WA",
+  "latitude": 45.6992835,
+  "longitude": -121.8684125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STVW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Columbia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stvw1",
+  "slug": "usgs-14128600",
+  "noaaForecastPath": "data/noaa-forecast/STVW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

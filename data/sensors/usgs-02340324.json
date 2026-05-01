@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02340324",
+  "key": "02340324",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02340324",
+  "name": "MOUNTAIN OAK CREEK AT US 27, NEAR CHIPLEY, GA",
+  "waterbody": "MOUNTAIN OAK CREEK AT US 27, NEAR CHIPLEY, GA",
+  "state": "GA",
+  "latitude": 32.832631,
+  "longitude": -84.843542,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02340324",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

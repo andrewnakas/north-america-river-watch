@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03211500",
+  "key": "03211500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03211500",
+  "name": "JOHNS CREEK NEAR VAN LEAR, KY",
+  "waterbody": "JOHNS CREEK NEAR VAN LEAR, KY",
+  "state": "KY",
+  "latitude": 37.74370748,
+  "longitude": -82.72404689,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWYK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Johns Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwyk2",
+  "slug": "usgs-03211500",
+  "noaaForecastPath": "data/noaa-forecast/DWYK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

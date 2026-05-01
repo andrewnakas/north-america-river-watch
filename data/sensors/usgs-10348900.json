@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348900",
+  "key": "10348900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348900",
+  "name": "GALENA CK NR STEAMBOAT, NV",
+  "waterbody": "GALENA CK NR STEAMBOAT, NV",
+  "state": "NV",
+  "latitude": 39.36185,
+  "longitude": -119.8267444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

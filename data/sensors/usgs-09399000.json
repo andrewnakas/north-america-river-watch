@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09399000",
+  "key": "09399000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09399000",
+  "name": "CLEAR CREEK NEAR WINSLOW, AZ",
+  "waterbody": "CLEAR CREEK NEAR WINSLOW, AZ",
+  "state": "AZ",
+  "latitude": 34.96946689,
+  "longitude": -110.6451326,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09399000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02325543",
+  "key": "02325543",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02325543",
+  "name": "FENHOLLOWAY RIVER NEAR HAMPTON SPRINGS, FL",
+  "waterbody": "FENHOLLOWAY RIVER NEAR HAMPTON SPRINGS, FL",
+  "state": "FL",
+  "latitude": 30.01132315,
+  "longitude": -83.7776534,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fenholloway River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frhf1",
+  "slug": "usgs-02325543",
+  "noaaForecastPath": "data/noaa-forecast/FRHF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

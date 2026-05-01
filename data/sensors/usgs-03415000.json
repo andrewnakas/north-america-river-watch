@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03415000",
+  "key": "03415000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03415000",
+  "name": "WEST FORK OBEY RIVER NEAR ALPINE, TN",
+  "waterbody": "WEST FORK OBEY RIVER NEAR ALPINE, TN",
+  "state": "TN",
+  "latitude": 36.3973873,
+  "longitude": -85.1744486,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALPT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Obey River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alpt1",
+  "slug": "usgs-03415000",
+  "noaaForecastPath": "data/noaa-forecast/ALPT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

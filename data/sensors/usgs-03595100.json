@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03595100",
+  "key": "03595100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03595100",
+  "name": "LITTLE DUCK RIVER SOUTHEAST OF MANCHESTER, TN",
+  "waterbody": "LITTLE DUCK RIVER SOUTHEAST OF MANCHESTER, TN",
+  "state": "TN",
+  "latitude": 35.4625548,
+  "longitude": -86.06499,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03595100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

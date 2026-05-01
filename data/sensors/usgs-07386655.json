@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07386655",
+  "key": "07386655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07386655",
+  "name": "Vermillion Rvr N. of I-10 at Lafayette, La",
+  "waterbody": "Vermillion Rvr N. of I-10 at Lafayette, La",
+  "state": "LA",
+  "latitude": 30.27191667,
+  "longitude": -91.9840556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VRIL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vermilion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vril1",
+  "slug": "usgs-07386655",
+  "noaaForecastPath": "data/noaa-forecast/VRIL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

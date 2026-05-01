@@ -1,0 +1,19 @@
+{
+  "id": "usgs:022907647",
+  "key": "022907647",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "022907647",
+  "name": "LEVEE 31 NORTH EXTENSION 1 MILE NR WEST MIAMI FL",
+  "waterbody": "LEVEE 31 NORTH EXTENSION 1 MILE NR WEST MIAMI FL",
+  "state": "FL",
+  "latitude": 25.74633333,
+  "longitude": -80.49763889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-022907647",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02387010",
+  "key": "02387010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02387010",
+  "name": "CONASAUGA RIVER AT SLOAN BRIDGE, BELOW DALTON, GA",
+  "waterbody": "CONASAUGA RIVER AT SLOAN BRIDGE, BELOW DALTON, GA",
+  "state": "GA",
+  "latitude": 34.62925,
+  "longitude": -84.9171944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLBG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conasauga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlbg1",
+  "slug": "usgs-02387010",
+  "noaaForecastPath": "data/noaa-forecast/DLBG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

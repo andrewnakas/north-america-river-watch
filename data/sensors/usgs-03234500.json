@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03234500",
+  "key": "03234500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03234500",
+  "name": "Scioto River at Higby OH",
+  "waterbody": "Scioto River at Higby OH",
+  "state": "OH",
+  "latitude": 39.21228934,
+  "longitude": -82.8637854,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HIGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scioto River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/higo1",
+  "slug": "usgs-03234500",
+  "noaaForecastPath": "data/noaa-forecast/HIGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

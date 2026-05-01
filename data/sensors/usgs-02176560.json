@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02176560",
+  "key": "02176560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02176560",
+  "name": "BROAD RIVER NEAR BEAUFORT, SC",
+  "waterbody": "BROAD RIVER NEAR BEAUFORT, SC",
+  "state": "SC",
+  "latitude": 32.38725,
+  "longitude": -80.7795278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BROS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broad River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bros1",
+  "slug": "usgs-02176560",
+  "noaaForecastPath": "data/noaa-forecast/BROS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

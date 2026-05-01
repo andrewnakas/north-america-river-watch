@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08331990",
+  "key": "08331990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08331990",
+  "name": "RIO GRANDE CONVEYANCE CHANNEL NEAR BERNARDO, NM",
+  "waterbody": "RIO GRANDE CONVEYANCE CHANNEL NEAR BERNARDO, NM",
+  "state": "NM",
+  "latitude": 34.41450916,
+  "longitude": -106.8036366,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08331990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

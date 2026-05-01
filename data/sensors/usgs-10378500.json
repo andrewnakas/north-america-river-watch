@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10378500",
+  "key": "10378500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10378500",
+  "name": "HONEY CREEK NEAR PLUSH,OREG.",
+  "waterbody": "HONEY CREEK NEAR PLUSH,OREG.",
+  "state": "OR",
+  "latitude": 42.42488264,
+  "longitude": -119.9232849,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HONO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Honey Creek (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hono3",
+  "slug": "usgs-10378500",
+  "noaaForecastPath": "data/noaa-forecast/HONO3.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

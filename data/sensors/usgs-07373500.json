@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07373500",
+  "key": "07373500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07373500",
+  "name": "WEST FORK THOMPSON CR NR WAKEFIELD, LA.",
+  "waterbody": "WEST FORK THOMPSON CR NR WAKEFIELD, LA.",
+  "state": "LA",
+  "latitude": 30.92240137,
+  "longitude": -91.293166,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07373500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

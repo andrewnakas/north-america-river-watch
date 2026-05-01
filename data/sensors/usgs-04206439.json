@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04206439",
+  "key": "04206439",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04206439",
+  "name": "Chippewa Creek at Broadview Heights OH",
+  "waterbody": "Chippewa Creek at Broadview Heights OH",
+  "state": "OH",
+  "latitude": 41.32416667,
+  "longitude": -81.6719444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPWO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa Creek (Cuyahoga)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpwo1",
+  "slug": "usgs-04206439",
+  "noaaForecastPath": "data/noaa-forecast/CPWO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

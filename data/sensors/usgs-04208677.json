@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208677",
+  "key": "04208677",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208677",
+  "name": "Euclid Creek at South Euclid OH",
+  "waterbody": "Euclid Creek at South Euclid OH",
+  "state": "OH",
+  "latitude": 41.52444444,
+  "longitude": -81.5141667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EUCO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Euclid Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/euco1",
+  "slug": "usgs-04208677",
+  "noaaForecastPath": "data/noaa-forecast/EUCO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

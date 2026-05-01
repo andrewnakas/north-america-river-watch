@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522800",
+  "key": "09522800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522800",
+  "name": "SOUTH GILA MAIN CANAL NEAR YUMA, AZ",
+  "waterbody": "SOUTH GILA MAIN CANAL NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.68743889,
+  "longitude": -114.4721778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02335910",
+  "key": "02335910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335910",
+  "name": "ROTTENWOOD CR AT INTERSTATE N PKWY, NR SMYRNA, GA",
+  "waterbody": "ROTTENWOOD CR AT INTERSTATE N PKWY, NR SMYRNA, GA",
+  "state": "GA",
+  "latitude": 33.89402778,
+  "longitude": -84.45788889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rottenwood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smag1",
+  "slug": "usgs-02335910",
+  "noaaForecastPath": "data/noaa-forecast/SMAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10300600",
+  "key": "10300600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10300600",
+  "name": "WALKER RV AT SNYDER LN NR MASON, NV",
+  "waterbody": "WALKER RV AT SNYDER LN NR MASON, NV",
+  "state": "NV",
+  "latitude": 38.92125,
+  "longitude": -119.1915833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MASN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/masn2",
+  "slug": "usgs-10300600",
+  "noaaForecastPath": "data/noaa-forecast/MASN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

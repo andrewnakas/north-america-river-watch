@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02197354",
+  "key": "02197354",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197354",
+  "name": "P-007 AT SAVANNAH RIVER SITE, SC",
+  "waterbody": "P-007 AT SAVANNAH RIVER SITE, SC",
+  "state": "SC",
+  "latitude": 33.22598109,
+  "longitude": -81.5773319,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02197354",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

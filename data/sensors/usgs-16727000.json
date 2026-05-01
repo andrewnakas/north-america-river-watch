@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16727000",
+  "key": "16727000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16727000",
+  "name": "Upper Hamakua D ab Puukapu Res nr Kamuela, HI",
+  "waterbody": "Upper Hamakua D ab Puukapu Res nr Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.04500278,
+  "longitude": -155.6186056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16727000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

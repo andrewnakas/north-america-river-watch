@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09403600",
+  "key": "09403600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09403600",
+  "name": "KANAB CREEK NEAR KANAB, UT",
+  "waterbody": "KANAB CREEK NEAR KANAB, UT",
+  "state": "UT",
+  "latitude": 37.10054059,
+  "longitude": -112.5479827,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09403600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

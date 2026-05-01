@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01402500",
+  "key": "01402500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01402500",
+  "name": "Millstone River at Millstone NJ",
+  "waterbody": "Millstone River at Millstone NJ",
+  "state": "NJ",
+  "latitude": 40.50277778,
+  "longitude": -74.5875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MITN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Millstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mitn4",
+  "slug": "usgs-01402500",
+  "noaaForecastPath": "data/noaa-forecast/MITN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16647900",
+  "key": "16647900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16647900",
+  "name": "Waikapu Str US of S Waikapu Dt intake, Maui, HI",
+  "waterbody": "Waikapu Str US of S Waikapu Dt intake, Maui, HI",
+  "state": "HI",
+  "latitude": 20.85577379,
+  "longitude": -156.53647699,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16647900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

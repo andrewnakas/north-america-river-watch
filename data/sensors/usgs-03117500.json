@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03117500",
+  "key": "03117500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03117500",
+  "name": "Sandy Creek at Waynesburg OH",
+  "waterbody": "Sandy Creek at Waynesburg OH",
+  "state": "OH",
+  "latitude": 40.6725609,
+  "longitude": -81.2598308,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WANO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wano1",
+  "slug": "usgs-03117500",
+  "noaaForecastPath": "data/noaa-forecast/WANO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

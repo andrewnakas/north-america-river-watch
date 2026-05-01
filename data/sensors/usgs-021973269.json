@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021973269",
+  "key": "021973269",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021973269",
+  "name": "SAVANNAH RIVER NEAR WAYNESBORO, GA",
+  "waterbody": "SAVANNAH RIVER NEAR WAYNESBORO, GA",
+  "state": "GA",
+  "latitude": 33.1503611,
+  "longitude": -81.7540833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GIRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Savannah River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/girg1",
+  "slug": "usgs-021973269",
+  "noaaForecastPath": "data/noaa-forecast/GIRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

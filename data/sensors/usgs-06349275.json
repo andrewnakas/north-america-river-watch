@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06349275",
+  "key": "06349275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349275",
+  "name": "LONG LAKE CR BELOW LONG LAKE NR MOFFIT, ND",
+  "waterbody": "LONG LAKE CR BELOW LONG LAKE NR MOFFIT, ND",
+  "state": "ND",
+  "latitude": 46.69165615,
+  "longitude": -100.2865012,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06349275",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

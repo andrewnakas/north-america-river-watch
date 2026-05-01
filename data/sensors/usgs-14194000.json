@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14194000",
+  "key": "14194000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14194000",
+  "name": "SOUTH YAMHILL RIVER NEAR WHITESON,OREG.",
+  "waterbody": "SOUTH YAMHILL RIVER NEAR WHITESON,OREG.",
+  "state": "OR",
+  "latitude": 45.16872755,
+  "longitude": -123.20816,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14194000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

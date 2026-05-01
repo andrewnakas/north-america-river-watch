@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06349000",
+  "key": "06349000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349000",
+  "name": "HEART RIVER NR MANDAN, ND",
+  "waterbody": "HEART RIVER NR MANDAN, ND",
+  "state": "ND",
+  "latitude": 46.8338827,
+  "longitude": -100.9745789,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDNN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Heart River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdnn8",
+  "slug": "usgs-06349000",
+  "noaaForecastPath": "data/noaa-forecast/MDNN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

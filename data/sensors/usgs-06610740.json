@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610740",
+  "key": "06610740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610740",
+  "name": "Big Papillion Creek at Pacific St at Omaha, Nebr.",
+  "waterbody": "Big Papillion Creek at Pacific St at Omaha, Nebr.",
+  "state": "NE",
+  "latitude": 41.24863333,
+  "longitude": -96.07863889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OMBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ombn1",
+  "slug": "usgs-06610740",
+  "noaaForecastPath": "data/noaa-forecast/OMBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

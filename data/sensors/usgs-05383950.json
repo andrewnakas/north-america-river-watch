@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05383950",
+  "key": "05383950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05383950",
+  "name": "ROOT RIVER NEAR PILOT MOUND, MN",
+  "waterbody": "ROOT RIVER NEAR PILOT MOUND, MN",
+  "state": "MN",
+  "latitude": 43.782779,
+  "longitude": -92.03163,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RPMM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Root River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rpmm5",
+  "slug": "usgs-05383950",
+  "noaaForecastPath": "data/noaa-forecast/RPMM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

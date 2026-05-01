@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09502830",
+  "key": "09502830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09502830",
+  "name": "BIG CHINO WASH AT PAULDEN, AZ",
+  "waterbody": "BIG CHINO WASH AT PAULDEN, AZ",
+  "state": "AZ",
+  "latitude": 34.8703611,
+  "longitude": -112.4699444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCWA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Chino Wash",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcwa3",
+  "slug": "usgs-09502830",
+  "noaaForecastPath": "data/noaa-forecast/BCWA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

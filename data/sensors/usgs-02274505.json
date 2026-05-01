@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02274505",
+  "key": "02274505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02274505",
+  "name": "WOLFF CREEK NR OKEECHOBEE,FL",
+  "waterbody": "WOLFF CREEK NR OKEECHOBEE,FL",
+  "state": "FL",
+  "latitude": 27.28087828,
+  "longitude": -80.8239494,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02274505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

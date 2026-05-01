@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15052580",
+  "key": "15052580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15052580",
+  "name": "MENDENHALL R AT LOOP ROAD BRIDGE NR AUKE BAY AK",
+  "waterbody": "MENDENHALL R AT LOOP ROAD BRIDGE NR AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.4051403,
+  "longitude": -134.584638,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNBA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mendenhall River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnba2",
+  "slug": "usgs-15052580",
+  "noaaForecastPath": "data/noaa-forecast/MNBA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

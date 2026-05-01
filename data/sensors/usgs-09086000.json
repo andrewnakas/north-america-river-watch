@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09086000",
+  "key": "09086000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09086000",
+  "name": "WEST ELK CREEK NEAR NEW CASTLE, CO",
+  "waterbody": "WEST ELK CREEK NEAR NEW CASTLE, CO",
+  "state": "CO",
+  "latitude": 39.66636949,
+  "longitude": -107.6270045,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09086000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

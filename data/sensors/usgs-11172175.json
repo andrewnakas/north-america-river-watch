@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11172175",
+  "key": "11172175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11172175",
+  "name": "COYOTE C AB HWY 237 A MILPITAS CA",
+  "waterbody": "COYOTE C AB HWY 237 A MILPITAS CA",
+  "state": "CA",
+  "latitude": 37.4221617,
+  "longitude": -121.9274577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coyote Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmic1",
+  "slug": "usgs-11172175",
+  "noaaForecastPath": "data/noaa-forecast/CMIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

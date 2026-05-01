@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14070000",
+  "key": "14070000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14070000",
+  "name": "SWALLEY CANAL NEAR BEND,OREG.",
+  "waterbody": "SWALLEY CANAL NEAR BEND,OREG.",
+  "state": "OR",
+  "latitude": 44.0803953,
+  "longitude": -121.301143,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14070000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

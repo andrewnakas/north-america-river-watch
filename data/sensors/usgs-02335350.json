@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02335350",
+  "key": "02335350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335350",
+  "name": "CROOKED CREEK NEAR NORCROSS, GA",
+  "waterbody": "CROOKED CREEK NEAR NORCROSS, GA",
+  "state": "GA",
+  "latitude": 33.965,
+  "longitude": -84.2647222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRKG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crkg1",
+  "slug": "usgs-02335350",
+  "noaaForecastPath": "data/noaa-forecast/CRKG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

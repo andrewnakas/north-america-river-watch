@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12121600",
+  "key": "12121600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12121600",
+  "name": "ISSAQUAH CREEK NEAR MOUTH NEAR ISSAQUAH, WA",
+  "waterbody": "ISSAQUAH CREEK NEAR MOUTH NEAR ISSAQUAH, WA",
+  "state": "WA",
+  "latitude": 47.55229658,
+  "longitude": -122.0478776,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ISSW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Issaquah Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/issw1",
+  "slug": "usgs-12121600",
+  "noaaForecastPath": "data/noaa-forecast/ISSW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

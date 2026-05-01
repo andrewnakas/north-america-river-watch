@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06026210",
+  "key": "06026210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06026210",
+  "name": "Big Hole River near Glen MT",
+  "waterbody": "Big Hole River near Glen MT",
+  "state": "MT",
+  "latitude": 45.4400944,
+  "longitude": -112.5560917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnlm8",
+  "slug": "usgs-06026210",
+  "noaaForecastPath": "data/noaa-forecast/GNLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

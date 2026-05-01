@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06918493",
+  "key": "06918493",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06918493",
+  "name": "South Fork Dry Sac River near Springfield, MO",
+  "waterbody": "South Fork Dry Sac River near Springfield, MO",
+  "state": "MO",
+  "latitude": 37.26638889,
+  "longitude": -93.2494722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SACM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Dry Sac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sacm7",
+  "slug": "usgs-06918493",
+  "noaaForecastPath": "data/noaa-forecast/SACM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

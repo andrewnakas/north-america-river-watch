@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06320000",
+  "key": "06320000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06320000",
+  "name": "ROCK CREEK NEAR BUFFALO, WY",
+  "waterbody": "ROCK CREEK NEAR BUFFALO, WY",
+  "state": "WY",
+  "latitude": 44.456039,
+  "longitude": -106.8790096,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROKW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rokw4",
+  "slug": "usgs-06320000",
+  "noaaForecastPath": "data/noaa-forecast/ROKW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09512162",
+  "key": "09512162",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512162",
+  "name": "INDIAN BEND WASH AT CURRY ROAD, TEMPE, AZ.",
+  "waterbody": "INDIAN BEND WASH AT CURRY ROAD, TEMPE, AZ.",
+  "state": "AZ",
+  "latitude": 33.4403423,
+  "longitude": -111.9151624,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IDXA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Bend Wash",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/idxa3",
+  "slug": "usgs-09512162",
+  "noaaForecastPath": "data/noaa-forecast/IDXA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

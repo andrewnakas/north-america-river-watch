@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05089995",
+  "key": "05089995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05089995",
+  "name": "PARK RIVER DIVERSION AT GRAFTON, ND",
+  "waterbody": "PARK RIVER DIVERSION AT GRAFTON, ND",
+  "state": "ND",
+  "latitude": 48.43519444,
+  "longitude": -97.41522222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GFBN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Park River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gfbn8",
+  "slug": "usgs-05089995",
+  "noaaForecastPath": "data/noaa-forecast/GFBN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

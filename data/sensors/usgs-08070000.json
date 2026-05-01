@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08070000",
+  "key": "08070000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08070000",
+  "name": "E Fk San Jacinto Rv nr Cleveland, TX",
+  "waterbody": "E Fk San Jacinto Rv nr Cleveland, TX",
+  "state": "TX",
+  "latitude": 30.33659809,
+  "longitude": -95.1040999,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork San Jacinto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cldt2",
+  "slug": "usgs-08070000",
+  "noaaForecastPath": "data/noaa-forecast/CLDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

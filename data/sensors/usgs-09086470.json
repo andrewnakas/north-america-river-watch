@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09086470",
+  "key": "09086470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09086470",
+  "name": "MAIN ELK CREEK NEAR NEW CASTLE, CO.",
+  "waterbody": "MAIN ELK CREEK NEAR NEW CASTLE, CO.",
+  "state": "CO",
+  "latitude": 39.6780363,
+  "longitude": -107.5731137,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09086470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02291669",
+  "key": "02291669",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02291669",
+  "name": "SIXMILE CYPRESS CREEK NEAR FORT MYERS,  FL",
+  "waterbody": "SIXMILE CYPRESS CREEK NEAR FORT MYERS,  FL",
+  "state": "FL",
+  "latitude": 26.52202778,
+  "longitude": -81.8544167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIXF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sixmile Cypress Creek Near Ft Myers",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sixf1",
+  "slug": "usgs-02291669",
+  "noaaForecastPath": "data/noaa-forecast/SIXF1.json",
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

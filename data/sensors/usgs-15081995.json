@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15081995",
+  "key": "15081995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15081995",
+  "name": "REYNOLDS C BL LK MELLEN NR HYDABURG AK",
+  "waterbody": "REYNOLDS C BL LK MELLEN NR HYDABURG AK",
+  "state": "AK",
+  "latitude": 55.2177027,
+  "longitude": -132.5822164,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15081995",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03352972",
+  "key": "03352972",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03352972",
+  "name": "POGUES RUN ABOVE DAM AT INDIANAPOLIS, IN",
+  "waterbody": "POGUES RUN ABOVE DAM AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.79725724,
+  "longitude": -86.098855,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pogues Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prdi3",
+  "slug": "usgs-03352972",
+  "noaaForecastPath": "data/noaa-forecast/PRDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

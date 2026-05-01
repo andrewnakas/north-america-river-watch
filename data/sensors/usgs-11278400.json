@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11278400",
+  "key": "11278400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11278400",
+  "name": "CHERRY C BL DION R HOLM PH NR MATHER CA",
+  "waterbody": "CHERRY C BL DION R HOLM PH NR MATHER CA",
+  "state": "CA",
+  "latitude": 37.890186,
+  "longitude": -119.9698706,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11278400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

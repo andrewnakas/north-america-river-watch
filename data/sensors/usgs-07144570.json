@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07144570",
+  "key": "07144570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144570",
+  "name": "ARKANSAS R AT MULVANE, KS",
+  "waterbody": "ARKANSAS R AT MULVANE, KS",
+  "state": "KS",
+  "latitude": 37.4755222,
+  "longitude": -97.2615472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MULK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mulk1",
+  "slug": "usgs-07144570",
+  "noaaForecastPath": "data/noaa-forecast/MULK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

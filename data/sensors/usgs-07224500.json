@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07224500",
+  "key": "07224500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07224500",
+  "name": "CANADIAN RIVER BELOW CONCHAS DAM, NM",
+  "waterbody": "CANADIAN RIVER BELOW CONCHAS DAM, NM",
+  "state": "NM",
+  "latitude": 35.4089371,
+  "longitude": -104.1699758,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07224500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

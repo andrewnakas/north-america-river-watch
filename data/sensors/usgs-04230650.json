@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04230650",
+  "key": "04230650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04230650",
+  "name": "GENESEE R AT BALLANTYNE BRIDGE NEAR MORTIMER NY",
+  "waterbody": "GENESEE R AT BALLANTYNE BRIDGE NEAR MORTIMER NY",
+  "state": "NY",
+  "latitude": 43.09294444,
+  "longitude": -77.6808333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Genesee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blbn6",
+  "slug": "usgs-04230650",
+  "noaaForecastPath": "data/noaa-forecast/BLBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

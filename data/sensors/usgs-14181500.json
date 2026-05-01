@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14181500",
+  "key": "14181500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14181500",
+  "name": "NORTH SANTIAM RIVER AT NIAGARA, OR",
+  "waterbody": "NORTH SANTIAM RIVER AT NIAGARA, OR",
+  "state": "OR",
+  "latitude": 44.75377778,
+  "longitude": -122.2974444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Santiam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bclo3",
+  "slug": "usgs-14181500",
+  "noaaForecastPath": "data/noaa-forecast/BCLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

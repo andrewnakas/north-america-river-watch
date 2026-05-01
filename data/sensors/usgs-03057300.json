@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03057300",
+  "key": "03057300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03057300",
+  "name": "WEST FORK RIVER AT WALKERSVILLE, WV",
+  "waterbody": "WEST FORK RIVER AT WALKERSVILLE, WV",
+  "state": "WV",
+  "latitude": 38.86870938,
+  "longitude": -80.4578658,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlkw2",
+  "slug": "usgs-03057300",
+  "noaaForecastPath": "data/noaa-forecast/WLKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

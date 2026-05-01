@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01095434",
+  "key": "01095434",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01095434",
+  "name": "GATES BROOK NEAR WEST BOYLSTON, MA",
+  "waterbody": "GATES BROOK NEAR WEST BOYLSTON, MA",
+  "state": "MA",
+  "latitude": 42.36453675,
+  "longitude": -71.775349,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01095434",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

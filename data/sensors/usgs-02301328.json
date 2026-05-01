@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301328",
+  "key": "02301328",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301328",
+  "name": "ALAFIA RIVER NEAR KEYSVILLE FL",
+  "waterbody": "ALAFIA RIVER NEAR KEYSVILLE FL",
+  "state": "FL",
+  "latitude": 27.86636389,
+  "longitude": -82.14398611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alafia River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arkf1",
+  "slug": "usgs-02301328",
+  "noaaForecastPath": "data/noaa-forecast/ARKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

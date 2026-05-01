@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14200000",
+  "key": "14200000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14200000",
+  "name": "MOLALLA RIVER NEAR CANBY, OR",
+  "waterbody": "MOLALLA RIVER NEAR CANBY, OR",
+  "state": "OR",
+  "latitude": 45.24391667,
+  "longitude": -122.6874444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CANO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Molalla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cano3",
+  "slug": "usgs-14200000",
+  "noaaForecastPath": "data/noaa-forecast/CANO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

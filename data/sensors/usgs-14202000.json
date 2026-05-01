@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14202000",
+  "key": "14202000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14202000",
+  "name": "PUDDING RIVER AT AURORA, OR",
+  "waterbody": "PUDDING RIVER AT AURORA, OR",
+  "state": "OR",
+  "latitude": 45.23327778,
+  "longitude": -122.7509167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AURO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pudding River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/auro3",
+  "slug": "usgs-14202000",
+  "noaaForecastPath": "data/noaa-forecast/AURO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

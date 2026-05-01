@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02448500",
+  "key": "02448500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02448500",
+  "name": "NOXUBEE RIVER NR GEIGER, AL",
+  "waterbody": "NOXUBEE RIVER NR GEIGER, AL",
+  "state": "AL",
+  "latitude": 32.9326287,
+  "longitude": -88.2978103,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOXA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Noxubee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/noxa1",
+  "slug": "usgs-02448500",
+  "noaaForecastPath": "data/noaa-forecast/NOXA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

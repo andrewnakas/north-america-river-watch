@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10301115",
+  "key": "10301115",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301115",
+  "name": "WALKER RVR BLW YERINGTON WEIR NR YERINGTON, NV",
+  "waterbody": "WALKER RVR BLW YERINGTON WEIR NR YERINGTON, NV",
+  "state": "NV",
+  "latitude": 39.02041667,
+  "longitude": -119.1560556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRYN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walker River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wryn2",
+  "slug": "usgs-10301115",
+  "noaaForecastPath": "data/noaa-forecast/WRYN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06439000",
+  "key": "06439000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06439000",
+  "name": "CHERRY CREEK NEAR PLAINVIEW,SD",
+  "waterbody": "CHERRY CREEK NEAR PLAINVIEW,SD",
+  "state": "SD",
+  "latitude": 44.74304495,
+  "longitude": -102.0534948,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cherry Creek (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chcs2",
+  "slug": "usgs-06439000",
+  "noaaForecastPath": "data/noaa-forecast/CHCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

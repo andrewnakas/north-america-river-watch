@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06092020",
+  "key": "06092020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06092020",
+  "name": "Two Medicine River ab Badger Cr, nr Piegan, MT",
+  "waterbody": "Two Medicine River ab Badger Cr, nr Piegan, MT",
+  "state": "MT",
+  "latitude": 48.5077222,
+  "longitude": -112.6122694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06092020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

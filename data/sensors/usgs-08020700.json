@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08020700",
+  "key": "08020700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08020700",
+  "name": "Rabbit Ck at Kilgore, TX",
+  "waterbody": "Rabbit Ck at Kilgore, TX",
+  "state": "TX",
+  "latitude": 32.38820599,
+  "longitude": -94.9032716,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rabbit Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/klgt2",
+  "slug": "usgs-08020700",
+  "noaaForecastPath": "data/noaa-forecast/KLGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

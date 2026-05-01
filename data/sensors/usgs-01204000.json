@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01204000",
+  "key": "01204000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01204000",
+  "name": "POMPERAUG RIVER AT SOUTHBURY, CT",
+  "waterbody": "POMPERAUG RIVER AT SOUTHBURY, CT",
+  "state": "CT",
+  "latitude": 41.48193889,
+  "longitude": -73.22457222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBYC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pomperaug River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbyc3",
+  "slug": "usgs-01204000",
+  "noaaForecastPath": "data/noaa-forecast/SBYC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

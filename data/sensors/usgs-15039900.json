@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15039900",
+  "key": "15039900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15039900",
+  "name": "DOROTHY LK OUTLET NR JUNEAU AK",
+  "waterbody": "DOROTHY LK OUTLET NR JUNEAU AK",
+  "state": "AK",
+  "latitude": 58.24856608,
+  "longitude": -133.9834106,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15039900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

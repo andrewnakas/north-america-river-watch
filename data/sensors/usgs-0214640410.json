@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214640410",
+  "key": "0214640410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214640410",
+  "name": "LITTLE SUGAR CR BL 36TH STREET NEAR CHARLOTTE, NC",
+  "waterbody": "LITTLE SUGAR CR BL 36TH STREET NEAR CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.25027778,
+  "longitude": -80.8083333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSTN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sugar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lstn7",
+  "slug": "usgs-0214640410",
+  "noaaForecastPath": "data/noaa-forecast/LSTN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589352",
+  "key": "01589352",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589352",
+  "name": "GWYNNS FALLS AT WASHINGTON BLVD AT BALTIMORE, MD",
+  "waterbody": "GWYNNS FALLS AT WASHINGTON BLVD AT BALTIMORE, MD",
+  "state": "MD",
+  "latitude": 39.27205556,
+  "longitude": -76.65008333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBGM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gwynns Falls",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbgm2",
+  "slug": "usgs-01589352",
+  "noaaForecastPath": "data/noaa-forecast/WBGM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01647850",
+  "key": "01647850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01647850",
+  "name": "TURKEY BRANCH NEAR ROCKVILLE, MD",
+  "waterbody": "TURKEY BRANCH NEAR ROCKVILLE, MD",
+  "state": "MD",
+  "latitude": 39.068472,
+  "longitude": -77.08175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKVM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkvm2",
+  "slug": "usgs-01647850",
+  "noaaForecastPath": "data/noaa-forecast/RKVM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

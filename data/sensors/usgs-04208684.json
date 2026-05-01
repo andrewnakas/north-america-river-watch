@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208684",
+  "key": "04208684",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208684",
+  "name": "East Branch Euclid Creek at Richmond Heights OH",
+  "waterbody": "East Branch Euclid Creek at Richmond Heights OH",
+  "state": "OH",
+  "latitude": 41.57416667,
+  "longitude": -81.4947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Euclid Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcmo1",
+  "slug": "usgs-04208684",
+  "noaaForecastPath": "data/noaa-forecast/RCMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

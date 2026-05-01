@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06357800",
+  "key": "06357800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06357800",
+  "name": "GRAND RIVER AT LITTLE EAGLE,SD",
+  "waterbody": "GRAND RIVER AT LITTLE EAGLE,SD",
+  "state": "SD",
+  "latitude": 45.65777405,
+  "longitude": -100.8181933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LIES2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lies2",
+  "slug": "usgs-06357800",
+  "noaaForecastPath": "data/noaa-forecast/LIES2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

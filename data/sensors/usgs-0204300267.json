@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204300267",
+  "key": "0204300267",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204300267",
+  "name": "BEGGARS BRIDGE CREEK NEAR DAWLEY CORNERS, VA",
+  "waterbody": "BEGGARS BRIDGE CREEK NEAR DAWLEY CORNERS, VA",
+  "state": "VA",
+  "latitude": 36.67980556,
+  "longitude": -75.984,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beggars Bridge Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgcv2",
+  "slug": "usgs-0204300267",
+  "noaaForecastPath": "data/noaa-forecast/BGCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

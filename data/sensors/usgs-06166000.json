@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06166000",
+  "key": "06166000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06166000",
+  "name": "Beaver Cr bl Guston Coulee nr Saco MT",
+  "waterbody": "Beaver Cr bl Guston Coulee nr Saco MT",
+  "state": "MT",
+  "latitude": 48.3567833,
+  "longitude": -107.5821861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (MT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gscm8",
+  "slug": "usgs-06166000",
+  "noaaForecastPath": "data/noaa-forecast/GSCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04262000",
+  "key": "04262000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04262000",
+  "name": "OSWEGATCHIE RIVER NEAR OSWEGATCHIE NY",
+  "waterbody": "OSWEGATCHIE RIVER NEAR OSWEGATCHIE NY",
+  "state": "NY",
+  "latitude": 44.22255556,
+  "longitude": -75.0743056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OGIN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oswegatchie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ogin6",
+  "slug": "usgs-04262000",
+  "noaaForecastPath": "data/noaa-forecast/OGIN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06866900",
+  "key": "06866900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06866900",
+  "name": "SALINE R NR WAKEENEY, KS",
+  "waterbody": "SALINE R NR WAKEENEY, KS",
+  "state": "KS",
+  "latitude": 39.1061861,
+  "longitude": -99.86955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAAK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/waak1",
+  "slug": "usgs-06866900",
+  "noaaForecastPath": "data/noaa-forecast/WAAK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

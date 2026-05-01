@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04143220",
+  "key": "04143220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04143220",
+  "name": "PINE RIVER AT PINE RIVER RD NR STANDISH, MI",
+  "waterbody": "PINE RIVER AT PINE RIVER RD NR STANDISH, MI",
+  "state": "MI",
+  "latitude": 43.9830861,
+  "longitude": -83.8636167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04143220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

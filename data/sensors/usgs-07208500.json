@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07208500",
+  "key": "07208500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07208500",
+  "name": "RAYADO CREEK NEAR CIMARRON, NM",
+  "waterbody": "RAYADO CREEK NEAR CIMARRON, NM",
+  "state": "NM",
+  "latitude": 36.37234444,
+  "longitude": -104.9692889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07208500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

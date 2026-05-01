@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465991",
+  "key": "01465991",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465991",
+  "name": "South Branch Mt Misery Bk in Byrne State Forest NJ",
+  "waterbody": "South Branch Mt Misery Bk in Byrne State Forest NJ",
+  "state": "NJ",
+  "latitude": 39.91638889,
+  "longitude": -74.5147222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465991",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

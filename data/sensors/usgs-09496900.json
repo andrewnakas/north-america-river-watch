@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09496900",
+  "key": "09496900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09496900",
+  "name": "WEST CEDAR CREEK NEAR CEDAR CREEK, AZ",
+  "waterbody": "WEST CEDAR CREEK NEAR CEDAR CREEK, AZ",
+  "state": "AZ",
+  "latitude": 33.9480333,
+  "longitude": -110.1517333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09496900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

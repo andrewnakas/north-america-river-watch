@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11070070",
+  "key": "11070070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11070070",
+  "name": "BAUTISTA C A MOUTH NR VALLE VISTA CA",
+  "waterbody": "BAUTISTA C A MOUTH NR VALLE VISTA CA",
+  "state": "CA",
+  "latitude": 33.7622222,
+  "longitude": -116.9083333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11070070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

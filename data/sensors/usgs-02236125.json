@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02236125",
+  "key": "02236125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02236125",
+  "name": "ST. JOHNS RIVER AT ASTOR, FL",
+  "waterbody": "ST. JOHNS RIVER AT ASTOR, FL",
+  "state": "FL",
+  "latitude": 29.16693056,
+  "longitude": -81.52206109,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASTF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Johns River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/astf1",
+  "slug": "usgs-02236125",
+  "noaaForecastPath": "data/noaa-forecast/ASTF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

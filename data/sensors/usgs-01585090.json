@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01585090",
+  "key": "01585090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585090",
+  "name": "WHITEMARSH RUN NEAR FULLERTON, MD",
+  "waterbody": "WHITEMARSH RUN NEAR FULLERTON, MD",
+  "state": "MD",
+  "latitude": 39.37944444,
+  "longitude": -76.49516667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitemarsh Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flrm2",
+  "slug": "usgs-01585090",
+  "noaaForecastPath": "data/noaa-forecast/FLRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05419000",
+  "key": "05419000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05419000",
+  "name": "APPLE RIVER NEAR HANOVER, IL",
+  "waterbody": "APPLE RIVER NEAR HANOVER, IL",
+  "state": "IL",
+  "latitude": 42.2583333,
+  "longitude": -90.285,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apple River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/apri2",
+  "slug": "usgs-05419000",
+  "noaaForecastPath": "data/noaa-forecast/APRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

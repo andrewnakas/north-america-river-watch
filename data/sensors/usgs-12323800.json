@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12323800",
+  "key": "12323800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12323800",
+  "name": "Clark Fork near Galen MT",
+  "waterbody": "Clark Fork near Galen MT",
+  "state": "MT",
+  "latitude": 46.20824167,
+  "longitude": -112.76735,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12323800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

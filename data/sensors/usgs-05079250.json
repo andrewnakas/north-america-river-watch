@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05079250",
+  "key": "05079250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05079250",
+  "name": "County Ditch 65 Near Maple Bay, MN (SW2)",
+  "waterbody": "County Ditch 65 Near Maple Bay, MN (SW2)",
+  "state": "MN",
+  "latitude": 47.6119444,
+  "longitude": -96.2791667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05079250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

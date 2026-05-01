@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0208739678",
+  "key": "0208739678",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208739678",
+  "name": "NEUSE R TRIB AT NRWWTP CENTRAL STE NR AUBURN, NC",
+  "waterbody": "NEUSE R TRIB AT NRWWTP CENTRAL STE NR AUBURN, NC",
+  "state": "NC",
+  "latitude": 35.7236111,
+  "longitude": -78.4927778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0208739678",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

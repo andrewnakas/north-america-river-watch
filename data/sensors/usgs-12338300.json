@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12338300",
+  "key": "12338300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12338300",
+  "name": "NF Blackfoot R ab Dry Gulch nr Ovando MT",
+  "waterbody": "NF Blackfoot R ab Dry Gulch nr Ovando MT",
+  "state": "MT",
+  "latitude": 46.9794944,
+  "longitude": -113.092186,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12338300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

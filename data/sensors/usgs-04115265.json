@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04115265",
+  "key": "04115265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04115265",
+  "name": "FISH CREEK NEAR CRYSTAL, MI",
+  "waterbody": "FISH CREEK NEAR CRYSTAL, MI",
+  "state": "MI",
+  "latitude": 43.2497545,
+  "longitude": -84.9811245,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fish Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcrm4",
+  "slug": "usgs-04115265",
+  "noaaForecastPath": "data/noaa-forecast/FCRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

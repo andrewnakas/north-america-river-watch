@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06905500",
+  "key": "06905500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06905500",
+  "name": "Chariton River near Prairie Hill, MO",
+  "waterbody": "Chariton River near Prairie Hill, MO",
+  "state": "MO",
+  "latitude": 39.53994444,
+  "longitude": -92.79075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRIM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chariton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prim7",
+  "slug": "usgs-06905500",
+  "noaaForecastPath": "data/noaa-forecast/PRIM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

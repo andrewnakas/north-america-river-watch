@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01349950",
+  "key": "01349950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01349950",
+  "name": "BATAVIA KILL AT RED FALLS NEAR PRATTSVILLE NY",
+  "waterbody": "BATAVIA KILL AT RED FALLS NEAR PRATTSVILLE NY",
+  "state": "NY",
+  "latitude": 42.30841667,
+  "longitude": -74.3895,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01349950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

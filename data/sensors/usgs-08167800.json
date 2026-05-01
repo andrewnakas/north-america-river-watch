@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08167800",
+  "key": "08167800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08167800",
+  "name": "Guadalupe Rv at Sattler, TX",
+  "waterbody": "Guadalupe Rv at Sattler, TX",
+  "state": "TX",
+  "latitude": 29.85910758,
+  "longitude": -98.1800106,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stlt2",
+  "slug": "usgs-08167800",
+  "noaaForecastPath": "data/noaa-forecast/STLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

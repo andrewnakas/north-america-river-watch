@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02166975",
+  "key": "02166975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02166975",
+  "name": "SAMPLE BRANCH AT GREENWOOD, SC",
+  "waterbody": "SAMPLE BRANCH AT GREENWOOD, SC",
+  "state": "SC",
+  "latitude": 34.21567778,
+  "longitude": -82.1553992,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RYCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rycs1",
+  "slug": "usgs-02166975",
+  "noaaForecastPath": "data/noaa-forecast/RYCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

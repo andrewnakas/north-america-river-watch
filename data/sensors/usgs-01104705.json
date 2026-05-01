@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104705",
+  "key": "01104705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104705",
+  "name": "CHARLES RIVER AT FIRST ST AT CAMBRIDGE, MA",
+  "waterbody": "CHARLES RIVER AT FIRST ST AT CAMBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.3622222,
+  "longitude": -71.0786111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104705",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

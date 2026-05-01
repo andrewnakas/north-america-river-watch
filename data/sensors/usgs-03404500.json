@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03404500",
+  "key": "03404500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03404500",
+  "name": "CUMBERLAND RIVER AT CUMBERLAND FALLS, KY",
+  "waterbody": "CUMBERLAND RIVER AT CUMBERLAND FALLS, KY",
+  "state": "KY",
+  "latitude": 36.8373036,
+  "longitude": -84.3432703,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFAK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfak2",
+  "slug": "usgs-03404500",
+  "noaaForecastPath": "data/noaa-forecast/CFAK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

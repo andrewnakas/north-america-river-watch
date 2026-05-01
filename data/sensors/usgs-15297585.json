@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15297585",
+  "key": "15297585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15297585",
+  "name": "CHIGNIK R AT BLACK LAKE OUTLET NR CHIGNIK AK",
+  "waterbody": "CHIGNIK R AT BLACK LAKE OUTLET NR CHIGNIK AK",
+  "state": "AK",
+  "latitude": 56.3939064,
+  "longitude": -158.937012,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15297585",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

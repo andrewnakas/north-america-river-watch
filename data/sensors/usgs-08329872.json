@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329872",
+  "key": "08329872",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329872",
+  "name": "PINO ARROYO AT VENTURA AT ALBQ., NM",
+  "waterbody": "PINO ARROYO AT VENTURA AT ALBQ., NM",
+  "state": "NM",
+  "latitude": 35.15448926,
+  "longitude": -106.5400238,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329872",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

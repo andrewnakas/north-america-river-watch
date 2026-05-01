@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07369680",
+  "key": "07369680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07369680",
+  "name": "Bayou Macon at Eudora, AR",
+  "waterbody": "Bayou Macon at Eudora, AR",
+  "state": "AR",
+  "latitude": 33.10027778,
+  "longitude": -91.2544444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EUGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Macon",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/euga4",
+  "slug": "usgs-07369680",
+  "noaaForecastPath": "data/noaa-forecast/EUGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01477120",
+  "key": "01477120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01477120",
+  "name": "Raccoon Creek near Swedesboro NJ",
+  "waterbody": "Raccoon Creek near Swedesboro NJ",
+  "state": "NJ",
+  "latitude": 39.74055556,
+  "longitude": -75.25916667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWBN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raccoon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swbn4",
+  "slug": "usgs-01477120",
+  "noaaForecastPath": "data/noaa-forecast/SWBN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

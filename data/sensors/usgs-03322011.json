@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03322011",
+  "key": "03322011",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03322011",
+  "name": "PIGEON CREEK NEAR FORT BRANCH",
+  "waterbody": "PIGEON CREEK NEAR FORT BRANCH",
+  "state": "IN",
+  "latitude": 38.24491736,
+  "longitude": -87.51954,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTBI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon Creek (IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftbi3",
+  "slug": "usgs-03322011",
+  "noaaForecastPath": "data/noaa-forecast/FTBI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

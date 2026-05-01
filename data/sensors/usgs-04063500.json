@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04063500",
+  "key": "04063500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04063500",
+  "name": "MENOMINEE RIVER AT TWIN FALLS NEAR IRON MT, MI",
+  "waterbody": "MENOMINEE RIVER AT TWIN FALLS NEAR IRON MT, MI",
+  "state": "MI",
+  "latitude": 45.8713433,
+  "longitude": -88.07012869,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04063500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

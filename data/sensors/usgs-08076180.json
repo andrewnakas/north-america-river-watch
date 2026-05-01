@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08076180",
+  "key": "08076180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08076180",
+  "name": "Garners Bayou nr Humble, TX",
+  "waterbody": "Garners Bayou nr Humble, TX",
+  "state": "TX",
+  "latitude": 29.93386089,
+  "longitude": -95.2339608,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08076180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

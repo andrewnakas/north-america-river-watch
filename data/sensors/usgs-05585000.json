@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05585000",
+  "key": "05585000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05585000",
+  "name": "LA MOINE RIVER AT RIPLEY, IL",
+  "waterbody": "LA MOINE RIVER AT RIPLEY, IL",
+  "state": "IL",
+  "latitude": 40.0250833,
+  "longitude": -90.6310556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "La Moine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ripi2",
+  "slug": "usgs-05585000",
+  "noaaForecastPath": "data/noaa-forecast/RIPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03351005",
+  "key": "03351005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03351005",
+  "name": "WHITE RIVER AT RAVENSWOOD, IN",
+  "waterbody": "WHITE RIVER AT RAVENSWOOD, IN",
+  "state": "IN",
+  "latitude": 39.89166667,
+  "longitude": -86.1219444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrri3",
+  "slug": "usgs-03351005",
+  "noaaForecastPath": "data/noaa-forecast/WRRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

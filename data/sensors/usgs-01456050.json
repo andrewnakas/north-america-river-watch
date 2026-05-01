@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01456050",
+  "key": "01456050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01456050",
+  "name": "Musconetcong R at Hackettstown NJ",
+  "waterbody": "Musconetcong R at Hackettstown NJ",
+  "state": "NJ",
+  "latitude": 40.85555556,
+  "longitude": -74.81027778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01456050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

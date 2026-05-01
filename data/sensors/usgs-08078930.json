@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08078930",
+  "key": "08078930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08078930",
+  "name": "Oyster Ck at CR 42 nr Rosharon, TX",
+  "waterbody": "Oyster Ck at CR 42 nr Rosharon, TX",
+  "state": "TX",
+  "latitude": 29.374525,
+  "longitude": -95.5272861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08078930",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

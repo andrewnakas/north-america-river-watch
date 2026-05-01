@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09217000",
+  "key": "09217000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09217000",
+  "name": "GREEN RIVER NEAR GREEN RIVER, WY",
+  "waterbody": "GREEN RIVER NEAR GREEN RIVER, WY",
+  "state": "WY",
+  "latitude": 41.5163221,
+  "longitude": -109.4490579,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (WY-UT-CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grrw4",
+  "slug": "usgs-09217000",
+  "noaaForecastPath": "data/noaa-forecast/GRRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

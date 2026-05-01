@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02162110",
+  "key": "02162110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02162110",
+  "name": "BROAD RIVER DIV. CANAL AT COLUMBIA, SC",
+  "waterbody": "BROAD RIVER DIV. CANAL AT COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 33.9998765,
+  "longitude": -81.04981498,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02162110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

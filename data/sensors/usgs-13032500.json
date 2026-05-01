@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13032500",
+  "key": "13032500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13032500",
+  "name": "SNAKE RIVER NR IRWIN ID",
+  "waterbody": "SNAKE RIVER NR IRWIN ID",
+  "state": "ID",
+  "latitude": 43.3508333,
+  "longitude": -111.2188889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PALI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pali1",
+  "slug": "usgs-13032500",
+  "noaaForecastPath": "data/noaa-forecast/PALI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

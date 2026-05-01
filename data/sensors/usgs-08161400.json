@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08161400",
+  "key": "08161400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08161400",
+  "name": "LCRA Colorado Rv nr Altair, TX",
+  "waterbody": "LCRA Colorado Rv nr Altair, TX",
+  "state": "TX",
+  "latitude": 29.58,
+  "longitude": -96.4172222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08161400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

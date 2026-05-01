@@ -1,0 +1,19 @@
+{
+  "id": "usgs:102512533",
+  "key": "102512533",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "102512533",
+  "name": "PAGANY WASH NUMBER 1, NTS, NV",
+  "waterbody": "PAGANY WASH NUMBER 1, NTS, NV",
+  "state": "NV",
+  "latitude": 36.8608333,
+  "longitude": -116.4380556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-102512533",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

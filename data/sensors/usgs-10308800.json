@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10308800",
+  "key": "10308800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10308800",
+  "name": "BRYANT CK NR GARDNERVILLE, NV",
+  "waterbody": "BRYANT CK NR GARDNERVILLE, NV",
+  "state": "NV",
+  "latitude": 38.79379494,
+  "longitude": -119.672673,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10308800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

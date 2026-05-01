@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01613095",
+  "key": "01613095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01613095",
+  "name": "TONOLOWAY CREEK NEAR HANCOCK, MD",
+  "waterbody": "TONOLOWAY CREEK NEAR HANCOCK, MD",
+  "state": "MD",
+  "latitude": 39.70636111,
+  "longitude": -78.15275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HANM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tonoloway Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hanm2",
+  "slug": "usgs-01613095",
+  "noaaForecastPath": "data/noaa-forecast/HANM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

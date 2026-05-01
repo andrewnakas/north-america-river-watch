@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02317797",
+  "key": "02317797",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02317797",
+  "name": "LITTLE RIVER AT UPPER TY TY ROAD, NEAR TIFTON, GA",
+  "waterbody": "LITTLE RIVER AT UPPER TY TY ROAD, NEAR TIFTON, GA",
+  "state": "GA",
+  "latitude": 31.48169444,
+  "longitude": -83.5841111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (SW Georgia)",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twcg1",
+  "slug": "usgs-02317797",
+  "noaaForecastPath": "data/noaa-forecast/TWCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

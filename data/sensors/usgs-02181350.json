@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02181350",
+  "key": "02181350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02181350",
+  "name": "TALLULAH R AT TERRORA PWRHSE, NR TALLULAH FALLS,GA",
+  "waterbody": "TALLULAH R AT TERRORA PWRHSE, NR TALLULAH FALLS,GA",
+  "state": "GA",
+  "latitude": 34.75027778,
+  "longitude": -83.405,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02181350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

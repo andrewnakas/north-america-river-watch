@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05420300",
+  "key": "05420300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05420300",
+  "name": "Elk River near Almont, IA",
+  "waterbody": "Elk River near Almont, IA",
+  "state": "IA",
+  "latitude": 42.01058136,
+  "longitude": -90.2009618,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05420300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

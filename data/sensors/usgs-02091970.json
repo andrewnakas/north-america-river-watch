@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02091970",
+  "key": "02091970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02091970",
+  "name": "CREEPING SWAMP NEAR VANCEBORO, NC",
+  "waterbody": "CREEPING SWAMP NEAR VANCEBORO, NC",
+  "state": "NC",
+  "latitude": 35.3918292,
+  "longitude": -77.2291241,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02091970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

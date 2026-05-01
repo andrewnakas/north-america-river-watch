@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14316700",
+  "key": "14316700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14316700",
+  "name": "STEAMBOAT CREEK NEAR GLIDE, OR",
+  "waterbody": "STEAMBOAT CREEK NEAR GLIDE, OR",
+  "state": "OR",
+  "latitude": 43.349842,
+  "longitude": -122.7289415,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Steamboat Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scro3",
+  "slug": "usgs-14316700",
+  "noaaForecastPath": "data/noaa-forecast/SCRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

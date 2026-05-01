@@ -1,0 +1,19 @@
+{
+  "id": "usgs:375712121185101",
+  "key": "375712121185101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "375712121185101",
+  "name": "PORT OF STOCKTON A TURNING BASIN A STOCKTON CA",
+  "waterbody": "PORT OF STOCKTON A TURNING BASIN A STOCKTON CA",
+  "state": "CA",
+  "latitude": 37.95343889,
+  "longitude": -121.3140917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-375712121185101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

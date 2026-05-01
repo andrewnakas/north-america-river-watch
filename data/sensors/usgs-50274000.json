@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50274000",
+  "key": "50274000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50274000",
+  "name": "TURPENTINE RUN AT MT. ZION, ST. THOMAS USVI",
+  "waterbody": "TURPENTINE RUN AT MT. ZION, ST. THOMAS USVI",
+  "state": "VI",
+  "latitude": 18.3299544,
+  "longitude": -64.8884756,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50274000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

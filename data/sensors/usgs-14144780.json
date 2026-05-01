@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14144780",
+  "key": "14144780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14144780",
+  "name": "MF WILLAMETTE RIVER BLW MAC CREEK NR OAKRIDGE, OR",
+  "waterbody": "MF WILLAMETTE RIVER BLW MAC CREEK NR OAKRIDGE, OR",
+  "state": "OR",
+  "latitude": 43.50083056,
+  "longitude": -122.3141694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14144780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

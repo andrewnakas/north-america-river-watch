@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01464500",
+  "key": "01464500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01464500",
+  "name": "Crosswicks Creek at Extonville NJ",
+  "waterbody": "Crosswicks Creek at Extonville NJ",
+  "state": "NJ",
+  "latitude": 40.13722222,
+  "longitude": -74.6,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EXTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crosswicks Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/extn4",
+  "slug": "usgs-01464500",
+  "noaaForecastPath": "data/noaa-forecast/EXTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

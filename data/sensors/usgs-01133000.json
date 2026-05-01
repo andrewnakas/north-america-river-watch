@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01133000",
+  "key": "01133000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01133000",
+  "name": "EAST BRANCH PASSUMPSIC RIVER NEAR EAST HAVEN, VT",
+  "waterbody": "EAST BRANCH PASSUMPSIC RIVER NEAR EAST HAVEN, VT",
+  "state": "VT",
+  "latitude": 44.63394195,
+  "longitude": -71.8975942,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EHVV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch of the Passumpsic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ehvv1",
+  "slug": "usgs-01133000",
+  "noaaForecastPath": "data/noaa-forecast/EHVV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

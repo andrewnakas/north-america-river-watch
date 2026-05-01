@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03434870",
+  "key": "03434870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03434870",
+  "name": "CUMBERLAND RIVER AT RIVER MILE 142.9, TN",
+  "waterbody": "CUMBERLAND RIVER AT RIVER MILE 142.9, TN",
+  "state": "TN",
+  "latitude": 36.3147222,
+  "longitude": -87.2161111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03434870",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

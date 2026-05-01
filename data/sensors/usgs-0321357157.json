@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0321357157",
+  "key": "0321357157",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0321357157",
+  "name": "KNOX CREEK BELOW STRAIGHT FORK AT BLACKEY, VA",
+  "waterbody": "KNOX CREEK BELOW STRAIGHT FORK AT BLACKEY, VA",
+  "state": "VA",
+  "latitude": 37.3857583,
+  "longitude": -82.0001361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNXV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Knox Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knxv2",
+  "slug": "usgs-0321357157",
+  "noaaForecastPath": "data/noaa-forecast/KNXV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

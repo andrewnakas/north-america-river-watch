@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06699005",
+  "key": "06699005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06699005",
+  "name": "TARRYALL CREEK BELOW ROCK CREEK NEAR JEFFERSON, CO",
+  "waterbody": "TARRYALL CREEK BELOW ROCK CREEK NEAR JEFFERSON, CO",
+  "state": "CO",
+  "latitude": 39.28693314,
+  "longitude": -105.6958417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRKC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tarryall Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trkc2",
+  "slug": "usgs-06699005",
+  "noaaForecastPath": "data/noaa-forecast/TRKC2.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

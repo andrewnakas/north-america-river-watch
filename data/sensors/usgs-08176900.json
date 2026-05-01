@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08176900",
+  "key": "08176900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08176900",
+  "name": "Coleto Ck at Arnold Rd Crsg nr Schroeder, TX",
+  "waterbody": "Coleto Ck at Arnold Rd Crsg nr Schroeder, TX",
+  "state": "TX",
+  "latitude": 28.86165308,
+  "longitude": -97.2263791,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coleto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scdt2",
+  "slug": "usgs-08176900",
+  "noaaForecastPath": "data/noaa-forecast/SCDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

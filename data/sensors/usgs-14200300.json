@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14200300",
+  "key": "14200300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14200300",
+  "name": "SILVER CREEK AT SILVERTON, OR",
+  "waterbody": "SILVER CREEK AT SILVERTON, OR",
+  "state": "OR",
+  "latitude": 45.00923999,
+  "longitude": -122.7886775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Silver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scso3",
+  "slug": "usgs-14200300",
+  "noaaForecastPath": "data/noaa-forecast/SCSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

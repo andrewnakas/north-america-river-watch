@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02138500",
+  "key": "02138500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02138500",
+  "name": "LINVILLE RIVER NEAR NEBO, NC",
+  "waterbody": "LINVILLE RIVER NEAR NEBO, NC",
+  "state": "NC",
+  "latitude": 35.79555556,
+  "longitude": -81.8911111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEBN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Linville River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nebn7",
+  "slug": "usgs-02138500",
+  "noaaForecastPath": "data/noaa-forecast/NEBN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

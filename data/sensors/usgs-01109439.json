@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01109439",
+  "key": "01109439",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109439",
+  "name": "KETTLE BROOK AT ROCKLAND ST NEAR AUBURN MA",
+  "waterbody": "KETTLE BROOK AT ROCKLAND ST NEAR AUBURN MA",
+  "state": "MA",
+  "latitude": 42.21537147,
+  "longitude": -71.8386828,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01109439",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

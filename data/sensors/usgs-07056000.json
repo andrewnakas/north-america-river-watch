@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07056000",
+  "key": "07056000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07056000",
+  "name": "Buffalo River near St. Joe, AR",
+  "waterbody": "Buffalo River near St. Joe, AR",
+  "state": "AR",
+  "latitude": 35.98305556,
+  "longitude": -92.7472222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SJOA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sjoa4",
+  "slug": "usgs-07056000",
+  "noaaForecastPath": "data/noaa-forecast/SJOA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

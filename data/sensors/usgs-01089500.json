@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01089500",
+  "key": "01089500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01089500",
+  "name": "SUNCOOK RIVER AT NORTH CHICHESTER, NH",
+  "waterbody": "SUNCOOK RIVER AT NORTH CHICHESTER, NH",
+  "state": "NH",
+  "latitude": 43.25674759,
+  "longitude": -71.36951248,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCHN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suncook River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nchn3",
+  "slug": "usgs-01089500",
+  "noaaForecastPath": "data/noaa-forecast/NCHN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

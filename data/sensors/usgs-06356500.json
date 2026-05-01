@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06356500",
+  "key": "06356500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06356500",
+  "name": "SOUTH FORK GRAND RIVER NEAR CASH,SD",
+  "waterbody": "SOUTH FORK GRAND RIVER NEAR CASH,SD",
+  "state": "SD",
+  "latitude": 45.6486883,
+  "longitude": -102.6433259,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSHS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Grand River (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cshs2",
+  "slug": "usgs-06356500",
+  "noaaForecastPath": "data/noaa-forecast/CSHS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

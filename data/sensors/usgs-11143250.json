@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11143250",
+  "key": "11143250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11143250",
+  "name": "CARMEL R NR CARMEL CA",
+  "waterbody": "CARMEL R NR CARMEL CA",
+  "state": "CA",
+  "latitude": 36.5390863,
+  "longitude": -121.880458,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carmel River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmec1",
+  "slug": "usgs-11143250",
+  "noaaForecastPath": "data/noaa-forecast/CMEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

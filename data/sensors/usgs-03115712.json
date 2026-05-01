@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03115712",
+  "key": "03115712",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03115712",
+  "name": "West Fork Duck Creek at Macksburg OH",
+  "waterbody": "West Fork Duck Creek at Macksburg OH",
+  "state": "OH",
+  "latitude": 39.63160556,
+  "longitude": -81.4608333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MACO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Duck Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/maco1",
+  "slug": "usgs-03115712",
+  "noaaForecastPath": "data/noaa-forecast/MACO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

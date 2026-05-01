@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01125100",
+  "key": "01125100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01125100",
+  "name": "FRENCH RIVER AT NORTH GROSVENORDALE, CT",
+  "waterbody": "FRENCH RIVER AT NORTH GROSVENORDALE, CT",
+  "state": "CT",
+  "latitude": 41.97846389,
+  "longitude": -71.90051389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01125100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10301300",
+  "key": "10301300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301300",
+  "name": "WALKER RV BLW MASON VLY WMA AT RR XING NR WABUSKA",
+  "waterbody": "WALKER RV BLW MASON VLY WMA AT RR XING NR WABUSKA",
+  "state": "NV",
+  "latitude": 39.12816667,
+  "longitude": -119.1166944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBMN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walker River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbmn2",
+  "slug": "usgs-10301300",
+  "noaaForecastPath": "data/noaa-forecast/WBMN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

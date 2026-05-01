@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10310402",
+  "key": "10310402",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10310402",
+  "name": "E BRANCH BROCKLISS SLOUGH AT MULLER LANE NR MINDEN",
+  "waterbody": "E BRANCH BROCKLISS SLOUGH AT MULLER LANE NR MINDEN",
+  "state": "NV",
+  "latitude": 38.97074097,
+  "longitude": -119.8318456,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10310402",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

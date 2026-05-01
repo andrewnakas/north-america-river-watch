@@ -1,0 +1,19 @@
+{
+  "id": "usgs:403846111192601",
+  "key": "403846111192601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "403846111192601",
+  "name": "INDIAN HOLLOW NEAR KAMAS",
+  "waterbody": "INDIAN HOLLOW NEAR KAMAS",
+  "state": "UT",
+  "latitude": 40.6460624,
+  "longitude": -111.3246299,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-403846111192601",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

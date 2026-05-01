@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02400100",
+  "key": "02400100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02400100",
+  "name": "TERRAPIN CREEK AT ELLISVILLE AL",
+  "waterbody": "TERRAPIN CREEK AT ELLISVILLE AL",
+  "state": "AL",
+  "latitude": 34.06509836,
+  "longitude": -85.6141287,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELSA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Terrapin Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elsa1",
+  "slug": "usgs-02400100",
+  "noaaForecastPath": "data/noaa-forecast/ELSA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

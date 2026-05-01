@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15280200",
+  "key": "15280200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15280200",
+  "name": "EKLUTNA R AT OLD GLENN HWY AT EKLUTNA AK",
+  "waterbody": "EKLUTNA R AT OLD GLENN HWY AT EKLUTNA AK",
+  "state": "AK",
+  "latitude": 61.44973908,
+  "longitude": -149.3694387,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15280200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

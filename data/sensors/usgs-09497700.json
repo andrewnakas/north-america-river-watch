@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09497700",
+  "key": "09497700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09497700",
+  "name": "CIBECUE CREEK NEAR OVERGAARD, AZ",
+  "waterbody": "CIBECUE CREEK NEAR OVERGAARD, AZ",
+  "state": "AZ",
+  "latitude": 34.1572222,
+  "longitude": -110.5111111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09497700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

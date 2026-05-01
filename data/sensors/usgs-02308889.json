@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02308889",
+  "key": "02308889",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02308889",
+  "name": "SEMINOLE LAKE OUTLET NEAR LARGO FL",
+  "waterbody": "SEMINOLE LAKE OUTLET NEAR LARGO FL",
+  "state": "FL",
+  "latitude": 27.83919117,
+  "longitude": -82.7803798,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SELF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Seminole Outlet Near Largo",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/self1",
+  "slug": "usgs-02308889",
+  "noaaForecastPath": "data/noaa-forecast/SELF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06041500",
+  "key": "06041500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06041500",
+  "name": "Madison River near Norris MT",
+  "waterbody": "Madison River near Norris MT",
+  "state": "MT",
+  "latitude": 45.607611,
+  "longitude": -111.573056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06041500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

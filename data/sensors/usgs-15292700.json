@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15292700",
+  "key": "15292700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15292700",
+  "name": "TALKEETNA R NR TALKEETNA AK",
+  "waterbody": "TALKEETNA R NR TALKEETNA AK",
+  "state": "AK",
+  "latitude": 62.3464039,
+  "longitude": -150.01925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRTA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Talkeetna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trta2",
+  "slug": "usgs-15292700",
+  "noaaForecastPath": "data/noaa-forecast/TRTA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

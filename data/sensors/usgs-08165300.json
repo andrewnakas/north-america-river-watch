@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08165300",
+  "key": "08165300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08165300",
+  "name": "N Fk Guadalupe Rv nr Hunt, TX",
+  "waterbody": "N Fk Guadalupe Rv nr Hunt, TX",
+  "state": "TX",
+  "latitude": 30.06410028,
+  "longitude": -99.3870175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnft2",
+  "slug": "usgs-08165300",
+  "noaaForecastPath": "data/noaa-forecast/HNFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10320000",
+  "key": "10320000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10320000",
+  "name": "S FK HUMBOLDT RV ABV DIXIE CK NR ELKO, NV",
+  "waterbody": "S FK HUMBOLDT RV ABV DIXIE CK NR ELKO, NV",
+  "state": "NV",
+  "latitude": 40.685,
+  "longitude": -115.8125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DIXN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Humboldt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dixn2",
+  "slug": "usgs-10320000",
+  "noaaForecastPath": "data/noaa-forecast/DIXN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02323590",
+  "key": "02323590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02323590",
+  "name": "SUWANNEE RIVER AT FOWLERS BLUFF",
+  "waterbody": "SUWANNEE RIVER AT FOWLERS BLUFF",
+  "state": "FL",
+  "latitude": 29.39662667,
+  "longitude": -83.027625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FWBF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwannee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fwbf1",
+  "slug": "usgs-02323590",
+  "noaaForecastPath": "data/noaa-forecast/FWBF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

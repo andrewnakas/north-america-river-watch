@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104410",
+  "key": "01104410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104410",
+  "name": "CAMBRIDGE RES., UNNAMED TRIB 1, NR LEXINGTON, MA",
+  "waterbody": "CAMBRIDGE RES., UNNAMED TRIB 1, NR LEXINGTON, MA",
+  "state": "MA",
+  "latitude": 42.43648406,
+  "longitude": -71.2642235,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

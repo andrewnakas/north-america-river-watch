@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09341500",
+  "key": "09341500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09341500",
+  "name": "WEST FORK SAN JUAN RIVER NEAR PAGOSA SPRINGS, CO",
+  "waterbody": "WEST FORK SAN JUAN RIVER NEAR PAGOSA SPRINGS, CO",
+  "state": "CO",
+  "latitude": 37.3924722,
+  "longitude": -106.9068889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09341500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

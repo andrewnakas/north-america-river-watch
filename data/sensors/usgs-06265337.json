@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06265337",
+  "key": "06265337",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06265337",
+  "name": "COTTONWOOD C AT HIGH ISLAND RNCH NR HAMILTON DOME",
+  "waterbody": "COTTONWOOD C AT HIGH ISLAND RNCH NR HAMILTON DOME",
+  "state": "WY",
+  "latitude": 43.76263889,
+  "longitude": -108.6778889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06265337",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

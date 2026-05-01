@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06307500",
+  "key": "06307500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06307500",
+  "name": "Tongue River at Tongue R Dam nr Decker MT",
+  "waterbody": "Tongue River at Tongue R Dam nr Decker MT",
+  "state": "MT",
+  "latitude": 45.141275,
+  "longitude": -106.771356,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DKRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dkrm8",
+  "slug": "usgs-06307500",
+  "noaaForecastPath": "data/noaa-forecast/DKRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

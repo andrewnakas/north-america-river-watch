@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09512970",
+  "key": "09512970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512970",
+  "name": "COTTONWOOD CREEK NEAR WADDELL DAM, AZ",
+  "waterbody": "COTTONWOOD CREEK NEAR WADDELL DAM, AZ",
+  "state": "AZ",
+  "latitude": 33.8986453,
+  "longitude": -112.3115529,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09512970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

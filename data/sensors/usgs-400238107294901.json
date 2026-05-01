@@ -1,0 +1,19 @@
+{
+  "id": "usgs:400238107294901",
+  "key": "400238107294901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "400238107294901",
+  "name": "NORTH FORK WHITE RIVER BELOW MARVINE CREEK, CO",
+  "waterbody": "NORTH FORK WHITE RIVER BELOW MARVINE CREEK, CO",
+  "state": "CO",
+  "latitude": 40.04409167,
+  "longitude": -107.4969528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-400238107294901",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

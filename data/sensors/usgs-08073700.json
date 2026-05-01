@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08073700",
+  "key": "08073700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08073700",
+  "name": "Buffalo Bayou at Piney Point, TX",
+  "waterbody": "Buffalo Bayou at Piney Point, TX",
+  "state": "TX",
+  "latitude": 29.7468959,
+  "longitude": -95.5235538,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pptt2",
+  "slug": "usgs-08073700",
+  "noaaForecastPath": "data/noaa-forecast/PPTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

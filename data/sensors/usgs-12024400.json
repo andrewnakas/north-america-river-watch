@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12024400",
+  "key": "12024400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12024400",
+  "name": "NF NEWAUKUM RIVER ABOVE BEAR CREEK NEAR FOREST, WA",
+  "waterbody": "NF NEWAUKUM RIVER ABOVE BEAR CREEK NEAR FOREST, WA",
+  "state": "WA",
+  "latitude": 46.66732635,
+  "longitude": -122.7701209,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFFW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Newaukum River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nffw1",
+  "slug": "usgs-12024400",
+  "noaaForecastPath": "data/noaa-forecast/NFFW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

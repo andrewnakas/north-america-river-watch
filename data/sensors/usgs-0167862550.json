@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0167862550",
+  "key": "0167862550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0167862550",
+  "name": "BRICK KILN CREEK BELOW ROUTE 172 NEAR POQUOSON, VA",
+  "waterbody": "BRICK KILN CREEK BELOW ROUTE 172 NEAR POQUOSON, VA",
+  "state": "VA",
+  "latitude": 37.1049722,
+  "longitude": -76.3854167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKNV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brick Kiln Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bknv2",
+  "slug": "usgs-0167862550",
+  "noaaForecastPath": "data/noaa-forecast/BKNV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

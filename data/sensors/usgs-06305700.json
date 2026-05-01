@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06305700",
+  "key": "06305700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06305700",
+  "name": "Goose Creek near Acme, WY",
+  "waterbody": "Goose Creek near Acme, WY",
+  "state": "WY",
+  "latitude": 44.88631458,
+  "longitude": -106.9890182,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCAW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcaw4",
+  "slug": "usgs-06305700",
+  "noaaForecastPath": "data/noaa-forecast/GCAW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02295194",
+  "key": "02295194",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02295194",
+  "name": "PEACE RIVER AT BOWLING GREEN FL",
+  "waterbody": "PEACE RIVER AT BOWLING GREEN FL",
+  "state": "FL",
+  "latitude": 27.6461448,
+  "longitude": -81.8023047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peace River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgpf1",
+  "slug": "usgs-02295194",
+  "noaaForecastPath": "data/noaa-forecast/BGPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

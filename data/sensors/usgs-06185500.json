@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06185500",
+  "key": "06185500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06185500",
+  "name": "Missouri River near Culbertson MT",
+  "waterbody": "Missouri River near Culbertson MT",
+  "state": "MT",
+  "latitude": 48.1235,
+  "longitude": -104.4733,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLBM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clbm8",
+  "slug": "usgs-06185500",
+  "noaaForecastPath": "data/noaa-forecast/CLBM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

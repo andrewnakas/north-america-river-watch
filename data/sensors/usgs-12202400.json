@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12202400",
+  "key": "12202400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12202400",
+  "name": "EUCLID CR AT EUCLID AVE AT BELLINGHAM, WA",
+  "waterbody": "EUCLID CR AT EUCLID AVE AT BELLINGHAM, WA",
+  "state": "WA",
+  "latitude": 48.7487209,
+  "longitude": -122.4093331,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12202400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

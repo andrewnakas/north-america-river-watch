@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08080700",
+  "key": "08080700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08080700",
+  "name": "Running Water Draw at Plainview, TX",
+  "waterbody": "Running Water Draw at Plainview, TX",
+  "state": "TX",
+  "latitude": 34.17896048,
+  "longitude": -101.7026748,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork - Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnvt2",
+  "slug": "usgs-08080700",
+  "noaaForecastPath": "data/noaa-forecast/PNVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

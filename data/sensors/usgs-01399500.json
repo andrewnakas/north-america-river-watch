@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01399500",
+  "key": "01399500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01399500",
+  "name": "Lamington (Black) River near Pottersville NJ",
+  "waterbody": "Lamington (Black) River near Pottersville NJ",
+  "state": "NJ",
+  "latitude": 40.7275,
+  "longitude": -74.73027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTVN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lamington (Black) River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptvn4",
+  "slug": "usgs-01399500",
+  "noaaForecastPath": "data/noaa-forecast/PTVN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

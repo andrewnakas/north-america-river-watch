@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03298500",
+  "key": "03298500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298500",
+  "name": "SALT RIVER AT SHEPHERDSVILLE, KY",
+  "waterbody": "SALT RIVER AT SHEPHERDSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.98506585,
+  "longitude": -85.7174591,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHPK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shpk2",
+  "slug": "usgs-03298500",
+  "noaaForecastPath": "data/noaa-forecast/SHPK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05414400",
+  "key": "05414400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05414400",
+  "name": "Middle Fk Little Maquoketa R nr Rickardsville, IA",
+  "waterbody": "Middle Fk Little Maquoketa R nr Rickardsville, IA",
+  "state": "IA",
+  "latitude": 42.56055427,
+  "longitude": -90.85985079,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05414400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

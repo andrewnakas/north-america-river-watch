@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068800",
+  "key": "08068800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068800",
+  "name": "Cypress Ck at Grant Rd nr Cypress, TX",
+  "waterbody": "Cypress Ck at Grant Rd nr Cypress, TX",
+  "state": "TX",
+  "latitude": 29.97355566,
+  "longitude": -95.5985545,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccgt2",
+  "slug": "usgs-08068800",
+  "noaaForecastPath": "data/noaa-forecast/CCGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

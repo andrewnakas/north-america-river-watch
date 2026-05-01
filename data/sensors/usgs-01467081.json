@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01467081",
+  "key": "01467081",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467081",
+  "name": "South Branch Pennsauken Creek at Cherry Hill NJ",
+  "waterbody": "South Branch Pennsauken Creek at Cherry Hill NJ",
+  "state": "NJ",
+  "latitude": 39.94166667,
+  "longitude": -75.00111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHRN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Pennsauken Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chrn4",
+  "slug": "usgs-01467081",
+  "noaaForecastPath": "data/noaa-forecast/CHRN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

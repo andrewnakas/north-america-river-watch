@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01205700",
+  "key": "01205700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01205700",
+  "name": "EAST BRANCH NAUGATUCK RIVER AT TORRINGTON, CONN",
+  "waterbody": "EAST BRANCH NAUGATUCK RIVER AT TORRINGTON, CONN",
+  "state": "CT",
+  "latitude": 41.80331944,
+  "longitude": -73.11786636,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01205700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

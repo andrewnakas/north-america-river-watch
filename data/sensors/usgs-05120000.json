@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05120000",
+  "key": "05120000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05120000",
+  "name": "SOURIS RIVER NR VERENDRYE, ND",
+  "waterbody": "SOURIS RIVER NR VERENDRYE, ND",
+  "state": "ND",
+  "latitude": 48.15972928,
+  "longitude": -100.7295863,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05120000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01205600",
+  "key": "01205600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01205600",
+  "name": "W BR NAUGATUCK R AT TORRINGTON, CT.",
+  "waterbody": "W BR NAUGATUCK R AT TORRINGTON, CT.",
+  "state": "CT",
+  "latitude": 41.80081949,
+  "longitude": -73.12342211,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01205600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

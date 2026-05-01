@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10300200",
+  "key": "10300200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10300200",
+  "name": "W WALKER RV AT HWY 208 BRG 1648 NR MASON, NV",
+  "waterbody": "W WALKER RV AT HWY 208 BRG 1648 NR MASON, NV",
+  "state": "NV",
+  "latitude": 38.83374444,
+  "longitude": -119.1857639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10300200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02372430",
+  "key": "02372430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02372430",
+  "name": "CONECUH RIVER AT RIVER FALLS, ALABAMA",
+  "waterbody": "CONECUH RIVER AT RIVER FALLS, ALABAMA",
+  "state": "AL",
+  "latitude": 31.34822474,
+  "longitude": -86.5294047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVFA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conecuh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvfa1",
+  "slug": "usgs-02372430",
+  "noaaForecastPath": "data/noaa-forecast/RVFA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

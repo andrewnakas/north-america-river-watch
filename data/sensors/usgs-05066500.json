@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05066500",
+  "key": "05066500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05066500",
+  "name": "GOOSE RIVER AT HILLSBORO, ND",
+  "waterbody": "GOOSE RIVER AT HILLSBORO, ND",
+  "state": "ND",
+  "latitude": 47.40942385,
+  "longitude": -97.0611974,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgrn8",
+  "slug": "usgs-05066500",
+  "noaaForecastPath": "data/noaa-forecast/HGRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

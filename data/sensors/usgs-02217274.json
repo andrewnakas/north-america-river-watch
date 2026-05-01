@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02217274",
+  "key": "02217274",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02217274",
+  "name": "WHEELER CREEK AT BILL CHEEK ROAD, NEAR AUBURN, GA",
+  "waterbody": "WHEELER CREEK AT BILL CHEEK ROAD, NEAR AUBURN, GA",
+  "state": "GA",
+  "latitude": 34.0822222,
+  "longitude": -83.8544444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wheeler Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlrg1",
+  "slug": "usgs-02217274",
+  "noaaForecastPath": "data/noaa-forecast/WLRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

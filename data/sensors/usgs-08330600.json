@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330600",
+  "key": "08330600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330600",
+  "name": "TIJERAS ARROYO NR ALBUQUERQUE, NM",
+  "waterbody": "TIJERAS ARROYO NR ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.00194444,
+  "longitude": -106.6575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

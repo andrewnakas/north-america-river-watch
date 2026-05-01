@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03111515",
+  "key": "03111515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03111515",
+  "name": "OHIO R AT PIKE ISLAND DAM NR WHEELING (UPPER), WV",
+  "waterbody": "OHIO R AT PIKE ISLAND DAM NR WHEELING (UPPER), WV",
+  "state": "WV",
+  "latitude": 40.15284939,
+  "longitude": -80.6998021,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03111515",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

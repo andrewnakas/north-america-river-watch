@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04212895",
+  "key": "04212895",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04212895",
+  "name": "Conneaut Creek at Dickonsburg, PA",
+  "waterbody": "Conneaut Creek at Dickonsburg, PA",
+  "state": "PA",
+  "latitude": 41.7153333,
+  "longitude": -80.3500556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DKNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conneaut Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dknp1",
+  "slug": "usgs-04212895",
+  "noaaForecastPath": "data/noaa-forecast/DKNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

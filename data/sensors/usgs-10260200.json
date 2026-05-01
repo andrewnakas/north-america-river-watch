@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10260200",
+  "key": "10260200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10260200",
+  "name": "PIPES WASH NR YUCCA VALLEY CA",
+  "waterbody": "PIPES WASH NR YUCCA VALLEY CA",
+  "state": "CA",
+  "latitude": 34.17194444,
+  "longitude": -116.5466667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10260200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

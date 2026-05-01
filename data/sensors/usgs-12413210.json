@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12413210",
+  "key": "12413210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413210",
+  "name": "SF COEUR D ALENE AT ELIZABETH PARK NR KELLOGG ID",
+  "waterbody": "SF COEUR D ALENE AT ELIZABETH PARK NR KELLOGG ID",
+  "state": "ID",
+  "latitude": 47.53138889,
+  "longitude": -116.0925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKGI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Coeur d'Alene River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skgi1",
+  "slug": "usgs-12413210",
+  "noaaForecastPath": "data/noaa-forecast/SKGI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

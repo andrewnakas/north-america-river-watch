@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09478350",
+  "key": "09478350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09478350",
+  "name": "GILA RIVER NEAR SACATON, AZ.",
+  "waterbody": "GILA RIVER NEAR SACATON, AZ.",
+  "state": "AZ",
+  "latitude": 33.0875563,
+  "longitude": -111.6870757,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09478350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

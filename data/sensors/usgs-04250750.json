@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04250750",
+  "key": "04250750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04250750",
+  "name": "SANDY CREEK NEAR ADAMS NY",
+  "waterbody": "SANDY CREEK NEAR ADAMS NY",
+  "state": "NY",
+  "latitude": 43.81369444,
+  "longitude": -76.0744444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SANN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sann6",
+  "slug": "usgs-04250750",
+  "noaaForecastPath": "data/noaa-forecast/SANN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

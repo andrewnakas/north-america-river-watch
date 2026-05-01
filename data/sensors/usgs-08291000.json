@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08291000",
+  "key": "08291000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08291000",
+  "name": "SANTA CRUZ RIVER NEAR CUNDIYO, NM",
+  "waterbody": "SANTA CRUZ RIVER NEAR CUNDIYO, NM",
+  "state": "NM",
+  "latitude": 35.9647222,
+  "longitude": -105.9047222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08291000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

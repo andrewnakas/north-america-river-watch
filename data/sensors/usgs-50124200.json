@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50124200",
+  "key": "50124200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50124200",
+  "name": "RIO GUAYANILLA NEAR GUAYANILLA, PR",
+  "waterbody": "RIO GUAYANILLA NEAR GUAYANILLA, PR",
+  "state": "PR",
+  "latitude": 18.044239,
+  "longitude": -66.798164,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Guayanilla",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gyap4",
+  "slug": "usgs-50124200",
+  "noaaForecastPath": "data/noaa-forecast/GYAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

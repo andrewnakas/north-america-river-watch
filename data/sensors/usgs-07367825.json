@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07367825",
+  "key": "07367825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07367825",
+  "name": "Boeuf River at Hwy 2 near Mer Rouge, LA",
+  "waterbody": "Boeuf River at Hwy 2 near Mer Rouge, LA",
+  "state": "LA",
+  "latitude": 32.7709722,
+  "longitude": -91.5956944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07367825",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

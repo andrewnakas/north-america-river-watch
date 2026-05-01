@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10312210",
+  "key": "10312210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10312210",
+  "name": "STILLWATER POINT RES DIV CANAL NR FALLON, NV",
+  "waterbody": "STILLWATER POINT RES DIV CANAL NR FALLON, NV",
+  "state": "NV",
+  "latitude": 39.47330278,
+  "longitude": -118.5986278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWPN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwater Slough",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swpn2",
+  "slug": "usgs-10312210",
+  "noaaForecastPath": "data/noaa-forecast/SWPN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

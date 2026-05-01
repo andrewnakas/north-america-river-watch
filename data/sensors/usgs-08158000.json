@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158000",
+  "key": "08158000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158000",
+  "name": "Colorado Rv at Austin, TX",
+  "waterbody": "Colorado Rv at Austin, TX",
+  "state": "TX",
+  "latitude": 30.24613889,
+  "longitude": -97.6800556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acrt2",
+  "slug": "usgs-08158000",
+  "noaaForecastPath": "data/noaa-forecast/ACRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

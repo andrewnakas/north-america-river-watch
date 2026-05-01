@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08156800",
+  "key": "08156800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08156800",
+  "name": "Shoal Ck at W 12th St, Austin, TX",
+  "waterbody": "Shoal Ck at W 12th St, Austin, TX",
+  "state": "TX",
+  "latitude": 30.276598,
+  "longitude": -97.7503052,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AHOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoal Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ahot2",
+  "slug": "usgs-08156800",
+  "noaaForecastPath": "data/noaa-forecast/AHOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

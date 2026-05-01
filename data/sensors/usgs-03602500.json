@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03602500",
+  "key": "03602500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03602500",
+  "name": "PINEY RIVER AT VERNON, TN",
+  "waterbody": "PINEY RIVER AT VERNON, TN",
+  "state": "TN",
+  "latitude": 35.87129448,
+  "longitude": -87.5014002,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VERT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piney River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vert1",
+  "slug": "usgs-03602500",
+  "noaaForecastPath": "data/noaa-forecast/VERT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01571500",
+  "key": "01571500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01571500",
+  "name": "Yellow Breeches Creek near Camp Hill, PA",
+  "waterbody": "Yellow Breeches Creek near Camp Hill, PA",
+  "state": "PA",
+  "latitude": 40.22481237,
+  "longitude": -76.8980293,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPHP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow Breeches Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cphp1",
+  "slug": "usgs-01571500",
+  "noaaForecastPath": "data/noaa-forecast/CPHP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

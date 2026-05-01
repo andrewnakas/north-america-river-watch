@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01359133",
+  "key": "01359133",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01359133",
+  "name": "PATROON CR AT NORTHERN BLVD AT ALBANY NY",
+  "waterbody": "PATROON CR AT NORTHERN BLVD AT ALBANY NY",
+  "state": "NY",
+  "latitude": 42.67138889,
+  "longitude": -73.7555556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01359133",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

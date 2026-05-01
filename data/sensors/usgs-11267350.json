@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11267350",
+  "key": "11267350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11267350",
+  "name": "BIG C DIV NR FISH CAMP CA",
+  "waterbody": "BIG C DIV NR FISH CAMP CA",
+  "state": "CA",
+  "latitude": 37.46938349,
+  "longitude": -119.6151512,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGFC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lewis Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgfc1",
+  "slug": "usgs-11267350",
+  "noaaForecastPath": "data/noaa-forecast/BGFC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

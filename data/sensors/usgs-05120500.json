@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05120500",
+  "key": "05120500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05120500",
+  "name": "WINTERING RIVER NEAR KARLSRUHE, ND",
+  "waterbody": "WINTERING RIVER NEAR KARLSRUHE, ND",
+  "state": "ND",
+  "latitude": 48.1382932,
+  "longitude": -100.5399409,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLSN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wintering River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/klsn8",
+  "slug": "usgs-05120500",
+  "noaaForecastPath": "data/noaa-forecast/KLSN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

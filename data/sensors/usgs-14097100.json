@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14097100",
+  "key": "14097100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14097100",
+  "name": "WARM SPRINGS RIVER NEAR KAHNEETA HOT SPRINGS, OR",
+  "waterbody": "WARM SPRINGS RIVER NEAR KAHNEETA HOT SPRINGS, OR",
+  "state": "OR",
+  "latitude": 44.8565087,
+  "longitude": -121.1497735,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KAHO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Warm Springs",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kaho3",
+  "slug": "usgs-14097100",
+  "noaaForecastPath": "data/noaa-forecast/KAHO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

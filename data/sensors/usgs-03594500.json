@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03594500",
+  "key": "03594500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03594500",
+  "name": "TENNESSEE RIVER AT PERRYVILLE, TN",
+  "waterbody": "TENNESSEE RIVER AT PERRYVILLE, TN",
+  "state": "TN",
+  "latitude": 35.6281246,
+  "longitude": -88.0344764,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRVT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tennessee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prvt1",
+  "slug": "usgs-03594500",
+  "noaaForecastPath": "data/noaa-forecast/PRVT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

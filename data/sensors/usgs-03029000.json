@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03029000",
+  "key": "03029000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03029000",
+  "name": "Clarion River at Ridgway, PA",
+  "waterbody": "Clarion River at Ridgway, PA",
+  "state": "PA",
+  "latitude": 41.4208946,
+  "longitude": -78.7358612,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clarion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdyp1",
+  "slug": "usgs-03029000",
+  "noaaForecastPath": "data/noaa-forecast/RDYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

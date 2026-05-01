@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02359000",
+  "key": "02359000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02359000",
+  "name": "CHIPOLA RIVER NR ALTHA, FLA.",
+  "waterbody": "CHIPOLA RIVER NR ALTHA, FLA.",
+  "state": "FL",
+  "latitude": 30.53408319,
+  "longitude": -85.1651996,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALTF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chipola River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/altf1",
+  "slug": "usgs-02359000",
+  "noaaForecastPath": "data/noaa-forecast/ALTF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

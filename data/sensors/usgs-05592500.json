@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05592500",
+  "key": "05592500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05592500",
+  "name": "KASKASKIA RIVER AT VANDALIA, IL",
+  "waterbody": "KASKASKIA RIVER AT VANDALIA, IL",
+  "state": "IL",
+  "latitude": 38.9606111,
+  "longitude": -89.0888056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VNDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaskaskia River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vndi2",
+  "slug": "usgs-05592500",
+  "noaaForecastPath": "data/noaa-forecast/VNDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

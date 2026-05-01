@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02258000",
+  "key": "02258000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02258000",
+  "name": "HARNEY POND CANAL NEAR LAKEPORT, FL",
+  "waterbody": "HARNEY POND CANAL NEAR LAKEPORT, FL",
+  "state": "FL",
+  "latitude": 27.02449846,
+  "longitude": -81.069789,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02258000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

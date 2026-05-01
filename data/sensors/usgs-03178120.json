@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03178120",
+  "key": "03178120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03178120",
+  "name": "CAMP CREEK AT HWY 19 NEAR CAMP CREEK, WV",
+  "waterbody": "CAMP CREEK AT HWY 19 NEAR CAMP CREEK, WV",
+  "state": "WV",
+  "latitude": 37.49227778,
+  "longitude": -81.10188889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Camp Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cckw2",
+  "slug": "usgs-03178120",
+  "noaaForecastPath": "data/noaa-forecast/CCKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08211520",
+  "key": "08211520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08211520",
+  "name": "Oso Ck at Corpus Christi, TX",
+  "waterbody": "Oso Ck at Corpus Christi, TX",
+  "state": "TX",
+  "latitude": 27.71141879,
+  "longitude": -97.5019377,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OOST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oso Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oost2",
+  "slug": "usgs-08211520",
+  "noaaForecastPath": "data/noaa-forecast/OOST2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

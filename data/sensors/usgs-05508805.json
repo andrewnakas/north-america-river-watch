@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05508805",
+  "key": "05508805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05508805",
+  "name": "Spencer Creek below Plum Creek near Frankford, MO",
+  "waterbody": "Spencer Creek below Plum Creek near Frankford, MO",
+  "state": "MO",
+  "latitude": 39.5206111,
+  "longitude": -91.3434444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05508805",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

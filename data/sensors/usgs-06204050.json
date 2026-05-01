@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06204050",
+  "key": "06204050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06204050",
+  "name": "West Rosebud Creek near Roscoe MT",
+  "waterbody": "West Rosebud Creek near Roscoe MT",
+  "state": "MT",
+  "latitude": 45.24323889,
+  "longitude": -109.7313028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Rosebud Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrdm8",
+  "slug": "usgs-06204050",
+  "noaaForecastPath": "data/noaa-forecast/WRDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

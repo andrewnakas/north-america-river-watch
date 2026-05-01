@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12167000",
+  "key": "12167000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12167000",
+  "name": "NF STILLAGUAMISH RIVER NEAR ARLINGTON, WA",
+  "waterbody": "NF STILLAGUAMISH RIVER NEAR ARLINGTON, WA",
+  "state": "WA",
+  "latitude": 48.2614637,
+  "longitude": -122.0476165,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARGW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Stillaguamish River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/argw1",
+  "slug": "usgs-12167000",
+  "noaaForecastPath": "data/noaa-forecast/ARGW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

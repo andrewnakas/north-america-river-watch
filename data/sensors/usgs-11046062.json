@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046062",
+  "key": "11046062",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046062",
+  "name": "COCKLEBURR C LAGOON A MOUTH NR OCEANSIDE CA",
+  "waterbody": "COCKLEBURR C LAGOON A MOUTH NR OCEANSIDE CA",
+  "state": "CA",
+  "latitude": 33.25055556,
+  "longitude": -117.4313889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046062",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

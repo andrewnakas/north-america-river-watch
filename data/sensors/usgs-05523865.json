@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05523865",
+  "key": "05523865",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05523865",
+  "name": "CARPENTER CREEK AT REMINGTON, IN",
+  "waterbody": "CARPENTER CREEK AT REMINGTON, IN",
+  "state": "IN",
+  "latitude": 40.7780833,
+  "longitude": -87.1633611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carpenter Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccri3",
+  "slug": "usgs-05523865",
+  "noaaForecastPath": "data/noaa-forecast/CCRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

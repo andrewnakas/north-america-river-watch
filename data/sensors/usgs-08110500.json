@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08110500",
+  "key": "08110500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110500",
+  "name": "Navasota Rv nr Easterly, TX",
+  "waterbody": "Navasota Rv nr Easterly, TX",
+  "state": "TX",
+  "latitude": 31.17018658,
+  "longitude": -96.2977664,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navasota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/east2",
+  "slug": "usgs-08110500",
+  "noaaForecastPath": "data/noaa-forecast/EAST2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

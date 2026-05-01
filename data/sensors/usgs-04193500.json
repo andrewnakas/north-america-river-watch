@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04193500",
+  "key": "04193500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04193500",
+  "name": "Maumee River at Waterville OH",
+  "waterbody": "Maumee River at Waterville OH",
+  "state": "OH",
+  "latitude": 41.5000526,
+  "longitude": -83.7127145,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTVO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maumee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtvo1",
+  "slug": "usgs-04193500",
+  "noaaForecastPath": "data/noaa-forecast/WTVO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

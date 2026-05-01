@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021473415",
+  "key": "021473415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021473415",
+  "name": "FISHING CREEK AT HWY 5 BELOW YORK, SC",
+  "waterbody": "FISHING CREEK AT HWY 5 BELOW YORK, SC",
+  "state": "SC",
+  "latitude": 34.97531944,
+  "longitude": -81.18015,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FISS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fishing Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fiss1",
+  "slug": "usgs-021473415",
+  "noaaForecastPath": "data/noaa-forecast/FISS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

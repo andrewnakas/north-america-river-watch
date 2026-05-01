@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01670080",
+  "key": "01670080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01670080",
+  "name": "SEVERN RIVER BELOW WHITTAKER CREEK NEAR SEVERN, VA",
+  "waterbody": "SEVERN RIVER BELOW WHITTAKER CREEK NEAR SEVERN, VA",
+  "state": "VA",
+  "latitude": 37.32375,
+  "longitude": -76.4274444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MJBV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chesapeake Bay",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mjbv2",
+  "slug": "usgs-01670080",
+  "noaaForecastPath": "data/noaa-forecast/MJBV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04180610",
+  "key": "04180610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04180610",
+  "name": "ST. JOSEPH R AT PARNELL AV AT FORT WAYNE, IN",
+  "waterbody": "ST. JOSEPH R AT PARNELL AV AT FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 41.10888889,
+  "longitude": -85.12563889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SJRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (OH/IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sjri3",
+  "slug": "usgs-04180610",
+  "noaaForecastPath": "data/noaa-forecast/SJRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

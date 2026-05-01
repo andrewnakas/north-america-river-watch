@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05420400",
+  "key": "05420400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05420400",
+  "name": "MISSISSIPPI RIVER AT DAM 13 NEAR FULTON, IL",
+  "waterbody": "MISSISSIPPI RIVER AT DAM 13 NEAR FULTON, IL",
+  "state": "IL",
+  "latitude": 41.8944725,
+  "longitude": -90.156793,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLTI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flti2",
+  "slug": "usgs-05420400",
+  "noaaForecastPath": "data/noaa-forecast/FLTI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

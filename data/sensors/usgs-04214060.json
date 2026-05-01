@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04214060",
+  "key": "04214060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04214060",
+  "name": "BIG SISTER CREEK AT EVANS CENTER NY",
+  "waterbody": "BIG SISTER CREEK AT EVANS CENTER NY",
+  "state": "NY",
+  "latitude": 42.65713889,
+  "longitude": -79.0355,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sister Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evcn6",
+  "slug": "usgs-04214060",
+  "noaaForecastPath": "data/noaa-forecast/EVCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

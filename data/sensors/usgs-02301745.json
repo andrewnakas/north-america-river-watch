@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301745",
+  "key": "02301745",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301745",
+  "name": "DELANEY CREEK POPOFF CANAL NEAR TAMPA FL",
+  "waterbody": "DELANEY CREEK POPOFF CANAL NEAR TAMPA FL",
+  "state": "FL",
+  "latitude": 27.902246,
+  "longitude": -82.3770375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLYF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaney Creek Popoff Canal Near Tampa",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlyf1",
+  "slug": "usgs-02301745",
+  "noaaForecastPath": "data/noaa-forecast/DLYF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01054114",
+  "key": "01054114",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01054114",
+  "name": "Peabody River at Gorham, New Hampshire",
+  "waterbody": "Peabody River at Gorham, New Hampshire",
+  "state": "NH",
+  "latitude": 44.38131944,
+  "longitude": -71.1706556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PEAN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peabody River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pean3",
+  "slug": "usgs-01054114",
+  "noaaForecastPath": "data/noaa-forecast/PEAN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11070150",
+  "key": "11070150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11070150",
+  "name": "SAN JACINTO R AB STATE STREET NR SAN JACINTO CA",
+  "waterbody": "SAN JACINTO R AB STATE STREET NR SAN JACINTO CA",
+  "state": "CA",
+  "latitude": 33.8214075,
+  "longitude": -116.973358,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11070150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

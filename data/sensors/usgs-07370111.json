@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07370111",
+  "key": "07370111",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07370111",
+  "name": "Bayou Macon northeast of Gilbert, LA",
+  "waterbody": "Bayou Macon northeast of Gilbert, LA",
+  "state": "LA",
+  "latitude": 32.09275,
+  "longitude": -91.5925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COGL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Macon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cogl1",
+  "slug": "usgs-07370111",
+  "noaaForecastPath": "data/noaa-forecast/COGL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

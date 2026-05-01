@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04270200",
+  "key": "04270200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04270200",
+  "name": "LITTLE SALMON RIVER AT BOMBAY NY",
+  "waterbody": "LITTLE SALMON RIVER AT BOMBAY NY",
+  "state": "NY",
+  "latitude": 44.939972,
+  "longitude": -74.556806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOMN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Salmon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bomn6",
+  "slug": "usgs-04270200",
+  "noaaForecastPath": "data/noaa-forecast/BOMN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

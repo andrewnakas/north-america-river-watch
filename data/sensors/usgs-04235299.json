@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04235299",
+  "key": "04235299",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04235299",
+  "name": "OWASCO INLET BELOW AURORA STREET AT MORAVIA NY",
+  "waterbody": "OWASCO INLET BELOW AURORA STREET AT MORAVIA NY",
+  "state": "NY",
+  "latitude": 42.7115833,
+  "longitude": -76.434,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWIN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Owasco Lake",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owin6",
+  "slug": "usgs-04235299",
+  "noaaForecastPath": "data/noaa-forecast/OWIN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

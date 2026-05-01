@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08131600",
+  "key": "08131600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08131600",
+  "name": "Tom Green County WCID No. 1 Canal nr San Angelo,TX",
+  "waterbody": "Tom Green County WCID No. 1 Canal nr San Angelo,TX",
+  "state": "TX",
+  "latitude": 31.416111,
+  "longitude": -100.394167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08131600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

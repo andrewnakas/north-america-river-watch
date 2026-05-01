@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01656000",
+  "key": "01656000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01656000",
+  "name": "CEDAR RUN NEAR CATLETT, VA",
+  "waterbody": "CEDAR RUN NEAR CATLETT, VA",
+  "state": "VA",
+  "latitude": 38.63678689,
+  "longitude": -77.6249897,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdrv2",
+  "slug": "usgs-01656000",
+  "noaaForecastPath": "data/noaa-forecast/CDRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08013250",
+  "key": "08013250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08013250",
+  "name": "Calcasieu River near Oakdale, LA",
+  "waterbody": "Calcasieu River near Oakdale, LA",
+  "state": "LA",
+  "latitude": 30.822275,
+  "longitude": -92.6846694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKDL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calcasieu River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okdl1",
+  "slug": "usgs-08013250",
+  "noaaForecastPath": "data/noaa-forecast/OKDL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

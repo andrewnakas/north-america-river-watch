@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03431040",
+  "key": "03431040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431040",
+  "name": "SEVENMILE CREEK AT BLACKMAN RD,NR NASHVILLE TN",
+  "waterbody": "SEVENMILE CREEK AT BLACKMAN RD,NR NASHVILLE TN",
+  "state": "TN",
+  "latitude": 36.07259337,
+  "longitude": -86.73332079,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVCT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sevenmile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svct1",
+  "slug": "usgs-03431040",
+  "noaaForecastPath": "data/noaa-forecast/SVCT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

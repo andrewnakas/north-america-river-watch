@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13092747",
+  "key": "13092747",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13092747",
+  "name": "ROCK CREEK AB HWY 30/93 XING AT TWIN FALLS ID",
+  "waterbody": "ROCK CREEK AB HWY 30/93 XING AT TWIN FALLS ID",
+  "state": "ID",
+  "latitude": 42.5625,
+  "longitude": -114.4947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TFAI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tfai1",
+  "slug": "usgs-13092747",
+  "noaaForecastPath": "data/noaa-forecast/TFAI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

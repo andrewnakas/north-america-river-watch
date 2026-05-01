@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14335500",
+  "key": "14335500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14335500",
+  "name": "SOUTH FORK BIG BUTTE CR NR BUTTE FALLS,OREG.",
+  "waterbody": "SOUTH FORK BIG BUTTE CR NR BUTTE FALLS,OREG.",
+  "state": "OR",
+  "latitude": 42.5401289,
+  "longitude": -122.5553105,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14335500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

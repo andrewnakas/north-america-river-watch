@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07288642",
+  "key": "07288642",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288642",
+  "name": "BOGUE PHALIA NEAR MELTONIA, MS",
+  "waterbody": "BOGUE PHALIA NEAR MELTONIA, MS",
+  "state": "MS",
+  "latitude": 33.62833889,
+  "longitude": -90.86851667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07288642",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

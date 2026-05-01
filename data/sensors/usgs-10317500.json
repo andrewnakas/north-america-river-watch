@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10317500",
+  "key": "10317500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10317500",
+  "name": "N FK HUMBOLDT RV AT DEVILS GATE NR HALLECK, NV",
+  "waterbody": "N FK HUMBOLDT RV AT DEVILS GATE NR HALLECK, NV",
+  "state": "NV",
+  "latitude": 41.17875278,
+  "longitude": -115.492575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEVN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Humboldt River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/devn2",
+  "slug": "usgs-10317500",
+  "noaaForecastPath": "data/noaa-forecast/DEVN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

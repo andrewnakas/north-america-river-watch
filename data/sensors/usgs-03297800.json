@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03297800",
+  "key": "03297800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03297800",
+  "name": "CEDAR CREEK AT HWY 1442 NEAR SHEPHERDSVILLE, KY",
+  "waterbody": "CEDAR CREEK AT HWY 1442 NEAR SHEPHERDSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.9911111,
+  "longitude": -85.6411111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03297800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

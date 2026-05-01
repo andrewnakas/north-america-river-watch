@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09486100",
+  "key": "09486100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486100",
+  "name": "CANADA DEL ORO NR ORACLE JUNCTION",
+  "waterbody": "CANADA DEL ORO NR ORACLE JUNCTION",
+  "state": "AZ",
+  "latitude": 32.56507286,
+  "longitude": -110.8473247,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09486100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09397300",
+  "key": "09397300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09397300",
+  "name": "LITTLE COLORADO RIVER NEAR JOSEPH CITY, AZ",
+  "waterbody": "LITTLE COLORADO RIVER NEAR JOSEPH CITY, AZ",
+  "state": "AZ",
+  "latitude": 34.90113674,
+  "longitude": -110.2554013,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCJA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Colorado River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcja3",
+  "slug": "usgs-09397300",
+  "noaaForecastPath": "data/noaa-forecast/LCJA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

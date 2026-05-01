@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03306500",
+  "key": "03306500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03306500",
+  "name": "GREEN RIVER AT GREENSBURG, KY",
+  "waterbody": "GREEN RIVER AT GREENSBURG, KY",
+  "state": "KY",
+  "latitude": 37.2536713,
+  "longitude": -85.5030215,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNSK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnsk2",
+  "slug": "usgs-03306500",
+  "noaaForecastPath": "data/noaa-forecast/GNSK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

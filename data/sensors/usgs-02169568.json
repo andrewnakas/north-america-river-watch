@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02169568",
+  "key": "02169568",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169568",
+  "name": "PEN BRANCH AT COLUMBIA, SC",
+  "waterbody": "PEN BRANCH AT COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 34.01293324,
+  "longitude": -80.982035,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pen Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbrs1",
+  "slug": "usgs-02169568",
+  "noaaForecastPath": "data/noaa-forecast/PBRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

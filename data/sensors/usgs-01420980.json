@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01420980",
+  "key": "01420980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01420980",
+  "name": "E BR DELAWARE RIVER ABV READ CR AT FISHS EDDY NY",
+  "waterbody": "E BR DELAWARE RIVER ABV READ CR AT FISHS EDDY NY",
+  "state": "NY",
+  "latitude": 41.9761983,
+  "longitude": -75.17072468,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01420980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

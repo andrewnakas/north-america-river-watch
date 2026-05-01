@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09224700",
+  "key": "09224700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09224700",
+  "name": "BLACKS FORK NEAR LITTLE AMERICA, WY",
+  "waterbody": "BLACKS FORK NEAR LITTLE AMERICA, WY",
+  "state": "WY",
+  "latitude": 41.5460425,
+  "longitude": -109.6935102,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTAW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blacks Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltaw4",
+  "slug": "usgs-09224700",
+  "noaaForecastPath": "data/noaa-forecast/LTAW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

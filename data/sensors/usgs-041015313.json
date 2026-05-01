@@ -1,0 +1,19 @@
+{
+  "id": "usgs:041015313",
+  "key": "041015313",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "041015313",
+  "name": "OSBORN DRAIN AT DEWEY LAKE ST NR GLENWOOD, MI",
+  "waterbody": "OSBORN DRAIN AT DEWEY LAKE ST NR GLENWOOD, MI",
+  "state": "MI",
+  "latitude": 42.05587699,
+  "longitude": -86.0689021,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-041015313",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15564450",
+  "key": "15564450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15564450",
+  "name": "LONG C AT LONG NR RUBY AK",
+  "waterbody": "LONG C AT LONG NR RUBY AK",
+  "state": "AK",
+  "latitude": 64.3999506,
+  "longitude": -155.5035327,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15564450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13171345",
+  "key": "13171345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13171345",
+  "name": "GRAND VIEW MUTUAL CANAL BL GV IRR DIST PUMPS",
+  "waterbody": "GRAND VIEW MUTUAL CANAL BL GV IRR DIST PUMPS",
+  "state": "ID",
+  "latitude": 42.980725,
+  "longitude": -116.0959306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13171345",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15057596",
+  "key": "15057596",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15057596",
+  "name": "SALMON R AT GUSTAVUS AK",
+  "waterbody": "SALMON R AT GUSTAVUS AK",
+  "state": "AK",
+  "latitude": 58.445,
+  "longitude": -135.74,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAMA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sama2",
+  "slug": "usgs-15057596",
+  "noaaForecastPath": "data/noaa-forecast/SAMA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

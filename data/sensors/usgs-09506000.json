@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09506000",
+  "key": "09506000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09506000",
+  "name": "VERDE RIVER NEAR CAMP VERDE, AZ",
+  "waterbody": "VERDE RIVER NEAR CAMP VERDE, AZ",
+  "state": "AZ",
+  "latitude": 34.4483605,
+  "longitude": -111.7898705,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VCVA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verde River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vcva3",
+  "slug": "usgs-09506000",
+  "noaaForecastPath": "data/noaa-forecast/VCVA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

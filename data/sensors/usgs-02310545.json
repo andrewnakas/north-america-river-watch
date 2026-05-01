@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02310545",
+  "key": "02310545",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310545",
+  "name": "WEEKI WACHEE RIVER NR WEEKI WACHEE SPRINGS FL",
+  "waterbody": "WEEKI WACHEE RIVER NR WEEKI WACHEE SPRINGS FL",
+  "state": "FL",
+  "latitude": 28.5311063,
+  "longitude": -82.6231559,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02310545",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

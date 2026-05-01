@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13204640",
+  "key": "13204640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13204640",
+  "name": "COTTONWOOD CREEK BEL FIVEMILE CR NR BOISE ID",
+  "waterbody": "COTTONWOOD CREEK BEL FIVEMILE CR NR BOISE ID",
+  "state": "ID",
+  "latitude": 43.6286111,
+  "longitude": -116.1108333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13204640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

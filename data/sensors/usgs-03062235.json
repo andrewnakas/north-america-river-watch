@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03062235",
+  "key": "03062235",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062235",
+  "name": "MONONGAHELA RIVER AT FLAGGY MEADOW, WV",
+  "waterbody": "MONONGAHELA RIVER AT FLAGGY MEADOW, WV",
+  "state": "WV",
+  "latitude": 39.56305556,
+  "longitude": -80.0216667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03062235",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11152900",
+  "key": "11152900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11152900",
+  "name": "CEDAR C NR BELL STATION CA",
+  "waterbody": "CEDAR C NR BELL STATION CA",
+  "state": "CA",
+  "latitude": 37.04991347,
+  "longitude": -121.32739503,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CXBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (CA)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cxbc1",
+  "slug": "usgs-11152900",
+  "noaaForecastPath": "data/noaa-forecast/CXBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06470878",
+  "key": "06470878",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06470878",
+  "name": "JAMES RIVER AT ND-SD STATE LINE",
+  "waterbody": "JAMES RIVER AT ND-SD STATE LINE",
+  "state": "ND",
+  "latitude": 45.9363579,
+  "longitude": -98.1742692,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06470878",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

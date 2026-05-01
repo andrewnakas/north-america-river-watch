@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12090500",
+  "key": "12090500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12090500",
+  "name": "CLOVER CREEK NEAR TILLICUM, WA",
+  "waterbody": "CLOVER CREEK NEAR TILLICUM, WA",
+  "state": "WA",
+  "latitude": 47.14590298,
+  "longitude": -122.5103822,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12090500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

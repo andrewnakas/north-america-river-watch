@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05403044",
+  "key": "05403044",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05403044",
+  "name": "SOUTH BRANCH YELLOW RIVER NEAR NECEDAH, WI",
+  "waterbody": "SOUTH BRANCH YELLOW RIVER NEAR NECEDAH, WI",
+  "state": "WI",
+  "latitude": 44.04691,
+  "longitude": -90.147908,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05403044",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15302300",
+  "key": "15302300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15302300",
+  "name": "MULCHATNA R AB STUYAHOK R NR NEW STUYAHOK AK",
+  "waterbody": "MULCHATNA R AB STUYAHOK R NR NEW STUYAHOK AK",
+  "state": "AK",
+  "latitude": 59.8376227,
+  "longitude": -156.6938693,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mulchatna River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlca2",
+  "slug": "usgs-15302300",
+  "noaaForecastPath": "data/noaa-forecast/MLCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

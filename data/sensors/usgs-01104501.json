@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104501",
+  "key": "01104501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104501",
+  "name": "BEAVER BROOK, LINDEN STREET, AT WALTHAM, MA",
+  "waterbody": "BEAVER BROOK, LINDEN STREET, AT WALTHAM, MA",
+  "state": "MA",
+  "latitude": 42.3786972,
+  "longitude": -71.2223722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

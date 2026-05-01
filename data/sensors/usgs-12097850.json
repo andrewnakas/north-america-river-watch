@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12097850",
+  "key": "12097850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12097850",
+  "name": "WHITE RIVER BELOW CLEARWATER RIVER NR BUCKLEY, WA",
+  "waterbody": "WHITE RIVER BELOW CLEARWATER RIVER NR BUCKLEY, WA",
+  "state": "WA",
+  "latitude": 47.1467703,
+  "longitude": -121.8601066,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MMIW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mmiw1",
+  "slug": "usgs-12097850",
+  "noaaForecastPath": "data/noaa-forecast/MMIW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

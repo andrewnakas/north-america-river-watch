@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06781600",
+  "key": "06781600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06781600",
+  "name": "South Loup River at Arnold, Nebr.",
+  "waterbody": "South Loup River at Arnold, Nebr.",
+  "state": "NE",
+  "latitude": 41.42277778,
+  "longitude": -100.20338056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARSN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arsn1",
+  "slug": "usgs-06781600",
+  "noaaForecastPath": "data/noaa-forecast/ARSN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

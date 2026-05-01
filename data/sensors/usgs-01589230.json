@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589230",
+  "key": "01589230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589230",
+  "name": "RED RUN NEAR OWINGS MILLS, MD",
+  "waterbody": "RED RUN NEAR OWINGS MILLS, MD",
+  "state": "MD",
+  "latitude": 39.4046111,
+  "longitude": -76.7795972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ONGM2",
+  "noaaForecast": true,
+  "noaaWaterbody": " RED RUN NEAR OWINGS MILLS, MD",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ongm2",
+  "slug": "usgs-01589230",
+  "noaaForecastPath": "data/noaa-forecast/ONGM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

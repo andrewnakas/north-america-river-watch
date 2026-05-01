@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02264061",
+  "key": "02264061",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02264061",
+  "name": "LATERAL 101 BELOW S-101 NR BUENA VISTA,FL",
+  "waterbody": "LATERAL 101 BELOW S-101 NR BUENA VISTA,FL",
+  "state": "FL",
+  "latitude": 28.3708417,
+  "longitude": -81.5289619,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02264061",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

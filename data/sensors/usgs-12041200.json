@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12041200",
+  "key": "12041200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12041200",
+  "name": "HOH RIVER AT US HIGHWAY 101 NEAR FORKS, WA",
+  "waterbody": "HOH RIVER AT US HIGHWAY 101 NEAR FORKS, WA",
+  "state": "WA",
+  "latitude": 47.80674726,
+  "longitude": -124.2510329,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HORW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hoh River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/horw1",
+  "slug": "usgs-12041200",
+  "noaaForecastPath": "data/noaa-forecast/HORW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

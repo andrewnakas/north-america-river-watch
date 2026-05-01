@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01646500",
+  "key": "01646500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01646500",
+  "name": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA",
+  "waterbody": "POTOMAC RIVER NEAR WASH, DC LITTLE FALLS PUMP STA",
+  "state": "MD",
+  "latitude": 38.94977778,
+  "longitude": -77.12763889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brkm2",
+  "slug": "usgs-01646500",
+  "noaaForecastPath": "data/noaa-forecast/BRKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

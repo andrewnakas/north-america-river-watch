@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10118000",
+  "key": "10118000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10118000",
+  "name": "BEAR RIVER NEAR COLLINSTON, UT",
+  "waterbody": "BEAR RIVER NEAR COLLINSTON, UT",
+  "state": "UT",
+  "latitude": 41.8340793,
+  "longitude": -112.0552524,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10118000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

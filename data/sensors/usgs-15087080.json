@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15087080",
+  "key": "15087080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087080",
+  "name": "UPPER EARL WEST C NR WRANGELL AK",
+  "waterbody": "UPPER EARL WEST C NR WRANGELL AK",
+  "state": "AK",
+  "latitude": 56.2854872,
+  "longitude": -132.1325175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15087080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

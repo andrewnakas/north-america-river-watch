@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08048922",
+  "key": "08048922",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08048922",
+  "name": "Deer Ck at IH-35W nr Crowley, TX",
+  "waterbody": "Deer Ck at IH-35W nr Crowley, TX",
+  "state": "TX",
+  "latitude": 32.58855556,
+  "longitude": -97.3190278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08048922",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

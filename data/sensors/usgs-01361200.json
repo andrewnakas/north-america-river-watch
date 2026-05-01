@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01361200",
+  "key": "01361200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01361200",
+  "name": "CLAVERACK CREEK AT CLAVERACK NY",
+  "waterbody": "CLAVERACK CREEK AT CLAVERACK NY",
+  "state": "NY",
+  "latitude": 42.21625,
+  "longitude": -73.73027778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01361200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

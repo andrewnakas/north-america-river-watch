@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15008000",
+  "key": "15008000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15008000",
+  "name": "SALMON R NR HYDER AK",
+  "waterbody": "SALMON R NR HYDER AK",
+  "state": "AK",
+  "latitude": 56.026111,
+  "longitude": -130.065278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLMA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slma2",
+  "slug": "usgs-15008000",
+  "noaaForecastPath": "data/noaa-forecast/SLMA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

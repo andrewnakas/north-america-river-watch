@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08361000",
+  "key": "08361000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08361000",
+  "name": "RIO GRANDE BELOW ELEPHANT BUTTE DAM, NM",
+  "waterbody": "RIO GRANDE BELOW ELEPHANT BUTTE DAM, NM",
+  "state": "NM",
+  "latitude": 33.1485111,
+  "longitude": -107.2067833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDBN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edbn5",
+  "slug": "usgs-08361000",
+  "noaaForecastPath": "data/noaa-forecast/EDBN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

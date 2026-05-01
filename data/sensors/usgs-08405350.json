@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08405350",
+  "key": "08405350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08405350",
+  "name": "BLACK RIVER BELOW BLUE SPRINGS NR WHITES CITY, NM",
+  "waterbody": "BLACK RIVER BELOW BLUE SPRINGS NR WHITES CITY, NM",
+  "state": "NM",
+  "latitude": 32.1818722,
+  "longitude": -104.2588944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08405350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

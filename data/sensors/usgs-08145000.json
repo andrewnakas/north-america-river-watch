@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08145000",
+  "key": "08145000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08145000",
+  "name": "Brady Ck at Brady, TX",
+  "waterbody": "Brady Ck at Brady, TX",
+  "state": "TX",
+  "latitude": 31.1382357,
+  "longitude": -99.3350754,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brady Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brat2",
+  "slug": "usgs-08145000",
+  "noaaForecastPath": "data/noaa-forecast/BRAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

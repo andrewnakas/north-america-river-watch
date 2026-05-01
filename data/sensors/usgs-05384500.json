@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05384500",
+  "key": "05384500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05384500",
+  "name": "RUSH CREEK NEAR RUSHFORD, MN",
+  "waterbody": "RUSH CREEK NEAR RUSHFORD, MN",
+  "state": "MN",
+  "latitude": 43.832416,
+  "longitude": -91.776658,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05384500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

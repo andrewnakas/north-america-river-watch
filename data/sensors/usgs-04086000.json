@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04086000",
+  "key": "04086000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086000",
+  "name": "SHEBOYGAN RIVER AT SHEBOYGAN, WI",
+  "waterbody": "SHEBOYGAN RIVER AT SHEBOYGAN, WI",
+  "state": "WI",
+  "latitude": 43.74138889,
+  "longitude": -87.7521111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEBW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheboygan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sebw3",
+  "slug": "usgs-04086000",
+  "noaaForecastPath": "data/noaa-forecast/SEBW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

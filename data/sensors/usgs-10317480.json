@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10317480",
+  "key": "10317480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10317480",
+  "name": "BEAVER CK ABV CONF N FK HUMBOLDT RV NR HALLECK, NV",
+  "waterbody": "BEAVER CK ABV CONF N FK HUMBOLDT RV NR HALLECK, NV",
+  "state": "NV",
+  "latitude": 41.3297222,
+  "longitude": -115.5719444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVRN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvrn2",
+  "slug": "usgs-10317480",
+  "noaaForecastPath": "data/noaa-forecast/BVRN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

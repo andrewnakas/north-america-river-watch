@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12352500",
+  "key": "12352500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12352500",
+  "name": "Bitterroot River near Missoula MT",
+  "waterbody": "Bitterroot River near Missoula MT",
+  "state": "MT",
+  "latitude": 46.83173889,
+  "longitude": -114.054861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BITM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bitterroot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bitm8",
+  "slug": "usgs-12352500",
+  "noaaForecastPath": "data/noaa-forecast/BITM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

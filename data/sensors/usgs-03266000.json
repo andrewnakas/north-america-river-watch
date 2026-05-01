@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03266000",
+  "key": "03266000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03266000",
+  "name": "Stillwater River at Englewood OH",
+  "waterbody": "Stillwater River at Englewood OH",
+  "state": "OH",
+  "latitude": 39.87033349,
+  "longitude": -84.2860557,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/engo1",
+  "slug": "usgs-03266000",
+  "noaaForecastPath": "data/noaa-forecast/ENGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01671025",
+  "key": "01671025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01671025",
+  "name": "NORTH ANNA RIVER ABOVE LITTLE RIVER NR DOSWELL, VA",
+  "waterbody": "NORTH ANNA RIVER ABOVE LITTLE RIVER NR DOSWELL, VA",
+  "state": "VA",
+  "latitude": 37.8256964,
+  "longitude": -77.4260929,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Anna River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dosv2",
+  "slug": "usgs-01671025",
+  "noaaForecastPath": "data/noaa-forecast/DOSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

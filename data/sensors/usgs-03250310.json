@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03250310",
+  "key": "03250310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03250310",
+  "name": "ROCK LICK CR AB UNNAMED TRIB NR SHARKEY, KY STAT A",
+  "waterbody": "ROCK LICK CR AB UNNAMED TRIB NR SHARKEY, KY STAT A",
+  "state": "KY",
+  "latitude": 38.251191,
+  "longitude": -83.5660225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRKK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Lick Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srkk2",
+  "slug": "usgs-03250310",
+  "noaaForecastPath": "data/noaa-forecast/SRKK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

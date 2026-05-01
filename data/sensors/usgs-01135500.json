@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01135500",
+  "key": "01135500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01135500",
+  "name": "PASSUMPSIC RIVER AT PASSUMPSIC, VT",
+  "waterbody": "PASSUMPSIC RIVER AT PASSUMPSIC, VT",
+  "state": "VT",
+  "latitude": 44.3656147,
+  "longitude": -72.0392613,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PASV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Passumpsic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pasv1",
+  "slug": "usgs-01135500",
+  "noaaForecastPath": "data/noaa-forecast/PASV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

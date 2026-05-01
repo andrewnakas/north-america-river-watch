@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07124000",
+  "key": "07124000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07124000",
+  "name": "ARKANSAS RIVER AT LAS ANIMAS, CO.",
+  "waterbody": "ARKANSAS RIVER AT LAS ANIMAS, CO.",
+  "state": "CO",
+  "latitude": 38.080833,
+  "longitude": -103.219167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07124000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

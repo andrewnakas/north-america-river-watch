@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03410600",
+  "key": "03410600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03410600",
+  "name": "SOUTH FORK CUMBERLAND RIVER NEAR YAMACRAW, KY",
+  "waterbody": "SOUTH FORK CUMBERLAND RIVER NEAR YAMACRAW, KY",
+  "state": "KY",
+  "latitude": 36.7256326,
+  "longitude": -84.5438283,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03410600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

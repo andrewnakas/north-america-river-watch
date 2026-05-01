@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12039509",
+  "key": "12039509",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039509",
+  "name": "QUINAULT R BLW TEN O'CLOCK CR (7A) NR NEILTON, WA",
+  "waterbody": "QUINAULT R BLW TEN O'CLOCK CR (7A) NR NEILTON, WA",
+  "state": "WA",
+  "latitude": 47.40143056,
+  "longitude": -124.0346694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12039509",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

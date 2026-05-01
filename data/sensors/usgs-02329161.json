@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02329161",
+  "key": "02329161",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02329161",
+  "name": "FORDS ARM TRIBUTARY AT TALLAHASSEE,TL",
+  "waterbody": "FORDS ARM TRIBUTARY AT TALLAHASSEE,TL",
+  "state": "FL",
+  "latitude": 30.49992196,
+  "longitude": -84.2774002,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02329161",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

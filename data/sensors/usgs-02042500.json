@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02042500",
+  "key": "02042500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02042500",
+  "name": "CHICKAHOMINY RIVER NEAR PROVIDENCE FORGE, VA",
+  "waterbody": "CHICKAHOMINY RIVER NEAR PROVIDENCE FORGE, VA",
+  "state": "VA",
+  "latitude": 37.43625765,
+  "longitude": -77.0608027,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CKHV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chickahominy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ckhv2",
+  "slug": "usgs-02042500",
+  "noaaForecastPath": "data/noaa-forecast/CKHV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

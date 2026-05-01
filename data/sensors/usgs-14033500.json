@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14033500",
+  "key": "14033500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14033500",
+  "name": "UMATILLA RIVER NEAR UMATILLA, OR",
+  "waterbody": "UMATILLA RIVER NEAR UMATILLA, OR",
+  "state": "OR",
+  "latitude": 45.9026944,
+  "longitude": -119.3270833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UMAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Umatilla River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/umao3",
+  "slug": "usgs-14033500",
+  "noaaForecastPath": "data/noaa-forecast/UMAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

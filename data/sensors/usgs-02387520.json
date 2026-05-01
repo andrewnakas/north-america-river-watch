@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02387520",
+  "key": "02387520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02387520",
+  "name": "OOSTANAULA RIVER AT CALHOUN, GA",
+  "waterbody": "OOSTANAULA RIVER AT CALHOUN, GA",
+  "state": "GA",
+  "latitude": 34.51888889,
+  "longitude": -84.9544444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CALG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oostanaula River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/calg1",
+  "slug": "usgs-02387520",
+  "noaaForecastPath": "data/noaa-forecast/CALG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

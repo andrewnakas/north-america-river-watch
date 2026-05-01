@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07027500",
+  "key": "07027500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07027500",
+  "name": "SOUTH FORK FORKED DEER RIVER AT JACKSON, TN",
+  "waterbody": "SOUTH FORK FORKED DEER RIVER AT JACKSON, TN",
+  "state": "TN",
+  "latitude": 35.593962,
+  "longitude": -88.8145023,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07027500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01365100",
+  "key": "01365100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01365100",
+  "name": "CANNONSVILLE RES DIV CHANNEL NR GRAHAMSVILLE NY",
+  "waterbody": "CANNONSVILLE RES DIV CHANNEL NR GRAHAMSVILLE NY",
+  "state": "NY",
+  "latitude": 41.8521111,
+  "longitude": -74.51302778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01365100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

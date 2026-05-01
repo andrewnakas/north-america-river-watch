@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02094659",
+  "key": "02094659",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02094659",
+  "name": "SOUTH BUFFALO CREEK NR POMONA, NC",
+  "waterbody": "SOUTH BUFFALO CREEK NR POMONA, NC",
+  "state": "NC",
+  "latitude": 36.04944444,
+  "longitude": -79.8552778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Buffalo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbpn7",
+  "slug": "usgs-02094659",
+  "noaaForecastPath": "data/noaa-forecast/SBPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

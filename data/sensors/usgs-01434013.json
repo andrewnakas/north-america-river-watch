@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01434013",
+  "key": "01434013",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434013",
+  "name": "EAST BRANCH NEVERSINK RIVER EAST OF LADLETON NY",
+  "waterbody": "EAST BRANCH NEVERSINK RIVER EAST OF LADLETON NY",
+  "state": "NY",
+  "latitude": 41.9383333,
+  "longitude": -74.50527778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01434013",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

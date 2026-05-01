@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06478523",
+  "key": "06478523",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478523",
+  "name": "MISSOURI RIVER NEAR ST. JAMES, NE",
+  "waterbody": "MISSOURI RIVER NEAR ST. JAMES, NE",
+  "state": "NE",
+  "latitude": 42.7611088,
+  "longitude": -97.0822699,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSJN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msjn1",
+  "slug": "usgs-06478523",
+  "noaaForecastPath": "data/noaa-forecast/MSJN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

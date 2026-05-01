@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01409810",
+  "key": "01409810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01409810",
+  "name": "West Branch Wading River near Jenkins NJ",
+  "waterbody": "West Branch Wading River near Jenkins NJ",
+  "state": "NJ",
+  "latitude": 39.68805556,
+  "longitude": -74.5480556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JENN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Wading River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jenn4",
+  "slug": "usgs-01409810",
+  "noaaForecastPath": "data/noaa-forecast/JENN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

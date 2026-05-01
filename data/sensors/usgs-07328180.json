@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07328180",
+  "key": "07328180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07328180",
+  "name": "North Criner Creek near Criner, OK",
+  "waterbody": "North Criner Creek near Criner, OK",
+  "state": "OK",
+  "latitude": 34.9714592,
+  "longitude": -97.5847555,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRNO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Criner Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crno2",
+  "slug": "usgs-07328180",
+  "noaaForecastPath": "data/noaa-forecast/CRNO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

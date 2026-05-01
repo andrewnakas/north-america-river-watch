@@ -1,0 +1,19 @@
+{
+  "id": "usgs:300026090050800",
+  "key": "300026090050800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "300026090050800",
+  "name": "Bayou Saint John Midlake at New Orleans, LA",
+  "waterbody": "Bayou Saint John Midlake at New Orleans, LA",
+  "state": "LA",
+  "latitude": 30.0072222,
+  "longitude": -90.0855556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-300026090050800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

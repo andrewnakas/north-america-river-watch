@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06132200",
+  "key": "06132200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06132200",
+  "name": "South Fork Milk River near Babb MT",
+  "waterbody": "South Fork Milk River near Babb MT",
+  "state": "MT",
+  "latitude": 48.7534833,
+  "longitude": -113.1674306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFBM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Milk River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfbm8",
+  "slug": "usgs-06132200",
+  "noaaForecastPath": "data/noaa-forecast/SFBM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

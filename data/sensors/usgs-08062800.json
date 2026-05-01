@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08062800",
+  "key": "08062800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08062800",
+  "name": "Cedar Ck nr Kemp, TX",
+  "waterbody": "Cedar Ck nr Kemp, TX",
+  "state": "TX",
+  "latitude": 32.50347129,
+  "longitude": -96.1127508,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08062800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

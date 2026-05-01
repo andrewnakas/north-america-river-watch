@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15273045",
+  "key": "15273045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15273045",
+  "name": "RABBIT C AT OLD SEWARD HWY NR ANCHORAGE AK",
+  "waterbody": "RABBIT C AT OLD SEWARD HWY NR ANCHORAGE AK",
+  "state": "AK",
+  "latitude": 61.08361237,
+  "longitude": -149.8258032,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15273045",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

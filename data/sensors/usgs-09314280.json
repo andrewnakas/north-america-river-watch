@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09314280",
+  "key": "09314280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09314280",
+  "name": "DESERT SEEP WASH NEAR WELLINGTON, UTAH",
+  "waterbody": "DESERT SEEP WASH NEAR WELLINGTON, UTAH",
+  "state": "UT",
+  "latitude": 39.4210793,
+  "longitude": -110.6462682,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09314280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

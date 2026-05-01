@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12480840",
+  "key": "12480840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12480840",
+  "name": "BLUE CREEK AT FS 9738 NEAR LIBERTY, WA",
+  "waterbody": "BLUE CREEK AT FS 9738 NEAR LIBERTY, WA",
+  "state": "WA",
+  "latitude": 47.29346915,
+  "longitude": -120.7019292,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12480840",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

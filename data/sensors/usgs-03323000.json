@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03323000",
+  "key": "03323000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03323000",
+  "name": "WABASH RIVER AT BLUFFTON, IN",
+  "waterbody": "WABASH RIVER AT BLUFFTON, IN",
+  "state": "IN",
+  "latitude": 40.7423611,
+  "longitude": -85.1714444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLFI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blfi3",
+  "slug": "usgs-03323000",
+  "noaaForecastPath": "data/noaa-forecast/BLFI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

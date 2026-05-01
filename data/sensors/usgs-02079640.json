@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02079640",
+  "key": "02079640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02079640",
+  "name": "ALLEN CREEK NEAR BOYDTON, VA",
+  "waterbody": "ALLEN CREEK NEAR BOYDTON, VA",
+  "state": "VA",
+  "latitude": 36.67958589,
+  "longitude": -78.326664,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALKV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alkv2",
+  "slug": "usgs-02079640",
+  "noaaForecastPath": "data/noaa-forecast/ALKV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

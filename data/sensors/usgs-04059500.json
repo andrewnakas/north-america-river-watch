@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04059500",
+  "key": "04059500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04059500",
+  "name": "FORD RIVER NEAR HYDE, MI",
+  "waterbody": "FORD RIVER NEAR HYDE, MI",
+  "state": "MI",
+  "latitude": 45.7549674,
+  "longitude": -87.2020793,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRDM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ford River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frdm4",
+  "slug": "usgs-04059500",
+  "noaaForecastPath": "data/noaa-forecast/FRDM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

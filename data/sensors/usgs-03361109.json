@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03361109",
+  "key": "03361109",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03361109",
+  "name": "NAMELESS CREEK AT STRINGTOWN, IN",
+  "waterbody": "NAMELESS CREEK AT STRINGTOWN, IN",
+  "state": "IN",
+  "latitude": 39.78864609,
+  "longitude": -85.6852304,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCSI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nameless Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncsi3",
+  "slug": "usgs-03361109",
+  "noaaForecastPath": "data/noaa-forecast/NCSI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

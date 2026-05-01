@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11466170",
+  "key": "11466170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11466170",
+  "name": "MATANZAS C A SANTA ROSA CA",
+  "waterbody": "MATANZAS C A SANTA ROSA CA",
+  "state": "CA",
+  "latitude": 38.43876314,
+  "longitude": -122.7024499,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "XDSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Rosa Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/xdsc1",
+  "slug": "usgs-11466170",
+  "noaaForecastPath": "data/noaa-forecast/XDSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

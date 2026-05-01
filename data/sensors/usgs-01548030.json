@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01548030",
+  "key": "01548030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01548030",
+  "name": "Fishing Creek near Lamar, PA",
+  "waterbody": "Fishing Creek near Lamar, PA",
+  "state": "PA",
+  "latitude": 40.9804722,
+  "longitude": -77.48277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fishing Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fclp1",
+  "slug": "usgs-01548030",
+  "noaaForecastPath": "data/noaa-forecast/FCLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

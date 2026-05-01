@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02456500",
+  "key": "02456500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02456500",
+  "name": "LOCUST FORK AT SAYRE, AL.",
+  "waterbody": "LOCUST FORK AT SAYRE, AL.",
+  "state": "AL",
+  "latitude": 33.7098268,
+  "longitude": -86.9833305,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAYA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Locust Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saya1",
+  "slug": "usgs-02456500",
+  "noaaForecastPath": "data/noaa-forecast/SAYA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

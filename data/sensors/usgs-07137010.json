@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07137010",
+  "key": "07137010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07137010",
+  "name": "FRONTIER DITCH RETURN NR COOLIDGE, KS",
+  "waterbody": "FRONTIER DITCH RETURN NR COOLIDGE, KS",
+  "state": "KS",
+  "latitude": 38.03139167,
+  "longitude": -101.934925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07137010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10172300",
+  "key": "10172300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10172300",
+  "name": "RED BUTTE CR @ 1600 EAST @ SALT LAKE CITY, UT",
+  "waterbody": "RED BUTTE CR @ 1600 EAST @ SALT LAKE CITY, UT",
+  "state": "UT",
+  "latitude": 40.74661305,
+  "longitude": -111.8446568,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10172300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

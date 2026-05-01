@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01194500",
+  "key": "01194500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01194500",
+  "name": "EAST BRANCH EIGHTMILE RIVER NEAR NORTH LYME, CT",
+  "waterbody": "EAST BRANCH EIGHTMILE RIVER NEAR NORTH LYME, CT",
+  "state": "CT",
+  "latitude": 41.42751667,
+  "longitude": -72.33477778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01194500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

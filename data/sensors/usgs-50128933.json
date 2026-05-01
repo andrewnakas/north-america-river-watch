@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50128933",
+  "key": "50128933",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50128933",
+  "name": "CANAL RIEGO DE LAJAS ABV LAJAS FILTRATION PLANT",
+  "waterbody": "CANAL RIEGO DE LAJAS ABV LAJAS FILTRATION PLANT",
+  "state": "PR",
+  "latitude": 18.045056,
+  "longitude": -67.052553,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLCP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canal de Riego de Lajas Abv Lajas Filtration Plant",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rlcp4",
+  "slug": "usgs-50128933",
+  "noaaForecastPath": "data/noaa-forecast/RLCP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

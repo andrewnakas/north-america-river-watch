@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02087570",
+  "key": "02087570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02087570",
+  "name": "NEUSE RIVER AT SMITHFIELD, NC",
+  "waterbody": "NEUSE RIVER AT SMITHFIELD, NC",
+  "state": "NC",
+  "latitude": 35.5125,
+  "longitude": -78.3494444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neuse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smfn7",
+  "slug": "usgs-02087570",
+  "noaaForecastPath": "data/noaa-forecast/SMFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

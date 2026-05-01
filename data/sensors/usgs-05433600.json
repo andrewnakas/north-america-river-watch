@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05433600",
+  "key": "05433600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05433600",
+  "name": "DOUGHERTY CREEK NEAR POSTVILLE, WI",
+  "waterbody": "DOUGHERTY CREEK NEAR POSTVILLE, WI",
+  "state": "WI",
+  "latitude": 42.77528125,
+  "longitude": -89.74984529,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05433600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

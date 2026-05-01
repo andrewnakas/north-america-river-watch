@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344396",
+  "key": "02344396",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344396",
+  "name": "FLINT RIVER AT WOOLSEY ROAD, NEAR WOOLSEY, GA",
+  "waterbody": "FLINT RIVER AT WOOLSEY ROAD, NEAR WOOLSEY, GA",
+  "state": "GA",
+  "latitude": 33.3597222,
+  "longitude": -84.3944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSEG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wseg1",
+  "slug": "usgs-02344396",
+  "noaaForecastPath": "data/noaa-forecast/WSEG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

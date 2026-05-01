@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01168151",
+  "key": "01168151",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01168151",
+  "name": "DEERFIELD RIVER NEAR ROWE, MA",
+  "waterbody": "DEERFIELD RIVER NEAR ROWE, MA",
+  "state": "MA",
+  "latitude": 42.68258325,
+  "longitude": -72.9764886,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01168151",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03228300",
+  "key": "03228300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03228300",
+  "name": "Big Walnut Creek at Sunbury OH",
+  "waterbody": "Big Walnut Creek at Sunbury OH",
+  "state": "OH",
+  "latitude": 40.2361735,
+  "longitude": -82.8512892,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBYO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Walnut Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbyo1",
+  "slug": "usgs-03228300",
+  "noaaForecastPath": "data/noaa-forecast/SBYO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06889700",
+  "key": "06889700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889700",
+  "name": "SHUNGANUNGA C AT RICE RD, TOPEKA, KS",
+  "waterbody": "SHUNGANUNGA C AT RICE RD, TOPEKA, KS",
+  "state": "KS",
+  "latitude": 39.05333347,
+  "longitude": -95.6247021,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06889700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

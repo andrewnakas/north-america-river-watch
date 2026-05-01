@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05412500",
+  "key": "05412500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05412500",
+  "name": "Turkey River at Garber, IA",
+  "waterbody": "Turkey River at Garber, IA",
+  "state": "IA",
+  "latitude": 42.7399884,
+  "longitude": -91.261799,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRBI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grbi4",
+  "slug": "usgs-05412500",
+  "noaaForecastPath": "data/noaa-forecast/GRBI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11087020",
+  "key": "11087020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11087020",
+  "name": "SAN GABRIEL R AB WHITTIER NARROWS DAM CA",
+  "waterbody": "SAN GABRIEL R AB WHITTIER NARROWS DAM CA",
+  "state": "CA",
+  "latitude": 34.03417767,
+  "longitude": -118.0381225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRQC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Gabriel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srqc1",
+  "slug": "usgs-11087020",
+  "noaaForecastPath": "data/noaa-forecast/SRQC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

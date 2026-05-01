@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05330920",
+  "key": "05330920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05330920",
+  "name": "MINNESOTA RIVER AT FORT SNELLING STATE PARK, MN",
+  "waterbody": "MINNESOTA RIVER AT FORT SNELLING STATE PARK, MN",
+  "state": "MN",
+  "latitude": 44.87025801,
+  "longitude": -93.19243534,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSNM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnesota River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fsnm5",
+  "slug": "usgs-05330920",
+  "noaaForecastPath": "data/noaa-forecast/FSNM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

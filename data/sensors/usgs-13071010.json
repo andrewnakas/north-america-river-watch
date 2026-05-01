@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13071010",
+  "key": "13071010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13071010",
+  "name": "Portneuf R. abv Toponce Rd, nr Chesterfield, Id",
+  "waterbody": "Portneuf R. abv Toponce Rd, nr Chesterfield, Id",
+  "state": "ID",
+  "latitude": 42.86974722,
+  "longitude": -111.93421111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13071010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

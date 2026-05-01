@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01580620",
+  "key": "01580620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01580620",
+  "name": "Ches Bay at Mouth of Susq R at Havre de Grace, MD",
+  "waterbody": "Ches Bay at Mouth of Susq R at Havre de Grace, MD",
+  "state": "MD",
+  "latitude": 39.53775,
+  "longitude": -76.0895833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDGM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chesapeake Bay",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdgm2",
+  "slug": "usgs-01580620",
+  "noaaForecastPath": "data/noaa-forecast/HDGM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

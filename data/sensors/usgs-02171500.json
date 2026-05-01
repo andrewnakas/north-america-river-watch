@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02171500",
+  "key": "02171500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02171500",
+  "name": "SANTEE RIVER NEAR PINEVILLE, SC",
+  "waterbody": "SANTEE RIVER NEAR PINEVILLE, SC",
+  "state": "SC",
+  "latitude": 33.45377778,
+  "longitude": -80.1413611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02171500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

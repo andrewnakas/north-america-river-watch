@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02378170",
+  "key": "02378170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02378170",
+  "name": "WOLF CREEK BELOW FOLEY, ALA",
+  "waterbody": "WOLF CREEK BELOW FOLEY, ALA",
+  "state": "AL",
+  "latitude": 30.38828617,
+  "longitude": -87.65279277,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLFA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek (Baldwin)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlfa1",
+  "slug": "usgs-02378170",
+  "noaaForecastPath": "data/noaa-forecast/WLFA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

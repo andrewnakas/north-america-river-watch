@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08253000",
+  "key": "08253000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08253000",
+  "name": "CASIAS CREEK NEAR COSTILLA, NM",
+  "waterbody": "CASIAS CREEK NEAR COSTILLA, NM",
+  "state": "NM",
+  "latitude": 36.89685556,
+  "longitude": -105.2604583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08253000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03289500",
+  "key": "03289500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03289500",
+  "name": "ELKHORN CREEK NEAR FRANKFORT, KY",
+  "waterbody": "ELKHORN CREEK NEAR FRANKFORT, KY",
+  "state": "KY",
+  "latitude": 38.26868254,
+  "longitude": -84.8146714,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKMK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhorn Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkmk2",
+  "slug": "usgs-03289500",
+  "noaaForecastPath": "data/noaa-forecast/PKMK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

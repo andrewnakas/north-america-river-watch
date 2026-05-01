@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01349150",
+  "key": "01349150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01349150",
+  "name": "CANAJOHARIE CREEK NEAR CANAJOHARIE NY",
+  "waterbody": "CANAJOHARIE CREEK NEAR CANAJOHARIE NY",
+  "state": "NY",
+  "latitude": 42.87627778,
+  "longitude": -74.6028611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNJN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canajoharie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnjn6",
+  "slug": "usgs-01349150",
+  "noaaForecastPath": "data/noaa-forecast/CNJN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05316500",
+  "key": "05316500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05316500",
+  "name": "REDWOOD RIVER NEAR REDWOOD FALLS, MN",
+  "waterbody": "REDWOOD RIVER NEAR REDWOOD FALLS, MN",
+  "state": "MN",
+  "latitude": 44.523579,
+  "longitude": -95.171378,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RWDM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rwdm5",
+  "slug": "usgs-05316500",
+  "noaaForecastPath": "data/noaa-forecast/RWDM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06910450",
+  "key": "06910450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06910450",
+  "name": "Missouri River at Jefferson City, MO",
+  "waterbody": "Missouri River at Jefferson City, MO",
+  "state": "MO",
+  "latitude": 38.5871111,
+  "longitude": -92.1786389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JFFM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jffm7",
+  "slug": "usgs-06910450",
+  "noaaForecastPath": "data/noaa-forecast/JFFM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083280",
+  "key": "08083280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083280",
+  "name": "Elm Ck at FM 89 nr Buffalo Gap, TX",
+  "waterbody": "Elm Ck at FM 89 nr Buffalo Gap, TX",
+  "state": "TX",
+  "latitude": 32.27519444,
+  "longitude": -99.8357222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

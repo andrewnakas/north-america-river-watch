@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05227500",
+  "key": "05227500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05227500",
+  "name": "MISSISSIPPI RIVER AT AITKIN, MN",
+  "waterbody": "MISSISSIPPI RIVER AT AITKIN, MN",
+  "state": "MN",
+  "latitude": 46.540706,
+  "longitude": -93.707429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATKM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atkm5",
+  "slug": "usgs-05227500",
+  "noaaForecastPath": "data/noaa-forecast/ATKM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

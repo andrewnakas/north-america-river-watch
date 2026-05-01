@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03419530",
+  "key": "03419530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03419530",
+  "name": "CALFKILLER RIVER AT HWY 70 AT SPARTA, TN",
+  "waterbody": "CALFKILLER RIVER AT HWY 70 AT SPARTA, TN",
+  "state": "TN",
+  "latitude": 35.9265,
+  "longitude": -85.4674306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAFT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calfkiller River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/caft1",
+  "slug": "usgs-03419530",
+  "noaaForecastPath": "data/noaa-forecast/CAFT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

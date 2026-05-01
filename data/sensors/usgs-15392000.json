@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15392000",
+  "key": "15392000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15392000",
+  "name": "BIRCH C AB TWELVEMILE C NR MILLER HOUSE AK",
+  "waterbody": "BIRCH C AB TWELVEMILE C NR MILLER HOUSE AK",
+  "state": "AK",
+  "latitude": 65.3921157,
+  "longitude": -145.7149559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCTA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Birch Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcta2",
+  "slug": "usgs-15392000",
+  "noaaForecastPath": "data/noaa-forecast/BCTA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

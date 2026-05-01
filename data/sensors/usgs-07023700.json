@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07023700",
+  "key": "07023700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07023700",
+  "name": "OBION CREEK NEAR ARLINGTON, KY",
+  "waterbody": "OBION CREEK NEAR ARLINGTON, KY",
+  "state": "KY",
+  "latitude": 36.7583908,
+  "longitude": -89.0036748,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07023700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

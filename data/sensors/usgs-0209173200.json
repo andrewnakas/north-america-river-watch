@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0209173200",
+  "key": "0209173200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209173200",
+  "name": "SANDY RUN NEAR LIZZIE, NC",
+  "waterbody": "SANDY RUN NEAR LIZZIE, NC",
+  "state": "NC",
+  "latitude": 35.5315503,
+  "longitude": -77.55858148,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0209173200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

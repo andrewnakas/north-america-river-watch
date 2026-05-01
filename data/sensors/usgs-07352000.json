@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07352000",
+  "key": "07352000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07352000",
+  "name": "Saline Bayou near Lucky, LA",
+  "waterbody": "Saline Bayou near Lucky, LA",
+  "state": "LA",
+  "latitude": 32.2501631,
+  "longitude": -92.9765613,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07352000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

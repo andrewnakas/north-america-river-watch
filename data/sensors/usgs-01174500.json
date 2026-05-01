@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01174500",
+  "key": "01174500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01174500",
+  "name": "EAST BRANCH SWIFT RIVER NEAR HARDWICK, MA",
+  "waterbody": "EAST BRANCH SWIFT RIVER NEAR HARDWICK, MA",
+  "state": "MA",
+  "latitude": 42.3934237,
+  "longitude": -72.2384148,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRDM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Swift River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrdm3",
+  "slug": "usgs-01174500",
+  "noaaForecastPath": "data/noaa-forecast/HRDM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16226200",
+  "key": "16226200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16226200",
+  "name": "N. Halawa Str nr Honolulu, Oahu, HI",
+  "waterbody": "N. Halawa Str nr Honolulu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.382,
+  "longitude": -157.9033333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HWSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Halawa Stream (Oahu)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hwsh1",
+  "slug": "usgs-16226200",
+  "noaaForecastPath": "data/noaa-forecast/HWSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

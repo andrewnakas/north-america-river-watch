@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04159492",
+  "key": "04159492",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04159492",
+  "name": "BLACK RIVER NEAR JEDDO, MI",
+  "waterbody": "BLACK RIVER NEAR JEDDO, MI",
+  "state": "MI",
+  "latitude": 43.15086,
+  "longitude": -82.6246474,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FGOM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fgom4",
+  "slug": "usgs-04159492",
+  "noaaForecastPath": "data/noaa-forecast/FGOM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

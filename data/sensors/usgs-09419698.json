@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419698",
+  "key": "09419698",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419698",
+  "name": "LV WASH BLW DUCK CK CONF NR HENDERSON, NV",
+  "waterbody": "LV WASH BLW DUCK CK CONF NR HENDERSON, NV",
+  "state": "NV",
+  "latitude": 36.09152507,
+  "longitude": -115.0000505,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419698",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

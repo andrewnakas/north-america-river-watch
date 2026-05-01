@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0210398250",
+  "key": "0210398250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0210398250",
+  "name": "BLOUNTS CREEK AT WINSLOW STREET AT FAYETTEVILLE NC",
+  "waterbody": "BLOUNTS CREEK AT WINSLOW STREET AT FAYETTEVILLE NC",
+  "state": "NC",
+  "latitude": 35.04430278,
+  "longitude": -78.8901611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blounts Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcfn7",
+  "slug": "usgs-0210398250",
+  "noaaForecastPath": "data/noaa-forecast/BCFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06288400",
+  "key": "06288400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06288400",
+  "name": "Bighorn River at Two Leggins Bridge, near Hardin",
+  "waterbody": "Bighorn River at Two Leggins Bridge, near Hardin",
+  "state": "MT",
+  "latitude": 45.6440863,
+  "longitude": -107.6582164,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLBM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bighorn River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlbm8",
+  "slug": "usgs-06288400",
+  "noaaForecastPath": "data/noaa-forecast/TLBM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

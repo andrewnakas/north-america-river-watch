@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08107950",
+  "key": "08107950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08107950",
+  "name": "N Elm Ck at Rosebud Rd nr Meeks, TX",
+  "waterbody": "N Elm Ck at Rosebud Rd nr Meeks, TX",
+  "state": "TX",
+  "latitude": 31.01306944,
+  "longitude": -97.1100833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08107950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

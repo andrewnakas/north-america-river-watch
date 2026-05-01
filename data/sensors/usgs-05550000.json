@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05550000",
+  "key": "05550000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05550000",
+  "name": "FOX RIVER AT ALGONQUIN, IL",
+  "waterbody": "FOX RIVER AT ALGONQUIN, IL",
+  "state": "IL",
+  "latitude": 42.16630556,
+  "longitude": -88.2903333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/algi2",
+  "slug": "usgs-05550000",
+  "noaaForecastPath": "data/noaa-forecast/ALGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

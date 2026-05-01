@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03568000",
+  "key": "03568000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03568000",
+  "name": "TENNESSEE RIVER AT CHATTANOOGA, TN",
+  "waterbody": "TENNESSEE RIVER AT CHATTANOOGA, TN",
+  "state": "TN",
+  "latitude": 35.08677555,
+  "longitude": -85.2784299,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03568000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

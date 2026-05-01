@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06866000",
+  "key": "06866000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06866000",
+  "name": "SMOKY HILL R AT LINDSBORG, KS",
+  "waterbody": "SMOKY HILL R AT LINDSBORG, KS",
+  "state": "KS",
+  "latitude": 38.56380659,
+  "longitude": -97.6664947,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNSK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smoky Hill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnsk1",
+  "slug": "usgs-06866000",
+  "noaaForecastPath": "data/noaa-forecast/LNSK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03360500",
+  "key": "03360500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03360500",
+  "name": "WHITE RIVER AT NEWBERRY, IN",
+  "waterbody": "WHITE RIVER AT NEWBERRY, IN",
+  "state": "IN",
+  "latitude": 38.9281111,
+  "longitude": -87.0192778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWBI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwbi3",
+  "slug": "usgs-03360500",
+  "noaaForecastPath": "data/noaa-forecast/NWBI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

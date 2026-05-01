@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11222975",
+  "key": "11222975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11222975",
+  "name": "NF KINGS R A 24TH AVE BR NR LEMOORE CA",
+  "waterbody": "NF KINGS R A 24TH AVE BR NR LEMOORE CA",
+  "state": "CA",
+  "latitude": 36.3742611,
+  "longitude": -119.8872472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11222975",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

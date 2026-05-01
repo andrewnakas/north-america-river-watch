@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158840",
+  "key": "08158840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158840",
+  "name": "Slaughter Ck at FM 1826 nr Austin, TX",
+  "waterbody": "Slaughter Ck at FM 1826 nr Austin, TX",
+  "state": "TX",
+  "latitude": 30.20909967,
+  "longitude": -97.90336492,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Slaughter Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scat2",
+  "slug": "usgs-08158840",
+  "noaaForecastPath": "data/noaa-forecast/SCAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

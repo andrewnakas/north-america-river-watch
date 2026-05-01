@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09430010",
+  "key": "09430010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09430010",
+  "name": "WEST FORK GILA RIVER AT GILA CLIFF DWELLINGS, NM",
+  "waterbody": "WEST FORK GILA RIVER AT GILA CLIFF DWELLINGS, NM",
+  "state": "NM",
+  "latitude": 33.22919444,
+  "longitude": -108.26525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFGN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Gila River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfgn5",
+  "slug": "usgs-09430010",
+  "noaaForecastPath": "data/noaa-forecast/WFGN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:364700114080301",
+  "key": "364700114080301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "364700114080301",
+  "name": "VIRGIN RV NR BUNKERVILLE, NV",
+  "waterbody": "VIRGIN RV NR BUNKERVILLE, NV",
+  "state": "NV",
+  "latitude": 36.7833611,
+  "longitude": -114.1340806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-364700114080301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

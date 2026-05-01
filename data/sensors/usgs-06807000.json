@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06807000",
+  "key": "06807000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06807000",
+  "name": "Missouri River at Nebraska City, NE",
+  "waterbody": "Missouri River at Nebraska City, NE",
+  "state": "NE",
+  "latitude": 40.68180556,
+  "longitude": -95.8470833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nebn1",
+  "slug": "usgs-06807000",
+  "noaaForecastPath": "data/noaa-forecast/NEBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

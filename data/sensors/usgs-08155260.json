@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08155260",
+  "key": "08155260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08155260",
+  "name": "Barton Ck nr Camp Craft Rd nr Austin, TX",
+  "waterbody": "Barton Ck nr Camp Craft Rd nr Austin, TX",
+  "state": "TX",
+  "latitude": 30.2702072,
+  "longitude": -97.8288959,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08155260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

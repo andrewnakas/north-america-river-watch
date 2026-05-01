@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01654094",
+  "key": "01654094",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01654094",
+  "name": "LONG BRANCH NR PICKETT ROAD NR FAIRFAX, VA",
+  "waterbody": "LONG BRANCH NR PICKETT ROAD NR FAIRFAX, VA",
+  "state": "VA",
+  "latitude": 38.8258222,
+  "longitude": -77.272875,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01654094",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

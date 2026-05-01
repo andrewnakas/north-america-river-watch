@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16846000",
+  "key": "16846000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16846000",
+  "name": "Tolaeyuus River at mouth near Agat, Guam",
+  "waterbody": "Tolaeyuus River at mouth near Agat, Guam",
+  "state": "GU",
+  "latitude": 13.35980556,
+  "longitude": 144.7108889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16846000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01013500",
+  "key": "01013500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01013500",
+  "name": "Fish River near Fort Kent, Maine",
+  "waterbody": "Fish River near Fort Kent, Maine",
+  "state": "ME",
+  "latitude": 47.2375,
+  "longitude": -68.58277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FIHM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fish River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fihm1",
+  "slug": "usgs-01013500",
+  "noaaForecastPath": "data/noaa-forecast/FIHM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

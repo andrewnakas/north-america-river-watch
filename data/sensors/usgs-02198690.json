@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02198690",
+  "key": "02198690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02198690",
+  "name": "EBENEZER CREEK AT SPRINGFIELD, GA",
+  "waterbody": "EBENEZER CREEK AT SPRINGFIELD, GA",
+  "state": "GA",
+  "latitude": 32.36577778,
+  "longitude": -81.2970833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBZG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ebenezer Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebzg1",
+  "slug": "usgs-02198690",
+  "noaaForecastPath": "data/noaa-forecast/EBZG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

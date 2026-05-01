@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209399200",
+  "key": "0209399200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209399200",
+  "name": "HORSEPEN CREEK AT US 220 NR GREENSBORO, NC",
+  "waterbody": "HORSEPEN CREEK AT US 220 NR GREENSBORO, NC",
+  "state": "NC",
+  "latitude": 36.13777778,
+  "longitude": -79.86,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HPNN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Horsepen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hpnn7",
+  "slug": "usgs-0209399200",
+  "noaaForecastPath": "data/noaa-forecast/HPNN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

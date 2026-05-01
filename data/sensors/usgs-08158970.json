@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158970",
+  "key": "08158970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158970",
+  "name": "Williamson Ck at Jimmy Clay Rd, Austin, TX",
+  "waterbody": "Williamson Ck at Jimmy Clay Rd, Austin, TX",
+  "state": "TX",
+  "latitude": 30.189378,
+  "longitude": -97.732504,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WJCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williamson Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wjct2",
+  "slug": "usgs-08158970",
+  "noaaForecastPath": "data/noaa-forecast/WJCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

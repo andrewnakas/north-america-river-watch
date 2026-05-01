@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07116500",
+  "key": "07116500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07116500",
+  "name": "HUERFANO RIVER NEAR BOONE, CO.",
+  "waterbody": "HUERFANO RIVER NEAR BOONE, CO.",
+  "state": "CO",
+  "latitude": 38.2250024,
+  "longitude": -104.2607996,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07116500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

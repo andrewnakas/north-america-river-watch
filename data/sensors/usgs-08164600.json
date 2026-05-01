@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08164600",
+  "key": "08164600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164600",
+  "name": "Garcitas Ck nr Inez, TX",
+  "waterbody": "Garcitas Ck nr Inez, TX",
+  "state": "TX",
+  "latitude": 28.8913759,
+  "longitude": -96.8191486,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NGCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Garcitas Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ngct2",
+  "slug": "usgs-08164600",
+  "noaaForecastPath": "data/noaa-forecast/NGCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

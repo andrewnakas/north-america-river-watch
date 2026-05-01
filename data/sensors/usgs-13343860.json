@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13343860",
+  "key": "13343860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13343860",
+  "name": "SNAKE RIVER BELOW LITTLE GOOSE DAM, WA",
+  "waterbody": "SNAKE RIVER BELOW LITTLE GOOSE DAM, WA",
+  "state": "WA",
+  "latitude": 46.5830522,
+  "longitude": -118.0430329,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGSW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River (WA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgsw1",
+  "slug": "usgs-13343860",
+  "noaaForecastPath": "data/noaa-forecast/LGSW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

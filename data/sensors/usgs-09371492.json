@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09371492",
+  "key": "09371492",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09371492",
+  "name": "MUD CREEK AT STATE HIGHWAY 32, NEAR CORTEZ, CO.",
+  "waterbody": "MUD CREEK AT STATE HIGHWAY 32, NEAR CORTEZ, CO.",
+  "state": "CO",
+  "latitude": 37.31277555,
+  "longitude": -108.66121496,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09371492",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

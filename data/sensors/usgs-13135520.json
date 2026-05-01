@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13135520",
+  "key": "13135520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13135520",
+  "name": "NF BIG WOOD RIVER NR SAWTOOTH NRA HQ NR KETCHUM ID",
+  "waterbody": "NF BIG WOOD RIVER NR SAWTOOTH NRA HQ NR KETCHUM ID",
+  "state": "ID",
+  "latitude": 43.7861111,
+  "longitude": -114.4191667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFBI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Big Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfbi1",
+  "slug": "usgs-13135520",
+  "noaaForecastPath": "data/noaa-forecast/NFBI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

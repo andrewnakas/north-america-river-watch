@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02471078",
+  "key": "02471078",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02471078",
+  "name": "FOWL RIVER AT HALF-MILE RD NEAR LAURENDINE, AL.",
+  "waterbody": "FOWL RIVER AT HALF-MILE RD NEAR LAURENDINE, AL.",
+  "state": "AL",
+  "latitude": 30.50075106,
+  "longitude": -88.1813906,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLWA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fowl River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flwa1",
+  "slug": "usgs-02471078",
+  "noaaForecastPath": "data/noaa-forecast/FLWA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

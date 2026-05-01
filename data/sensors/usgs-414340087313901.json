@@ -1,0 +1,22 @@
+{
+  "id": "usgs:414340087313901",
+  "key": "414340087313901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "414340087313901",
+  "name": "CALUMET HARBOR DISPOSAL FACILITY AT CHICAGO, IL",
+  "waterbody": "CALUMET HARBOR DISPOSAL FACILITY AT CHICAGO, IL",
+  "state": "IL",
+  "latitude": 41.7247575,
+  "longitude": -87.5253225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMTI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Michigan",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmti2",
+  "slug": "usgs-414340087313901",
+  "noaaForecastPath": "data/noaa-forecast/CMTI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

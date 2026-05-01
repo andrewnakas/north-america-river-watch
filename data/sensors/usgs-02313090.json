@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02313090",
+  "key": "02313090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02313090",
+  "name": "WITHLACOOCHEE RI AB BLUE RUN NR DUNNELLON FLA.",
+  "waterbody": "WITHLACOOCHEE RI AB BLUE RUN NR DUNNELLON FLA.",
+  "state": "FL",
+  "latitude": 29.04279722,
+  "longitude": -82.45714444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02313090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

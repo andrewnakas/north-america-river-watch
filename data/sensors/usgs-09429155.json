@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429155",
+  "key": "09429155",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429155",
+  "name": "PVID F-CANAL SPILL NEAR BLYTHE, CA",
+  "waterbody": "PVID F-CANAL SPILL NEAR BLYTHE, CA",
+  "state": "CA",
+  "latitude": 33.5748861,
+  "longitude": -114.546811,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429155",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

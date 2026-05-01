@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07144050",
+  "key": "07144050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144050",
+  "name": "EMMA C AT SEDGWICK, KS",
+  "waterbody": "EMMA C AT SEDGWICK, KS",
+  "state": "KS",
+  "latitude": 37.98516667,
+  "longitude": -97.4457333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEMK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Emma Creek (KS)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/semk1",
+  "slug": "usgs-07144050",
+  "noaaForecastPath": "data/noaa-forecast/SEMK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

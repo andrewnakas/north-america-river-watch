@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03284555",
+  "key": "03284555",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03284555",
+  "name": "WEST HICKMAN CR @ ASH GROVE PK NR EAST HICKMAN, KY",
+  "waterbody": "WEST HICKMAN CR @ ASH GROVE PK NR EAST HICKMAN, KY",
+  "state": "KY",
+  "latitude": 37.93452286,
+  "longitude": -84.5021604,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03284555",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

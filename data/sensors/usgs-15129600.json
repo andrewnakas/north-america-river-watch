@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15129600",
+  "key": "15129600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15129600",
+  "name": "OPHIR C NR YAKUTAT AK",
+  "waterbody": "OPHIR C NR YAKUTAT AK",
+  "state": "AK",
+  "latitude": 59.52344726,
+  "longitude": -139.74548844,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15129600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

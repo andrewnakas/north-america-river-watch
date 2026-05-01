@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010048",
+  "key": "07010048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010048",
+  "name": "Deer Creek at Clayton Rd, near Ladue",
+  "waterbody": "Deer Creek at Clayton Rd, near Ladue",
+  "state": "MO",
+  "latitude": 38.63627778,
+  "longitude": -90.3948056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010048",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

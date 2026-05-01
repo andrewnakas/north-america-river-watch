@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05527900",
+  "key": "05527900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05527900",
+  "name": "NORTH MILL CREEK AT HICKORY CORNERS, IL",
+  "waterbody": "NORTH MILL CREEK AT HICKORY CORNERS, IL",
+  "state": "IL",
+  "latitude": 42.4658333,
+  "longitude": -88.0091667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05527900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

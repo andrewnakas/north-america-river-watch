@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12453679",
+  "key": "12453679",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12453679",
+  "name": "ROCKY REACH HW UNIT 10W NEAR WENATCHEE, WA",
+  "waterbody": "ROCKY REACH HW UNIT 10W NEAR WENATCHEE, WA",
+  "state": "WA",
+  "latitude": 47.5331479,
+  "longitude": -120.3011571,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRHW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Columbia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrhw1",
+  "slug": "usgs-12453679",
+  "noaaForecastPath": "data/noaa-forecast/RRHW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03081000",
+  "key": "03081000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03081000",
+  "name": "Youghiogheny River below Confluence, PA",
+  "waterbody": "Youghiogheny River below Confluence, PA",
+  "state": "PA",
+  "latitude": 39.8275767,
+  "longitude": -79.3725353,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNFP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Youghiogheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnfp1",
+  "slug": "usgs-03081000",
+  "noaaForecastPath": "data/noaa-forecast/CNFP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

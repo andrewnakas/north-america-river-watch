@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08128000",
+  "key": "08128000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08128000",
+  "name": "S Concho Rv at Christoval, TX",
+  "waterbody": "S Concho Rv at Christoval, TX",
+  "state": "TX",
+  "latitude": 31.18711186,
+  "longitude": -100.5020388,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Concho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chvt2",
+  "slug": "usgs-08128000",
+  "noaaForecastPath": "data/noaa-forecast/CHVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

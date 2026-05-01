@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08447410",
+  "key": "08447410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08447410",
+  "name": "Pecos Rv nr Langtry, TX",
+  "waterbody": "Pecos Rv nr Langtry, TX",
+  "state": "TX",
+  "latitude": 29.8029823,
+  "longitude": -101.4462223,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltrt2",
+  "slug": "usgs-08447410",
+  "noaaForecastPath": "data/noaa-forecast/LTRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

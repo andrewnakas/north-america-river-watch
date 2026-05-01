@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312600",
+  "key": "02312600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312600",
+  "name": "WITHLACOOCHEE RIVER NEAR FLORAL CITY, FL",
+  "waterbody": "WITHLACOOCHEE RIVER NEAR FLORAL CITY, FL",
+  "state": "FL",
+  "latitude": 28.74359973,
+  "longitude": -82.2200892,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wflf1",
+  "slug": "usgs-02312600",
+  "noaaForecastPath": "data/noaa-forecast/WFLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

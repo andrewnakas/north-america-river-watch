@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298530",
+  "key": "02298530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298530",
+  "name": "COKER CREEK NEAR MYAKKA CITY FL",
+  "waterbody": "COKER CREEK NEAR MYAKKA CITY FL",
+  "state": "FL",
+  "latitude": 27.4097648,
+  "longitude": -82.1750893,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CKKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coker Creek Near Myakka City",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ckkf1",
+  "slug": "usgs-02298530",
+  "noaaForecastPath": "data/noaa-forecast/CKKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

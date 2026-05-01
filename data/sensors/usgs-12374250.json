@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12374250",
+  "key": "12374250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12374250",
+  "name": "Mill Cr ab Bassoo Cr nr Niarada MT",
+  "waterbody": "Mill Cr ab Bassoo Cr nr Niarada MT",
+  "state": "MT",
+  "latitude": 47.82982778,
+  "longitude": -114.6978333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12374250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

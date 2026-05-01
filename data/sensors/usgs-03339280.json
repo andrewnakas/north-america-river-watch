@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03339280",
+  "key": "03339280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03339280",
+  "name": "PRAIRIE CREEK NEAR LEBANON, IN",
+  "waterbody": "PRAIRIE CREEK NEAR LEBANON, IN",
+  "state": "IN",
+  "latitude": 40.1044759,
+  "longitude": -86.5227576,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Praire Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcli3",
+  "slug": "usgs-03339280",
+  "noaaForecastPath": "data/noaa-forecast/PCLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

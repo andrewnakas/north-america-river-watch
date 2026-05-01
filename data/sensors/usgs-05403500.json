@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05403500",
+  "key": "05403500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05403500",
+  "name": "LEMONWEIR RIVER AT NEW LISBON, WI",
+  "waterbody": "LEMONWEIR RIVER AT NEW LISBON, WI",
+  "state": "WI",
+  "latitude": 43.8797222,
+  "longitude": -90.1619444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NLSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lemonweir River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nlsw3",
+  "slug": "usgs-05403500",
+  "noaaForecastPath": "data/noaa-forecast/NLSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

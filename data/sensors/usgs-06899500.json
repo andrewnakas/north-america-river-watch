@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06899500",
+  "key": "06899500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06899500",
+  "name": "Thompson River at Trenton, MO",
+  "waterbody": "Thompson River at Trenton, MO",
+  "state": "MO",
+  "latitude": 40.06930556,
+  "longitude": -93.6380278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TTZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thompson River (IA/MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ttzm7",
+  "slug": "usgs-06899500",
+  "noaaForecastPath": "data/noaa-forecast/TTZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

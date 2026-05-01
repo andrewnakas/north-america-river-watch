@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09310000",
+  "key": "09310000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09310000",
+  "name": "GOOSEBERRY CREEK NEAR SCOFIELD, UT",
+  "waterbody": "GOOSEBERRY CREEK NEAR SCOFIELD, UT",
+  "state": "UT",
+  "latitude": 39.7157951,
+  "longitude": -111.3001788,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09310000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

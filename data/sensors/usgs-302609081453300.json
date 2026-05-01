@@ -1,0 +1,19 @@
+{
+  "id": "usgs:302609081453300",
+  "key": "302609081453300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "302609081453300",
+  "name": "TROUT RIVER BL US 1 AT DINSMORE, FL",
+  "waterbody": "TROUT RIVER BL US 1 AT DINSMORE, FL",
+  "state": "FL",
+  "latitude": 30.43585,
+  "longitude": -81.7592,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-302609081453300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

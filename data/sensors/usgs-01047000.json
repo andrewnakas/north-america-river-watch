@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01047000",
+  "key": "01047000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01047000",
+  "name": "Carrabassett River near North Anson, Maine",
+  "waterbody": "Carrabassett River near North Anson, Maine",
+  "state": "ME",
+  "latitude": 44.86916667,
+  "longitude": -69.955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NANM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carrabassett River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nanm1",
+  "slug": "usgs-01047000",
+  "noaaForecastPath": "data/noaa-forecast/NANM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

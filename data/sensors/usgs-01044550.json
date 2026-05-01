@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01044550",
+  "key": "01044550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01044550",
+  "name": "Spencer Stream near Grand Falls, Maine",
+  "waterbody": "Spencer Stream near Grand Falls, Maine",
+  "state": "ME",
+  "latitude": 45.3136111,
+  "longitude": -70.2416667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01044550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

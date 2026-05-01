@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01578475",
+  "key": "01578475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01578475",
+  "name": "Octoraro Creek near Richardsmere, MD",
+  "waterbody": "Octoraro Creek near Richardsmere, MD",
+  "state": "MD",
+  "latitude": 39.7067746,
+  "longitude": -76.1152286,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RICM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Octoraro Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ricm2",
+  "slug": "usgs-01578475",
+  "noaaForecastPath": "data/noaa-forecast/RICM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

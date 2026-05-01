@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05594100",
+  "key": "05594100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05594100",
+  "name": "KASKASKIA RIVER NEAR VENEDY STATION, IL",
+  "waterbody": "KASKASKIA RIVER NEAR VENEDY STATION, IL",
+  "state": "IL",
+  "latitude": 38.45055556,
+  "longitude": -89.6275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05594100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

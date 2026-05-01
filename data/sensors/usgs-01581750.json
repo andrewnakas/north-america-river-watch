@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581750",
+  "key": "01581750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581750",
+  "name": "WINTERS RUN NEAR BEL AIR, MD",
+  "waterbody": "WINTERS RUN NEAR BEL AIR, MD",
+  "state": "MD",
+  "latitude": 39.51552778,
+  "longitude": -76.3688333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRBM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winters Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrbm2",
+  "slug": "usgs-01581750",
+  "noaaForecastPath": "data/noaa-forecast/WRBM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

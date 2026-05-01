@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16682000",
+  "key": "16682000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16682000",
+  "name": "Kaulana Gulch at alt. 100 ft, Kahoolawe, HI",
+  "waterbody": "Kaulana Gulch at alt. 100 ft, Kahoolawe, HI",
+  "state": "HI",
+  "latitude": 20.59027778,
+  "longitude": -156.5972222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16682000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

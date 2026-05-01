@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02342850",
+  "key": "02342850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02342850",
+  "name": "HANNAHATCHEE CREEK AT UNION ROAD, AT UNION, GA",
+  "waterbody": "HANNAHATCHEE CREEK AT UNION ROAD, AT UNION, GA",
+  "state": "GA",
+  "latitude": 32.1527222,
+  "longitude": -84.9059167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UNIG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hannahatchee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/unig1",
+  "slug": "usgs-02342850",
+  "noaaForecastPath": "data/noaa-forecast/UNIG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

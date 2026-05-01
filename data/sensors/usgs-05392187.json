@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05392187",
+  "key": "05392187",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05392187",
+  "name": "Tower Creek at Lac du Flambeau, WI",
+  "waterbody": "Tower Creek at Lac du Flambeau, WI",
+  "state": "WI",
+  "latitude": 45.9144444,
+  "longitude": -89.9213889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05392187",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

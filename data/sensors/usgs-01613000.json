@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01613000",
+  "key": "01613000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01613000",
+  "name": "POTOMAC RIVER AT HANCOCK, MD",
+  "waterbody": "POTOMAC RIVER AT HANCOCK, MD",
+  "state": "MD",
+  "latitude": 39.69755556,
+  "longitude": -78.17788889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnkm2",
+  "slug": "usgs-01613000",
+  "noaaForecastPath": "data/noaa-forecast/HNKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

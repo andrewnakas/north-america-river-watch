@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04087142",
+  "key": "04087142",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087142",
+  "name": "MENOMONEE RIVER AT 16TH STREET AT MILWAUKEE, WI",
+  "waterbody": "MENOMONEE RIVER AT 16TH STREET AT MILWAUKEE, WI",
+  "state": "WI",
+  "latitude": 43.03389487,
+  "longitude": -87.934194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04087142",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

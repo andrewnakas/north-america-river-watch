@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05448000",
+  "key": "05448000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05448000",
+  "name": "MILL CREEK AT MILAN, IL",
+  "waterbody": "MILL CREEK AT MILAN, IL",
+  "state": "IL",
+  "latitude": 41.44241667,
+  "longitude": -90.5555278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLNI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlni2",
+  "slug": "usgs-05448000",
+  "noaaForecastPath": "data/noaa-forecast/MLNI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

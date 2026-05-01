@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05551000",
+  "key": "05551000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05551000",
+  "name": "FOX RIVER AT SOUTH ELGIN, IL",
+  "waterbody": "FOX RIVER AT SOUTH ELGIN, IL",
+  "state": "IL",
+  "latitude": 41.9961861,
+  "longitude": -88.2949972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SELI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seli2",
+  "slug": "usgs-05551000",
+  "noaaForecastPath": "data/noaa-forecast/SELI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

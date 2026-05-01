@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13139500",
+  "key": "13139500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13139500",
+  "name": "BIG WOOD RIVER AT HAILEY ID",
+  "waterbody": "BIG WOOD RIVER AT HAILEY ID",
+  "state": "ID",
+  "latitude": 43.5172222,
+  "longitude": -114.3216667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HALI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hali1",
+  "slug": "usgs-13139500",
+  "noaaForecastPath": "data/noaa-forecast/HALI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

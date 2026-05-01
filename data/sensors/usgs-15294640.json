@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15294640",
+  "key": "15294640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15294640",
+  "name": "LAKE FORK CRESCENT R NR TUXEDNI BAY AK",
+  "waterbody": "LAKE FORK CRESCENT R NR TUXEDNI BAY AK",
+  "state": "AK",
+  "latitude": 60.3580556,
+  "longitude": -152.818611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15294640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

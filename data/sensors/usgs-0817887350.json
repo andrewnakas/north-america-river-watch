@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0817887350",
+  "key": "0817887350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0817887350",
+  "name": "Medina Rv at Patterson Rd at Medina, TX",
+  "waterbody": "Medina Rv at Patterson Rd at Medina, TX",
+  "state": "TX",
+  "latitude": 29.79389167,
+  "longitude": -99.2485944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MERT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medina River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mert2",
+  "slug": "usgs-0817887350",
+  "noaaForecastPath": "data/noaa-forecast/MERT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

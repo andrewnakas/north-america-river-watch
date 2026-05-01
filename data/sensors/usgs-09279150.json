@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09279150",
+  "key": "09279150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09279150",
+  "name": "DUCHESNE RIV ABV KNIGHT DIVERSION, NR DUCHESNE, UT",
+  "waterbody": "DUCHESNE RIV ABV KNIGHT DIVERSION, NR DUCHESNE, UT",
+  "state": "UT",
+  "latitude": 40.27051046,
+  "longitude": -110.4426567,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09279150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

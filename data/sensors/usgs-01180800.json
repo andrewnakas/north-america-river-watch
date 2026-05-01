@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01180800",
+  "key": "01180800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01180800",
+  "name": "WALKER BROOK NEAR BECKET CENTER, MA",
+  "waterbody": "WALKER BROOK NEAR BECKET CENTER, MA",
+  "state": "MA",
+  "latitude": 42.26359308,
+  "longitude": -73.04619395,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01180800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

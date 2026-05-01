@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214266080",
+  "key": "0214266080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214266080",
+  "name": "GAR CREEK AT SR2074 NR CROFT, NC",
+  "waterbody": "GAR CREEK AT SR2074 NR CROFT, NC",
+  "state": "NC",
+  "latitude": 35.36138889,
+  "longitude": -80.8975,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crfn7",
+  "slug": "usgs-0214266080",
+  "noaaForecastPath": "data/noaa-forecast/CRFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

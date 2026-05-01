@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06911500",
+  "key": "06911500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06911500",
+  "name": "SALT C NR LYNDON, KS",
+  "waterbody": "SALT C NR LYNDON, KS",
+  "state": "KS",
+  "latitude": 38.60889886,
+  "longitude": -95.6383168,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06911500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

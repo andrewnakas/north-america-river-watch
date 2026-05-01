@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06837300",
+  "key": "06837300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06837300",
+  "name": "RED WILLOW CREEK ABOVE HUGH BUTLER LAKE, NEBR.",
+  "waterbody": "RED WILLOW CREEK ABOVE HUGH BUTLER LAKE, NEBR.",
+  "state": "NE",
+  "latitude": 40.40139476,
+  "longitude": -100.7837665,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06837300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

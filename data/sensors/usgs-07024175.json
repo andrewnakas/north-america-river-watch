@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07024175",
+  "key": "07024175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07024175",
+  "name": "Mississippi River at New Madrid, MO",
+  "waterbody": "Mississippi River at New Madrid, MO",
+  "state": "MO",
+  "latitude": 36.5826111,
+  "longitude": -89.5479167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmdm7",
+  "slug": "usgs-07024175",
+  "noaaForecastPath": "data/noaa-forecast/NMDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

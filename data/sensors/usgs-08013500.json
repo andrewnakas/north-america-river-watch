@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08013500",
+  "key": "08013500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08013500",
+  "name": "Calcasieu River near Oberlin, LA",
+  "waterbody": "Calcasieu River near Oberlin, LA",
+  "state": "LA",
+  "latitude": 30.6404757,
+  "longitude": -92.8140368,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OBCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calcasieu River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/obcl1",
+  "slug": "usgs-08013500",
+  "noaaForecastPath": "data/noaa-forecast/OBCL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

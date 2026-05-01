@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415250",
+  "key": "09415250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415250",
+  "name": "VIRGIN RV ABV LAKE MEAD NR OVERTON, NV",
+  "waterbody": "VIRGIN RV ABV LAKE MEAD NR OVERTON, NV",
+  "state": "NV",
+  "latitude": 36.51325,
+  "longitude": -114.3359806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

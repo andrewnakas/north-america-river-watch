@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02338660",
+  "key": "02338660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02338660",
+  "name": "NEW RIVER AT GA 100, NEAR CORINTH, GA",
+  "waterbody": "NEW RIVER AT GA 100, NEAR CORINTH, GA",
+  "state": "GA",
+  "latitude": 33.2357222,
+  "longitude": -84.9875556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRVG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrvg1",
+  "slug": "usgs-02338660",
+  "noaaForecastPath": "data/noaa-forecast/NRVG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

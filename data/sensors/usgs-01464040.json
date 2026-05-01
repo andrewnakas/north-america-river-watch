@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01464040",
+  "key": "01464040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01464040",
+  "name": "Delaware River at Marine Terminal at Trenton NJ",
+  "waterbody": "Delaware River at Marine Terminal at Trenton NJ",
+  "state": "NJ",
+  "latitude": 40.18916667,
+  "longitude": -74.7558333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01464040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

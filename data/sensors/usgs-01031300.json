@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01031300",
+  "key": "01031300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01031300",
+  "name": "Piscataquis River at Blanchard, Maine",
+  "waterbody": "Piscataquis River at Blanchard, Maine",
+  "state": "ME",
+  "latitude": 45.2672222,
+  "longitude": -69.58388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLAM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piscataquis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blam1",
+  "slug": "usgs-01031300",
+  "noaaForecastPath": "data/noaa-forecast/BLAM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

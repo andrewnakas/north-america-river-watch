@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11042000",
+  "key": "11042000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11042000",
+  "name": "SAN LUIS REY R A OCEANSIDE CA",
+  "waterbody": "SAN LUIS REY R A OCEANSIDE CA",
+  "state": "CA",
+  "latitude": 33.21809135,
+  "longitude": -117.3603045,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLOC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Luis Rey River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sloc1",
+  "slug": "usgs-11042000",
+  "noaaForecastPath": "data/noaa-forecast/SLOC1.json",
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

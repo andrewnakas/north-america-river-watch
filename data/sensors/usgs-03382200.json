@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03382200",
+  "key": "03382200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03382200",
+  "name": "MIDDLE FORK SALINE RIVER NEAR HARRISBURG, IL",
+  "waterbody": "MIDDLE FORK SALINE RIVER NEAR HARRISBURG, IL",
+  "state": "IL",
+  "latitude": 37.73805556,
+  "longitude": -88.50138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRBI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Saline River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrbi2",
+  "slug": "usgs-03382200",
+  "noaaForecastPath": "data/noaa-forecast/HRBI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

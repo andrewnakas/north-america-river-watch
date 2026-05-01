@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01327500",
+  "key": "01327500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01327500",
+  "name": "GLENS FALLS FEEDER AT DUNHAM BASIN NY",
+  "waterbody": "GLENS FALLS FEEDER AT DUNHAM BASIN NY",
+  "state": "NY",
+  "latitude": 43.303778,
+  "longitude": -73.547306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01327500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

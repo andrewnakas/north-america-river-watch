@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06470425",
+  "key": "06470425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06470425",
+  "name": "JAMES RIVER ON STATE HIGHWAY 46 NEAR ADRIAN, ND",
+  "waterbody": "JAMES RIVER ON STATE HIGHWAY 46 NEAR ADRIAN, ND",
+  "state": "ND",
+  "latitude": 46.6291309,
+  "longitude": -98.5723572,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06470425",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

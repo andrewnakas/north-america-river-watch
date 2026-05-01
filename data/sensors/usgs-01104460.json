@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104460",
+  "key": "01104460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104460",
+  "name": "STONY BROOK AT RT 20 AT WALTHAM, MA",
+  "waterbody": "STONY BROOK AT RT 20 AT WALTHAM, MA",
+  "state": "MA",
+  "latitude": 42.368985,
+  "longitude": -71.2706123,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104460",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

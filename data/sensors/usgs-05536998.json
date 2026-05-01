@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05536998",
+  "key": "05536998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536998",
+  "name": "CHICAGO SS CANAL AT LOCKPORT CONTROLLING WORKS, IL",
+  "waterbody": "CHICAGO SS CANAL AT LOCKPORT CONTROLLING WORKS, IL",
+  "state": "IL",
+  "latitude": 41.5975,
+  "longitude": -88.0661111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05536998",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03451200",
+  "key": "03451200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03451200",
+  "name": "FRENCH BROAD RIVER AT HAYWOOD RD AT ASHEVILLE, NC",
+  "waterbody": "FRENCH BROAD RIVER AT HAYWOOD RD AT ASHEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.585,
+  "longitude": -82.5686111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03451200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

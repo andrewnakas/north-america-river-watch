@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02328522",
+  "key": "02328522",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02328522",
+  "name": "OCHLOCKONEE RIVER NR CONCORD, FLA.",
+  "waterbody": "OCHLOCKONEE RIVER NR CONCORD, FLA.",
+  "state": "FL",
+  "latitude": 30.6690846,
+  "longitude": -84.3051807,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CONF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ochlockonee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/conf1",
+  "slug": "usgs-02328522",
+  "noaaForecastPath": "data/noaa-forecast/CONF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

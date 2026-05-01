@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08030800",
+  "key": "08030800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08030800",
+  "name": "Adams Bayou at SH87 nr Orange, TX",
+  "waterbody": "Adams Bayou at SH87 nr Orange, TX",
+  "state": "TX",
+  "latitude": 30.09347778,
+  "longitude": -93.7497889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Adams Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/admt2",
+  "slug": "usgs-08030800",
+  "noaaForecastPath": "data/noaa-forecast/ADMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

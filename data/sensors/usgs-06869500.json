@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06869500",
+  "key": "06869500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06869500",
+  "name": "SALINE R AT TESCOTT, KS",
+  "waterbody": "SALINE R AT TESCOTT, KS",
+  "state": "KS",
+  "latitude": 39.0037861,
+  "longitude": -97.8733944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tsck1",
+  "slug": "usgs-06869500",
+  "noaaForecastPath": "data/noaa-forecast/TSCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

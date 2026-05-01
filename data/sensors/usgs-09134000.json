@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09134000",
+  "key": "09134000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09134000",
+  "name": "MINNESOTA CREEK NEAR PAONIA, CO.",
+  "waterbody": "MINNESOTA CREEK NEAR PAONIA, CO.",
+  "state": "CO",
+  "latitude": 38.8699892,
+  "longitude": -107.5042227,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09134000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

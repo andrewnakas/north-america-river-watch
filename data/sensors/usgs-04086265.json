@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04086265",
+  "key": "04086265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086265",
+  "name": "MILWAUKEE RIVER @ CNTY TRNK HGHWAY M NR NEWBURG,WI",
+  "waterbody": "MILWAUKEE RIVER @ CNTY TRNK HGHWAY M NR NEWBURG,WI",
+  "state": "WI",
+  "latitude": 43.4250004,
+  "longitude": -88.0809261,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04086265",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

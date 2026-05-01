@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02292780",
+  "key": "02292780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02292780",
+  "name": "TOWNSEND CANAL NEAR ALVA,FL",
+  "waterbody": "TOWNSEND CANAL NEAR ALVA,FL",
+  "state": "FL",
+  "latitude": 26.70775278,
+  "longitude": -81.5580361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Townsend Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcrf1",
+  "slug": "usgs-02292780",
+  "noaaForecastPath": "data/noaa-forecast/TCRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

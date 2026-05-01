@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01176780",
+  "key": "01176780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01176780",
+  "name": "TWELVEMILE BROOK NEAR NORTH WILBRAHAM, MA",
+  "waterbody": "TWELVEMILE BROOK NEAR NORTH WILBRAHAM, MA",
+  "state": "MA",
+  "latitude": 42.1478716,
+  "longitude": -72.399528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01176780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

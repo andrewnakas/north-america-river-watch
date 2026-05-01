@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11355500",
+  "key": "11355500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11355500",
+  "name": "HAT C NR HAT CREEK CA",
+  "waterbody": "HAT C NR HAT CREEK CA",
+  "state": "CA",
+  "latitude": 40.6891111,
+  "longitude": -121.4228056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11355500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15477768",
+  "key": "15477768",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15477768",
+  "name": "SONORA C AB TRIB NR BIG DELTA AK",
+  "waterbody": "SONORA C AB TRIB NR BIG DELTA AK",
+  "state": "AK",
+  "latitude": 64.3890668,
+  "longitude": -144.7801189,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15477768",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02203598",
+  "key": "02203598",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02203598",
+  "name": "DARIEN RIVER AT US 17, AT DARIEN, GA",
+  "waterbody": "DARIEN RIVER AT US 17, AT DARIEN, GA",
+  "state": "GA",
+  "latitude": 31.3674478,
+  "longitude": -81.4362126,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02203598",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

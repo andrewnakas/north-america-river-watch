@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09064000",
+  "key": "09064000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09064000",
+  "name": "HOMESTAKE CREEK AT GOLD PARK, CO.",
+  "waterbody": "HOMESTAKE CREEK AT GOLD PARK, CO.",
+  "state": "CO",
+  "latitude": 39.4055426,
+  "longitude": -106.433362,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09064000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

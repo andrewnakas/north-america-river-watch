@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01424998",
+  "key": "01424998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01424998",
+  "name": "CANNONSVILLE RES RELEASE CHANNEL NR STILESVILLE NY",
+  "waterbody": "CANNONSVILLE RES RELEASE CHANNEL NR STILESVILLE NY",
+  "state": "NY",
+  "latitude": 42.06220556,
+  "longitude": -75.37890278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Delaware River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnnn6",
+  "slug": "usgs-01424998",
+  "noaaForecastPath": "data/noaa-forecast/CNNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

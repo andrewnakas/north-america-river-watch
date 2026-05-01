@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01674500",
+  "key": "01674500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01674500",
+  "name": "MATTAPONI RIVER NEAR BEULAHVILLE, VA",
+  "waterbody": "MATTAPONI RIVER NEAR BEULAHVILLE, VA",
+  "state": "VA",
+  "latitude": 37.88388889,
+  "longitude": -77.16527778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLHV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mattaponi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blhv2",
+  "slug": "usgs-01674500",
+  "noaaForecastPath": "data/noaa-forecast/BLHV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

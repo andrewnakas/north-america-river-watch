@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02096960",
+  "key": "02096960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02096960",
+  "name": "HAW RIVER NEAR BYNUM, NC",
+  "waterbody": "HAW RIVER NEAR BYNUM, NC",
+  "state": "NC",
+  "latitude": 35.76527778,
+  "longitude": -79.1358333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYNN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Haw River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bynn7",
+  "slug": "usgs-02096960",
+  "noaaForecastPath": "data/noaa-forecast/BYNN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

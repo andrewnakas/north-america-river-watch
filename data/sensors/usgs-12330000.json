@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12330000",
+  "key": "12330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12330000",
+  "name": "Boulder Creek at Maxville MT",
+  "waterbody": "Boulder Creek at Maxville MT",
+  "state": "MT",
+  "latitude": 46.47165278,
+  "longitude": -113.2357694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMXM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boulder Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmxm8",
+  "slug": "usgs-12330000",
+  "noaaForecastPath": "data/noaa-forecast/BMXM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

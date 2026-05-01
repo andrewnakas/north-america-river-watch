@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04043244",
+  "key": "04043244",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043244",
+  "name": "EAST BRANCH SALMON TROUT RIVER NEAR DODGE CITY, MI",
+  "waterbody": "EAST BRANCH SALMON TROUT RIVER NEAR DODGE CITY, MI",
+  "state": "MI",
+  "latitude": 46.7857589,
+  "longitude": -87.8523522,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04043244",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

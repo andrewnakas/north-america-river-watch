@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05568000",
+  "key": "05568000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05568000",
+  "name": "MACKINAW RIVER NEAR GREEN VALLEY, IL",
+  "waterbody": "MACKINAW RIVER NEAR GREEN VALLEY, IL",
+  "state": "IL",
+  "latitude": 40.45466667,
+  "longitude": -89.6061667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNVI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mackinaw River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnvi2",
+  "slug": "usgs-05568000",
+  "noaaForecastPath": "data/noaa-forecast/GNVI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

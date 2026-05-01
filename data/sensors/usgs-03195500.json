@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03195500",
+  "key": "03195500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03195500",
+  "name": "ELK RIVER AT SUTTON, WV",
+  "waterbody": "ELK RIVER AT SUTTON, WV",
+  "state": "WV",
+  "latitude": 38.66315555,
+  "longitude": -80.7095413,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUTW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sutw2",
+  "slug": "usgs-03195500",
+  "noaaForecastPath": "data/noaa-forecast/SUTW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

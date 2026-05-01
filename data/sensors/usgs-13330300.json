@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13330300",
+  "key": "13330300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13330300",
+  "name": "LOSTINE RIVER AT BAKER ROAD, NEAR LOSTINE, OR",
+  "waterbody": "LOSTINE RIVER AT BAKER ROAD, NEAR LOSTINE, OR",
+  "state": "OR",
+  "latitude": 45.53777778,
+  "longitude": -117.48,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13330300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07312130",
+  "key": "07312130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07312130",
+  "name": "Wichita Rv at SH 25 nr Kamay, TX",
+  "waterbody": "Wichita Rv at SH 25 nr Kamay, TX",
+  "state": "TX",
+  "latitude": 33.86926267,
+  "longitude": -98.839231,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07312130",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

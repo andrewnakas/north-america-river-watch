@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03294600",
+  "key": "03294600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03294600",
+  "name": "OHIO RIVER AT KOSMOSDALE, KY",
+  "waterbody": "OHIO RIVER AT KOSMOSDALE, KY",
+  "state": "KY",
+  "latitude": 38.03478149,
+  "longitude": -85.9141277,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03294600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

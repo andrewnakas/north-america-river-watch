@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05592800",
+  "key": "05592800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05592800",
+  "name": "HURRICANE CREEK NEAR MULBERRY GROVE, IL",
+  "waterbody": "HURRICANE CREEK NEAR MULBERRY GROVE, IL",
+  "state": "IL",
+  "latitude": 38.9223333,
+  "longitude": -89.2366667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05592800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

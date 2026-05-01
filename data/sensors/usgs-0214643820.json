@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214643820",
+  "key": "0214643820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214643820",
+  "name": "EDWARDS BRANCH AT SHEFFIELD DR AT CHARLOTTE, NC",
+  "waterbody": "EDWARDS BRANCH AT SHEFFIELD DR AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.2033333,
+  "longitude": -80.7722222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Edwards Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebsn7",
+  "slug": "usgs-0214643820",
+  "noaaForecastPath": "data/noaa-forecast/EBSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

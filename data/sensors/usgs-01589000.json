@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589000",
+  "key": "01589000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589000",
+  "name": "PATAPSCO RIVER AT HOLLOFIELD, MD",
+  "waterbody": "PATAPSCO RIVER AT HOLLOFIELD, MD",
+  "state": "MD",
+  "latitude": 39.31030556,
+  "longitude": -76.79241667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRHM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patapsco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prhm2",
+  "slug": "usgs-01589000",
+  "noaaForecastPath": "data/noaa-forecast/PRHM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

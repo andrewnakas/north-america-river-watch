@@ -1,0 +1,22 @@
+{
+  "id": "usgs:443409068471801",
+  "key": "443409068471801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "443409068471801",
+  "name": "Penobscot River at Bucksport, Maine",
+  "waterbody": "Penobscot River at Bucksport, Maine",
+  "state": "ME",
+  "latitude": 44.56912778,
+  "longitude": -68.7883472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKPM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bucksport Tidal Gage (MLLW)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkpm1",
+  "slug": "usgs-443409068471801",
+  "noaaForecastPath": "data/noaa-forecast/BKPM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

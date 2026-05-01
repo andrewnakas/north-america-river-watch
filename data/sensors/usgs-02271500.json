@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02271500",
+  "key": "02271500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02271500",
+  "name": "JOSEPHINE CREEK NEAR DE SOTO CITY FL",
+  "waterbody": "JOSEPHINE CREEK NEAR DE SOTO CITY FL",
+  "state": "FL",
+  "latitude": 27.3742078,
+  "longitude": -81.3934062,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DESF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Josephine Creek Near DeSoto City",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/desf1",
+  "slug": "usgs-02271500",
+  "noaaForecastPath": "data/noaa-forecast/DESF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

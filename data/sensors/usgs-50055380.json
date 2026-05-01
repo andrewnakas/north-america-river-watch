@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50055380",
+  "key": "50055380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50055380",
+  "name": "RIO BAIROA ABV BAIROA, CAGUAS, PR",
+  "waterbody": "RIO BAIROA ABV BAIROA, CAGUAS, PR",
+  "state": "PR",
+  "latitude": 18.258289,
+  "longitude": -66.044292,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CABP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Bairoa",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cabp4",
+  "slug": "usgs-50055380",
+  "noaaForecastPath": "data/noaa-forecast/CABP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

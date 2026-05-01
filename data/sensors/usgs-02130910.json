@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02130910",
+  "key": "02130910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02130910",
+  "name": "BLACK CREEK NEAR HARTSVILLE, SC",
+  "waterbody": "BLACK CREEK NEAR HARTSVILLE, SC",
+  "state": "SC",
+  "latitude": 34.39737618,
+  "longitude": -80.149791,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTSS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Creek (SC)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htss1",
+  "slug": "usgs-02130910",
+  "noaaForecastPath": "data/noaa-forecast/HTSS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

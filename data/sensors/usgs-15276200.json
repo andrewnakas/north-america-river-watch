@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15276200",
+  "key": "15276200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15276200",
+  "name": "SHIP C AT GLENN HWY NR ANCHORAGE AK",
+  "waterbody": "SHIP C AT GLENN HWY NR ANCHORAGE AK",
+  "state": "AK",
+  "latitude": 61.23834008,
+  "longitude": -149.6980353,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15276200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

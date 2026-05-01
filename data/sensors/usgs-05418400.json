@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05418400",
+  "key": "05418400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05418400",
+  "name": "North Fork Maquoketa River near Fulton, IA",
+  "waterbody": "North Fork Maquoketa River near Fulton, IA",
+  "state": "IA",
+  "latitude": 42.1643333,
+  "longitude": -90.7293333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLNI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Maquoketa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flni4",
+  "slug": "usgs-05418400",
+  "noaaForecastPath": "data/noaa-forecast/FLNI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01480065",
+  "key": "01480065",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480065",
+  "name": "CHRISTINA RIVER AT NEWPORT, DE",
+  "waterbody": "CHRISTINA RIVER AT NEWPORT, DE",
+  "state": "DE",
+  "latitude": 39.71063889,
+  "longitude": -75.6087222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NPTD1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Christina River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nptd1",
+  "slug": "usgs-01480065",
+  "noaaForecastPath": "data/noaa-forecast/NPTD1.json",
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05325000",
+  "key": "05325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05325000",
+  "name": "MINNESOTA RIVER AT MANKATO, MN",
+  "waterbody": "MINNESOTA RIVER AT MANKATO, MN",
+  "state": "MN",
+  "latitude": 44.17002549,
+  "longitude": -94.0023121,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNKM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnesota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnkm5",
+  "slug": "usgs-05325000",
+  "noaaForecastPath": "data/noaa-forecast/MNKM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

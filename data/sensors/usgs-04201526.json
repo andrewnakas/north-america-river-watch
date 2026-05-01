@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04201526",
+  "key": "04201526",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04201526",
+  "name": "Abram Creek at Kolthoff Drive at Brook Park OH",
+  "waterbody": "Abram Creek at Kolthoff Drive at Brook Park OH",
+  "state": "OH",
+  "latitude": 41.39305556,
+  "longitude": -81.8502778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04201526",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

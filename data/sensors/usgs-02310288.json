@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310288",
+  "key": "02310288",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310288",
+  "name": "PITHLACHASCOTEE R BL SUNCOAST PKWY NR FIVAY JCT FL",
+  "waterbody": "PITHLACHASCOTEE R BL SUNCOAST PKWY NR FIVAY JCT FL",
+  "state": "FL",
+  "latitude": 28.29488889,
+  "longitude": -82.57283333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PODF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pithlachascotee River Below Suncoast Pkwy Near Fivay Jct",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/podf1",
+  "slug": "usgs-02310288",
+  "noaaForecastPath": "data/noaa-forecast/PODF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03544600",
+  "key": "03544600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03544600",
+  "name": "Richland Creek at Dayton, TN",
+  "waterbody": "Richland Creek at Dayton, TN",
+  "state": "TN",
+  "latitude": 35.49051667,
+  "longitude": -85.0160111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03544600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

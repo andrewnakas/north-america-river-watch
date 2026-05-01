@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12513000",
+  "key": "12513000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12513000",
+  "name": "ESQUATZEL COULEE AT CONNELL, WA",
+  "waterbody": "ESQUATZEL COULEE AT CONNELL, WA",
+  "state": "WA",
+  "latitude": 46.66347327,
+  "longitude": -118.863334,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12513000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02272502",
+  "key": "02272502",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02272502",
+  "name": "KISSIMMEE RIVER AT LOCKETT EST AT FORT BASINGER FL",
+  "waterbody": "KISSIMMEE RIVER AT LOCKETT EST AT FORT BASINGER FL",
+  "state": "FL",
+  "latitude": 27.3625,
+  "longitude": -81.0508333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02272502",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

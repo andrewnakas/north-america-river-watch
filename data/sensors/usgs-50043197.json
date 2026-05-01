@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50043197",
+  "key": "50043197",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50043197",
+  "name": "RIO USABON AT HWY 162 NR BARRANQUITAS, PR",
+  "waterbody": "RIO USABON AT HWY 162 NR BARRANQUITAS, PR",
+  "state": "PR",
+  "latitude": 18.161539,
+  "longitude": -66.309422,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "USAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Usabon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/usap4",
+  "slug": "usgs-50043197",
+  "noaaForecastPath": "data/noaa-forecast/USAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

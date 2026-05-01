@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14113000",
+  "key": "14113000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14113000",
+  "name": "KLICKITAT RIVER NEAR PITT, WA",
+  "waterbody": "KLICKITAT RIVER NEAR PITT, WA",
+  "state": "WA",
+  "latitude": 45.75651098,
+  "longitude": -121.2100714,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PITW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Klickitat River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pitw1",
+  "slug": "usgs-14113000",
+  "noaaForecastPath": "data/noaa-forecast/PITW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

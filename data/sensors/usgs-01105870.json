@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105870",
+  "key": "01105870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105870",
+  "name": "JONES RIVER AT KINGSTON, MA",
+  "waterbody": "JONES RIVER AT KINGSTON, MA",
+  "state": "MA",
+  "latitude": 41.99080729,
+  "longitude": -70.7336207,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNGM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jones River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kngm3",
+  "slug": "usgs-01105870",
+  "noaaForecastPath": "data/noaa-forecast/KNGM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

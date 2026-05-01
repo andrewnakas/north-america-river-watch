@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10322150",
+  "key": "10322150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322150",
+  "name": "MARYS CK AT CARLIN, NV",
+  "waterbody": "MARYS CK AT CARLIN, NV",
+  "state": "NV",
+  "latitude": 40.710473,
+  "longitude": -116.1259112,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10322150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

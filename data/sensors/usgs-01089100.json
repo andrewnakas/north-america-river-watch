@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01089100",
+  "key": "01089100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01089100",
+  "name": "SOUCOOK RIVER, AT PEMBROKE ROAD, NEAR CONCORD, NH",
+  "waterbody": "SOUCOOK RIVER, AT PEMBROKE ROAD, NEAR CONCORD, NH",
+  "state": "NH",
+  "latitude": 43.21369248,
+  "longitude": -71.4803481,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01089100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

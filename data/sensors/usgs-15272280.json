@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15272280",
+  "key": "15272280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15272280",
+  "name": "PORTAGE C AT PORTAGE LK OUTLET NR WHITTIER AK",
+  "waterbody": "PORTAGE C AT PORTAGE LK OUTLET NR WHITTIER AK",
+  "state": "AK",
+  "latitude": 60.78471779,
+  "longitude": -148.8410319,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15272280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

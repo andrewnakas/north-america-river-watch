@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02401390",
+  "key": "02401390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02401390",
+  "name": "BIG CANOE CREEK AT ASHVILLE AL",
+  "waterbody": "BIG CANOE CREEK AT ASHVILLE AL",
+  "state": "AL",
+  "latitude": 33.8398211,
+  "longitude": -86.2627559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASHA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Canoe Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asha1",
+  "slug": "usgs-02401390",
+  "noaaForecastPath": "data/noaa-forecast/ASHA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

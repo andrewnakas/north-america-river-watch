@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01169000",
+  "key": "01169000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01169000",
+  "name": "NORTH RIVER AT SHATTUCKVILLE, MA",
+  "waterbody": "NORTH RIVER AT SHATTUCKVILLE, MA",
+  "state": "MA",
+  "latitude": 42.63841775,
+  "longitude": -72.7250922,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHVM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shvm3",
+  "slug": "usgs-01169000",
+  "noaaForecastPath": "data/noaa-forecast/SHVM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

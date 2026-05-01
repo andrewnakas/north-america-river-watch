@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14105700",
+  "key": "14105700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14105700",
+  "name": "COLUMBIA RIVER AT THE DALLES, OR",
+  "waterbody": "COLUMBIA RIVER AT THE DALLES, OR",
+  "state": "OR",
+  "latitude": 45.60827778,
+  "longitude": -121.1899167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TDAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Columbia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tdao3",
+  "slug": "usgs-14105700",
+  "noaaForecastPath": "data/noaa-forecast/TDAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

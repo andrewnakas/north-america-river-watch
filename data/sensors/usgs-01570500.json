@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01570500",
+  "key": "01570500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01570500",
+  "name": "Susquehanna River at Harrisburg, PA",
+  "waterbody": "Susquehanna River at Harrisburg, PA",
+  "state": "PA",
+  "latitude": 40.25473717,
+  "longitude": -76.8860538,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HARP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/harp1",
+  "slug": "usgs-01570500",
+  "noaaForecastPath": "data/noaa-forecast/HARP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

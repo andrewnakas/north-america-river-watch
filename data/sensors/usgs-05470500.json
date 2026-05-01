@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05470500",
+  "key": "05470500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05470500",
+  "name": "Ioway Creek at Ames, IA",
+  "waterbody": "Ioway Creek at Ames, IA",
+  "state": "IA",
+  "latitude": 42.02255556,
+  "longitude": -93.6305,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ioway Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amwi4",
+  "slug": "usgs-05470500",
+  "noaaForecastPath": "data/noaa-forecast/AMWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

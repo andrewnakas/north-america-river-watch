@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06481000",
+  "key": "06481000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06481000",
+  "name": "BIG SIOUX RIVER NEAR DELL RAPIDS, SD",
+  "waterbody": "BIG SIOUX RIVER NEAR DELL RAPIDS, SD",
+  "state": "SD",
+  "latitude": 43.790472,
+  "longitude": -96.745333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DERS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ders2",
+  "slug": "usgs-06481000",
+  "noaaForecastPath": "data/noaa-forecast/DERS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

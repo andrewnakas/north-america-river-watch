@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04232050",
+  "key": "04232050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04232050",
+  "name": "ALLEN CREEK NEAR ROCHESTER NY",
+  "waterbody": "ALLEN CREEK NEAR ROCHESTER NY",
+  "state": "NY",
+  "latitude": 43.128028,
+  "longitude": -77.527,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alln6",
+  "slug": "usgs-04232050",
+  "noaaForecastPath": "data/noaa-forecast/ALLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

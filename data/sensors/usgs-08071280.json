@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08071280",
+  "key": "08071280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08071280",
+  "name": "Luce Bayou abv Lk Houston nr Huffman, TX",
+  "waterbody": "Luce Bayou abv Lk Houston nr Huffman, TX",
+  "state": "TX",
+  "latitude": 30.10966019,
+  "longitude": -95.0599294,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HFFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Luce Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hfft2",
+  "slug": "usgs-08071280",
+  "noaaForecastPath": "data/noaa-forecast/HFFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

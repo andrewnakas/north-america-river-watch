@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12328500",
+  "key": "12328500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12328500",
+  "name": "Flint Creek near Philipsburg MT",
+  "waterbody": "Flint Creek near Philipsburg MT",
+  "state": "MT",
+  "latitude": 46.3960369,
+  "longitude": -113.3083999,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12328500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

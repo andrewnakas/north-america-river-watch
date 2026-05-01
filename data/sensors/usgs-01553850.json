@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01553850",
+  "key": "01553850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01553850",
+  "name": "Chillisquaque Creek near Potts Grove, PA",
+  "waterbody": "Chillisquaque Creek near Potts Grove, PA",
+  "state": "PA",
+  "latitude": 40.97444444,
+  "longitude": -76.8,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCPP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chillisquaque Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccpp1",
+  "slug": "usgs-01553850",
+  "noaaForecastPath": "data/noaa-forecast/CCPP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

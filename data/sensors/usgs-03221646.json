@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03221646",
+  "key": "03221646",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03221646",
+  "name": "Scioto River at 5th Ave at Columbus OH",
+  "waterbody": "Scioto River at 5th Ave at Columbus OH",
+  "state": "OH",
+  "latitude": 39.98916667,
+  "longitude": -83.0677778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scioto River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfao1",
+  "slug": "usgs-03221646",
+  "noaaForecastPath": "data/noaa-forecast/SFAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

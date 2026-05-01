@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02171905",
+  "key": "02171905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02171905",
+  "name": "SOUTH SANTEE R AT STATE PIER NR MCCLELLANVILLE, SC",
+  "waterbody": "SOUTH SANTEE R AT STATE PIER NR MCCLELLANVILLE, SC",
+  "state": "SC",
+  "latitude": 33.15433435,
+  "longitude": -79.3542237,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSNS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssns1",
+  "slug": "usgs-02171905",
+  "noaaForecastPath": "data/noaa-forecast/SSNS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

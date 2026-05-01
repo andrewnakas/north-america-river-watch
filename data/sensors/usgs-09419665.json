@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09419665",
+  "key": "09419665",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419665",
+  "name": "SLOAN CHANNEL AT CHARLESTON BLVD NR LAS VEGAS, NV",
+  "waterbody": "SLOAN CHANNEL AT CHARLESTON BLVD NR LAS VEGAS, NV",
+  "state": "NV",
+  "latitude": 36.1597028,
+  "longitude": -115.04527302,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sloan Channel",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sccn2",
+  "slug": "usgs-09419665",
+  "noaaForecastPath": "data/noaa-forecast/SCCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

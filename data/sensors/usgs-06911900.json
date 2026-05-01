@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06911900",
+  "key": "06911900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06911900",
+  "name": "DRAGOON C NR BURLINGAME, KS",
+  "waterbody": "DRAGOON C NR BURLINGAME, KS",
+  "state": "KS",
+  "latitude": 38.7091737,
+  "longitude": -95.8383205,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRGK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dragoon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brgk1",
+  "slug": "usgs-06911900",
+  "noaaForecastPath": "data/noaa-forecast/BRGK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

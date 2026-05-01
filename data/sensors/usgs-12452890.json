@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12452890",
+  "key": "12452890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12452890",
+  "name": "MAD RIVER AT ARDENVOIR, WA",
+  "waterbody": "MAD RIVER AT ARDENVOIR, WA",
+  "state": "WA",
+  "latitude": 47.7367943,
+  "longitude": -120.3686962,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRAW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mad River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mraw1",
+  "slug": "usgs-12452890",
+  "noaaForecastPath": "data/noaa-forecast/MRAW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

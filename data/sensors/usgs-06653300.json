@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06653300",
+  "key": "06653300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06653300",
+  "name": "HORSESHOE CREEK NEAR CASSA, WY",
+  "waterbody": "HORSESHOE CREEK NEAR CASSA, WY",
+  "state": "WY",
+  "latitude": 42.4657832,
+  "longitude": -105.0733744,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06653300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

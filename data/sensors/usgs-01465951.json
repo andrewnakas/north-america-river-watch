@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465951",
+  "key": "01465951",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465951",
+  "name": "NB Rancocas C at Lk Shore Dr at Hanover Furnace NJ",
+  "waterbody": "NB Rancocas C at Lk Shore Dr at Hanover Furnace NJ",
+  "state": "NJ",
+  "latitude": 39.97652778,
+  "longitude": -74.5338333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465951",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

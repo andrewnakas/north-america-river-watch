@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362345",
+  "key": "01362345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362345",
+  "name": "HOLLOW TREE BROOK AT ST HWY 214 AT LANESVILLE NY",
+  "waterbody": "HOLLOW TREE BROOK AT ST HWY 214 AT LANESVILLE NY",
+  "state": "NY",
+  "latitude": 42.12841667,
+  "longitude": -74.26438889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362345",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

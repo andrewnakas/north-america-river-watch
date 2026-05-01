@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07194800",
+  "key": "07194800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07194800",
+  "name": "Illinois River at Savoy, AR",
+  "waterbody": "Illinois River at Savoy, AR",
+  "state": "AR",
+  "latitude": 36.10305556,
+  "longitude": -94.3444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVYA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River (AR OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svya4",
+  "slug": "usgs-07194800",
+  "noaaForecastPath": "data/noaa-forecast/SVYA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

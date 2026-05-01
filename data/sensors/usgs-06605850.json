@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06605850",
+  "key": "06605850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06605850",
+  "name": "Little Sioux River at Linn Grove, IA",
+  "waterbody": "Little Sioux River at Linn Grove, IA",
+  "state": "IA",
+  "latitude": 42.89630556,
+  "longitude": -95.243,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNNI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnni4",
+  "slug": "usgs-06605850",
+  "noaaForecastPath": "data/noaa-forecast/LNNI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

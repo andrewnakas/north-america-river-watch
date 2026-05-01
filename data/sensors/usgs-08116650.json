@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08116650",
+  "key": "08116650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08116650",
+  "name": "Brazos Rv nr Rosharon, TX",
+  "waterbody": "Brazos Rv nr Rosharon, TX",
+  "state": "TX",
+  "latitude": 29.34968614,
+  "longitude": -95.5824635,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rost2",
+  "slug": "usgs-08116650",
+  "noaaForecastPath": "data/noaa-forecast/ROST2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

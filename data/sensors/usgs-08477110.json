@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08477110",
+  "key": "08477110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08477110",
+  "name": "MIMBRES RIVER AT MIMBRES, NM",
+  "waterbody": "MIMBRES RIVER AT MIMBRES, NM",
+  "state": "NM",
+  "latitude": 32.854675,
+  "longitude": -107.9737889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MIMN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mimbres River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mimn5",
+  "slug": "usgs-08477110",
+  "noaaForecastPath": "data/noaa-forecast/MIMN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

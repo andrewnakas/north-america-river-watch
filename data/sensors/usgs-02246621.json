@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02246621",
+  "key": "02246621",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02246621",
+  "name": "TROUT R NR JACKSONVILLE FLA",
+  "waterbody": "TROUT R NR JACKSONVILLE FLA",
+  "state": "FL",
+  "latitude": 30.41746058,
+  "longitude": -81.69648758,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRJF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trout River (FL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trjf1",
+  "slug": "usgs-02246621",
+  "noaaForecastPath": "data/noaa-forecast/TRJF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

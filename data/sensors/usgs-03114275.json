@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03114275",
+  "key": "03114275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03114275",
+  "name": "OHIO RIVER AT HANNIBAL LOCK AND DAM (UPPER), OH",
+  "waterbody": "OHIO RIVER AT HANNIBAL LOCK AND DAM (UPPER), OH",
+  "state": "OH",
+  "latitude": 39.66757665,
+  "longitude": -80.86593189,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03114275",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

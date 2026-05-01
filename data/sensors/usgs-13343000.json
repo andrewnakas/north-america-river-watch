@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13343000",
+  "key": "13343000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13343000",
+  "name": "CLEARWATER RIVER NR LEWISTON ID",
+  "waterbody": "CLEARWATER RIVER NR LEWISTON ID",
+  "state": "ID",
+  "latitude": 46.43416667,
+  "longitude": -116.9677778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13343000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:453040123065201",
+  "key": "453040123065201",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "453040123065201",
+  "name": "GALES CREEK AT OLD HWY 47, FOREST GROVE, OR",
+  "waterbody": "GALES CREEK AT OLD HWY 47, FOREST GROVE, OR",
+  "state": "OR",
+  "latitude": 45.510878,
+  "longitude": -123.115666,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GALO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gales Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/galo3",
+  "slug": "usgs-453040123065201",
+  "noaaForecastPath": "data/noaa-forecast/GALO3.json",
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

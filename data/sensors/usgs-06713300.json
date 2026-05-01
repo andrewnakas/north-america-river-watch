@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06713300",
+  "key": "06713300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06713300",
+  "name": "CHERRY CREEK AT GLENDALE, CO",
+  "waterbody": "CHERRY CREEK AT GLENDALE, CO",
+  "state": "CO",
+  "latitude": 39.7060984,
+  "longitude": -104.9374795,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCSC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cherry Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccsc2",
+  "slug": "usgs-06713300",
+  "noaaForecastPath": "data/noaa-forecast/CCSC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

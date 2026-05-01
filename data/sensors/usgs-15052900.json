@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15052900",
+  "key": "15052900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15052900",
+  "name": "MENDENHALL R AT BROTHERHOOD BR AT AUKE BAY AK",
+  "waterbody": "MENDENHALL R AT BROTHERHOOD BR AT AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.3706949,
+  "longitude": -134.601859,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNAA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mendenhall River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnaa2",
+  "slug": "usgs-15052900",
+  "noaaForecastPath": "data/noaa-forecast/MNAA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

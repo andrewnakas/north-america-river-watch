@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08382830",
+  "key": "08382830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08382830",
+  "name": "PECOS RIVER BELOW SANTA ROSA DAM, NM",
+  "waterbody": "PECOS RIVER BELOW SANTA ROSA DAM, NM",
+  "state": "NM",
+  "latitude": 35.02416667,
+  "longitude": -104.6888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRLN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srln5",
+  "slug": "usgs-08382830",
+  "noaaForecastPath": "data/noaa-forecast/SRLN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

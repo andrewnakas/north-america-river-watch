@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03128500",
+  "key": "03128500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03128500",
+  "name": "Little Stillwater Creek bl Tappan Dam at Tappan OH",
+  "waterbody": "Little Stillwater Creek bl Tappan Dam at Tappan OH",
+  "state": "OH",
+  "latitude": 40.3570105,
+  "longitude": -81.2301062,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TPLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Stillwater Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tplo1",
+  "slug": "usgs-03128500",
+  "noaaForecastPath": "data/noaa-forecast/TPLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

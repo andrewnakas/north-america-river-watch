@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04231000",
+  "key": "04231000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04231000",
+  "name": "BLACK CREEK AT CHURCHVILLE NY",
+  "waterbody": "BLACK CREEK AT CHURCHVILLE NY",
+  "state": "NY",
+  "latitude": 43.100556,
+  "longitude": -77.882472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chrn6",
+  "slug": "usgs-04231000",
+  "noaaForecastPath": "data/noaa-forecast/CHRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

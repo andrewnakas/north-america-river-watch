@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12413000",
+  "key": "12413000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413000",
+  "name": "NF COEUR D ALENE RIVER AT ENAVILLE ID",
+  "waterbody": "NF COEUR D ALENE RIVER AT ENAVILLE ID",
+  "state": "ID",
+  "latitude": 47.5722,
+  "longitude": -116.2528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENVI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coeur d'Alene River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/envi1",
+  "slug": "usgs-12413000",
+  "noaaForecastPath": "data/noaa-forecast/ENVI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

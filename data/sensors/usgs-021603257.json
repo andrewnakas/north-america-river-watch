@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021603257",
+  "key": "021603257",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021603257",
+  "name": "BRUSHY CREEK NEAR PELHAM, SC",
+  "waterbody": "BRUSHY CREEK NEAR PELHAM, SC",
+  "state": "SC",
+  "latitude": 34.86317327,
+  "longitude": -82.2506702,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brcs1",
+  "slug": "usgs-021603257",
+  "noaaForecastPath": "data/noaa-forecast/BRCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

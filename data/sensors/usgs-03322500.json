@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03322500",
+  "key": "03322500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03322500",
+  "name": "WABASH RIVER NEAR NEW CORYDON, IND",
+  "waterbody": "WABASH RIVER NEAR NEW CORYDON, IND",
+  "state": "IN",
+  "latitude": 40.56391456,
+  "longitude": -84.8027007,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03322500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536580",
+  "key": "05536580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536580",
+  "name": "STONY CREEK (WEST) NEAR WORTH, IL",
+  "waterbody": "STONY CREEK (WEST) NEAR WORTH, IL",
+  "state": "IL",
+  "latitude": 41.68902778,
+  "longitude": -87.8299444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stci2",
+  "slug": "usgs-05536580",
+  "noaaForecastPath": "data/noaa-forecast/STCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04057800",
+  "key": "04057800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04057800",
+  "name": "MIDDLE BRANCH ESCANABA RIVER AT HUMBOLDT, MI",
+  "waterbody": "MIDDLE BRANCH ESCANABA RIVER AT HUMBOLDT, MI",
+  "state": "MI",
+  "latitude": 46.49910267,
+  "longitude": -87.8865238,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HUMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Branch Escanaba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/humm4",
+  "slug": "usgs-04057800",
+  "noaaForecastPath": "data/noaa-forecast/HUMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

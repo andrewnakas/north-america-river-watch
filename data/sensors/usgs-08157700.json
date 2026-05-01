@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08157700",
+  "key": "08157700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08157700",
+  "name": "Blunn Ck nr Little Stacy Pk, Austin, TX",
+  "waterbody": "Blunn Ck nr Little Stacy Pk, Austin, TX",
+  "state": "TX",
+  "latitude": 30.24743158,
+  "longitude": -97.7438939,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08157700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

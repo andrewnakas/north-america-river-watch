@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01455250",
+  "key": "01455250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01455250",
+  "name": "Pohatcong Creek trib 10 at Kennedy Mills NJ",
+  "waterbody": "Pohatcong Creek trib 10 at Kennedy Mills NJ",
+  "state": "NJ",
+  "latitude": 40.66994444,
+  "longitude": -75.1054722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01455250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

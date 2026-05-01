@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01576754",
+  "key": "01576754",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576754",
+  "name": "Conestoga River at Conestoga, PA",
+  "waterbody": "Conestoga River at Conestoga, PA",
+  "state": "PA",
+  "latitude": 39.9464886,
+  "longitude": -76.3677388,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conestoga River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnsp1",
+  "slug": "usgs-01576754",
+  "noaaForecastPath": "data/noaa-forecast/CNSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

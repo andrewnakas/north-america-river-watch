@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08169740",
+  "key": "08169740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08169740",
+  "name": "Guadalupe Rv at Hwy 123-BR at Seguin, TX",
+  "waterbody": "Guadalupe Rv at Hwy 123-BR at Seguin, TX",
+  "state": "TX",
+  "latitude": 29.55140833,
+  "longitude": -97.9693806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/segt2",
+  "slug": "usgs-08169740",
+  "noaaForecastPath": "data/noaa-forecast/SEGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:073802511",
+  "key": "073802511",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073802511",
+  "name": "Barataria Waterway at Mud Lake S of Lafitte, LA",
+  "waterbody": "Barataria Waterway at Mud Lake S of Lafitte, LA",
+  "state": "LA",
+  "latitude": 29.4742722,
+  "longitude": -90.0066056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-073802511",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12210500",
+  "key": "12210500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12210500",
+  "name": "NOOKSACK RIVER AT DEMING, WA",
+  "waterbody": "NOOKSACK RIVER AT DEMING, WA",
+  "state": "WA",
+  "latitude": 48.810352,
+  "longitude": -122.2048569,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12210500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

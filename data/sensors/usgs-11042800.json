@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11042800",
+  "key": "11042800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11042800",
+  "name": "WARM SPRINGS C NR MURRIETA CA",
+  "waterbody": "WARM SPRINGS C NR MURRIETA CA",
+  "state": "CA",
+  "latitude": 33.53224867,
+  "longitude": -117.1769771,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11042800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10348245",
+  "key": "10348245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348245",
+  "name": "N TRUCKEE DRAIN AT SPANISH SPRINGS RD NR SPARK, NV",
+  "waterbody": "N TRUCKEE DRAIN AT SPANISH SPRINGS RD NR SPARK, NV",
+  "state": "NV",
+  "latitude": 39.56879988,
+  "longitude": -119.7265766,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NTDN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Truckee Drain",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ntdn2",
+  "slug": "usgs-10348245",
+  "noaaForecastPath": "data/noaa-forecast/NTDN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08194500",
+  "key": "08194500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08194500",
+  "name": "Nueces Rv nr Tilden, TX",
+  "waterbody": "Nueces Rv nr Tilden, TX",
+  "state": "TX",
+  "latitude": 28.30888906,
+  "longitude": -98.5572384,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TILT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tilt2",
+  "slug": "usgs-08194500",
+  "noaaForecastPath": "data/noaa-forecast/TILT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

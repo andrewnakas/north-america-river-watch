@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05590520",
+  "key": "05590520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05590520",
+  "name": "KASKASKIA RIVER BELOW FICKLIN, IL",
+  "waterbody": "KASKASKIA RIVER BELOW FICKLIN, IL",
+  "state": "IL",
+  "latitude": 39.7917222,
+  "longitude": -88.36775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaskaskia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcki2",
+  "slug": "usgs-05590520",
+  "noaaForecastPath": "data/noaa-forecast/FCKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06076560",
+  "key": "06076560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06076560",
+  "name": "Smith River bl Newlan Cr nr White Sulphur Springs",
+  "waterbody": "Smith River bl Newlan Cr nr White Sulphur Springs",
+  "state": "MT",
+  "latitude": 46.59105,
+  "longitude": -111.0576861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06076560",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

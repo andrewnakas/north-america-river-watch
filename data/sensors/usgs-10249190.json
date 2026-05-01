@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10249190",
+  "key": "10249190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10249190",
+  "name": "WILLOW CK NR WARM SPGS, NV",
+  "waterbody": "WILLOW CK NR WARM SPGS, NV",
+  "state": "NV",
+  "latitude": 38.5763226,
+  "longitude": -116.6022898,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10249190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

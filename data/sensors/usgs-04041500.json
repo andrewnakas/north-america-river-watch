@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04041500",
+  "key": "04041500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04041500",
+  "name": "STURGEON RIVER NEAR ALSTON, MI",
+  "waterbody": "STURGEON RIVER NEAR ALSTON, MI",
+  "state": "MI",
+  "latitude": 46.7258333,
+  "longitude": -88.6624167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sturgeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alsm4",
+  "slug": "usgs-04041500",
+  "noaaForecastPath": "data/noaa-forecast/ALSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12081000",
+  "key": "12081000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12081000",
+  "name": "WOODLAND CREEK NEAR OLYMPIA, WA",
+  "waterbody": "WOODLAND CREEK NEAR OLYMPIA, WA",
+  "state": "WA",
+  "latitude": 47.0714851,
+  "longitude": -122.817358,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12081000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

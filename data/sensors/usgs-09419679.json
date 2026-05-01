@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419679",
+  "key": "09419679",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419679",
+  "name": "LAS VEGAS WASTEWAY NR E LAS VEGAS, NV",
+  "waterbody": "LAS VEGAS WASTEWAY NR E LAS VEGAS, NV",
+  "state": "NV",
+  "latitude": 36.10805,
+  "longitude": -115.0219944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419679",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

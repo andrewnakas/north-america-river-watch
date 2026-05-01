@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04108600",
+  "key": "04108600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04108600",
+  "name": "RABBIT RIVER NEAR HOPKINS, MI",
+  "waterbody": "RABBIT RIVER NEAR HOPKINS, MI",
+  "state": "MI",
+  "latitude": 42.6422537,
+  "longitude": -85.7219681,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOPM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rabbit River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hopm4",
+  "slug": "usgs-04108600",
+  "noaaForecastPath": "data/noaa-forecast/HOPM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

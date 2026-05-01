@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11048175",
+  "key": "11048175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11048175",
+  "name": "AGUA CHINON WASH A PORTOLA SPRINGS RD NR IRVINE CA",
+  "waterbody": "AGUA CHINON WASH A PORTOLA SPRINGS RD NR IRVINE CA",
+  "state": "CA",
+  "latitude": 33.6870833,
+  "longitude": -117.6954167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11048175",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

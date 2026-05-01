@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06869950",
+  "key": "06869950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06869950",
+  "name": "MULBERRY C NR SALINA, KS",
+  "waterbody": "MULBERRY C NR SALINA, KS",
+  "state": "KS",
+  "latitude": 38.8444476,
+  "longitude": -97.6683699,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLNK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mulberry Creek (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slnk1",
+  "slug": "usgs-06869950",
+  "noaaForecastPath": "data/noaa-forecast/SLNK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

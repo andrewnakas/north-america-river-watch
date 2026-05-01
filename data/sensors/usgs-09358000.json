@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09358000",
+  "key": "09358000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09358000",
+  "name": "ANIMAS RIVER AT SILVERTON, CO.",
+  "waterbody": "ANIMAS RIVER AT SILVERTON, CO.",
+  "state": "CO",
+  "latitude": 37.81110556,
+  "longitude": -107.65924542,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09358000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

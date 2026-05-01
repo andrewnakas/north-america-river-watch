@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12166000",
+  "key": "12166000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12166000",
+  "name": "BOULDER RIVER NEAR OSO, WA",
+  "waterbody": "BOULDER RIVER NEAR OSO, WA",
+  "state": "WA",
+  "latitude": 48.27760727,
+  "longitude": -121.780411,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12166000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

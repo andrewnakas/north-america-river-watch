@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03199000",
+  "key": "03199000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03199000",
+  "name": "LITTLE COAL RIVER AT DANVILLE, WV",
+  "waterbody": "LITTLE COAL RIVER AT DANVILLE, WV",
+  "state": "WV",
+  "latitude": 38.07977778,
+  "longitude": -81.8365,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DANW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Coal River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/danw2",
+  "slug": "usgs-03199000",
+  "noaaForecastPath": "data/noaa-forecast/DANW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

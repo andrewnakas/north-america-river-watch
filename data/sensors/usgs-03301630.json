@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03301630",
+  "key": "03301630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03301630",
+  "name": "ROLLING FORK NEAR LEBANON JUNCTION, KY",
+  "waterbody": "ROLLING FORK NEAR LEBANON JUNCTION, KY",
+  "state": "KY",
+  "latitude": 37.82284205,
+  "longitude": -85.7477377,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBJK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rolling Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbjk2",
+  "slug": "usgs-03301630",
+  "noaaForecastPath": "data/noaa-forecast/LBJK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

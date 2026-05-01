@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04121660",
+  "key": "04121660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04121660",
+  "name": "MUSKEGON RIVER NEAR STANWOOD, MI",
+  "waterbody": "MUSKEGON RIVER NEAR STANWOOD, MI",
+  "state": "MI",
+  "latitude": 43.61308,
+  "longitude": -85.4778209,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04121660",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04098980",
+  "key": "04098980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04098980",
+  "name": "MILL CREEK AT QUAKER STREET NEAR MOTTVILLE, MI",
+  "waterbody": "MILL CREEK AT QUAKER STREET NEAR MOTTVILLE, MI",
+  "state": "MI",
+  "latitude": 41.83060445,
+  "longitude": -85.74304939,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCQM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcqm4",
+  "slug": "usgs-04098980",
+  "noaaForecastPath": "data/noaa-forecast/MCQM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

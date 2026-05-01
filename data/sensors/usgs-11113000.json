@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11113000",
+  "key": "11113000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11113000",
+  "name": "SESPE C NR FILLMORE",
+  "waterbody": "SESPE C NR FILLMORE",
+  "state": "CA",
+  "latitude": 34.4416592,
+  "longitude": -118.9273019,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SESC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sespe Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sesc1",
+  "slug": "usgs-11113000",
+  "noaaForecastPath": "data/noaa-forecast/SESC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

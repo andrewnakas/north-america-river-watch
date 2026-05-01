@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50044210",
+  "key": "50044210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50044210",
+  "name": "RIO DE LA PLATA BLW REPRESA COMERIO, PR",
+  "waterbody": "RIO DE LA PLATA BLW REPRESA COMERIO, PR",
+  "state": "PR",
+  "latitude": 18.274275,
+  "longitude": -66.206078,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRCP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio De La Plata",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prcp4",
+  "slug": "usgs-50044210",
+  "noaaForecastPath": "data/noaa-forecast/PRCP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

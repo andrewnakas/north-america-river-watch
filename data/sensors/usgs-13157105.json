@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157105",
+  "key": "13157105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157105",
+  "name": "CHALK FLATS PUMPING PLANT NR HAMMETT ID",
+  "waterbody": "CHALK FLATS PUMPING PLANT NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.9458333,
+  "longitude": -115.54,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

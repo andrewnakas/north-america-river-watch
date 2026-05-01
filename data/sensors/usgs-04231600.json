@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04231600",
+  "key": "04231600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04231600",
+  "name": "GENESEE RIVER AT FORD STREET BRIDGE, ROCHESTER NY",
+  "waterbody": "GENESEE RIVER AT FORD STREET BRIDGE, ROCHESTER NY",
+  "state": "NY",
+  "latitude": 43.1417222,
+  "longitude": -77.6163056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Genesee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rohn6",
+  "slug": "usgs-04231600",
+  "noaaForecastPath": "data/noaa-forecast/ROHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

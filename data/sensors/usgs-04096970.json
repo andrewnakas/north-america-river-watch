@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04096970",
+  "key": "04096970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04096970",
+  "name": "BEAR CREEK AT LAWRENCE ROAD NEAR LEONIDAS, MI",
+  "waterbody": "BEAR CREEK AT LAWRENCE ROAD NEAR LEONIDAS, MI",
+  "state": "MI",
+  "latitude": 42.04251236,
+  "longitude": -85.3616067,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04096970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

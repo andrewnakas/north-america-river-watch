@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08019500",
+  "key": "08019500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08019500",
+  "name": "Big Sandy Ck nr Big Sandy, TX",
+  "waterbody": "Big Sandy Ck nr Big Sandy, TX",
+  "state": "TX",
+  "latitude": 32.6040291,
+  "longitude": -95.0916099,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsnt2",
+  "slug": "usgs-08019500",
+  "noaaForecastPath": "data/noaa-forecast/BSNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

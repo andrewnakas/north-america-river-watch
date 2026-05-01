@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09401110",
+  "key": "09401110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09401110",
+  "name": "DINNEBITO WASH NEAR SAND SPRINGS, AZ",
+  "waterbody": "DINNEBITO WASH NEAR SAND SPRINGS, AZ",
+  "state": "AZ",
+  "latitude": 35.78069444,
+  "longitude": -110.9304167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DINA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dinnebito Wash",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dina3",
+  "slug": "usgs-09401110",
+  "noaaForecastPath": "data/noaa-forecast/DINA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

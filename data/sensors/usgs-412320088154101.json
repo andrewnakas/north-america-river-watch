@@ -1,0 +1,22 @@
+{
+  "id": "usgs:412320088154101",
+  "key": "412320088154101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412320088154101",
+  "name": "KANKAKEE R AT INFLOW OF POWER PLANT NR LORENZO, IL",
+  "waterbody": "KANKAKEE R AT INFLOW OF POWER PLANT NR LORENZO, IL",
+  "state": "IL",
+  "latitude": 41.38877778,
+  "longitude": -88.2615833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kankakee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krdi2",
+  "slug": "usgs-412320088154101",
+  "noaaForecastPath": "data/noaa-forecast/KRDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

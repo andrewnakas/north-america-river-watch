@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03282500",
+  "key": "03282500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03282500",
+  "name": "RED RIVER NEAR HAZEL GREEN, KY",
+  "waterbody": "RED RIVER NEAR HAZEL GREEN, KY",
+  "state": "KY",
+  "latitude": 37.80925288,
+  "longitude": -83.45768398,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGRK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgrk2",
+  "slug": "usgs-03282500",
+  "noaaForecastPath": "data/noaa-forecast/HGRK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

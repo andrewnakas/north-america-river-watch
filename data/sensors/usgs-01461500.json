@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01461500",
+  "key": "01461500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01461500",
+  "name": "Delaware River at Stockton NJ",
+  "waterbody": "Delaware River at Stockton NJ",
+  "state": "NJ",
+  "latitude": 40.40277778,
+  "longitude": -74.97944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STKN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stkn4",
+  "slug": "usgs-01461500",
+  "noaaForecastPath": "data/noaa-forecast/STKN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

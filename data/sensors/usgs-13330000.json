@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13330000",
+  "key": "13330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13330000",
+  "name": "LOSTINE RIVER NEAR LOSTINE, OR",
+  "waterbody": "LOSTINE RIVER NEAR LOSTINE, OR",
+  "state": "OR",
+  "latitude": 45.43875828,
+  "longitude": -117.4274062,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lostine River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsto3",
+  "slug": "usgs-13330000",
+  "noaaForecastPath": "data/noaa-forecast/LSTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

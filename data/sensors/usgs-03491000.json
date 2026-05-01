@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03491000",
+  "key": "03491000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03491000",
+  "name": "BIG CREEK NEAR ROGERSVILLE, TN",
+  "waterbody": "BIG CREEK NEAR ROGERSVILLE, TN",
+  "state": "TN",
+  "latitude": 36.42620656,
+  "longitude": -82.9518304,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVLT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvlt1",
+  "slug": "usgs-03491000",
+  "noaaForecastPath": "data/noaa-forecast/RVLT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

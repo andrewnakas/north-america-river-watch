@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11118400",
+  "key": "11118400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11118400",
+  "name": "VENTURA R DIV NR VENTURA CA",
+  "waterbody": "VENTURA R DIV NR VENTURA CA",
+  "state": "CA",
+  "latitude": 34.35833118,
+  "longitude": -119.310669,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11118400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

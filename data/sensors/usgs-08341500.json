@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08341500",
+  "key": "08341500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08341500",
+  "name": "BLUEWATER C B BLUEWATER DAM, NM",
+  "waterbody": "BLUEWATER C B BLUEWATER DAM, NM",
+  "state": "NM",
+  "latitude": 35.30364249,
+  "longitude": -108.0995087,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08341500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

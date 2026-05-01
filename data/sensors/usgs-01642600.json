@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01642600",
+  "key": "01642600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01642600",
+  "name": "LINGANORE CREEK AT LINGANORE RD NEAR FREDERICK, MD",
+  "waterbody": "LINGANORE CREEK AT LINGANORE RD NEAR FREDERICK, MD",
+  "state": "MD",
+  "latitude": 39.4095,
+  "longitude": -77.36025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01642600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

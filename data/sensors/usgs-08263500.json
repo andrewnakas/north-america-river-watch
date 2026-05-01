@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08263500",
+  "key": "08263500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08263500",
+  "name": "RIO GRANDE NEAR CERRO, NM",
+  "waterbody": "RIO GRANDE NEAR CERRO, NM",
+  "state": "NM",
+  "latitude": 36.74001667,
+  "longitude": -105.6834417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CERN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cern5",
+  "slug": "usgs-08263500",
+  "noaaForecastPath": "data/noaa-forecast/CERN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

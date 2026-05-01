@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04024000",
+  "key": "04024000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04024000",
+  "name": "ST. LOUIS RIVER AT SCANLON, MN",
+  "waterbody": "ST. LOUIS RIVER AT SCANLON, MN",
+  "state": "MN",
+  "latitude": 46.703511,
+  "longitude": -92.418378,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCNM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Louis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scnm5",
+  "slug": "usgs-04024000",
+  "noaaForecastPath": "data/noaa-forecast/SCNM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

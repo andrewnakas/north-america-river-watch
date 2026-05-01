@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10075000",
+  "key": "10075000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10075000",
+  "name": "BEAR RIVER AT SODA SPRINGS ID",
+  "waterbody": "BEAR RIVER AT SODA SPRINGS ID",
+  "state": "ID",
+  "latitude": 42.61379777,
+  "longitude": -111.5835813,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10075000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

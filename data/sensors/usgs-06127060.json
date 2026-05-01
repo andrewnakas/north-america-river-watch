@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06127060",
+  "key": "06127060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06127060",
+  "name": "Willow Cr at U.S. canal nr Roundup MT",
+  "waterbody": "Willow Cr at U.S. canal nr Roundup MT",
+  "state": "MT",
+  "latitude": 46.55433889,
+  "longitude": -108.6788306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06127060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

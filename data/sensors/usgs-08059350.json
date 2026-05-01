@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08059350",
+  "key": "08059350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08059350",
+  "name": "Indian Ck at SH 78 nr Farmersville, TX",
+  "waterbody": "Indian Ck at SH 78 nr Farmersville, TX",
+  "state": "TX",
+  "latitude": 33.225,
+  "longitude": -96.3730556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08059350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

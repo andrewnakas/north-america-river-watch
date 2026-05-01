@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08072600",
+  "key": "08072600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08072600",
+  "name": "Buffalo Bayou at State Hwy 6 nr Addicks, TX",
+  "waterbody": "Buffalo Bayou at State Hwy 6 nr Addicks, TX",
+  "state": "TX",
+  "latitude": 29.76938056,
+  "longitude": -95.6431667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bakt2",
+  "slug": "usgs-08072600",
+  "noaaForecastPath": "data/noaa-forecast/BAKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

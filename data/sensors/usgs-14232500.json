@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14232500",
+  "key": "14232500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14232500",
+  "name": "CISPUS RIVER NEAR RANDLE, WA",
+  "waterbody": "CISPUS RIVER NEAR RANDLE, WA",
+  "state": "WA",
+  "latitude": 46.44705689,
+  "longitude": -121.8639783,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14232500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

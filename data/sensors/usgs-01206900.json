@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01206900",
+  "key": "01206900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01206900",
+  "name": "NAUGATUCK RIVER AT THOMASTON, CT",
+  "waterbody": "NAUGATUCK RIVER AT THOMASTON, CT",
+  "state": "CT",
+  "latitude": 41.67359818,
+  "longitude": -73.06953239,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01206900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

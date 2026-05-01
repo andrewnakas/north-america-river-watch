@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11118500",
+  "key": "11118500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11118500",
+  "name": "VENTURA R NR VENTURA",
+  "waterbody": "VENTURA R NR VENTURA",
+  "state": "CA",
+  "latitude": 34.35221417,
+  "longitude": -119.3084218,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VRVC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ventura River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vrvc1",
+  "slug": "usgs-11118500",
+  "noaaForecastPath": "data/noaa-forecast/VRVC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

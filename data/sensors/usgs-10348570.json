@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348570",
+  "key": "10348570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348570",
+  "name": "WINTERS CK BLW US ALT 395 NR WASHOE CITY, NV",
+  "waterbody": "WINTERS CK BLW US ALT 395 NR WASHOE CITY, NV",
+  "state": "NV",
+  "latitude": 39.31238889,
+  "longitude": -119.8232083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348570",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

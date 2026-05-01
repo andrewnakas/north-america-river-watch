@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15101490",
+  "key": "15101490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15101490",
+  "name": "GREENS C AT GREENS CREEK MINE NR JUNEAU AK",
+  "waterbody": "GREENS C AT GREENS CREEK MINE NR JUNEAU AK",
+  "state": "AK",
+  "latitude": 58.083333,
+  "longitude": -134.631667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCMA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greens Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcma2",
+  "slug": "usgs-15101490",
+  "noaaForecastPath": "data/noaa-forecast/GCMA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

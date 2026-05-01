@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06600030",
+  "key": "06600030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06600030",
+  "name": "Little Floyd River near Sanborn, IA",
+  "waterbody": "Little Floyd River near Sanborn, IA",
+  "state": "IA",
+  "latitude": 43.186,
+  "longitude": -95.7251111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LFSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Floyd River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lfsi4",
+  "slug": "usgs-06600030",
+  "noaaForecastPath": "data/noaa-forecast/LFSI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

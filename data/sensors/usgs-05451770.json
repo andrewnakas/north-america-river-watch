@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05451770",
+  "key": "05451770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05451770",
+  "name": "Iowa River at County Highway E49 near Tama, IA",
+  "waterbody": "Iowa River at County Highway E49 near Tama, IA",
+  "state": "IA",
+  "latitude": 41.96425556,
+  "longitude": -92.63655,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMAI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmai4",
+  "slug": "usgs-05451770",
+  "noaaForecastPath": "data/noaa-forecast/TMAI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

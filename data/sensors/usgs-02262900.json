@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02262900",
+  "key": "02262900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02262900",
+  "name": "BOGGY CREEK NEAR TAFT, FL",
+  "waterbody": "BOGGY CREEK NEAR TAFT, FL",
+  "state": "FL",
+  "latitude": 28.37139699,
+  "longitude": -81.3106247,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCTF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boggy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bctf1",
+  "slug": "usgs-02262900",
+  "noaaForecastPath": "data/noaa-forecast/BCTF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

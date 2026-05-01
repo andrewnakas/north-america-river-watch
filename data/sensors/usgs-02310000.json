@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310000",
+  "key": "02310000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310000",
+  "name": "ANCLOTE RIVER AT LITTLE RD NEAR ELFERS, FL",
+  "waterbody": "ANCLOTE RIVER AT LITTLE RD NEAR ELFERS, FL",
+  "state": "FL",
+  "latitude": 28.21417784,
+  "longitude": -82.6664882,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELFF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Anclote River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elff1",
+  "slug": "usgs-02310000",
+  "noaaForecastPath": "data/noaa-forecast/ELFF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

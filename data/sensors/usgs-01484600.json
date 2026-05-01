@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01484600",
+  "key": "01484600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01484600",
+  "name": "BLACKWATER CREEK NEAR CLARKESVILLE, DE",
+  "waterbody": "BLACKWATER CREEK NEAR CLARKESVILLE, DE",
+  "state": "DE",
+  "latitude": 38.54539057,
+  "longitude": -75.1632408,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01484600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

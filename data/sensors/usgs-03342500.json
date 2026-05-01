@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03342500",
+  "key": "03342500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03342500",
+  "name": "BUSSERON CREEK NEAR CARLISLE, IN",
+  "waterbody": "BUSSERON CREEK NEAR CARLISLE, IN",
+  "state": "IN",
+  "latitude": 38.97421244,
+  "longitude": -87.4258426,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Busseron Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crli3",
+  "slug": "usgs-03342500",
+  "noaaForecastPath": "data/noaa-forecast/CRLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05514705",
+  "key": "05514705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05514705",
+  "name": "Cuivre River at Old Monroe, MO",
+  "waterbody": "Cuivre River at Old Monroe, MO",
+  "state": "MO",
+  "latitude": 38.92927778,
+  "longitude": -90.7462222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OMNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuivre River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/omnm7",
+  "slug": "usgs-05514705",
+  "noaaForecastPath": "data/noaa-forecast/OMNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

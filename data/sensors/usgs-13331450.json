@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13331450",
+  "key": "13331450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13331450",
+  "name": "WALLOWA RIVER BELOW WATER CANYON, NR WALLOWA, OR",
+  "waterbody": "WALLOWA RIVER BELOW WATER CANYON, NR WALLOWA, OR",
+  "state": "OR",
+  "latitude": 45.60888889,
+  "longitude": -117.616111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13331450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

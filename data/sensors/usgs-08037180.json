@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08037180",
+  "key": "08037180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08037180",
+  "name": "Angelina Rv at Hwy 59 nr Lufkin, TX",
+  "waterbody": "Angelina Rv at Hwy 59 nr Lufkin, TX",
+  "state": "TX",
+  "latitude": 31.45718333,
+  "longitude": -94.7263278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Angelina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/luft2",
+  "slug": "usgs-08037180",
+  "noaaForecastPath": "data/noaa-forecast/LUFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

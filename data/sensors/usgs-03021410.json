@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03021410",
+  "key": "03021410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03021410",
+  "name": "West Branch French Creek near Lowville, PA",
+  "waterbody": "West Branch French Creek near Lowville, PA",
+  "state": "PA",
+  "latitude": 42.0817221,
+  "longitude": -79.8503286,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvlp1",
+  "slug": "usgs-03021410",
+  "noaaForecastPath": "data/noaa-forecast/LVLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

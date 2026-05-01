@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07119700",
+  "key": "07119700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07119700",
+  "name": "ARKANSAS RIVER AT CATLIN DAM, NEAR FOWLER, CO.",
+  "waterbody": "ARKANSAS RIVER AT CATLIN DAM, NEAR FOWLER, CO.",
+  "state": "CO",
+  "latitude": 38.12583934,
+  "longitude": -103.9119006,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdmc2",
+  "slug": "usgs-07119700",
+  "noaaForecastPath": "data/noaa-forecast/CDMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

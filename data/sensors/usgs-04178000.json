@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04178000",
+  "key": "04178000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04178000",
+  "name": "St Joseph River near Newville IN",
+  "waterbody": "St Joseph River near Newville IN",
+  "state": "OH",
+  "latitude": 41.38560609,
+  "longitude": -84.8016259,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04178000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

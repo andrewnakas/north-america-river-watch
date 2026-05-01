@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07060000",
+  "key": "07060000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07060000",
+  "name": "North Fork Riv US of Dry Ck bl Norfork Dam, AR",
+  "waterbody": "North Fork Riv US of Dry Ck bl Norfork Dam, AR",
+  "state": "AR",
+  "latitude": 36.24923449,
+  "longitude": -92.2384887,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFDA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Norfork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfda4",
+  "slug": "usgs-07060000",
+  "noaaForecastPath": "data/noaa-forecast/NFDA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

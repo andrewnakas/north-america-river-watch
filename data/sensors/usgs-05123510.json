@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05123510",
+  "key": "05123510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05123510",
+  "name": "DEEP RIVER NEAR UPHAM, ND",
+  "waterbody": "DEEP RIVER NEAR UPHAM, ND",
+  "state": "ND",
+  "latitude": 48.58412696,
+  "longitude": -100.8627348,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05123510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

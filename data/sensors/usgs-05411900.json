@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05411900",
+  "key": "05411900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05411900",
+  "name": "Otter Creek at Elgin, IA",
+  "waterbody": "Otter Creek at Elgin, IA",
+  "state": "IA",
+  "latitude": 42.95241667,
+  "longitude": -91.6429722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05411900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

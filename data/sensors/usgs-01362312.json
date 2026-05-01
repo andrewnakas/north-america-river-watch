@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362312",
+  "key": "01362312",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362312",
+  "name": "STONY CLOVE CREEK AT EDGEWOOD NY",
+  "waterbody": "STONY CLOVE CREEK AT EDGEWOOD NY",
+  "state": "NY",
+  "latitude": 42.14094444,
+  "longitude": -74.2124167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362312",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

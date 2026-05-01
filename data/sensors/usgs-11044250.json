@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11044250",
+  "key": "11044250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11044250",
+  "name": "RAINBOW C NR FALLBROOK CA",
+  "waterbody": "RAINBOW C NR FALLBROOK CA",
+  "state": "CA",
+  "latitude": 33.4075318,
+  "longitude": -117.2008578,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11044250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

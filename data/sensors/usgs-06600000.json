@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06600000",
+  "key": "06600000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06600000",
+  "name": "Perry Creek at 38th Street at Sioux City, IA",
+  "waterbody": "Perry Creek at 38th Street at Sioux City, IA",
+  "state": "IA",
+  "latitude": 42.5352222,
+  "longitude": -96.4104444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIOI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Perry Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sioi4",
+  "slug": "usgs-06600000",
+  "noaaForecastPath": "data/noaa-forecast/SIOI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01115276",
+  "key": "01115276",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115276",
+  "name": "WESTCONNAUG STREAM AT PLAINFIELD PIKE, RI",
+  "waterbody": "WESTCONNAUG STREAM AT PLAINFIELD PIKE, RI",
+  "state": "RI",
+  "latitude": 41.7853772,
+  "longitude": -71.6672885,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01115276",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

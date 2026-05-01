@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11124500",
+  "key": "11124500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11124500",
+  "name": "SANTA CRUZ C NR SANTA YNEZ CA",
+  "waterbody": "SANTA CRUZ C NR SANTA YNEZ CA",
+  "state": "CA",
+  "latitude": 34.5966563,
+  "longitude": -119.9087519,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Cruz Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sccc1",
+  "slug": "usgs-11124500",
+  "noaaForecastPath": "data/noaa-forecast/SCCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

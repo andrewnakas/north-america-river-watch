@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01115170",
+  "key": "01115170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115170",
+  "name": "MOSWANSICUT STREAM NR NORTH SCITUATE, RI",
+  "waterbody": "MOSWANSICUT STREAM NR NORTH SCITUATE, RI",
+  "state": "RI",
+  "latitude": 41.84093269,
+  "longitude": -71.584508,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01115170",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

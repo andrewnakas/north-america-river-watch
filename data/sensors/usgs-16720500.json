@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16720500",
+  "key": "16720500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16720500",
+  "name": "Upper Hamakua Ditch bl Kawaiki Str nr Kamuela, HI",
+  "waterbody": "Upper Hamakua Ditch bl Kawaiki Str nr Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.08441389,
+  "longitude": -155.6755556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16720500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

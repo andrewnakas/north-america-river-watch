@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11183670",
+  "key": "11183670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11183670",
+  "name": "WALNUT C A DIAMOND BLVD BRIDGE NR CONCORD CA",
+  "waterbody": "WALNUT C A DIAMOND BLVD BRIDGE NR CONCORD CA",
+  "state": "CA",
+  "latitude": 37.96955278,
+  "longitude": -122.0537833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdbc1",
+  "slug": "usgs-11183670",
+  "noaaForecastPath": "data/noaa-forecast/WDBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

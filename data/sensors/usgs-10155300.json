@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10155300",
+  "key": "10155300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10155300",
+  "name": "PROVO RIVER NEAR MIDWAY, UT",
+  "waterbody": "PROVO RIVER NEAR MIDWAY, UT",
+  "state": "UT",
+  "latitude": 40.5068994,
+  "longitude": -111.4496303,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10155300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

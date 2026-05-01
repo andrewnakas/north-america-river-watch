@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02467200",
+  "key": "02467200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02467200",
+  "name": "SUCARNOOCHEE RIVER NR PORTERVILLE, MS",
+  "waterbody": "SUCARNOOCHEE RIVER NR PORTERVILLE, MS",
+  "state": "MS",
+  "latitude": 32.6986111,
+  "longitude": -88.485,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02467200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

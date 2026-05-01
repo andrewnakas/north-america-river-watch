@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09063000",
+  "key": "09063000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09063000",
+  "name": "EAGLE RIVER AT RED CLIFF, CO.",
+  "waterbody": "EAGLE RIVER AT RED CLIFF, CO.",
+  "state": "CO",
+  "latitude": 39.50831949,
+  "longitude": -106.3666948,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RERC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rerc2",
+  "slug": "usgs-09063000",
+  "noaaForecastPath": "data/noaa-forecast/RERC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

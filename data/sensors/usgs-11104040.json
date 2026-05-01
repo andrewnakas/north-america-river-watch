@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11104040",
+  "key": "11104040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11104040",
+  "name": "TOPANGA C A HWY 1 BRIDGE NR MALIBU CA",
+  "waterbody": "TOPANGA C A HWY 1 BRIDGE NR MALIBU CA",
+  "state": "CA",
+  "latitude": 34.03924167,
+  "longitude": -118.58313056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11104040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

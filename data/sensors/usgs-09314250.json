@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09314250",
+  "key": "09314250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09314250",
+  "name": "PRICE RIVER BL MILLER CREEK NR WELLINGTON, UT",
+  "waterbody": "PRICE RIVER BL MILLER CREEK NR WELLINGTON, UT",
+  "state": "UT",
+  "latitude": 39.44967343,
+  "longitude": -110.62795996,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09314250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

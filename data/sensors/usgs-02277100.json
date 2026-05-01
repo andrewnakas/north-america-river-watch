@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02277100",
+  "key": "02277100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02277100",
+  "name": "ST LUCIE RIVER AT SPEEDY POINT, STUART FL",
+  "waterbody": "ST LUCIE RIVER AT SPEEDY POINT, STUART FL",
+  "state": "FL",
+  "latitude": 27.2048,
+  "longitude": -80.2587833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Lucie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slrf1",
+  "slug": "usgs-02277100",
+  "noaaForecastPath": "data/noaa-forecast/SLRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

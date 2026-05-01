@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01644371",
+  "key": "01644371",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644371",
+  "name": "LITTLE SENECA CREEK TRIBUTARY NEAR CLARKSBURG, MD",
+  "waterbody": "LITTLE SENECA CREEK TRIBUTARY NEAR CLARKSBURG, MD",
+  "state": "MD",
+  "latitude": 39.23147222,
+  "longitude": -77.25569444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": " LITTLE SENECA CREEK TRIBUTARY NEAR CLARKSBURG, MD ",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clkm2",
+  "slug": "usgs-01644371",
+  "noaaForecastPath": "data/noaa-forecast/CLKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

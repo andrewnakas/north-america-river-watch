@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05533600",
+  "key": "05533600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05533600",
+  "name": "DES PLAINES RIVER NEAR LEMONT, IL",
+  "waterbody": "DES PLAINES RIVER NEAR LEMONT, IL",
+  "state": "IL",
+  "latitude": 41.67238889,
+  "longitude": -88.0285278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Plaines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lemi2",
+  "slug": "usgs-05533600",
+  "noaaForecastPath": "data/noaa-forecast/LEMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

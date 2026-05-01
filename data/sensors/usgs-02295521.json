@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02295521",
+  "key": "02295521",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02295521",
+  "name": "LT CHARLIE CR BL PARKER BRANCH NR BOWLING GREEN FL",
+  "waterbody": "LT CHARLIE CR BL PARKER BRANCH NR BOWLING GREEN FL",
+  "state": "FL",
+  "latitude": 27.627142,
+  "longitude": -81.728017,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02295521",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

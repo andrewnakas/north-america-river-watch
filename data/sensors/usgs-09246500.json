@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09246500",
+  "key": "09246500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09246500",
+  "name": "ELKHEAD CREEK NEAR CRAIG, CO",
+  "waterbody": "ELKHEAD CREEK NEAR CRAIG, CO",
+  "state": "CO",
+  "latitude": 40.53106726,
+  "longitude": -107.43620792,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhead Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elcc2",
+  "slug": "usgs-09246500",
+  "noaaForecastPath": "data/noaa-forecast/ELCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

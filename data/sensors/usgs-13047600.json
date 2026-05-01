@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13047600",
+  "key": "13047600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13047600",
+  "name": "FALL RIVER NR ASHTON ID",
+  "waterbody": "FALL RIVER NR ASHTON ID",
+  "state": "ID",
+  "latitude": 44.0561111,
+  "longitude": -111.358611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRAI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fall River (WY-ID)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frai1",
+  "slug": "usgs-13047600",
+  "noaaForecastPath": "data/noaa-forecast/FRAI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

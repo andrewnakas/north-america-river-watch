@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06406500",
+  "key": "06406500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06406500",
+  "name": "BATTLE CREEK BELOW HERMOSA,SD",
+  "waterbody": "BATTLE CREEK BELOW HERMOSA,SD",
+  "state": "SD",
+  "latitude": 43.725442,
+  "longitude": -102.905661,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSAS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Battle Creek (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/osas2",
+  "slug": "usgs-06406500",
+  "noaaForecastPath": "data/noaa-forecast/OSAS2.json",
+  "generatedAt": "2026-05-01T12:10:11.377Z"
+}

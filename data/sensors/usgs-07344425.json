@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07344425",
+  "key": "07344425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07344425",
+  "name": "Cross Bayou at Hwy 80 west of Greenwood, LA",
+  "waterbody": "Cross Bayou at Hwy 80 west of Greenwood, LA",
+  "state": "LA",
+  "latitude": 32.45598956,
+  "longitude": -94.0146477,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07344425",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

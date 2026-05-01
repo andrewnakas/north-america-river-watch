@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08012300",
+  "key": "08012300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08012300",
+  "name": "Byu Queue De Tortue @ Riceville, LA",
+  "waterbody": "Byu Queue De Tortue @ Riceville, LA",
+  "state": "LA",
+  "latitude": 30.08152778,
+  "longitude": -92.5064722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BQTL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Queue De Tortue",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bqtl1",
+  "slug": "usgs-08012300",
+  "noaaForecastPath": "data/noaa-forecast/BQTL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

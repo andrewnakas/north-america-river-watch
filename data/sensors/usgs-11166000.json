@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11166000",
+  "key": "11166000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11166000",
+  "name": "MATADERO C A PALO ALTO CA",
+  "waterbody": "MATADERO C A PALO ALTO CA",
+  "state": "CA",
+  "latitude": 37.4216062,
+  "longitude": -122.1355193,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBHC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Matadero Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbhc1",
+  "slug": "usgs-11166000",
+  "noaaForecastPath": "data/noaa-forecast/WBHC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

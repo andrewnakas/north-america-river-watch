@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13170900",
+  "key": "13170900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13170900",
+  "name": "BYBEE LATERAL NR GRAND VIEW ID",
+  "waterbody": "BYBEE LATERAL NR GRAND VIEW ID",
+  "state": "ID",
+  "latitude": 42.9390603,
+  "longitude": -115.9703702,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CJSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Southwest Idaho Reservoirs",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cjsi1",
+  "slug": "usgs-13170900",
+  "noaaForecastPath": "data/noaa-forecast/CJSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01654345",
+  "key": "01654345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01654345",
+  "name": "LONG BRANCH AB WOODLAND WAY NEAR FAIRFAX, VA",
+  "waterbody": "LONG BRANCH AB WOODLAND WAY NEAR FAIRFAX, VA",
+  "state": "VA",
+  "latitude": 38.817275,
+  "longitude": -77.2505417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01654345",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

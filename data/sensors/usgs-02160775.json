@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02160775",
+  "key": "02160775",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02160775",
+  "name": "HELLERS CREEK NR POMARIA, SC",
+  "waterbody": "HELLERS CREEK NR POMARIA, SC",
+  "state": "SC",
+  "latitude": 34.3606974,
+  "longitude": -81.4920472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02160775",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

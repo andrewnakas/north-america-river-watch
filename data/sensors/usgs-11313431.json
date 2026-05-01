@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11313431",
+  "key": "11313431",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11313431",
+  "name": "HOLLAND CUT NR BETHEL ISLAND CA",
+  "waterbody": "HOLLAND CUT NR BETHEL ISLAND CA",
+  "state": "CA",
+  "latitude": 38.01638889,
+  "longitude": -121.5819444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Holland Cut",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdcc1",
+  "slug": "usgs-11313431",
+  "noaaForecastPath": "data/noaa-forecast/HDCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

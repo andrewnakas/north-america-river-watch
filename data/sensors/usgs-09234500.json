@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09234500",
+  "key": "09234500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09234500",
+  "name": "GREEN RIVER NEAR GREENDALE, UT",
+  "waterbody": "GREEN RIVER NEAR GREENDALE, UT",
+  "state": "UT",
+  "latitude": 40.90829296,
+  "longitude": -109.422914,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRZU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grzu1",
+  "slug": "usgs-09234500",
+  "noaaForecastPath": "data/noaa-forecast/GRZU1.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

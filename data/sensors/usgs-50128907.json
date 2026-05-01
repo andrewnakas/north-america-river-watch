@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50128907",
+  "key": "50128907",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50128907",
+  "name": "LATERAL M5L, CANAL DE RIEGO DE LAJAS SABANA GRANDE",
+  "waterbody": "LATERAL M5L, CANAL DE RIEGO DE LAJAS SABANA GRANDE",
+  "state": "PR",
+  "latitude": 18.035028,
+  "longitude": -66.898117,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRSP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canal de Riego de Lajas Sabana Grande",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crsp4",
+  "slug": "usgs-50128907",
+  "noaaForecastPath": "data/noaa-forecast/CRSP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01573825",
+  "key": "01573825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573825",
+  "name": "West Conewago Creek at East Berlin, PA",
+  "waterbody": "West Conewago Creek at East Berlin, PA",
+  "state": "PA",
+  "latitude": 39.9412222,
+  "longitude": -76.99,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Conewago Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wccp1",
+  "slug": "usgs-01573825",
+  "noaaForecastPath": "data/noaa-forecast/WCCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

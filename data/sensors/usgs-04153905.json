@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04153905",
+  "key": "04153905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04153905",
+  "name": "N BR CHIPPEWA RIVER MERIDIAN RD NR MT PLEASANT MI",
+  "waterbody": "N BR CHIPPEWA RIVER MERIDIAN RD NR MT PLEASANT MI",
+  "state": "MI",
+  "latitude": 43.59268056,
+  "longitude": -84.847925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04153905",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

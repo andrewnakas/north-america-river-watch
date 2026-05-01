@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02276877",
+  "key": "02276877",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02276877",
+  "name": "ST. LUCIE CANAL BLW S-308, NR PORT MAYACA (AUX) FL",
+  "waterbody": "ST. LUCIE CANAL BLW S-308, NR PORT MAYACA (AUX) FL",
+  "state": "FL",
+  "latitude": 26.98553333,
+  "longitude": -80.6156,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02276877",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

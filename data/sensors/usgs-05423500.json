@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05423500",
+  "key": "05423500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05423500",
+  "name": "SOUTH BRANCH ROCK RIVER AT WAUPUN, WI",
+  "waterbody": "SOUTH BRANCH ROCK RIVER AT WAUPUN, WI",
+  "state": "WI",
+  "latitude": 43.64165509,
+  "longitude": -88.72066309,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPNW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Rock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wpnw3",
+  "slug": "usgs-05423500",
+  "noaaForecastPath": "data/noaa-forecast/WPNW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

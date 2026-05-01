@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04087240",
+  "key": "04087240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087240",
+  "name": "ROOT RIVER AT RACINE, WI",
+  "waterbody": "ROOT RIVER AT RACINE, WI",
+  "state": "WI",
+  "latitude": 42.75138889,
+  "longitude": -87.8236111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RACW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Root River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/racw3",
+  "slug": "usgs-04087240",
+  "noaaForecastPath": "data/noaa-forecast/RACW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

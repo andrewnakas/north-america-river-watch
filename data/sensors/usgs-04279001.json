@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04279001",
+  "key": "04279001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04279001",
+  "name": "LA CHUTE (TAILRACE) AT TICONDEROGA NY",
+  "waterbody": "LA CHUTE (TAILRACE) AT TICONDEROGA NY",
+  "state": "NY",
+  "latitude": 43.8440833,
+  "longitude": -73.4317222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04279001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

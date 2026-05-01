@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06844900",
+  "key": "06844900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06844900",
+  "name": "SF SAPPA C NR ACHILLES, KS",
+  "waterbody": "SF SAPPA C NR ACHILLES, KS",
+  "state": "KS",
+  "latitude": 39.67694848,
+  "longitude": -100.722093,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06844900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

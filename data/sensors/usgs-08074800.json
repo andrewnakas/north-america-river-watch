@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08074800",
+  "key": "08074800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08074800",
+  "name": "Keegans Bayou at Roark Rd nr Houston, TX",
+  "waterbody": "Keegans Bayou at Roark Rd nr Houston, TX",
+  "state": "TX",
+  "latitude": 29.65662136,
+  "longitude": -95.5621664,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08074800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

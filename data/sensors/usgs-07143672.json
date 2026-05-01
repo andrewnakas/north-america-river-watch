@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07143672",
+  "key": "07143672",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07143672",
+  "name": "L ARKANSAS R AT HWY 50 NR HALSTEAD, KS",
+  "waterbody": "L ARKANSAS R AT HWY 50 NR HALSTEAD, KS",
+  "state": "KS",
+  "latitude": 38.02853056,
+  "longitude": -97.5405417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTDK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htdk1",
+  "slug": "usgs-07143672",
+  "noaaForecastPath": "data/noaa-forecast/HTDK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:332106112314101",
+  "key": "332106112314101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "332106112314101",
+  "name": "GILA RIVER BELOW WATERMAN WASH NEAR BUCKEYE, AZ",
+  "waterbody": "GILA RIVER BELOW WATERMAN WASH NEAR BUCKEYE, AZ",
+  "state": "AZ",
+  "latitude": 33.3516833,
+  "longitude": -112.5280444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-332106112314101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08055560",
+  "key": "08055560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08055560",
+  "name": "Elm Fk Trinity Rv at Spur 348, Irving, TX",
+  "waterbody": "Elm Fk Trinity Rv at Spur 348, Irving, TX",
+  "state": "TX",
+  "latitude": 32.87333333,
+  "longitude": -96.9305556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08055560",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

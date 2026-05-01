@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15302000",
+  "key": "15302000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15302000",
+  "name": "NUYAKUK R NR DILLINGHAM AK",
+  "waterbody": "NUYAKUK R NR DILLINGHAM AK",
+  "state": "AK",
+  "latitude": 59.93482769,
+  "longitude": -158.1900527,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nuyakuk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrda2",
+  "slug": "usgs-15302000",
+  "noaaForecastPath": "data/noaa-forecast/NRDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01466500",
+  "key": "01466500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466500",
+  "name": "McDonalds Branch in Byrne State Forest NJ",
+  "waterbody": "McDonalds Branch in Byrne State Forest NJ",
+  "state": "NJ",
+  "latitude": 39.885,
+  "longitude": -74.50527778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCDN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "McDonalds Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcdn4",
+  "slug": "usgs-01466500",
+  "noaaForecastPath": "data/noaa-forecast/MCDN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

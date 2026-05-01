@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07036100",
+  "key": "07036100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07036100",
+  "name": "St. Francis River near Saco, MO",
+  "waterbody": "St. Francis River near Saco, MO",
+  "state": "MO",
+  "latitude": 37.3845,
+  "longitude": -90.4738611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Francis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sazm7",
+  "slug": "usgs-07036100",
+  "noaaForecastPath": "data/noaa-forecast/SAZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

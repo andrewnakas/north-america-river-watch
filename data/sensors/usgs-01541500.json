@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01541500",
+  "key": "01541500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01541500",
+  "name": "Clearfield Creek at Dimeling, PA",
+  "waterbody": "Clearfield Creek at Dimeling, PA",
+  "state": "PA",
+  "latitude": 40.97172406,
+  "longitude": -78.4058533,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DMLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clearfield Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dmlp1",
+  "slug": "usgs-01541500",
+  "noaaForecastPath": "data/noaa-forecast/DMLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10137300",
+  "key": "10137300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10137300",
+  "name": "SOUTH FK OGDEN R BL CAUSEY RES NR HUNTSVILLE, UTAH",
+  "waterbody": "SOUTH FK OGDEN R BL CAUSEY RES NR HUNTSVILLE, UTAH",
+  "state": "UT",
+  "latitude": 41.29615278,
+  "longitude": -111.5914167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10137300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

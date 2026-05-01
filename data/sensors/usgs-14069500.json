@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14069500",
+  "key": "14069500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14069500",
+  "name": "NORTH CANAL NEAR BEND,OREG.",
+  "waterbody": "NORTH CANAL NEAR BEND,OREG.",
+  "state": "OR",
+  "latitude": 44.0776174,
+  "longitude": -121.3122544,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14069500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

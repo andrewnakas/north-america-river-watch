@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05422560",
+  "key": "05422560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05422560",
+  "name": "Duck Creek at 110th Avenue at Davenport, IA",
+  "waterbody": "Duck Creek at 110th Avenue at Davenport, IA",
+  "state": "IA",
+  "latitude": 41.55669745,
+  "longitude": -90.6876409,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05422560",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

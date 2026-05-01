@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13061300",
+  "key": "13061300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13061300",
+  "name": "GREAT WESTERN CANAL WASTE NR WOODVILLE ID",
+  "waterbody": "GREAT WESTERN CANAL WASTE NR WOODVILLE ID",
+  "state": "ID",
+  "latitude": 43.3825,
+  "longitude": -112.1719444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13061300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

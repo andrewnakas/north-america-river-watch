@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08020000",
+  "key": "08020000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08020000",
+  "name": "Sabine Rv nr Gladewater, TX",
+  "waterbody": "Sabine Rv nr Gladewater, TX",
+  "state": "TX",
+  "latitude": 32.52708909,
+  "longitude": -94.9602175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdwt2",
+  "slug": "usgs-08020000",
+  "noaaForecastPath": "data/noaa-forecast/GDWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

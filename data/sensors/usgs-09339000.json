@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09339000",
+  "key": "09339000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09339000",
+  "name": "BOULDER CREEK NEAR BOULDER, UT",
+  "waterbody": "BOULDER CREEK NEAR BOULDER, UT",
+  "state": "UT",
+  "latitude": 37.78193297,
+  "longitude": -111.360167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09339000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

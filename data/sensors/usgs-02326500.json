@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02326500",
+  "key": "02326500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326500",
+  "name": "AUCILLA RIVER AT LAMONT, FLA.",
+  "waterbody": "AUCILLA RIVER AT LAMONT, FLA.",
+  "state": "FL",
+  "latitude": 30.36992847,
+  "longitude": -83.80682559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aucilla River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lamf1",
+  "slug": "usgs-02326500",
+  "noaaForecastPath": "data/noaa-forecast/LAMF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

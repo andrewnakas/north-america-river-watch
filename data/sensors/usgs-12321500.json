@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12321500",
+  "key": "12321500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12321500",
+  "name": "BOUNDARY CREEK NR PORTHILL ID",
+  "waterbody": "BOUNDARY CREEK NR PORTHILL ID",
+  "state": "ID",
+  "latitude": 48.9972222,
+  "longitude": -116.5691667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12321500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

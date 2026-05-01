@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14044000",
+  "key": "14044000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14044000",
+  "name": "MIDDLE FORK JOHN DAY RIVER AT RITTER, OR",
+  "waterbody": "MIDDLE FORK JOHN DAY RIVER AT RITTER, OR",
+  "state": "OR",
+  "latitude": 44.88876388,
+  "longitude": -119.1413686,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RTRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork John Day River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rtro3",
+  "slug": "usgs-14044000",
+  "noaaForecastPath": "data/noaa-forecast/RTRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

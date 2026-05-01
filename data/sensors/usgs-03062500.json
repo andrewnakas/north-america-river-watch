@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03062500",
+  "key": "03062500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062500",
+  "name": "DECKERS CREEK AT MORGANTOWN, WV",
+  "waterbody": "DECKERS CREEK AT MORGANTOWN, WV",
+  "state": "WV",
+  "latitude": 39.62924826,
+  "longitude": -79.9525633,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deckers Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dckw2",
+  "slug": "usgs-03062500",
+  "noaaForecastPath": "data/noaa-forecast/DCKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

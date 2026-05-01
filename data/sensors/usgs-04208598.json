@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208598",
+  "key": "04208598",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208598",
+  "name": "Doan Brook at MLK Jr Dr at Cleveland OH",
+  "waterbody": "Doan Brook at MLK Jr Dr at Cleveland OH",
+  "state": "OH",
+  "latitude": 41.51416667,
+  "longitude": -81.6183333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Doan Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnbo1",
+  "slug": "usgs-04208598",
+  "noaaForecastPath": "data/noaa-forecast/DNBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

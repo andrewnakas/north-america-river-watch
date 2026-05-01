@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344478",
+  "key": "02344478",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344478",
+  "name": "SHOAL CREEK AT SHOAL CREEK ROAD, NEAR GRIFFIN, GA",
+  "waterbody": "SHOAL CREEK AT SHOAL CREEK ROAD, NEAR GRIFFIN, GA",
+  "state": "GA",
+  "latitude": 33.2568611,
+  "longitude": -84.3627222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoal Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shlg1",
+  "slug": "usgs-02344478",
+  "noaaForecastPath": "data/noaa-forecast/SHLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

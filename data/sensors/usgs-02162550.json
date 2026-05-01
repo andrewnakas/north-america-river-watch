@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02162550",
+  "key": "02162550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02162550",
+  "name": "SALUDA RIVER ABOVE I-85 NR GOLDEN GROVE, SC",
+  "waterbody": "SALUDA RIVER ABOVE I-85 NR GOLDEN GROVE, SC",
+  "state": "SC",
+  "latitude": 34.7793611,
+  "longitude": -82.4586667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02162550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

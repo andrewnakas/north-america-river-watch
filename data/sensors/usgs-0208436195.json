@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208436195",
+  "key": "0208436195",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208436195",
+  "name": "TRANTERS CREEK AT SR1403 NEAR WASHINGTON, NC",
+  "waterbody": "TRANTERS CREEK AT SR1403 NEAR WASHINGTON, NC",
+  "state": "NC",
+  "latitude": 35.56305556,
+  "longitude": -77.0861111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRAN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tranters Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tran7",
+  "slug": "usgs-0208436195",
+  "noaaForecastPath": "data/noaa-forecast/TRAN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

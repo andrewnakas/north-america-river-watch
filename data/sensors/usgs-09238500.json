@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09238500",
+  "key": "09238500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09238500",
+  "name": "WALTON CREEK NEAR STEAMBOAT SPRINGS, CO.",
+  "waterbody": "WALTON CREEK NEAR STEAMBOAT SPRINGS, CO.",
+  "state": "CO",
+  "latitude": 40.4080346,
+  "longitude": -106.7869917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09238500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

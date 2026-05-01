@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14013000",
+  "key": "14013000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14013000",
+  "name": "MILL CREEK NEAR WALLA WALLA, WA",
+  "waterbody": "MILL CREEK NEAR WALLA WALLA, WA",
+  "state": "WA",
+  "latitude": 46.00789299,
+  "longitude": -118.1185586,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLKW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (WA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlkw1",
+  "slug": "usgs-14013000",
+  "noaaForecastPath": "data/noaa-forecast/MLKW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

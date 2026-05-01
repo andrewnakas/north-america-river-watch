@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03456991",
+  "key": "03456991",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03456991",
+  "name": "PIGEON RIVER NEAR CANTON, NC",
+  "waterbody": "PIGEON RIVER NEAR CANTON, NC",
+  "state": "NC",
+  "latitude": 35.52194444,
+  "longitude": -82.8480556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctpn7",
+  "slug": "usgs-03456991",
+  "noaaForecastPath": "data/noaa-forecast/CTPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

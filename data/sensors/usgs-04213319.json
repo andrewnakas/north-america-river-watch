@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04213319",
+  "key": "04213319",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04213319",
+  "name": "CHAUTAUQUA CREEK BELOW WESTFIELD NY",
+  "waterbody": "CHAUTAUQUA CREEK BELOW WESTFIELD NY",
+  "state": "NY",
+  "latitude": 42.33080556,
+  "longitude": -79.5899167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chautauqua Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfln6",
+  "slug": "usgs-04213319",
+  "noaaForecastPath": "data/noaa-forecast/WFLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

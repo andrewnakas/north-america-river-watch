@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07273100",
+  "key": "07273100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07273100",
+  "name": "HOTOPHA CREEK NR BATESVILLE, MS",
+  "waterbody": "HOTOPHA CREEK NR BATESVILLE, MS",
+  "state": "MS",
+  "latitude": 34.36388889,
+  "longitude": -89.8786111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07273100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

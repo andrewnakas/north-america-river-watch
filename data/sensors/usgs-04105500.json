@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04105500",
+  "key": "04105500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04105500",
+  "name": "KALAMAZOO RIVER NEAR BATTLE CREEK, MI",
+  "waterbody": "KALAMAZOO RIVER NEAR BATTLE CREEK, MI",
+  "state": "MI",
+  "latitude": 42.32392989,
+  "longitude": -85.1974929,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kalamazoo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btcm4",
+  "slug": "usgs-04105500",
+  "noaaForecastPath": "data/noaa-forecast/BTCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

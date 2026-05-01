@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10163000",
+  "key": "10163000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10163000",
+  "name": "PROVO RIVER AT PROVO, UT",
+  "waterbody": "PROVO RIVER AT PROVO, UT",
+  "state": "UT",
+  "latitude": 40.23925556,
+  "longitude": -111.7111944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPPU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Provo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pppu1",
+  "slug": "usgs-10163000",
+  "noaaForecastPath": "data/noaa-forecast/PPPU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

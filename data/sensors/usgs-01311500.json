@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01311500",
+  "key": "01311500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01311500",
+  "name": "VALLEY STREAM AT VALLEY STREAM NY",
+  "waterbody": "VALLEY STREAM AT VALLEY STREAM NY",
+  "state": "NY",
+  "latitude": 40.66380556,
+  "longitude": -73.70452778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01311500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

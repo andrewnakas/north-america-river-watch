@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04067500",
+  "key": "04067500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04067500",
+  "name": "MENOMINEE RIVER NEAR MC ALLISTER, WI",
+  "waterbody": "MENOMINEE RIVER NEAR MC ALLISTER, WI",
+  "state": "WI",
+  "latitude": 45.3258333,
+  "longitude": -87.6633333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCAW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menominee River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcaw3",
+  "slug": "usgs-04067500",
+  "noaaForecastPath": "data/noaa-forecast/MCAW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

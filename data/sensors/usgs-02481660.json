@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02481660",
+  "key": "02481660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02481660",
+  "name": "JOURDAN RIVER NR BAY ST LOUIS, MS",
+  "waterbody": "JOURDAN RIVER NR BAY ST LOUIS, MS",
+  "state": "MS",
+  "latitude": 30.3872222,
+  "longitude": -89.4413889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLNM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jourdan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/klnm6",
+  "slug": "usgs-02481660",
+  "noaaForecastPath": "data/noaa-forecast/KLNM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

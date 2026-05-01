@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310687",
+  "key": "02310687",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310687",
+  "name": "HALLS RIVER AT KINGSTON DR AT HOMOSASSA SPRINGS FL",
+  "waterbody": "HALLS RIVER AT KINGSTON DR AT HOMOSASSA SPRINGS FL",
+  "state": "FL",
+  "latitude": 28.822983,
+  "longitude": -82.595383,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HSHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Halls River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hshf1",
+  "slug": "usgs-02310687",
+  "noaaForecastPath": "data/noaa-forecast/HSHF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06131200",
+  "key": "06131200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06131200",
+  "name": "Nelson Creek near Van Norman MT",
+  "waterbody": "Nelson Creek near Van Norman MT",
+  "state": "MT",
+  "latitude": 47.5365944,
+  "longitude": -106.1534528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06131200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

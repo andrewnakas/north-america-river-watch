@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04058940",
+  "key": "04058940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04058940",
+  "name": "ESCANABA RIVER NEAR ST. NICHOLAS, MI",
+  "waterbody": "ESCANABA RIVER NEAR ST. NICHOLAS, MI",
+  "state": "MI",
+  "latitude": 45.9791249,
+  "longitude": -87.27041509,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04058940",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

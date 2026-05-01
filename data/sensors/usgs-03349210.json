@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03349210",
+  "key": "03349210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03349210",
+  "name": "CICERO CREEK AT TIPTON, IN",
+  "waterbody": "CICERO CREEK AT TIPTON, IN",
+  "state": "IN",
+  "latitude": 40.27697386,
+  "longitude": -86.042464,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cicero Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccti3",
+  "slug": "usgs-03349210",
+  "noaaForecastPath": "data/noaa-forecast/CCTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

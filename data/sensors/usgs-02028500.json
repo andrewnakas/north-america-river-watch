@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02028500",
+  "key": "02028500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02028500",
+  "name": "ROCKFISH RIVER NEAR GREENFIELD, VA",
+  "waterbody": "ROCKFISH RIVER NEAR GREENFIELD, VA",
+  "state": "VA",
+  "latitude": 37.86958499,
+  "longitude": -78.8233543,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rockfish River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkrv2",
+  "slug": "usgs-02028500",
+  "noaaForecastPath": "data/noaa-forecast/RKRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

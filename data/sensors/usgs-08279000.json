@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08279000",
+  "key": "08279000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08279000",
+  "name": "EMBUDO CREEK AT DIXON, NM",
+  "waterbody": "EMBUDO CREEK AT DIXON, NM",
+  "state": "NM",
+  "latitude": 36.21085556,
+  "longitude": -105.9136306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DIXN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Embudo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dixn5",
+  "slug": "usgs-08279000",
+  "noaaForecastPath": "data/noaa-forecast/DIXN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

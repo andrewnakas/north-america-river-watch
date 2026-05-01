@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07325000",
+  "key": "07325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07325000",
+  "name": "Washita River near Clinton, OK",
+  "waterbody": "Washita River near Clinton, OK",
+  "state": "OK",
+  "latitude": 35.5308832,
+  "longitude": -98.9670296,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLIO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clio2",
+  "slug": "usgs-07325000",
+  "noaaForecastPath": "data/noaa-forecast/CLIO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

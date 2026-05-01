@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02400175",
+  "key": "02400175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02400175",
+  "name": "COOSA RIVER AT ADAMS FERRY BR NR BALLPLAY, AL",
+  "waterbody": "COOSA RIVER AT ADAMS FERRY BR NR BALLPLAY, AL",
+  "state": "AL",
+  "latitude": 34.08676436,
+  "longitude": -85.789967,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02400175",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

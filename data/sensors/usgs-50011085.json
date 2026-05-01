@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50011085",
+  "key": "50011085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50011085",
+  "name": "CANAL DE MOCA ABV LAGO REGULADOR (E13) ISABELA, PR",
+  "waterbody": "CANAL DE MOCA ABV LAGO REGULADOR (E13) ISABELA, PR",
+  "state": "PR",
+  "latitude": 18.457344,
+  "longitude": -67.027883,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50011085",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

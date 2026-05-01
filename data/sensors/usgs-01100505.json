@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01100505",
+  "key": "01100505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100505",
+  "name": "SPICKET RIVER AT NORTH SALEM, NH",
+  "waterbody": "SPICKET RIVER AT NORTH SALEM, NH",
+  "state": "NH",
+  "latitude": 42.8492547,
+  "longitude": -71.2150607,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSLN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spicket River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nsln3",
+  "slug": "usgs-01100505",
+  "noaaForecastPath": "data/noaa-forecast/NSLN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

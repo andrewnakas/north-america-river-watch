@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01410000",
+  "key": "01410000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01410000",
+  "name": "Oswego River at Harrisville NJ",
+  "waterbody": "Oswego River at Harrisville NJ",
+  "state": "NJ",
+  "latitude": 39.66394444,
+  "longitude": -74.52344444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01410000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

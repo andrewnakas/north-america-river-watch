@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05498000",
+  "key": "05498000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05498000",
+  "name": "Middle Fabius River near Monticello, MO",
+  "waterbody": "Middle Fabius River near Monticello, MO",
+  "state": "MO",
+  "latitude": 40.09355556,
+  "longitude": -91.7355,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05498000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

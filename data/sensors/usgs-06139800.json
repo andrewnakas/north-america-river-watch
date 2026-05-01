@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06139800",
+  "key": "06139800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06139800",
+  "name": "West Fork Beaver Creek nr Rocky Boy, MT",
+  "waterbody": "West Fork Beaver Creek nr Rocky Boy, MT",
+  "state": "MT",
+  "latitude": 48.1761472,
+  "longitude": -109.6421333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06139800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

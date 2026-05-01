@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16225800",
+  "key": "16225800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16225800",
+  "name": "N. Halawa Str nr Kaneohe, Oahu, HI",
+  "waterbody": "N. Halawa Str nr Kaneohe, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.4061111,
+  "longitude": -157.8655556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16225800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

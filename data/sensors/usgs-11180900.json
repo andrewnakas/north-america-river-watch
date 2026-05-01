@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11180900",
+  "key": "11180900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11180900",
+  "name": "CROW C NR HAYWARD CA",
+  "waterbody": "CROW C NR HAYWARD CA",
+  "state": "CA",
+  "latitude": 37.70493008,
+  "longitude": -122.0438508,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcrc1",
+  "slug": "usgs-11180900",
+  "noaaForecastPath": "data/noaa-forecast/KCRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

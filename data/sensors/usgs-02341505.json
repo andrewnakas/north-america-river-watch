@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02341505",
+  "key": "02341505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02341505",
+  "name": "CHATTAHOOCHEE RIVER AT US 280, NEAR COLUMBUS, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER AT US 280, NEAR COLUMBUS, GA",
+  "state": "GA",
+  "latitude": 32.45319898,
+  "longitude": -84.9952095,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02341505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

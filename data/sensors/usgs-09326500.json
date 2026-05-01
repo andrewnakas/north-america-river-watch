@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09326500",
+  "key": "09326500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09326500",
+  "name": "FERRON CREEK (UPPER STATION) NEAR FERRON, UT",
+  "waterbody": "FERRON CREEK (UPPER STATION) NEAR FERRON, UT",
+  "state": "UT",
+  "latitude": 39.1049972,
+  "longitude": -111.2289917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRRU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ferron Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frru1",
+  "slug": "usgs-09326500",
+  "noaaForecastPath": "data/noaa-forecast/FRRU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

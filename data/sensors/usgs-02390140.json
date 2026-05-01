@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02390140",
+  "key": "02390140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02390140",
+  "name": "SETTINGDOWN CREEK NEAR BALL GROUND, GA",
+  "waterbody": "SETTINGDOWN CREEK NEAR BALL GROUND, GA",
+  "state": "GA",
+  "latitude": 34.29316667,
+  "longitude": -84.2635556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FREG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Settingdown Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/freg1",
+  "slug": "usgs-02390140",
+  "noaaForecastPath": "data/noaa-forecast/FREG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01502731",
+  "key": "01502731",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01502731",
+  "name": "SUSQUEHANNA RIVER AT WINDSOR NY",
+  "waterbody": "SUSQUEHANNA RIVER AT WINDSOR NY",
+  "state": "NY",
+  "latitude": 42.07405556,
+  "longitude": -75.6369444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsrn6",
+  "slug": "usgs-01502731",
+  "noaaForecastPath": "data/noaa-forecast/WSRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

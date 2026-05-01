@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07378810",
+  "key": "07378810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07378810",
+  "name": "Bayou Fountain at Bluebonnet Blvd near  B.R., LA",
+  "waterbody": "Bayou Fountain at Bluebonnet Blvd near  B.R., LA",
+  "state": "LA",
+  "latitude": 30.35852615,
+  "longitude": -91.1081603,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbrl1",
+  "slug": "usgs-07378810",
+  "noaaForecastPath": "data/noaa-forecast/BBRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09424450",
+  "key": "09424450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09424450",
+  "name": "BIG SANDY RIVER NEAR WIKIEUP, AZ",
+  "waterbody": "BIG SANDY RIVER NEAR WIKIEUP, AZ",
+  "state": "AZ",
+  "latitude": 34.4625286,
+  "longitude": -113.6243843,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKPA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy River (AZ)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkpa3",
+  "slug": "usgs-09424450",
+  "noaaForecastPath": "data/noaa-forecast/WKPA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

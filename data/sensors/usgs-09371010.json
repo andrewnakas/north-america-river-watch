@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09371010",
+  "key": "09371010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09371010",
+  "name": "SAN JUAN RIVER AT FOUR CORNERS, CO",
+  "waterbody": "SAN JUAN RIVER AT FOUR CORNERS, CO",
+  "state": "CO",
+  "latitude": 37.00113889,
+  "longitude": -109.0295833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SJFC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Juan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sjfc2",
+  "slug": "usgs-09371010",
+  "noaaForecastPath": "data/noaa-forecast/SJFC2.json",
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

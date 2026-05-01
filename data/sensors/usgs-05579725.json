@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05579725",
+  "key": "05579725",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05579725",
+  "name": "LITTLE KICKAPOO CREEK NEAR HEYWORTH, IL",
+  "waterbody": "LITTLE KICKAPOO CREEK NEAR HEYWORTH, IL",
+  "state": "IL",
+  "latitude": 40.3649722,
+  "longitude": -88.9641944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HEYI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Kickapoo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/heyi2",
+  "slug": "usgs-05579725",
+  "noaaForecastPath": "data/noaa-forecast/HEYI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

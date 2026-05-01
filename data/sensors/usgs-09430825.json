@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09430825",
+  "key": "09430825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09430825",
+  "name": "GILA FARMS DITCH NR GILA, NM",
+  "waterbody": "GILA FARMS DITCH NR GILA, NM",
+  "state": "NM",
+  "latitude": 32.98333333,
+  "longitude": -108.5708333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09430825",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02105769",
+  "key": "02105769",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02105769",
+  "name": "CAPE FEAR R AT LOCK 1 NR KELLY, NC",
+  "waterbody": "CAPE FEAR R AT LOCK 1 NR KELLY, NC",
+  "state": "NC",
+  "latitude": 34.40444444,
+  "longitude": -78.2936111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cape Fear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpfn7",
+  "slug": "usgs-02105769",
+  "noaaForecastPath": "data/noaa-forecast/CPFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

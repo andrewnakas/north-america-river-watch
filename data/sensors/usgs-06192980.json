@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06192980",
+  "key": "06192980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06192980",
+  "name": "Shields River ab Smith Cr, nr Wilsall, MT",
+  "waterbody": "Shields River ab Smith Cr, nr Wilsall, MT",
+  "state": "MT",
+  "latitude": 46.1671611,
+  "longitude": -110.5542861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06192980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

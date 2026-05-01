@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03082500",
+  "key": "03082500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03082500",
+  "name": "Youghiogheny River at Connellsville, PA",
+  "waterbody": "Youghiogheny River at Connellsville, PA",
+  "state": "PA",
+  "latitude": 40.01752778,
+  "longitude": -79.5932222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Youghiogheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cllp1",
+  "slug": "usgs-03082500",
+  "noaaForecastPath": "data/noaa-forecast/CLLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

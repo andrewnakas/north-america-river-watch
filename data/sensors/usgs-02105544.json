@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02105544",
+  "key": "02105544",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02105544",
+  "name": "CAPE FEAR RIVER AT LOCK 2 NEAR ELIZABETHTOWN, NC",
+  "waterbody": "CAPE FEAR RIVER AT LOCK 2 NEAR ELIZABETHTOWN, NC",
+  "state": "NC",
+  "latitude": 34.63249167,
+  "longitude": -78.6028444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02105544",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

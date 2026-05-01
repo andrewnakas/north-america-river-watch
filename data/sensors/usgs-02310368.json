@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310368",
+  "key": "02310368",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310368",
+  "name": "BEAR CREEK NEAR BAYONET POINT FL",
+  "waterbody": "BEAR CREEK NEAR BAYONET POINT FL",
+  "state": "FL",
+  "latitude": 28.33877778,
+  "longitude": -82.6987778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BPBF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bpbf1",
+  "slug": "usgs-02310368",
+  "noaaForecastPath": "data/noaa-forecast/BPBF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

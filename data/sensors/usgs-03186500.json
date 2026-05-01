@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03186500",
+  "key": "03186500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03186500",
+  "name": "WILLIAMS RIVER AT DYER, WV",
+  "waterbody": "WILLIAMS RIVER AT DYER, WV",
+  "state": "WV",
+  "latitude": 38.37899915,
+  "longitude": -80.4839737,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DYRW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williams River (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dyrw2",
+  "slug": "usgs-03186500",
+  "noaaForecastPath": "data/noaa-forecast/DYRW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

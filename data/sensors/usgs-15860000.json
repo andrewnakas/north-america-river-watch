@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15860000",
+  "key": "15860000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15860000",
+  "name": "FISH C NR NUIQSUT AK",
+  "waterbody": "FISH C NR NUIQSUT AK",
+  "state": "AK",
+  "latitude": 70.270199,
+  "longitude": -151.872308,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NUIA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fish Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nuia2",
+  "slug": "usgs-15860000",
+  "noaaForecastPath": "data/noaa-forecast/NUIA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

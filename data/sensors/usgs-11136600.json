@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11136600",
+  "key": "11136600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11136600",
+  "name": "SANTA BARBARA CYN C NR VENTUCOPA CA",
+  "waterbody": "SANTA BARBARA CYN C NR VENTUCOPA CA",
+  "state": "CA",
+  "latitude": 34.82081167,
+  "longitude": -119.5573223,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11136600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02428400",
+  "key": "02428400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02428400",
+  "name": "ALABAMA RIVER AT CLAIBORNE L&D NEAR MONROEVILLE",
+  "waterbody": "ALABAMA RIVER AT CLAIBORNE L&D NEAR MONROEVILLE",
+  "state": "AL",
+  "latitude": 31.61515849,
+  "longitude": -87.550548,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02428400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

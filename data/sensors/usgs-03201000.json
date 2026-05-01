@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03201000",
+  "key": "03201000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03201000",
+  "name": "POCATALICO RIVER AT SISSONVILLE, WV",
+  "waterbody": "POCATALICO RIVER AT SISSONVILLE, WV",
+  "state": "WV",
+  "latitude": 38.52620409,
+  "longitude": -81.6312379,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SISW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pocatalico River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sisw2",
+  "slug": "usgs-03201000",
+  "noaaForecastPath": "data/noaa-forecast/SISW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

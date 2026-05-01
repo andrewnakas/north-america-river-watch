@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03290080",
+  "key": "03290080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03290080",
+  "name": "KENTUCKY RIVER AT LOCK 3 AT GEST, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 3 AT GEST, KY",
+  "state": "KY",
+  "latitude": 38.4167353,
+  "longitude": -84.8807829,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gstk2",
+  "slug": "usgs-03290080",
+  "noaaForecastPath": "data/noaa-forecast/GSTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

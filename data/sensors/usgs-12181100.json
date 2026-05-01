@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12181100",
+  "key": "12181100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12181100",
+  "name": "SF CASCADE R AT S CASCADE GL NR MARBLEMOUNT, WA",
+  "waterbody": "SF CASCADE R AT S CASCADE GL NR MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.3701239,
+  "longitude": -121.0742756,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12181100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

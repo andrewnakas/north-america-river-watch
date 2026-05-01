@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04249910",
+  "key": "04249910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04249910",
+  "name": "BEAVERDAM BROOK AT ALTMAR NY",
+  "waterbody": "BEAVERDAM BROOK AT ALTMAR NY",
+  "state": "NY",
+  "latitude": 43.5086111,
+  "longitude": -75.99277778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04249910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

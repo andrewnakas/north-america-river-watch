@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04072410",
+  "key": "04072410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04072410",
+  "name": "FOX RIVER NEAR PARDEEVILLE, WI",
+  "waterbody": "FOX RIVER NEAR PARDEEVILLE, WI",
+  "state": "WI",
+  "latitude": 43.56998268,
+  "longitude": -89.2684503,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04072410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

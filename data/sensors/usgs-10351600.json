@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10351600",
+  "key": "10351600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10351600",
+  "name": "TRUCKEE RV BLW DERBY DAM NR WADSWORTH, NV",
+  "waterbody": "TRUCKEE RV BLW DERBY DAM NR WADSWORTH, NV",
+  "state": "NV",
+  "latitude": 39.58463448,
+  "longitude": -119.4412872,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TBDN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tbdn2",
+  "slug": "usgs-10351600",
+  "noaaForecastPath": "data/noaa-forecast/TBDN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

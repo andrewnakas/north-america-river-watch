@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06027600",
+  "key": "06027600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06027600",
+  "name": "Jefferson River at Parsons Bdg nr Silver Star, MT",
+  "waterbody": "Jefferson River at Parsons Bdg nr Silver Star, MT",
+  "state": "MT",
+  "latitude": 45.747503,
+  "longitude": -112.187228,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jefferson River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbrm8",
+  "slug": "usgs-06027600",
+  "noaaForecastPath": "data/noaa-forecast/PBRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

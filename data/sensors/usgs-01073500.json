@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01073500",
+  "key": "01073500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01073500",
+  "name": "LAMPREY RIVER NEAR NEWMARKET, NH",
+  "waterbody": "LAMPREY RIVER NEAR NEWMARKET, NH",
+  "state": "NH",
+  "latitude": 43.10258558,
+  "longitude": -70.952559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAMN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lamprey River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lamn3",
+  "slug": "usgs-01073500",
+  "noaaForecastPath": "data/noaa-forecast/LAMN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

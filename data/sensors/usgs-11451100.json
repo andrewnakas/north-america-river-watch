@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11451100",
+  "key": "11451100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11451100",
+  "name": "NF CACHE C A HOUGH SPRING NR CLEARLAKE OAKS CA",
+  "waterbody": "NF CACHE C A HOUGH SPRING NR CLEARLAKE OAKS CA",
+  "state": "CA",
+  "latitude": 39.1654458,
+  "longitude": -122.6199862,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOUC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Cache Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/houc1",
+  "slug": "usgs-11451100",
+  "noaaForecastPath": "data/noaa-forecast/HOUC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

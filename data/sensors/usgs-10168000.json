@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10168000",
+  "key": "10168000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10168000",
+  "name": "LITTLE COTTONWOOD CREEK @ JORDAN RIVER NR SLC",
+  "waterbody": "LITTLE COTTONWOOD CREEK @ JORDAN RIVER NR SLC",
+  "state": "UT",
+  "latitude": 40.66430556,
+  "longitude": -111.898861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCJU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cottonwood Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcju1",
+  "slug": "usgs-10168000",
+  "noaaForecastPath": "data/noaa-forecast/LCJU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

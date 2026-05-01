@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14219800",
+  "key": "14219800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14219800",
+  "name": "SPEELYAI CREEK NEAR COUGAR, WA",
+  "waterbody": "SPEELYAI CREEK NEAR COUGAR, WA",
+  "state": "WA",
+  "latitude": 46.004555,
+  "longitude": -122.3442638,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14219800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

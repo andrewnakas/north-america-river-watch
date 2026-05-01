@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0423204920",
+  "key": "0423204920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0423204920",
+  "name": "EAST BRANCH ALLEN CREEK AT PITTSFORD NY",
+  "waterbody": "EAST BRANCH ALLEN CREEK AT PITTSFORD NY",
+  "state": "NY",
+  "latitude": 43.10305556,
+  "longitude": -77.5333333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0423204920",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

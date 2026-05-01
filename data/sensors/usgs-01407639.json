@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01407639",
+  "key": "01407639",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01407639",
+  "name": "Harvey Brook US Corlies Av at Allenhurst NJ",
+  "waterbody": "Harvey Brook US Corlies Av at Allenhurst NJ",
+  "state": "NJ",
+  "latitude": 40.2375833,
+  "longitude": -74.008,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01407639",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

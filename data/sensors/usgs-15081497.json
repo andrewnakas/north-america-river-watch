@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15081497",
+  "key": "15081497",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15081497",
+  "name": "STANEY C NR KLAWOCK AK",
+  "waterbody": "STANEY C NR KLAWOCK AK",
+  "state": "AK",
+  "latitude": 55.8012313,
+  "longitude": -133.1102972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Staney Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scka2",
+  "slug": "usgs-15081497",
+  "noaaForecastPath": "data/noaa-forecast/SCKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

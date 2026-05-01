@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08200700",
+  "key": "08200700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08200700",
+  "name": "Hondo Ck at King Waterhole nr Hondo, TX",
+  "waterbody": "Hondo Ck at King Waterhole nr Hondo, TX",
+  "state": "TX",
+  "latitude": 29.39078876,
+  "longitude": -99.1514252,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08200700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

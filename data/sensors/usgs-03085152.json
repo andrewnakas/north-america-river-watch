@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03085152",
+  "key": "03085152",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085152",
+  "name": "Monongahela R at Point State Park at Pittsburgh",
+  "waterbody": "Monongahela R at Point State Park at Pittsburgh",
+  "state": "PA",
+  "latitude": 40.43944444,
+  "longitude": -80.0108333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pttp1",
+  "slug": "usgs-03085152",
+  "noaaForecastPath": "data/noaa-forecast/PTTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

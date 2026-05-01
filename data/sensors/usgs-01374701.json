@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01374701",
+  "key": "01374701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374701",
+  "name": "WEST BRANCH CROTON RIVER NEAR CROTON FALLS NY",
+  "waterbody": "WEST BRANCH CROTON RIVER NEAR CROTON FALLS NY",
+  "state": "NY",
+  "latitude": 41.358,
+  "longitude": -73.6679722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01374701",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

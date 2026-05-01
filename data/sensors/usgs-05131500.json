@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05131500",
+  "key": "05131500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05131500",
+  "name": "LITTLE FORK RIVER AT LITTLEFORK, MN",
+  "waterbody": "LITTLE FORK RIVER AT LITTLEFORK, MN",
+  "state": "MN",
+  "latitude": 48.3954278,
+  "longitude": -93.5496852,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LFKM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lfkm5",
+  "slug": "usgs-05131500",
+  "noaaForecastPath": "data/noaa-forecast/LFKM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

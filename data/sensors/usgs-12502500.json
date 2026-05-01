@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12502500",
+  "key": "12502500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12502500",
+  "name": "AHTANUM CREEK AT UNION GAP, WA",
+  "waterbody": "AHTANUM CREEK AT UNION GAP, WA",
+  "state": "WA",
+  "latitude": 46.53596038,
+  "longitude": -120.4733968,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AHUW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ahtanum Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ahuw1",
+  "slug": "usgs-12502500",
+  "noaaForecastPath": "data/noaa-forecast/AHUW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

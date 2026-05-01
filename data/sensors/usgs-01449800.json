@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01449800",
+  "key": "01449800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01449800",
+  "name": "Pohopoco Cr bl Beltzville Dam nr Parryville, PA",
+  "waterbody": "Pohopoco Cr bl Beltzville Dam nr Parryville, PA",
+  "state": "PA",
+  "latitude": 40.84564756,
+  "longitude": -75.6457437,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pohopoco Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pryp1",
+  "slug": "usgs-01449800",
+  "noaaForecastPath": "data/noaa-forecast/PRYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

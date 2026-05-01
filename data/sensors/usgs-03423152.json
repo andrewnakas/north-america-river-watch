@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03423152",
+  "key": "03423152",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03423152",
+  "name": "FALLING WATER RIVER BELOW BURGESS FALLS DAM, TN",
+  "waterbody": "FALLING WATER RIVER BELOW BURGESS FALLS DAM, TN",
+  "state": "TN",
+  "latitude": 36.0447849,
+  "longitude": -85.5947014,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03423152",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02169750",
+  "key": "02169750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169750",
+  "name": "CONGAREE RIVER AT U.S. HWY 601 NR. FORT MOTTE, SC",
+  "waterbody": "CONGAREE RIVER AT U.S. HWY 601 NR. FORT MOTTE, SC",
+  "state": "SC",
+  "latitude": 33.7530732,
+  "longitude": -80.6449766,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFMS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Congaree River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfms1",
+  "slug": "usgs-02169750",
+  "noaaForecastPath": "data/noaa-forecast/CFMS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11507500",
+  "key": "11507500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11507500",
+  "name": "LINK RIVER AT KLAMATH FALLS, OR",
+  "waterbody": "LINK RIVER AT KLAMATH FALLS, OR",
+  "state": "OR",
+  "latitude": 42.22347795,
+  "longitude": -121.7941708,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11507500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

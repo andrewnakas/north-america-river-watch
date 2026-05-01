@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09271000",
+  "key": "09271000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09271000",
+  "name": "ASHLEY CR NR REMEMBER THE MAINE PARK NR VERNAL, UT",
+  "waterbody": "ASHLEY CR NR REMEMBER THE MAINE PARK NR VERNAL, UT",
+  "state": "UT",
+  "latitude": 40.5141111,
+  "longitude": -109.5943694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMPU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashley Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ampu1",
+  "slug": "usgs-09271000",
+  "noaaForecastPath": "data/noaa-forecast/AMPU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

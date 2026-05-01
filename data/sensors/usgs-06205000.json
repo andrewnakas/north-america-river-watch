@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06205000",
+  "key": "06205000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06205000",
+  "name": "Stillwater River near Absarokee, MT",
+  "waterbody": "Stillwater River near Absarokee, MT",
+  "state": "MT",
+  "latitude": 45.53674167,
+  "longitude": -109.4220556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRAM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwater River (South Central MT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sram8",
+  "slug": "usgs-06205000",
+  "noaaForecastPath": "data/noaa-forecast/SRAM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

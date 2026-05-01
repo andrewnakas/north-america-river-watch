@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13038000",
+  "key": "13038000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13038000",
+  "name": "DRY BED NR RIRIE ID",
+  "waterbody": "DRY BED NR RIRIE ID",
+  "state": "ID",
+  "latitude": 43.63888889,
+  "longitude": -111.716111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13038000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

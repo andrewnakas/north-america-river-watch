@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01037050",
+  "key": "01037050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01037050",
+  "name": "Penobscot River at Bangor, Maine",
+  "waterbody": "Penobscot River at Bangor, Maine",
+  "state": "ME",
+  "latitude": 44.79638889,
+  "longitude": -68.76777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BPRM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Penobscot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bprm1",
+  "slug": "usgs-01037050",
+  "noaaForecastPath": "data/noaa-forecast/BPRM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

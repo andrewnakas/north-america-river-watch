@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02350080",
+  "key": "02350080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02350080",
+  "name": "LIME CREEK NEAR COBB, GA",
+  "waterbody": "LIME CREEK NEAR COBB, GA",
+  "state": "GA",
+  "latitude": 32.03388889,
+  "longitude": -83.99638889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02350080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

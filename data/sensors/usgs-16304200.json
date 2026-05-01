@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16304200",
+  "key": "16304200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16304200",
+  "name": "Kaluanui Stream nr Punaluu, Oahu, HI",
+  "waterbody": "Kaluanui Stream nr Punaluu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.5861111,
+  "longitude": -157.9080556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaluanui Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/klsh1",
+  "slug": "usgs-16304200",
+  "noaaForecastPath": "data/noaa-forecast/KLSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13349200",
+  "key": "13349200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13349200",
+  "name": "SOUTH FORK PALOUSE RIVER AT COLFAX, WA",
+  "waterbody": "SOUTH FORK PALOUSE RIVER AT COLFAX, WA",
+  "state": "WA",
+  "latitude": 46.8765542,
+  "longitude": -117.3635161,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13349200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

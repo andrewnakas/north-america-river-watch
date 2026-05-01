@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11307550",
+  "key": "11307550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11307550",
+  "name": "NF CALAVERAS R NR MOKELUMNE HILL CA",
+  "waterbody": "NF CALAVERAS R NR MOKELUMNE HILL CA",
+  "state": "CA",
+  "latitude": 38.2819722,
+  "longitude": -120.6701806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11307550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

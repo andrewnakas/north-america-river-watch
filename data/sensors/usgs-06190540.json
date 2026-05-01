@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06190540",
+  "key": "06190540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06190540",
+  "name": "Boiling River at Mammoth,YNP",
+  "waterbody": "Boiling River at Mammoth,YNP",
+  "state": "WY",
+  "latitude": 44.9851333,
+  "longitude": -110.6893444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gardner River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdrm8",
+  "slug": "usgs-06190540",
+  "noaaForecastPath": "data/noaa-forecast/GDRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

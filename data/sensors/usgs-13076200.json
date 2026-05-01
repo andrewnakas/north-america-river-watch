@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13076200",
+  "key": "13076200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13076200",
+  "name": "BANNOCK CREEK NR POCATELLO ID",
+  "waterbody": "BANNOCK CREEK NR POCATELLO ID",
+  "state": "ID",
+  "latitude": 42.88602435,
+  "longitude": -112.6424866,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13076200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

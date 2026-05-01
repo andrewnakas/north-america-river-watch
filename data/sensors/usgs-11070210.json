@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11070210",
+  "key": "11070210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11070210",
+  "name": "SAN JACINTO R A RAMONA EXPRESSWAY NR LAKEVIEW CA",
+  "waterbody": "SAN JACINTO R A RAMONA EXPRESSWAY NR LAKEVIEW CA",
+  "state": "CA",
+  "latitude": 33.83974065,
+  "longitude": -117.135866,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11070210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07332603",
+  "key": "07332603",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332603",
+  "name": "Bois D'Arc Creek at FM 271 nr Bonham, TX",
+  "waterbody": "Bois D'Arc Creek at FM 271 nr Bonham, TX",
+  "state": "TX",
+  "latitude": 33.55502778,
+  "longitude": -96.1695833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07332603",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

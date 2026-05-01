@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05059300",
+  "key": "05059300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05059300",
+  "name": "SHEYENNE R AB SHEYENNE R DIVERSION NR HORACE, ND",
+  "waterbody": "SHEYENNE R AB SHEYENNE R DIVERSION NR HORACE, ND",
+  "state": "ND",
+  "latitude": 46.74638889,
+  "longitude": -96.9269444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRCN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrcn8",
+  "slug": "usgs-05059300",
+  "noaaForecastPath": "data/noaa-forecast/HRCN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

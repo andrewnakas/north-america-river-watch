@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209205053",
+  "key": "0209205053",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209205053",
+  "name": "SWIFT CREEK AT HWY 43 NR STREETS FERRY, NC",
+  "waterbody": "SWIFT CREEK AT HWY 43 NR STREETS FERRY, NC",
+  "state": "NC",
+  "latitude": 35.2308333,
+  "longitude": -77.11388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swift Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swfn7",
+  "slug": "usgs-0209205053",
+  "noaaForecastPath": "data/noaa-forecast/SWFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

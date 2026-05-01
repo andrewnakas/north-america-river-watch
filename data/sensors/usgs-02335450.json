@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02335450",
+  "key": "02335450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335450",
+  "name": "CHATTAHOOCHEE RIVER ABOVE ROSWELL, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER ABOVE ROSWELL, GA",
+  "state": "GA",
+  "latitude": 33.98580556,
+  "longitude": -84.3156944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RWLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rwlg1",
+  "slug": "usgs-02335450",
+  "noaaForecastPath": "data/noaa-forecast/RWLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

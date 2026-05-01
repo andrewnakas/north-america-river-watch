@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16647000",
+  "key": "16647000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16647000",
+  "name": "Ukumehame Gulch nr Olowalu, Maui, HI",
+  "waterbody": "Ukumehame Gulch nr Olowalu, Maui, HI",
+  "state": "HI",
+  "latitude": 20.81854167,
+  "longitude": -156.5833639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16647000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

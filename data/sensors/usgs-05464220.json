@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05464220",
+  "key": "05464220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05464220",
+  "name": "Wolf Creek near Dysart, IA",
+  "waterbody": "Wolf Creek near Dysart, IA",
+  "state": "IA",
+  "latitude": 42.25152778,
+  "longitude": -92.2988889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DYSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dysi4",
+  "slug": "usgs-05464220",
+  "noaaForecastPath": "data/noaa-forecast/DYSI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

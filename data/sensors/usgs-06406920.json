@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06406920",
+  "key": "06406920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06406920",
+  "name": "SPRING CREEK ABOVE SHERIDAN LAKE NEAR KEYSTONE, SD",
+  "waterbody": "SPRING CREEK ABOVE SHERIDAN LAKE NEAR KEYSTONE, SD",
+  "state": "SD",
+  "latitude": 43.96082089,
+  "longitude": -103.4888017,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06406920",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.379Z"
+}

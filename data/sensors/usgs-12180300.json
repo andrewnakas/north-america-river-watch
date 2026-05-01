@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12180300",
+  "key": "12180300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12180300",
+  "name": "SKAGIT RIVER ABV DIOBSUD CRK NEAR MARBLEMOUNT, WA",
+  "waterbody": "SKAGIT RIVER ABV DIOBSUD CRK NEAR MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.5608611,
+  "longitude": -121.4112778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12180300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

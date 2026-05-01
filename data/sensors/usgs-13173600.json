@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13173600",
+  "key": "13173600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13173600",
+  "name": "SNAKE RIVER NR ADRIAN OR",
+  "waterbody": "SNAKE RIVER NR ADRIAN OR",
+  "state": "OR",
+  "latitude": 43.7309932,
+  "longitude": -117.0718258,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13173600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

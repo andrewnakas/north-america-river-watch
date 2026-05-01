@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06901205",
+  "key": "06901205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06901205",
+  "name": "East Locust Creek near Boynton, MO",
+  "waterbody": "East Locust Creek near Boynton, MO",
+  "state": "MO",
+  "latitude": 40.25888889,
+  "longitude": -93.0833333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06901205",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

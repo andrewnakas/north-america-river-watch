@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02249007",
+  "key": "02249007",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02249007",
+  "name": "EAU GALLIE RIV AT HEATHER GLEN CIR AT MELBOURNE FL",
+  "waterbody": "EAU GALLIE RIV AT HEATHER GLEN CIR AT MELBOURNE FL",
+  "state": "FL",
+  "latitude": 28.12695888,
+  "longitude": -80.6467205,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAUF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eau Gallie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eauf1",
+  "slug": "usgs-02249007",
+  "noaaForecastPath": "data/noaa-forecast/EAUF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

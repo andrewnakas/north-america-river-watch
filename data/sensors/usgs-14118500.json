@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14118500",
+  "key": "14118500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14118500",
+  "name": "WEST FORK HOOD RIVER NEAR DEE,OREG.",
+  "waterbody": "WEST FORK HOOD RIVER NEAR DEE,OREG.",
+  "state": "OR",
+  "latitude": 45.5984508,
+  "longitude": -121.6359082,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFHO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Hood River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfho3",
+  "slug": "usgs-14118500",
+  "noaaForecastPath": "data/noaa-forecast/WFHO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

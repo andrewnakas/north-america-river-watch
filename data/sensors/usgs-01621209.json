@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01621209",
+  "key": "01621209",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01621209",
+  "name": "WAR BRANCH NEAR BUTTERCUP LN NEAR HINTON, VA",
+  "waterbody": "WAR BRANCH NEAR BUTTERCUP LN NEAR HINTON, VA",
+  "state": "VA",
+  "latitude": 38.46813889,
+  "longitude": -78.9805833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01621209",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

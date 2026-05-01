@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12323760",
+  "key": "12323760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12323760",
+  "name": "Warm Springs Creek near Anaconda MT",
+  "waterbody": "Warm Springs Creek near Anaconda MT",
+  "state": "MT",
+  "latitude": 46.13366667,
+  "longitude": -112.9031528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Warm Springs Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/andm8",
+  "slug": "usgs-12323760",
+  "noaaForecastPath": "data/noaa-forecast/ANDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

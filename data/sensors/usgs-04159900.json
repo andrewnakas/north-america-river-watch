@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04159900",
+  "key": "04159900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04159900",
+  "name": "MILL CREEK NEAR AVOCA, MI",
+  "waterbody": "MILL CREEK NEAR AVOCA, MI",
+  "state": "MI",
+  "latitude": 43.0544713,
+  "longitude": -82.734649,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AVOM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/avom4",
+  "slug": "usgs-04159900",
+  "noaaForecastPath": "data/noaa-forecast/AVOM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

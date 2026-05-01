@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03293000",
+  "key": "03293000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03293000",
+  "name": "M FK BEARGRASS AT OLD CANNONS LN AT LOUISVILLE, KY",
+  "waterbody": "M FK BEARGRASS AT OLD CANNONS LN AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.237222,
+  "longitude": -85.664722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STMK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Beargrass Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stmk2",
+  "slug": "usgs-03293000",
+  "noaaForecastPath": "data/noaa-forecast/STMK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

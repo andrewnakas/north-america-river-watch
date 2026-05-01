@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08396500",
+  "key": "08396500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08396500",
+  "name": "PECOS RIVER NEAR ARTESIA, NM",
+  "waterbody": "PECOS RIVER NEAR ARTESIA, NM",
+  "state": "NM",
+  "latitude": 32.8408611,
+  "longitude": -104.3238333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATSN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 6 miles E of Artesia",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atsn5",
+  "slug": "usgs-08396500",
+  "noaaForecastPath": "data/noaa-forecast/ATSN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

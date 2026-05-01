@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08119500",
+  "key": "08119500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08119500",
+  "name": "Colorado Rv at Hwy 350 nr Ira, TX",
+  "waterbody": "Colorado Rv at Hwy 350 nr Ira, TX",
+  "state": "TX",
+  "latitude": 32.53915278,
+  "longitude": -101.0552222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX) 4 miles SW of Ira",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irat2",
+  "slug": "usgs-08119500",
+  "noaaForecastPath": "data/noaa-forecast/IRAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

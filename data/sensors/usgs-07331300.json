@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07331300",
+  "key": "07331300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07331300",
+  "name": "Pennington Creek near Reagan, OK",
+  "waterbody": "Pennington Creek near Reagan, OK",
+  "state": "OK",
+  "latitude": 34.3513333,
+  "longitude": -96.7103889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RPCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pennington Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rpco2",
+  "slug": "usgs-07331300",
+  "noaaForecastPath": "data/noaa-forecast/RPCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

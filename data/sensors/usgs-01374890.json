@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01374890",
+  "key": "01374890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374890",
+  "name": "CROSS RIVER NEAR CROSS RIVER NY",
+  "waterbody": "CROSS RIVER NEAR CROSS RIVER NY",
+  "state": "NY",
+  "latitude": 41.2602222,
+  "longitude": -73.6018611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "XRVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cross River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/xrvn6",
+  "slug": "usgs-01374890",
+  "noaaForecastPath": "data/noaa-forecast/XRVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

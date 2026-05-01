@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11119745",
+  "key": "11119745",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11119745",
+  "name": "MISSION C A ROCKY NOOK PARK A SANTA BARBARA CA",
+  "waterbody": "MISSION C A ROCKY NOOK PARK A SANTA BARBARA CA",
+  "state": "CA",
+  "latitude": 34.44055266,
+  "longitude": -119.7118027,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11119745",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

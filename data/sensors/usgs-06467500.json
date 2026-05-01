@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06467500",
+  "key": "06467500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06467500",
+  "name": "MISSOURI RIVER AT YANKTON, SD",
+  "waterbody": "MISSOURI RIVER AT YANKTON, SD",
+  "state": "SD",
+  "latitude": 42.86608985,
+  "longitude": -97.3939586,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YANS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yans2",
+  "slug": "usgs-06467500",
+  "noaaForecastPath": "data/noaa-forecast/YANS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

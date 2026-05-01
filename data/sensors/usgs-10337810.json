@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10337810",
+  "key": "10337810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10337810",
+  "name": "NF WASHESHU C A OLYMPIC VALLEY CA",
+  "waterbody": "NF WASHESHU C A OLYMPIC VALLEY CA",
+  "state": "CA",
+  "latitude": 39.198775,
+  "longitude": -120.241111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10337810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

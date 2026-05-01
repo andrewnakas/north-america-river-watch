@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01484500",
+  "key": "01484500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01484500",
+  "name": "STOCKLEY BRANCH AT STOCKLEY, DE",
+  "waterbody": "STOCKLEY BRANCH AT STOCKLEY, DE",
+  "state": "DE",
+  "latitude": 38.6388611,
+  "longitude": -75.3419722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01484500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

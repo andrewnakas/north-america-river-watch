@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03242050",
+  "key": "03242050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03242050",
+  "name": "Little Miami River near Spring Valley OH",
+  "waterbody": "Little Miami River near Spring Valley OH",
+  "state": "OH",
+  "latitude": 39.58339358,
+  "longitude": -84.030211,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llmo1",
+  "slug": "usgs-03242050",
+  "noaaForecastPath": "data/noaa-forecast/LLMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

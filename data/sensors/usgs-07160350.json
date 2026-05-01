@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07160350",
+  "key": "07160350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07160350",
+  "name": "Skeleton Creek at Enid, OK",
+  "waterbody": "Skeleton Creek at Enid, OK",
+  "state": "OK",
+  "latitude": 36.3761449,
+  "longitude": -97.8003332,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skeleton Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/esco2",
+  "slug": "usgs-07160350",
+  "noaaForecastPath": "data/noaa-forecast/ESCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

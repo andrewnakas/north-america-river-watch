@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16417200",
+  "key": "16417200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16417200",
+  "name": "Kainalu Gulch nr Pauwalu, Molokai, HI",
+  "waterbody": "Kainalu Gulch nr Pauwalu, Molokai, HI",
+  "state": "HI",
+  "latitude": 21.09483889,
+  "longitude": -156.7786667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16417200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

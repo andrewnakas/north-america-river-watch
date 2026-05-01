@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03409500",
+  "key": "03409500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03409500",
+  "name": "CLEAR FORK NEAR ROBBINS, TN",
+  "waterbody": "CLEAR FORK NEAR ROBBINS, TN",
+  "state": "TN",
+  "latitude": 36.38829775,
+  "longitude": -84.6301691,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFKT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork River 3 miles NW of Robbins",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfkt1",
+  "slug": "usgs-03409500",
+  "noaaForecastPath": "data/noaa-forecast/CFKT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01483500",
+  "key": "01483500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01483500",
+  "name": "LEIPSIC RIVER NEAR CHESWOLD, DE",
+  "waterbody": "LEIPSIC RIVER NEAR CHESWOLD, DE",
+  "state": "DE",
+  "latitude": 39.2328611,
+  "longitude": -75.6323056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01483500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12189700",
+  "key": "12189700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12189700",
+  "name": "SKAGIT RIVER ABOVE MILLER CREEK NEAR ROCKPORT, WA",
+  "waterbody": "SKAGIT RIVER ABOVE MILLER CREEK NEAR ROCKPORT, WA",
+  "state": "WA",
+  "latitude": 48.48077778,
+  "longitude": -121.6513056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12189700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

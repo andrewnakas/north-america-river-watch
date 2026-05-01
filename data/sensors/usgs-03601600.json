@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03601600",
+  "key": "03601600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03601600",
+  "name": "DUCK RIVER NEAR SHADY GROVE, TN.",
+  "waterbody": "DUCK RIVER NEAR SHADY GROVE, TN.",
+  "state": "TN",
+  "latitude": 35.72065845,
+  "longitude": -87.266038,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03601600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

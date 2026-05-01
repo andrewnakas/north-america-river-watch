@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01546500",
+  "key": "01546500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01546500",
+  "name": "Spring Creek near Axemann, PA",
+  "waterbody": "Spring Creek near Axemann, PA",
+  "state": "PA",
+  "latitude": 40.88978334,
+  "longitude": -77.794168,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AXEP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/axep1",
+  "slug": "usgs-01546500",
+  "noaaForecastPath": "data/noaa-forecast/AXEP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

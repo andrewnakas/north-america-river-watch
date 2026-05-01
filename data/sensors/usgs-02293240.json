@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02293240",
+  "key": "02293240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02293240",
+  "name": "ARIES CANAL AT CAPE CORAL, FL",
+  "waterbody": "ARIES CANAL AT CAPE CORAL, FL",
+  "state": "FL",
+  "latitude": 26.6003523,
+  "longitude": -81.9939785,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02293240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

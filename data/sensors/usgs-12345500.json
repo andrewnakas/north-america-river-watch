@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12345500",
+  "key": "12345500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12345500",
+  "name": "Bitterroot Irrigation District Canal nr Darby, MT",
+  "waterbody": "Bitterroot Irrigation District Canal nr Darby, MT",
+  "state": "MT",
+  "latitude": 46.07111667,
+  "longitude": -114.21671667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12345500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

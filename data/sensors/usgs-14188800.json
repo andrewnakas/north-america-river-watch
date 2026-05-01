@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14188800",
+  "key": "14188800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14188800",
+  "name": "THOMAS CREEK NEAR SCIO, OR",
+  "waterbody": "THOMAS CREEK NEAR SCIO, OR",
+  "state": "OR",
+  "latitude": 44.71206687,
+  "longitude": -122.7700878,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thomas Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trso3",
+  "slug": "usgs-14188800",
+  "noaaForecastPath": "data/noaa-forecast/TRSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

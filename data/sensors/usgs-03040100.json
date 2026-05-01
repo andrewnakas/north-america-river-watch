@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03040100",
+  "key": "03040100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03040100",
+  "name": "Little Conemaugh River at Wilmore, PA",
+  "waterbody": "Little Conemaugh River at Wilmore, PA",
+  "state": "PA",
+  "latitude": 40.3839072,
+  "longitude": -78.719446,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03040100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

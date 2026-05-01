@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01616500",
+  "key": "01616500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01616500",
+  "name": "OPEQUON CREEK NEAR MARTINSBURG, WV",
+  "waterbody": "OPEQUON CREEK NEAR MARTINSBURG, WV",
+  "state": "WV",
+  "latitude": 39.42371047,
+  "longitude": -77.9386084,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBGW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Opequon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbgw2",
+  "slug": "usgs-01616500",
+  "noaaForecastPath": "data/noaa-forecast/MBGW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

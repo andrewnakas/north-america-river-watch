@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13299255",
+  "key": "13299255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13299255",
+  "name": "MORGAN CREEK ABV WF MORGAN CREEK NR CHALLIS ID",
+  "waterbody": "MORGAN CREEK ABV WF MORGAN CREEK NR CHALLIS ID",
+  "state": "ID",
+  "latitude": 44.68388889,
+  "longitude": -114.2463889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13299255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

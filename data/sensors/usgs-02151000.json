@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02151000",
+  "key": "02151000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02151000",
+  "name": "SECOND BROAD RIVER AT CLIFFSIDE, NC",
+  "waterbody": "SECOND BROAD RIVER AT CLIFFSIDE, NC",
+  "state": "NC",
+  "latitude": 35.23567858,
+  "longitude": -81.76565609,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02151000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

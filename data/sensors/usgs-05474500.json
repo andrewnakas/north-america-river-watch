@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05474500",
+  "key": "05474500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05474500",
+  "name": "Mississippi River at Keokuk, IA",
+  "waterbody": "Mississippi River at Keokuk, IA",
+  "state": "IA",
+  "latitude": 40.39365535,
+  "longitude": -91.374318,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EOKI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eoki4",
+  "slug": "usgs-05474500",
+  "noaaForecastPath": "data/noaa-forecast/EOKI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

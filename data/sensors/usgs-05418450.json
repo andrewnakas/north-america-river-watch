@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05418450",
+  "key": "05418450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05418450",
+  "name": "North Fork Maquoketa River at Fulton, IA",
+  "waterbody": "North Fork Maquoketa River at Fulton, IA",
+  "state": "IA",
+  "latitude": 42.14668375,
+  "longitude": -90.6759674,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05418450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

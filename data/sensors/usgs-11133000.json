@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11133000",
+  "key": "11133000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11133000",
+  "name": "SANTA YNEZ R A NARROWS NR LOMPOC CA",
+  "waterbody": "SANTA YNEZ R A NARROWS NR LOMPOC CA",
+  "state": "CA",
+  "latitude": 34.6360873,
+  "longitude": -120.4245645,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRWC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Ynez River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrwc1",
+  "slug": "usgs-11133000",
+  "noaaForecastPath": "data/noaa-forecast/NRWC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

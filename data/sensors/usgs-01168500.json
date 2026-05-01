@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01168500",
+  "key": "01168500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01168500",
+  "name": "DEERFIELD RIVER AT CHARLEMONT, MA",
+  "waterbody": "DEERFIELD RIVER AT CHARLEMONT, MA",
+  "state": "MA",
+  "latitude": 42.626,
+  "longitude": -72.8541944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLMM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deerfield River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clmm3",
+  "slug": "usgs-01168500",
+  "noaaForecastPath": "data/noaa-forecast/CLMM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

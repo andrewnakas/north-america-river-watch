@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12116400",
+  "key": "12116400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12116400",
+  "name": "CEDAR RIVER AT POWERPLANT AT CEDAR FALLS, WA",
+  "waterbody": "CEDAR RIVER AT POWERPLANT AT CEDAR FALLS, WA",
+  "state": "WA",
+  "latitude": 47.41871388,
+  "longitude": -121.781498,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12116400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

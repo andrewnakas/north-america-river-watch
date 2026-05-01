@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01010000",
+  "key": "01010000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01010000",
+  "name": "St. John River at Ninemile Bridge, Maine",
+  "waterbody": "St. John River at Ninemile Bridge, Maine",
+  "state": "ME",
+  "latitude": 46.70055556,
+  "longitude": -69.7155556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NINM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. John River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ninm1",
+  "slug": "usgs-01010000",
+  "noaaForecastPath": "data/noaa-forecast/NINM1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

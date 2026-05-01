@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13074400",
+  "key": "13074400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13074400",
+  "name": "Portneuf R. at Inkom, ID",
+  "waterbody": "Portneuf R. at Inkom, ID",
+  "state": "ID",
+  "latitude": 42.79183333,
+  "longitude": -112.25206944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13074400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

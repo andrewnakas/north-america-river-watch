@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11530000",
+  "key": "11530000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11530000",
+  "name": "TRINITY R A HOOPA CA",
+  "waterbody": "TRINITY R A HOOPA CA",
+  "state": "CA",
+  "latitude": 41.0498236,
+  "longitude": -123.6736278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOOC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hooc1",
+  "slug": "usgs-11530000",
+  "noaaForecastPath": "data/noaa-forecast/HOOC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

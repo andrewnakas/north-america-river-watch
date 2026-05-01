@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08014800",
+  "key": "08014800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08014800",
+  "name": "Bundick Creek near DeRidder, LA",
+  "waterbody": "Bundick Creek near DeRidder, LA",
+  "state": "LA",
+  "latitude": 30.81880557,
+  "longitude": -93.2301619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUNL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bundick Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bunl1",
+  "slug": "usgs-08014800",
+  "noaaForecastPath": "data/noaa-forecast/BUNL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

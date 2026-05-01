@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11465350",
+  "key": "11465350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11465350",
+  "name": "DRY C NR MOUTH NR HEALDSBURG CA",
+  "waterbody": "DRY C NR MOUTH NR HEALDSBURG CA",
+  "state": "CA",
+  "latitude": 38.58737009,
+  "longitude": -122.8621784,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Creek (Russian R.)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dric1",
+  "slug": "usgs-11465350",
+  "noaaForecastPath": "data/noaa-forecast/DRIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

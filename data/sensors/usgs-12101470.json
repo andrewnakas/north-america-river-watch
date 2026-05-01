@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12101470",
+  "key": "12101470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12101470",
+  "name": "PUYALLUP RIVER AT 5TH ST BRIDGE AT PUYALLUP, WA",
+  "waterbody": "PUYALLUP RIVER AT 5TH ST BRIDGE AT PUYALLUP, WA",
+  "state": "WA",
+  "latitude": 47.19871179,
+  "longitude": -122.287342,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12101470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

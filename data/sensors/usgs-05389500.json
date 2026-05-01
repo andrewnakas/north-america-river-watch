@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05389500",
+  "key": "05389500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05389500",
+  "name": "Mississippi River at McGregor, IA",
+  "waterbody": "Mississippi River at McGregor, IA",
+  "state": "IA",
+  "latitude": 43.02701224,
+  "longitude": -91.1726298,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCGI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcgi4",
+  "slug": "usgs-05389500",
+  "noaaForecastPath": "data/noaa-forecast/MCGI4.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

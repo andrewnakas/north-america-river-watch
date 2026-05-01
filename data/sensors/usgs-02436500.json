@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02436500",
+  "key": "02436500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02436500",
+  "name": "TOWN CREEK NR NETTLETON, MS",
+  "waterbody": "TOWN CREEK NR NETTLETON, MS",
+  "state": "MS",
+  "latitude": 34.05916667,
+  "longitude": -88.6280556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02436500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

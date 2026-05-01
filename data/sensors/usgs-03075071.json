@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03075071",
+  "key": "03075071",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03075071",
+  "name": "Monongahela River below Lock & Dam 3 at Elizabeth",
+  "waterbody": "Monongahela River below Lock & Dam 3 at Elizabeth",
+  "state": "PA",
+  "latitude": 40.26527778,
+  "longitude": -79.8977778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03075071",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

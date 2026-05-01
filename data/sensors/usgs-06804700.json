@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06804700",
+  "key": "06804700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06804700",
+  "name": "Wahoo Creek at Ashland, Nebr.",
+  "waterbody": "Wahoo Creek at Ashland, Nebr.",
+  "state": "NE",
+  "latitude": 41.053394,
+  "longitude": -96.367922,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASNN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wahoo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asnn1",
+  "slug": "usgs-06804700",
+  "noaaForecastPath": "data/noaa-forecast/ASNN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

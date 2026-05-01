@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07180200",
+  "key": "07180200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07180200",
+  "name": "COTTONWOOD R AT MARION, KS",
+  "waterbody": "COTTONWOOD R AT MARION, KS",
+  "state": "KS",
+  "latitude": 38.34862667,
+  "longitude": -97.032801,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07180200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

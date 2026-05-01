@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50027000",
+  "key": "50027000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50027000",
+  "name": "RIO LIMON ABV LAGO DOS BOCAS, PR",
+  "waterbody": "RIO LIMON ABV LAGO DOS BOCAS, PR",
+  "state": "PR",
+  "latitude": 18.326094,
+  "longitude": -66.621028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARHP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Limon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arhp4",
+  "slug": "usgs-50027000",
+  "noaaForecastPath": "data/noaa-forecast/ARHP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10291500",
+  "key": "10291500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10291500",
+  "name": "BUCKEYE CK NR BRIDGEPORT, CA",
+  "waterbody": "BUCKEYE CK NR BRIDGEPORT, CA",
+  "state": "CA",
+  "latitude": 38.23880787,
+  "longitude": -119.3259923,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buckeye Creek (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkic1",
+  "slug": "usgs-10291500",
+  "noaaForecastPath": "data/noaa-forecast/BKIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

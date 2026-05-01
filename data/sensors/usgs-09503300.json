@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09503300",
+  "key": "09503300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09503300",
+  "name": "GRANITE CREEK BELOW WATSON LAKE NEAR PRESCOTT, AZ",
+  "waterbody": "GRANITE CREEK BELOW WATSON LAKE NEAR PRESCOTT, AZ",
+  "state": "AZ",
+  "latitude": 34.6136111,
+  "longitude": -112.4172222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09503300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

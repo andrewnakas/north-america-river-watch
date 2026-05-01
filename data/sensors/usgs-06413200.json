@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06413200",
+  "key": "06413200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06413200",
+  "name": "RAPID CREEK BELOW PARK DRIVE AT RAPID CITY SD",
+  "waterbody": "RAPID CREEK BELOW PARK DRIVE AT RAPID CITY SD",
+  "state": "SD",
+  "latitude": 44.05915448,
+  "longitude": -103.2843498,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06413200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

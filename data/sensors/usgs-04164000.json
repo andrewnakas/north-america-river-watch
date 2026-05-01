@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04164000",
+  "key": "04164000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04164000",
+  "name": "CLINTON RIVER NEAR FRASER, MI",
+  "waterbody": "CLINTON RIVER NEAR FRASER, MI",
+  "state": "MI",
+  "latitude": 42.57781225,
+  "longitude": -82.951589,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clinton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fsrm4",
+  "slug": "usgs-04164000",
+  "noaaForecastPath": "data/noaa-forecast/FSRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

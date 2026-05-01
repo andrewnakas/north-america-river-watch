@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01411175",
+  "key": "01411175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01411175",
+  "name": "Great Egg Harbor R at US 40 at Mays Landing NJ",
+  "waterbody": "Great Egg Harbor R at US 40 at Mays Landing NJ",
+  "state": "NJ",
+  "latitude": 39.4486111,
+  "longitude": -74.7269444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01411175",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

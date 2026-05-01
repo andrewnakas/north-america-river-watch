@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05355250",
+  "key": "05355250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05355250",
+  "name": "MISSISSIPPI RIVER AT RED WING, MN",
+  "waterbody": "MISSISSIPPI RIVER AT RED WING, MN",
+  "state": "MN",
+  "latitude": 44.56530556,
+  "longitude": -92.5424444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "REDM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/redm5",
+  "slug": "usgs-05355250",
+  "noaaForecastPath": "data/noaa-forecast/REDM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01545600",
+  "key": "01545600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01545600",
+  "name": "Young Womans Creek near Renovo, PA",
+  "waterbody": "Young Womans Creek near Renovo, PA",
+  "state": "PA",
+  "latitude": 41.3894498,
+  "longitude": -77.6907967,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RNOP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Young Womans Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rnop1",
+  "slug": "usgs-01545600",
+  "noaaForecastPath": "data/noaa-forecast/RNOP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

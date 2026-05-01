@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01389802",
+  "key": "01389802",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01389802",
+  "name": "Passaic R at Passaic (Great) Falls at Paterson NJ",
+  "waterbody": "Passaic R at Passaic (Great) Falls at Paterson NJ",
+  "state": "NJ",
+  "latitude": 40.9158333,
+  "longitude": -74.1816667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01389802",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

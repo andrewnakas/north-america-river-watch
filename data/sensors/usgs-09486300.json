@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09486300",
+  "key": "09486300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486300",
+  "name": "CANADA DEL ORO NEAR TUCSON, AZ",
+  "waterbody": "CANADA DEL ORO NEAR TUCSON, AZ",
+  "state": "AZ",
+  "latitude": 32.3742403,
+  "longitude": -111.0092662,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09486300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

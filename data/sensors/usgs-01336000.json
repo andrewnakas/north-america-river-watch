@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01336000",
+  "key": "01336000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01336000",
+  "name": "MOHAWK RIVER BELOW DELTA DAM NEAR ROME NY",
+  "waterbody": "MOHAWK RIVER BELOW DELTA DAM NEAR ROME NY",
+  "state": "NY",
+  "latitude": 43.265139,
+  "longitude": -75.435806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DDMN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mohawk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ddmn6",
+  "slug": "usgs-01336000",
+  "noaaForecastPath": "data/noaa-forecast/DDMN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

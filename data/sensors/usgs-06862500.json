@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06862500",
+  "key": "06862500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06862500",
+  "name": "SMOKY HILL R NR ELLIS, KS",
+  "waterbody": "SMOKY HILL R NR ELLIS, KS",
+  "state": "KS",
+  "latitude": 38.768626,
+  "longitude": -99.560039,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06862500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

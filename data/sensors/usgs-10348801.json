@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348801",
+  "key": "10348801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348801",
+  "name": "STEAMBOAT CK AT WASHOE LK DAM AT NEW WASHOE CITY",
+  "waterbody": "STEAMBOAT CK AT WASHOE LK DAM AT NEW WASHOE CITY",
+  "state": "NV",
+  "latitude": 39.3298333,
+  "longitude": -119.8019167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348801",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

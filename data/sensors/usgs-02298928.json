@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298928",
+  "key": "02298928",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298928",
+  "name": "TRIBUTARY TO MYAKKA RIVER NEAR VENICE FL",
+  "waterbody": "TRIBUTARY TO MYAKKA RIVER NEAR VENICE FL",
+  "state": "FL",
+  "latitude": 27.1231098,
+  "longitude": -82.3425939,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOWF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Myakka River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bowf1",
+  "slug": "usgs-02298928",
+  "noaaForecastPath": "data/noaa-forecast/BOWF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

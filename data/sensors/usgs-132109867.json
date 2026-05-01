@@ -1,0 +1,19 @@
+{
+  "id": "usgs:132109867",
+  "key": "132109867",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "132109867",
+  "name": "EAST HARTLEY ABV BACKWATER NR CALDWELL, ID",
+  "waterbody": "EAST HARTLEY ABV BACKWATER NR CALDWELL, ID",
+  "state": "ID",
+  "latitude": 43.700306,
+  "longitude": -116.673178,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-132109867",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

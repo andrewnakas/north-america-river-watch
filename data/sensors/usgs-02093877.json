@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02093877",
+  "key": "02093877",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02093877",
+  "name": "BRUSH CREEK AT MUIRFIELD RD AT GREENSBORO, NC",
+  "waterbody": "BRUSH CREEK AT MUIRFIELD RD AT GREENSBORO, NC",
+  "state": "NC",
+  "latitude": 36.12805556,
+  "longitude": -79.92388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brush Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brsn7",
+  "slug": "usgs-02093877",
+  "noaaForecastPath": "data/noaa-forecast/BRSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

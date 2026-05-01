@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03197950",
+  "key": "03197950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03197950",
+  "name": "ELK RIVER AT CHARLESTON, WV",
+  "waterbody": "ELK RIVER AT CHARLESTON, WV",
+  "state": "WV",
+  "latitude": 38.3581527,
+  "longitude": -81.627068,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03197950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

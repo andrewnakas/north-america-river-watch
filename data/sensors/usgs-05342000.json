@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05342000",
+  "key": "05342000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05342000",
+  "name": "KINNICKINNIC RIVER NEAR RIVER FALLS, WI",
+  "waterbody": "KINNICKINNIC RIVER NEAR RIVER FALLS, WI",
+  "state": "WI",
+  "latitude": 44.8308333,
+  "longitude": -92.7330556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RFSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kinnickinnic River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rfsw3",
+  "slug": "usgs-05342000",
+  "noaaForecastPath": "data/noaa-forecast/RFSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

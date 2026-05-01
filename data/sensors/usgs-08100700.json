@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08100700",
+  "key": "08100700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08100700",
+  "name": "Owl Ck at E Range Rd, Ft Hood, TX",
+  "waterbody": "Owl Ck at E Range Rd, Ft Hood, TX",
+  "state": "TX",
+  "latitude": 31.24461389,
+  "longitude": -97.6249861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08100700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

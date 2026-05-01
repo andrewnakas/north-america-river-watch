@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581920",
+  "key": "01581920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581920",
+  "name": "GUNPOWDER FALLS NEAR PARKTON, MD",
+  "waterbody": "GUNPOWDER FALLS NEAR PARKTON, MD",
+  "state": "MD",
+  "latitude": 39.61905556,
+  "longitude": -76.69036111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gunpowder Falls",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pktm2",
+  "slug": "usgs-01581920",
+  "noaaForecastPath": "data/noaa-forecast/PKTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

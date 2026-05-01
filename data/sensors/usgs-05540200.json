@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05540200",
+  "key": "05540200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540200",
+  "name": "ST. JOSEPH CREEK AT LISLE, IL",
+  "waterbody": "ST. JOSEPH CREEK AT LISLE, IL",
+  "state": "IL",
+  "latitude": 41.80252988,
+  "longitude": -88.0778432,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05540200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09033100",
+  "key": "09033100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09033100",
+  "name": "RANCH CREEK BLW MEADOW CR NR TABERNASH, CO",
+  "waterbody": "RANCH CREEK BLW MEADOW CR NR TABERNASH, CO",
+  "state": "CO",
+  "latitude": 39.9990861,
+  "longitude": -105.8265583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09033100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

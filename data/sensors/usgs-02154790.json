@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02154790",
+  "key": "02154790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02154790",
+  "name": "SOUTH PACOLET RIVER NR CAMPOBELLO, SC",
+  "waterbody": "SOUTH PACOLET RIVER NR CAMPOBELLO, SC",
+  "state": "SC",
+  "latitude": 35.1063,
+  "longitude": -82.129775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAMS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Pacolet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cams1",
+  "slug": "usgs-02154790",
+  "noaaForecastPath": "data/noaa-forecast/CAMS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

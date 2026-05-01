@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07358501",
+  "key": "07358501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07358501",
+  "name": "Ouachita Riv at Carpenter Dam nr Hot Springs, AR",
+  "waterbody": "Ouachita Riv at Carpenter Dam nr Hot Springs, AR",
+  "state": "AR",
+  "latitude": 34.4433333,
+  "longitude": -93.0233333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07358501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

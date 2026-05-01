@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03131982",
+  "key": "03131982",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03131982",
+  "name": "Clear Fork Mohican River at Bellville OH",
+  "waterbody": "Clear Fork Mohican River at Bellville OH",
+  "state": "OH",
+  "latitude": 40.6233333,
+  "longitude": -82.5111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLEO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork Mohican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bleo1",
+  "slug": "usgs-03131982",
+  "noaaForecastPath": "data/noaa-forecast/BLEO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

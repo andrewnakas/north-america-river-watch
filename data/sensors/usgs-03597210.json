@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03597210",
+  "key": "03597210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03597210",
+  "name": "GARRISON FORK ABOVE L&N RAILROAD AT WARTRACE, TN",
+  "waterbody": "GARRISON FORK ABOVE L&N RAILROAD AT WARTRACE, TN",
+  "state": "TN",
+  "latitude": 35.51174039,
+  "longitude": -86.323882,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03597210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

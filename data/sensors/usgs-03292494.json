@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03292494",
+  "key": "03292494",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03292494",
+  "name": "OHIO RIVER AT WATER TOWER AT LOUISVILLE, KY",
+  "waterbody": "OHIO RIVER AT WATER TOWER AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.28116655,
+  "longitude": -85.70217636,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLXK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlxk2",
+  "slug": "usgs-03292494",
+  "noaaForecastPath": "data/noaa-forecast/MLXK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

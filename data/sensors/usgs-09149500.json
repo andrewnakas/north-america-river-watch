@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09149500",
+  "key": "09149500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09149500",
+  "name": "UNCOMPAHGRE RIVER AT DELTA, CO",
+  "waterbody": "UNCOMPAHGRE RIVER AT DELTA, CO",
+  "state": "CO",
+  "latitude": 38.74194444,
+  "longitude": -108.08041667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLAC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Uncompahgre River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlac2",
+  "slug": "usgs-09149500",
+  "noaaForecastPath": "data/noaa-forecast/DLAC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

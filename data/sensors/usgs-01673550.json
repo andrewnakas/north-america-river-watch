@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01673550",
+  "key": "01673550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01673550",
+  "name": "TOTOPOTOMOY CREEK NEAR STUDLEY, VA",
+  "waterbody": "TOTOPOTOMOY CREEK NEAR STUDLEY, VA",
+  "state": "VA",
+  "latitude": 37.6626434,
+  "longitude": -77.2577548,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Totopotomoy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdlv2",
+  "slug": "usgs-01673550",
+  "noaaForecastPath": "data/noaa-forecast/SDLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

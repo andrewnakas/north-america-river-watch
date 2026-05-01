@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04135800",
+  "key": "04135800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04135800",
+  "name": "NB AU SABLE RIVER AT KELLOGGS BR NEAR LOVELLS, MI",
+  "waterbody": "NB AU SABLE RIVER AT KELLOGGS BR NEAR LOVELLS, MI",
+  "state": "MI",
+  "latitude": 44.71666452,
+  "longitude": -84.41962635,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KBLM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Au Sable River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kblm4",
+  "slug": "usgs-04135800",
+  "noaaForecastPath": "data/noaa-forecast/KBLM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

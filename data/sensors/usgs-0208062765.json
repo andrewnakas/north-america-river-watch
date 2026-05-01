@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208062765",
+  "key": "0208062765",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208062765",
+  "name": "ROANOKE RIVER AT HALIFAX, NC",
+  "waterbody": "ROANOKE RIVER AT HALIFAX, NC",
+  "state": "NC",
+  "latitude": 36.3311111,
+  "longitude": -77.58027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HFXN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hfxn7",
+  "slug": "usgs-0208062765",
+  "noaaForecastPath": "data/noaa-forecast/HFXN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

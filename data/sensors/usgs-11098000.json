@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11098000",
+  "key": "11098000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11098000",
+  "name": "ARROYO SECO NR PASADENA CA",
+  "waterbody": "ARROYO SECO NR PASADENA CA",
+  "state": "CA",
+  "latitude": 34.22222584,
+  "longitude": -118.177558,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arroyo Seco",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aspc1",
+  "slug": "usgs-11098000",
+  "noaaForecastPath": "data/noaa-forecast/ASPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

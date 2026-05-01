@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08317050",
+  "key": "08317050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08317050",
+  "name": "ARROYO HONDO NEAR SANTA FE, NM",
+  "waterbody": "ARROYO HONDO NEAR SANTA FE, NM",
+  "state": "NM",
+  "latitude": 35.62197716,
+  "longitude": -105.9189094,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08317050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

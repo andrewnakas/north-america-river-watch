@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09034900",
+  "key": "09034900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09034900",
+  "name": "BOBTAIL CREEK NEAR JONES PASS, CO",
+  "waterbody": "BOBTAIL CREEK NEAR JONES PASS, CO",
+  "state": "CO",
+  "latitude": 39.76026447,
+  "longitude": -105.9064014,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09034900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08355210",
+  "key": "08355210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08355210",
+  "name": "ARROYO DE LOS PINOS, NEAR ESCONDIDA, NM",
+  "waterbody": "ARROYO DE LOS PINOS, NEAR ESCONDIDA, NM",
+  "state": "NM",
+  "latitude": 34.09205,
+  "longitude": -106.8705389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08355210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

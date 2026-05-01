@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01585105",
+  "key": "01585105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585105",
+  "name": "HONEYGO RUN AT WHITE MARSH, MD",
+  "waterbody": "HONEYGO RUN AT WHITE MARSH, MD",
+  "state": "MD",
+  "latitude": 39.37808,
+  "longitude": -76.42909898,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01585105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

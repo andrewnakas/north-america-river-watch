@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08065700",
+  "key": "08065700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065700",
+  "name": "Caney Ck nr Madisonville, TX",
+  "waterbody": "Caney Ck nr Madisonville, TX",
+  "state": "TX",
+  "latitude": 30.93716944,
+  "longitude": -95.9356611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Caney Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmvt2",
+  "slug": "usgs-08065700",
+  "noaaForecastPath": "data/noaa-forecast/CMVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

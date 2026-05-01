@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08105700",
+  "key": "08105700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105700",
+  "name": "San Gabriel Rv at Laneport, TX",
+  "waterbody": "San Gabriel Rv at Laneport, TX",
+  "state": "TX",
+  "latitude": 30.69436146,
+  "longitude": -97.2788849,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08105700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

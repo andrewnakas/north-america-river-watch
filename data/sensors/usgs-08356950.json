@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08356950",
+  "key": "08356950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08356950",
+  "name": "RIO GRANDE CONVEYANCE CHANNEL NR SAN ANTONIO, NM",
+  "waterbody": "RIO GRANDE CONVEYANCE CHANNEL NR SAN ANTONIO, NM",
+  "state": "NM",
+  "latitude": 33.87004444,
+  "longitude": -106.85098333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08356950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

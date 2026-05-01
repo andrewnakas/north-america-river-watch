@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02221525",
+  "key": "02221525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02221525",
+  "name": "MURDER CREEK BELOW EATONTON, GA",
+  "waterbody": "MURDER CREEK BELOW EATONTON, GA",
+  "state": "GA",
+  "latitude": 33.25275,
+  "longitude": -83.4826111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Murder Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtlg1",
+  "slug": "usgs-02221525",
+  "noaaForecastPath": "data/noaa-forecast/MTLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

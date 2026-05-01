@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105600",
+  "key": "01105600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105600",
+  "name": "OLD SWAMP RIVER NEAR SOUTH WEYMOUTH, MA",
+  "waterbody": "OLD SWAMP RIVER NEAR SOUTH WEYMOUTH, MA",
+  "state": "MA",
+  "latitude": 42.1903779,
+  "longitude": -70.9447679,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTHM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old Swamp River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wthm3",
+  "slug": "usgs-01105600",
+  "noaaForecastPath": "data/noaa-forecast/WTHM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

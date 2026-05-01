@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04079000",
+  "key": "04079000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04079000",
+  "name": "WOLF RIVER AT NEW LONDON, WI",
+  "waterbody": "WOLF RIVER AT NEW LONDON, WI",
+  "state": "WI",
+  "latitude": 44.3922026,
+  "longitude": -88.7403812,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEWW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf River (WI)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/neww3",
+  "slug": "usgs-04079000",
+  "noaaForecastPath": "data/noaa-forecast/NEWW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

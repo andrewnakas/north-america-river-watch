@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02375500",
+  "key": "02375500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02375500",
+  "name": "ESCAMBIA RIVER NEAR CENTURY, FL",
+  "waterbody": "ESCAMBIA RIVER NEAR CENTURY, FL",
+  "state": "FL",
+  "latitude": 30.96518304,
+  "longitude": -87.2341395,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTYF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Escambia River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctyf1",
+  "slug": "usgs-02375500",
+  "noaaForecastPath": "data/noaa-forecast/CTYF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

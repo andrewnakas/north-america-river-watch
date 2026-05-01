@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10217000",
+  "key": "10217000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10217000",
+  "name": "SEVIER RIV BLW SAN PITCH RIV NR GUNNISON, UT",
+  "waterbody": "SEVIER RIV BLW SAN PITCH RIV NR GUNNISON, UT",
+  "state": "UT",
+  "latitude": 39.1552387,
+  "longitude": -111.877705,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10217000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

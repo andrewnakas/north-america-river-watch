@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03440000",
+  "key": "03440000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03440000",
+  "name": "CATHEYS CREEK NEAR BREVARD, NC",
+  "waterbody": "CATHEYS CREEK NEAR BREVARD, NC",
+  "state": "NC",
+  "latitude": 35.21122316,
+  "longitude": -82.7831834,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03440000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

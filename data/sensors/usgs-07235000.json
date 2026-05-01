@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07235000",
+  "key": "07235000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07235000",
+  "name": "Wolf Ck at Lipscomb, TX",
+  "waterbody": "Wolf Ck at Lipscomb, TX",
+  "state": "TX",
+  "latitude": 36.23864885,
+  "longitude": -100.2756889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcbt2",
+  "slug": "usgs-07235000",
+  "noaaForecastPath": "data/noaa-forecast/LCBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

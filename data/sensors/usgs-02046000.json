@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02046000",
+  "key": "02046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02046000",
+  "name": "STONY CREEK NEAR DINWIDDIE, VA",
+  "waterbody": "STONY CREEK NEAR DINWIDDIE, VA",
+  "state": "VA",
+  "latitude": 37.0670942,
+  "longitude": -77.602489,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNKV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snkv2",
+  "slug": "usgs-02046000",
+  "noaaForecastPath": "data/noaa-forecast/SNKV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

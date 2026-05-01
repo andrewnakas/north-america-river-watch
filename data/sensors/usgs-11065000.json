@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11065000",
+  "key": "11065000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11065000",
+  "name": "LYTLE C A COLTON CA",
+  "waterbody": "LYTLE C A COLTON CA",
+  "state": "CA",
+  "latitude": 34.07890146,
+  "longitude": -117.3055989,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YTLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lytle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ytlc1",
+  "slug": "usgs-11065000",
+  "noaaForecastPath": "data/noaa-forecast/YTLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

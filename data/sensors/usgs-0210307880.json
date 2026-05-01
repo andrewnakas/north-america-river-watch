@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0210307880",
+  "key": "0210307880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0210307880",
+  "name": "TANK CREEK AT REILLY ROAD AT FORT BRAGG, NC",
+  "waterbody": "TANK CREEK AT REILLY ROAD AT FORT BRAGG, NC",
+  "state": "NC",
+  "latitude": 35.1807111,
+  "longitude": -79.0015194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tank Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcrn7",
+  "slug": "usgs-0210307880",
+  "noaaForecastPath": "data/noaa-forecast/TCRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

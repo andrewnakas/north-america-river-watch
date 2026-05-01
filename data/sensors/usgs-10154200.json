@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10154200",
+  "key": "10154200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10154200",
+  "name": "PROVO RIVER NEAR WOODLAND, UT",
+  "waterbody": "PROVO RIVER NEAR WOODLAND, UT",
+  "state": "UT",
+  "latitude": 40.5577278,
+  "longitude": -111.1687838,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOOU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Provo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/woou1",
+  "slug": "usgs-10154200",
+  "noaaForecastPath": "data/noaa-forecast/WOOU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

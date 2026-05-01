@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07119500",
+  "key": "07119500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07119500",
+  "name": "APISHAPA RIVER NEAR FOWLER, CO",
+  "waterbody": "APISHAPA RIVER NEAR FOWLER, CO",
+  "state": "CO",
+  "latitude": 38.1085,
+  "longitude": -103.9676111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07119500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

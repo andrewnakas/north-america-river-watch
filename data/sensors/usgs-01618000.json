@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01618000",
+  "key": "01618000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01618000",
+  "name": "POTOMAC RIVER AT SHEPHERDSTOWN, WV",
+  "waterbody": "POTOMAC RIVER AT SHEPHERDSTOWN, WV",
+  "state": "WV",
+  "latitude": 39.434722,
+  "longitude": -77.801389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHEW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shew2",
+  "slug": "usgs-01618000",
+  "noaaForecastPath": "data/noaa-forecast/SHEW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

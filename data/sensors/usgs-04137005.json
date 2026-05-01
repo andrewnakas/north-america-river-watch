@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04137005",
+  "key": "04137005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04137005",
+  "name": "AU SABLE RIVER NEAR CURTISVILLE, MI",
+  "waterbody": "AU SABLE RIVER NEAR CURTISVILLE, MI",
+  "state": "MI",
+  "latitude": 44.56084749,
+  "longitude": -83.802764,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSVM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Au Sable River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csvm4",
+  "slug": "usgs-04137005",
+  "noaaForecastPath": "data/noaa-forecast/CSVM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

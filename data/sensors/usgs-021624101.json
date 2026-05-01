@@ -1,0 +1,19 @@
+{
+  "id": "usgs:021624101",
+  "key": "021624101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021624101",
+  "name": "SALUDA RIVER AT HUNTS BRIDGE RD NR DACUSVILLE, SC",
+  "waterbody": "SALUDA RIVER AT HUNTS BRIDGE RD NR DACUSVILLE, SC",
+  "state": "SC",
+  "latitude": 34.939083,
+  "longitude": -82.525111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-021624101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

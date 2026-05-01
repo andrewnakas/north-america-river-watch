@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01541200",
+  "key": "01541200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01541200",
+  "name": "WB Susquehanna River near Curwensville, PA",
+  "waterbody": "WB Susquehanna River near Curwensville, PA",
+  "state": "PA",
+  "latitude": 40.9614471,
+  "longitude": -78.5191906,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRWP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Central PA Dams  Curwensville Dam on West Branch Susquehanna",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crwp1",
+  "slug": "usgs-01541200",
+  "noaaForecastPath": "data/noaa-forecast/CRWP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

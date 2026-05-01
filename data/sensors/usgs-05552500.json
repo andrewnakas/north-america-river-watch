@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05552500",
+  "key": "05552500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05552500",
+  "name": "FOX RIVER AT DAYTON, IL",
+  "waterbody": "FOX RIVER AT DAYTON, IL",
+  "state": "IL",
+  "latitude": 41.38413889,
+  "longitude": -88.7889722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAYI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dayi2",
+  "slug": "usgs-05552500",
+  "noaaForecastPath": "data/noaa-forecast/DAYI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

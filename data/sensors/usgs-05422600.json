@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05422600",
+  "key": "05422600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05422600",
+  "name": "Duck Creek at DC Golf Course at Davenport, IA",
+  "waterbody": "Duck Creek at DC Golf Course at Davenport, IA",
+  "state": "IA",
+  "latitude": 41.54611366,
+  "longitude": -90.5240022,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DKII4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duck Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dkii4",
+  "slug": "usgs-05422600",
+  "noaaForecastPath": "data/noaa-forecast/DKII4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

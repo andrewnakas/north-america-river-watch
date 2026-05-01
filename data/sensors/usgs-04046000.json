@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04046000",
+  "key": "04046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04046000",
+  "name": "BLACK RIVER NEAR GARNET, MI",
+  "waterbody": "BLACK RIVER NEAR GARNET, MI",
+  "state": "MI",
+  "latitude": 46.11780556,
+  "longitude": -85.36605556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGTM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River (E Upper MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgtm4",
+  "slug": "usgs-04046000",
+  "noaaForecastPath": "data/noaa-forecast/BGTM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

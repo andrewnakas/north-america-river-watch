@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09520500",
+  "key": "09520500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09520500",
+  "name": "GILA RIVER NEAR DOME, AZ",
+  "waterbody": "GILA RIVER NEAR DOME, AZ",
+  "state": "AZ",
+  "latitude": 32.7608789,
+  "longitude": -114.4205019,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GIDA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gila River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gida3",
+  "slug": "usgs-09520500",
+  "noaaForecastPath": "data/noaa-forecast/GIDA3.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

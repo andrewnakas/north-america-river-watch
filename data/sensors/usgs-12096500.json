@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12096500",
+  "key": "12096500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12096500",
+  "name": "PUYALLUP RIVER AT ALDERTON, WA",
+  "waterbody": "PUYALLUP RIVER AT ALDERTON, WA",
+  "state": "WA",
+  "latitude": 47.18510115,
+  "longitude": -122.2295625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12096500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

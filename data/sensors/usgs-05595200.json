@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05595200",
+  "key": "05595200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595200",
+  "name": "RICHLAND CREEK NEAR HECKER, IL",
+  "waterbody": "RICHLAND CREEK NEAR HECKER, IL",
+  "state": "IL",
+  "latitude": 38.32388889,
+  "longitude": -89.9705556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05595200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

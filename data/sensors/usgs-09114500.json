@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09114500",
+  "key": "09114500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09114500",
+  "name": "GUNNISON RIVER NEAR GUNNISON, CO.",
+  "waterbody": "GUNNISON RIVER NEAR GUNNISON, CO.",
+  "state": "CO",
+  "latitude": 38.54193567,
+  "longitude": -106.9497661,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUSC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gunnison River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gusc2",
+  "slug": "usgs-09114500",
+  "noaaForecastPath": "data/noaa-forecast/GUSC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02250702",
+  "key": "02250702",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02250702",
+  "name": "TROUT CREEK AT OLD DIXIE HWY AT GRANT, FL",
+  "waterbody": "TROUT CREEK AT OLD DIXIE HWY AT GRANT, FL",
+  "state": "FL",
+  "latitude": 27.93675,
+  "longitude": -80.5312444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02250702",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

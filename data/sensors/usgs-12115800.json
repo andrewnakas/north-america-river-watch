@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12115800",
+  "key": "12115800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12115800",
+  "name": "RACK CREEK NEAR CEDAR FALLS, WA",
+  "waterbody": "RACK CREEK NEAR CEDAR FALLS, WA",
+  "state": "WA",
+  "latitude": 47.39121518,
+  "longitude": -121.7226063,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12115800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

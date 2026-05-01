@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02471001",
+  "key": "02471001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02471001",
+  "name": "CHICKASAW CREEK NEAR KUSHLA AL",
+  "waterbody": "CHICKASAW CREEK NEAR KUSHLA AL",
+  "state": "AL",
+  "latitude": 30.80296466,
+  "longitude": -88.1433355,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHKA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chickasaw Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chka1",
+  "slug": "usgs-02471001",
+  "noaaForecastPath": "data/noaa-forecast/CHKA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

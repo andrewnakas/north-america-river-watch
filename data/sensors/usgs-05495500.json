@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05495500",
+  "key": "05495500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05495500",
+  "name": "BEAR CREEK NEAR MARCELLINE, IL",
+  "waterbody": "BEAR CREEK NEAR MARCELLINE, IL",
+  "state": "IL",
+  "latitude": 40.1428222,
+  "longitude": -91.3373694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05495500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

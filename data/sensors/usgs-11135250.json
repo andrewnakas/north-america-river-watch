@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11135250",
+  "key": "11135250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11135250",
+  "name": "SANTA YNEZ R A 13TH ST BRIDGE A VAFB NR LOMPOC CA",
+  "waterbody": "SANTA YNEZ R A 13TH ST BRIDGE A VAFB NR LOMPOC CA",
+  "state": "CA",
+  "latitude": 34.67661667,
+  "longitude": -120.5533889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11135250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07229200",
+  "key": "07229200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07229200",
+  "name": "Canadian River at Purcell, OK",
+  "waterbody": "Canadian River at Purcell, OK",
+  "state": "OK",
+  "latitude": 35.01396104,
+  "longitude": -97.3475281,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prco2",
+  "slug": "usgs-07229200",
+  "noaaForecastPath": "data/noaa-forecast/PRCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

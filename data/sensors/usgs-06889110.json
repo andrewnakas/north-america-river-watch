@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06889110",
+  "key": "06889110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889110",
+  "name": "SOLDIER CREEK NR CORNING, KS",
+  "waterbody": "SOLDIER CREEK NR CORNING, KS",
+  "state": "KS",
+  "latitude": 39.6095472,
+  "longitude": -95.9760556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06889110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06468250",
+  "key": "06468250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06468250",
+  "name": "JAMES RIVER ABOVE ARROWWOOD LAKE NR KENSAL, ND",
+  "waterbody": "JAMES RIVER ABOVE ARROWWOOD LAKE NR KENSAL, ND",
+  "state": "ND",
+  "latitude": 47.3997189,
+  "longitude": -98.7976057,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KSLN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ksln8",
+  "slug": "usgs-06468250",
+  "noaaForecastPath": "data/noaa-forecast/KSLN8.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

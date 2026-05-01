@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02391540",
+  "key": "02391540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02391540",
+  "name": "SHARP MTN CREEK AT OLD GA 5, BELOW BALL GROUND, GA",
+  "waterbody": "SHARP MTN CREEK AT OLD GA 5, BELOW BALL GROUND, GA",
+  "state": "GA",
+  "latitude": 34.31088889,
+  "longitude": -84.4034722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BALG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sharp Mountain Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/balg1",
+  "slug": "usgs-02391540",
+  "noaaForecastPath": "data/noaa-forecast/BALG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

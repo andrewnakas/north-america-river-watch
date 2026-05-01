@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07184000",
+  "key": "07184000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07184000",
+  "name": "LIGHTNING C NR MCCUNE, KS",
+  "waterbody": "LIGHTNING C NR MCCUNE, KS",
+  "state": "KS",
+  "latitude": 37.28116187,
+  "longitude": -95.0327471,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCNK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lightning Creek (SE KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcnk1",
+  "slug": "usgs-07184000",
+  "noaaForecastPath": "data/noaa-forecast/MCNK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02246459",
+  "key": "02246459",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02246459",
+  "name": "CEDAR RIVER AT SAN JUAN AVENUE AT JACKSONVILLE, FL",
+  "waterbody": "CEDAR RIVER AT SAN JUAN AVENUE AT JACKSONVILLE, FL",
+  "state": "FL",
+  "latitude": 30.28218375,
+  "longitude": -81.7403761,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jakf1",
+  "slug": "usgs-02246459",
+  "noaaForecastPath": "data/noaa-forecast/JAKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

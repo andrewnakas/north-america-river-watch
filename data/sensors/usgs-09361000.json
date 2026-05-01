@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09361000",
+  "key": "09361000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09361000",
+  "name": "HERMOSA CREEK NEAR HERMOSA, CO.",
+  "waterbody": "HERMOSA CREEK NEAR HERMOSA, CO.",
+  "state": "CO",
+  "latitude": 37.42196111,
+  "longitude": -107.84509444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09361000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

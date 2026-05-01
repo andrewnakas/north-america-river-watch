@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02303420",
+  "key": "02303420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02303420",
+  "name": "CYPRESS CREEK AT SR 54 AT WORTHINGTON GARDENS, FL",
+  "waterbody": "CYPRESS CREEK AT SR 54 AT WORTHINGTON GARDENS, FL",
+  "state": "FL",
+  "latitude": 28.1872222,
+  "longitude": -82.4022222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrgf1",
+  "slug": "usgs-02303420",
+  "noaaForecastPath": "data/noaa-forecast/WRGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

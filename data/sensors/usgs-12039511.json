@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12039511",
+  "key": "12039511",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039511",
+  "name": "QUINAULT RIVER BLW COOK CR (6B) NR NEILTON, WA",
+  "waterbody": "QUINAULT RIVER BLW COOK CR (6B) NR NEILTON, WA",
+  "state": "WA",
+  "latitude": 47.37111667,
+  "longitude": -124.0828778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12039511",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

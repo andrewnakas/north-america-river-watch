@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02289080",
+  "key": "02289080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02289080",
+  "name": "TAMIAMI CANAL WEST END 1 MILE BRIDGE NR MIAMI, FL",
+  "waterbody": "TAMIAMI CANAL WEST END 1 MILE BRIDGE NR MIAMI, FL",
+  "state": "FL",
+  "latitude": 25.76138889,
+  "longitude": -80.5366667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02289080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

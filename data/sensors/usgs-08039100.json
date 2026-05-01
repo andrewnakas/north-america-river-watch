@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08039100",
+  "key": "08039100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08039100",
+  "name": "Ayish Bayou nr San Augustine, TX",
+  "waterbody": "Ayish Bayou nr San Augustine, TX",
+  "state": "TX",
+  "latitude": 31.39629597,
+  "longitude": -94.1510289,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AYIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ayish Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ayit2",
+  "slug": "usgs-08039100",
+  "noaaForecastPath": "data/noaa-forecast/AYIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

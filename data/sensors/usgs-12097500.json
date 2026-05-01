@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12097500",
+  "key": "12097500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12097500",
+  "name": "GREENWATER RIVER AT GREENWATER, WA",
+  "waterbody": "GREENWATER RIVER AT GREENWATER, WA",
+  "state": "WA",
+  "latitude": 47.1534409,
+  "longitude": -121.6356543,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12097500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

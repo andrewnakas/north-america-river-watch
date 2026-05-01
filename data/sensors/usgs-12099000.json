@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12099000",
+  "key": "12099000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12099000",
+  "name": "WHITE RIVER CANAL AT BUCKLEY, WA",
+  "waterbody": "WHITE RIVER CANAL AT BUCKLEY, WA",
+  "state": "WA",
+  "latitude": 47.17176839,
+  "longitude": -122.0215008,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12099000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

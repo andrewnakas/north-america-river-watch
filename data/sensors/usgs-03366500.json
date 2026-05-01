@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03366500",
+  "key": "03366500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03366500",
+  "name": "MUSCATATUCK RIVER NEAR DEPUTY, IN",
+  "waterbody": "MUSCATATUCK RIVER NEAR DEPUTY, IN",
+  "state": "IN",
+  "latitude": 38.8042145,
+  "longitude": -85.6738418,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEPI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muscatatuck River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/depi3",
+  "slug": "usgs-03366500",
+  "noaaForecastPath": "data/noaa-forecast/DEPI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

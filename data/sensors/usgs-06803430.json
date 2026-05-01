@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803430",
+  "key": "06803430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803430",
+  "name": "North Oak Creek at Valparaiso, Nebr.",
+  "waterbody": "North Oak Creek at Valparaiso, Nebr.",
+  "state": "NE",
+  "latitude": 41.074917,
+  "longitude": -96.838917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLPN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Oak Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlpn1",
+  "slug": "usgs-06803430",
+  "noaaForecastPath": "data/noaa-forecast/VLPN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

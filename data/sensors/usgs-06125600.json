@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06125600",
+  "key": "06125600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06125600",
+  "name": "Musselshell River ab Big Coulee Creek at Lavina MT",
+  "waterbody": "Musselshell River ab Big Coulee Creek at Lavina MT",
+  "state": "MT",
+  "latitude": 46.28905556,
+  "longitude": -108.9376111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVNM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Musselshell River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvnm8",
+  "slug": "usgs-06125600",
+  "noaaForecastPath": "data/noaa-forecast/LVNM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

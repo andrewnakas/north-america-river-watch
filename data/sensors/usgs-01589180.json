@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589180",
+  "key": "01589180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589180",
+  "name": "GWYNNS FALLS AT GLYNDON, MD",
+  "waterbody": "GWYNNS FALLS AT GLYNDON, MD",
+  "state": "MD",
+  "latitude": 39.47169444,
+  "longitude": -76.81688889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLGM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gwynns Falls",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glgm2",
+  "slug": "usgs-01589180",
+  "noaaForecastPath": "data/noaa-forecast/GLGM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

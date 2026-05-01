@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10146400",
+  "key": "10146400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10146400",
+  "name": "CURRANT CREEK NEAR MONA, UT",
+  "waterbody": "CURRANT CREEK NEAR MONA, UT",
+  "state": "UT",
+  "latitude": 39.80259167,
+  "longitude": -111.8668806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10146400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

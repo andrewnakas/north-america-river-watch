@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298202",
+  "key": "02298202",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298202",
+  "name": "SHELL CREEK NEAR PUNTA GORDA FL",
+  "waterbody": "SHELL CREEK NEAR PUNTA GORDA FL",
+  "state": "FL",
+  "latitude": 26.98478028,
+  "longitude": -81.93568702,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PUNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shell Creek Near Punta Gorda",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/punf1",
+  "slug": "usgs-02298202",
+  "noaaForecastPath": "data/noaa-forecast/PUNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

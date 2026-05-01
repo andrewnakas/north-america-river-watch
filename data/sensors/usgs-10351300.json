@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10351300",
+  "key": "10351300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10351300",
+  "name": "TRUCKEE CANAL NR WADSWORTH, NV",
+  "waterbody": "TRUCKEE CANAL NR WADSWORTH, NV",
+  "state": "NV",
+  "latitude": 39.6126902,
+  "longitude": -119.2971146,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10351300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

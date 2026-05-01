@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13089500",
+  "key": "13089500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13089500",
+  "name": "DEVILS WASHBOWL SPRING NR KIMBERLY 10S 18E 04AAD1S",
+  "waterbody": "DEVILS WASHBOWL SPRING NR KIMBERLY 10S 18E 04AAD1S",
+  "state": "ID",
+  "latitude": 42.5897222,
+  "longitude": -114.3469444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Devils Washbowl Spring",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwsi1",
+  "slug": "usgs-13089500",
+  "noaaForecastPath": "data/noaa-forecast/DWSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

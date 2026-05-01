@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16587000",
+  "key": "16587000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16587000",
+  "name": "Honopou Stream near Huelo, Maui, HI",
+  "waterbody": "Honopou Stream near Huelo, Maui, HI",
+  "state": "HI",
+  "latitude": 20.88563889,
+  "longitude": -156.2525556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HPOH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Honopou Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hpoh1",
+  "slug": "usgs-16587000",
+  "noaaForecastPath": "data/noaa-forecast/HPOH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

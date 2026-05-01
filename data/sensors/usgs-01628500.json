@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01628500",
+  "key": "01628500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01628500",
+  "name": "S F SHENANDOAH RIVER NEAR LYNNWOOD, VA",
+  "waterbody": "S F SHENANDOAH RIVER NEAR LYNNWOOD, VA",
+  "state": "VA",
+  "latitude": 38.32262796,
+  "longitude": -78.7547457,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYWV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Shenandoah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lywv2",
+  "slug": "usgs-01628500",
+  "noaaForecastPath": "data/noaa-forecast/LYWV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05485500",
+  "key": "05485500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05485500",
+  "name": "Des Moines River blw Raccoon Riv at Des Moines, IA",
+  "waterbody": "Des Moines River blw Raccoon Riv at Des Moines, IA",
+  "state": "IA",
+  "latitude": 41.5785833,
+  "longitude": -93.6056111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DESI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/desi4",
+  "slug": "usgs-05485500",
+  "noaaForecastPath": "data/noaa-forecast/DESI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

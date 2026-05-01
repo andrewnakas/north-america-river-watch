@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06436180",
+  "key": "06436180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06436180",
+  "name": "WHITEWOOD CREEK ABOVE WHITEWOOD,SD",
+  "waterbody": "WHITEWOOD CREEK ABOVE WHITEWOOD,SD",
+  "state": "SD",
+  "latitude": 44.4422065,
+  "longitude": -103.6293606,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTWS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtws2",
+  "slug": "usgs-06436180",
+  "noaaForecastPath": "data/noaa-forecast/WTWS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

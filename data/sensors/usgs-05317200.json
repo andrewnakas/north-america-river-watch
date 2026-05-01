@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05317200",
+  "key": "05317200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05317200",
+  "name": "LITTLE COTTONWOOD RIVER NEAR COURTLAND, MN",
+  "waterbody": "LITTLE COTTONWOOD RIVER NEAR COURTLAND, MN",
+  "state": "MN",
+  "latitude": 44.24661827,
+  "longitude": -94.3390394,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRTM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cottonwood River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crtm5",
+  "slug": "usgs-05317200",
+  "noaaForecastPath": "data/noaa-forecast/CRTM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

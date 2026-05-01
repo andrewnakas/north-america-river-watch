@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02380500",
+  "key": "02380500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02380500",
+  "name": "COOSAWATTEE RIVER NEAR ELLIJAY, GA",
+  "waterbody": "COOSAWATTEE RIVER NEAR ELLIJAY, GA",
+  "state": "GA",
+  "latitude": 34.6758611,
+  "longitude": -84.5068333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELIG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosawattee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elig1",
+  "slug": "usgs-02380500",
+  "noaaForecastPath": "data/noaa-forecast/ELIG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

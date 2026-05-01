@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06844210",
+  "key": "06844210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06844210",
+  "name": "TURKEY CREEK AT EDISON, NEBR.",
+  "waterbody": "TURKEY CREEK AT EDISON, NEBR.",
+  "state": "NE",
+  "latitude": 40.2708411,
+  "longitude": -99.7337279,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDIN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey Creek (trib. to Republican River)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edin1",
+  "slug": "usgs-06844210",
+  "noaaForecastPath": "data/noaa-forecast/EDIN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

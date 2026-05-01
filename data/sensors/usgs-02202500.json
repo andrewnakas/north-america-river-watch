@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02202500",
+  "key": "02202500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02202500",
+  "name": "OGEECHEE RIVER NEAR EDEN, GA",
+  "waterbody": "OGEECHEE RIVER NEAR EDEN, GA",
+  "state": "GA",
+  "latitude": 32.1901111,
+  "longitude": -81.4158611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDEG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogeechee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edeg1",
+  "slug": "usgs-02202500",
+  "noaaForecastPath": "data/noaa-forecast/EDEG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05489500",
+  "key": "05489500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05489500",
+  "name": "Des Moines River at Ottumwa, IA",
+  "waterbody": "Des Moines River at Ottumwa, IA",
+  "state": "IA",
+  "latitude": 41.0108472,
+  "longitude": -92.4112917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OTMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/otmi4",
+  "slug": "usgs-05489500",
+  "noaaForecastPath": "data/noaa-forecast/OTMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

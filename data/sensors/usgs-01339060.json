@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01339060",
+  "key": "01339060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01339060",
+  "name": "SAUQUOIT CREEK AT WHITESBORO NY",
+  "waterbody": "SAUQUOIT CREEK AT WHITESBORO NY",
+  "state": "NY",
+  "latitude": 43.11205556,
+  "longitude": -75.29361111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sauquoit Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whbn6",
+  "slug": "usgs-01339060",
+  "noaaForecastPath": "data/noaa-forecast/WHBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

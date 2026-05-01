@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02024752",
+  "key": "02024752",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02024752",
+  "name": "JAMES RIVER AT BLUE RIDGE PKWY NR BIG ISLAND, VA",
+  "waterbody": "JAMES RIVER AT BLUE RIDGE PKWY NR BIG ISLAND, VA",
+  "state": "VA",
+  "latitude": 37.55541524,
+  "longitude": -79.3672547,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02024752",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

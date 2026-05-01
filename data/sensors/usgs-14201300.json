@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14201300",
+  "key": "14201300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14201300",
+  "name": "ZOLLNER CREEK NEAR MT ANGEL, OR",
+  "waterbody": "ZOLLNER CREEK NEAR MT ANGEL, OR",
+  "state": "OR",
+  "latitude": 45.10035029,
+  "longitude": -122.82173589,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZOLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Zollner Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zolo3",
+  "slug": "usgs-14201300",
+  "noaaForecastPath": "data/noaa-forecast/ZOLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

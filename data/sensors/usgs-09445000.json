@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09445000",
+  "key": "09445000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09445000",
+  "name": "Willow Creek Div from Black River, nr Morenci, AZ",
+  "waterbody": "Willow Creek Div from Black River, nr Morenci, AZ",
+  "state": "AZ",
+  "latitude": 33.41283295,
+  "longitude": -109.719531,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09445000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01434086",
+  "key": "01434086",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434086",
+  "name": "DRY CREEK AT FLUME NEAR FROST VALLEY NY",
+  "waterbody": "DRY CREEK AT FLUME NEAR FROST VALLEY NY",
+  "state": "NY",
+  "latitude": 41.9683333,
+  "longitude": -74.5125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01434086",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

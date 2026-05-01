@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13015000",
+  "key": "13015000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13015000",
+  "name": "GROS VENTRE RIVER AT ZENITH, WY",
+  "waterbody": "GROS VENTRE RIVER AT ZENITH, WY",
+  "state": "WY",
+  "latitude": 43.5572222,
+  "longitude": -110.7627778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GVZW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gros Ventre River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gvzw4",
+  "slug": "usgs-13015000",
+  "noaaForecastPath": "data/noaa-forecast/GVZW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

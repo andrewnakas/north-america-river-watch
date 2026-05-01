@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01456060",
+  "key": "01456060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01456060",
+  "name": "Bowers Brook at Hackettstown NJ",
+  "waterbody": "Bowers Brook at Hackettstown NJ",
+  "state": "NJ",
+  "latitude": 40.8508333,
+  "longitude": -74.8233333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01456060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09093700",
+  "key": "09093700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09093700",
+  "name": "COLORADO RIVER NEAR DE BEQUE, CO.",
+  "waterbody": "COLORADO RIVER NEAR DE BEQUE, CO.",
+  "state": "CO",
+  "latitude": 39.36247855,
+  "longitude": -108.152579,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09093700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09112200",
+  "key": "09112200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09112200",
+  "name": "EAST RIVER BELOW CEMENT CREEK NR CRESTED BUTTE, CO",
+  "waterbody": "EAST RIVER BELOW CEMENT CREEK NR CRESTED BUTTE, CO",
+  "state": "CO",
+  "latitude": 38.784167,
+  "longitude": -106.870278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09112200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

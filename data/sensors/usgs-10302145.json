@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10302145",
+  "key": "10302145",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10302145",
+  "name": "ROSE CK NR WALKER LAKE, NV",
+  "waterbody": "ROSE CK NR WALKER LAKE, NV",
+  "state": "NV",
+  "latitude": 38.58353236,
+  "longitude": -118.750416,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10302145",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

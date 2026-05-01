@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03099500",
+  "key": "03099500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03099500",
+  "name": "Mahoning River at Lowellville OH",
+  "waterbody": "Mahoning River at Lowellville OH",
+  "state": "OH",
+  "latitude": 41.03672598,
+  "longitude": -80.5361815,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLWO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mahoning River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llwo1",
+  "slug": "usgs-03099500",
+  "noaaForecastPath": "data/noaa-forecast/LLWO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

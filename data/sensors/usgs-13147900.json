@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13147900",
+  "key": "13147900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13147900",
+  "name": "LITTLE WOOD RIVER AB HIGH FIVE CREEK NR CAREY ID",
+  "waterbody": "LITTLE WOOD RIVER AB HIGH FIVE CREEK NR CAREY ID",
+  "state": "ID",
+  "latitude": 43.49305556,
+  "longitude": -114.0572222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWOI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwoi1",
+  "slug": "usgs-13147900",
+  "noaaForecastPath": "data/noaa-forecast/LWOI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

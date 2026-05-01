@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06917560",
+  "key": "06917560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06917560",
+  "name": "Marmaton River near Richards, MO",
+  "waterbody": "Marmaton River near Richards, MO",
+  "state": "MO",
+  "latitude": 37.8647222,
+  "longitude": -94.5822222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marmaton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rccm7",
+  "slug": "usgs-06917560",
+  "noaaForecastPath": "data/noaa-forecast/RCCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

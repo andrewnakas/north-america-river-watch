@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04296000",
+  "key": "04296000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04296000",
+  "name": "BLACK RIVER AT COVENTRY, VT",
+  "waterbody": "BLACK RIVER AT COVENTRY, VT",
+  "state": "VT",
+  "latitude": 44.8689363,
+  "longitude": -72.2701041,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVYV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River (Northern VT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvyv1",
+  "slug": "usgs-04296000",
+  "noaaForecastPath": "data/noaa-forecast/CVYV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

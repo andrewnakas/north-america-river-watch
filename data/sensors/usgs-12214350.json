@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12214350",
+  "key": "12214350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12214350",
+  "name": "SUMAS RIVER AT SOUTH PASS ROAD AT NOOKSACK, WA",
+  "waterbody": "SUMAS RIVER AT SOUTH PASS ROAD AT NOOKSACK, WA",
+  "state": "WA",
+  "latitude": 48.9201177,
+  "longitude": -122.3140465,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12214350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

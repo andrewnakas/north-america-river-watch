@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14362000",
+  "key": "14362000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14362000",
+  "name": "APPLEGATE RIVER NEAR COPPER, OR",
+  "waterbody": "APPLEGATE RIVER NEAR COPPER, OR",
+  "state": "OR",
+  "latitude": 42.0637361,
+  "longitude": -123.1114358,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Applegate River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aplo3",
+  "slug": "usgs-14362000",
+  "noaaForecastPath": "data/noaa-forecast/APLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

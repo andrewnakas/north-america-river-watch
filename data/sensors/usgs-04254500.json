@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04254500",
+  "key": "04254500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04254500",
+  "name": "MOOSE RIVER AT MCKEEVER NY",
+  "waterbody": "MOOSE RIVER AT MCKEEVER NY",
+  "state": "NY",
+  "latitude": 43.61030556,
+  "longitude": -75.1099444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moose River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mckn6",
+  "slug": "usgs-04254500",
+  "noaaForecastPath": "data/noaa-forecast/MCKN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

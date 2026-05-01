@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03598185",
+  "key": "03598185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03598185",
+  "name": "DUCK RIVER AT HALLS MILL BRIDGE, TN",
+  "waterbody": "DUCK RIVER AT HALLS MILL BRIDGE, TN",
+  "state": "TN",
+  "latitude": 35.5528901,
+  "longitude": -86.5822509,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03598185",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

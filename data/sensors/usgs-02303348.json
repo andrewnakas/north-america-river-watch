@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02303348",
+  "key": "02303348",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02303348",
+  "name": "TROUT CREEK AT WESLEY CHAPEL FL",
+  "waterbody": "TROUT CREEK AT WESLEY CHAPEL FL",
+  "state": "FL",
+  "latitude": 28.17133333,
+  "longitude": -82.3622222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCWF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trout Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcwf1",
+  "slug": "usgs-02303348",
+  "noaaForecastPath": "data/noaa-forecast/TCWF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

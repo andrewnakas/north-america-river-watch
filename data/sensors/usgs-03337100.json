@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03337100",
+  "key": "03337100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03337100",
+  "name": "BONEYARD CREEK AT LINCOLN AVE AT URBANA, IL",
+  "waterbody": "BONEYARD CREEK AT LINCOLN AVE AT URBANA, IL",
+  "state": "IL",
+  "latitude": 40.1113611,
+  "longitude": -88.2194167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYBI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boneyard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bybi2",
+  "slug": "usgs-03337100",
+  "noaaForecastPath": "data/noaa-forecast/BYBI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

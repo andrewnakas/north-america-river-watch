@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16725000",
+  "key": "16725000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16725000",
+  "name": "Alakahi Stream near Kamuela, HI",
+  "waterbody": "Alakahi Stream near Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.07108333,
+  "longitude": -155.67075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALKH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alakahi Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alkh1",
+  "slug": "usgs-16725000",
+  "noaaForecastPath": "data/noaa-forecast/ALKH1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

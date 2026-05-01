@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05320000",
+  "key": "05320000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05320000",
+  "name": "BLUE EARTH RIVER NEAR RAPIDAN, MN",
+  "waterbody": "BLUE EARTH RIVER NEAR RAPIDAN, MN",
+  "state": "MN",
+  "latitude": 44.09593967,
+  "longitude": -94.1096097,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RAPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue Earth River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rapm5",
+  "slug": "usgs-05320000",
+  "noaaForecastPath": "data/noaa-forecast/RAPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

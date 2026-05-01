@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06910230",
+  "key": "06910230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06910230",
+  "name": "Hinkson Creek at Columbia, MO",
+  "waterbody": "Hinkson Creek at Columbia, MO",
+  "state": "MO",
+  "latitude": 38.92775,
+  "longitude": -92.3399444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TGRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hinkson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tgrm7",
+  "slug": "usgs-06910230",
+  "noaaForecastPath": "data/noaa-forecast/TGRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

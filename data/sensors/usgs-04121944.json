@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04121944",
+  "key": "04121944",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04121944",
+  "name": "LITTLE MUSKEGON RIVER NEAR OAK GROVE, MI",
+  "waterbody": "LITTLE MUSKEGON RIVER NEAR OAK GROVE, MI",
+  "state": "MI",
+  "latitude": 43.43085818,
+  "longitude": -85.5955989,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Muskegon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okgm4",
+  "slug": "usgs-04121944",
+  "noaaForecastPath": "data/noaa-forecast/OKGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

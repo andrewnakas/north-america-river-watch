@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336526",
+  "key": "02336526",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336526",
+  "name": "PROCTOR CREEK AT JACKSON PARKWAY, AT ATLANTA, GA",
+  "waterbody": "PROCTOR CREEK AT JACKSON PARKWAY, AT ATLANTA, GA",
+  "state": "GA",
+  "latitude": 33.7944722,
+  "longitude": -84.4741944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Proctor Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prcg1",
+  "slug": "usgs-02336526",
+  "noaaForecastPath": "data/noaa-forecast/PRCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

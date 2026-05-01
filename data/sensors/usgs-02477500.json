@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02477500",
+  "key": "02477500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02477500",
+  "name": "CHICKASAWHAY RIVER NR WAYNESBORO, MS",
+  "waterbody": "CHICKASAWHAY RIVER NR WAYNESBORO, MS",
+  "state": "MS",
+  "latitude": 31.68254959,
+  "longitude": -88.68351,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WYNM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chickasawhay River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wynm6",
+  "slug": "usgs-02477500",
+  "noaaForecastPath": "data/noaa-forecast/WYNM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01614000",
+  "key": "01614000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01614000",
+  "name": "BACK CREEK NEAR JONES SPRINGS, WV",
+  "waterbody": "BACK CREEK NEAR JONES SPRINGS, WV",
+  "state": "WV",
+  "latitude": 39.51204187,
+  "longitude": -78.0372224,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JSPW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Back Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jspw2",
+  "slug": "usgs-01614000",
+  "noaaForecastPath": "data/noaa-forecast/JSPW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

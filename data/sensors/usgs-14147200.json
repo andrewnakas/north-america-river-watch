@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14147200",
+  "key": "14147200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14147200",
+  "name": "NF OF MF WILLAMETTE R AB PARKER CR NR OAKRIDGE, OR",
+  "waterbody": "NF OF MF WILLAMETTE R AB PARKER CR NR OAKRIDGE, OR",
+  "state": "OR",
+  "latitude": 43.88468889,
+  "longitude": -122.2451306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14147200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

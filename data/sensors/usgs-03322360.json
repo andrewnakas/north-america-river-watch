@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03322360",
+  "key": "03322360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03322360",
+  "name": "BEAVERDAM CREEK NEAR CORYDON, KY",
+  "waterbody": "BEAVERDAM CREEK NEAR CORYDON, KY",
+  "state": "KY",
+  "latitude": 37.7039316,
+  "longitude": -87.6977933,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03322360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

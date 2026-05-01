@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13211210",
+  "key": "13211210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13211210",
+  "name": "BOISE RIVER ABV INDIAN CREEK AT CALDWELL, ID",
+  "waterbody": "BOISE RIVER ABV INDIAN CREEK AT CALDWELL, ID",
+  "state": "ID",
+  "latitude": 43.67776944,
+  "longitude": -116.7054944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13211210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

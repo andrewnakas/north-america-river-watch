@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01399700",
+  "key": "01399700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01399700",
+  "name": "Rockaway Creek at Whitehouse NJ",
+  "waterbody": "Rockaway Creek at Whitehouse NJ",
+  "state": "NJ",
+  "latitude": 40.63027778,
+  "longitude": -74.7361111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01399700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

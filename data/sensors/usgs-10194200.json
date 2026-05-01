@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10194200",
+  "key": "10194200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10194200",
+  "name": "CLEAR CREEK ABOVE DIVERSIONS, NEAR SEVIER, UT",
+  "waterbody": "CLEAR CREEK ABOVE DIVERSIONS, NEAR SEVIER, UT",
+  "state": "UT",
+  "latitude": 38.5794169,
+  "longitude": -112.2885399,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10194200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

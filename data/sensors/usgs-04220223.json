@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04220223",
+  "key": "04220223",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04220223",
+  "name": "SANDY CREEK AT NORTH HAMLIN NY",
+  "waterbody": "SANDY CREEK AT NORTH HAMLIN NY",
+  "state": "NY",
+  "latitude": 43.33538889,
+  "longitude": -77.9278056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandy Creek (WNY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhln6",
+  "slug": "usgs-04220223",
+  "noaaForecastPath": "data/noaa-forecast/NHLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

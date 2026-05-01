@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05357245",
+  "key": "05357245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05357245",
+  "name": "TROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI",
+  "waterbody": "TROUT RIVER AT TROUT LAKE NEAR BOULDER JUNCTION,WI",
+  "state": "WI",
+  "latitude": 46.03555556,
+  "longitude": -89.7055556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05357245",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

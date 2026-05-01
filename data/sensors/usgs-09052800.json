@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09052800",
+  "key": "09052800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09052800",
+  "name": "SLATE CREEK AT UPPER STATION, NEAR DILLON, CO.",
+  "waterbody": "SLATE CREEK AT UPPER STATION, NEAR DILLON, CO.",
+  "state": "CO",
+  "latitude": 39.76304128,
+  "longitude": -106.1925244,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09052800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

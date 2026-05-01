@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03495005",
+  "key": "03495005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03495005",
+  "name": "FLAT CREEK NEAR MASCOT, TN",
+  "waterbody": "FLAT CREEK NEAR MASCOT, TN",
+  "state": "TN",
+  "latitude": 36.0775845,
+  "longitude": -83.7429577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLAT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flat1",
+  "slug": "usgs-03495005",
+  "noaaForecastPath": "data/noaa-forecast/FLAT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

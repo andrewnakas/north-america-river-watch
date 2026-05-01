@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01305500",
+  "key": "01305500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01305500",
+  "name": "SWAN RIVER AT EAST PATCHOGUE NY",
+  "waterbody": "SWAN RIVER AT EAST PATCHOGUE NY",
+  "state": "NY",
+  "latitude": 40.76725,
+  "longitude": -72.9938333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01305500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

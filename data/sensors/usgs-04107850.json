@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04107850",
+  "key": "04107850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04107850",
+  "name": "KALAMAZOO RIVER NEAR ALLEGAN, MI",
+  "waterbody": "KALAMAZOO RIVER NEAR ALLEGAN, MI",
+  "state": "MI",
+  "latitude": 42.48225575,
+  "longitude": -85.798355,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04107850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

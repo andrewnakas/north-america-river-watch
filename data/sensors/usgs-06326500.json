@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06326500",
+  "key": "06326500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06326500",
+  "name": "Powder River near Locate MT",
+  "waterbody": "Powder River near Locate MT",
+  "state": "MT",
+  "latitude": 46.4294361,
+  "longitude": -105.3103306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Powder River (WY-MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/locm8",
+  "slug": "usgs-06326500",
+  "noaaForecastPath": "data/noaa-forecast/LOCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

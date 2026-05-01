@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03013000",
+  "key": "03013000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03013000",
+  "name": "CONEWANGO CREEK AT WATERBORO NY",
+  "waterbody": "CONEWANGO CREEK AT WATERBORO NY",
+  "state": "NY",
+  "latitude": 42.1713333,
+  "longitude": -79.0688056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03013000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03320500",
+  "key": "03320500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03320500",
+  "name": "POND RIVER NEAR APEX, KY",
+  "waterbody": "POND RIVER NEAR APEX, KY",
+  "state": "KY",
+  "latitude": 37.1222655,
+  "longitude": -87.3194431,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APXK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pond River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/apxk2",
+  "slug": "usgs-03320500",
+  "noaaForecastPath": "data/noaa-forecast/APXK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

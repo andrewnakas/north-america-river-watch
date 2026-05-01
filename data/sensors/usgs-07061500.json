@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07061500",
+  "key": "07061500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07061500",
+  "name": "Black River near Annapolis, MO",
+  "waterbody": "Black River near Annapolis, MO",
+  "state": "MO",
+  "latitude": 37.33813889,
+  "longitude": -90.78875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/annm7",
+  "slug": "usgs-07061500",
+  "noaaForecastPath": "data/noaa-forecast/ANNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

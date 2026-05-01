@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07329780",
+  "key": "07329780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07329780",
+  "name": "Honey Creek below Turner Falls near Davis, OK",
+  "waterbody": "Honey Creek below Turner Falls near Davis, OK",
+  "state": "OK",
+  "latitude": 34.4317552,
+  "longitude": -97.1472406,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DVSO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Honey Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dvso2",
+  "slug": "usgs-07329780",
+  "noaaForecastPath": "data/noaa-forecast/DVSO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

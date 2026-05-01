@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06643500",
+  "key": "06643500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06643500",
+  "name": "NORTH PLATTE RIVER NEAR GOOSE EGG, WY",
+  "waterbody": "NORTH PLATTE RIVER NEAR GOOSE EGG, WY",
+  "state": "WY",
+  "latitude": 42.71194444,
+  "longitude": -106.5580556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06643500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

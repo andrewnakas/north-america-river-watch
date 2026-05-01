@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08098295",
+  "key": "08098295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08098295",
+  "name": "Pond Ck at SH 53 nr Rosebud, TX",
+  "waterbody": "Pond Ck at SH 53 nr Rosebud, TX",
+  "state": "TX",
+  "latitude": 31.07345278,
+  "longitude": -97.0063972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08098295",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

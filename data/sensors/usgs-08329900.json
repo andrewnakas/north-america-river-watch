@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08329900",
+  "key": "08329900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329900",
+  "name": "NORTH FLOODWAY CHANNEL NEAR ALAMEDA, NM",
+  "waterbody": "NORTH FLOODWAY CHANNEL NEAR ALAMEDA, NM",
+  "state": "NM",
+  "latitude": 35.19805556,
+  "longitude": -106.5997222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANFN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "AMAFCA",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anfn5",
+  "slug": "usgs-08329900",
+  "noaaForecastPath": "data/noaa-forecast/ANFN5.json",
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04080000",
+  "key": "04080000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04080000",
+  "name": "LITTLE WOLF RIVER AT ROYALTON, WI",
+  "waterbody": "LITTLE WOLF RIVER AT ROYALTON, WI",
+  "state": "WI",
+  "latitude": 44.4124806,
+  "longitude": -88.8653842,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROYW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wolf River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/royw3",
+  "slug": "usgs-04080000",
+  "noaaForecastPath": "data/noaa-forecast/ROYW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

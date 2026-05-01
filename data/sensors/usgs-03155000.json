@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03155000",
+  "key": "03155000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03155000",
+  "name": "LITTLE KANAWHA RIVER AT PALESTINE, WV",
+  "waterbody": "LITTLE KANAWHA RIVER AT PALESTINE, WV",
+  "state": "WV",
+  "latitude": 39.0589686,
+  "longitude": -81.38956408,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELZW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Kanawha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elzw2",
+  "slug": "usgs-03155000",
+  "noaaForecastPath": "data/noaa-forecast/ELZW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

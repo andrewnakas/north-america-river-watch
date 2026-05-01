@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08066500",
+  "key": "08066500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08066500",
+  "name": "Trinity Rv at Romayor, TX",
+  "waterbody": "Trinity Rv at Romayor, TX",
+  "state": "TX",
+  "latitude": 30.4252067,
+  "longitude": -94.8507622,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RMYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rmyt2",
+  "slug": "usgs-08066500",
+  "noaaForecastPath": "data/noaa-forecast/RMYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.393Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12511800",
+  "key": "12511800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12511800",
+  "name": "YAKIMA RIVER AT VAN GIESEN BR NEAR RICHLAND, WA",
+  "waterbody": "YAKIMA RIVER AT VAN GIESEN BR NEAR RICHLAND, WA",
+  "state": "WA",
+  "latitude": 46.2970794,
+  "longitude": -119.3333527,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12511800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

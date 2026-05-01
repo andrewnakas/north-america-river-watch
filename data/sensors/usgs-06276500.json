@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06276500",
+  "key": "06276500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06276500",
+  "name": "GREYBULL RIVER AT MEETEETSE, WY",
+  "waterbody": "GREYBULL RIVER AT MEETEETSE, WY",
+  "state": "WY",
+  "latitude": 44.15852778,
+  "longitude": -108.8725833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MEEW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greybull River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/meew4",
+  "slug": "usgs-06276500",
+  "noaaForecastPath": "data/noaa-forecast/MEEW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

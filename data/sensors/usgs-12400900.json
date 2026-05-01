@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12400900",
+  "key": "12400900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12400900",
+  "name": "MYERS CREEK NEAR CHESAW, WA",
+  "waterbody": "MYERS CREEK NEAR CHESAW, WA",
+  "state": "WA",
+  "latitude": 48.99851436,
+  "longitude": -119.0200417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12400900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

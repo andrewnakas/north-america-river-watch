@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04201484",
+  "key": "04201484",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04201484",
+  "name": "East Branch Rocky River near Strongsville OH",
+  "waterbody": "East Branch Rocky River near Strongsville OH",
+  "state": "OH",
+  "latitude": 41.33444444,
+  "longitude": -81.8347222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Rocky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prlo1",
+  "slug": "usgs-04201484",
+  "noaaForecastPath": "data/noaa-forecast/PRLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

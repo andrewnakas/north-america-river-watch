@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11162737",
+  "key": "11162737",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11162737",
+  "name": "SAN MATEO C BL JUNCTION BOX A DAM1 NR HILLSBOROUGH",
+  "waterbody": "SAN MATEO C BL JUNCTION BOX A DAM1 NR HILLSBOROUGH",
+  "state": "CA",
+  "latitude": 37.5559722,
+  "longitude": -122.4177222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BJBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Mateo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bjbc1",
+  "slug": "usgs-11162737",
+  "noaaForecastPath": "data/noaa-forecast/BJBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

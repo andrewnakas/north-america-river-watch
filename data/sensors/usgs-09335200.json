@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09335200",
+  "key": "09335200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09335200",
+  "name": "BULLFROG CREEK NEAR BULLFROG, UTAH",
+  "waterbody": "BULLFROG CREEK NEAR BULLFROG, UTAH",
+  "state": "UT",
+  "latitude": 37.7708229,
+  "longitude": -110.8459839,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09335200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

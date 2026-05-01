@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01585075",
+  "key": "01585075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585075",
+  "name": "FOSTER BRANCH NEAR JOPPATOWNE, MD",
+  "waterbody": "FOSTER BRANCH NEAR JOPPATOWNE, MD",
+  "state": "MD",
+  "latitude": 39.40852778,
+  "longitude": -76.34263889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JPAM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Foster Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jpam2",
+  "slug": "usgs-01585075",
+  "noaaForecastPath": "data/noaa-forecast/JPAM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

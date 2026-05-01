@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05078720",
+  "key": "05078720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05078720",
+  "name": "County Ditch 140 Abv Br-6 Imp Nr Tilden, MN (SW8)",
+  "waterbody": "County Ditch 140 Abv Br-6 Imp Nr Tilden, MN (SW8)",
+  "state": "MN",
+  "latitude": 47.6672222,
+  "longitude": -96.3386111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05078720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

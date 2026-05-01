@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04126000",
+  "key": "04126000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04126000",
+  "name": "MANISTEE RIVER NEAR MANISTEE, MI",
+  "waterbody": "MANISTEE RIVER NEAR MANISTEE, MI",
+  "state": "MI",
+  "latitude": 44.27055575,
+  "longitude": -86.198856,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04126000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

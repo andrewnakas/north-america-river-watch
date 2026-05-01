@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07242380",
+  "key": "07242380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07242380",
+  "name": "Deep Fork at Warwick, OK",
+  "waterbody": "Deep Fork at Warwick, OK",
+  "state": "OK",
+  "latitude": 35.68089589,
+  "longitude": -97.0083615,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRWO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrwo2",
+  "slug": "usgs-07242380",
+  "noaaForecastPath": "data/noaa-forecast/WRWO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

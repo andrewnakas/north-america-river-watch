@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09089500",
+  "key": "09089500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09089500",
+  "name": "WEST DIVIDE CREEK NEAR RAVEN, CO",
+  "waterbody": "WEST DIVIDE CREEK NEAR RAVEN, CO",
+  "state": "CO",
+  "latitude": 39.33109185,
+  "longitude": -107.5800562,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09089500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

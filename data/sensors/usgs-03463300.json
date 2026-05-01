@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03463300",
+  "key": "03463300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03463300",
+  "name": "SOUTH TOE RIVER NEAR CELO, NC",
+  "waterbody": "SOUTH TOE RIVER NEAR CELO, NC",
+  "state": "NC",
+  "latitude": 35.83138889,
+  "longitude": -82.1841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "S Toe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/strn7",
+  "slug": "usgs-03463300",
+  "noaaForecastPath": "data/noaa-forecast/STRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

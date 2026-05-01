@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03304300",
+  "key": "03304300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03304300",
+  "name": "OHIO RIVER AT NEWBURGH LOCK AND DAM, IN",
+  "waterbody": "OHIO RIVER AT NEWBURGH LOCK AND DAM, IN",
+  "state": "IN",
+  "latitude": 37.92837769,
+  "longitude": -87.3750073,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBGI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbgi3",
+  "slug": "usgs-03304300",
+  "noaaForecastPath": "data/noaa-forecast/NBGI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

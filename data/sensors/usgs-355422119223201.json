@@ -1,0 +1,19 @@
+{
+  "id": "usgs:355422119223201",
+  "key": "355422119223201",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "355422119223201",
+  "name": "DEER C A ROAD 88 NR PIXLEY CA",
+  "waterbody": "DEER C A ROAD 88 NR PIXLEY CA",
+  "state": "CA",
+  "latitude": 35.9061333,
+  "longitude": -119.375575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-355422119223201",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06023800",
+  "key": "06023800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06023800",
+  "name": "Big Hole River ab Spring Creek nr Jackson MT",
+  "waterbody": "Big Hole River ab Spring Creek nr Jackson MT",
+  "state": "MT",
+  "latitude": 45.36098056,
+  "longitude": -113.4409667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scrm8",
+  "slug": "usgs-06023800",
+  "noaaForecastPath": "data/noaa-forecast/SCRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

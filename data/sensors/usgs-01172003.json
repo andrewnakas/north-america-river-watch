@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01172003",
+  "key": "01172003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01172003",
+  "name": "CONNECTICUT RIVER BELOW POWER DAM AT HOLYOKE,MA",
+  "waterbody": "CONNECTICUT RIVER BELOW POWER DAM AT HOLYOKE,MA",
+  "state": "MA",
+  "latitude": 42.20998051,
+  "longitude": -72.59506844,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLUM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlum3",
+  "slug": "usgs-01172003",
+  "noaaForecastPath": "data/noaa-forecast/HLUM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

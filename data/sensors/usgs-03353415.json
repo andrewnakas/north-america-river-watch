@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353415",
+  "key": "03353415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353415",
+  "name": "SCHOOL BRANCH AT MALONEY ROAD NEAR BROWNSBURG, IN",
+  "waterbody": "SCHOOL BRANCH AT MALONEY ROAD NEAR BROWNSBURG, IN",
+  "state": "IN",
+  "latitude": 39.88577778,
+  "longitude": -86.3554444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "School Branch (IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbmi3",
+  "slug": "usgs-03353415",
+  "noaaForecastPath": "data/noaa-forecast/SBMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09327000",
+  "key": "09327000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09327000",
+  "name": "FERRON CR BL MILLSITE RES & DIVS NR FERRON, UT",
+  "waterbody": "FERRON CR BL MILLSITE RES & DIVS NR FERRON, UT",
+  "state": "UT",
+  "latitude": 39.09526389,
+  "longitude": -111.1788694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09327000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

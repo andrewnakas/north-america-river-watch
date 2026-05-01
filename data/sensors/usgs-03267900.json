@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03267900",
+  "key": "03267900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03267900",
+  "name": "Mad River at St Paris Pike at Eagle City OH",
+  "waterbody": "Mad River at St Paris Pike at Eagle City OH",
+  "state": "OH",
+  "latitude": 39.9642265,
+  "longitude": -83.8315962,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mad River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eago1",
+  "slug": "usgs-03267900",
+  "noaaForecastPath": "data/noaa-forecast/EAGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

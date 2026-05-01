@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06653500",
+  "key": "06653500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06653500",
+  "name": "HORSESHOE CREEK NEAR GLENDO, WYO.",
+  "waterbody": "HORSESHOE CREEK NEAR GLENDO, WYO.",
+  "state": "WY",
+  "latitude": 42.452469,
+  "longitude": -104.9702484,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06653500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14158100",
+  "key": "14158100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14158100",
+  "name": "WILLAMETTE RIVER AT OWOSSO BRIDGE AT EUGENE, OR",
+  "waterbody": "WILLAMETTE RIVER AT OWOSSO BRIDGE AT EUGENE, OR",
+  "state": "OR",
+  "latitude": 44.09166667,
+  "longitude": -123.116111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14158100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01201487",
+  "key": "01201487",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01201487",
+  "name": "STILL RIVER AT ROUTE 7 AT BROOKFIELD CENTER, CT",
+  "waterbody": "STILL RIVER AT ROUTE 7 AT BROOKFIELD CENTER, CT",
+  "state": "CT",
+  "latitude": 41.46582222,
+  "longitude": -73.40320278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKFC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Still River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkfc3",
+  "slug": "usgs-01201487",
+  "noaaForecastPath": "data/noaa-forecast/BKFC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

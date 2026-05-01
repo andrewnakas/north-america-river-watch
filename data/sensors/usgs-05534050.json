@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05534050",
+  "key": "05534050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05534050",
+  "name": "DES PLAINES RIVER AT LOCKPORT, IL",
+  "waterbody": "DES PLAINES RIVER AT LOCKPORT, IL",
+  "state": "IL",
+  "latitude": 41.59638889,
+  "longitude": -88.0686111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05534050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

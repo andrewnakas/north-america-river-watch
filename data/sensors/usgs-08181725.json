@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08181725",
+  "key": "08181725",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08181725",
+  "name": "San Antonio Rv nr Braunig Lk nr Elmendorf, TX",
+  "waterbody": "San Antonio Rv nr Braunig Lk nr Elmendorf, TX",
+  "state": "TX",
+  "latitude": 29.2354111,
+  "longitude": -98.4026083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08181725",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12182500",
+  "key": "12182500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12182500",
+  "name": "CASCADE RIVER AT MARBLEMOUNT, WA",
+  "waterbody": "CASCADE RIVER AT MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.5262307,
+  "longitude": -121.4154046,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12182500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

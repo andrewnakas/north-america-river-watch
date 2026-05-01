@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02353000",
+  "key": "02353000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02353000",
+  "name": "FLINT RIVER AT NEWTON, GA",
+  "waterbody": "FLINT RIVER AT NEWTON, GA",
+  "state": "GA",
+  "latitude": 31.30694444,
+  "longitude": -84.33888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEWG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River (GA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/newg1",
+  "slug": "usgs-02353000",
+  "noaaForecastPath": "data/noaa-forecast/NEWG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

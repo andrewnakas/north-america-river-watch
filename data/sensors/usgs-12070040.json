@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12070040",
+  "key": "12070040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12070040",
+  "name": "JOHNSON CREEK AT DNR SITE NEAR POULSBO, WA",
+  "waterbody": "JOHNSON CREEK AT DNR SITE NEAR POULSBO, WA",
+  "state": "WA",
+  "latitude": 47.7431497,
+  "longitude": -122.678763,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12070040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

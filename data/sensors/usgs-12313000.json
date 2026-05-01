@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12313000",
+  "key": "12313000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12313000",
+  "name": "MYRTLE CREEK NR BONNERS FERRY ID",
+  "waterbody": "MYRTLE CREEK NR BONNERS FERRY ID",
+  "state": "ID",
+  "latitude": 48.7072222,
+  "longitude": -116.4166667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12313000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

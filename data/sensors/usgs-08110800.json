@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08110800",
+  "key": "08110800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110800",
+  "name": "Navasota Rv at Old San Antonio Rd nr Bryan, TX",
+  "waterbody": "Navasota Rv at Old San Antonio Rd nr Bryan, TX",
+  "state": "TX",
+  "latitude": 30.9737987,
+  "longitude": -96.2416274,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NGET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navasota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nget2",
+  "slug": "usgs-08110800",
+  "noaaForecastPath": "data/noaa-forecast/NGET2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

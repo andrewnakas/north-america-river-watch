@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01425805",
+  "key": "01425805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01425805",
+  "name": "OQUAGA CREEK AT MCCLURE NY",
+  "waterbody": "OQUAGA CREEK AT MCCLURE NY",
+  "state": "NY",
+  "latitude": 42.04869444,
+  "longitude": -75.4851944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OQGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oquaga Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oqgn6",
+  "slug": "usgs-01425805",
+  "noaaForecastPath": "data/noaa-forecast/OQGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

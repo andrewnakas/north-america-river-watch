@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06770500",
+  "key": "06770500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06770500",
+  "name": "Platte River near Grand Island, Nebr.",
+  "waterbody": "Platte River near Grand Island, Nebr.",
+  "state": "NE",
+  "latitude": 40.87411667,
+  "longitude": -98.28219167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRIN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grin1",
+  "slug": "usgs-06770500",
+  "noaaForecastPath": "data/noaa-forecast/GRIN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

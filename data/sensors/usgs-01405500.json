@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01405500",
+  "key": "01405500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01405500",
+  "name": "South River at Old Bridge NJ",
+  "waterbody": "South River at Old Bridge NJ",
+  "state": "NJ",
+  "latitude": 40.4061111,
+  "longitude": -74.3686111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01405500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

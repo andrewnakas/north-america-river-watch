@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09163500",
+  "key": "09163500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09163500",
+  "name": "COLORADO RIVER NEAR COLORADO-UTAH STATE LINE",
+  "waterbody": "COLORADO RIVER NEAR COLORADO-UTAH STATE LINE",
+  "state": "CO",
+  "latitude": 39.1327434,
+  "longitude": -109.02707585,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCUC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccuc2",
+  "slug": "usgs-09163500",
+  "noaaForecastPath": "data/noaa-forecast/CCUC2.json",
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

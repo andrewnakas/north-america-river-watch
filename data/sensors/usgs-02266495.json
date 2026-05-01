@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02266495",
+  "key": "02266495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266495",
+  "name": "REEDY CREEK AT S-40, NEAR LOUGHMAN, FL",
+  "waterbody": "REEDY CREEK AT S-40, NEAR LOUGHMAN, FL",
+  "state": "FL",
+  "latitude": 28.27584517,
+  "longitude": -81.5439622,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCSF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reedy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcsf1",
+  "slug": "usgs-02266495",
+  "noaaForecastPath": "data/noaa-forecast/RCSF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

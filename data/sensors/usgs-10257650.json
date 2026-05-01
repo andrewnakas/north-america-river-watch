@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10257650",
+  "key": "10257650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10257650",
+  "name": "MISSION C AB MISSION C RD NR DESERT HOT SPRINGS",
+  "waterbody": "MISSION C AB MISSION C RD NR DESERT HOT SPRINGS",
+  "state": "CA",
+  "latitude": 33.9961722,
+  "longitude": -116.5960083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10257650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

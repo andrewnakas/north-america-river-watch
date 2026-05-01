@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03369000",
+  "key": "03369000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03369000",
+  "name": "VERNON FORK MUSCATATUCK RIVER NR BUTLERVILLE, IN",
+  "waterbody": "VERNON FORK MUSCATATUCK RIVER NR BUTLERVILLE, IN",
+  "state": "IN",
+  "latitude": 39.0486555,
+  "longitude": -85.54439299,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03369000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

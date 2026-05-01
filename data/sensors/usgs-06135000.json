@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06135000",
+  "key": "06135000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06135000",
+  "name": "Milk River at Eastern Crossing of Int Bndry",
+  "waterbody": "Milk River at Eastern Crossing of Int Bndry",
+  "state": "MT",
+  "latitude": 48.9748194,
+  "longitude": -110.4217778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERNM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Milk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ernm8",
+  "slug": "usgs-06135000",
+  "noaaForecastPath": "data/noaa-forecast/ERNM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10245960",
+  "key": "10245960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245960",
+  "name": "COILS CK ABV HORSE CK NR EUREKA, NV",
+  "waterbody": "COILS CK ABV HORSE CK NR EUREKA, NV",
+  "state": "NV",
+  "latitude": 39.76977778,
+  "longitude": -116.4644444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coils Creek (NV)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cocn2",
+  "slug": "usgs-10245960",
+  "noaaForecastPath": "data/noaa-forecast/COCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

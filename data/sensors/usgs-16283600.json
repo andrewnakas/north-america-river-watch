@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16283600",
+  "key": "16283600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16283600",
+  "name": "SF WAIHEE STR NR HEEIA, OAHU, HI",
+  "waterbody": "SF WAIHEE STR NR HEEIA, OAHU, HI",
+  "state": "HI",
+  "latitude": 21.44323056,
+  "longitude": -157.86725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16283600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

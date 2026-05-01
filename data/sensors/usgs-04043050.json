@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04043050",
+  "key": "04043050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043050",
+  "name": "TRAP ROCK RIVER NEAR LAKE LINDEN, MI",
+  "waterbody": "TRAP ROCK RIVER NEAR LAKE LINDEN, MI",
+  "state": "MI",
+  "latitude": 47.22853637,
+  "longitude": -88.3853928,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trap Rock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trrm4",
+  "slug": "usgs-04043050",
+  "noaaForecastPath": "data/noaa-forecast/TRRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

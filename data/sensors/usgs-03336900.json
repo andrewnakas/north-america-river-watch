@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03336900",
+  "key": "03336900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03336900",
+  "name": "SALT FORK NEAR ST. JOSEPH, IL",
+  "waterbody": "SALT FORK NEAR ST. JOSEPH, IL",
+  "state": "IL",
+  "latitude": 40.14955556,
+  "longitude": -88.03363889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STJI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork (IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stji2",
+  "slug": "usgs-03336900",
+  "noaaForecastPath": "data/noaa-forecast/STJI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

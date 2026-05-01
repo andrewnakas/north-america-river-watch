@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06207500",
+  "key": "06207500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06207500",
+  "name": "Clarks Fork Yellowstone River nr Belfry MT",
+  "waterbody": "Clarks Fork Yellowstone River nr Belfry MT",
+  "state": "MT",
+  "latitude": 45.0099111,
+  "longitude": -109.0653667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFYM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clarks Fork of the Yellowstone",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfym8",
+  "slug": "usgs-06207500",
+  "noaaForecastPath": "data/noaa-forecast/BFYM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

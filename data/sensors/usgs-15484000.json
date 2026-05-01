@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15484000",
+  "key": "15484000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15484000",
+  "name": "SALCHA R NR SALCHAKET AK",
+  "waterbody": "SALCHA R NR SALCHAKET AK",
+  "state": "AK",
+  "latitude": 64.471528,
+  "longitude": -146.928056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SALA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salcha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sala2",
+  "slug": "usgs-15484000",
+  "noaaForecastPath": "data/noaa-forecast/SALA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

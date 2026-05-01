@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01411415",
+  "key": "01411415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01411415",
+  "name": "Bidwell Creek at Rt 47 near Reeds Beach NJ",
+  "waterbody": "Bidwell Creek at Rt 47 near Reeds Beach NJ",
+  "state": "NJ",
+  "latitude": 39.11755556,
+  "longitude": -74.8675556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01411415",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

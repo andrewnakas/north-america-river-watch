@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12147600",
+  "key": "12147600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12147600",
+  "name": "SOUTH FORK TOLT RIVER NEAR INDEX, WA",
+  "waterbody": "SOUTH FORK TOLT RIVER NEAR INDEX, WA",
+  "state": "WA",
+  "latitude": 47.7067714,
+  "longitude": -121.6001069,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12147600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

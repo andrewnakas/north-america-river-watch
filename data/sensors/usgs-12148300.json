@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12148300",
+  "key": "12148300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12148300",
+  "name": "SF TOLT RIVER BL REGULATING BASIN NR CARNATION, WA",
+  "waterbody": "SF TOLT RIVER BL REGULATING BASIN NR CARNATION, WA",
+  "state": "WA",
+  "latitude": 47.69676817,
+  "longitude": -121.7873379,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12148300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

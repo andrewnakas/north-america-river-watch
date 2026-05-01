@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02134500",
+  "key": "02134500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02134500",
+  "name": "LUMBER RIVER AT BOARDMAN, NC",
+  "waterbody": "LUMBER RIVER AT BOARDMAN, NC",
+  "state": "NC",
+  "latitude": 34.4425,
+  "longitude": -78.9602778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lumber River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brdn7",
+  "slug": "usgs-02134500",
+  "noaaForecastPath": "data/noaa-forecast/BRDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

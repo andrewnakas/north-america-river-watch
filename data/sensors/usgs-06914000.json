@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06914000",
+  "key": "06914000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06914000",
+  "name": "POTTAWATOMIE C NR GARNETT, KS",
+  "waterbody": "POTTAWATOMIE C NR GARNETT, KS",
+  "state": "KS",
+  "latitude": 38.333631,
+  "longitude": -95.2488634,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRTK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pottawatomie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grtk1",
+  "slug": "usgs-06914000",
+  "noaaForecastPath": "data/noaa-forecast/GRTK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

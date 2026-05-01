@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01332500",
+  "key": "01332500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01332500",
+  "name": "HOOSIC RIVER NEAR WILLIAMSTOWN, MA",
+  "waterbody": "HOOSIC RIVER NEAR WILLIAMSTOWN, MA",
+  "state": "MA",
+  "latitude": 42.70025695,
+  "longitude": -73.1589722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WILM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hoosic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wilm3",
+  "slug": "usgs-01332500",
+  "noaaForecastPath": "data/noaa-forecast/WILM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

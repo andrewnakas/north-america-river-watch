@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01553025",
+  "key": "01553025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01553025",
+  "name": "West Branch Susquehanna River at Allenwood, PA",
+  "waterbody": "West Branch Susquehanna River at Allenwood, PA",
+  "state": "PA",
+  "latitude": 41.10805556,
+  "longitude": -76.89,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALWP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alwp1",
+  "slug": "usgs-01553025",
+  "noaaForecastPath": "data/noaa-forecast/ALWP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

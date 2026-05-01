@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10130000",
+  "key": "10130000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10130000",
+  "name": "SILVER CREEK NEAR WANSHIP, UT",
+  "waterbody": "SILVER CREEK NEAR WANSHIP, UT",
+  "state": "UT",
+  "latitude": 40.75689256,
+  "longitude": -111.4715873,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10130000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336313",
+  "key": "02336313",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336313",
+  "name": "WOODALL CREEK AT DEFOORS FERRY RD, AT ATLANTA, GA",
+  "waterbody": "WOODALL CREEK AT DEFOORS FERRY RD, AT ATLANTA, GA",
+  "state": "GA",
+  "latitude": 33.82163889,
+  "longitude": -84.43863889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Woodall Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdcg1",
+  "slug": "usgs-02336313",
+  "noaaForecastPath": "data/noaa-forecast/WDCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

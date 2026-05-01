@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08057055",
+  "key": "08057055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08057055",
+  "name": "Trinity Rv at Cedar Crest Blvd, Dallas, TX",
+  "waterbody": "Trinity Rv at Cedar Crest Blvd, Dallas, TX",
+  "state": "TX",
+  "latitude": 32.7521361,
+  "longitude": -96.7825528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08057055",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

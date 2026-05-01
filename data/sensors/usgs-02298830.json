@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298830",
+  "key": "02298830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298830",
+  "name": "MYAKKA RIVER NEAR SR 72 NEAR SARASOTA, FL",
+  "waterbody": "MYAKKA RIVER NEAR SR 72 NEAR SARASOTA, FL",
+  "state": "FL",
+  "latitude": 27.23521944,
+  "longitude": -82.3118944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Myakka River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mkcf1",
+  "slug": "usgs-02298830",
+  "noaaForecastPath": "data/noaa-forecast/MKCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01651812",
+  "key": "01651812",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01651812",
+  "name": "ANACOSTIA RIVER AT ANACOSTIA PARK BOAT RAMP, DC",
+  "waterbody": "ANACOSTIA RIVER AT ANACOSTIA PARK BOAT RAMP, DC",
+  "state": "DC",
+  "latitude": 38.87991667,
+  "longitude": -76.9708333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01651812",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

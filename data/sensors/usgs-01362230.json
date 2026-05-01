@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362230",
+  "key": "01362230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362230",
+  "name": "DIVERSION FROM SCHOHARIE RESERVOIR NY",
+  "waterbody": "DIVERSION FROM SCHOHARIE RESERVOIR NY",
+  "state": "NY",
+  "latitude": 42.11488889,
+  "longitude": -74.36361111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362230",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

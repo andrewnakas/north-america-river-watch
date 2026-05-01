@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08403500",
+  "key": "08403500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08403500",
+  "name": "CARLSBAD MAIN CANAL AT HEAD NEAR CARLSBAD, NM",
+  "waterbody": "CARLSBAD MAIN CANAL AT HEAD NEAR CARLSBAD, NM",
+  "state": "NM",
+  "latitude": 32.49039444,
+  "longitude": -104.2527278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 3 miles NNW of Carlsbad North",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmcn5",
+  "slug": "usgs-08403500",
+  "noaaForecastPath": "data/noaa-forecast/CMCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

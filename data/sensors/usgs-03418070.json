@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03418070",
+  "key": "03418070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03418070",
+  "name": "ROARING RIVER ABOVE GAINESBORO, TN",
+  "waterbody": "ROARING RIVER ABOVE GAINESBORO, TN",
+  "state": "TN",
+  "latitude": 36.35116554,
+  "longitude": -85.5455714,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03418070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

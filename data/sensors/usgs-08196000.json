@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08196000",
+  "key": "08196000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08196000",
+  "name": "Dry Frio Rv nr Reagan Wells, TX",
+  "waterbody": "Dry Frio Rv nr Reagan Wells, TX",
+  "state": "TX",
+  "latitude": 29.50467576,
+  "longitude": -99.7814452,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RWDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Frio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rwdt2",
+  "slug": "usgs-08196000",
+  "noaaForecastPath": "data/noaa-forecast/RWDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

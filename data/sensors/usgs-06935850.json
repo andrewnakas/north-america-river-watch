@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06935850",
+  "key": "06935850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06935850",
+  "name": "Creve Coeur Creek at Chesterfield, MO",
+  "waterbody": "Creve Coeur Creek at Chesterfield, MO",
+  "state": "MO",
+  "latitude": 38.6464083,
+  "longitude": -90.5268889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06935850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

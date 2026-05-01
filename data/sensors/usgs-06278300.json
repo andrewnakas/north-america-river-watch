@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06278300",
+  "key": "06278300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06278300",
+  "name": "Shell Creek above Shell Reservoir, WY",
+  "waterbody": "Shell Creek above Shell Reservoir, WY",
+  "state": "WY",
+  "latitude": 44.508056,
+  "longitude": -107.403056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06278300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

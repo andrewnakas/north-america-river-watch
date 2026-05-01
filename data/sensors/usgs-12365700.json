@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12365700",
+  "key": "12365700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12365700",
+  "name": "Stillwater River at Lawrence Park, at Kalispell",
+  "waterbody": "Stillwater River at Lawrence Park, at Kalispell",
+  "state": "MT",
+  "latitude": 48.21725,
+  "longitude": -114.313736,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srlm8",
+  "slug": "usgs-12365700",
+  "noaaForecastPath": "data/noaa-forecast/SRLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

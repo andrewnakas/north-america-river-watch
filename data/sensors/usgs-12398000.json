@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12398000",
+  "key": "12398000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12398000",
+  "name": "SULLIVAN CREEK AT METALINE FALLS, WA",
+  "waterbody": "SULLIVAN CREEK AT METALINE FALLS, WA",
+  "state": "WA",
+  "latitude": 48.8601981,
+  "longitude": -117.364133,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12398000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

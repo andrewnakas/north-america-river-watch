@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03342244",
+  "key": "03342244",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03342244",
+  "name": "MUD CR NR CASS IN",
+  "waterbody": "MUD CR NR CASS IN",
+  "state": "IN",
+  "latitude": 39.0986552,
+  "longitude": -87.2627818,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03342244",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

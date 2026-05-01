@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073802282",
+  "key": "073802282",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073802282",
+  "name": "New River Canal near Sorrento, LA",
+  "waterbody": "New River Canal near Sorrento, LA",
+  "state": "LA",
+  "latitude": 30.18936433,
+  "longitude": -90.7862055,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRSL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrsl1",
+  "slug": "usgs-073802282",
+  "noaaForecastPath": "data/noaa-forecast/NRSL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01452000",
+  "key": "01452000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01452000",
+  "name": "Jordan Creek at Allentown, PA",
+  "waterbody": "Jordan Creek at Allentown, PA",
+  "state": "PA",
+  "latitude": 40.623062,
+  "longitude": -75.48239529,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jordan Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alnp1",
+  "slug": "usgs-01452000",
+  "noaaForecastPath": "data/noaa-forecast/ALNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

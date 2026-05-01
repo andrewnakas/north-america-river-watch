@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50055225",
+  "key": "50055225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50055225",
+  "name": "RIO CAGUITAS AT VILLA BLANCA AT CAGUAS, PR",
+  "waterbody": "RIO CAGUITAS AT VILLA BLANCA AT CAGUAS, PR",
+  "state": "PR",
+  "latitude": 18.248703,
+  "longitude": -66.027633,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAMP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Caguitas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/camp4",
+  "slug": "usgs-50055225",
+  "noaaForecastPath": "data/noaa-forecast/CAMP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

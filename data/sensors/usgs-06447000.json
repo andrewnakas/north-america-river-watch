@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06447000",
+  "key": "06447000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06447000",
+  "name": "WHITE RIVER NEAR KADOKA,SD",
+  "waterbody": "WHITE RIVER NEAR KADOKA,SD",
+  "state": "SD",
+  "latitude": 43.7524949,
+  "longitude": -101.5248665,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KDKS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (NE-SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kdks2",
+  "slug": "usgs-06447000",
+  "noaaForecastPath": "data/noaa-forecast/KDKS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

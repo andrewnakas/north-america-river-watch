@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08385643",
+  "key": "08385643",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08385643",
+  "name": "PECOS RIVER BELOW SIXMILE DRAW NEAR ROSWELL, NM",
+  "waterbody": "PECOS RIVER BELOW SIXMILE DRAW NEAR ROSWELL, NM",
+  "state": "NM",
+  "latitude": 33.8531405,
+  "longitude": -104.2919136,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08385643",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

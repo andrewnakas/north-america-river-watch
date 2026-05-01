@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03330500",
+  "key": "03330500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03330500",
+  "name": "TIPPECANOE RIVER AT OSWEGO, IN",
+  "waterbody": "TIPPECANOE RIVER AT OSWEGO, IN",
+  "state": "IN",
+  "latitude": 41.32057424,
+  "longitude": -85.7891216,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWGI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tippecanoe River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owgi3",
+  "slug": "usgs-03330500",
+  "noaaForecastPath": "data/noaa-forecast/OWGI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

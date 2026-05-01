@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01209500",
+  "key": "01209500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01209500",
+  "name": "SAUGATUCK RIVER NEAR WESTPORT, CT",
+  "waterbody": "SAUGATUCK RIVER NEAR WESTPORT, CT",
+  "state": "CT",
+  "latitude": 41.17073056,
+  "longitude": -73.36481667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01209500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05243725",
+  "key": "05243725",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05243725",
+  "name": "STRAIGHT RIVER NEAR PARK RAPIDS, MN",
+  "waterbody": "STRAIGHT RIVER NEAR PARK RAPIDS, MN",
+  "state": "MN",
+  "latitude": 46.874919,
+  "longitude": -95.066273,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRKM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Straight River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prkm5",
+  "slug": "usgs-05243725",
+  "noaaForecastPath": "data/noaa-forecast/PRKM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

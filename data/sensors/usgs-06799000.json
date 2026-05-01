@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06799000",
+  "key": "06799000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06799000",
+  "name": "Elkhorn River at Norfolk, Nebr.",
+  "waterbody": "Elkhorn River at Norfolk, Nebr.",
+  "state": "NE",
+  "latitude": 42.003778,
+  "longitude": -97.426028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFKN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhorn River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfkn1",
+  "slug": "usgs-06799000",
+  "noaaForecastPath": "data/noaa-forecast/NFKN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05451900",
+  "key": "05451900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05451900",
+  "name": "Richland Creek near Haven, IA",
+  "waterbody": "Richland Creek near Haven, IA",
+  "state": "IA",
+  "latitude": 41.89943868,
+  "longitude": -92.474355,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAVI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Richland Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/havi4",
+  "slug": "usgs-05451900",
+  "noaaForecastPath": "data/noaa-forecast/HAVI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

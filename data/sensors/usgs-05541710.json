@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05541710",
+  "key": "05541710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05541710",
+  "name": "AUX SABLE CREEK NEAR MORRIS, IL",
+  "waterbody": "AUX SABLE CREEK NEAR MORRIS, IL",
+  "state": "IL",
+  "latitude": 41.41694444,
+  "longitude": -88.3477778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOXI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aux Sable Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/moxi2",
+  "slug": "usgs-05541710",
+  "noaaForecastPath": "data/noaa-forecast/MOXI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

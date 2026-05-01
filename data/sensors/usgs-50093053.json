@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50093053",
+  "key": "50093053",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50093053",
+  "name": "CANAL DE PATILLAS AT FOREBAY, PR",
+  "waterbody": "CANAL DE PATILLAS AT FOREBAY, PR",
+  "state": "PR",
+  "latitude": 18.020833,
+  "longitude": -66.023056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPFP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canal de Patillas",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpfp4",
+  "slug": "usgs-50093053",
+  "noaaForecastPath": "data/noaa-forecast/CPFP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

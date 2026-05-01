@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50058350",
+  "key": "50058350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50058350",
+  "name": "RIO CANAS AT RIO CANAS, PR",
+  "waterbody": "RIO CANAS AT RIO CANAS, PR",
+  "state": "PR",
+  "latitude": 18.2945,
+  "longitude": -66.045089,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAPP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Canas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/capp4",
+  "slug": "usgs-50058350",
+  "noaaForecastPath": "data/noaa-forecast/CAPP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

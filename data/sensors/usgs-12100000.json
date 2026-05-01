@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12100000",
+  "key": "12100000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12100000",
+  "name": "WHITE RIVER AT BUCKLEY, WA",
+  "waterbody": "WHITE RIVER AT BUCKLEY, WA",
+  "state": "WA",
+  "latitude": 47.17426836,
+  "longitude": -122.0203897,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12100000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

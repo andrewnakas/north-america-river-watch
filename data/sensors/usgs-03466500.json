@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03466500",
+  "key": "03466500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03466500",
+  "name": "NOLICHUCKY RIVER BELOW NOLICHUCKY DAM, TN",
+  "waterbody": "NOLICHUCKY RIVER BELOW NOLICHUCKY DAM, TN",
+  "state": "TN",
+  "latitude": 36.06562706,
+  "longitude": -82.86644949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOLT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nolichucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nolt1",
+  "slug": "usgs-03466500",
+  "noaaForecastPath": "data/noaa-forecast/NOLT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

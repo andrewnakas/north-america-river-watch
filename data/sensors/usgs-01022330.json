@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01022330",
+  "key": "01022330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01022330",
+  "name": "Narraguagus River at Deblois, Maine",
+  "waterbody": "Narraguagus River at Deblois, Maine",
+  "state": "ME",
+  "latitude": 44.7408333,
+  "longitude": -68.0133333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01022330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

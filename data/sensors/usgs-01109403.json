@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01109403",
+  "key": "01109403",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109403",
+  "name": "TEN MILE R., PAWTUCKET AVE. AT E. PROVIDENCE, RI",
+  "waterbody": "TEN MILE R., PAWTUCKET AVE. AT E. PROVIDENCE, RI",
+  "state": "RI",
+  "latitude": 41.83093377,
+  "longitude": -71.3503315,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EPPR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ten Mile River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eppr1",
+  "slug": "usgs-01109403",
+  "noaaForecastPath": "data/noaa-forecast/EPPR1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

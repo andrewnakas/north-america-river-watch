@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08386850",
+  "key": "08386850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08386850",
+  "name": "CEDAR CREEK ABOVE RUIDOSO, NM",
+  "waterbody": "CEDAR CREEK ABOVE RUIDOSO, NM",
+  "state": "NM",
+  "latitude": 33.36828889,
+  "longitude": -105.6968306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08386850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10301495",
+  "key": "10301495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301495",
+  "name": "WABUSKA DRAIN ABV WALKER RV CNFL NR PARKER BUTTE",
+  "waterbody": "WABUSKA DRAIN ABV WALKER RV CNFL NR PARKER BUTTE",
+  "state": "NV",
+  "latitude": 39.1509083,
+  "longitude": -119.103786,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10301495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

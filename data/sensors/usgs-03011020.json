@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03011020",
+  "key": "03011020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03011020",
+  "name": "ALLEGHENY RIVER AT SALAMANCA NY",
+  "waterbody": "ALLEGHENY RIVER AT SALAMANCA NY",
+  "state": "NY",
+  "latitude": 42.1568333,
+  "longitude": -78.7155556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLMN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slmn6",
+  "slug": "usgs-03011020",
+  "noaaForecastPath": "data/noaa-forecast/SLMN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

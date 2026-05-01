@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02202040",
+  "key": "02202040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02202040",
+  "name": "OGEECHEE RIVER AT ROCKY FORD RD, NR ROCKY FORD, GA",
+  "waterbody": "OGEECHEE RIVER AT ROCKY FORD RD, NR ROCKY FORD, GA",
+  "state": "GA",
+  "latitude": 32.64927778,
+  "longitude": -81.8407778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RFDG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogeechee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rfdg1",
+  "slug": "usgs-02202040",
+  "noaaForecastPath": "data/noaa-forecast/RFDG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

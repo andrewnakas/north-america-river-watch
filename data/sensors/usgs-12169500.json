@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12169500",
+  "key": "12169500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12169500",
+  "name": "FISH CREEK NEAR ARLINGTON, WA",
+  "waterbody": "FISH CREEK NEAR ARLINGTON, WA",
+  "state": "WA",
+  "latitude": 48.1753767,
+  "longitude": -122.2243118,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12169500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

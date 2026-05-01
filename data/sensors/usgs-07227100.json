@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07227100",
+  "key": "07227100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07227100",
+  "name": "REVUELTO CREEK NEAR LOGAN, NM",
+  "waterbody": "REVUELTO CREEK NEAR LOGAN, NM",
+  "state": "NM",
+  "latitude": 35.3443861,
+  "longitude": -103.3896056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGNN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Revuelto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgnn5",
+  "slug": "usgs-07227100",
+  "noaaForecastPath": "data/noaa-forecast/LGNN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

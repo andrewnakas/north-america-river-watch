@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10141100",
+  "key": "10141100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10141100",
+  "name": "SOUTH FORK WEBER RIVER NEAR HOOPER, UTAH",
+  "waterbody": "SOUTH FORK WEBER RIVER NEAR HOOPER, UTAH",
+  "state": "UT",
+  "latitude": 41.1786,
+  "longitude": -112.1763889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10141100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

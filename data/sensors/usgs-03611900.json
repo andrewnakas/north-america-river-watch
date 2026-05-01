@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03611900",
+  "key": "03611900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03611900",
+  "name": "LITTLE BAYOU CREEK NEAR GRAHAMVILLE, KY",
+  "waterbody": "LITTLE BAYOU CREEK NEAR GRAHAMVILLE, KY",
+  "state": "KY",
+  "latitude": 37.1394985,
+  "longitude": -88.7906119,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03611900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

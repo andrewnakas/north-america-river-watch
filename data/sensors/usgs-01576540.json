@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01576540",
+  "key": "01576540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576540",
+  "name": "Mill Creek at Eshelman Mill Road near Lyndon, PA",
+  "waterbody": "Mill Creek at Eshelman Mill Road near Lyndon, PA",
+  "state": "PA",
+  "latitude": 40.0100985,
+  "longitude": -76.2771806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01576540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

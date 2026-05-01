@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06317000",
+  "key": "06317000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06317000",
+  "name": "POWDER RIVER AT ARVADA, WY",
+  "waterbody": "POWDER RIVER AT ARVADA, WY",
+  "state": "WY",
+  "latitude": 44.64993155,
+  "longitude": -106.127598,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARVW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Powder River (WY-MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arvw4",
+  "slug": "usgs-06317000",
+  "noaaForecastPath": "data/noaa-forecast/ARVW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

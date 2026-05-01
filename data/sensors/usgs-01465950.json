@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465950",
+  "key": "01465950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465950",
+  "name": "NB Rancocas Creek at Hanover Furnace NJ",
+  "waterbody": "NB Rancocas Creek at Hanover Furnace NJ",
+  "state": "NJ",
+  "latitude": 39.97944444,
+  "longitude": -74.5247222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

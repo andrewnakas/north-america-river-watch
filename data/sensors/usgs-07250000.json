@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07250000",
+  "key": "07250000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07250000",
+  "name": "LEE CR NR VAN BUREN ARK",
+  "waterbody": "LEE CR NR VAN BUREN ARK",
+  "state": "AR",
+  "latitude": 35.49453306,
+  "longitude": -94.4496592,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07250000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

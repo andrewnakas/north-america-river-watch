@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15300300",
+  "key": "15300300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15300300",
+  "name": "ILIAMNA R NR PEDRO BAY AK",
+  "waterbody": "ILIAMNA R NR PEDRO BAY AK",
+  "state": "AK",
+  "latitude": 59.7579499,
+  "longitude": -153.8468866,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ILRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iliamna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ilra2",
+  "slug": "usgs-15300300",
+  "noaaForecastPath": "data/noaa-forecast/ILRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

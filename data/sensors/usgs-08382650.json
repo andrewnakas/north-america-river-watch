@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08382650",
+  "key": "08382650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08382650",
+  "name": "PECOS RIVER ABOVE SANTA ROSA LAKE, NM",
+  "waterbody": "PECOS RIVER ABOVE SANTA ROSA LAKE, NM",
+  "state": "NM",
+  "latitude": 35.05944444,
+  "longitude": -104.7611111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08382650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

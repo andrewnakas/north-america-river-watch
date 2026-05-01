@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07375650",
+  "key": "07375650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07375650",
+  "name": "Tangipahoa River near Ponchatoula, LA",
+  "waterbody": "Tangipahoa River near Ponchatoula, LA",
+  "state": "LA",
+  "latitude": 30.44369444,
+  "longitude": -90.3345833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNTL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tangipahoa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pntl1",
+  "slug": "usgs-07375650",
+  "noaaForecastPath": "data/noaa-forecast/PNTL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

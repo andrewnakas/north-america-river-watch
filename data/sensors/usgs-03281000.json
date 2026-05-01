@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03281000",
+  "key": "03281000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03281000",
+  "name": "MIDDLE FORK KENTUCKY RIVER AT TALLEGA, KY",
+  "waterbody": "MIDDLE FORK KENTUCKY RIVER AT TALLEGA, KY",
+  "state": "KY",
+  "latitude": 37.55508768,
+  "longitude": -83.5937993,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tllk2",
+  "slug": "usgs-03281000",
+  "noaaForecastPath": "data/noaa-forecast/TLLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

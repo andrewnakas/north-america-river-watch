@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09261700",
+  "key": "09261700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09261700",
+  "name": "BIG BRUSH CRK ABV RED FLEET RES, NR VERNAL, UT",
+  "waterbody": "BIG BRUSH CRK ABV RED FLEET RES, NR VERNAL, UT",
+  "state": "UT",
+  "latitude": 40.58883234,
+  "longitude": -109.46543719,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09261700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

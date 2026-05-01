@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03169244",
+  "key": "03169244",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03169244",
+  "name": "LITTLE RIVER AT GALLIMORE LANE NEAR FLOYD, VA",
+  "waterbody": "LITTLE RIVER AT GALLIMORE LANE NEAR FLOYD, VA",
+  "state": "VA",
+  "latitude": 36.95686111,
+  "longitude": -80.35106111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FGLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fglv2",
+  "slug": "usgs-03169244",
+  "noaaForecastPath": "data/noaa-forecast/FGLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05060100",
+  "key": "05060100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05060100",
+  "name": "MAPLE RIVER BL MAPLETON, ND",
+  "waterbody": "MAPLE RIVER BL MAPLETON, ND",
+  "state": "ND",
+  "latitude": 46.9052487,
+  "longitude": -97.052587,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAPN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maple River (ND)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mapn8",
+  "slug": "usgs-05060100",
+  "noaaForecastPath": "data/noaa-forecast/MAPN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

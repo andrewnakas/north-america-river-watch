@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05058500",
+  "key": "05058500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05058500",
+  "name": "SHEYENNE RIVER AT VALLEY CITY, ND",
+  "waterbody": "SHEYENNE RIVER AT VALLEY CITY, ND",
+  "state": "ND",
+  "latitude": 46.91555556,
+  "longitude": -98.0105556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VCRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vcrn8",
+  "slug": "usgs-05058500",
+  "noaaForecastPath": "data/noaa-forecast/VCRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10311100",
+  "key": "10311100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10311100",
+  "name": "KINGS CYN CK NR CARSON CITY, NV",
+  "waterbody": "KINGS CYN CK NR CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.15379796,
+  "longitude": -119.8079599,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10311100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

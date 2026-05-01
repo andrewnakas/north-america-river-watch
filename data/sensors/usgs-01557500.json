@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01557500",
+  "key": "01557500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01557500",
+  "name": "Bald Eagle Creek at Tyrone, PA",
+  "waterbody": "Bald Eagle Creek at Tyrone, PA",
+  "state": "PA",
+  "latitude": 40.6836733,
+  "longitude": -78.23362439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bald Eagle Creek (South)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bldp1",
+  "slug": "usgs-01557500",
+  "noaaForecastPath": "data/noaa-forecast/BLDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

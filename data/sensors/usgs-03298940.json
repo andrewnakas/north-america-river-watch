@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03298940",
+  "key": "03298940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298940",
+  "name": "ROLLING FORK AT HWY 208 AT CALVARY, KY",
+  "waterbody": "ROLLING FORK AT HWY 208 AT CALVARY, KY",
+  "state": "KY",
+  "latitude": 37.5125,
+  "longitude": -85.2611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rolling Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clvk2",
+  "slug": "usgs-03298940",
+  "noaaForecastPath": "data/noaa-forecast/CLVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

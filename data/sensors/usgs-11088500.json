@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11088500",
+  "key": "11088500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11088500",
+  "name": "BREA C BL BREA DAM NR FULLERTON CA",
+  "waterbody": "BREA C BL BREA DAM NR FULLERTON CA",
+  "state": "CA",
+  "latitude": 33.8877918,
+  "longitude": -117.9264369,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11088500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

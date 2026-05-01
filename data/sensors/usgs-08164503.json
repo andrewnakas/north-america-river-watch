@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08164503",
+  "key": "08164503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164503",
+  "name": "W Mustang Ck nr Ganado, TX",
+  "waterbody": "W Mustang Ck nr Ganado, TX",
+  "state": "TX",
+  "latitude": 29.07185833,
+  "longitude": -96.4680278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Mustang Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gndt2",
+  "slug": "usgs-08164503",
+  "noaaForecastPath": "data/noaa-forecast/GNDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15862500",
+  "key": "15862500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15862500",
+  "name": "UBLUTUOCH R 13.7 MI AB MOUTH NR NUIQSUT AK",
+  "waterbody": "UBLUTUOCH R 13.7 MI AB MOUTH NR NUIQSUT AK",
+  "state": "AK",
+  "latitude": 70.2426556,
+  "longitude": -151.2949472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UBLA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ublutuoch River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ubla2",
+  "slug": "usgs-15862500",
+  "noaaForecastPath": "data/noaa-forecast/UBLA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

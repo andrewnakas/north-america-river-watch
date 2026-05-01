@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04282581",
+  "key": "04282581",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282581",
+  "name": "EAST BR DEAD CREEK NEAR BRIDPORT, VT",
+  "waterbody": "EAST BR DEAD CREEK NEAR BRIDPORT, VT",
+  "state": "VT",
+  "latitude": 44.0286111,
+  "longitude": -73.32063889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04282581",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

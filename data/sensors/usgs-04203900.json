@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04203900",
+  "key": "04203900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04203900",
+  "name": "Cuyahoga River at Cuyahoga Falls OH",
+  "waterbody": "Cuyahoga River at Cuyahoga Falls OH",
+  "state": "OH",
+  "latitude": 41.13916667,
+  "longitude": -81.4797222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04203900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

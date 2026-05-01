@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03295890",
+  "key": "03295890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03295890",
+  "name": "BRASHEARS CREEK AT TAYLORSVILLE, KY",
+  "waterbody": "BRASHEARS CREEK AT TAYLORSVILLE, KY",
+  "state": "KY",
+  "latitude": 38.0370083,
+  "longitude": -85.3407867,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brashears Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brck2",
+  "slug": "usgs-03295890",
+  "noaaForecastPath": "data/noaa-forecast/BRCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

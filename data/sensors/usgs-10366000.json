@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10366000",
+  "key": "10366000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10366000",
+  "name": "TWENTYMILE CREEK NEAR ADEL,OREG.",
+  "waterbody": "TWENTYMILE CREEK NEAR ADEL,OREG.",
+  "state": "OR",
+  "latitude": 42.07211128,
+  "longitude": -119.9627248,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10366000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

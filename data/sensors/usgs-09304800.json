@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09304800",
+  "key": "09304800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09304800",
+  "name": "WHITE RIVER BELOW MEEKER, CO",
+  "waterbody": "WHITE RIVER BELOW MEEKER, CO",
+  "state": "CO",
+  "latitude": 40.022583,
+  "longitude": -108.119944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09304800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

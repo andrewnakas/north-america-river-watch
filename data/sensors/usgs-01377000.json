@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01377000",
+  "key": "01377000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01377000",
+  "name": "Hackensack River at Rivervale NJ",
+  "waterbody": "Hackensack River at Rivervale NJ",
+  "state": "NJ",
+  "latitude": 40.99916667,
+  "longitude": -73.9891667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIVN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hackensack River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rivn4",
+  "slug": "usgs-01377000",
+  "noaaForecastPath": "data/noaa-forecast/RIVN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

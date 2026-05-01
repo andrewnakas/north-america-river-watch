@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04217000",
+  "key": "04217000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04217000",
+  "name": "TONAWANDA CREEK AT BATAVIA NY",
+  "waterbody": "TONAWANDA CREEK AT BATAVIA NY",
+  "state": "NY",
+  "latitude": 42.99713889,
+  "longitude": -78.1881667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tonawanda Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btvn6",
+  "slug": "usgs-04217000",
+  "noaaForecastPath": "data/noaa-forecast/BTVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

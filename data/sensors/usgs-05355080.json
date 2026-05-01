@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05355080",
+  "key": "05355080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05355080",
+  "name": "PRAIRIE CREEK NEAR CANNON FALLS, MN",
+  "waterbody": "PRAIRIE CREEK NEAR CANNON FALLS, MN",
+  "state": "MN",
+  "latitude": 44.47166667,
+  "longitude": -93.0036111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05355080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01195490",
+  "key": "01195490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01195490",
+  "name": "QUINNIPIAC RIVER AT SOUTHINGTON, CT",
+  "waterbody": "QUINNIPIAC RIVER AT SOUTHINGTON, CT",
+  "state": "CT",
+  "latitude": 41.60347222,
+  "longitude": -72.8832,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QPCC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quinnipiac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qpcc3",
+  "slug": "usgs-01195490",
+  "noaaForecastPath": "data/noaa-forecast/QPCC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

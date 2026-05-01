@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08016800",
+  "key": "08016800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08016800",
+  "name": "Bear Head Ck nr Starks, LA",
+  "waterbody": "Bear Head Ck nr Starks, LA",
+  "state": "LA",
+  "latitude": 30.33344444,
+  "longitude": -93.6295278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08016800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

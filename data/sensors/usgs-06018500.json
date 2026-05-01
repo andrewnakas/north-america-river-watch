@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06018500",
+  "key": "06018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06018500",
+  "name": "Beaverhead River near Twin Bridges MT",
+  "waterbody": "Beaverhead River near Twin Bridges MT",
+  "state": "MT",
+  "latitude": 45.38338889,
+  "longitude": -112.4528306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWNM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaverhead River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twnm8",
+  "slug": "usgs-06018500",
+  "noaaForecastPath": "data/noaa-forecast/TWNM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

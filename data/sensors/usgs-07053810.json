@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07053810",
+  "key": "07053810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07053810",
+  "name": "Bull Creek near Walnut Shade, MO",
+  "waterbody": "Bull Creek near Walnut Shade, MO",
+  "state": "MO",
+  "latitude": 36.71775,
+  "longitude": -93.2068056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bull Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbcm7",
+  "slug": "usgs-07053810",
+  "noaaForecastPath": "data/noaa-forecast/BBCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

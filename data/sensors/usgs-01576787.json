@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01576787",
+  "key": "01576787",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576787",
+  "name": "Pequea Creek at Martic Forge, PA",
+  "waterbody": "Pequea Creek at Martic Forge, PA",
+  "state": "PA",
+  "latitude": 39.90593409,
+  "longitude": -76.32829298,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFGP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pequea Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfgp1",
+  "slug": "usgs-01576787",
+  "noaaForecastPath": "data/noaa-forecast/MFGP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

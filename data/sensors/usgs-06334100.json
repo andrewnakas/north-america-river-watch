@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06334100",
+  "key": "06334100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06334100",
+  "name": "Wolf Creek near Hammond MT",
+  "waterbody": "Wolf Creek near Hammond MT",
+  "state": "MT",
+  "latitude": 45.1642972,
+  "longitude": -104.7562111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06334100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

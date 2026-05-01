@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08134250",
+  "key": "08134250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08134250",
+  "name": "N Concho Rv nr Grape Creek, TX",
+  "waterbody": "N Concho Rv nr Grape Creek, TX",
+  "state": "TX",
+  "latitude": 31.54265769,
+  "longitude": -100.5550977,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08134250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

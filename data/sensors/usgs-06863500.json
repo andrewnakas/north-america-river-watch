@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06863500",
+  "key": "06863500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06863500",
+  "name": "BIG C NR HAYS, KS",
+  "waterbody": "BIG C NR HAYS, KS",
+  "state": "KS",
+  "latitude": 38.852234,
+  "longitude": -99.3181589,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HYSK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hysk1",
+  "slug": "usgs-06863500",
+  "noaaForecastPath": "data/noaa-forecast/HYSK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

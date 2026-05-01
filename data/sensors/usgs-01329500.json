@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01329500",
+  "key": "01329500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01329500",
+  "name": "BATTEN KILL AT BATTENVILLE NY",
+  "waterbody": "BATTEN KILL AT BATTENVILLE NY",
+  "state": "NY",
+  "latitude": 43.10052778,
+  "longitude": -73.4312222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01329500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

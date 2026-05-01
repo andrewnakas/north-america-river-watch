@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15304010",
+  "key": "15304010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15304010",
+  "name": "CROOKED C AB AIRPORT RD NR CROOKED CREEK AK",
+  "waterbody": "CROOKED C AB AIRPORT RD NR CROOKED CREEK AK",
+  "state": "AK",
+  "latitude": 61.89,
+  "longitude": -158.154444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CKDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ckda2",
+  "slug": "usgs-15304010",
+  "noaaForecastPath": "data/noaa-forecast/CKDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

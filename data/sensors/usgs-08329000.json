@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329000",
+  "key": "08329000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329000",
+  "name": "JEMEZ RIVER BELOW JEMEZ CANYON DAM, NM",
+  "waterbody": "JEMEZ RIVER BELOW JEMEZ CANYON DAM, NM",
+  "state": "NM",
+  "latitude": 35.39041667,
+  "longitude": -106.5346111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

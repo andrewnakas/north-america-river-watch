@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11062800",
+  "key": "11062800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11062800",
+  "name": "FONTANA WATER CO SPILL CH FROM AFTERBAY NR FONTANA",
+  "waterbody": "FONTANA WATER CO SPILL CH FROM AFTERBAY NR FONTANA",
+  "state": "CA",
+  "latitude": 34.155565,
+  "longitude": -117.3956025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11062800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

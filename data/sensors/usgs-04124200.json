@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04124200",
+  "key": "04124200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04124200",
+  "name": "MANISTEE RIVER NEAR MESICK, MI",
+  "waterbody": "MANISTEE RIVER NEAR MESICK, MI",
+  "state": "MI",
+  "latitude": 44.3630596,
+  "longitude": -85.820905,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSKM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manistee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mskm4",
+  "slug": "usgs-04124200",
+  "noaaForecastPath": "data/noaa-forecast/MSKM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

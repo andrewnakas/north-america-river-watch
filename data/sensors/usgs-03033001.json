@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03033001",
+  "key": "03033001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03033001",
+  "name": "Allegheny River (lower pool) near Rimer, PA",
+  "waterbody": "Allegheny River (lower pool) near Rimer, PA",
+  "state": "PA",
+  "latitude": 40.9548861,
+  "longitude": -79.5471806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03033001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

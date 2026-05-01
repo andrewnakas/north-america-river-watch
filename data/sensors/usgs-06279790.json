@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06279790",
+  "key": "06279790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06279790",
+  "name": "JONES CREEK AT MOUTH, NEAR PAHASKA, WY",
+  "waterbody": "JONES CREEK AT MOUTH, NEAR PAHASKA, WY",
+  "state": "WY",
+  "latitude": 44.55805556,
+  "longitude": -109.9861111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06279790",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

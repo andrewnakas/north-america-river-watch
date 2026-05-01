@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03108010",
+  "key": "03108010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03108010",
+  "name": "Fishpot Run near Shippingport, PA",
+  "waterbody": "Fishpot Run near Shippingport, PA",
+  "state": "PA",
+  "latitude": 40.63694444,
+  "longitude": -80.3461111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03108010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

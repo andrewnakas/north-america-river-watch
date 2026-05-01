@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056215",
+  "key": "05056215",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056215",
+  "name": "EDMORE COULEE TRIB NR WEBSTER, ND",
+  "waterbody": "EDMORE COULEE TRIB NR WEBSTER, ND",
+  "state": "ND",
+  "latitude": 48.2663928,
+  "longitude": -98.6809499,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECTN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Edmore Coulee Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ectn8",
+  "slug": "usgs-05056215",
+  "noaaForecastPath": "data/noaa-forecast/ECTN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

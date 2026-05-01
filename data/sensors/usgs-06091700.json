@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06091700",
+  "key": "06091700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06091700",
+  "name": "Two Medicine River bl South Fork nr Browning MT",
+  "waterbody": "Two Medicine River bl South Fork nr Browning MT",
+  "state": "MT",
+  "latitude": 48.42695278,
+  "longitude": -112.9899833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Two Medicine River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmrm8",
+  "slug": "usgs-06091700",
+  "noaaForecastPath": "data/noaa-forecast/TMRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

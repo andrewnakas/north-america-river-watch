@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09393500",
+  "key": "09393500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09393500",
+  "name": "SILVER CREEK NEAR SNOWFLAKE, ARIZ.",
+  "waterbody": "SILVER CREEK NEAR SNOWFLAKE, ARIZ.",
+  "state": "AZ",
+  "latitude": 34.66669946,
+  "longitude": -110.0423382,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09393500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

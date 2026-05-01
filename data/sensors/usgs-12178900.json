@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12178900",
+  "key": "12178900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12178900",
+  "name": "SKAGIT RIVER BLW DAMNATION CRK NR MARBLEMOUNT, WA",
+  "waterbody": "SKAGIT RIVER BLW DAMNATION CRK NR MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.6252222,
+  "longitude": -121.3398889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12178900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

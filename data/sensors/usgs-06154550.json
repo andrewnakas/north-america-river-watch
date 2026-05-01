@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06154550",
+  "key": "06154550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06154550",
+  "name": "Peoples Cr bl Kuhr Coulee nr Dodson MT",
+  "waterbody": "Peoples Cr bl Kuhr Coulee nr Dodson MT",
+  "state": "MT",
+  "latitude": 48.3636333,
+  "longitude": -108.3562389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KHRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peoples Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/khrm8",
+  "slug": "usgs-06154550",
+  "noaaForecastPath": "data/noaa-forecast/KHRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

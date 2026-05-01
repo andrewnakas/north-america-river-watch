@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07375000",
+  "key": "07375000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07375000",
+  "name": "Tchefuncte River near Folsom, LA",
+  "waterbody": "Tchefuncte River near Folsom, LA",
+  "state": "LA",
+  "latitude": 30.6160223,
+  "longitude": -90.2486954,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLSL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tchefuncte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flsl1",
+  "slug": "usgs-07375000",
+  "noaaForecastPath": "data/noaa-forecast/FLSL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

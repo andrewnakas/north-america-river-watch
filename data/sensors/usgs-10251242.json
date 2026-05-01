@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251242",
+  "key": "10251242",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251242",
+  "name": "FORTYMILE WASH ABV E CAT CYN WASH, NTS, NV",
+  "waterbody": "FORTYMILE WASH ABV E CAT CYN WASH, NTS, NV",
+  "state": "NV",
+  "latitude": 37.0724491,
+  "longitude": -116.3481055,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251242",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

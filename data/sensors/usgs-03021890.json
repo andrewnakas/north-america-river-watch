@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03021890",
+  "key": "03021890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03021890",
+  "name": "French Creek at Cambridge Springs, PA",
+  "waterbody": "French Creek at Cambridge Springs, PA",
+  "state": "PA",
+  "latitude": 41.80716667,
+  "longitude": -80.0632778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbsp1",
+  "slug": "usgs-03021890",
+  "noaaForecastPath": "data/noaa-forecast/CBSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

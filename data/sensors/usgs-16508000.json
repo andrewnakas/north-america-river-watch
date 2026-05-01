@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16508000",
+  "key": "16508000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16508000",
+  "name": "Hanawi Stream near Nahiku, Maui, HI",
+  "waterbody": "Hanawi Stream near Nahiku, Maui, HI",
+  "state": "HI",
+  "latitude": 20.8068611,
+  "longitude": -156.1142222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNWH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hanawi Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnwh1",
+  "slug": "usgs-16508000",
+  "noaaForecastPath": "data/noaa-forecast/HNWH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

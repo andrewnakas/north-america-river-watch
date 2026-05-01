@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05065500",
+  "key": "05065500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05065500",
+  "name": "GOOSE RIVER NEAR PORTLAND, ND",
+  "waterbody": "GOOSE RIVER NEAR PORTLAND, ND",
+  "state": "ND",
+  "latitude": 47.5377646,
+  "longitude": -97.453424,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRTN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prtn8",
+  "slug": "usgs-05065500",
+  "noaaForecastPath": "data/noaa-forecast/PRTN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07188885",
+  "key": "07188885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07188885",
+  "name": "Indian Creek near Lanagan, MO",
+  "waterbody": "Indian Creek near Lanagan, MO",
+  "state": "MO",
+  "latitude": 36.59927778,
+  "longitude": -94.4496389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/incm7",
+  "slug": "usgs-07188885",
+  "noaaForecastPath": "data/noaa-forecast/INCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

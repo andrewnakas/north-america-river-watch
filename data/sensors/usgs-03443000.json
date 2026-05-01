@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03443000",
+  "key": "03443000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03443000",
+  "name": "FRENCH BROAD RIVER AT BLANTYRE, NC",
+  "waterbody": "FRENCH BROAD RIVER AT BLANTYRE, NC",
+  "state": "NC",
+  "latitude": 35.29916667,
+  "longitude": -82.62388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLAN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Broad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blan7",
+  "slug": "usgs-03443000",
+  "noaaForecastPath": "data/noaa-forecast/BLAN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03334500",
+  "key": "03334500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03334500",
+  "name": "SOUTH FORK WILDCAT CREEK NEAR LAFAYETTE, IN",
+  "waterbody": "SOUTH FORK WILDCAT CREEK NEAR LAFAYETTE, IN",
+  "state": "IN",
+  "latitude": 40.41780578,
+  "longitude": -86.7680434,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFWI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Wildcat Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfwi3",
+  "slug": "usgs-03334500",
+  "noaaForecastPath": "data/noaa-forecast/SFWI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

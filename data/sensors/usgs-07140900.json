@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07140900",
+  "key": "07140900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07140900",
+  "name": "BUCKNER C NR JETMORE, KS",
+  "waterbody": "BUCKNER C NR JETMORE, KS",
+  "state": "KS",
+  "latitude": 38.07555556,
+  "longitude": -99.9166778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JTRK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buckner Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jtrk1",
+  "slug": "usgs-07140900",
+  "noaaForecastPath": "data/noaa-forecast/JTRK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

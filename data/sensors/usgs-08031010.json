@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08031010",
+  "key": "08031010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08031010",
+  "name": "Cow Bayou at FM 1442 nr Orangefield, TX",
+  "waterbody": "Cow Bayou at FM 1442 nr Orangefield, TX",
+  "state": "TX",
+  "latitude": 30.1079861,
+  "longitude": -93.8963417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orft2",
+  "slug": "usgs-08031010",
+  "noaaForecastPath": "data/noaa-forecast/ORFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04181100",
+  "key": "04181100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04181100",
+  "name": "BLUE CREEK NR PLEASANT MILLS, IN",
+  "waterbody": "BLUE CREEK NR PLEASANT MILLS, IN",
+  "state": "IN",
+  "latitude": 40.74696821,
+  "longitude": -84.82214559,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04181100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

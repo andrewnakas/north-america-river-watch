@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14299800",
+  "key": "14299800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14299800",
+  "name": "NEHALEM RIVER NEAR VERNONIA, OR",
+  "waterbody": "NEHALEM RIVER NEAR VERNONIA, OR",
+  "state": "OR",
+  "latitude": 45.80705586,
+  "longitude": -123.2831722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VENO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nehalem River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/veno3",
+  "slug": "usgs-14299800",
+  "noaaForecastPath": "data/noaa-forecast/VENO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

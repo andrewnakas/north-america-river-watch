@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09097900",
+  "key": "09097900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09097900",
+  "name": "PLATEAU CREEK BELOW COLLBRAN, CO",
+  "waterbody": "PLATEAU CREEK BELOW COLLBRAN, CO",
+  "state": "CO",
+  "latitude": 39.23970087,
+  "longitude": -107.971459,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09097900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

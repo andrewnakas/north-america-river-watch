@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12431500",
+  "key": "12431500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12431500",
+  "name": "LITTLE SPOKANE RIVER NEAR DARTFORD, WA",
+  "waterbody": "LITTLE SPOKANE RIVER NEAR DARTFORD, WA",
+  "state": "WA",
+  "latitude": 47.78100099,
+  "longitude": -117.4963338,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12431500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

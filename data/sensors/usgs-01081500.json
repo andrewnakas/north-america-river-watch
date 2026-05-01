@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01081500",
+  "key": "01081500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01081500",
+  "name": "MERRIMACK RIVER AT FRANKLIN JUNCTION, NH",
+  "waterbody": "MERRIMACK RIVER AT FRANKLIN JUNCTION, NH",
+  "state": "NH",
+  "latitude": 43.42285456,
+  "longitude": -71.6528543,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRJN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Merrimack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frjn3",
+  "slug": "usgs-01081500",
+  "noaaForecastPath": "data/noaa-forecast/FRJN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

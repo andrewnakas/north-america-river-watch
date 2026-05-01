@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08207290",
+  "key": "08207290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08207290",
+  "name": "Atascosa Rv at FM 476 nr Pleasanton, TX",
+  "waterbody": "Atascosa Rv at FM 476 nr Pleasanton, TX",
+  "state": "TX",
+  "latitude": 29,
+  "longitude": -98.5116667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atascosa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atct2",
+  "slug": "usgs-08207290",
+  "noaaForecastPath": "data/noaa-forecast/ATCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

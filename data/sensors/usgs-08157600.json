@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08157600",
+  "key": "08157600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08157600",
+  "name": "E Bouldin Ck at S 1st St, Austin, TX",
+  "waterbody": "E Bouldin Ck at S 1st St, Austin, TX",
+  "state": "TX",
+  "latitude": 30.2521535,
+  "longitude": -97.754172,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08157600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

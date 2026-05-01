@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10301600",
+  "key": "10301600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301600",
+  "name": "WALKER RV ABV WEBER RES NR SCHURZ, NV",
+  "waterbody": "WALKER RV ABV WEBER RES NR SCHURZ, NV",
+  "state": "NV",
+  "latitude": 39.1032533,
+  "longitude": -118.929317,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10301600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

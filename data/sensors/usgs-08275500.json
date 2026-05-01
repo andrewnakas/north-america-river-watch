@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08275500",
+  "key": "08275500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08275500",
+  "name": "RIO GRANDE DEL RANCHO NEAR TALPA, NM",
+  "waterbody": "RIO GRANDE DEL RANCHO NEAR TALPA, NM",
+  "state": "NM",
+  "latitude": 36.29946944,
+  "longitude": -105.5826,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08275500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

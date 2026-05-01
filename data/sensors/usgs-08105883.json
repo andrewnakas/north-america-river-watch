@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105883",
+  "key": "08105883",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105883",
+  "name": "Brushy Ck at IH 35, Round Rock, TX",
+  "waterbody": "Brushy Ck at IH 35, Round Rock, TX",
+  "state": "TX",
+  "latitude": 30.51290556,
+  "longitude": -97.6864361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcit2",
+  "slug": "usgs-08105883",
+  "noaaForecastPath": "data/noaa-forecast/BCIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

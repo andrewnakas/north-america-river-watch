@@ -1,0 +1,19 @@
+{
+  "id": "usgs:1206250575",
+  "key": "1206250575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "1206250575",
+  "name": "WEAVER CREEK AT HWY 101 NEAR POTLATCH, WA",
+  "waterbody": "WEAVER CREEK AT HWY 101 NEAR POTLATCH, WA",
+  "state": "WA",
+  "latitude": 47.3057722,
+  "longitude": -123.1788389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-1206250575",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

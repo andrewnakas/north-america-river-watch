@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419515",
+  "key": "09419515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419515",
+  "name": "MUDDY RV ABV LAKE MEAD NR OVERTON, NV",
+  "waterbody": "MUDDY RV ABV LAKE MEAD NR OVERTON, NV",
+  "state": "NV",
+  "latitude": 36.52247537,
+  "longitude": -114.4144229,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419515",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08267500",
+  "key": "08267500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08267500",
+  "name": "RIO HONDO NEAR VALDEZ, NM",
+  "waterbody": "RIO HONDO NEAR VALDEZ, NM",
+  "state": "NM",
+  "latitude": 36.5417972,
+  "longitude": -105.5565222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08267500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01365500",
+  "key": "01365500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01365500",
+  "name": "CHESTNUT CREEK AT GRAHAMSVILLE NY",
+  "waterbody": "CHESTNUT CREEK AT GRAHAMSVILLE NY",
+  "state": "NY",
+  "latitude": 41.845,
+  "longitude": -74.5394444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHSN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chestnut Creek (NY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chsn6",
+  "slug": "usgs-01365500",
+  "noaaForecastPath": "data/noaa-forecast/CHSN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

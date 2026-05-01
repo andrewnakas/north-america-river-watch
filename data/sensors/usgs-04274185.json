@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04274185",
+  "key": "04274185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04274185",
+  "name": "WHITE BROOK NEAR WILMINGTON NY",
+  "waterbody": "WHITE BROOK NEAR WILMINGTON NY",
+  "state": "NY",
+  "latitude": 44.392,
+  "longitude": -73.85738889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Brook (NY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wltn6",
+  "slug": "usgs-04274185",
+  "noaaForecastPath": "data/noaa-forecast/WLTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

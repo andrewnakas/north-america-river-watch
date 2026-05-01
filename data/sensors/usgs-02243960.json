@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02243960",
+  "key": "02243960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02243960",
+  "name": "OCKLAWAHA R AT RODMAN DAM NEAR ORANGE SPRINGS, FL",
+  "waterbody": "OCKLAWAHA R AT RODMAN DAM NEAR ORANGE SPRINGS, FL",
+  "state": "FL",
+  "latitude": 29.50833333,
+  "longitude": -81.8041667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RODF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ocklawaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rodf1",
+  "slug": "usgs-02243960",
+  "noaaForecastPath": "data/noaa-forecast/RODF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

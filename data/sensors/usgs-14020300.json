@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14020300",
+  "key": "14020300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14020300",
+  "name": "MEACHAM CREEK AT GIBBON, OR",
+  "waterbody": "MEACHAM CREEK AT GIBBON, OR",
+  "state": "OR",
+  "latitude": 45.689125,
+  "longitude": -118.3544472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCGO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meacham Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcgo3",
+  "slug": "usgs-14020300",
+  "noaaForecastPath": "data/noaa-forecast/MCGO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

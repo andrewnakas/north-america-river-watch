@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11119500",
+  "key": "11119500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11119500",
+  "name": "CARPINTERIA C NR CARPINTERIA CA",
+  "waterbody": "CARPINTERIA C NR CARPINTERIA CA",
+  "state": "CA",
+  "latitude": 34.40125046,
+  "longitude": -119.48823248,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carpinteria Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpcc1",
+  "slug": "usgs-11119500",
+  "noaaForecastPath": "data/noaa-forecast/CPCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

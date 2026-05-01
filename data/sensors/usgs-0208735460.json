@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208735460",
+  "key": "0208735460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208735460",
+  "name": "WALNUT CREEK AT SOUTH STATE STREET AT RALEIGH, NC",
+  "waterbody": "WALNUT CREEK AT SOUTH STATE STREET AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.75788889,
+  "longitude": -78.6238333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wssn7",
+  "slug": "usgs-0208735460",
+  "noaaForecastPath": "data/noaa-forecast/WSSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

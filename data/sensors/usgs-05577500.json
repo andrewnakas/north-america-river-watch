@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05577500",
+  "key": "05577500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05577500",
+  "name": "SPRING CREEK AT SPRINGFIELD, IL",
+  "waterbody": "SPRING CREEK AT SPRINGFIELD, IL",
+  "state": "IL",
+  "latitude": 39.81541667,
+  "longitude": -89.6994167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek (IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spfi2",
+  "slug": "usgs-05577500",
+  "noaaForecastPath": "data/noaa-forecast/SPFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

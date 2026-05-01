@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14188610",
+  "key": "14188610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14188610",
+  "name": "SCHAFER CREEK NEAR LACOMB, OR",
+  "waterbody": "SCHAFER CREEK NEAR LACOMB, OR",
+  "state": "OR",
+  "latitude": 44.61956728,
+  "longitude": -122.4659162,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schafer Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slco3",
+  "slug": "usgs-14188610",
+  "noaaForecastPath": "data/noaa-forecast/SLCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

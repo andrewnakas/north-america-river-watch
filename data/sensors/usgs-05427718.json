@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05427718",
+  "key": "05427718",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05427718",
+  "name": "YAHARA RIVER AT WINDSOR, WI",
+  "waterbody": "YAHARA RIVER AT WINDSOR, WI",
+  "state": "WI",
+  "latitude": 43.20888889,
+  "longitude": -89.3525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDRW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yahara River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdrw3",
+  "slug": "usgs-05427718",
+  "noaaForecastPath": "data/noaa-forecast/WDRW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

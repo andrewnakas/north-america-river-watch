@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01611500",
+  "key": "01611500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01611500",
+  "name": "CACAPON RIVER NEAR GREAT CACAPON, WV",
+  "waterbody": "CACAPON RIVER NEAR GREAT CACAPON, WV",
+  "state": "WV",
+  "latitude": 39.5823158,
+  "longitude": -78.3097312,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCPW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cacapon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcpw2",
+  "slug": "usgs-01611500",
+  "noaaForecastPath": "data/noaa-forecast/GCPW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

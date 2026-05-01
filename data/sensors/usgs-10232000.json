@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10232000",
+  "key": "10232000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10232000",
+  "name": "SOUTH FORK CHALK CREEK NEAR FILLMORE, UT",
+  "waterbody": "SOUTH FORK CHALK CREEK NEAR FILLMORE, UT",
+  "state": "UT",
+  "latitude": 38.9453833,
+  "longitude": -112.2573028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10232000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

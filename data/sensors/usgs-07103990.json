@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103990",
+  "key": "07103990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103990",
+  "name": "COTTONWOOD CREEK AT MOUTH AT PIKEVIEW, CO",
+  "waterbody": "COTTONWOOD CREEK AT MOUTH AT PIKEVIEW, CO",
+  "state": "CO",
+  "latitude": 38.927222,
+  "longitude": -104.814167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

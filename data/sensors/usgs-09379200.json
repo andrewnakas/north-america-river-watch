@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09379200",
+  "key": "09379200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09379200",
+  "name": "CHINLE CREEK NEAR MEXICAN WATER, AZ",
+  "waterbody": "CHINLE CREEK NEAR MEXICAN WATER, AZ",
+  "state": "AZ",
+  "latitude": 36.94388757,
+  "longitude": -109.71068655,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCMA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chinle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccma3",
+  "slug": "usgs-09379200",
+  "noaaForecastPath": "data/noaa-forecast/CCMA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

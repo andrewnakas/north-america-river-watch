@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14162200",
+  "key": "14162200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14162200",
+  "name": "BLUE RIVER AT BLUE RIVER, OR",
+  "waterbody": "BLUE RIVER AT BLUE RIVER, OR",
+  "state": "OR",
+  "latitude": 44.16234819,
+  "longitude": -122.3331192,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLUO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bluo3",
+  "slug": "usgs-14162200",
+  "noaaForecastPath": "data/noaa-forecast/BLUO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

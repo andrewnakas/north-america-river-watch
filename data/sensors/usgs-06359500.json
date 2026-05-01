@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06359500",
+  "key": "06359500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06359500",
+  "name": "MOREAU RIVER NEAR FAITH,SD",
+  "waterbody": "MOREAU RIVER NEAR FAITH,SD",
+  "state": "SD",
+  "latitude": 45.19775826,
+  "longitude": -102.1565472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTHS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moreau River (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fths2",
+  "slug": "usgs-06359500",
+  "noaaForecastPath": "data/noaa-forecast/FTHS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

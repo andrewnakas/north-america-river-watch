@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03539600",
+  "key": "03539600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03539600",
+  "name": "DADDYS CREEK NEAR HEBBERTSBURG, TN",
+  "waterbody": "DADDYS CREEK NEAR HEBBERTSBURG, TN",
+  "state": "TN",
+  "latitude": 35.99766528,
+  "longitude": -84.8224946,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DADT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Daddys Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dadt1",
+  "slug": "usgs-03539600",
+  "noaaForecastPath": "data/noaa-forecast/DADT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

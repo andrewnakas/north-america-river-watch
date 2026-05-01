@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05586745",
+  "key": "05586745",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05586745",
+  "name": "MACOUPIN CREEK AT HWY 111 NR SUMMERVILLE, IL",
+  "waterbody": "MACOUPIN CREEK AT HWY 111 NR SUMMERVILLE, IL",
+  "state": "IL",
+  "latitude": 39.20444444,
+  "longitude": -90.1005556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05586745",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

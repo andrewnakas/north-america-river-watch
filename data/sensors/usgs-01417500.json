@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01417500",
+  "key": "01417500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01417500",
+  "name": "EAST BRANCH DELAWARE RIVER AT HARVARD NY",
+  "waterbody": "EAST BRANCH DELAWARE RIVER AT HARVARD NY",
+  "state": "NY",
+  "latitude": 42.0245833,
+  "longitude": -75.11927778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HVDN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hvdn6",
+  "slug": "usgs-01417500",
+  "noaaForecastPath": "data/noaa-forecast/HVDN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

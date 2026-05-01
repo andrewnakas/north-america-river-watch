@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01654000",
+  "key": "01654000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01654000",
+  "name": "ACCOTINK CREEK NEAR ANNANDALE, VA",
+  "waterbody": "ACCOTINK CREEK NEAR ANNANDALE, VA",
+  "state": "VA",
+  "latitude": 38.81289066,
+  "longitude": -77.2283158,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANAV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Accotink Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anav2",
+  "slug": "usgs-01654000",
+  "noaaForecastPath": "data/noaa-forecast/ANAV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05531175",
+  "key": "05531175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05531175",
+  "name": "SALT CREEK AT WOOD DALE, IL",
+  "waterbody": "SALT CREEK AT WOOD DALE, IL",
+  "state": "IL",
+  "latitude": 41.96413889,
+  "longitude": -87.9841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdsi2",
+  "slug": "usgs-05531175",
+  "noaaForecastPath": "data/noaa-forecast/WDSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

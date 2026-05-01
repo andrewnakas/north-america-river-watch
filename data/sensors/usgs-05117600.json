@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05117600",
+  "key": "05117600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05117600",
+  "name": "SOURIS RIVER AT BROADWAY BRIDGE AT MINOT, ND",
+  "waterbody": "SOURIS RIVER AT BROADWAY BRIDGE AT MINOT, ND",
+  "state": "ND",
+  "latitude": 48.23805556,
+  "longitude": -101.2958333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MION8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Souris River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mion8",
+  "slug": "usgs-05117600",
+  "noaaForecastPath": "data/noaa-forecast/MION8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

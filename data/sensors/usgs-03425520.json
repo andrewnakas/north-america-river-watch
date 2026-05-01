@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03425520",
+  "key": "03425520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03425520",
+  "name": "SPRING CREEK BELOW LEBANON, TN",
+  "waterbody": "SPRING CREEK BELOW LEBANON, TN",
+  "state": "TN",
+  "latitude": 36.25295099,
+  "longitude": -86.2466695,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBST1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbst1",
+  "slug": "usgs-03425520",
+  "noaaForecastPath": "data/noaa-forecast/LBST1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

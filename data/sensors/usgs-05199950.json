@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05199950",
+  "key": "05199950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05199950",
+  "name": "ELK LAKE OUTLET IN ITASCA STATE PARK, MN",
+  "waterbody": "ELK LAKE OUTLET IN ITASCA STATE PARK, MN",
+  "state": "MN",
+  "latitude": 47.19638889,
+  "longitude": -95.2219444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05199950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

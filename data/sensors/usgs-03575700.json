@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03575700",
+  "key": "03575700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03575700",
+  "name": "ALDRIDGE CREEK NEAR FARLEY AL",
+  "waterbody": "ALDRIDGE CREEK NEAR FARLEY AL",
+  "state": "AL",
+  "latitude": 34.6239801,
+  "longitude": -86.54110169,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRYA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aldridge Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frya1",
+  "slug": "usgs-03575700",
+  "noaaForecastPath": "data/noaa-forecast/FRYA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

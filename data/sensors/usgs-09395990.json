@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09395990",
+  "key": "09395990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09395990",
+  "name": "BLACK CR BEL WF BLACK CR NR HOUCK, AZ",
+  "waterbody": "BLACK CR BEL WF BLACK CR NR HOUCK, AZ",
+  "state": "AZ",
+  "latitude": 35.28474687,
+  "longitude": -109.2156504,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09395990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

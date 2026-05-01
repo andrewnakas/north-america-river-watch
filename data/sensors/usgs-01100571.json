@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100571",
+  "key": "01100571",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100571",
+  "name": "SHAWSHEEN RIVER AT GREAT RD AT BEDFORD, MA",
+  "waterbody": "SHAWSHEEN RIVER AT GREAT RD AT BEDFORD, MA",
+  "state": "MA",
+  "latitude": 42.48608353,
+  "longitude": -71.26168922,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100571",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

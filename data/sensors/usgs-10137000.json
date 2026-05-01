@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10137000",
+  "key": "10137000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10137000",
+  "name": "WEBER RIVER AT OGDEN, UTAH",
+  "waterbody": "WEBER RIVER AT OGDEN, UTAH",
+  "state": "UT",
+  "latitude": 41.223269,
+  "longitude": -111.988117,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10137000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

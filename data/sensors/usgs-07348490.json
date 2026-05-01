@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07348490",
+  "key": "07348490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07348490",
+  "name": "Cross Bayou at Shreveport, LA",
+  "waterbody": "Cross Bayou at Shreveport, LA",
+  "state": "LA",
+  "latitude": 32.51919444,
+  "longitude": -93.7509722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVPL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svpl1",
+  "slug": "usgs-07348490",
+  "noaaForecastPath": "data/noaa-forecast/SVPL1.json",
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

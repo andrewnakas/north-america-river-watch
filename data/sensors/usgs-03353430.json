@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353430",
+  "key": "03353430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353430",
+  "name": "SCHOOL BRANCH AT NOBLE DRIVE AT BROWNSBURG, IN",
+  "waterbody": "SCHOOL BRANCH AT NOBLE DRIVE AT BROWNSBURG, IN",
+  "state": "IN",
+  "latitude": 39.84694444,
+  "longitude": -86.3465,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBBI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "School Branch (IN)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbbi3",
+  "slug": "usgs-03353430",
+  "noaaForecastPath": "data/noaa-forecast/SBBI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

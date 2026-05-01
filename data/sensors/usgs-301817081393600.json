@@ -1,0 +1,19 @@
+{
+  "id": "usgs:301817081393600",
+  "key": "301817081393600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "301817081393600",
+  "name": "ST JOHNS RIVER BL MARCO LK AT JACKSONVILLE, FL",
+  "waterbody": "ST JOHNS RIVER BL MARCO LK AT JACKSONVILLE, FL",
+  "state": "FL",
+  "latitude": 30.30478056,
+  "longitude": -81.6601,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-301817081393600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

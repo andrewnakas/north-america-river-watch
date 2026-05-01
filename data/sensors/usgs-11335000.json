@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11335000",
+  "key": "11335000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11335000",
+  "name": "COSUMNES R A MICHIGAN BAR CA",
+  "waterbody": "COSUMNES R A MICHIGAN BAR CA",
+  "state": "CA",
+  "latitude": 38.5001656,
+  "longitude": -121.0451852,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MHBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cosumnes River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mhbc1",
+  "slug": "usgs-11335000",
+  "noaaForecastPath": "data/noaa-forecast/MHBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

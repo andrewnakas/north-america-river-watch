@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01103025",
+  "key": "01103025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01103025",
+  "name": "ALEWIFE BROOK NEAR ARLINGTON, MA",
+  "waterbody": "ALEWIFE BROOK NEAR ARLINGTON, MA",
+  "state": "MA",
+  "latitude": 42.40691687,
+  "longitude": -71.1339079,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01103025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

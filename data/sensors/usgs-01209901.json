@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01209901",
+  "key": "01209901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01209901",
+  "name": "RIPPOWAM RIVER AT STAMFORD, CT.",
+  "waterbody": "RIPPOWAM RIVER AT STAMFORD, CT.",
+  "state": "CT",
+  "latitude": 41.06611111,
+  "longitude": -73.54927222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIPC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rippowam River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ripc3",
+  "slug": "usgs-01209901",
+  "noaaForecastPath": "data/noaa-forecast/RIPC3.json",
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

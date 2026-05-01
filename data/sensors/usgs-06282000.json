@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06282000",
+  "key": "06282000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06282000",
+  "name": "SHOSHONE RIVER BELOW BUFFALO BILL RESERVOIR, WY",
+  "waterbody": "SHOSHONE RIVER BELOW BUFFALO BILL RESERVOIR, WY",
+  "state": "WY",
+  "latitude": 44.51658049,
+  "longitude": -109.0979716,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHOW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoshone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/show4",
+  "slug": "usgs-06282000",
+  "noaaForecastPath": "data/noaa-forecast/SHOW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

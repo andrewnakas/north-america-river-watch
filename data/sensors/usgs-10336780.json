@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10336780",
+  "key": "10336780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336780",
+  "name": "TROUT CK NR TAHOE VALLEY, CA",
+  "waterbody": "TROUT CK NR TAHOE VALLEY, CA",
+  "state": "CA",
+  "latitude": 38.9199077,
+  "longitude": -119.9724036,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TTVC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trout Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ttvc1",
+  "slug": "usgs-10336780",
+  "noaaForecastPath": "data/noaa-forecast/TTVC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

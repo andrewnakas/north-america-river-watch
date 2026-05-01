@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05537000",
+  "key": "05537000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05537000",
+  "name": "CHICAGO SANITARY AND SHIP CANAL AT LOCKPORT, IL",
+  "waterbody": "CHICAGO SANITARY AND SHIP CANAL AT LOCKPORT, IL",
+  "state": "IL",
+  "latitude": 41.57027778,
+  "longitude": -88.0794444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chicago Sanitary and Ship Canal",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/loki2",
+  "slug": "usgs-05537000",
+  "noaaForecastPath": "data/noaa-forecast/LOKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

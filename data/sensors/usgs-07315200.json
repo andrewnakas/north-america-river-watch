@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07315200",
+  "key": "07315200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07315200",
+  "name": "E Fk Little Wichita Rv nr Henrietta, TX",
+  "waterbody": "E Fk Little Wichita Rv nr Henrietta, TX",
+  "state": "TX",
+  "latitude": 33.81287833,
+  "longitude": -98.0850406,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Little Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htwt2",
+  "slug": "usgs-07315200",
+  "noaaForecastPath": "data/noaa-forecast/HTWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

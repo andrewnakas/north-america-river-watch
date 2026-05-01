@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09076300",
+  "key": "09076300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09076300",
+  "name": "ROARING FORK RIVER BLW MAROON CREEK NR ASPEN, CO",
+  "waterbody": "ROARING FORK RIVER BLW MAROON CREEK NR ASPEN, CO",
+  "state": "CO",
+  "latitude": 39.2232,
+  "longitude": -106.8573083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RMCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roaring Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rmcc2",
+  "slug": "usgs-09076300",
+  "noaaForecastPath": "data/noaa-forecast/RMCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

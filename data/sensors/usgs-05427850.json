@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05427850",
+  "key": "05427850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05427850",
+  "name": "YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI",
+  "waterbody": "YAHARA RIVER AT STATE HIGHWAY 113 AT MADISON, WI",
+  "state": "WI",
+  "latitude": 43.1508333,
+  "longitude": -89.4019444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05427850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

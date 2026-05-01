@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08061480",
+  "key": "08061480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08061480",
+  "name": "Squabble Ck at Shores Blvd nr Rockwall, TX",
+  "waterbody": "Squabble Ck at Shores Blvd nr Rockwall, TX",
+  "state": "TX",
+  "latitude": 32.95225,
+  "longitude": -96.4736389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08061480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

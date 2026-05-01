@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06212500",
+  "key": "06212500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06212500",
+  "name": "Red Lodge Cr bl Cooney Reservoir nr Boyd MT",
+  "waterbody": "Red Lodge Cr bl Cooney Reservoir nr Boyd MT",
+  "state": "MT",
+  "latitude": 45.44990278,
+  "longitude": -109.1854028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06212500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

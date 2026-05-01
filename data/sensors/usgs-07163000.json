@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07163000",
+  "key": "07163000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07163000",
+  "name": "Council Creek near Stillwater, OK",
+  "waterbody": "Council Creek near Stillwater, OK",
+  "state": "OK",
+  "latitude": 36.116169,
+  "longitude": -96.8678088,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07163000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

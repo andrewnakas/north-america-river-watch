@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01396580",
+  "key": "01396580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01396580",
+  "name": "Spruce Run at Glen Gardner NJ",
+  "waterbody": "Spruce Run at Glen Gardner NJ",
+  "state": "NJ",
+  "latitude": 40.6933333,
+  "longitude": -74.9397222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01396580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

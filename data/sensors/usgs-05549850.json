@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05549850",
+  "key": "05549850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05549850",
+  "name": "FLINT CREEK NEAR FOX RIVER GROVE, IL",
+  "waterbody": "FLINT CREEK NEAR FOX RIVER GROVE, IL",
+  "state": "IL",
+  "latitude": 42.2111111,
+  "longitude": -88.1736111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05549850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

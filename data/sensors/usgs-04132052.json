@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04132052",
+  "key": "04132052",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04132052",
+  "name": "CHEBOYGAN R AT LINCOLN AVE AT CHEBOYGAN, MI",
+  "waterbody": "CHEBOYGAN R AT LINCOLN AVE AT CHEBOYGAN, MI",
+  "state": "MI",
+  "latitude": 45.633889,
+  "longitude": -84.481111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04132052",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

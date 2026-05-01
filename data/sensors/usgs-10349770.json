@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10349770",
+  "key": "10349770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10349770",
+  "name": "WHITES CK AT OLD VIRGINIA RD NR RENO, NV",
+  "waterbody": "WHITES CK AT OLD VIRGINIA RD NR RENO, NV",
+  "state": "NV",
+  "latitude": 39.42413889,
+  "longitude": -119.7547778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10349770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

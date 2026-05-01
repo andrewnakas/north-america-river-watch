@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301750",
+  "key": "02301750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301750",
+  "name": "DELANEY CREEK NEAR TAMPA FL",
+  "waterbody": "DELANEY CREEK NEAR TAMPA FL",
+  "state": "FL",
+  "latitude": 27.9258564,
+  "longitude": -82.3642595,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaney Creek Near Tampa",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlnf1",
+  "slug": "usgs-02301750",
+  "noaaForecastPath": "data/noaa-forecast/DLNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

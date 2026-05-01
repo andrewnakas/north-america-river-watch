@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02280500",
+  "key": "02280500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02280500",
+  "name": "HILLSBORO CANAL BELOW S351 NR SOUTH BAY FLA",
+  "waterbody": "HILLSBORO CANAL BELOW S351 NR SOUTH BAY FLA",
+  "state": "FL",
+  "latitude": 26.70021389,
+  "longitude": -80.7090694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02280500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09346000",
+  "key": "09346000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09346000",
+  "name": "NAVAJO RIVER AT EDITH, CO.",
+  "waterbody": "NAVAJO RIVER AT EDITH, CO.",
+  "state": "CO",
+  "latitude": 37.0027883,
+  "longitude": -106.9075366,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09346000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

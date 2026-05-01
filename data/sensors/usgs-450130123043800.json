@@ -1,0 +1,19 @@
+{
+  "id": "usgs:450130123043800",
+  "key": "450130123043800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "450130123043800",
+  "name": "WILLAMETTE R ALCOVE ON LB AT RM 77.2",
+  "waterbody": "WILLAMETTE R ALCOVE ON LB AT RM 77.2",
+  "state": "OR",
+  "latitude": 45.0249861,
+  "longitude": -123.077125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-450130123043800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.351Z"
+}

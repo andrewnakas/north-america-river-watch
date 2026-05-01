@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06902100",
+  "key": "06902100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06902100",
+  "name": "Grand River below Sumner, MO (auxiliary gage)",
+  "waterbody": "Grand River below Sumner, MO (auxiliary gage)",
+  "state": "MO",
+  "latitude": 39.61752318,
+  "longitude": -93.2802069,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06902100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

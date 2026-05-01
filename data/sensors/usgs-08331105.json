@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08331105",
+  "key": "08331105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08331105",
+  "name": "BARR CHICAL DRAIN NR ISLETA, NM",
+  "waterbody": "BARR CHICAL DRAIN NR ISLETA, NM",
+  "state": "NM",
+  "latitude": 34.91116284,
+  "longitude": -106.6800253,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08331105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

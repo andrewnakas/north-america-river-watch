@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09075700",
+  "key": "09075700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09075700",
+  "name": "MAROON CREEK ABOVE ASPEN, CO.",
+  "waterbody": "MAROON CREEK ABOVE ASPEN, CO.",
+  "state": "CO",
+  "latitude": 39.1235994,
+  "longitude": -106.9053197,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09075700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

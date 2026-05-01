@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03566000",
+  "key": "03566000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03566000",
+  "name": "HIWASSEE RIVER AT CHARLESTON, TN",
+  "waterbody": "HIWASSEE RIVER AT CHARLESTON, TN",
+  "state": "TN",
+  "latitude": 35.29514804,
+  "longitude": -84.759955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHLT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hiwassee River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chlt1",
+  "slug": "usgs-03566000",
+  "noaaForecastPath": "data/noaa-forecast/CHLT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

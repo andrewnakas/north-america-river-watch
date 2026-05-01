@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214668150",
+  "key": "0214668150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214668150",
+  "name": "MCMULLEN CR ABOVE LINCREST PLACE AT CHARLOTTE, NC",
+  "waterbody": "MCMULLEN CR ABOVE LINCREST PLACE AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.17027778,
+  "longitude": -80.7855556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLIN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "McMullen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlin7",
+  "slug": "usgs-0214668150",
+  "noaaForecastPath": "data/noaa-forecast/MLIN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

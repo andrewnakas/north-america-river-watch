@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01547100",
+  "key": "01547100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01547100",
+  "name": "Spring Creek at Milesburg, PA",
+  "waterbody": "Spring Creek at Milesburg, PA",
+  "state": "PA",
+  "latitude": 40.93167677,
+  "longitude": -77.7855242,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mscp1",
+  "slug": "usgs-01547100",
+  "noaaForecastPath": "data/noaa-forecast/MSCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

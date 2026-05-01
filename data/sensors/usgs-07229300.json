@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07229300",
+  "key": "07229300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07229300",
+  "name": "Walnut Creek at Purcell, OK",
+  "waterbody": "Walnut Creek at Purcell, OK",
+  "state": "OK",
+  "latitude": 34.99896109,
+  "longitude": -97.3669727,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRLO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prlo2",
+  "slug": "usgs-07229300",
+  "noaaForecastPath": "data/noaa-forecast/PRLO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

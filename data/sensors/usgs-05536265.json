@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536265",
+  "key": "05536265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536265",
+  "name": "LANSING DITCH NEAR LANSING, IL",
+  "waterbody": "LANSING DITCH NEAR LANSING, IL",
+  "state": "IL",
+  "latitude": 41.5283611,
+  "longitude": -87.5294444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LDLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lansing Ditch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ldli2",
+  "slug": "usgs-05536265",
+  "noaaForecastPath": "data/noaa-forecast/LDLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13171620",
+  "key": "13171620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13171620",
+  "name": "SNAKE RIVER BL CJ STRIKE DAM NR GRAND VIEW ID",
+  "waterbody": "SNAKE RIVER BL CJ STRIKE DAM NR GRAND VIEW ID",
+  "state": "ID",
+  "latitude": 42.94711569,
+  "longitude": -115.981204,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCJI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcji1",
+  "slug": "usgs-13171620",
+  "noaaForecastPath": "data/noaa-forecast/BCJI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

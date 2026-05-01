@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08157540",
+  "key": "08157540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08157540",
+  "name": "Waller Ck at Red River St, Austin, TX",
+  "waterbody": "Waller Ck at Red River St, Austin, TX",
+  "state": "TX",
+  "latitude": 30.27162778,
+  "longitude": -97.7355583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waller Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcat2",
+  "slug": "usgs-08157540",
+  "noaaForecastPath": "data/noaa-forecast/WCAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

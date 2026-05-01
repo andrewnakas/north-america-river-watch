@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06480650",
+  "key": "06480650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06480650",
+  "name": "FLANDREAU CREEK ABOVE FLANDREAU SD",
+  "waterbody": "FLANDREAU CREEK ABOVE FLANDREAU SD",
+  "state": "SD",
+  "latitude": 44.06269731,
+  "longitude": -96.48562891,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flandreau Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcrs2",
+  "slug": "usgs-06480650",
+  "noaaForecastPath": "data/noaa-forecast/FCRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

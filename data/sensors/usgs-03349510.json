@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03349510",
+  "key": "03349510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03349510",
+  "name": "CICERO CREEK AT ARCADIA, IN",
+  "waterbody": "CICERO CREEK AT ARCADIA, IN",
+  "state": "IN",
+  "latitude": 40.174475,
+  "longitude": -86.0005182,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCAI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cicero Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccai3",
+  "slug": "usgs-03349510",
+  "noaaForecastPath": "data/noaa-forecast/CCAI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

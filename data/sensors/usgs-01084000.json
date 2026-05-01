@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01084000",
+  "key": "01084000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01084000",
+  "name": "NORTH BRANCH RIVER NEAR ANTRIM, NH",
+  "waterbody": "NORTH BRANCH RIVER NEAR ANTRIM, NH",
+  "state": "NH",
+  "latitude": 43.08163819,
+  "longitude": -71.9783745,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01084000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

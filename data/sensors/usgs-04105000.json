@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04105000",
+  "key": "04105000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04105000",
+  "name": "BATTLE CREEK AT BATTLE CREEK, MI",
+  "waterbody": "BATTLE CREEK AT BATTLE CREEK, MI",
+  "state": "MI",
+  "latitude": 42.33142969,
+  "longitude": -85.1536025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Battle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcrm4",
+  "slug": "usgs-04105000",
+  "noaaForecastPath": "data/noaa-forecast/BCRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

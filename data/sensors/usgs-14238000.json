@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14238000",
+  "key": "14238000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14238000",
+  "name": "COWLITZ RIVER BELOW MAYFIELD DAM, WA",
+  "waterbody": "COWLITZ RIVER BELOW MAYFIELD DAM, WA",
+  "state": "WA",
+  "latitude": 46.51038526,
+  "longitude": -122.616224,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAYW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowlitz River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mayw1",
+  "slug": "usgs-14238000",
+  "noaaForecastPath": "data/noaa-forecast/MAYW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

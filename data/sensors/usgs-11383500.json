@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11383500",
+  "key": "11383500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11383500",
+  "name": "DEER C NR VINA CA",
+  "waterbody": "DEER C NR VINA CA",
+  "state": "CA",
+  "latitude": 40.0140214,
+  "longitude": -121.9482872,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCVC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deer Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcvc1",
+  "slug": "usgs-11383500",
+  "noaaForecastPath": "data/noaa-forecast/DCVC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

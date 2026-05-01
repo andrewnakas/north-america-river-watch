@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03298300",
+  "key": "03298300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298300",
+  "name": "PENN RUN AT MT WASHINGTON RD NR LOUISVILLE, KY",
+  "waterbody": "PENN RUN AT MT WASHINGTON RD NR LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.0875,
+  "longitude": -85.6425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZTNK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pennsylvania Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ztnk2",
+  "slug": "usgs-03298300",
+  "noaaForecastPath": "data/noaa-forecast/ZTNK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

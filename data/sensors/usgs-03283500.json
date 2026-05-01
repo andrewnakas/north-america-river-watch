@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03283500",
+  "key": "03283500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03283500",
+  "name": "RED RIVER AT CLAY CITY, KY",
+  "waterbody": "RED RIVER AT CLAY CITY, KY",
+  "state": "KY",
+  "latitude": 37.86480329,
+  "longitude": -83.9335328,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cyck2",
+  "slug": "usgs-03283500",
+  "noaaForecastPath": "data/noaa-forecast/CYCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

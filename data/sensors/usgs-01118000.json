@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01118000",
+  "key": "01118000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01118000",
+  "name": "WOOD RIVER AT HOPE VALLEY, RI",
+  "waterbody": "WOOD RIVER AT HOPE VALLEY, RI",
+  "state": "RI",
+  "latitude": 41.49815516,
+  "longitude": -71.7164561,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOPR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hopr1",
+  "slug": "usgs-01118000",
+  "noaaForecastPath": "data/noaa-forecast/HOPR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419800",
+  "key": "09419800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419800",
+  "name": "LV WASH BLW LAKE LAS VEGAS NR BOULDER CITY, NV",
+  "waterbody": "LV WASH BLW LAKE LAS VEGAS NR BOULDER CITY, NV",
+  "state": "NV",
+  "latitude": 36.12219816,
+  "longitude": -114.904992,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

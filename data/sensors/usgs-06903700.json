@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06903700",
+  "key": "06903700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06903700",
+  "name": "South Fork Chariton River near Promise City, IA",
+  "waterbody": "South Fork Chariton River near Promise City, IA",
+  "state": "IA",
+  "latitude": 40.80044444,
+  "longitude": -93.1926861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Chariton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prmi4",
+  "slug": "usgs-06903700",
+  "noaaForecastPath": "data/noaa-forecast/PRMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

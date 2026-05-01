@@ -1,0 +1,22 @@
+{
+  "id": "usgs:103530001",
+  "key": "103530001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "103530001",
+  "name": "QUINN RV BLW CONFL E FK S FK QUINN NR MC DERMITT",
+  "waterbody": "QUINN RV BLW CONFL E FK S FK QUINN NR MC DERMITT",
+  "state": "NV",
+  "latitude": 41.974,
+  "longitude": -117.5956944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QNRN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quinn River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qnrn2",
+  "slug": "usgs-103530001",
+  "noaaForecastPath": "data/noaa-forecast/QNRN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

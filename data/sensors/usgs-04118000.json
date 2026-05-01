@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04118000",
+  "key": "04118000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04118000",
+  "name": "THORNAPPLE RIVER NEAR CALEDONIA, MI",
+  "waterbody": "THORNAPPLE RIVER NEAR CALEDONIA, MI",
+  "state": "MI",
+  "latitude": 42.8111429,
+  "longitude": -85.4833523,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLDM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thornapple River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cldm4",
+  "slug": "usgs-04118000",
+  "noaaForecastPath": "data/noaa-forecast/CLDM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

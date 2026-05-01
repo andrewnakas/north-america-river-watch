@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01512500",
+  "key": "01512500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01512500",
+  "name": "CHENANGO RIVER NEAR CHENANGO FORKS NY",
+  "waterbody": "CHENANGO RIVER NEAR CHENANGO FORKS NY",
+  "state": "NY",
+  "latitude": 42.21805556,
+  "longitude": -75.84813889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNON6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chenango River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnon6",
+  "slug": "usgs-01512500",
+  "noaaForecastPath": "data/noaa-forecast/CNON6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

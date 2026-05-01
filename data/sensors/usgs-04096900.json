@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04096900",
+  "key": "04096900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04096900",
+  "name": "NOTTAWA CREEK NEAR ATHENS, MI",
+  "waterbody": "NOTTAWA CREEK NEAR ATHENS, MI",
+  "state": "MI",
+  "latitude": 42.05525,
+  "longitude": -85.30838889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04096900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

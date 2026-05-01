@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07249413",
+  "key": "07249413",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07249413",
+  "name": "Poteau River near Panama, OK",
+  "waterbody": "Poteau River near Panama, OK",
+  "state": "OK",
+  "latitude": 35.16565268,
+  "longitude": -94.6530016,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PANO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Poteau River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pano2",
+  "slug": "usgs-07249413",
+  "noaaForecastPath": "data/noaa-forecast/PANO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

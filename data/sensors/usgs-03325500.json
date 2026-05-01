@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03325500",
+  "key": "03325500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03325500",
+  "name": "MISSISSINEWA RIVER NEAR RIDGEVILLE, IN",
+  "waterbody": "MISSISSINEWA RIVER NEAR RIDGEVILLE, IN",
+  "state": "IN",
+  "latitude": 40.28002889,
+  "longitude": -84.99242949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RGVI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississinewa River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rgvi3",
+  "slug": "usgs-03325500",
+  "noaaForecastPath": "data/noaa-forecast/RGVI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

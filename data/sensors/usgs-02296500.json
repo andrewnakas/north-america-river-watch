@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02296500",
+  "key": "02296500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02296500",
+  "name": "CHARLIE CREEK NEAR GARDNER FL",
+  "waterbody": "CHARLIE CREEK NEAR GARDNER FL",
+  "state": "FL",
+  "latitude": 27.37504297,
+  "longitude": -81.7964708,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Charlie Creek Near Gardner",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdrf1",
+  "slug": "usgs-02296500",
+  "noaaForecastPath": "data/noaa-forecast/GDRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

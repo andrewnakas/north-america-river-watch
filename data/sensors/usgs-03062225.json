@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03062225",
+  "key": "03062225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062225",
+  "name": "MONONGAHELA R AT OPEKISKA LOCK & DAM (LOWER), WV",
+  "waterbody": "MONONGAHELA R AT OPEKISKA LOCK & DAM (LOWER), WV",
+  "state": "WV",
+  "latitude": 39.56447547,
+  "longitude": -80.05060334,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monongahela River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okkw2",
+  "slug": "usgs-03062225",
+  "noaaForecastPath": "data/noaa-forecast/OKKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

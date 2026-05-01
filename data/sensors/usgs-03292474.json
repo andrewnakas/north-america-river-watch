@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03292474",
+  "key": "03292474",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03292474",
+  "name": "GOOSE CREEK AT OLD WESTPORT RD NR ST MATTHEWS, KY",
+  "waterbody": "GOOSE CREEK AT OLD WESTPORT RD NR ST MATTHEWS, KY",
+  "state": "KY",
+  "latitude": 38.2759036,
+  "longitude": -85.606072,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYDK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek (C KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lydk2",
+  "slug": "usgs-03292474",
+  "noaaForecastPath": "data/noaa-forecast/LYDK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

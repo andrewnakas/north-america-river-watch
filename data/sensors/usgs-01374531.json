@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01374531",
+  "key": "01374531",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374531",
+  "name": "EAST BRANCH CROTON RIVER NEAR CROTON FALLS NY",
+  "waterbody": "EAST BRANCH CROTON RIVER NEAR CROTON FALLS NY",
+  "state": "NY",
+  "latitude": 41.37338889,
+  "longitude": -73.6395833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01374531",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

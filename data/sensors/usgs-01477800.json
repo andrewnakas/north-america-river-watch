@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01477800",
+  "key": "01477800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01477800",
+  "name": "SHELLPOT CREEK AT WILMINGTON, DE",
+  "waterbody": "SHELLPOT CREEK AT WILMINGTON, DE",
+  "state": "DE",
+  "latitude": 39.7609722,
+  "longitude": -75.5186944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01477800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

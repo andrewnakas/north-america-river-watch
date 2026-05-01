@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07105490",
+  "key": "07105490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07105490",
+  "name": "CHEYENNE CREEK AT EVANS AVE AT COLORADO SPRINGS,CO",
+  "waterbody": "CHEYENNE CREEK AT EVANS AVE AT COLORADO SPRINGS,CO",
+  "state": "CO",
+  "latitude": 38.790556,
+  "longitude": -104.863611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07105490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

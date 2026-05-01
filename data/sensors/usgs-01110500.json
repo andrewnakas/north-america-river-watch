@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01110500",
+  "key": "01110500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01110500",
+  "name": "BLACKSTONE RIVER AT NORTHBRIDGE, MA",
+  "waterbody": "BLACKSTONE RIVER AT NORTHBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.15370688,
+  "longitude": -71.65201138,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBRM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbrm3",
+  "slug": "usgs-01110500",
+  "noaaForecastPath": "data/noaa-forecast/NBRM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

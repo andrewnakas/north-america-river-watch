@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06721500",
+  "key": "06721500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06721500",
+  "name": "NORTH ST. VRAIN CREEK NEAR ALLENS PARK, CO.",
+  "waterbody": "NORTH ST. VRAIN CREEK NEAR ALLENS PARK, CO.",
+  "state": "CO",
+  "latitude": 40.2188737,
+  "longitude": -105.5283329,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06721500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

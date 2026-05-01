@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07312110",
+  "key": "07312110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07312110",
+  "name": "S Side Canal nr Dundee, TX",
+  "waterbody": "S Side Canal nr Dundee, TX",
+  "state": "TX",
+  "latitude": 33.81398475,
+  "longitude": -98.932844,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DSCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Side Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dsct2",
+  "slug": "usgs-07312110",
+  "noaaForecastPath": "data/noaa-forecast/DSCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01208171",
+  "key": "01208171",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01208171",
+  "name": "NAUGATUCK RIVER AT WATERBURY, CT",
+  "waterbody": "NAUGATUCK RIVER AT WATERBURY, CT",
+  "state": "CT",
+  "latitude": 41.55693252,
+  "longitude": -73.05425495,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01208171",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

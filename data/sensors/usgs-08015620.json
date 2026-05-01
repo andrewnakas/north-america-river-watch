@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08015620",
+  "key": "08015620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08015620",
+  "name": "Barnes Creek at Topsy Bel Rd SW of Reeves, LA",
+  "waterbody": "Barnes Creek at Topsy Bel Rd SW of Reeves, LA",
+  "state": "LA",
+  "latitude": 30.4676111,
+  "longitude": -93.0941111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barnes Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcrl1",
+  "slug": "usgs-08015620",
+  "noaaForecastPath": "data/noaa-forecast/BCRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

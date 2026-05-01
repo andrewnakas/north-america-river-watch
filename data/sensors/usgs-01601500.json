@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01601500",
+  "key": "01601500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01601500",
+  "name": "WILLS CREEK NEAR CUMBERLAND, MD",
+  "waterbody": "WILLS CREEK NEAR CUMBERLAND, MD",
+  "state": "MD",
+  "latitude": 39.66961111,
+  "longitude": -78.78802778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWCM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wills Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwcm2",
+  "slug": "usgs-01601500",
+  "noaaForecastPath": "data/noaa-forecast/CWCM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

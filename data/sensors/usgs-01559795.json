@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01559795",
+  "key": "01559795",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01559795",
+  "name": "Bobs Creek near Pavia, PA",
+  "waterbody": "Bobs Creek near Pavia, PA",
+  "state": "PA",
+  "latitude": 40.2725763,
+  "longitude": -78.5983506,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01559795",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

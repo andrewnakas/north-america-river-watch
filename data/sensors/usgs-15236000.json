@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15236000",
+  "key": "15236000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15236000",
+  "name": "HOBO C NR WHITTIER AK",
+  "waterbody": "HOBO C NR WHITTIER AK",
+  "state": "AK",
+  "latitude": 60.96112467,
+  "longitude": -148.2407785,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15236000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

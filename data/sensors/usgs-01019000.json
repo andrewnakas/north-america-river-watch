@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01019000",
+  "key": "01019000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01019000",
+  "name": "Grand Lake Stream at Grand Lake Stream, Maine",
+  "waterbody": "Grand Lake Stream at Grand Lake Stream, Maine",
+  "state": "ME",
+  "latitude": 45.1725,
+  "longitude": -67.76888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WGLM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Grand Lake",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wglm1",
+  "slug": "usgs-01019000",
+  "noaaForecastPath": "data/noaa-forecast/WGLM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

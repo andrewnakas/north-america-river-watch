@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01573810",
+  "key": "01573810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573810",
+  "name": "Brush Run, Site 2, near McSherrystown, PA",
+  "waterbody": "Brush Run, Site 2, near McSherrystown, PA",
+  "state": "PA",
+  "latitude": 39.8184312,
+  "longitude": -77.1069269,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01573810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

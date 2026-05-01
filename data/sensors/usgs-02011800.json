@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02011800",
+  "key": "02011800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02011800",
+  "name": "JACKSON RIVER BL GATHRIGHT DAM NR HOT SPGS, VA",
+  "waterbody": "JACKSON RIVER BL GATHRIGHT DAM NR HOT SPGS, VA",
+  "state": "VA",
+  "latitude": 37.94845825,
+  "longitude": -79.94922369,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOOV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Moomaw",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/moov2",
+  "slug": "usgs-02011800",
+  "noaaForecastPath": "data/noaa-forecast/MOOV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

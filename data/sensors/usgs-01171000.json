@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01171000",
+  "key": "01171000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01171000",
+  "name": "AVERY BROOK NR WHATELY, MA",
+  "waterbody": "AVERY BROOK NR WHATELY, MA",
+  "state": "MA",
+  "latitude": 42.44980128,
+  "longitude": -72.6935282,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01171000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

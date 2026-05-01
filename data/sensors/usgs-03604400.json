@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03604400",
+  "key": "03604400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03604400",
+  "name": "BUFFALO RIVER BELOW LOBELVILLE, TN",
+  "waterbody": "BUFFALO RIVER BELOW LOBELVILLE, TN",
+  "state": "TN",
+  "latitude": 35.8118428,
+  "longitude": -87.77875039,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBVT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbvt1",
+  "slug": "usgs-03604400",
+  "noaaForecastPath": "data/noaa-forecast/LBVT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

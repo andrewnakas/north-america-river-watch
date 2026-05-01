@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09406000",
+  "key": "09406000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09406000",
+  "name": "VIRGIN RIVER AT VIRGIN, UT",
+  "waterbody": "VIRGIN RIVER AT VIRGIN, UT",
+  "state": "UT",
+  "latitude": 37.2041494,
+  "longitude": -113.1807789,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VIRU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Virgin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/viru1",
+  "slug": "usgs-09406000",
+  "noaaForecastPath": "data/noaa-forecast/VIRU1.json",
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

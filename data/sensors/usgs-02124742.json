@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02124742",
+  "key": "02124742",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02124742",
+  "name": "ROCKY RIVER NR STANFIELD, NC",
+  "waterbody": "ROCKY RIVER NR STANFIELD, NC",
+  "state": "NC",
+  "latitude": 35.16944444,
+  "longitude": -80.4730556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02124742",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

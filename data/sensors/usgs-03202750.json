@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03202750",
+  "key": "03202750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03202750",
+  "name": "CLEAR FORK AT CLEAR FORK, WV",
+  "waterbody": "CLEAR FORK AT CLEAR FORK, WV",
+  "state": "WV",
+  "latitude": 37.62316608,
+  "longitude": -81.7073342,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLFW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clfw2",
+  "slug": "usgs-03202750",
+  "noaaForecastPath": "data/noaa-forecast/CLFW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02301988",
+  "key": "02301988",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301988",
+  "name": "HILLSBOROUGH RIVER AT HWY 39 NR CRYSTAL SPRINGS FL",
+  "waterbody": "HILLSBOROUGH RIVER AT HWY 39 NR CRYSTAL SPRINGS FL",
+  "state": "FL",
+  "latitude": 28.19334443,
+  "longitude": -82.16508419,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02301988",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

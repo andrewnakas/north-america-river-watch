@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13016240",
+  "key": "13016240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13016240",
+  "name": "LAKE CR BL GRANITE CR SUPPLEMENTAL, NR MOOSE, WY",
+  "waterbody": "LAKE CR BL GRANITE CR SUPPLEMENTAL, NR MOOSE, WY",
+  "state": "WY",
+  "latitude": 43.6135183,
+  "longitude": -110.7796803,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13016240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

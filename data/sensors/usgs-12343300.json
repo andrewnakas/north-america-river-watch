@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12343300",
+  "key": "12343300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12343300",
+  "name": "Laird Creek nr Sula, MT",
+  "waterbody": "Laird Creek nr Sula, MT",
+  "state": "MT",
+  "latitude": 45.8735722,
+  "longitude": -114.0534944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12343300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

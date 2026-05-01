@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06714220",
+  "key": "06714220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06714220",
+  "name": "SENAC CR AT N BDR SLUDGE AREA, NR AURORA, CO DUP1",
+  "waterbody": "SENAC CR AT N BDR SLUDGE AREA, NR AURORA, CO DUP1",
+  "state": "CO",
+  "latitude": 39.65165424,
+  "longitude": -104.6766369,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06714220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

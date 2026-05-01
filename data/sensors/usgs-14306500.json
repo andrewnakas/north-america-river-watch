@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14306500",
+  "key": "14306500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14306500",
+  "name": "ALSEA RIVER NEAR TIDEWATER, OR",
+  "waterbody": "ALSEA RIVER NEAR TIDEWATER, OR",
+  "state": "OR",
+  "latitude": 44.3859538,
+  "longitude": -123.831778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TIDO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alsea River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tido3",
+  "slug": "usgs-14306500",
+  "noaaForecastPath": "data/noaa-forecast/TIDO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

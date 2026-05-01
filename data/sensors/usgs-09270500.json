@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09270500",
+  "key": "09270500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09270500",
+  "name": "DRY FORK AT MOUTH NEAR DRY FORK, UTAH",
+  "waterbody": "DRY FORK AT MOUTH NEAR DRY FORK, UTAH",
+  "state": "UT",
+  "latitude": 40.5263475,
+  "longitude": -109.6056958,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09270500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

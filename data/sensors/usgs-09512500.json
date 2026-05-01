@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09512500",
+  "key": "09512500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512500",
+  "name": "AGUA FRIA RIVER NEAR MAYER, AZ",
+  "waterbody": "AGUA FRIA RIVER NEAR MAYER, AZ",
+  "state": "AZ",
+  "latitude": 34.31505,
+  "longitude": -112.06389167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AFMA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Agua Fria River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/afma3",
+  "slug": "usgs-09512500",
+  "noaaForecastPath": "data/noaa-forecast/AFMA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

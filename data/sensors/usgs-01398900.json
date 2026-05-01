@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01398900",
+  "key": "01398900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01398900",
+  "name": "North Branch Raritan River at Bedminster NJ",
+  "waterbody": "North Branch Raritan River at Bedminster NJ",
+  "state": "NJ",
+  "latitude": 40.68277778,
+  "longitude": -74.6383333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01398900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

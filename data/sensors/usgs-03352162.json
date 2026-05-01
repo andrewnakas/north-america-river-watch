@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03352162",
+  "key": "03352162",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03352162",
+  "name": "MUD CREEK AT FISHERS, IN",
+  "waterbody": "MUD CREEK AT FISHERS, IN",
+  "state": "IN",
+  "latitude": 39.93944444,
+  "longitude": -85.9997222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCFI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcfi3",
+  "slug": "usgs-03352162",
+  "noaaForecastPath": "data/noaa-forecast/MCFI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

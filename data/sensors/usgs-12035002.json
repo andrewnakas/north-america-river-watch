@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12035002",
+  "key": "12035002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12035002",
+  "name": "CHEHALIS RIVER NEAR SATSOP, WA",
+  "waterbody": "CHEHALIS RIVER NEAR SATSOP, WA",
+  "state": "WA",
+  "latitude": 46.9720406,
+  "longitude": -123.4915499,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12035002",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

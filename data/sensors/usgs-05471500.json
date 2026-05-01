@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05471500",
+  "key": "05471500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05471500",
+  "name": "South Skunk River near Oskaloosa, IA",
+  "waterbody": "South Skunk River near Oskaloosa, IA",
+  "state": "IA",
+  "latitude": 41.35570278,
+  "longitude": -92.6573556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OOAI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Skunk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ooai4",
+  "slug": "usgs-05471500",
+  "noaaForecastPath": "data/noaa-forecast/OOAI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

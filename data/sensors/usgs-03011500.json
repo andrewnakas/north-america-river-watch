@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03011500",
+  "key": "03011500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03011500",
+  "name": "ALLEGHENY RIVER AT RED HOUSE NY",
+  "waterbody": "ALLEGHENY RIVER AT RED HOUSE NY",
+  "state": "NY",
+  "latitude": 42.11452778,
+  "longitude": -78.8035556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdhn6",
+  "slug": "usgs-03011500",
+  "noaaForecastPath": "data/noaa-forecast/RDHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

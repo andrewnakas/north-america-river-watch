@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08111000",
+  "key": "08111000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111000",
+  "name": "Navasota Rv nr Bryan, TX",
+  "waterbody": "Navasota Rv nr Bryan, TX",
+  "state": "TX",
+  "latitude": 30.8696352,
+  "longitude": -96.1924592,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08111000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

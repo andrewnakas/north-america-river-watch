@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01467200",
+  "key": "01467200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467200",
+  "name": "Delaware River at Penn's Landing, Philadelphia, PA",
+  "waterbody": "Delaware River at Penn's Landing, Philadelphia, PA",
+  "state": "PA",
+  "latitude": 39.946402,
+  "longitude": -75.1393603,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phbp1",
+  "slug": "usgs-01467200",
+  "noaaForecastPath": "data/noaa-forecast/PHBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

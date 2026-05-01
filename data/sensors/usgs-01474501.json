@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01474501",
+  "key": "01474501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01474501",
+  "name": "Schuylkill River near 30th St at Philadelphia, PA",
+  "waterbody": "Schuylkill River near 30th St at Philadelphia, PA",
+  "state": "PA",
+  "latitude": 39.95663889,
+  "longitude": -75.1803056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schuylkill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phdp1",
+  "slug": "usgs-01474501",
+  "noaaForecastPath": "data/noaa-forecast/PHDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

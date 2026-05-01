@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06464100",
+  "key": "06464100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06464100",
+  "name": "KEYA PAHA RIVER NEAR KEYAPAHA,SD",
+  "waterbody": "KEYA PAHA RIVER NEAR KEYAPAHA,SD",
+  "state": "SD",
+  "latitude": 43.12917164,
+  "longitude": -100.1070671,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAHS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Keyapaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pahs2",
+  "slug": "usgs-06464100",
+  "noaaForecastPath": "data/noaa-forecast/PAHS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

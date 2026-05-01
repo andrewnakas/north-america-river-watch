@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03111548",
+  "key": "03111548",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03111548",
+  "name": "Wheeling Creek below Blaine OH",
+  "waterbody": "Wheeling Creek below Blaine OH",
+  "state": "OH",
+  "latitude": 40.0670164,
+  "longitude": -80.8084198,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLOO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wheeling Creek OH",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bloo1",
+  "slug": "usgs-03111548",
+  "noaaForecastPath": "data/noaa-forecast/BLOO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03373980",
+  "key": "03373980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03373980",
+  "name": "WHITE RIVER ABOVE PETERSBURG, IN",
+  "waterbody": "WHITE RIVER ABOVE PETERSBURG, IN",
+  "state": "IN",
+  "latitude": 38.5283854,
+  "longitude": -87.2538926,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PETI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/peti3",
+  "slug": "usgs-03373980",
+  "noaaForecastPath": "data/noaa-forecast/PETI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

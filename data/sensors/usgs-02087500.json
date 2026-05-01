@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02087500",
+  "key": "02087500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02087500",
+  "name": "NEUSE RIVER NEAR CLAYTON, NC",
+  "waterbody": "NEUSE RIVER NEAR CLAYTON, NC",
+  "state": "NC",
+  "latitude": 35.6472222,
+  "longitude": -78.4052778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLYN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neuse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clyn7",
+  "slug": "usgs-02087500",
+  "noaaForecastPath": "data/noaa-forecast/CLYN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

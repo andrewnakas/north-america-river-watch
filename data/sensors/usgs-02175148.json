@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02175148",
+  "key": "02175148",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02175148",
+  "name": "ASHEPOO RIVER AT US17 NR GREENPOND, SC",
+  "waterbody": "ASHEPOO RIVER AT US17 NR GREENPOND, SC",
+  "state": "SC",
+  "latitude": 32.74388889,
+  "longitude": -80.55638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashepoo River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/args1",
+  "slug": "usgs-02175148",
+  "noaaForecastPath": "data/noaa-forecast/ARGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

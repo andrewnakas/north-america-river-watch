@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12118500",
+  "key": "12118500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12118500",
+  "name": "ROCK CREEK NEAR MAPLE VALLEY, WA",
+  "waterbody": "ROCK CREEK NEAR MAPLE VALLEY, WA",
+  "state": "WA",
+  "latitude": 47.3797969,
+  "longitude": -122.0173172,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12118500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

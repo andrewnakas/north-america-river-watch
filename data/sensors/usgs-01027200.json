@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01027200",
+  "key": "01027200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01027200",
+  "name": "North Branch Penobscot River nr Pittston Farm, ME",
+  "waterbody": "North Branch Penobscot River nr Pittston Farm, ME",
+  "state": "ME",
+  "latitude": 45.93527778,
+  "longitude": -69.9936111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01027200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

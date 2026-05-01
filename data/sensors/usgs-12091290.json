@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12091290",
+  "key": "12091290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12091290",
+  "name": "LEACH CR AT MEADOW PARK GC AT UNIVERSITY PLACE, WA",
+  "waterbody": "LEACH CR AT MEADOW PARK GC AT UNIVERSITY PLACE, WA",
+  "state": "WA",
+  "latitude": 47.1984316,
+  "longitude": -122.5209584,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12091290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08012000",
+  "key": "08012000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08012000",
+  "name": "Bayou Nezpique near Basile, LA",
+  "waterbody": "Bayou Nezpique near Basile, LA",
+  "state": "LA",
+  "latitude": 30.48077778,
+  "longitude": -92.63175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSLL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Nezpique",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsll1",
+  "slug": "usgs-08012000",
+  "noaaForecastPath": "data/noaa-forecast/BSLL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

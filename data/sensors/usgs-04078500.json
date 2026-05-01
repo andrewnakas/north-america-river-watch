@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04078500",
+  "key": "04078500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04078500",
+  "name": "EMBARRASS RIVER NEAR EMBARRASS, WI",
+  "waterbody": "EMBARRASS RIVER NEAR EMBARRASS, WI",
+  "state": "WI",
+  "latitude": 44.7247222,
+  "longitude": -88.7361111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMBW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Embarrass River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/embw3",
+  "slug": "usgs-04078500",
+  "noaaForecastPath": "data/noaa-forecast/EMBW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

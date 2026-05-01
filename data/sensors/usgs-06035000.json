@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06035000",
+  "key": "06035000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06035000",
+  "name": "Willow Creek near Harrison MT",
+  "waterbody": "Willow Creek near Harrison MT",
+  "state": "MT",
+  "latitude": 45.723058,
+  "longitude": -111.741025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCHM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek (Southwest MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wchm8",
+  "slug": "usgs-06035000",
+  "noaaForecastPath": "data/noaa-forecast/WCHM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

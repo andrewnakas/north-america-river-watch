@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16250000",
+  "key": "16250000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16250000",
+  "name": "Maunawili Ditch nr Waimanalo, Oahu, HI",
+  "waterbody": "Maunawili Ditch nr Waimanalo, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.34267778,
+  "longitude": -157.750311,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16250000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

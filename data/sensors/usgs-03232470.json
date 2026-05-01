@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03232470",
+  "key": "03232470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03232470",
+  "name": "Paint Creek near Bainbridge OH",
+  "waterbody": "Paint Creek near Bainbridge OH",
+  "state": "OH",
+  "latitude": 39.25228728,
+  "longitude": -83.3493577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCRO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paint Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcro1",
+  "slug": "usgs-03232470",
+  "noaaForecastPath": "data/noaa-forecast/PCRO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

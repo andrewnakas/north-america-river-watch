@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10165600",
+  "key": "10165600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10165600",
+  "name": "DRY CREEK AT 300 N, AT ALPINE, UT",
+  "waterbody": "DRY CREEK AT 300 N, AT ALPINE, UT",
+  "state": "UT",
+  "latitude": 40.4571722,
+  "longitude": -111.7683722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10165600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

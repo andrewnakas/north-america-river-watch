@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12040900",
+  "key": "12040900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12040900",
+  "name": "SOUTH FORK HOH RIVER NEAR FORKS, WA",
+  "waterbody": "SOUTH FORK HOH RIVER NEAR FORKS, WA",
+  "state": "WA",
+  "latitude": 47.80675128,
+  "longitude": -123.9965831,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12040900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

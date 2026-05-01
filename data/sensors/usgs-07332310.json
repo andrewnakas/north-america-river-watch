@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07332310",
+  "key": "07332310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332310",
+  "name": "Blue River near Fittstown, OK",
+  "waterbody": "Blue River near Fittstown, OK",
+  "state": "OK",
+  "latitude": 34.54953497,
+  "longitude": -96.6927852,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FIBO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (OK)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fibo2",
+  "slug": "usgs-07332310",
+  "noaaForecastPath": "data/noaa-forecast/FIBO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02337498",
+  "key": "02337498",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02337498",
+  "name": "SNAKE CRK DS SNAKE CRK RESERVIOR NR WHITESBURG, GA",
+  "waterbody": "SNAKE CRK DS SNAKE CRK RESERVIOR NR WHITESBURG, GA",
+  "state": "GA",
+  "latitude": 33.52638889,
+  "longitude": -84.9367222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake Creek  downstream Snake Creek Reservoir",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whgg1",
+  "slug": "usgs-02337498",
+  "noaaForecastPath": "data/noaa-forecast/WHGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01596500",
+  "key": "01596500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01596500",
+  "name": "SAVAGE RIVER NEAR BARTON, MD",
+  "waterbody": "SAVAGE RIVER NEAR BARTON, MD",
+  "state": "MD",
+  "latitude": 39.57005556,
+  "longitude": -79.1019444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTNM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Savage River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btnm2",
+  "slug": "usgs-01596500",
+  "noaaForecastPath": "data/noaa-forecast/BTNM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

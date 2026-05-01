@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03190307",
+  "key": "03190307",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03190307",
+  "name": "HEDRICKS CREEK TRIBUTARY ABOVE US-19 NEAR HICO, WV",
+  "waterbody": "HEDRICKS CREEK TRIBUTARY ABOVE US-19 NEAR HICO, WV",
+  "state": "WV",
+  "latitude": 38.12255556,
+  "longitude": -80.9924722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03190307",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

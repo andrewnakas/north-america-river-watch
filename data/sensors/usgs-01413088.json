@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01413088",
+  "key": "01413088",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01413088",
+  "name": "EAST BRANCH DELAWARE RIVER AT ROXBURY NY",
+  "waterbody": "EAST BRANCH DELAWARE RIVER AT ROXBURY NY",
+  "state": "NY",
+  "latitude": 42.29380556,
+  "longitude": -74.5591944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROXN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Delaware River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/roxn6",
+  "slug": "usgs-01413088",
+  "noaaForecastPath": "data/noaa-forecast/ROXN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

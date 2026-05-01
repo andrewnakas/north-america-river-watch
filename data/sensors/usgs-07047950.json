@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07047950",
+  "key": "07047950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07047950",
+  "name": "LAnguille River at Palestine, AR",
+  "waterbody": "LAnguille River at Palestine, AR",
+  "state": "AR",
+  "latitude": 34.97277778,
+  "longitude": -90.8855556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "L'Anguille River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plga4",
+  "slug": "usgs-07047950",
+  "noaaForecastPath": "data/noaa-forecast/PLGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

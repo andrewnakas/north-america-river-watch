@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08266000",
+  "key": "08266000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08266000",
+  "name": "CABRESTO CREEK NEAR QUESTA, NM",
+  "waterbody": "CABRESTO CREEK NEAR QUESTA, NM",
+  "state": "NM",
+  "latitude": 36.73058216,
+  "longitude": -105.5538944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08266000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

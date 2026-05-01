@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07327447",
+  "key": "07327447",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07327447",
+  "name": "Little Washita River near Cement, OK",
+  "waterbody": "Little Washita River near Cement, OK",
+  "state": "OK",
+  "latitude": 34.83784678,
+  "longitude": -98.1244903,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Washita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmto2",
+  "slug": "usgs-07327447",
+  "noaaForecastPath": "data/noaa-forecast/CMTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

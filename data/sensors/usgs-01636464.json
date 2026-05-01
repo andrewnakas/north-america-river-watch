@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01636464",
+  "key": "01636464",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01636464",
+  "name": "BULLSKIN RUN BELOW KABLETOWN, WV",
+  "waterbody": "BULLSKIN RUN BELOW KABLETOWN, WV",
+  "state": "WV",
+  "latitude": 39.2115833,
+  "longitude": -77.8348611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KBLW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bullskin Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kblw2",
+  "slug": "usgs-01636464",
+  "noaaForecastPath": "data/noaa-forecast/KBLW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

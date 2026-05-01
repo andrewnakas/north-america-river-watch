@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01022860",
+  "key": "01022860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01022860",
+  "name": "Hadlock Bk nr Cedar Swamp Mtn nr Northeast Hbr, ME",
+  "waterbody": "Hadlock Bk nr Cedar Swamp Mtn nr Northeast Hbr, ME",
+  "state": "ME",
+  "latitude": 44.33055556,
+  "longitude": -68.28277778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01022860",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

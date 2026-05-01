@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09032300",
+  "key": "09032300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09032300",
+  "name": "HURD CREEK NEAR TABERNASH, CO",
+  "waterbody": "HURD CREEK NEAR TABERNASH, CO",
+  "state": "CO",
+  "latitude": 40.01325,
+  "longitude": -105.7616944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09032300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

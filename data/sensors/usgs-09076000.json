@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09076000",
+  "key": "09076000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09076000",
+  "name": "MAROON CREEK NEAR ASPEN, CO.",
+  "waterbody": "MAROON CREEK NEAR ASPEN, CO.",
+  "state": "CO",
+  "latitude": 39.163408,
+  "longitude": -106.880747,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MACC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maroon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/macc2",
+  "slug": "usgs-09076000",
+  "noaaForecastPath": "data/noaa-forecast/MACC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

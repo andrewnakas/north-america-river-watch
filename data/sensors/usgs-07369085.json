@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07369085",
+  "key": "07369085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07369085",
+  "name": "Bayou Lafourche at Hwy 847 east of Cane Hill, LA",
+  "waterbody": "Bayou Lafourche at Hwy 847 east of Cane Hill, LA",
+  "state": "LA",
+  "latitude": 32.19491667,
+  "longitude": -92.0273611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07369085",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

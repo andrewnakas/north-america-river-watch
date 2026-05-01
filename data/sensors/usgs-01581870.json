@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581870",
+  "key": "01581870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581870",
+  "name": "GEORGES RUN NEAR BECKLEYSVILLE, MD",
+  "waterbody": "GEORGES RUN NEAR BECKLEYSVILLE, MD",
+  "state": "MD",
+  "latitude": 39.62569444,
+  "longitude": -76.77261111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Georges Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bckm2",
+  "slug": "usgs-01581870",
+  "noaaForecastPath": "data/noaa-forecast/BCKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

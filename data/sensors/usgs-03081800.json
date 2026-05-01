@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03081800",
+  "key": "03081800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03081800",
+  "name": "Bear Run at Kauffman, PA",
+  "waterbody": "Bear Run at Kauffman, PA",
+  "state": "PA",
+  "latitude": 39.90305556,
+  "longitude": -79.4644444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03081800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

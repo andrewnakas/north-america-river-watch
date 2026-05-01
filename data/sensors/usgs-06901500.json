@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06901500",
+  "key": "06901500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06901500",
+  "name": "Locust Creek near Linneus, MO",
+  "waterbody": "Locust Creek near Linneus, MO",
+  "state": "MO",
+  "latitude": 39.89594444,
+  "longitude": -93.2365278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06901500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

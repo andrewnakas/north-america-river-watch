@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12045500",
+  "key": "12045500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12045500",
+  "name": "ELWHA RIVER AT MCDONALD BR NEAR PORT ANGELES, WA",
+  "waterbody": "ELWHA RIVER AT MCDONALD BR NEAR PORT ANGELES, WA",
+  "state": "WA",
+  "latitude": 48.05478018,
+  "longitude": -123.5832136,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELWW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elwha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elww1",
+  "slug": "usgs-12045500",
+  "noaaForecastPath": "data/noaa-forecast/ELWW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

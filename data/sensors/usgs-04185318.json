@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04185318",
+  "key": "04185318",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04185318",
+  "name": "Tiffin River near Evansport OH",
+  "waterbody": "Tiffin River near Evansport OH",
+  "state": "OH",
+  "latitude": 41.3825,
+  "longitude": -84.4161111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VANO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tiffin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vano1",
+  "slug": "usgs-04185318",
+  "noaaForecastPath": "data/noaa-forecast/VANO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

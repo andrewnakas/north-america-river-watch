@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06810000",
+  "key": "06810000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06810000",
+  "name": "Nishnabotna River above Hamburg, IA",
+  "waterbody": "Nishnabotna River above Hamburg, IA",
+  "state": "IA",
+  "latitude": 40.60119444,
+  "longitude": -95.6445,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMBI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nishnabotna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmbi4",
+  "slug": "usgs-06810000",
+  "noaaForecastPath": "data/noaa-forecast/HMBI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

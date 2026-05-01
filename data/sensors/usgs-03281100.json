@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03281100",
+  "key": "03281100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03281100",
+  "name": "GOOSE CREEK AT MANCHESTER, KY",
+  "waterbody": "GOOSE CREEK AT MANCHESTER, KY",
+  "state": "KY",
+  "latitude": 37.15203405,
+  "longitude": -83.7601974,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCHK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mchk2",
+  "slug": "usgs-03281100",
+  "noaaForecastPath": "data/noaa-forecast/MCHK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

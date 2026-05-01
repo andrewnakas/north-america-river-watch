@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08057300",
+  "key": "08057300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08057300",
+  "name": "White Rk Ck at White Rk Lk, Dallas, TX",
+  "waterbody": "White Rk Ck at White Rk Lk, Dallas, TX",
+  "state": "TX",
+  "latitude": 32.80873904,
+  "longitude": -96.725832,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08057300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

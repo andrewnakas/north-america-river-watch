@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13353010",
+  "key": "13353010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13353010",
+  "name": "SNAKE RIVER BL GOOSE ISLAND BL ICE HARBOR DAM, WA",
+  "waterbody": "SNAKE RIVER BL GOOSE ISLAND BL ICE HARBOR DAM, WA",
+  "state": "WA",
+  "latitude": 46.2421853,
+  "longitude": -118.9401224,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13353010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

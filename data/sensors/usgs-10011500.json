@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10011500",
+  "key": "10011500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10011500",
+  "name": "BEAR RIVER NEAR UTAH-WYOMING STATE LINE",
+  "waterbody": "BEAR RIVER NEAR UTAH-WYOMING STATE LINE",
+  "state": "UT",
+  "latitude": 40.9652079,
+  "longitude": -110.853539,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BERU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/beru1",
+  "slug": "usgs-10011500",
+  "noaaForecastPath": "data/noaa-forecast/BERU1.json",
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

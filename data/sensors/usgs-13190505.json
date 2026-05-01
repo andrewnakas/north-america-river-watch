@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13190505",
+  "key": "13190505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13190505",
+  "name": "DIXIE CREEK BEL ANDERSON RANCH DAM ID",
+  "waterbody": "DIXIE CREEK BEL ANDERSON RANCH DAM ID",
+  "state": "ID",
+  "latitude": 43.34055556,
+  "longitude": -115.4783333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13190505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

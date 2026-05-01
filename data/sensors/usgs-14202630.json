@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14202630",
+  "key": "14202630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14202630",
+  "name": "WAPATO CANAL AT PUMP HOUSE, AT GASTON, OR",
+  "waterbody": "WAPATO CANAL AT PUMP HOUSE, AT GASTON, OR",
+  "state": "OR",
+  "latitude": 45.4401722,
+  "longitude": -123.1251806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GASO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tualatin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gaso3",
+  "slug": "usgs-14202630",
+  "noaaForecastPath": "data/noaa-forecast/GASO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

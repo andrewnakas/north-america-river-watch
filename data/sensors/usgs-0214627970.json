@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214627970",
+  "key": "0214627970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214627970",
+  "name": "STEWART CREEK AT STATE ST AT CHARLOTTE, NC",
+  "waterbody": "STEWART CREEK AT STATE ST AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.24027778,
+  "longitude": -80.8683333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STEN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stewart Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sten7",
+  "slug": "usgs-0214627970",
+  "noaaForecastPath": "data/noaa-forecast/STEN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

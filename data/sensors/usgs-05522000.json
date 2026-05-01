@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05522000",
+  "key": "05522000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05522000",
+  "name": "IROQUOIS RIVER NEAR NORTH MARION, IND.",
+  "waterbody": "IROQUOIS RIVER NEAR NORTH MARION, IND.",
+  "state": "IN",
+  "latitude": 40.97002229,
+  "longitude": -87.1138881,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05522000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

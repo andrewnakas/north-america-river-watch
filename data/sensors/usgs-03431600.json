@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03431600",
+  "key": "03431600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431600",
+  "name": "WHITES CREEK AT TUCKER ROAD NEAR BORDEAUX, TN",
+  "waterbody": "WHITES CREEK AT TUCKER ROAD NEAR BORDEAUX, TN",
+  "state": "TN",
+  "latitude": 36.2124025,
+  "longitude": -86.824752,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03431600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

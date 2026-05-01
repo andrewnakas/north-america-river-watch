@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01348000",
+  "key": "01348000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01348000",
+  "name": "EAST CANADA CREEK AT EAST CREEK NY",
+  "waterbody": "EAST CANADA CREEK AT EAST CREEK NY",
+  "state": "NY",
+  "latitude": 43.01669444,
+  "longitude": -74.74083333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01348000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04025500",
+  "key": "04025500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04025500",
+  "name": "BOIS BRULE RIVER AT BRULE, WI",
+  "waterbody": "BOIS BRULE RIVER AT BRULE, WI",
+  "state": "WI",
+  "latitude": 46.53777778,
+  "longitude": -91.5952778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bois Brule River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brsw3",
+  "slug": "usgs-04025500",
+  "noaaForecastPath": "data/noaa-forecast/BRSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

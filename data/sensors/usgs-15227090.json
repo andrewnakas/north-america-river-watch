@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15227090",
+  "key": "15227090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15227090",
+  "name": "VALDEZ GLACIER R AT VALDEZ GLACIER LK NR VALDEZ AK",
+  "waterbody": "VALDEZ GLACIER R AT VALDEZ GLACIER LK NR VALDEZ AK",
+  "state": "AK",
+  "latitude": 61.148889,
+  "longitude": -146.171583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VGSA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Valdez Glacier River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vgsa2",
+  "slug": "usgs-15227090",
+  "noaaForecastPath": "data/noaa-forecast/VGSA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

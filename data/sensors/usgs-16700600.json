@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16700600",
+  "key": "16700600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16700600",
+  "name": "Waiakea Stream at Hoaka Road, HI",
+  "waterbody": "Waiakea Stream at Hoaka Road, HI",
+  "state": "HI",
+  "latitude": 19.65808333,
+  "longitude": -155.1194444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16700600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

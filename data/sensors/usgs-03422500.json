@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03422500",
+  "key": "03422500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03422500",
+  "name": "CANEY FORK NEAR ROCK ISLAND, TN",
+  "waterbody": "CANEY FORK NEAR ROCK ISLAND, TN",
+  "state": "TN",
+  "latitude": 35.80773946,
+  "longitude": -85.6336435,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03422500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

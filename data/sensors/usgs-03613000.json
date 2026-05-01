@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03613000",
+  "key": "03613000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03613000",
+  "name": "HUMPHREY CR AT LACENTER, KY",
+  "waterbody": "HUMPHREY CR AT LACENTER, KY",
+  "state": "KY",
+  "latitude": 37.0775533,
+  "longitude": -88.9558976,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03613000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

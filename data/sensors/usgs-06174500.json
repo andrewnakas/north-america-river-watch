@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06174500",
+  "key": "06174500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06174500",
+  "name": "Milk River at Nashua MT",
+  "waterbody": "Milk River at Nashua MT",
+  "state": "MT",
+  "latitude": 48.13005278,
+  "longitude": -106.3643139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSHM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Milk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nshm8",
+  "slug": "usgs-06174500",
+  "noaaForecastPath": "data/noaa-forecast/NSHM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

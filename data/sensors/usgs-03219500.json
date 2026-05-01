@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03219500",
+  "key": "03219500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03219500",
+  "name": "Scioto River near Prospect OH",
+  "waterbody": "Scioto River near Prospect OH",
+  "state": "OH",
+  "latitude": 40.4195042,
+  "longitude": -83.1971372,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scioto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prgo1",
+  "slug": "usgs-03219500",
+  "noaaForecastPath": "data/noaa-forecast/PRGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13342245",
+  "key": "13342245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13342245",
+  "name": "EF SWEETWATER CREEK AT MOUTH NR WAHA ID",
+  "waterbody": "EF SWEETWATER CREEK AT MOUTH NR WAHA ID",
+  "state": "ID",
+  "latitude": 46.2583333,
+  "longitude": -116.8430556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13342245",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

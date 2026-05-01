@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12170305",
+  "key": "12170305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12170305",
+  "name": "UNNAMED TRIBUTARY SARATOGA PASSAGE CAMANO IS, WA",
+  "waterbody": "UNNAMED TRIBUTARY SARATOGA PASSAGE CAMANO IS, WA",
+  "state": "WA",
+  "latitude": 48.0678731,
+  "longitude": -122.3873688,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12170305",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02181580",
+  "key": "02181580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02181580",
+  "name": "TALLULAH RIVER AB POWERHOUSE, NR TALLULAH FALLS,GA",
+  "waterbody": "TALLULAH RIVER AB POWERHOUSE, NR TALLULAH FALLS,GA",
+  "state": "GA",
+  "latitude": 34.73191667,
+  "longitude": -83.3754167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TFLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tallulah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tflg1",
+  "slug": "usgs-02181580",
+  "noaaForecastPath": "data/noaa-forecast/TFLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

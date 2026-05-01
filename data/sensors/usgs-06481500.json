@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06481500",
+  "key": "06481500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06481500",
+  "name": "SKUNK CREEK AT SIOUX FALLS,SD",
+  "waterbody": "SKUNK CREEK AT SIOUX FALLS,SD",
+  "state": "SD",
+  "latitude": 43.53358676,
+  "longitude": -96.7908849,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIFS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skunk Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sifs2",
+  "slug": "usgs-06481500",
+  "noaaForecastPath": "data/noaa-forecast/SIFS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

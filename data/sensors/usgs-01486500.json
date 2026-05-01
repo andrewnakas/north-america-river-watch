@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01486500",
+  "key": "01486500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01486500",
+  "name": "BEAVERDAM CREEK NEAR SALISBURY, MD",
+  "waterbody": "BEAVERDAM CREEK NEAR SALISBURY, MD",
+  "state": "MD",
+  "latitude": 38.3531111,
+  "longitude": -75.5725556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDCM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaverdam Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdcm2",
+  "slug": "usgs-01486500",
+  "noaaForecastPath": "data/noaa-forecast/BDCM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

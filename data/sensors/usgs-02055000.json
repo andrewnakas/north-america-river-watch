@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02055000",
+  "key": "02055000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02055000",
+  "name": "ROANOKE RIVER AT ROANOKE, VA",
+  "waterbody": "ROANOKE RIVER AT ROANOKE, VA",
+  "state": "VA",
+  "latitude": 37.25847085,
+  "longitude": -79.9386485,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RONV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ronv2",
+  "slug": "usgs-02055000",
+  "noaaForecastPath": "data/noaa-forecast/RONV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

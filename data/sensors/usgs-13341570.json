@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13341570",
+  "key": "13341570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13341570",
+  "name": "POTLATCH RIVER BEL LITTLE POTLATCH CR NR SPALDING",
+  "waterbody": "POTLATCH RIVER BEL LITTLE POTLATCH CR NR SPALDING",
+  "state": "ID",
+  "latitude": 46.4986111,
+  "longitude": -116.7619444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRII1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Potlatch River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prii1",
+  "slug": "usgs-13341570",
+  "noaaForecastPath": "data/noaa-forecast/PRII1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

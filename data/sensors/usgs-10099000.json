@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10099000",
+  "key": "10099000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10099000",
+  "name": "HIGH CREEK NEAR RICHMOND, UTAH",
+  "waterbody": "HIGH CREEK NEAR RICHMOND, UTAH",
+  "state": "UT",
+  "latitude": 41.9777054,
+  "longitude": -111.7452222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10099000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

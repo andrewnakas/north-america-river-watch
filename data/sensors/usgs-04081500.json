@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04081500",
+  "key": "04081500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04081500",
+  "name": "WOLF RIVER AT WINNECONNE, WI",
+  "waterbody": "WOLF RIVER AT WINNECONNE, WI",
+  "state": "WI",
+  "latitude": 44.1108611,
+  "longitude": -88.7100556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04081500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313245",
+  "key": "08313245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313245",
+  "name": "PAJARITO CANYON ABV TA-18 NR WHITE ROCK, NM",
+  "waterbody": "PAJARITO CANYON ABV TA-18 NR WHITE ROCK, NM",
+  "state": "NM",
+  "latitude": 35.8497471,
+  "longitude": -106.2844716,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313245",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06307990",
+  "key": "06307990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06307990",
+  "name": "Tongue R ab T & Y Div Dam nr Miles City, MT",
+  "waterbody": "Tongue R ab T & Y Div Dam nr Miles City, MT",
+  "state": "MT",
+  "latitude": 46.18750218,
+  "longitude": -105.779996,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tydm8",
+  "slug": "usgs-06307990",
+  "noaaForecastPath": "data/noaa-forecast/TYDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

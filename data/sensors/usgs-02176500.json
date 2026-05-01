@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02176500",
+  "key": "02176500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02176500",
+  "name": "COOSAWHATCHIE RIVER NEAR HAMPTON, SC",
+  "waterbody": "COOSAWHATCHIE RIVER NEAR HAMPTON, SC",
+  "state": "SC",
+  "latitude": 32.8362777,
+  "longitude": -81.1317718,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMPS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosawhatchie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmps1",
+  "slug": "usgs-02176500",
+  "noaaForecastPath": "data/noaa-forecast/HMPS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

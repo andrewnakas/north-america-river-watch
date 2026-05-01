@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03433640",
+  "key": "03433640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03433640",
+  "name": "COPPERAS BRANCH NEAR KINGFIELD, TN",
+  "waterbody": "COPPERAS BRANCH NEAR KINGFIELD, TN",
+  "state": "TN",
+  "latitude": 35.9053426,
+  "longitude": -87.0988948,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03433640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

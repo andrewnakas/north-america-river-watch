@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10349980",
+  "key": "10349980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10349980",
+  "name": "STEAMBOAT CK AT CLEANWATER WAY NR RENO, NV",
+  "waterbody": "STEAMBOAT CK AT CLEANWATER WAY NR RENO, NV",
+  "state": "NV",
+  "latitude": 39.5129672,
+  "longitude": -119.712409,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCWN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Steamboat Ck",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scwn2",
+  "slug": "usgs-10349980",
+  "noaaForecastPath": "data/noaa-forecast/SCWN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

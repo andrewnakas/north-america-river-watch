@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06038500",
+  "key": "06038500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06038500",
+  "name": "Madison River bl Hebgen Lake nr Grayling MT",
+  "waterbody": "Madison River bl Hebgen Lake nr Grayling MT",
+  "state": "MT",
+  "latitude": 44.86639167,
+  "longitude": -111.3387806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Madison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbdm8",
+  "slug": "usgs-06038500",
+  "noaaForecastPath": "data/noaa-forecast/HBDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

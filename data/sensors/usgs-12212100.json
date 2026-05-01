@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12212100",
+  "key": "12212100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12212100",
+  "name": "FISHTRAP CREEK AT FLYNN ROAD AT LYNDEN, WA",
+  "waterbody": "FISHTRAP CREEK AT FLYNN ROAD AT LYNDEN, WA",
+  "state": "WA",
+  "latitude": 48.9265027,
+  "longitude": -122.4962765,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12212100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

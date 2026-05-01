@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07145600",
+  "key": "07145600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07145600",
+  "name": "ARKANSAS R ON HWY 160 AT OXFORD, KS",
+  "waterbody": "ARKANSAS R ON HWY 160 AT OXFORD, KS",
+  "state": "KS",
+  "latitude": 37.2744861,
+  "longitude": -97.1629139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OXFK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oxfk1",
+  "slug": "usgs-07145600",
+  "noaaForecastPath": "data/noaa-forecast/OXFK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

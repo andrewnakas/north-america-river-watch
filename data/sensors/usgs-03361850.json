@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03361850",
+  "key": "03361850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03361850",
+  "name": "BUCK CREEK AT ACTON, IN",
+  "waterbody": "BUCK CREEK AT ACTON, IN",
+  "state": "IN",
+  "latitude": 39.6569811,
+  "longitude": -85.9574616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buck Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acti3",
+  "slug": "usgs-03361850",
+  "noaaForecastPath": "data/noaa-forecast/ACTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

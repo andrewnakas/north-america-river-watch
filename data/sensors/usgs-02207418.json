@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02207418",
+  "key": "02207418",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02207418",
+  "name": "BIG HAYNES CREEK AT JACK TURNER DAM,NR MILSTEAD GA",
+  "waterbody": "BIG HAYNES CREEK AT JACK TURNER DAM,NR MILSTEAD GA",
+  "state": "GA",
+  "latitude": 33.72938889,
+  "longitude": -83.9363056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBHG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Haynes Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbhg1",
+  "slug": "usgs-02207418",
+  "noaaForecastPath": "data/noaa-forecast/MBHG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:362734114124201",
+  "key": "362734114124201",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "362734114124201",
+  "name": "RED ROCK SPRINGS OUTFLOW NR LAKE MEAD, NV",
+  "waterbody": "RED ROCK SPRINGS OUTFLOW NR LAKE MEAD, NV",
+  "state": "NV",
+  "latitude": 36.459489,
+  "longitude": -114.211781,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-362734114124201",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

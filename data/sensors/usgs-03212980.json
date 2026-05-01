@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03212980",
+  "key": "03212980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03212980",
+  "name": "DRY FORK AT BEARTOWN, WV",
+  "waterbody": "DRY FORK AT BEARTOWN, WV",
+  "state": "WV",
+  "latitude": 37.39538968,
+  "longitude": -81.8026142,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRSW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Fork (Tug Fork)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brsw2",
+  "slug": "usgs-03212980",
+  "noaaForecastPath": "data/noaa-forecast/BRSW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

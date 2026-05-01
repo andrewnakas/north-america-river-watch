@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15302320",
+  "key": "15302320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15302320",
+  "name": "STUYAHOK R NR NEW STUYAHOK AK",
+  "waterbody": "STUYAHOK R NR NEW STUYAHOK AK",
+  "state": "AK",
+  "latitude": 59.80901149,
+  "longitude": -156.6669229,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STYA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stuyahok River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stya2",
+  "slug": "usgs-15302320",
+  "noaaForecastPath": "data/noaa-forecast/STYA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

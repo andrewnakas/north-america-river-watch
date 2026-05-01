@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01580700",
+  "key": "01580700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01580700",
+  "name": "SWAN CREEK AT SWAN CREEK, MD",
+  "waterbody": "SWAN CREEK AT SWAN CREEK, MD",
+  "state": "MD",
+  "latitude": 39.52263889,
+  "longitude": -76.14227778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWNM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swan Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swnm2",
+  "slug": "usgs-01580700",
+  "noaaForecastPath": "data/noaa-forecast/SWNM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

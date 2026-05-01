@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07195400",
+  "key": "07195400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07195400",
+  "name": "Illinois River at Hwy. 16 near Siloam Springs AR",
+  "waterbody": "Illinois River at Hwy. 16 near Siloam Springs AR",
+  "state": "AR",
+  "latitude": 36.1447222,
+  "longitude": -94.4947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLSA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River (AR OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slsa4",
+  "slug": "usgs-07195400",
+  "noaaForecastPath": "data/noaa-forecast/SLSA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02153780",
+  "key": "02153780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02153780",
+  "name": "CLARKS FORK CREEK NR SMYRNA, SC",
+  "waterbody": "CLARKS FORK CREEK NR SMYRNA, SC",
+  "state": "SC",
+  "latitude": 35.0792994,
+  "longitude": -81.3878615,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02153780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

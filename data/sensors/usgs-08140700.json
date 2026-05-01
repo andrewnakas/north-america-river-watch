@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08140700",
+  "key": "08140700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08140700",
+  "name": "Pecan Bayou nr Cross Cut, TX",
+  "waterbody": "Pecan Bayou nr Cross Cut, TX",
+  "state": "TX",
+  "latitude": 31.9726444,
+  "longitude": -99.1303376,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CUTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecan Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cutt2",
+  "slug": "usgs-08140700",
+  "noaaForecastPath": "data/noaa-forecast/CUTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08152000",
+  "key": "08152000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08152000",
+  "name": "Sandy Ck nr Kingsland, TX",
+  "waterbody": "Sandy Ck nr Kingsland, TX",
+  "state": "TX",
+  "latitude": 30.5576991,
+  "longitude": -98.472271,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knlt2",
+  "slug": "usgs-08152000",
+  "noaaForecastPath": "data/noaa-forecast/KNLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

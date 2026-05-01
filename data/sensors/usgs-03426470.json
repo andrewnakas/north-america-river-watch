@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03426470",
+  "key": "03426470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03426470",
+  "name": "DRY CREEK NEAR EDENWOLD, TN",
+  "waterbody": "DRY CREEK NEAR EDENWOLD, TN",
+  "state": "TN",
+  "latitude": 36.28448937,
+  "longitude": -86.706331,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nsrt1",
+  "slug": "usgs-03426470",
+  "noaaForecastPath": "data/noaa-forecast/NSRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

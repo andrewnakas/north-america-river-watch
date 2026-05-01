@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09127450",
+  "key": "09127450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09127450",
+  "name": "DYER CREEK ABOVE DYER FORK DITCH NEAR MAHER, CO",
+  "waterbody": "DYER CREEK ABOVE DYER FORK DITCH NEAR MAHER, CO",
+  "state": "CO",
+  "latitude": 38.569306,
+  "longitude": -107.489583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09127450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

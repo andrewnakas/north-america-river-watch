@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04087234",
+  "key": "04087234",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087234",
+  "name": "ROOT RIVER AT 60TH ST NEAR CALEDONIA, WI",
+  "waterbody": "ROOT RIVER AT 60TH ST NEAR CALEDONIA, WI",
+  "state": "WI",
+  "latitude": 42.85555556,
+  "longitude": -87.9907222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FAKW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Root River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fakw3",
+  "slug": "usgs-04087234",
+  "noaaForecastPath": "data/noaa-forecast/FAKW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

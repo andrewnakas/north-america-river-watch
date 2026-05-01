@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11261500",
+  "key": "11261500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11261500",
+  "name": "SAN JOAQUIN R A FREMONT FORD BRIDGE CA",
+  "waterbody": "SAN JOAQUIN R A FREMONT FORD BRIDGE CA",
+  "state": "CA",
+  "latitude": 37.3099115,
+  "longitude": -120.9309993,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11261500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

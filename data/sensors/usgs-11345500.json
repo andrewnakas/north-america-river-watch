@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11345500",
+  "key": "11345500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11345500",
+  "name": "SF PIT R NR LIKELY CA",
+  "waterbody": "SF PIT R NR LIKELY CA",
+  "state": "CA",
+  "latitude": 41.2306851,
+  "longitude": -120.437154,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLYC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fk Pit River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plyc1",
+  "slug": "usgs-11345500",
+  "noaaForecastPath": "data/noaa-forecast/PLYC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

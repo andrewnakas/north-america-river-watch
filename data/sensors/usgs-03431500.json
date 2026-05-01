@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03431500",
+  "key": "03431500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431500",
+  "name": "CUMBERLAND RIVER AT NASHVILLE, TN",
+  "waterbody": "CUMBERLAND RIVER AT NASHVILLE, TN",
+  "state": "TN",
+  "latitude": 36.1614984,
+  "longitude": -86.7726764,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAST1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nast1",
+  "slug": "usgs-03431500",
+  "noaaForecastPath": "data/noaa-forecast/NAST1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

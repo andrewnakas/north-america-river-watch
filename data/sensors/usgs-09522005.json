@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522005",
+  "key": "09522005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522005",
+  "name": "COLORADO RIVER BELOW COOPER WASTEWAY NEAR YUMA, AZ",
+  "waterbody": "COLORADO RIVER BELOW COOPER WASTEWAY NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.7122222,
+  "longitude": -114.7222222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07077500",
+  "key": "07077500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07077500",
+  "name": "Cache River at Patterson, AR",
+  "waterbody": "Cache River at Patterson, AR",
+  "state": "AR",
+  "latitude": 35.2697222,
+  "longitude": -91.2363889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTTA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cache River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptta4",
+  "slug": "usgs-07077500",
+  "noaaForecastPath": "data/noaa-forecast/PTTA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

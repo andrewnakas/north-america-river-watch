@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07171000",
+  "key": "07171000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07171000",
+  "name": "Verdigris River near Lenapah, OK",
+  "waterbody": "Verdigris River near Lenapah, OK",
+  "state": "OK",
+  "latitude": 36.85119615,
+  "longitude": -95.5860882,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEPO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verdigris River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lepo2",
+  "slug": "usgs-07171000",
+  "noaaForecastPath": "data/noaa-forecast/LEPO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

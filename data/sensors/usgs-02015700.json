@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02015700",
+  "key": "02015700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02015700",
+  "name": "BULLPASTURE RIVER AT WILLIAMSVILLE, VA",
+  "waterbody": "BULLPASTURE RIVER AT WILLIAMSVILLE, VA",
+  "state": "VA",
+  "latitude": 38.19540308,
+  "longitude": -79.57032338,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BPRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bullpasture River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bprv2",
+  "slug": "usgs-02015700",
+  "noaaForecastPath": "data/noaa-forecast/BPRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

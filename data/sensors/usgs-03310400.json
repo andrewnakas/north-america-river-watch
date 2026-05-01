@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03310400",
+  "key": "03310400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03310400",
+  "name": "BACON CREEK NEAR PRICEVILLE, KY",
+  "waterbody": "BACON CREEK NEAR PRICEVILLE, KY",
+  "state": "KY",
+  "latitude": 37.349875,
+  "longitude": -85.96587222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bacon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcvk2",
+  "slug": "usgs-03310400",
+  "noaaForecastPath": "data/noaa-forecast/PCVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

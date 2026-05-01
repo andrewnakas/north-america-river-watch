@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10293048",
+  "key": "10293048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10293048",
+  "name": "SWEETWATER CK AT HWY 338 ABV MTH NR BRIDGEPORT, CA",
+  "waterbody": "SWEETWATER CK AT HWY 338 ABV MTH NR BRIDGEPORT, CA",
+  "state": "NV",
+  "latitude": 38.441583,
+  "longitude": -119.1309831,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek (NV)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swcn2",
+  "slug": "usgs-10293048",
+  "noaaForecastPath": "data/noaa-forecast/SWCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

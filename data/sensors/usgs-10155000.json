@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10155000",
+  "key": "10155000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10155000",
+  "name": "PROVO RIVER NEAR HAILSTONE, UT",
+  "waterbody": "PROVO RIVER NEAR HAILSTONE, UT",
+  "state": "UT",
+  "latitude": 40.6051111,
+  "longitude": -111.3145278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10155000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11447890",
+  "key": "11447890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11447890",
+  "name": "SACRAMENTO R AB DELTA CROSS CHANNEL CA",
+  "waterbody": "SACRAMENTO R AB DELTA CROSS CHANNEL CA",
+  "state": "CA",
+  "latitude": 38.25769218,
+  "longitude": -121.5182865,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11447890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

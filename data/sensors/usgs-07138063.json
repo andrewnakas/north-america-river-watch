@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07138063",
+  "key": "07138063",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07138063",
+  "name": "SOUTHSIDE DITCH NR LAKIN, KS",
+  "waterbody": "SOUTHSIDE DITCH NR LAKIN, KS",
+  "state": "KS",
+  "latitude": 37.8722397,
+  "longitude": -101.3587818,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07138063",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

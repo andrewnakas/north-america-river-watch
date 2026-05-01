@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03436700",
+  "key": "03436700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03436700",
+  "name": "YELLOW CREEK NEAR SHILOH, TN",
+  "waterbody": "YELLOW CREEK NEAR SHILOH, TN",
+  "state": "TN",
+  "latitude": 36.3486647,
+  "longitude": -87.5389024,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03436700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

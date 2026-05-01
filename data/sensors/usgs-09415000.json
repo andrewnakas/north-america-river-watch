@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09415000",
+  "key": "09415000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415000",
+  "name": "VIRGIN RV AT LITTLEFIELD, AZ",
+  "waterbody": "VIRGIN RV AT LITTLEFIELD, AZ",
+  "state": "AZ",
+  "latitude": 36.8916437,
+  "longitude": -113.9244098,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLTA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Virgin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlta3",
+  "slug": "usgs-09415000",
+  "noaaForecastPath": "data/noaa-forecast/VLTA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

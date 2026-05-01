@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11044350",
+  "key": "11044350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11044350",
+  "name": "SANDIA C NR FALLBROOK CA",
+  "waterbody": "SANDIA C NR FALLBROOK CA",
+  "state": "CA",
+  "latitude": 33.42447545,
+  "longitude": -117.2491926,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11044350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

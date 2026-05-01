@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14353500",
+  "key": "14353500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14353500",
+  "name": "EAST FORK ASHLAND CREEK NEAR ASHLAND, OR",
+  "waterbody": "EAST FORK ASHLAND CREEK NEAR ASHLAND, OR",
+  "state": "OR",
+  "latitude": 42.1526323,
+  "longitude": -122.7094764,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14353500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

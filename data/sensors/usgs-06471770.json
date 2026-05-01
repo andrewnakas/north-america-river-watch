@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06471770",
+  "key": "06471770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06471770",
+  "name": "MOCCASIN CREEK AT ABERDEEN, SD",
+  "waterbody": "MOCCASIN CREEK AT ABERDEEN, SD",
+  "state": "SD",
+  "latitude": 45.4705582,
+  "longitude": -98.4539833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moccasin Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amcs2",
+  "slug": "usgs-06471770",
+  "noaaForecastPath": "data/noaa-forecast/AMCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

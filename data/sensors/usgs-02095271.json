@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02095271",
+  "key": "02095271",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02095271",
+  "name": "NORTH BUFFALO CREEK AT CHURCH ST AT GREENSBORO, NC",
+  "waterbody": "NORTH BUFFALO CREEK AT CHURCH ST AT GREENSBORO, NC",
+  "state": "NC",
+  "latitude": 36.09777778,
+  "longitude": -79.7825,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBUN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Buffalo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbun7",
+  "slug": "usgs-02095271",
+  "noaaForecastPath": "data/noaa-forecast/NBUN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

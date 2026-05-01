@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06090500",
+  "key": "06090500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06090500",
+  "name": "Belt Creek near Monarch MT",
+  "waterbody": "Belt Creek near Monarch MT",
+  "state": "MT",
+  "latitude": 47.20859444,
+  "longitude": -110.93174722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Belt Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btcm8",
+  "slug": "usgs-06090500",
+  "noaaForecastPath": "data/noaa-forecast/BTCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

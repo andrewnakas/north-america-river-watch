@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08171290",
+  "key": "08171290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08171290",
+  "name": "Blanco Rv at Halifax Rch nr Kyle, TX",
+  "waterbody": "Blanco Rv at Halifax Rch nr Kyle, TX",
+  "state": "TX",
+  "latitude": 30.00555556,
+  "longitude": -97.9525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HFXT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanco River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hfxt2",
+  "slug": "usgs-08171290",
+  "noaaForecastPath": "data/noaa-forecast/HFXT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

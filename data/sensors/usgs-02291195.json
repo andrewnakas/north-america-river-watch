@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02291195",
+  "key": "02291195",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02291195",
+  "name": "Tamiami Canal at U.S. 41 NR Eagle Lakes, FL",
+  "waterbody": "Tamiami Canal at U.S. 41 NR Eagle Lakes, FL",
+  "state": "FL",
+  "latitude": 26.0039361,
+  "longitude": -81.6064667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02291195",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

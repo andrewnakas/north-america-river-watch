@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07378100",
+  "key": "07378100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07378100",
+  "name": "Beaver Bayou at Wax Rd near Baton Rouge, LA",
+  "waterbody": "Beaver Bayou at Wax Rd near Baton Rouge, LA",
+  "state": "LA",
+  "latitude": 30.5429659,
+  "longitude": -91.020659,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07378100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06139500",
+  "key": "06139500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06139500",
+  "name": "Big Sandy Creek near Havre MT",
+  "waterbody": "Big Sandy Creek near Havre MT",
+  "state": "MT",
+  "latitude": 48.52671389,
+  "longitude": -109.8415778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSMM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy Creek (MT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsmm8",
+  "slug": "usgs-06139500",
+  "noaaForecastPath": "data/noaa-forecast/BSMM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

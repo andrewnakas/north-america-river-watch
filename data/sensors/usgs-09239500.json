@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09239500",
+  "key": "09239500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09239500",
+  "name": "YAMPA RIVER AT STEAMBOAT SPRINGS, CO",
+  "waterbody": "YAMPA RIVER AT STEAMBOAT SPRINGS, CO",
+  "state": "CO",
+  "latitude": 40.48298611,
+  "longitude": -106.83243056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yampa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stmc2",
+  "slug": "usgs-09239500",
+  "noaaForecastPath": "data/noaa-forecast/STMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

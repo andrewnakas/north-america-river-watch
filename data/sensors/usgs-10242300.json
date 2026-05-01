@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10242300",
+  "key": "10242300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10242300",
+  "name": "PINTO CREEK NEAR NEWCASTLE, UTAH",
+  "waterbody": "PINTO CREEK NEAR NEWCASTLE, UTAH",
+  "state": "UT",
+  "latitude": 37.625556,
+  "longitude": -113.515,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10242300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

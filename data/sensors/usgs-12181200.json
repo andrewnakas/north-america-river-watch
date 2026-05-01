@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12181200",
+  "key": "12181200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12181200",
+  "name": "SALIX CREEK AT S CASCADE GL NEAR MARBLEMOUNT, WA",
+  "waterbody": "SALIX CREEK AT S CASCADE GL NEAR MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.37095717,
+  "longitude": -121.077609,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12181200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

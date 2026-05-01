@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01447800",
+  "key": "01447800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01447800",
+  "name": "Lehigh R bl Francis E Walter Res nr White Haven PA",
+  "waterbody": "Lehigh R bl Francis E Walter Res nr White Haven PA",
+  "state": "PA",
+  "latitude": 41.10472447,
+  "longitude": -75.73212288,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lehigh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whtp1",
+  "slug": "usgs-01447800",
+  "noaaForecastPath": "data/noaa-forecast/WHTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

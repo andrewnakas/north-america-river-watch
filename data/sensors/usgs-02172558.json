@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02172558",
+  "key": "02172558",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172558",
+  "name": "SOUTH FORK EDISTO RIVER ABOVE SPRINGFIELD, SC",
+  "waterbody": "SOUTH FORK EDISTO RIVER ABOVE SPRINGFIELD, SC",
+  "state": "SC",
+  "latitude": 33.52027778,
+  "longitude": -81.4102778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAFS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Edisto River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/safs1",
+  "slug": "usgs-02172558",
+  "noaaForecastPath": "data/noaa-forecast/SAFS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

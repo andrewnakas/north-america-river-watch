@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05483318",
+  "key": "05483318",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05483318",
+  "name": "Brushy Fork Creek near Templeton, IA",
+  "waterbody": "Brushy Fork Creek near Templeton, IA",
+  "state": "IA",
+  "latitude": 41.94581909,
+  "longitude": -94.8794306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TPTI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Fork Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tpti4",
+  "slug": "usgs-05483318",
+  "noaaForecastPath": "data/noaa-forecast/TPTI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

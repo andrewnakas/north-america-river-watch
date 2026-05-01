@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03291585",
+  "key": "03291585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03291585",
+  "name": "KENTUCKY RIVER AT LOCK 1 NEAR CARROLLTON, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 1 NEAR CARROLLTON, KY",
+  "state": "KY",
+  "latitude": 38.65870475,
+  "longitude": -85.144789,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRRK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crrk2",
+  "slug": "usgs-03291585",
+  "noaaForecastPath": "data/noaa-forecast/CRRK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05403043",
+  "key": "05403043",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05403043",
+  "name": "LITTLE YELLOW RIVER NEAR NECEDAH, WI",
+  "waterbody": "LITTLE YELLOW RIVER NEAR NECEDAH, WI",
+  "state": "WI",
+  "latitude": 44.0574652,
+  "longitude": -90.1765196,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05403043",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

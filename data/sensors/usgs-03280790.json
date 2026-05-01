@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03280790",
+  "key": "03280790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03280790",
+  "name": "TRACE BR AT TRACE BR CAMPGROUND AT CONFLUENCE, KY",
+  "waterbody": "TRACE BR AT TRACE BR CAMPGROUND AT CONFLUENCE, KY",
+  "state": "KY",
+  "latitude": 37.2719861,
+  "longitude": -83.3698472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03280790",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

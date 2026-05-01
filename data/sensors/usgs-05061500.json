@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05061500",
+  "key": "05061500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05061500",
+  "name": "SOUTH BRANCH BUFFALO RIVER AT SABIN, MN",
+  "waterbody": "SOUTH BRANCH BUFFALO RIVER AT SABIN, MN",
+  "state": "MN",
+  "latitude": 46.77566,
+  "longitude": -96.627747,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SABM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Buffalo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sabm5",
+  "slug": "usgs-05061500",
+  "noaaForecastPath": "data/noaa-forecast/SABM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

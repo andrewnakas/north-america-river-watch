@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08012850",
+  "key": "08012850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08012850",
+  "name": "Cypress Bayou north of Sieper, LA",
+  "waterbody": "Cypress Bayou north of Sieper, LA",
+  "state": "LA",
+  "latitude": 31.24119444,
+  "longitude": -92.8284722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08012850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

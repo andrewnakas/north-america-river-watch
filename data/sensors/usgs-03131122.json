@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03131122",
+  "key": "03131122",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03131122",
+  "name": "Rocky Fork at Lucas OH",
+  "waterbody": "Rocky Fork at Lucas OH",
+  "state": "OH",
+  "latitude": 40.7036111,
+  "longitude": -82.4144444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKFO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky Fork (Mohican River)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkfo1",
+  "slug": "usgs-03131122",
+  "noaaForecastPath": "data/noaa-forecast/RKFO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

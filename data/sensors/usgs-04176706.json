@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04176706",
+  "key": "04176706",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04176706",
+  "name": "Tenmile Creek at Mitchaw OH",
+  "waterbody": "Tenmile Creek at Mitchaw OH",
+  "state": "OH",
+  "latitude": 41.687778,
+  "longitude": -83.763056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcmo1",
+  "slug": "usgs-04176706",
+  "noaaForecastPath": "data/noaa-forecast/TCMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

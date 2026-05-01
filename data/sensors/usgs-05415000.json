@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05415000",
+  "key": "05415000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05415000",
+  "name": "GALENA RIVER AT BUNCOMBE, WI",
+  "waterbody": "GALENA RIVER AT BUNCOMBE, WI",
+  "state": "WI",
+  "latitude": 42.5136142,
+  "longitude": -90.3779052,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUNW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Galena River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bunw3",
+  "slug": "usgs-05415000",
+  "noaaForecastPath": "data/noaa-forecast/BUNW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

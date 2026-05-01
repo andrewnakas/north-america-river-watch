@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03436000",
+  "key": "03436000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03436000",
+  "name": "SULPHUR FORK RED RIVER NEAR ADAMS, TN",
+  "waterbody": "SULPHUR FORK RED RIVER NEAR ADAMS, TN",
+  "state": "TN",
+  "latitude": 36.5153237,
+  "longitude": -87.0588903,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03436000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

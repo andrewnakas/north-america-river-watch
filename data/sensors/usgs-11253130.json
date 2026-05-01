@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11253130",
+  "key": "11253130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11253130",
+  "name": "SAN JOAQUIN R A N SAN MATEO RD NR MENDOTA CA",
+  "waterbody": "SAN JOAQUIN R A N SAN MATEO RD NR MENDOTA CA",
+  "state": "CA",
+  "latitude": 36.77888889,
+  "longitude": -120.3066667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11253130",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

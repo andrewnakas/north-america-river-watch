@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09314700",
+  "key": "09314700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09314700",
+  "name": "GREEN RIVER BL SWASEYS RAPID NEAR GREEN RIVER, UT",
+  "waterbody": "GREEN RIVER BL SWASEYS RAPID NEAR GREEN RIVER, UT",
+  "state": "UT",
+  "latitude": 39.11428889,
+  "longitude": -110.10905,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09314700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

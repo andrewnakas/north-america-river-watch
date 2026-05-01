@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12135000",
+  "key": "12135000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12135000",
+  "name": "WALLACE RIVER AT GOLD BAR, WA",
+  "waterbody": "WALLACE RIVER AT GOLD BAR, WA",
+  "state": "WA",
+  "latitude": 47.8639672,
+  "longitude": -121.682596,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12135000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

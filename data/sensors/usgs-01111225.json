@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01111225",
+  "key": "01111225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01111225",
+  "name": "EMERSON BROOK NEAR UXBRIDGE, MA",
+  "waterbody": "EMERSON BROOK NEAR UXBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.04454195,
+  "longitude": -71.6220098,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01111225",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03094000",
+  "key": "03094000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03094000",
+  "name": "Mahoning River at Leavittsburg OH",
+  "waterbody": "Mahoning River at Leavittsburg OH",
+  "state": "OH",
+  "latitude": 41.23922335,
+  "longitude": -80.880642,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mahoning River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/leao1",
+  "slug": "usgs-03094000",
+  "noaaForecastPath": "data/noaa-forecast/LEAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

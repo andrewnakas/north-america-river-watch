@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16757000",
+  "key": "16757000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16757000",
+  "name": "Waikoloa Stream nr Kamuela, HI",
+  "waterbody": "Waikoloa Stream nr Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.05178961,
+  "longitude": -155.66418577,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16757000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

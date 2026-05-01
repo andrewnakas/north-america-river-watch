@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06175100",
+  "key": "06175100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06175100",
+  "name": "Missouri R at W Frazer Pump Plant nr Frazer MT",
+  "waterbody": "Missouri R at W Frazer Pump Plant nr Frazer MT",
+  "state": "MT",
+  "latitude": 48.03057289,
+  "longitude": -106.1227992,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06175100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02085220",
+  "key": "02085220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02085220",
+  "name": "LITTLE RIVER NEAR ORANGE FACTORY, NC",
+  "waterbody": "LITTLE RIVER NEAR ORANGE FACTORY, NC",
+  "state": "NC",
+  "latitude": 36.1390316,
+  "longitude": -78.90639669,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02085220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06622700",
+  "key": "06622700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06622700",
+  "name": "NORTH BRUSH CREEK NEAR SARATOGA, WY",
+  "waterbody": "NORTH BRUSH CREEK NEAR SARATOGA, WY",
+  "state": "WY",
+  "latitude": 41.37022978,
+  "longitude": -106.520632,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06622700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

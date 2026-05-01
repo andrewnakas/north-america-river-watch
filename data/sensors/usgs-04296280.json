@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04296280",
+  "key": "04296280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04296280",
+  "name": "BARTON RIVER NEAR COVENTRY, VT",
+  "waterbody": "BARTON RIVER NEAR COVENTRY, VT",
+  "state": "VT",
+  "latitude": 44.87138889,
+  "longitude": -72.2005556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COVV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/covv1",
+  "slug": "usgs-04296280",
+  "noaaForecastPath": "data/noaa-forecast/COVV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

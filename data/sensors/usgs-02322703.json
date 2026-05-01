@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02322703",
+  "key": "02322703",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02322703",
+  "name": "SANTA FE RIVER AB ICHETUCKNEE RIVER NR HILDRETH,FL",
+  "waterbody": "SANTA FE RIVER AB ICHETUCKNEE RIVER NR HILDRETH,FL",
+  "state": "FL",
+  "latitude": 29.9325,
+  "longitude": -82.7991667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TREF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Fe River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tref1",
+  "slug": "usgs-02322703",
+  "noaaForecastPath": "data/noaa-forecast/TREF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

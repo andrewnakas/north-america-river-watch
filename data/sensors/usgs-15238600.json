@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15238600",
+  "key": "15238600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15238600",
+  "name": "SPRUCE C NR SEWARD AK",
+  "waterbody": "SPRUCE C NR SEWARD AK",
+  "state": "AK",
+  "latitude": 60.0688812,
+  "longitude": -149.4543636,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15238600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

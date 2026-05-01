@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02419790",
+  "key": "02419790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02419790",
+  "name": "LINE CREEK ON MACON COUNTY RD, NR CECIL, AL",
+  "waterbody": "LINE CREEK ON MACON COUNTY RD, NR CECIL, AL",
+  "state": "AL",
+  "latitude": 32.30277778,
+  "longitude": -85.9544444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02419790",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

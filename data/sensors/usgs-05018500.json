@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05018500",
+  "key": "05018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05018500",
+  "name": "St. Mary Canal at St. Mary Crossing near Babb MT",
+  "waterbody": "St. Mary Canal at St. Mary Crossing near Babb MT",
+  "state": "MT",
+  "latitude": 48.94696667,
+  "longitude": -113.3753306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saint Mary Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sccm8",
+  "slug": "usgs-05018500",
+  "noaaForecastPath": "data/noaa-forecast/SCCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

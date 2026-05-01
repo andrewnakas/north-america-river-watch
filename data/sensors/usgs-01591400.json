@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01591400",
+  "key": "01591400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01591400",
+  "name": "CATTAIL CREEK NEAR GLENWOOD, MD",
+  "waterbody": "CATTAIL CREEK NEAR GLENWOOD, MD",
+  "state": "MD",
+  "latitude": 39.25597222,
+  "longitude": -77.05105556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLNM2",
+  "noaaForecast": true,
+  "noaaWaterbody": " CATTAIL CREEK NEAR GLENWOOD, MD ",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glnm2",
+  "slug": "usgs-01591400",
+  "noaaForecastPath": "data/noaa-forecast/GLNM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

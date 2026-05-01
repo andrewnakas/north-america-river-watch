@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06707525",
+  "key": "06707525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06707525",
+  "name": "SOUTH PLATTE RIVER ABV STRONTIA SPGS RESERVOIR, CO",
+  "waterbody": "SOUTH PLATTE RIVER ABV STRONTIA SPGS RESERVOIR, CO",
+  "state": "CO",
+  "latitude": 39.41641667,
+  "longitude": -105.1510556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06707525",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336490",
+  "key": "02336490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336490",
+  "name": "CHATTAHOOCHEE RIVER AT GA 280, NEAR ATLANTA, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER AT GA 280, NEAR ATLANTA, GA",
+  "state": "GA",
+  "latitude": 33.81741667,
+  "longitude": -84.4803333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chag1",
+  "slug": "usgs-02336490",
+  "noaaForecastPath": "data/noaa-forecast/CHAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251355080312800",
+  "key": "251355080312800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251355080312800",
+  "name": "JOE BAY 2E, NEAR KEY LARGO, FL",
+  "waterbody": "JOE BAY 2E, NEAR KEY LARGO, FL",
+  "state": "FL",
+  "latitude": 25.232625,
+  "longitude": -80.5248667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251355080312800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

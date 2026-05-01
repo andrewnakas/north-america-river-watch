@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02198840",
+  "key": "02198840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02198840",
+  "name": "SAVANNAH RIVER I-95 NEAR PORT WENTWORTH, GA",
+  "waterbody": "SAVANNAH RIVER I-95 NEAR PORT WENTWORTH, GA",
+  "state": "GA",
+  "latitude": 32.2354722,
+  "longitude": -81.1510833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02198840",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

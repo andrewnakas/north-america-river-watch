@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214645022",
+  "key": "0214645022",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214645022",
+  "name": "BRIAR CR ABOVE COLONY RD AT CHARLOTTE, NC",
+  "waterbody": "BRIAR CR ABOVE COLONY RD AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.17527778,
+  "longitude": -80.8308333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Briar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcln7",
+  "slug": "usgs-0214645022",
+  "noaaForecastPath": "data/noaa-forecast/BCLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

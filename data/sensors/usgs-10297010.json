@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10297010",
+  "key": "10297010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10297010",
+  "name": "TOPAZ CANAL BLW TOPAZ LAKE NR TOPAZ, CA",
+  "waterbody": "TOPAZ CANAL BLW TOPAZ LAKE NR TOPAZ, CA",
+  "state": "NV",
+  "latitude": 38.69555556,
+  "longitude": -119.5080556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOPN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Walker River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/topn2",
+  "slug": "usgs-10297010",
+  "noaaForecastPath": "data/noaa-forecast/TOPN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

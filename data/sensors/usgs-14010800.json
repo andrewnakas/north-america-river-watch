@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14010800",
+  "key": "14010800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14010800",
+  "name": "NORTH FRK WALLA WALLA RIVER NR MILTON FREEWATER,OR",
+  "waterbody": "NORTH FRK WALLA WALLA RIVER NR MILTON FREEWATER,OR",
+  "state": "OR",
+  "latitude": 45.8845797,
+  "longitude": -118.2027309,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFWO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "NF Walla Walla",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfwo3",
+  "slug": "usgs-14010800",
+  "noaaForecastPath": "data/noaa-forecast/NFWO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05305000",
+  "key": "05305000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05305000",
+  "name": "CHIPPEWA RIVER (TW) NEAR WATSON, MN",
+  "waterbody": "CHIPPEWA RIVER (TW) NEAR WATSON, MN",
+  "state": "MN",
+  "latitude": 45.0211099,
+  "longitude": -95.7917282,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTSM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River (MN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtsm5",
+  "slug": "usgs-05305000",
+  "noaaForecastPath": "data/noaa-forecast/WTSM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

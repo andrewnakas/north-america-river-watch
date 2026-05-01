@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02133624",
+  "key": "02133624",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02133624",
+  "name": "LUMBER RIVER NEAR MAXTON, NC",
+  "waterbody": "LUMBER RIVER NEAR MAXTON, NC",
+  "state": "NC",
+  "latitude": 34.77277778,
+  "longitude": -79.3319444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAXN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lumber River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/maxn7",
+  "slug": "usgs-02133624",
+  "noaaForecastPath": "data/noaa-forecast/MAXN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

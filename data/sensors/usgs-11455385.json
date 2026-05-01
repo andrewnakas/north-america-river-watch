@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455385",
+  "key": "11455385",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455385",
+  "name": "CACHE SLOUGH AB RYER ISLAND FERRY NR RIO VISTA CA",
+  "waterbody": "CACHE SLOUGH AB RYER ISLAND FERRY NR RIO VISTA CA",
+  "state": "CA",
+  "latitude": 38.19395556,
+  "longitude": -121.6580028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455385",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

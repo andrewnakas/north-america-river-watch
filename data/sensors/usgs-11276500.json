@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11276500",
+  "key": "11276500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11276500",
+  "name": "TUOLUMNE R NR HETCH HETCHY CA",
+  "waterbody": "TUOLUMNE R NR HETCH HETCHY CA",
+  "state": "CA",
+  "latitude": 37.93740877,
+  "longitude": -119.7982,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11276500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

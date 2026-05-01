@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09355000",
+  "key": "09355000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09355000",
+  "name": "SPRING CREEK AT LA BOCA, CO",
+  "waterbody": "SPRING CREEK AT LA BOCA, CO",
+  "state": "CO",
+  "latitude": 37.01527778,
+  "longitude": -107.5953333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09355000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0210433959",
+  "key": "0210433959",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0210433959",
+  "name": "BEAVER CREEK AT GRUBER ROAD AT FORT BRAGG, NC",
+  "waterbody": "BEAVER CREEK AT GRUBER ROAD AT FORT BRAGG, NC",
+  "state": "NC",
+  "latitude": 35.12713056,
+  "longitude": -78.9748306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCGN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcgn7",
+  "slug": "usgs-0210433959",
+  "noaaForecastPath": "data/noaa-forecast/BCGN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

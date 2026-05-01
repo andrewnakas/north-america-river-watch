@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12404500",
+  "key": "12404500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12404500",
+  "name": "KETTLE RIVER NEAR LAURIER, WA",
+  "waterbody": "KETTLE RIVER NEAR LAURIER, WA",
+  "state": "WA",
+  "latitude": 48.9842824,
+  "longitude": -118.216401,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAUW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kettle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lauw1",
+  "slug": "usgs-12404500",
+  "noaaForecastPath": "data/noaa-forecast/LAUW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

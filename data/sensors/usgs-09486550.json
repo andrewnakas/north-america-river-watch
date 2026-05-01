@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09486550",
+  "key": "09486550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486550",
+  "name": "POZO HONDO WASH NEAR SASABE, AZ",
+  "waterbody": "POZO HONDO WASH NEAR SASABE, AZ",
+  "state": "AZ",
+  "latitude": 31.66025,
+  "longitude": -111.601306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09486550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

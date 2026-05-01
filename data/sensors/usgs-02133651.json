@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02133651",
+  "key": "02133651",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02133651",
+  "name": "LUMBER RIVER AT STATE HIGHWAY 710 NR PEMBROKE, NC",
+  "waterbody": "LUMBER RIVER AT STATE HIGHWAY 710 NR PEMBROKE, NC",
+  "state": "NC",
+  "latitude": 34.68016246,
+  "longitude": -79.2355941,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PMBN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lumber River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pmbn7",
+  "slug": "usgs-02133651",
+  "noaaForecastPath": "data/noaa-forecast/PMBN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

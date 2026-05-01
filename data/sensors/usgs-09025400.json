@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09025400",
+  "key": "09025400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09025400",
+  "name": "ELK CREEK NEAR FRASER, CO.",
+  "waterbody": "ELK CREEK NEAR FRASER, CO.",
+  "state": "CO",
+  "latitude": 39.9191534,
+  "longitude": -105.8258429,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09025400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312762",
+  "key": "02312762",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312762",
+  "name": "WITHLACOOCHEE RIVER NEAR INVERNESS, FL",
+  "waterbody": "WITHLACOOCHEE RIVER NEAR INVERNESS, FL",
+  "state": "FL",
+  "latitude": 28.91220435,
+  "longitude": -82.2800934,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WIVF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wivf1",
+  "slug": "usgs-02312762",
+  "noaaForecastPath": "data/noaa-forecast/WIVF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

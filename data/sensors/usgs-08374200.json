@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08374200",
+  "key": "08374200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08374200",
+  "name": "Rio Grande bl Rio Conchos nr Presidio, TX",
+  "waterbody": "Rio Grande bl Rio Conchos nr Presidio, TX",
+  "state": "TX",
+  "latitude": 29.51962973,
+  "longitude": -104.2865896,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande 5 miles SE of Presidio",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prdt2",
+  "slug": "usgs-08374200",
+  "noaaForecastPath": "data/noaa-forecast/PRDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

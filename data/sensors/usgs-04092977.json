@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04092977",
+  "key": "04092977",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04092977",
+  "name": "TURKEY CREEK AT 61ST AV AT MERRILLVILLE, IN",
+  "waterbody": "TURKEY CREEK AT 61ST AV AT MERRILLVILLE, IN",
+  "state": "IN",
+  "latitude": 41.50744444,
+  "longitude": -87.32375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtci3",
+  "slug": "usgs-04092977",
+  "noaaForecastPath": "data/noaa-forecast/MTCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

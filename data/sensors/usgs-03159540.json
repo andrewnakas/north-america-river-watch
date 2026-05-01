@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03159540",
+  "key": "03159540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03159540",
+  "name": "Shade River near Chester OH",
+  "waterbody": "Shade River near Chester OH",
+  "state": "OH",
+  "latitude": 39.06368935,
+  "longitude": -81.8818024,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRCO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shade River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srco1",
+  "slug": "usgs-03159540",
+  "noaaForecastPath": "data/noaa-forecast/SRCO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

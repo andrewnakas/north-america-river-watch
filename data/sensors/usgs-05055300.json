@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05055300",
+  "key": "05055300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05055300",
+  "name": "SHEYENNE R AB DEVILS LK STATE OUTLET NR FLORA, ND",
+  "waterbody": "SHEYENNE R AB DEVILS LK STATE OUTLET NR FLORA, ND",
+  "state": "ND",
+  "latitude": 47.90777778,
+  "longitude": -99.4155556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flrn8",
+  "slug": "usgs-05055300",
+  "noaaForecastPath": "data/noaa-forecast/FLRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

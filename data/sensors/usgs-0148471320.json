@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0148471320",
+  "key": "0148471320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0148471320",
+  "name": "BIRCH BRANCH AT SHOWELL, MD",
+  "waterbody": "BIRCH BRANCH AT SHOWELL, MD",
+  "state": "MD",
+  "latitude": 38.40933333,
+  "longitude": -75.21238889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBSM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Birch Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbsm2",
+  "slug": "usgs-0148471320",
+  "noaaForecastPath": "data/noaa-forecast/BBSM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

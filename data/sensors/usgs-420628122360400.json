@@ -1,0 +1,19 @@
+{
+  "id": "usgs:420628122360400",
+  "key": "420628122360400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "420628122360400",
+  "name": "WALL CREEK NEAR ASHLAND, OR",
+  "waterbody": "WALL CREEK NEAR ASHLAND, OR",
+  "state": "OR",
+  "latitude": 42.1078861,
+  "longitude": -122.6010333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-420628122360400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

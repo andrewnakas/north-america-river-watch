@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09385700",
+  "key": "09385700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09385700",
+  "name": "LITTLE COLORADO RIVER BELOW SALADO SPRINGS, AZ",
+  "waterbody": "LITTLE COLORADO RIVER BELOW SALADO SPRINGS, AZ",
+  "state": "AZ",
+  "latitude": 34.4505935,
+  "longitude": -109.3623199,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCSA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Colorado River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcsa3",
+  "slug": "usgs-09385700",
+  "noaaForecastPath": "data/noaa-forecast/LCSA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

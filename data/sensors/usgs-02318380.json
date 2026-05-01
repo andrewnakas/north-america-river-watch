@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02318380",
+  "key": "02318380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02318380",
+  "name": "LITTLE RIVER AT GA 122, NEAR HAHIRA, GA",
+  "waterbody": "LITTLE RIVER AT GA 122, NEAR HAHIRA, GA",
+  "state": "GA",
+  "latitude": 31.0004722,
+  "longitude": -83.4567778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (SW Georgia)",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrag1",
+  "slug": "usgs-02318380",
+  "noaaForecastPath": "data/noaa-forecast/HRAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

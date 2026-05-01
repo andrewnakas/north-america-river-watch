@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12166495",
+  "key": "12166495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12166495",
+  "name": "NORTH FORK STILLAGUAMISH AT OSO, WA",
+  "waterbody": "NORTH FORK STILLAGUAMISH AT OSO, WA",
+  "state": "WA",
+  "latitude": 48.26665,
+  "longitude": -121.928875,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12166495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348295",
+  "key": "10348295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348295",
+  "name": "N TRUCKEE DRAIN NR BIG FISH DR NR SPARKS, NV",
+  "waterbody": "N TRUCKEE DRAIN NR BIG FISH DR NR SPARKS, NV",
+  "state": "NV",
+  "latitude": 39.5315833,
+  "longitude": -119.7149722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348295",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

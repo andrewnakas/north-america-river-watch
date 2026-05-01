@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01559790",
+  "key": "01559790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01559790",
+  "name": "Raystown Branch Juniata River at Wolfsburg, PA",
+  "waterbody": "Raystown Branch Juniata River at Wolfsburg, PA",
+  "state": "PA",
+  "latitude": 40.0458551,
+  "longitude": -78.5288857,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raystown Branch Juniata River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bedp1",
+  "slug": "usgs-01559790",
+  "noaaForecastPath": "data/noaa-forecast/BEDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

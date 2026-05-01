@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09529300",
+  "key": "09529300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09529300",
+  "name": "WELLTON-MOHAWK MAIN OUTLET DRAIN NR YUMA, AZ",
+  "waterbody": "WELLTON-MOHAWK MAIN OUTLET DRAIN NR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.74210278,
+  "longitude": -114.4369028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09529300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04137030",
+  "key": "04137030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04137030",
+  "name": "AU SABLE RIVER NEAR SIDTOWN, MI",
+  "waterbody": "AU SABLE RIVER NEAR SIDTOWN, MI",
+  "state": "MI",
+  "latitude": 44.47279328,
+  "longitude": -83.57108839,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04137030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

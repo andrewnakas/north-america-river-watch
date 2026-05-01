@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07025500",
+  "key": "07025500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07025500",
+  "name": "NORTH FORK OBION RIVER NEAR UNION CITY, TN",
+  "waterbody": "NORTH FORK OBION RIVER NEAR UNION CITY, TN",
+  "state": "TN",
+  "latitude": 36.39978596,
+  "longitude": -88.9953418,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07025500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

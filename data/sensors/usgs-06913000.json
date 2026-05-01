@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06913000",
+  "key": "06913000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06913000",
+  "name": "MARAIS DES CYGNES R NR POMONA, KS",
+  "waterbody": "MARAIS DES CYGNES R NR POMONA, KS",
+  "state": "KS",
+  "latitude": 38.5841777,
+  "longitude": -95.4535902,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PMNK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marais Des Cygnes River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pmnk1",
+  "slug": "usgs-06913000",
+  "noaaForecastPath": "data/noaa-forecast/PMNK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

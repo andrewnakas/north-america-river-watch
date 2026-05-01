@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10318500",
+  "key": "10318500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10318500",
+  "name": "HUMBOLDT RV NR ELKO, NV",
+  "waterbody": "HUMBOLDT RV NR ELKO, NV",
+  "state": "NV",
+  "latitude": 40.93655556,
+  "longitude": -115.6241667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HREN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humboldt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hren2",
+  "slug": "usgs-10318500",
+  "noaaForecastPath": "data/noaa-forecast/HREN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

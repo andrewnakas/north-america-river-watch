@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12419500",
+  "key": "12419500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12419500",
+  "name": "Spokane R ab Liberty Bridge nr Otis Orchard, WA",
+  "waterbody": "Spokane R ab Liberty Bridge nr Otis Orchard, WA",
+  "state": "WA",
+  "latitude": 47.6985113,
+  "longitude": -117.0440885,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12419500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

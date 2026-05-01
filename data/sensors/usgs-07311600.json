@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07311600",
+  "key": "07311600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07311600",
+  "name": "N Wichita Rv nr Paducah, TX",
+  "waterbody": "N Wichita Rv nr Paducah, TX",
+  "state": "TX",
+  "latitude": 33.9506365,
+  "longitude": -100.0648269,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PWRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Wichita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pwrt2",
+  "slug": "usgs-07311600",
+  "noaaForecastPath": "data/noaa-forecast/PWRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

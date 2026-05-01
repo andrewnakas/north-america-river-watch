@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11313240",
+  "key": "11313240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11313240",
+  "name": "GRANT LINE CN NR TRACY CA",
+  "waterbody": "GRANT LINE CN NR TRACY CA",
+  "state": "CA",
+  "latitude": 37.82,
+  "longitude": -121.5447222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfnc1",
+  "slug": "usgs-11313240",
+  "noaaForecastPath": "data/noaa-forecast/CFNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

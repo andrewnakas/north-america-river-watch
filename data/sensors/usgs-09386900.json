@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09386900",
+  "key": "09386900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09386900",
+  "name": "RIO NUTRIA NEAR RAMAH, NM",
+  "waterbody": "RIO NUTRIA NEAR RAMAH, NM",
+  "state": "NM",
+  "latitude": 35.28255278,
+  "longitude": -108.552975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09386900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

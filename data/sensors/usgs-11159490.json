@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11159490",
+  "key": "11159490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11159490",
+  "name": "SALSIPUEDES C NR WATSONVILLE CA",
+  "waterbody": "SALSIPUEDES C NR WATSONVILLE CA",
+  "state": "CA",
+  "latitude": 36.9181222,
+  "longitude": -121.733611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSXC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salsipuedes Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsxc1",
+  "slug": "usgs-11159490",
+  "noaaForecastPath": "data/noaa-forecast/WSXC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

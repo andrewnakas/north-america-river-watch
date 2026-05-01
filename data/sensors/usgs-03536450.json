@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03536450",
+  "key": "03536450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03536450",
+  "name": "FIRST CREEK NEAR OAK RIDGE, TN",
+  "waterbody": "FIRST CREEK NEAR OAK RIDGE, TN",
+  "state": "TN",
+  "latitude": 35.9225774,
+  "longitude": -84.3193684,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03536450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

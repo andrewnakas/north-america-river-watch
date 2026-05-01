@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02130000",
+  "key": "02130000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02130000",
+  "name": "PEE DEE RIVER AT CHERAW, SC",
+  "waterbody": "PEE DEE RIVER AT CHERAW, SC",
+  "state": "SC",
+  "latitude": 34.70848979,
+  "longitude": -79.8761747,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHES1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pee Dee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ches1",
+  "slug": "usgs-02130000",
+  "noaaForecastPath": "data/noaa-forecast/CHES1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

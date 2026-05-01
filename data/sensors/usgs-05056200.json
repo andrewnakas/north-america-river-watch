@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056200",
+  "key": "05056200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056200",
+  "name": "EDMORE COULEE NR EDMORE, ND",
+  "waterbody": "EDMORE COULEE NR EDMORE, ND",
+  "state": "ND",
+  "latitude": 48.33667157,
+  "longitude": -98.6603958,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDEN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Edmore Coulee",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eden8",
+  "slug": "usgs-05056200",
+  "noaaForecastPath": "data/noaa-forecast/EDEN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

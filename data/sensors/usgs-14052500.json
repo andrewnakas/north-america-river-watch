@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14052500",
+  "key": "14052500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14052500",
+  "name": "QUINN RIVER NEAR LA PINE,OREG.",
+  "waterbody": "QUINN RIVER NEAR LA PINE,OREG.",
+  "state": "OR",
+  "latitude": 43.7840074,
+  "longitude": -121.8361412,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14052500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

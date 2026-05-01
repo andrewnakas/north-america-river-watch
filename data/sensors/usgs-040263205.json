@@ -1,0 +1,22 @@
+{
+  "id": "usgs:040263205",
+  "key": "040263205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "040263205",
+  "name": "WHITTLESEY CREEK NEAR ASHLAND, WI",
+  "waterbody": "WHITTLESEY CREEK NEAR ASHLAND, WI",
+  "state": "WI",
+  "latitude": 46.59438708,
+  "longitude": -90.9632437,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTLW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whittlesey Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtlw3",
+  "slug": "usgs-040263205",
+  "noaaForecastPath": "data/noaa-forecast/WTLW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

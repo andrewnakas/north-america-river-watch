@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05484650",
+  "key": "05484650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05484650",
+  "name": "Raccoon River at 63rd Street at Des Moines, IA",
+  "waterbody": "Raccoon River at 63rd Street at Des Moines, IA",
+  "state": "IA",
+  "latitude": 41.56166667,
+  "longitude": -93.7033333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DMWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raccoon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dmwi4",
+  "slug": "usgs-05484650",
+  "noaaForecastPath": "data/noaa-forecast/DMWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

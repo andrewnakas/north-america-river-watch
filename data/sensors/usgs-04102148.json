@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04102148",
+  "key": "04102148",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04102148",
+  "name": "SOUTH BRANCH PAW PAW RIVER NEAR PAW PAW, MI",
+  "waterbody": "SOUTH BRANCH PAW PAW RIVER NEAR PAW PAW, MI",
+  "state": "MI",
+  "latitude": 42.2005953,
+  "longitude": -85.9014021,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04102148",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

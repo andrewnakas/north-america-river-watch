@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09337500",
+  "key": "09337500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09337500",
+  "name": "ESCALANTE RIVER NEAR ESCALANTE, UT",
+  "waterbody": "ESCALANTE RIVER NEAR ESCALANTE, UT",
+  "state": "UT",
+  "latitude": 37.77804389,
+  "longitude": -111.5746181,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESCU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Escalante River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/escu1",
+  "slug": "usgs-09337500",
+  "noaaForecastPath": "data/noaa-forecast/ESCU1.json",
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

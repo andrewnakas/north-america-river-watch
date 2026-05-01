@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02329600",
+  "key": "02329600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02329600",
+  "name": "LITTLE RIVER NR MIDWAY, FLA.",
+  "waterbody": "LITTLE RIVER NR MIDWAY, FLA.",
+  "state": "FL",
+  "latitude": 30.5124192,
+  "longitude": -84.5235206,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MIDF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (Midway)",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/midf1",
+  "slug": "usgs-02329600",
+  "noaaForecastPath": "data/noaa-forecast/MIDF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06720990",
+  "key": "06720990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06720990",
+  "name": "BIG DRY CREEK AT MOUTH NEAR FORT LUPTON, CO",
+  "waterbody": "BIG DRY CREEK AT MOUTH NEAR FORT LUPTON, CO",
+  "state": "CO",
+  "latitude": 40.068833,
+  "longitude": -104.831986,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06720990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

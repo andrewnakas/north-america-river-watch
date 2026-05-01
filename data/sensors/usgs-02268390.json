@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02268390",
+  "key": "02268390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02268390",
+  "name": "TIGER CREEK NEAR BABSON PARK FL",
+  "waterbody": "TIGER CREEK NEAR BABSON PARK FL",
+  "state": "FL",
+  "latitude": 27.81215,
+  "longitude": -81.4442861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TBPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tiger Creek Near Lake Weohyakapka",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tbpf1",
+  "slug": "usgs-02268390",
+  "noaaForecastPath": "data/noaa-forecast/TBPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

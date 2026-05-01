@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01101296",
+  "key": "01101296",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01101296",
+  "name": "SAWMILL BROOK AT CHESTNUT ST, WILMINGTON MA",
+  "waterbody": "SAWMILL BROOK AT CHESTNUT ST, WILMINGTON MA",
+  "state": "MA",
+  "latitude": 42.52719444,
+  "longitude": -71.1723306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01101296",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

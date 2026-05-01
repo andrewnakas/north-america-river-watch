@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02084160",
+  "key": "02084160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02084160",
+  "name": "CHICOD CR AT SR1760 NEAR SIMPSON, NC",
+  "waterbody": "CHICOD CR AT SR1760 NEAR SIMPSON, NC",
+  "state": "NC",
+  "latitude": 35.56166667,
+  "longitude": -77.2308333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02084160",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

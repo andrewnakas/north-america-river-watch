@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02315500",
+  "key": "02315500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02315500",
+  "name": "SUWANNEE RIVER AT WHITE SPRINGS, FLA.",
+  "waterbody": "SUWANNEE RIVER AT WHITE SPRINGS, FLA.",
+  "state": "FL",
+  "latitude": 30.3257812,
+  "longitude": -82.7381826,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwannee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wspf1",
+  "slug": "usgs-02315500",
+  "noaaForecastPath": "data/noaa-forecast/WSPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

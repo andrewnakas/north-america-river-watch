@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209725960",
+  "key": "0209725960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209725960",
+  "name": "THIRD FORK CREEK AT M.L. KING PARKWAY AT DURHAM,NC",
+  "waterbody": "THIRD FORK CREEK AT M.L. KING PARKWAY AT DURHAM,NC",
+  "state": "NC",
+  "latitude": 35.95118056,
+  "longitude": -78.9269417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TFMN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Third Fork Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tfmn7",
+  "slug": "usgs-0209725960",
+  "noaaForecastPath": "data/noaa-forecast/TFMN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

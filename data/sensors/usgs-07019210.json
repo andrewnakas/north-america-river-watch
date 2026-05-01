@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07019210",
+  "key": "07019210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07019210",
+  "name": "Meramec River at Fenton, MO",
+  "waterbody": "Meramec River at Fenton, MO",
+  "state": "MO",
+  "latitude": 38.5122222,
+  "longitude": -90.4313889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FNNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meramec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fnnm7",
+  "slug": "usgs-07019210",
+  "noaaForecastPath": "data/noaa-forecast/FNNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

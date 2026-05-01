@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08104870",
+  "key": "08104870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08104870",
+  "name": "S Fk San Gabriel Rv at Hwy 183 nr Leander, TX",
+  "waterbody": "S Fk San Gabriel Rv at Hwy 183 nr Leander, TX",
+  "state": "TX",
+  "latitude": 30.621111,
+  "longitude": -97.860556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08104870",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

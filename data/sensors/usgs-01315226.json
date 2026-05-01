@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01315226",
+  "key": "01315226",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01315226",
+  "name": "VANDERWHACKER BROOK TRIB 1 NEAR BOREAS RIVER NY",
+  "waterbody": "VANDERWHACKER BROOK TRIB 1 NEAR BOREAS RIVER NY",
+  "state": "NY",
+  "latitude": 43.9485,
+  "longitude": -73.9883611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01315226",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02292490",
+  "key": "02292490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02292490",
+  "name": "GOODNO CANAL BELOW S-78 NEAR LABELLE FL",
+  "waterbody": "GOODNO CANAL BELOW S-78 NEAR LABELLE FL",
+  "state": "FL",
+  "latitude": 26.787906,
+  "longitude": -81.30495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CACF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Caloosahatchee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cacf1",
+  "slug": "usgs-02292490",
+  "noaaForecastPath": "data/noaa-forecast/CACF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

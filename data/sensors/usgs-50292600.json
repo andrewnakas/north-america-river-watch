@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50292600",
+  "key": "50292600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50292600",
+  "name": "LAMESHUR BAY GUT AT LAMESHUR BAY, ST. JOHN  USVI",
+  "waterbody": "LAMESHUR BAY GUT AT LAMESHUR BAY, ST. JOHN  USVI",
+  "state": "VI",
+  "latitude": 18.32439926,
+  "longitude": -64.7218031,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50292600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

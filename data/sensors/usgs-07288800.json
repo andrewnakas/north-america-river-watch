@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07288800",
+  "key": "07288800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288800",
+  "name": "YAZOO RIVER AT REDWOOD, MS",
+  "waterbody": "YAZOO RIVER AT REDWOOD, MS",
+  "state": "MS",
+  "latitude": 32.4873633,
+  "longitude": -90.8173251,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07288800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

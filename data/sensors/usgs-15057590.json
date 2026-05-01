@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15057590",
+  "key": "15057590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15057590",
+  "name": "KAHTAHEENA R NR GUSTAVUS AK",
+  "waterbody": "KAHTAHEENA R NR GUSTAVUS AK",
+  "state": "AK",
+  "latitude": 58.42318126,
+  "longitude": -135.5999517,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15057590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

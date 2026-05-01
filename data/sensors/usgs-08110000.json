@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08110000",
+  "key": "08110000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110000",
+  "name": "Yegua Ck nr Somerville, TX",
+  "waterbody": "Yegua Ck nr Somerville, TX",
+  "state": "TX",
+  "latitude": 30.3218773,
+  "longitude": -96.5074683,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yegua Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smvt2",
+  "slug": "usgs-08110000",
+  "noaaForecastPath": "data/noaa-forecast/SMVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04085108",
+  "key": "04085108",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085108",
+  "name": "EAST RIVER @ CNTY TRUNK HIGHWAY ZZ NR GREENLEAF,WI",
+  "waterbody": "EAST RIVER @ CNTY TRUNK HIGHWAY ZZ NR GREENLEAF,WI",
+  "state": "WI",
+  "latitude": 44.37194444,
+  "longitude": -88.0922222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GGGW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gggw3",
+  "slug": "usgs-04085108",
+  "noaaForecastPath": "data/noaa-forecast/GGGW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

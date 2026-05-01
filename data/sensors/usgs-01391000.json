@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01391000",
+  "key": "01391000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01391000",
+  "name": "Hohokus Brook at Ho-Ho-Kus NJ",
+  "waterbody": "Hohokus Brook at Ho-Ho-Kus NJ",
+  "state": "NJ",
+  "latitude": 40.99777778,
+  "longitude": -74.1119444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOHN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hohokus Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hohn4",
+  "slug": "usgs-01391000",
+  "noaaForecastPath": "data/noaa-forecast/HOHN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

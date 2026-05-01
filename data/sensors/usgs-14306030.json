@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14306030",
+  "key": "14306030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14306030",
+  "name": "YAQUINA RIVER NEAR CHITWOOD,OREG.",
+  "waterbody": "YAQUINA RIVER NEAR CHITWOOD,OREG.",
+  "state": "OR",
+  "latitude": 44.65789595,
+  "longitude": -123.8387232,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YRCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yaquina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yrco3",
+  "slug": "usgs-14306030",
+  "noaaForecastPath": "data/noaa-forecast/YRCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

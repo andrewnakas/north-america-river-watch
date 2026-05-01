@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03346500",
+  "key": "03346500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03346500",
+  "name": "EMBARRAS RIVER AT LAWRENCEVILLE, IL",
+  "waterbody": "EMBARRAS RIVER AT LAWRENCEVILLE, IL",
+  "state": "IL",
+  "latitude": 38.72380556,
+  "longitude": -87.6643611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Embarras River (IL)",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lawi2",
+  "slug": "usgs-03346500",
+  "noaaForecastPath": "data/noaa-forecast/LAWI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

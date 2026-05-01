@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12399500",
+  "key": "12399500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12399500",
+  "name": "COLUMBIA RIVER AT INTERNATIONAL BOUNDARY",
+  "waterbody": "COLUMBIA RIVER AT INTERNATIONAL BOUNDARY",
+  "state": "WA",
+  "latitude": 49.00074966,
+  "longitude": -117.6294206,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CIBW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Columbia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cibw1",
+  "slug": "usgs-12399500",
+  "noaaForecastPath": "data/noaa-forecast/CIBW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157120",
+  "key": "13157120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157120",
+  "name": "UPPER INDIAN COVE CANAL NR HAMMETT ID",
+  "waterbody": "UPPER INDIAN COVE CANAL NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.93277778,
+  "longitude": -115.556111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

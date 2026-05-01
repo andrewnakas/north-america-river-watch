@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05357335",
+  "key": "05357335",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05357335",
+  "name": "BEAR RIVER NEAR MANITOWISH WATERS, WI",
+  "waterbody": "BEAR RIVER NEAR MANITOWISH WATERS, WI",
+  "state": "WI",
+  "latitude": 46.0488377,
+  "longitude": -89.9846035,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05357335",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

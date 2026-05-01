@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02307496",
+  "key": "02307496",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307496",
+  "name": "COW BRANCH AT LAKE ST GEORGE DR NR PALM HARBOR FL",
+  "waterbody": "COW BRANCH AT LAKE ST GEORGE DR NR PALM HARBOR FL",
+  "state": "FL",
+  "latitude": 28.06850278,
+  "longitude": -82.72248889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBZF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbzf1",
+  "slug": "usgs-02307496",
+  "noaaForecastPath": "data/noaa-forecast/CBZF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

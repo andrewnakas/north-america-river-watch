@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06628900",
+  "key": "06628900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06628900",
+  "name": "PASS CREEK NEAR ELK MOUNTAIN, WY",
+  "waterbody": "PASS CREEK NEAR ELK MOUNTAIN, WY",
+  "state": "WY",
+  "latitude": 41.58606047,
+  "longitude": -106.6109148,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06628900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

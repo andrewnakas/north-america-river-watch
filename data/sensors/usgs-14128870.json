@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14128870",
+  "key": "14128870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14128870",
+  "name": "COLUMBIA RIVER BELOW BONNEVILLE DAM, OR",
+  "waterbody": "COLUMBIA RIVER BELOW BONNEVILLE DAM, OR",
+  "state": "OR",
+  "latitude": 45.63305556,
+  "longitude": -121.9608333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BONO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Columbia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bono3",
+  "slug": "usgs-14128870",
+  "noaaForecastPath": "data/noaa-forecast/BONO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

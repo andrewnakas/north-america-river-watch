@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10300000",
+  "key": "10300000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10300000",
+  "name": "W WALKER RV NR HUDSON, NV",
+  "waterbody": "W WALKER RV NR HUDSON, NV",
+  "state": "NV",
+  "latitude": 38.8096366,
+  "longitude": -119.227377,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWHN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Walker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwhn2",
+  "slug": "usgs-10300000",
+  "noaaForecastPath": "data/noaa-forecast/WWHN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

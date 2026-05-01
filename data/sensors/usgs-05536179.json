@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536179",
+  "key": "05536179",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536179",
+  "name": "HART DITCH AT DYER, IN",
+  "waterbody": "HART DITCH AT DYER, IN",
+  "state": "IN",
+  "latitude": 41.507795,
+  "longitude": -87.5100125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hart Ditch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hddi3",
+  "slug": "usgs-05536179",
+  "noaaForecastPath": "data/noaa-forecast/HDDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

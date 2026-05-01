@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14056500",
+  "key": "14056500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14056500",
+  "name": "DESCHUTES R BL WICKIUP RES NR LA PINE, OR",
+  "waterbody": "DESCHUTES R BL WICKIUP RES NR LA PINE, OR",
+  "state": "OR",
+  "latitude": 43.68595349,
+  "longitude": -121.6880826,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WICO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deschutes River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wico3",
+  "slug": "usgs-14056500",
+  "noaaForecastPath": "data/noaa-forecast/WICO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336360",
+  "key": "02336360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336360",
+  "name": "NANCY CREEK AT RICKENBACKER DRIVE, AT ATLANTA, GA",
+  "waterbody": "NANCY CREEK AT RICKENBACKER DRIVE, AT ATLANTA, GA",
+  "state": "GA",
+  "latitude": 33.86916667,
+  "longitude": -84.37888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCKG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nancy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nckg1",
+  "slug": "usgs-02336360",
+  "noaaForecastPath": "data/noaa-forecast/NCKG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

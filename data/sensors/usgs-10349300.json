@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10349300",
+  "key": "10349300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10349300",
+  "name": "STEAMBOAT CK AT STEAMBOAT, NV",
+  "waterbody": "STEAMBOAT CK AT STEAMBOAT, NV",
+  "state": "NV",
+  "latitude": 39.3771333,
+  "longitude": -119.7436583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Steamboat Creek (NV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scrn2",
+  "slug": "usgs-10349300",
+  "noaaForecastPath": "data/noaa-forecast/SCRN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01368050",
+  "key": "01368050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01368050",
+  "name": "WALLKILL RIVER AT OIL CITY ROAD NEAR UNIONVILLE NY",
+  "waterbody": "WALLKILL RIVER AT OIL CITY ROAD NEAR UNIONVILLE NY",
+  "state": "NY",
+  "latitude": 41.2878333,
+  "longitude": -74.5343333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UNVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wallkill",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/unvn6",
+  "slug": "usgs-01368050",
+  "noaaForecastPath": "data/noaa-forecast/UNVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

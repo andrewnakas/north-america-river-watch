@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10103010",
+  "key": "10103010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10103010",
+  "name": "LOGAN,HYDE PK,& SMITHFIELD CNL.NR. SMITHFIELD,UT",
+  "waterbody": "LOGAN,HYDE PK,& SMITHFIELD CNL.NR. SMITHFIELD,UT",
+  "state": "UT",
+  "latitude": 41.84326239,
+  "longitude": -111.8138335,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10103010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09423350",
+  "key": "09423350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09423350",
+  "name": "CARUTHERS C NR IVANPAH CA",
+  "waterbody": "CARUTHERS C NR IVANPAH CA",
+  "state": "CA",
+  "latitude": 35.24500556,
+  "longitude": -115.2989889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09423350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

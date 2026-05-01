@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04095090",
+  "key": "04095090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04095090",
+  "name": "PORTAGE-BURNS WATERWAY AT PORTAGE, IN",
+  "waterbody": "PORTAGE-BURNS WATERWAY AT PORTAGE, IN",
+  "state": "IN",
+  "latitude": 41.62223849,
+  "longitude": -87.1758346,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBPI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portage-Burns Waterway",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbpi3",
+  "slug": "usgs-04095090",
+  "noaaForecastPath": "data/noaa-forecast/PBPI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

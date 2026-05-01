@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06079000",
+  "key": "06079000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06079000",
+  "name": "South Fork Sun River near Augusta MT",
+  "waterbody": "South Fork Sun River near Augusta MT",
+  "state": "MT",
+  "latitude": 47.6286083,
+  "longitude": -112.865761,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSNM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Sun River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssnm8",
+  "slug": "usgs-06079000",
+  "noaaForecastPath": "data/noaa-forecast/SSNM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02307359",
+  "key": "02307359",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307359",
+  "name": "BROOKER CREEK NEAR TARPON SPRINGS FL",
+  "waterbody": "BROOKER CREEK NEAR TARPON SPRINGS FL",
+  "state": "FL",
+  "latitude": 28.09643229,
+  "longitude": -82.6871441,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brooker Creek Near Tarpon Springs",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tsgf1",
+  "slug": "usgs-02307359",
+  "noaaForecastPath": "data/noaa-forecast/TSGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01315500",
+  "key": "01315500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01315500",
+  "name": "HUDSON RIVER AT NORTH CREEK NY",
+  "waterbody": "HUDSON RIVER AT NORTH CREEK NY",
+  "state": "NY",
+  "latitude": 43.7008611,
+  "longitude": -73.9831944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hudson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nckn6",
+  "slug": "usgs-01315500",
+  "noaaForecastPath": "data/noaa-forecast/NCKN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442540",
+  "key": "09442540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442540",
+  "name": "SAN FRANCISCO RIVER ABV STONE CREEK NR LUNA, NM",
+  "waterbody": "SAN FRANCISCO RIVER ABV STONE CREEK NR LUNA, NM",
+  "state": "NM",
+  "latitude": 33.82946944,
+  "longitude": -109.0330194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

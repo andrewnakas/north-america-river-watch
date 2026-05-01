@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09215000",
+  "key": "09215000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09215000",
+  "name": "PACIFIC CREEK NEAR FARSON, WY",
+  "waterbody": "PACIFIC CREEK NEAR FARSON, WY",
+  "state": "WY",
+  "latitude": 42.1283333,
+  "longitude": -109.3254444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09215000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

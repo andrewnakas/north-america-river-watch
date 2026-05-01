@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07160810",
+  "key": "07160810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07160810",
+  "name": "Wildhorse Creek near Perkins, Ok",
+  "waterbody": "Wildhorse Creek near Perkins, Ok",
+  "state": "OK",
+  "latitude": 35.98555556,
+  "longitude": -97.1191667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07160810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

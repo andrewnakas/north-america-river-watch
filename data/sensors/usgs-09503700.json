@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09503700",
+  "key": "09503700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09503700",
+  "name": "VERDE RIVER NEAR PAULDEN, AZ",
+  "waterbody": "VERDE RIVER NEAR PAULDEN, AZ",
+  "state": "AZ",
+  "latitude": 34.89502016,
+  "longitude": -112.3429468,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VDPA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verde River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vdpa3",
+  "slug": "usgs-09503700",
+  "noaaForecastPath": "data/noaa-forecast/VDPA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

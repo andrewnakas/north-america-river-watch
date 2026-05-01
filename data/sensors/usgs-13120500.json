@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13120500",
+  "key": "13120500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13120500",
+  "name": "BIG LOST RIVER AT HOWELL RANCH NR CHILLY ID",
+  "waterbody": "BIG LOST RIVER AT HOWELL RANCH NR CHILLY ID",
+  "state": "ID",
+  "latitude": 43.9983333,
+  "longitude": -114.021111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HWRI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Lost River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hwri1",
+  "slug": "usgs-13120500",
+  "noaaForecastPath": "data/noaa-forecast/HWRI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08407000",
+  "key": "08407000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08407000",
+  "name": "PECOS RIVER AT PIERCE CANYON CROSSING, NM",
+  "waterbody": "PECOS RIVER AT PIERCE CANYON CROSSING, NM",
+  "state": "NM",
+  "latitude": 32.18853056,
+  "longitude": -103.9793861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 6 miles ESE of Malaga",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ppcn5",
+  "slug": "usgs-08407000",
+  "noaaForecastPath": "data/noaa-forecast/PPCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

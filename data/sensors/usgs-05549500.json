@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05549500",
+  "key": "05549500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05549500",
+  "name": "FOX RIVER NEAR MCHENRY, IL",
+  "waterbody": "FOX RIVER NEAR MCHENRY, IL",
+  "state": "IL",
+  "latitude": 42.3100222,
+  "longitude": -88.2514745,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05549500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

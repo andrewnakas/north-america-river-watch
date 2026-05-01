@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14180510",
+  "key": "14180510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14180510",
+  "name": "DETROIT DAM TAILWATER NEAR DETROIT, OR",
+  "waterbody": "DETROIT DAM TAILWATER NEAR DETROIT, OR",
+  "state": "OR",
+  "latitude": 44.722,
+  "longitude": -122.251,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DETO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Santiam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/deto3",
+  "slug": "usgs-14180510",
+  "noaaForecastPath": "data/noaa-forecast/DETO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

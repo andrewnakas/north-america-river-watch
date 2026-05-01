@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03599100",
+  "key": "03599100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03599100",
+  "name": "BIG ROCK CR AT DOUBLE BRIDGES, TN",
+  "waterbody": "BIG ROCK CR AT DOUBLE BRIDGES, TN",
+  "state": "TN",
+  "latitude": 35.50465279,
+  "longitude": -86.7675435,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03599100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

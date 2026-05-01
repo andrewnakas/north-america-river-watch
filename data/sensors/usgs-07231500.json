@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07231500",
+  "key": "07231500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07231500",
+  "name": "Canadian River at Calvin, OK",
+  "waterbody": "Canadian River at Calvin, OK",
+  "state": "OK",
+  "latitude": 34.97786698,
+  "longitude": -96.2436172,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLVO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clvo2",
+  "slug": "usgs-07231500",
+  "noaaForecastPath": "data/noaa-forecast/CLVO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07203000",
+  "key": "07203000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07203000",
+  "name": "VERMEJO RIVER NEAR DAWSON, NM",
+  "waterbody": "VERMEJO RIVER NEAR DAWSON, NM",
+  "state": "NM",
+  "latitude": 36.68102778,
+  "longitude": -104.7863944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAWN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vermejo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dawn5",
+  "slug": "usgs-07203000",
+  "noaaForecastPath": "data/noaa-forecast/DAWN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

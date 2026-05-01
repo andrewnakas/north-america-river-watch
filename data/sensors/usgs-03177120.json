@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03177120",
+  "key": "03177120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03177120",
+  "name": "EAST RIVER AT WILLOWTON, WV",
+  "waterbody": "EAST RIVER AT WILLOWTON, WV",
+  "state": "WV",
+  "latitude": 37.3485,
+  "longitude": -80.8860833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERVW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ervw2",
+  "slug": "usgs-03177120",
+  "noaaForecastPath": "data/noaa-forecast/ERVW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

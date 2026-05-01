@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05590000",
+  "key": "05590000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05590000",
+  "name": "KASKASKIA DITCH AT BONDVILLE, IL",
+  "waterbody": "KASKASKIA DITCH AT BONDVILLE, IL",
+  "state": "IL",
+  "latitude": 40.1130876,
+  "longitude": -88.3486654,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05590000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

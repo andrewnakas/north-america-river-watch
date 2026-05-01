@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03124000",
+  "key": "03124000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03124000",
+  "name": "Sugar Creek bl Beach City Dam near Beach City OH",
+  "waterbody": "Sugar Creek bl Beach City Dam near Beach City OH",
+  "state": "OH",
+  "latitude": 40.6356165,
+  "longitude": -81.5528993,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhlo1",
+  "slug": "usgs-03124000",
+  "noaaForecastPath": "data/noaa-forecast/BHLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

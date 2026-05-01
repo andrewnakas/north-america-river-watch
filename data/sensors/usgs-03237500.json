@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03237500",
+  "key": "03237500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03237500",
+  "name": "Ohio Brush Creek near West Union OH",
+  "waterbody": "Ohio Brush Creek near West Union OH",
+  "state": "OH",
+  "latitude": 38.8036838,
+  "longitude": -83.4210226,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WUNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio Brush Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wuno1",
+  "slug": "usgs-03237500",
+  "noaaForecastPath": "data/noaa-forecast/WUNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

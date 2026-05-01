@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15100000",
+  "key": "15100000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15100000",
+  "name": "TAKATZ C NR BARANOF AK",
+  "waterbody": "TAKATZ C NR BARANOF AK",
+  "state": "AK",
+  "latitude": 57.1427162,
+  "longitude": -134.8656418,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TTZA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Takatz Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ttza2",
+  "slug": "usgs-15100000",
+  "noaaForecastPath": "data/noaa-forecast/TTZA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15295700",
+  "key": "15295700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15295700",
+  "name": "TERROR R AT MOUTH NR KODIAK AK",
+  "waterbody": "TERROR R AT MOUTH NR KODIAK AK",
+  "state": "AK",
+  "latitude": 57.69404358,
+  "longitude": -153.1637244,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KDKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Terror River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kdka2",
+  "slug": "usgs-15295700",
+  "noaaForecastPath": "data/noaa-forecast/KDKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

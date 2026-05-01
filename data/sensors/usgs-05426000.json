@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05426000",
+  "key": "05426000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05426000",
+  "name": "CRAWFISH RIVER AT MILFORD, WI",
+  "waterbody": "CRAWFISH RIVER AT MILFORD, WI",
+  "state": "WI",
+  "latitude": 43.1,
+  "longitude": -88.8494444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MILW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crawfish River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/milw3",
+  "slug": "usgs-05426000",
+  "noaaForecastPath": "data/noaa-forecast/MILW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

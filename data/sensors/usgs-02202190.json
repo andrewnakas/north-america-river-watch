@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02202190",
+  "key": "02202190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02202190",
+  "name": "OGEECHEE RIVER AT GA 24, NEAR OLIVER, GA",
+  "waterbody": "OGEECHEE RIVER AT GA 24, NEAR OLIVER, GA",
+  "state": "GA",
+  "latitude": 32.49480556,
+  "longitude": -81.5555,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OLVG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogeechee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/olvg1",
+  "slug": "usgs-02202190",
+  "noaaForecastPath": "data/noaa-forecast/OLVG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

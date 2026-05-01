@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104453",
+  "key": "01104453",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104453",
+  "name": "STONY BROOK UNNAMED TRIB 2 NR WESTON STATION",
+  "waterbody": "STONY BROOK UNNAMED TRIB 2 NR WESTON STATION",
+  "state": "MA",
+  "latitude": 42.37138889,
+  "longitude": -71.27527778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104453",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

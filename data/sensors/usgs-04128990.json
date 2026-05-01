@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04128990",
+  "key": "04128990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04128990",
+  "name": "PIGEON RIVER NEAR VANDERBILT, MI",
+  "waterbody": "PIGEON RIVER NEAR VANDERBILT, MI",
+  "state": "MI",
+  "latitude": 45.156124,
+  "longitude": -84.4675226,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River (N Lower MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svrm4",
+  "slug": "usgs-04128990",
+  "noaaForecastPath": "data/noaa-forecast/SVRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

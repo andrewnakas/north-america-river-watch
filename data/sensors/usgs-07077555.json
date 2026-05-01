@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07077555",
+  "key": "07077555",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07077555",
+  "name": "Cache River near Cotton Plant, AR",
+  "waterbody": "Cache River near Cotton Plant, AR",
+  "state": "AR",
+  "latitude": 35.03555556,
+  "longitude": -91.3225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPCA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cache River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpca4",
+  "slug": "usgs-07077555",
+  "noaaForecastPath": "data/noaa-forecast/CPCA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02187252",
+  "key": "02187252",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02187252",
+  "name": "SAVANNAH RIVER BELOW HARTWELL LK NR HARTWELL, GA",
+  "waterbody": "SAVANNAH RIVER BELOW HARTWELL LK NR HARTWELL, GA",
+  "state": "SC",
+  "latitude": 34.35427214,
+  "longitude": -82.8151378,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02187252",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

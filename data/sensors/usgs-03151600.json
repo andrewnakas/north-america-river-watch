@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03151600",
+  "key": "03151600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03151600",
+  "name": "LITTLE KANAWHA RIVER AT BURNSVILLE, WV",
+  "waterbody": "LITTLE KANAWHA RIVER AT BURNSVILLE, WV",
+  "state": "WV",
+  "latitude": 38.8650952,
+  "longitude": -80.6762077,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BURW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Kanawha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/burw2",
+  "slug": "usgs-03151600",
+  "noaaForecastPath": "data/noaa-forecast/BURW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

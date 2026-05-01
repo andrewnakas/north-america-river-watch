@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07025400",
+  "key": "07025400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07025400",
+  "name": "NORTH FORK OBION RIVER NEAR MARTIN, TN (CE)",
+  "waterbody": "NORTH FORK OBION RIVER NEAR MARTIN, TN (CE)",
+  "state": "TN",
+  "latitude": 36.40533398,
+  "longitude": -88.8547618,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOMT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Obion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nomt1",
+  "slug": "usgs-07025400",
+  "noaaForecastPath": "data/noaa-forecast/NOMT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

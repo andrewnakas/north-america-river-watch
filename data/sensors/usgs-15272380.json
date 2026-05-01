@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15272380",
+  "key": "15272380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15272380",
+  "name": "TWENTYMILE R BL GLACIER R NR PORTAGE AK",
+  "waterbody": "TWENTYMILE R BL GLACIER R NR PORTAGE AK",
+  "state": "AK",
+  "latitude": 60.8974833,
+  "longitude": -148.9241074,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRPA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twentymile River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trpa2",
+  "slug": "usgs-15272380",
+  "noaaForecastPath": "data/noaa-forecast/TRPA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

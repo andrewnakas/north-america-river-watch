@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03078000",
+  "key": "03078000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03078000",
+  "name": "CASSELMAN RIVER AT GRANTSVILLE, MD",
+  "waterbody": "CASSELMAN RIVER AT GRANTSVILLE, MD",
+  "state": "MD",
+  "latitude": 39.70219444,
+  "longitude": -79.13638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Casselman River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gntm2",
+  "slug": "usgs-03078000",
+  "noaaForecastPath": "data/noaa-forecast/GNTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

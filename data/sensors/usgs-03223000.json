@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03223000",
+  "key": "03223000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03223000",
+  "name": "Olentangy River at Claridon OH",
+  "waterbody": "Olentangy River at Claridon OH",
+  "state": "OH",
+  "latitude": 40.58283738,
+  "longitude": -82.9887969,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRDO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Olentangy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crdo1",
+  "slug": "usgs-03223000",
+  "noaaForecastPath": "data/noaa-forecast/CRDO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

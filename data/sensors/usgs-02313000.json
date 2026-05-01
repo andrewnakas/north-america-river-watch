@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02313000",
+  "key": "02313000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02313000",
+  "name": "WITHLACOOCHEE RIVER AT SR 200 NEAR HOLDER, FL",
+  "waterbody": "WITHLACOOCHEE RIVER AT SR 200 NEAR HOLDER, FL",
+  "state": "FL",
+  "latitude": 28.98886759,
+  "longitude": -82.3495406,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLDF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hldf1",
+  "slug": "usgs-02313000",
+  "noaaForecastPath": "data/noaa-forecast/HLDF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

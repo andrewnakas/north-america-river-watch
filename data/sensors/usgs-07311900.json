@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07311900",
+  "key": "07311900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07311900",
+  "name": "Wichita Rv nr Seymour, TX",
+  "waterbody": "Wichita Rv nr Seymour, TX",
+  "state": "TX",
+  "latitude": 33.70036966,
+  "longitude": -99.3886905,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seyt2",
+  "slug": "usgs-07311900",
+  "noaaForecastPath": "data/noaa-forecast/SEYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

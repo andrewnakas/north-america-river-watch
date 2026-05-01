@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05454300",
+  "key": "05454300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05454300",
+  "name": "Clear Creek near Coralville, IA",
+  "waterbody": "Clear Creek near Coralville, IA",
+  "state": "IA",
+  "latitude": 41.67668056,
+  "longitude": -91.5987778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRAI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek (IA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crai4",
+  "slug": "usgs-05454300",
+  "noaaForecastPath": "data/noaa-forecast/CRAI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

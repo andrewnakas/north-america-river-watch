@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15239070",
+  "key": "15239070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15239070",
+  "name": "BRADLEY R NR TIDEWATER NR HOMER AK",
+  "waterbody": "BRADLEY R NR TIDEWATER NR HOMER AK",
+  "state": "AK",
+  "latitude": 59.80105909,
+  "longitude": -150.884922,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRTA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bradley River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brta2",
+  "slug": "usgs-15239070",
+  "noaaForecastPath": "data/noaa-forecast/BRTA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06935965",
+  "key": "06935965",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06935965",
+  "name": "Missouri River at St. Charles, MO",
+  "waterbody": "Missouri River at St. Charles, MO",
+  "state": "MO",
+  "latitude": 38.78719444,
+  "longitude": -90.4718056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCLM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sclm7",
+  "slug": "usgs-06935965",
+  "noaaForecastPath": "data/noaa-forecast/SCLM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03111705",
+  "key": "03111705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03111705",
+  "name": "South Fork Dunkard Fork at Aleppo, PA",
+  "waterbody": "South Fork Dunkard Fork at Aleppo, PA",
+  "state": "PA",
+  "latitude": 39.8298016,
+  "longitude": -80.4467398,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03111705",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

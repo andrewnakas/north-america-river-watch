@@ -1,0 +1,19 @@
+{
+  "id": "usgs:380311121413801",
+  "key": "380311121413801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "380311121413801",
+  "name": "SAN JOAQUIN R A GALLAGHER SLOUGH NR OAKLEY CA",
+  "waterbody": "SAN JOAQUIN R A GALLAGHER SLOUGH NR OAKLEY CA",
+  "state": "CA",
+  "latitude": 38.0529472,
+  "longitude": -121.693775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-380311121413801",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

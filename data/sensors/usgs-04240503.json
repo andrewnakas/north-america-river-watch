@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04240503",
+  "key": "04240503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04240503",
+  "name": "ONONDAGA LAKE OUTLET NEAR LIVERPOOL NY",
+  "waterbody": "ONONDAGA LAKE OUTLET NEAR LIVERPOOL NY",
+  "state": "NY",
+  "latitude": 43.11955556,
+  "longitude": -76.2463056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04240503",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

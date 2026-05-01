@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10336765",
+  "key": "10336765",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336765",
+  "name": "EDGEWOOD CK AT LAKE TAHOE NR STATELINE, NV",
+  "waterbody": "EDGEWOOD CK AT LAKE TAHOE NR STATELINE, NV",
+  "state": "NV",
+  "latitude": 38.9679635,
+  "longitude": -119.9493475,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10336765",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

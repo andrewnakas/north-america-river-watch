@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08194000",
+  "key": "08194000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08194000",
+  "name": "Nueces Rv at Cotulla, TX",
+  "waterbody": "Nueces Rv at Cotulla, TX",
+  "state": "TX",
+  "latitude": 28.42637889,
+  "longitude": -99.2400322,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cott2",
+  "slug": "usgs-08194000",
+  "noaaForecastPath": "data/noaa-forecast/COTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10350500",
+  "key": "10350500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10350500",
+  "name": "TRUCKEE RV AT CLARK, NV",
+  "waterbody": "TRUCKEE RV AT CLARK, NV",
+  "state": "NV",
+  "latitude": 39.56545278,
+  "longitude": -119.486186,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10350500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03348350",
+  "key": "03348350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03348350",
+  "name": "PIPE CREEK AT FRANKTON, IN",
+  "waterbody": "PIPE CREEK AT FRANKTON, IN",
+  "state": "IN",
+  "latitude": 40.2273333,
+  "longitude": -85.7663611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pipe Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftni3",
+  "slug": "usgs-03348350",
+  "noaaForecastPath": "data/noaa-forecast/FTNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

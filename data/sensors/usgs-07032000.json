@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07032000",
+  "key": "07032000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07032000",
+  "name": "MISSISSIPPI RIVER AT MEMPHIS, TN",
+  "waterbody": "MISSISSIPPI RIVER AT MEMPHIS, TN",
+  "state": "TN",
+  "latitude": 35.12314616,
+  "longitude": -90.077592,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MEMT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/memt1",
+  "slug": "usgs-07032000",
+  "noaaForecastPath": "data/noaa-forecast/MEMT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

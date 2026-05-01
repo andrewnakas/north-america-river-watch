@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05424157",
+  "key": "05424157",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05424157",
+  "name": "ROCK RIVER NEAR LEBANON, WI",
+  "waterbody": "ROCK RIVER NEAR LEBANON, WI",
+  "state": "WI",
+  "latitude": 43.26191389,
+  "longitude": -88.5743056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEBW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lebw3",
+  "slug": "usgs-05424157",
+  "noaaForecastPath": "data/noaa-forecast/LEBW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

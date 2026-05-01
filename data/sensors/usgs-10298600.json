@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10298600",
+  "key": "10298600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10298600",
+  "name": "W WALKER RV BLW SMITH VLY DIV NR WELLINGTON, NV",
+  "waterbody": "W WALKER RV BLW SMITH VLY DIV NR WELLINGTON, NV",
+  "state": "NV",
+  "latitude": 38.7820722,
+  "longitude": -119.3825583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10298600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

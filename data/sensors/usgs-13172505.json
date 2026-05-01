@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13172505",
+  "key": "13172505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13172505",
+  "name": "SWAN FALLS IRRIGATION DISTRICT CANAL NR MURPHY ID",
+  "waterbody": "SWAN FALLS IRRIGATION DISTRICT CANAL NR MURPHY ID",
+  "state": "ID",
+  "latitude": 43.29444444,
+  "longitude": -116.4169444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13172505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

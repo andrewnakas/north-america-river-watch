@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03255349",
+  "key": "03255349",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03255349",
+  "name": "Mill Creek at East Sharon Rd at Sharonville OH",
+  "waterbody": "Mill Creek at East Sharon Rd at Sharonville OH",
+  "state": "OH",
+  "latitude": 39.26944444,
+  "longitude": -84.4319444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCSO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcso1",
+  "slug": "usgs-03255349",
+  "noaaForecastPath": "data/noaa-forecast/MCSO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

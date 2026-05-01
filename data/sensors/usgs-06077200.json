@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06077200",
+  "key": "06077200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06077200",
+  "name": "Smith River bl Eagle Cr nr Fort Logan MT",
+  "waterbody": "Smith River bl Eagle Cr nr Fort Logan MT",
+  "state": "MT",
+  "latitude": 46.82798056,
+  "longitude": -111.1922389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMHM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River (MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smhm8",
+  "slug": "usgs-06077200",
+  "noaaForecastPath": "data/noaa-forecast/SMHM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

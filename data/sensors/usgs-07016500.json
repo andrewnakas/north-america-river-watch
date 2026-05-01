@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07016500",
+  "key": "07016500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07016500",
+  "name": "Bourbeuse River at Union, MO",
+  "waterbody": "Bourbeuse River at Union, MO",
+  "state": "MO",
+  "latitude": 38.44413889,
+  "longitude": -90.9954722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UNNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bourbeuse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/unnm7",
+  "slug": "usgs-07016500",
+  "noaaForecastPath": "data/noaa-forecast/UNNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

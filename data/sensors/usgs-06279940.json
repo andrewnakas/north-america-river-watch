@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06279940",
+  "key": "06279940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06279940",
+  "name": "NORTH FORK SHOSHONE RIVER AT WAPITI, WY",
+  "waterbody": "NORTH FORK SHOSHONE RIVER AT WAPITI, WY",
+  "state": "WY",
+  "latitude": 44.4714444,
+  "longitude": -109.4183528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Shoshone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfsw4",
+  "slug": "usgs-06279940",
+  "noaaForecastPath": "data/noaa-forecast/NFSW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

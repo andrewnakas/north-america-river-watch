@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12323233",
+  "key": "12323233",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12323233",
+  "name": "Blacktail Creek above Grove Gulch, at Butte, MT",
+  "waterbody": "Blacktail Creek above Grove Gulch, at Butte, MT",
+  "state": "MT",
+  "latitude": 45.9912694,
+  "longitude": -112.5273583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blacktail Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkcm8",
+  "slug": "usgs-12323233",
+  "noaaForecastPath": "data/noaa-forecast/BKCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

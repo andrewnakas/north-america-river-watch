@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50039500",
+  "key": "50039500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50039500",
+  "name": "RIO CIBUCO AT VEGA BAJA, PR",
+  "waterbody": "RIO CIBUCO AT VEGA BAJA, PR",
+  "state": "PR",
+  "latitude": 18.447328,
+  "longitude": -66.374375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VGBP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Cibuco",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vgbp4",
+  "slug": "usgs-50039500",
+  "noaaForecastPath": "data/noaa-forecast/VGBP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

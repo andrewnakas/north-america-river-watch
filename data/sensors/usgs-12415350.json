@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12415350",
+  "key": "12415350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12415350",
+  "name": "WOLF LODGE CREEK NR COEUR D ALENE ID",
+  "waterbody": "WOLF LODGE CREEK NR COEUR D ALENE ID",
+  "state": "ID",
+  "latitude": 47.6408333,
+  "longitude": -116.6172222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12415350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

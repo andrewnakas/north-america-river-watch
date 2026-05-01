@@ -1,0 +1,22 @@
+{
+  "id": "usgs:053813595",
+  "key": "053813595",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "053813595",
+  "name": "BLACK RIVER DS ST HWY 54 AT BLACK RIVER FALLS, WI",
+  "waterbody": "BLACK RIVER DS ST HWY 54 AT BLACK RIVER FALLS, WI",
+  "state": "WI",
+  "latitude": 44.29357228,
+  "longitude": -90.846531,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRFW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brfw3",
+  "slug": "usgs-053813595",
+  "noaaForecastPath": "data/noaa-forecast/BRFW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07155590",
+  "key": "07155590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07155590",
+  "name": "CIMARRON R NR ELKHART, KS",
+  "waterbody": "CIMARRON R NR ELKHART, KS",
+  "state": "KS",
+  "latitude": 37.12197755,
+  "longitude": -101.8979569,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EHTK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cimarron River (KS)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ehtk1",
+  "slug": "usgs-07155590",
+  "noaaForecastPath": "data/noaa-forecast/EHTK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

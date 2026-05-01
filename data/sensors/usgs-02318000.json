@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02318000",
+  "key": "02318000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02318000",
+  "name": "LITTLE RIVER NEAR ADEL, GA",
+  "waterbody": "LITTLE RIVER NEAR ADEL, GA",
+  "state": "GA",
+  "latitude": 31.15555556,
+  "longitude": -83.5436111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (SW Georgia)",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adlg1",
+  "slug": "usgs-02318000",
+  "noaaForecastPath": "data/noaa-forecast/ADLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02300050",
+  "key": "02300050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300050",
+  "name": "WILLIAMS CREEK NEAR BRADENTON FL",
+  "waterbody": "WILLIAMS CREEK NEAR BRADENTON FL",
+  "state": "FL",
+  "latitude": 27.4530969,
+  "longitude": -82.4675954,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02300050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

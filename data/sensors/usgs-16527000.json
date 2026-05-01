@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16527000",
+  "key": "16527000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16527000",
+  "name": "Honomanu Stream near Keanae, Maui, HI",
+  "waterbody": "Honomanu Stream near Keanae, Maui, HI",
+  "state": "HI",
+  "latitude": 20.831325,
+  "longitude": -156.1872889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16527000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

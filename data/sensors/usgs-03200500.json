@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03200500",
+  "key": "03200500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03200500",
+  "name": "COAL RIVER AT TORNADO, WV",
+  "waterbody": "COAL RIVER AT TORNADO, WV",
+  "state": "WV",
+  "latitude": 38.33898309,
+  "longitude": -81.841518,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TORW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coal River (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/torw2",
+  "slug": "usgs-03200500",
+  "noaaForecastPath": "data/noaa-forecast/TORW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

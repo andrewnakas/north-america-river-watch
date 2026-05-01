@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353600",
+  "key": "03353600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353600",
+  "name": "LITTLE EAGLE CREEK AT SPEEDWAY, IN",
+  "waterbody": "LITTLE EAGLE CREEK AT SPEEDWAY, IN",
+  "state": "IN",
+  "latitude": 39.78753517,
+  "longitude": -86.2280259,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPEI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Eagle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spei3",
+  "slug": "usgs-03353600",
+  "noaaForecastPath": "data/noaa-forecast/SPEI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

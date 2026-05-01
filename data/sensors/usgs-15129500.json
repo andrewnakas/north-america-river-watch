@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15129500",
+  "key": "15129500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15129500",
+  "name": "SITUK R NR YAKUTAT AK",
+  "waterbody": "SITUK R NR YAKUTAT AK",
+  "state": "AK",
+  "latitude": 59.58622987,
+  "longitude": -139.49437433,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRYA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Situk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srya2",
+  "slug": "usgs-15129500",
+  "noaaForecastPath": "data/noaa-forecast/SRYA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

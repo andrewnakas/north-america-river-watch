@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01383500",
+  "key": "01383500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01383500",
+  "name": "Wanaque River at Awosting NJ",
+  "waterbody": "Wanaque River at Awosting NJ",
+  "state": "NJ",
+  "latitude": 41.16027778,
+  "longitude": -74.3336111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01383500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

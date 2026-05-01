@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03326070",
+  "key": "03326070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03326070",
+  "name": "BIG LICK CREEK NEAR HARTFORD CITY, IN",
+  "waterbody": "BIG LICK CREEK NEAR HARTFORD CITY, IN",
+  "state": "IN",
+  "latitude": 40.42224974,
+  "longitude": -85.3510523,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03326070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01116500",
+  "key": "01116500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01116500",
+  "name": "PAWTUXET RIVER AT CRANSTON, RI",
+  "waterbody": "PAWTUXET RIVER AT CRANSTON, RI",
+  "state": "RI",
+  "latitude": 41.75093399,
+  "longitude": -71.4450575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRAR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pawtuxet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crar1",
+  "slug": "usgs-01116500",
+  "noaaForecastPath": "data/noaa-forecast/CRAR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

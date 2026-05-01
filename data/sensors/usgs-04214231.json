@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04214231",
+  "key": "04214231",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04214231",
+  "name": "S BR EIGHTEENMILE CR AT BLEY RD AT EDEN VALLEY",
+  "waterbody": "S BR EIGHTEENMILE CR AT BLEY RD AT EDEN VALLEY",
+  "state": "NY",
+  "latitude": 42.68027778,
+  "longitude": -78.8786944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLEN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "S Branch Eighteenmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blen6",
+  "slug": "usgs-04214231",
+  "noaaForecastPath": "data/noaa-forecast/BLEN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

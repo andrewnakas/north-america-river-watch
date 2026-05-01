@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02154500",
+  "key": "02154500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02154500",
+  "name": "NORTH PACOLET RIVER AT FINGERVILLE, SC",
+  "waterbody": "NORTH PACOLET RIVER AT FINGERVILLE, SC",
+  "state": "SC",
+  "latitude": 35.120461,
+  "longitude": -81.987283,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FNGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Pacolet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fngs1",
+  "slug": "usgs-02154500",
+  "noaaForecastPath": "data/noaa-forecast/FNGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

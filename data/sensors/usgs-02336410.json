@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336410",
+  "key": "02336410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336410",
+  "name": "NANCY CREEK AT WEST WESLEY ROAD, AT ATLANTA, GA",
+  "waterbody": "NANCY CREEK AT WEST WESLEY ROAD, AT ATLANTA, GA",
+  "state": "GA",
+  "latitude": 33.8382222,
+  "longitude": -84.4392778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NANG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nancy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nang1",
+  "slug": "usgs-02336410",
+  "noaaForecastPath": "data/noaa-forecast/NANG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

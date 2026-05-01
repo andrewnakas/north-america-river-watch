@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05403039",
+  "key": "05403039",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05403039",
+  "name": "REMINGTON DITCH NEAR FINLEY, WI",
+  "waterbody": "REMINGTON DITCH NEAR FINLEY, WI",
+  "state": "WI",
+  "latitude": 44.24916667,
+  "longitude": -90.1808333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05403039",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

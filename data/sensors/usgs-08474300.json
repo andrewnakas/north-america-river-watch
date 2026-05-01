@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08474300",
+  "key": "08474300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08474300",
+  "name": "Old Main Drain No 2 at SH 4, Brownsville, TX",
+  "waterbody": "Old Main Drain No 2 at SH 4, Brownsville, TX",
+  "state": "TX",
+  "latitude": 25.9172222,
+  "longitude": -97.3778333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08474300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

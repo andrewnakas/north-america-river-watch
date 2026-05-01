@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01053600",
+  "key": "01053600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01053600",
+  "name": "Androscoggin River below Bog Brook at Cambridge NH",
+  "waterbody": "Androscoggin River below Bog Brook at Cambridge NH",
+  "state": "NH",
+  "latitude": 44.6661111,
+  "longitude": -71.18138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01053600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

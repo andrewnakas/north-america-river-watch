@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09196000",
+  "key": "09196000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09196000",
+  "name": "New Fork River above Pine Cr, nr Pinedale, WY",
+  "waterbody": "New Fork River above Pine Cr, nr Pinedale, WY",
+  "state": "WY",
+  "latitude": 42.83759655,
+  "longitude": -109.86384172,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09196000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

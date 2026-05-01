@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02215900",
+  "key": "02215900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02215900",
+  "name": "LITTLE OCMULGEE RIVER AT GA 149, AT SCOTLAND, GA",
+  "waterbody": "LITTLE OCMULGEE RIVER AT GA 149, AT SCOTLAND, GA",
+  "state": "GA",
+  "latitude": 32.0523611,
+  "longitude": -82.8156111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Ocmulgee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sctg1",
+  "slug": "usgs-02215900",
+  "noaaForecastPath": "data/noaa-forecast/SCTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

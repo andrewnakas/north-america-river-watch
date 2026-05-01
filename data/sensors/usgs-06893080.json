@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893080",
+  "key": "06893080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893080",
+  "name": "BLUE R NR STANLEY, KS",
+  "waterbody": "BLUE R NR STANLEY, KS",
+  "state": "KS",
+  "latitude": 38.8125082,
+  "longitude": -94.6757906,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STAK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stak1",
+  "slug": "usgs-06893080",
+  "noaaForecastPath": "data/noaa-forecast/STAK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

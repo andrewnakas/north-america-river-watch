@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12120000",
+  "key": "12120000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12120000",
+  "name": "MERCER CREEK NEAR BELLEVUE, WA",
+  "waterbody": "MERCER CREEK NEAR BELLEVUE, WA",
+  "state": "WA",
+  "latitude": 47.60287716,
+  "longitude": -122.180956,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12120000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

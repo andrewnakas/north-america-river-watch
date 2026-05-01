@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02379500",
+  "key": "02379500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02379500",
+  "name": "CARTECAY RIVER NEAR ELLIJAY, GA",
+  "waterbody": "CARTECAY RIVER NEAR ELLIJAY, GA",
+  "state": "GA",
+  "latitude": 34.68413889,
+  "longitude": -84.4588056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EECG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cartecay River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eecg1",
+  "slug": "usgs-02379500",
+  "noaaForecastPath": "data/noaa-forecast/EECG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06186500",
+  "key": "06186500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06186500",
+  "name": "Yellowstone River at Yellowstone Lk Outlet YNP",
+  "waterbody": "Yellowstone River at Yellowstone Lk Outlet YNP",
+  "state": "WY",
+  "latitude": 44.56709167,
+  "longitude": -110.3804056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YLOW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellowstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ylow4",
+  "slug": "usgs-06186500",
+  "noaaForecastPath": "data/noaa-forecast/YLOW4.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

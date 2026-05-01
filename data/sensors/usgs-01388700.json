@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01388700",
+  "key": "01388700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01388700",
+  "name": "Beaver Dam Brook at Lincoln Park NJ",
+  "waterbody": "Beaver Dam Brook at Lincoln Park NJ",
+  "state": "NJ",
+  "latitude": 40.92472222,
+  "longitude": -74.3025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRLN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "at Ryerson",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrln4",
+  "slug": "usgs-01388700",
+  "noaaForecastPath": "data/noaa-forecast/RRLN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

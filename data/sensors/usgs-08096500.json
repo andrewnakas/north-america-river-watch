@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08096500",
+  "key": "08096500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08096500",
+  "name": "Brazos Rv at Waco, TX",
+  "waterbody": "Brazos Rv at Waco, TX",
+  "state": "TX",
+  "latitude": 31.53600056,
+  "longitude": -97.0733325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbat2",
+  "slug": "usgs-08096500",
+  "noaaForecastPath": "data/noaa-forecast/WBAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

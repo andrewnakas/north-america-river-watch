@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07026000",
+  "key": "07026000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07026000",
+  "name": "OBION RIVER AT OBION, TN",
+  "waterbody": "OBION RIVER AT OBION, TN",
+  "state": "TN",
+  "latitude": 36.25117909,
+  "longitude": -89.1925686,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07026000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

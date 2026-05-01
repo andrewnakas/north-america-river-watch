@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157300",
+  "key": "13157300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157300",
+  "name": "SOUTH ELMORE CANAL NR HAMMETT ID",
+  "waterbody": "SOUTH ELMORE CANAL NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.96055556,
+  "longitude": -115.6305556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

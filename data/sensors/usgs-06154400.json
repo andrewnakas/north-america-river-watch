@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06154400",
+  "key": "06154400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06154400",
+  "name": "Peoples Creek near Hays MT",
+  "waterbody": "Peoples Creek near Hays MT",
+  "state": "MT",
+  "latitude": 48.2237333,
+  "longitude": -108.7140528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PEOM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peoples Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/peom8",
+  "slug": "usgs-06154400",
+  "noaaForecastPath": "data/noaa-forecast/PEOM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

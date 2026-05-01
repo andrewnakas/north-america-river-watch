@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02198000",
+  "key": "02198000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02198000",
+  "name": "BRIER CREEK AT MILLHAVEN, GA",
+  "waterbody": "BRIER CREEK AT MILLHAVEN, GA",
+  "state": "GA",
+  "latitude": 32.93333333,
+  "longitude": -81.6506667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRIG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brier Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brig1",
+  "slug": "usgs-02198000",
+  "noaaForecastPath": "data/noaa-forecast/BRIG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

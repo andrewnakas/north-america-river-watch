@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03209200",
+  "key": "03209200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03209200",
+  "name": "RUSSELL FORK AT BARTLICK, VA",
+  "waterbody": "RUSSELL FORK AT BARTLICK, VA",
+  "state": "VA",
+  "latitude": 37.24594307,
+  "longitude": -82.32347869,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRFV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russell Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brfv2",
+  "slug": "usgs-03209200",
+  "noaaForecastPath": "data/noaa-forecast/BRFV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

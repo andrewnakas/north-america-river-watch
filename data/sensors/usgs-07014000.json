@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07014000",
+  "key": "07014000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07014000",
+  "name": "Huzzah Creek near Steelville, MO",
+  "waterbody": "Huzzah Creek near Steelville, MO",
+  "state": "MO",
+  "latitude": 37.97477778,
+  "longitude": -91.2040278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HZHM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Huzzah Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hzhm7",
+  "slug": "usgs-07014000",
+  "noaaForecastPath": "data/noaa-forecast/HZHM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

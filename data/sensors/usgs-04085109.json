@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04085109",
+  "key": "04085109",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085109",
+  "name": "EAST RIVER AT MIDWAY ROAD NEAR DE PERE, WI",
+  "waterbody": "EAST RIVER AT MIDWAY ROAD NEAR DE PERE, WI",
+  "state": "WI",
+  "latitude": 44.38665786,
+  "longitude": -88.0798244,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04085109",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

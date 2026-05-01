@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04279125",
+  "key": "04279125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04279125",
+  "name": "MOUNT HOPE BROOK AT SOUTH BAY NEAR WHITEHALL NY",
+  "waterbody": "MOUNT HOPE BROOK AT SOUTH BAY NEAR WHITEHALL NY",
+  "state": "NY",
+  "latitude": 43.52194444,
+  "longitude": -73.5069444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04279125",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05270500",
+  "key": "05270500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05270500",
+  "name": "SAUK RIVER NEAR ST. CLOUD, MN",
+  "waterbody": "SAUK RIVER NEAR ST. CLOUD, MN",
+  "state": "MN",
+  "latitude": 45.559632,
+  "longitude": -94.23375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STCM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sauk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stcm5",
+  "slug": "usgs-05270500",
+  "noaaForecastPath": "data/noaa-forecast/STCM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

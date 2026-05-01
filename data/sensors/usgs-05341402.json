@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05341402",
+  "key": "05341402",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05341402",
+  "name": "BALSAM BRANCH AT BALSAM LAKE, WI",
+  "waterbody": "BALSAM BRANCH AT BALSAM LAKE, WI",
+  "state": "WI",
+  "latitude": 45.44690309,
+  "longitude": -92.4504759,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05341402",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10164500",
+  "key": "10164500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10164500",
+  "name": "AMERICAN FK AB UPPER POWERPLANT NR AMERICAN FK, UT",
+  "waterbody": "AMERICAN FK AB UPPER POWERPLANT NR AMERICAN FK, UT",
+  "state": "UT",
+  "latitude": 40.4477297,
+  "longitude": -111.6821472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AFPU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "American Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/afpu1",
+  "slug": "usgs-10164500",
+  "noaaForecastPath": "data/noaa-forecast/AFPU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

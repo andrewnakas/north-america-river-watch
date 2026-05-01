@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13192200",
+  "key": "13192200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13192200",
+  "name": "SF BOISE RIVER AT NEAL BRIDGE NR ARROWROCK DAM ID",
+  "waterbody": "SF BOISE RIVER AT NEAL BRIDGE NR ARROWROCK DAM ID",
+  "state": "ID",
+  "latitude": 43.55055556,
+  "longitude": -115.7219444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13192200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

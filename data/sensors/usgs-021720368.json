@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021720368",
+  "key": "021720368",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021720368",
+  "name": "FRENCH QUARTER CREEK NEAR HUGER, SC",
+  "waterbody": "FRENCH QUARTER CREEK NEAR HUGER, SC",
+  "state": "SC",
+  "latitude": 33.0285,
+  "longitude": -79.8541111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FQCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Quarter Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fqcs1",
+  "slug": "usgs-021720368",
+  "noaaForecastPath": "data/noaa-forecast/FQCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.364Z"
+}

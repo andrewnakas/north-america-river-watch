@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12104500",
+  "key": "12104500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12104500",
+  "name": "GREEN RIVER NEAR LESTER, WA",
+  "waterbody": "GREEN RIVER NEAR LESTER, WA",
+  "state": "WA",
+  "latitude": 47.20760945,
+  "longitude": -121.5531519,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12104500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

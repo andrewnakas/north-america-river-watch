@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01409210",
+  "key": "01409210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01409210",
+  "name": "Mill Ck at Manahawkin NJ",
+  "waterbody": "Mill Ck at Manahawkin NJ",
+  "state": "NJ",
+  "latitude": 39.69527778,
+  "longitude": -74.2597222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01409210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

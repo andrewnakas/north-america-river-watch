@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03150700",
+  "key": "03150700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03150700",
+  "name": "OHIO RIVER AT MARIETTA, OH",
+  "waterbody": "OHIO RIVER AT MARIETTA, OH",
+  "state": "OH",
+  "latitude": 39.4095187,
+  "longitude": -81.45762149,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtao1",
+  "slug": "usgs-03150700",
+  "noaaForecastPath": "data/noaa-forecast/MTAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

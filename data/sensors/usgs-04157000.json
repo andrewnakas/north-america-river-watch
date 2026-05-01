@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04157000",
+  "key": "04157000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04157000",
+  "name": "SAGINAW RIVER AT SAGINAW, MI",
+  "waterbody": "SAGINAW RIVER AT SAGINAW, MI",
+  "state": "MI",
+  "latitude": 43.4128034,
+  "longitude": -83.9630294,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04157000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

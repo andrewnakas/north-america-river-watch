@@ -1,0 +1,19 @@
+{
+  "id": "usgs:330304090210100",
+  "key": "330304090210100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "330304090210100",
+  "name": "BEE LAKE TRIBUTARY NO 1 NR THORNTON, MS",
+  "waterbody": "BEE LAKE TRIBUTARY NO 1 NR THORNTON, MS",
+  "state": "MS",
+  "latitude": 33.0511111,
+  "longitude": -90.3502778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-330304090210100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

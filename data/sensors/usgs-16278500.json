@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16278500",
+  "key": "16278500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16278500",
+  "name": "Iolekaa Stream US of Heeia conf., Oahu, HI",
+  "waterbody": "Iolekaa Stream US of Heeia conf., Oahu, HI",
+  "state": "HI",
+  "latitude": 21.41819722,
+  "longitude": -157.823386,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16278500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

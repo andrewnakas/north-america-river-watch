@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10344400",
+  "key": "10344400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10344400",
+  "name": "LITTLE TRUCKEE R AB BOCA RES NR TRUCKEE CA",
+  "waterbody": "LITTLE TRUCKEE R AB BOCA RES NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.4357137,
+  "longitude": -120.0843395,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10344400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15040000",
+  "key": "15040000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15040000",
+  "name": "DOROTHY C NR JUNEAU AK",
+  "waterbody": "DOROTHY C NR JUNEAU AK",
+  "state": "AK",
+  "latitude": 58.227453,
+  "longitude": -134.0420256,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15040000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

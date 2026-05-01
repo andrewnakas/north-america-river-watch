@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08156675",
+  "key": "08156675",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08156675",
+  "name": "Shoal Ck at Silverway Dr, Austin, TX",
+  "waterbody": "Shoal Ck at Silverway Dr, Austin, TX",
+  "state": "TX",
+  "latitude": 30.35416667,
+  "longitude": -97.7388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoal Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asht2",
+  "slug": "usgs-08156675",
+  "noaaForecastPath": "data/noaa-forecast/ASHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

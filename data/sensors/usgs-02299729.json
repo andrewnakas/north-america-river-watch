@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299729",
+  "key": "02299729",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299729",
+  "name": "SHAKETT CREEK AT CR 762 NR NOKOMIS, FL",
+  "waterbody": "SHAKETT CREEK AT CR 762 NR NOKOMIS, FL",
+  "state": "FL",
+  "latitude": 27.137631,
+  "longitude": -82.435681,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKTF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shakett Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sktf1",
+  "slug": "usgs-02299729",
+  "noaaForecastPath": "data/noaa-forecast/SKTF1.json",
+  "generatedAt": "2026-05-01T12:10:11.200Z"
+}

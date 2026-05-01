@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12178100",
+  "key": "12178100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12178100",
+  "name": "NEWHALEM CREEK NEAR NEWHALEM, WA",
+  "waterbody": "NEWHALEM CREEK NEAR NEWHALEM, WA",
+  "state": "WA",
+  "latitude": 48.66012536,
+  "longitude": -121.2476233,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12178100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

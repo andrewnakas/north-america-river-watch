@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02303800",
+  "key": "02303800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02303800",
+  "name": "CYPRESS CREEK NEAR SULPHUR SPRINGS FL",
+  "waterbody": "CYPRESS CREEK NEAR SULPHUR SPRINGS FL",
+  "state": "FL",
+  "latitude": 28.08888889,
+  "longitude": -82.40916667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SULF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sulf1",
+  "slug": "usgs-02303800",
+  "noaaForecastPath": "data/noaa-forecast/SULF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

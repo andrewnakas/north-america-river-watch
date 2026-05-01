@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02274005",
+  "key": "02274005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02274005",
+  "name": "OTTER CREEK NEAR OKEECHOBEE, FL",
+  "waterbody": "OTTER CREEK NEAR OKEECHOBEE, FL",
+  "state": "FL",
+  "latitude": 27.37754217,
+  "longitude": -80.8453388,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02274005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

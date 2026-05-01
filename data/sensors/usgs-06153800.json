@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06153800",
+  "key": "06153800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06153800",
+  "name": "Milk River at Merrill Rd, nr Harlem, MT",
+  "waterbody": "Milk River at Merrill Rd, nr Harlem, MT",
+  "state": "MT",
+  "latitude": 48.52430556,
+  "longitude": -108.8551667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06153800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068325",
+  "key": "08068325",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068325",
+  "name": "Willow Ck nr Tomball, TX",
+  "waterbody": "Willow Ck nr Tomball, TX",
+  "state": "TX",
+  "latitude": 30.10549526,
+  "longitude": -95.5466084,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwct2",
+  "slug": "usgs-08068325",
+  "noaaForecastPath": "data/noaa-forecast/LWCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

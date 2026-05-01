@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02308861",
+  "key": "02308861",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02308861",
+  "name": "CROSS BAYOU CNL AT CEDAR BRK DR AT PINELLAS PK FL",
+  "waterbody": "CROSS BAYOU CNL AT CEDAR BRK DR AT PINELLAS PK FL",
+  "state": "FL",
+  "latitude": 27.8733622,
+  "longitude": -82.72681934,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cross Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cscf1",
+  "slug": "usgs-02308861",
+  "noaaForecastPath": "data/noaa-forecast/CSCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

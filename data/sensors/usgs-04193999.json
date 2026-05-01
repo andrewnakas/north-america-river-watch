@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04193999",
+  "key": "04193999",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04193999",
+  "name": "Wolf Creek at Holland OH",
+  "waterbody": "Wolf Creek at Holland OH",
+  "state": "OH",
+  "latitude": 41.60944444,
+  "longitude": -83.6841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek (Lucas County)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/holo1",
+  "slug": "usgs-04193999",
+  "noaaForecastPath": "data/noaa-forecast/HOLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

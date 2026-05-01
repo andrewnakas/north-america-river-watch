@@ -1,0 +1,19 @@
+{
+  "id": "usgs:443404122240500",
+  "key": "443404122240500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "443404122240500",
+  "name": "BOULDER CREEK NEAR CASCADIA, OR",
+  "waterbody": "BOULDER CREEK NEAR CASCADIA, OR",
+  "state": "OR",
+  "latitude": 44.56785278,
+  "longitude": -122.4014694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-443404122240500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.351Z"
+}

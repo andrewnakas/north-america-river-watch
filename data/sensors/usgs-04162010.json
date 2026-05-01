@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04162010",
+  "key": "04162010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04162010",
+  "name": "RED RUN AT RYAN ROAD NEAR WARREN, MI",
+  "waterbody": "RED RUN AT RYAN ROAD NEAR WARREN, MI",
+  "state": "MI",
+  "latitude": 42.52945126,
+  "longitude": -83.06847275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04162010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

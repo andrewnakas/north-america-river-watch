@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01531908",
+  "key": "01531908",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01531908",
+  "name": "Towanda Creek near Franklindale, PA",
+  "waterbody": "Towanda Creek near Franklindale, PA",
+  "state": "PA",
+  "latitude": 41.69777778,
+  "longitude": -76.5786111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCFP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Towanda Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcfp1",
+  "slug": "usgs-01531908",
+  "noaaForecastPath": "data/noaa-forecast/TCFP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

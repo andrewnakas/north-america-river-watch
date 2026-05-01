@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05517890",
+  "key": "05517890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05517890",
+  "name": "COBB DITCH NEAR KOUTS, IND.",
+  "waterbody": "COBB DITCH NEAR KOUTS, IND.",
+  "state": "IN",
+  "latitude": 41.3386299,
+  "longitude": -87.0749979,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05517890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

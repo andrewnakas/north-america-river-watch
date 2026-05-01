@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01113695",
+  "key": "01113695",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01113695",
+  "name": "CATAMINT BROOK AT CUMBERLAND, RI",
+  "waterbody": "CATAMINT BROOK AT CUMBERLAND, RI",
+  "state": "RI",
+  "latitude": 41.98509878,
+  "longitude": -71.41366908,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01113695",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

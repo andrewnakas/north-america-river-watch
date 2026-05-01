@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03298000",
+  "key": "03298000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298000",
+  "name": "FLOYDS FORK AT FISHERVILLE, KY",
+  "waterbody": "FLOYDS FORK AT FISHERVILLE, KY",
+  "state": "KY",
+  "latitude": 38.18840166,
+  "longitude": -85.460235,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Floyds Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fsvk2",
+  "slug": "usgs-03298000",
+  "noaaForecastPath": "data/noaa-forecast/FSVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

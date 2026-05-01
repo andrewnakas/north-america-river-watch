@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08109700",
+  "key": "08109700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08109700",
+  "name": "Middle Yegua Ck nr Dime Box, TX",
+  "waterbody": "Middle Yegua Ck nr Dime Box, TX",
+  "state": "TX",
+  "latitude": 30.33937764,
+  "longitude": -96.9047037,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DMYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Yegua Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dmyt2",
+  "slug": "usgs-08109700",
+  "noaaForecastPath": "data/noaa-forecast/DMYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

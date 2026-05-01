@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08181480",
+  "key": "08181480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08181480",
+  "name": "Leon Ck at IH 35, San Antonio, TX",
+  "waterbody": "Leon Ck at IH 35, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.32995837,
+  "longitude": -98.5841856,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkst2",
+  "slug": "usgs-08181480",
+  "noaaForecastPath": "data/noaa-forecast/LKST2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

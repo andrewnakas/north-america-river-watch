@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09496500",
+  "key": "09496500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09496500",
+  "name": "CARRIZO CREEK NEAR SHOW LOW, AZ.",
+  "waterbody": "CARRIZO CREEK NEAR SHOW LOW, AZ.",
+  "state": "AZ",
+  "latitude": 33.98589336,
+  "longitude": -110.2809554,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRZA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carrizo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crza3",
+  "slug": "usgs-09496500",
+  "noaaForecastPath": "data/noaa-forecast/CRZA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

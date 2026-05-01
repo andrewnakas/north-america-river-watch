@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13173500",
+  "key": "13173500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13173500",
+  "name": "SUCCOR CREEK AT MOUTH NR HOMEDALE ID",
+  "waterbody": "SUCCOR CREEK AT MOUTH NR HOMEDALE ID",
+  "state": "ID",
+  "latitude": 43.61765828,
+  "longitude": -116.954872,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Succor Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suci1",
+  "slug": "usgs-13173500",
+  "noaaForecastPath": "data/noaa-forecast/SUCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

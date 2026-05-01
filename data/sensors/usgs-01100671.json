@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100671",
+  "key": "01100671",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100671",
+  "name": "MERRIMACK RIVER DS STANLEY ISLAND. HAVERHILL, MA",
+  "waterbody": "MERRIMACK RIVER DS STANLEY ISLAND. HAVERHILL, MA",
+  "state": "MA",
+  "latitude": 42.76744444,
+  "longitude": -71.1111111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100671",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

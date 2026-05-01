@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10302160",
+  "key": "10302160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10302160",
+  "name": "COTTONWOOD CK NR WALKER LAKE, NV",
+  "waterbody": "COTTONWOOD CK NR WALKER LAKE, NV",
+  "state": "NV",
+  "latitude": 38.5779755,
+  "longitude": -118.8243069,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10302160",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

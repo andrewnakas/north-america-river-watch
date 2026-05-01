@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03401000",
+  "key": "03401000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03401000",
+  "name": "CUMBERLAND RIVER NEAR HARLAN, KY",
+  "waterbody": "CUMBERLAND RIVER NEAR HARLAN, KY",
+  "state": "KY",
+  "latitude": 36.84675484,
+  "longitude": -83.3557386,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lylk2",
+  "slug": "usgs-03401000",
+  "noaaForecastPath": "data/noaa-forecast/LYLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

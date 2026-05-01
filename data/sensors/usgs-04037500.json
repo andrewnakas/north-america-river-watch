@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04037500",
+  "key": "04037500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04037500",
+  "name": "CISCO BRANCH ONTONAGON R AT CISCO LAKE OUTLET, MI",
+  "waterbody": "CISCO BRANCH ONTONAGON R AT CISCO LAKE OUTLET, MI",
+  "state": "MI",
+  "latitude": 46.25330556,
+  "longitude": -89.4524722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cisco Branch Ontonagon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orcm4",
+  "slug": "usgs-04037500",
+  "noaaForecastPath": "data/noaa-forecast/ORCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

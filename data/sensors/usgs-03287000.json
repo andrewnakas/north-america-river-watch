@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03287000",
+  "key": "03287000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03287000",
+  "name": "KENTUCKY RIVER AT LOCK 6 NEAR SALVISA, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 6 NEAR SALVISA, KY",
+  "state": "KY",
+  "latitude": 37.925556,
+  "longitude": -84.821389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slvk2",
+  "slug": "usgs-03287000",
+  "noaaForecastPath": "data/noaa-forecast/SLVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01660920",
+  "key": "01660920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01660920",
+  "name": "ZEKIAH SWAMP RUN NEAR NEWTOWN, MD",
+  "waterbody": "ZEKIAH SWAMP RUN NEAR NEWTOWN, MD",
+  "state": "MD",
+  "latitude": 38.4905833,
+  "longitude": -76.9270833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZSRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Zekiah Swamp Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zsrm2",
+  "slug": "usgs-01660920",
+  "noaaForecastPath": "data/noaa-forecast/ZSRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

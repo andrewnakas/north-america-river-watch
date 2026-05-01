@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12365000",
+  "key": "12365000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12365000",
+  "name": "Stillwater River near Whitefish MT",
+  "waterbody": "Stillwater River near Whitefish MT",
+  "state": "MT",
+  "latitude": 48.31905278,
+  "longitude": -114.3871583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12365000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08025240",
+  "key": "08025240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08025240",
+  "name": "Housen Bayou at SH 87 nr Hemphill, TX",
+  "waterbody": "Housen Bayou at SH 87 nr Hemphill, TX",
+  "state": "TX",
+  "latitude": 31.30316389,
+  "longitude": -93.8443472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08025240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

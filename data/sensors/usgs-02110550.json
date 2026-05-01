@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02110550",
+  "key": "02110550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110550",
+  "name": "WACCAMAW RIVER ABOVE CONWAY, SC",
+  "waterbody": "WACCAMAW RIVER ABOVE CONWAY, SC",
+  "state": "SC",
+  "latitude": 33.8508333,
+  "longitude": -78.8972222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACWS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waccamaw River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acws1",
+  "slug": "usgs-02110550",
+  "noaaForecastPath": "data/noaa-forecast/ACWS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103980",
+  "key": "07103980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103980",
+  "name": "COTTONWOOD CREEK AT WOODMEN RD NR COLO SPRINGS, CO",
+  "waterbody": "COTTONWOOD CREEK AT WOODMEN RD NR COLO SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.939444,
+  "longitude": -104.740556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

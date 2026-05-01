@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04085427",
+  "key": "04085427",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085427",
+  "name": "MANITOWOC RIVER AT MANITOWOC, WI",
+  "waterbody": "MANITOWOC RIVER AT MANITOWOC, WI",
+  "state": "WI",
+  "latitude": 44.10616667,
+  "longitude": -87.7160278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTWW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manitowoc River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtww3",
+  "slug": "usgs-04085427",
+  "noaaForecastPath": "data/noaa-forecast/MTWW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:400351107244701",
+  "key": "400351107244701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "400351107244701",
+  "name": "NORTH FORK WHITE RIVER BELOW MISSOURI CREEK, CO",
+  "waterbody": "NORTH FORK WHITE RIVER BELOW MISSOURI CREEK, CO",
+  "state": "CO",
+  "latitude": 40.0642,
+  "longitude": -107.413,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-400351107244701",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

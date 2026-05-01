@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11277300",
+  "key": "11277300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11277300",
+  "name": "CHERRY C BL VALLEY DAM NR HETCH HETCHY CA",
+  "waterbody": "CHERRY C BL VALLEY DAM NR HETCH HETCHY CA",
+  "state": "CA",
+  "latitude": 37.96768499,
+  "longitude": -119.91737025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11277300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

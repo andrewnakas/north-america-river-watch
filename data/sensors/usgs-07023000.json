@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07023000",
+  "key": "07023000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07023000",
+  "name": "MAYFIELD CREEK AT LOVELACEVILLE, KY",
+  "waterbody": "MAYFIELD CREEK AT LOVELACEVILLE, KY",
+  "state": "KY",
+  "latitude": 36.9525769,
+  "longitude": -88.825053,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07023000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

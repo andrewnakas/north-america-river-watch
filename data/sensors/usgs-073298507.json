@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073298507",
+  "key": "073298507",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073298507",
+  "name": "Travertine Creek above U.S. 177 at Sulphur",
+  "waterbody": "Travertine Creek above U.S. 177 at Sulphur",
+  "state": "OK",
+  "latitude": 34.504444,
+  "longitude": -96.968889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Travertine Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stco2",
+  "slug": "usgs-073298507",
+  "noaaForecastPath": "data/noaa-forecast/STCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

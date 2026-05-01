@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09035880",
+  "key": "09035880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09035880",
+  "name": "S. FK. WILLIAMS FORK BLW OLD BALDY MT NR LEAL, CO",
+  "waterbody": "S. FK. WILLIAMS FORK BLW OLD BALDY MT NR LEAL, CO",
+  "state": "CO",
+  "latitude": 39.75887518,
+  "longitude": -106.0361291,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09035880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

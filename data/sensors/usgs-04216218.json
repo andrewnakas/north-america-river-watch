@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04216218",
+  "key": "04216218",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04216218",
+  "name": "BLACK ROCK CANAL AT BLACK ROCK LOCK, BUFFALO NY",
+  "waterbody": "BLACK ROCK CANAL AT BLACK ROCK LOCK, BUFFALO NY",
+  "state": "NY",
+  "latitude": 42.9338333,
+  "longitude": -78.905,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTEQ6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Niagara River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fteq6",
+  "slug": "usgs-04216218",
+  "noaaForecastPath": "data/noaa-forecast/FTEQ6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

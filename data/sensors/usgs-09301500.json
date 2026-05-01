@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09301500",
+  "key": "09301500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09301500",
+  "name": "UINTA RIVER AT RANDLETT, UT",
+  "waterbody": "UINTA RIVER AT RANDLETT, UT",
+  "state": "UT",
+  "latitude": 40.23355686,
+  "longitude": -109.803777,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "URRU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Uinta River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/urru1",
+  "slug": "usgs-09301500",
+  "noaaForecastPath": "data/noaa-forecast/URRU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

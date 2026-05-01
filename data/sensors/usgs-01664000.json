@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01664000",
+  "key": "01664000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01664000",
+  "name": "RAPPAHANNOCK RIVER AT REMINGTON, VA",
+  "waterbody": "RAPPAHANNOCK RIVER AT REMINGTON, VA",
+  "state": "VA",
+  "latitude": 38.5305957,
+  "longitude": -77.8135912,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RENV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rappahannock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/renv2",
+  "slug": "usgs-01664000",
+  "noaaForecastPath": "data/noaa-forecast/RENV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

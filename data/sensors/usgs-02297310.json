@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02297310",
+  "key": "02297310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02297310",
+  "name": "HORSE CREEK AT SR 72 NEAR ARCADIA, FL",
+  "waterbody": "HORSE CREEK AT SR 72 NEAR ARCADIA, FL",
+  "state": "FL",
+  "latitude": 27.19949477,
+  "longitude": -81.9884193,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Horse Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arhf1",
+  "slug": "usgs-02297310",
+  "noaaForecastPath": "data/noaa-forecast/ARHF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

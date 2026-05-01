@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02264495",
+  "key": "02264495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02264495",
+  "name": "SHINGLE CREEK AT CAMPBELL, FL",
+  "waterbody": "SHINGLE CREEK AT CAMPBELL, FL",
+  "state": "FL",
+  "latitude": 28.26723444,
+  "longitude": -81.4478495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHIF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shingle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shif1",
+  "slug": "usgs-02264495",
+  "noaaForecastPath": "data/noaa-forecast/SHIF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

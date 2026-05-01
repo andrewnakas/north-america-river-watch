@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15478000",
+  "key": "15478000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15478000",
+  "name": "TANANA R AT BIG DELTA AK",
+  "waterbody": "TANANA R AT BIG DELTA AK",
+  "state": "AK",
+  "latitude": 64.1551284,
+  "longitude": -145.8523536,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tanana River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgda2",
+  "slug": "usgs-15478000",
+  "noaaForecastPath": "data/noaa-forecast/BGDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

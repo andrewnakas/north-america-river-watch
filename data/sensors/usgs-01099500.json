@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01099500",
+  "key": "01099500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01099500",
+  "name": "CONCORD R BELOW R MEADOW BROOK, AT LOWELL, MA",
+  "waterbody": "CONCORD R BELOW R MEADOW BROOK, AT LOWELL, MA",
+  "state": "MA",
+  "latitude": 42.6367581,
+  "longitude": -71.3020047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCNM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Concord River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcnm3",
+  "slug": "usgs-01099500",
+  "noaaForecastPath": "data/noaa-forecast/LCNM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

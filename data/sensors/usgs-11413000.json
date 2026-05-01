@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11413000",
+  "key": "11413000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11413000",
+  "name": "N YUBA R BL GOODYEARS BAR CA",
+  "waterbody": "N YUBA R BL GOODYEARS BAR CA",
+  "state": "CA",
+  "latitude": 39.52487147,
+  "longitude": -120.9379749,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Yuba River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gyrc1",
+  "slug": "usgs-11413000",
+  "noaaForecastPath": "data/noaa-forecast/GYRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

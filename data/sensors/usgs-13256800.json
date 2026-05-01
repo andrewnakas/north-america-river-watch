@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13256800",
+  "key": "13256800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13256800",
+  "name": "MF WEISER RIVER AB FALL CREEK NR MESA ID",
+  "waterbody": "MF WEISER RIVER AB FALL CREEK NR MESA ID",
+  "state": "ID",
+  "latitude": 44.64516568,
+  "longitude": -116.3740306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13256800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

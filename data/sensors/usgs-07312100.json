@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07312100",
+  "key": "07312100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07312100",
+  "name": "Wichita Rv nr Mabelle, TX",
+  "waterbody": "Wichita Rv nr Mabelle, TX",
+  "state": "TX",
+  "latitude": 33.7600934,
+  "longitude": -99.1428495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SYOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/syot2",
+  "slug": "usgs-07312100",
+  "noaaForecastPath": "data/noaa-forecast/SYOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

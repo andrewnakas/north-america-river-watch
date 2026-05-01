@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05420560",
+  "key": "05420560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05420560",
+  "name": "Wapsipinicon River near Elma, IA",
+  "waterbody": "Wapsipinicon River near Elma, IA",
+  "state": "IA",
+  "latitude": 43.2416088,
+  "longitude": -92.5330973,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05420560",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

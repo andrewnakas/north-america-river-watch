@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02400680",
+  "key": "02400680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02400680",
+  "name": "BIG WILLS CREEK AT STATE HWY 35 NR FORT PAYNE, AL",
+  "waterbody": "BIG WILLS CREEK AT STATE HWY 35 NR FORT PAYNE, AL",
+  "state": "AL",
+  "latitude": 34.43814386,
+  "longitude": -85.7671907,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGWA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Wills Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgwa1",
+  "slug": "usgs-02400680",
+  "noaaForecastPath": "data/noaa-forecast/BGWA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

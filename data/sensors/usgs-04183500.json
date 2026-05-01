@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04183500",
+  "key": "04183500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04183500",
+  "name": "Maumee River at Antwerp OH",
+  "waterbody": "Maumee River at Antwerp OH",
+  "state": "OH",
+  "latitude": 41.19893889,
+  "longitude": -84.7444033,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANTO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maumee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anto1",
+  "slug": "usgs-04183500",
+  "noaaForecastPath": "data/noaa-forecast/ANTO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

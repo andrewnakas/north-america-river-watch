@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03306000",
+  "key": "03306000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03306000",
+  "name": "GREEN RIVER NEAR CAMPBELLSVILLE, KY",
+  "waterbody": "GREEN RIVER NEAR CAMPBELLSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.2403413,
+  "longitude": -85.3471848,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grlk2",
+  "slug": "usgs-03306000",
+  "noaaForecastPath": "data/noaa-forecast/GRLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

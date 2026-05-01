@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08220000",
+  "key": "08220000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08220000",
+  "name": "RIO GRANDE NEAR DEL NORTE, CO",
+  "waterbody": "RIO GRANDE NEAR DEL NORTE, CO",
+  "state": "CO",
+  "latitude": 37.6886111,
+  "longitude": -106.4598611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnrc2",
+  "slug": "usgs-08220000",
+  "noaaForecastPath": "data/noaa-forecast/DNRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

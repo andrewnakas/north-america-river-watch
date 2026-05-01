@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05451500",
+  "key": "05451500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05451500",
+  "name": "Iowa River at Marshalltown, IA",
+  "waterbody": "Iowa River at Marshalltown, IA",
+  "state": "IA",
+  "latitude": 42.06582096,
+  "longitude": -92.9076997,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MIWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/miwi4",
+  "slug": "usgs-05451500",
+  "noaaForecastPath": "data/noaa-forecast/MIWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

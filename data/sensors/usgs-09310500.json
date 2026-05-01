@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09310500",
+  "key": "09310500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09310500",
+  "name": "FISH CREEK ABOVE RESERVOIR, NEAR SCOFIELD, UT",
+  "waterbody": "FISH CREEK ABOVE RESERVOIR, NEAR SCOFIELD, UT",
+  "state": "UT",
+  "latitude": 39.77440566,
+  "longitude": -111.191006,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCNU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fish Creek (UT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcnu1",
+  "slug": "usgs-09310500",
+  "noaaForecastPath": "data/noaa-forecast/FCNU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

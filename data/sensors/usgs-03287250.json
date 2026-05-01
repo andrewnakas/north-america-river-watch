@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03287250",
+  "key": "03287250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03287250",
+  "name": "KENTUCKY RIVER AT LOCK 5 NEAR TYRONE, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 5 NEAR TYRONE, KY",
+  "state": "KY",
+  "latitude": 38.0528805,
+  "longitude": -84.8311989,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYRK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tyrk2",
+  "slug": "usgs-03287250",
+  "noaaForecastPath": "data/noaa-forecast/TYRK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

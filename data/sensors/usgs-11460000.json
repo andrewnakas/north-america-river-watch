@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11460000",
+  "key": "11460000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11460000",
+  "name": "CORTE MADERA C A ROSS CA",
+  "waterbody": "CORTE MADERA C A ROSS CA",
+  "state": "CA",
+  "latitude": 37.96294006,
+  "longitude": -122.5568837,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Corte Madera Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmdc1",
+  "slug": "usgs-11460000",
+  "noaaForecastPath": "data/noaa-forecast/CMDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

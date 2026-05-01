@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06871800",
+  "key": "06871800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06871800",
+  "name": "NF SOLOMON R AT KIRWIN, KS",
+  "waterbody": "NF SOLOMON R AT KIRWIN, KS",
+  "state": "KS",
+  "latitude": 39.6600106,
+  "longitude": -99.115644,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRWK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N F Solomon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krwk1",
+  "slug": "usgs-06871800",
+  "noaaForecastPath": "data/noaa-forecast/KRWK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

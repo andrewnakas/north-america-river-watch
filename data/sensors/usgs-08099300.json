@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08099300",
+  "key": "08099300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08099300",
+  "name": "Sabana Rv nr De Leon, TX",
+  "waterbody": "Sabana Rv nr De Leon, TX",
+  "state": "TX",
+  "latitude": 32.11402957,
+  "longitude": -98.6056067,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DSBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabana River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dsbt2",
+  "slug": "usgs-08099300",
+  "noaaForecastPath": "data/noaa-forecast/DSBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

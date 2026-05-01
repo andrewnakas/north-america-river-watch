@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03596000",
+  "key": "03596000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03596000",
+  "name": "DUCK RIVER BELOW MANCHESTER, TN",
+  "waterbody": "DUCK RIVER BELOW MANCHESTER, TN",
+  "state": "TN",
+  "latitude": 35.4709384,
+  "longitude": -86.1216354,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCST1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duck River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcst1",
+  "slug": "usgs-03596000",
+  "noaaForecastPath": "data/noaa-forecast/MCST1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

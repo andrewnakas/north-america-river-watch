@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07239300",
+  "key": "07239300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07239300",
+  "name": "North Canadian River blw Weavers Ck nr Watonga, OK",
+  "waterbody": "North Canadian River blw Weavers Ck nr Watonga, OK",
+  "state": "OK",
+  "latitude": 35.8119886,
+  "longitude": -98.4209053,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WATO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wato2",
+  "slug": "usgs-07239300",
+  "noaaForecastPath": "data/noaa-forecast/WATO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

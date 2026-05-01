@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14158050",
+  "key": "14158050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14158050",
+  "name": "WILLAMETTE RIVER AT EUGENE, OR",
+  "waterbody": "WILLAMETTE RIVER AT EUGENE, OR",
+  "state": "OR",
+  "latitude": 44.0525,
+  "longitude": -123.0827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EUGO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willamette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eugo3",
+  "slug": "usgs-14158050",
+  "noaaForecastPath": "data/noaa-forecast/EUGO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

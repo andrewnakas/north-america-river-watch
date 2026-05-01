@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08110520",
+  "key": "08110520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110520",
+  "name": "Brushy Ck at SH 7 nr Marquez, TX",
+  "waterbody": "Brushy Ck at SH 7 nr Marquez, TX",
+  "state": "TX",
+  "latitude": 31.24730278,
+  "longitude": -96.2155944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08110520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

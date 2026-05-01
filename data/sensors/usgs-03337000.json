@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03337000",
+  "key": "03337000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03337000",
+  "name": "BONEYARD CREEK AT URBANA, IL",
+  "waterbody": "BONEYARD CREEK AT URBANA, IL",
+  "state": "IL",
+  "latitude": 40.11130556,
+  "longitude": -88.2265556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYAI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boneyard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/byai2",
+  "slug": "usgs-03337000",
+  "noaaForecastPath": "data/noaa-forecast/BYAI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

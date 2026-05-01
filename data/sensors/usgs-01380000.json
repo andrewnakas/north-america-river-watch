@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01380000",
+  "key": "01380000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01380000",
+  "name": "Beaver Brook at outlet of Splitrock Reservoir NJ",
+  "waterbody": "Beaver Brook at outlet of Splitrock Reservoir NJ",
+  "state": "NJ",
+  "latitude": 40.96305556,
+  "longitude": -74.46,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01380000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

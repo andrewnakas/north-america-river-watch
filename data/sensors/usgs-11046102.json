@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046102",
+  "key": "11046102",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046102",
+  "name": "LAS FLORES C LAGOON A MOUTH NR OCEANSIDE CA",
+  "waterbody": "LAS FLORES C LAGOON A MOUTH NR OCEANSIDE CA",
+  "state": "CA",
+  "latitude": 33.29055556,
+  "longitude": -117.465,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046102",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

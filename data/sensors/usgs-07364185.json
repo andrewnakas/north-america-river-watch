@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07364185",
+  "key": "07364185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07364185",
+  "name": "Bayou Bartholomew near Portland, AR",
+  "waterbody": "Bayou Bartholomew near Portland, AR",
+  "state": "AR",
+  "latitude": 33.23555556,
+  "longitude": -91.5355556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBPA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Bartholomew",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbpa4",
+  "slug": "usgs-07364185",
+  "noaaForecastPath": "data/noaa-forecast/BBPA4.json",
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

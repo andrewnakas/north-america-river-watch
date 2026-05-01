@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01109000",
+  "key": "01109000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109000",
+  "name": "WADING RIVER NEAR NORTON, MA",
+  "waterbody": "WADING RIVER NEAR NORTON, MA",
+  "state": "MA",
+  "latitude": 41.94760015,
+  "longitude": -71.1767155,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NORM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wading River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/norm3",
+  "slug": "usgs-01109000",
+  "noaaForecastPath": "data/noaa-forecast/NORM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04125550",
+  "key": "04125550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04125550",
+  "name": "MANISTEE RIVER NEAR WELLSTON, MI",
+  "waterbody": "MANISTEE RIVER NEAR WELLSTON, MI",
+  "state": "MI",
+  "latitude": 44.25944459,
+  "longitude": -85.9416248,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manistee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlsm4",
+  "slug": "usgs-04125550",
+  "noaaForecastPath": "data/noaa-forecast/WLSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05593000",
+  "key": "05593000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05593000",
+  "name": "KASKASKIA RIVER AT CARLYLE, IL",
+  "waterbody": "KASKASKIA RIVER AT CARLYLE, IL",
+  "state": "IL",
+  "latitude": 38.61027778,
+  "longitude": -89.3575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCAI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaskaskia River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcai2",
+  "slug": "usgs-05593000",
+  "noaaForecastPath": "data/noaa-forecast/KCAI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14194300",
+  "key": "14194300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14194300",
+  "name": "NORTH YAMHILL RIVER NEAR FAIRDALE, OR",
+  "waterbody": "NORTH YAMHILL RIVER NEAR FAIRDALE, OR",
+  "state": "OR",
+  "latitude": 45.3651117,
+  "longitude": -123.3789995,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NYFO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Yamhill River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nyfo3",
+  "slug": "usgs-14194300",
+  "noaaForecastPath": "data/noaa-forecast/NYFO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

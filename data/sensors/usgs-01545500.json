@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01545500",
+  "key": "01545500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01545500",
+  "name": "West Branch Susquehanna River at Renovo, PA",
+  "waterbody": "West Branch Susquehanna River at Renovo, PA",
+  "state": "PA",
+  "latitude": 41.32367797,
+  "longitude": -77.7499869,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rovp1",
+  "slug": "usgs-01545500",
+  "noaaForecastPath": "data/noaa-forecast/ROVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

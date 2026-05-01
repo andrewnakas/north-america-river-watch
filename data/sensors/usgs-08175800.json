@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08175800",
+  "key": "08175800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08175800",
+  "name": "Guadalupe Rv at Cuero, TX",
+  "waterbody": "Guadalupe Rv at Cuero, TX",
+  "state": "TX",
+  "latitude": 29.09053147,
+  "longitude": -97.3297129,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CUET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cuet2",
+  "slug": "usgs-08175800",
+  "noaaForecastPath": "data/noaa-forecast/CUET2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

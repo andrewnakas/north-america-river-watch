@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03175500",
+  "key": "03175500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03175500",
+  "name": "WOLF CREEK NEAR NARROWS, VA",
+  "waterbody": "WOLF CREEK NEAR NARROWS, VA",
+  "state": "VA",
+  "latitude": 37.30567654,
+  "longitude": -80.8497993,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wolv2",
+  "slug": "usgs-03175500",
+  "noaaForecastPath": "data/noaa-forecast/WOLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

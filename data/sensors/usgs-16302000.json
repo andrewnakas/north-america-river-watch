@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16302000",
+  "key": "16302000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16302000",
+  "name": "Punaluu Ditch nr Punaluu, Oahu, HI",
+  "waterbody": "Punaluu Ditch nr Punaluu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.55827778,
+  "longitude": -157.9003056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16302000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

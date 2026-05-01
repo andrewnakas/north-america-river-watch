@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353200",
+  "key": "03353200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353200",
+  "name": "EAGLE CREEK AT ZIONSVILLE, IN",
+  "waterbody": "EAGLE CREEK AT ZIONSVILLE, IN",
+  "state": "IN",
+  "latitude": 39.94642217,
+  "longitude": -86.260249,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZONI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zoni3",
+  "slug": "usgs-03353200",
+  "noaaForecastPath": "data/noaa-forecast/ZONI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

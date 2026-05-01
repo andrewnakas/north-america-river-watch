@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07177600",
+  "key": "07177600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07177600",
+  "name": "Bird Creek at 66th Street near Tulsa, OK",
+  "waterbody": "Bird Creek at 66th Street near Tulsa, OK",
+  "state": "OK",
+  "latitude": 36.24925896,
+  "longitude": -95.9433287,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07177600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

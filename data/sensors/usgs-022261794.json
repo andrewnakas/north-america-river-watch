@@ -1,0 +1,22 @@
+{
+  "id": "usgs:022261794",
+  "key": "022261794",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "022261794",
+  "name": "BRUNSWICK RIVER AT BRUNSWICK, GA",
+  "waterbody": "BRUNSWICK RIVER AT BRUNSWICK, GA",
+  "state": "GA",
+  "latitude": 31.12189788,
+  "longitude": -81.48287748,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brunswick River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbng1",
+  "slug": "usgs-022261794",
+  "noaaForecastPath": "data/noaa-forecast/SBNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

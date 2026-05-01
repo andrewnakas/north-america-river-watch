@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01410150",
+  "key": "01410150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01410150",
+  "name": "East Branch Bass River near New Gretna NJ",
+  "waterbody": "East Branch Bass River near New Gretna NJ",
+  "state": "NJ",
+  "latitude": 39.62305556,
+  "longitude": -74.44138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NGTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Bass River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ngtn4",
+  "slug": "usgs-01410150",
+  "noaaForecastPath": "data/noaa-forecast/NGTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

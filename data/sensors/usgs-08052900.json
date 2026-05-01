@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08052900",
+  "key": "08052900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08052900",
+  "name": "Prairie Ck at N Kealey Ave nr Lewisville, TX",
+  "waterbody": "Prairie Ck at N Kealey Ave nr Lewisville, TX",
+  "state": "TX",
+  "latitude": 33.0538611,
+  "longitude": -96.9933333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08052900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

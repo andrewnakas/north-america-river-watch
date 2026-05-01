@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419656",
+  "key": "09419656",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419656",
+  "name": "LAS VEGAS CK CONFL NR NORTH LV, NV",
+  "waterbody": "LAS VEGAS CK CONFL NR NORTH LV, NV",
+  "state": "NV",
+  "latitude": 36.18330455,
+  "longitude": -115.0886112,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419656",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

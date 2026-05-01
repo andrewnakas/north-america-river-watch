@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01566000",
+  "key": "01566000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01566000",
+  "name": "Tuscarora Creek near Port Royal, PA",
+  "waterbody": "Tuscarora Creek near Port Royal, PA",
+  "state": "PA",
+  "latitude": 40.5153564,
+  "longitude": -77.41915568,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PORP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarora Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/porp1",
+  "slug": "usgs-01566000",
+  "noaaForecastPath": "data/noaa-forecast/PORP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03324200",
+  "key": "03324200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03324200",
+  "name": "SALAMONIE RIVER AT PORTLAND, IN",
+  "waterbody": "SALAMONIE RIVER AT PORTLAND, IN",
+  "state": "IN",
+  "latitude": 40.4277222,
+  "longitude": -85.039,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PORI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salamonie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pori3",
+  "slug": "usgs-03324200",
+  "noaaForecastPath": "data/noaa-forecast/PORI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

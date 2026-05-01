@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14020000",
+  "key": "14020000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14020000",
+  "name": "UMATILLA RIVER ABOVE MEACHAM CREEK, NR GIBBON, OR",
+  "waterbody": "UMATILLA RIVER ABOVE MEACHAM CREEK, NR GIBBON, OR",
+  "state": "OR",
+  "latitude": 45.71957668,
+  "longitude": -118.3232913,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GIBO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Umatilla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gibo3",
+  "slug": "usgs-14020000",
+  "noaaForecastPath": "data/noaa-forecast/GIBO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

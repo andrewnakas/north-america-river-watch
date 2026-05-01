@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09424380",
+  "key": "09424380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09424380",
+  "name": "TROUT CREEK ABOVE KNIGHT CREEK, NEAR WIKIEUP, AZ",
+  "waterbody": "TROUT CREEK ABOVE KNIGHT CREEK, NEAR WIKIEUP, AZ",
+  "state": "AZ",
+  "latitude": 34.94702778,
+  "longitude": -113.6191389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCKA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trout Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcka3",
+  "slug": "usgs-09424380",
+  "noaaForecastPath": "data/noaa-forecast/TCKA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

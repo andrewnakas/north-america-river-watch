@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08252500",
+  "key": "08252500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08252500",
+  "name": "COSTILLA CREEK ABOVE COSTILLA DAM, NM",
+  "waterbody": "COSTILLA CREEK ABOVE COSTILLA DAM, NM",
+  "state": "NM",
+  "latitude": 36.8983611,
+  "longitude": -105.2546667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08252500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05578000",
+  "key": "05578000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05578000",
+  "name": "SANGAMON RIVER AT PETERSBURG, IL",
+  "waterbody": "SANGAMON RIVER AT PETERSBURG, IL",
+  "state": "IL",
+  "latitude": 40.0133333,
+  "longitude": -89.8383333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PETI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sangamon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/peti2",
+  "slug": "usgs-05578000",
+  "noaaForecastPath": "data/noaa-forecast/PETI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

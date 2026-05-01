@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12417650",
+  "key": "12417650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12417650",
+  "name": "SPOKANE RIVER BLW BLACKWELL NR COEUR D ALENE ID",
+  "waterbody": "SPOKANE RIVER BLW BLACKWELL NR COEUR D ALENE ID",
+  "state": "ID",
+  "latitude": 47.6947222,
+  "longitude": -116.8152778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12417650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08465100",
+  "key": "08465100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08465100",
+  "name": "Rio Grande nr Rio Grande City, TX",
+  "waterbody": "Rio Grande nr Rio Grande City, TX",
+  "state": "TX",
+  "latitude": 26.35414444,
+  "longitude": -98.7968222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08465100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

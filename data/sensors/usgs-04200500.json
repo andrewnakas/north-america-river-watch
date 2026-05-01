@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04200500",
+  "key": "04200500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04200500",
+  "name": "Black River at Elyria OH",
+  "waterbody": "Black River at Elyria OH",
+  "state": "OH",
+  "latitude": 41.38032368,
+  "longitude": -82.10459279,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELRO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elro1",
+  "slug": "usgs-04200500",
+  "noaaForecastPath": "data/noaa-forecast/ELRO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02157470",
+  "key": "02157470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02157470",
+  "name": "MIDDLE TYGER RIVER NEAR GRAMLING, SC",
+  "waterbody": "MIDDLE TYGER RIVER NEAR GRAMLING, SC",
+  "state": "SC",
+  "latitude": 35.038525,
+  "longitude": -82.217822,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Tyger River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tygs1",
+  "slug": "usgs-02157470",
+  "noaaForecastPath": "data/noaa-forecast/TYGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330915",
+  "key": "08330915",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330915",
+  "name": "ALBUQUERQUE RIVERSIDE DRAIN NR ISLETA, NM",
+  "waterbody": "ALBUQUERQUE RIVERSIDE DRAIN NR ISLETA, NM",
+  "state": "NM",
+  "latitude": 34.93532877,
+  "longitude": -106.6791919,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330915",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

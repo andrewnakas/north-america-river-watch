@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02411590",
+  "key": "02411590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02411590",
+  "name": "COOSA RIVER AT HWY 14 NEAR WETUMPKA, AL",
+  "waterbody": "COOSA RIVER AT HWY 14 NEAR WETUMPKA, AL",
+  "state": "AL",
+  "latitude": 32.5505472,
+  "longitude": -86.1957944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02411590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

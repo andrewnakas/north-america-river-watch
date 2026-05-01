@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15226900",
+  "key": "15226900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15226900",
+  "name": "ROBE R NR VALDEZ AK",
+  "waterbody": "ROBE R NR VALDEZ AK",
+  "state": "AK",
+  "latitude": 61.09004878,
+  "longitude": -146.20018629,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRVA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Robe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrva2",
+  "slug": "usgs-15226900",
+  "noaaForecastPath": "data/noaa-forecast/RRVA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50055750",
+  "key": "50055750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50055750",
+  "name": "RIO GURABO BLW EL MANGO, PR",
+  "waterbody": "RIO GURABO BLW EL MANGO, PR",
+  "state": "PR",
+  "latitude": 18.234153,
+  "longitude": -65.885331,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUTP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Gurabo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gutp4",
+  "slug": "usgs-50055750",
+  "noaaForecastPath": "data/noaa-forecast/GUTP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

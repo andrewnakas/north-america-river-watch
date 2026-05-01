@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02094775",
+  "key": "02094775",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02094775",
+  "name": "RYAN CREEK BELOW US 220 AT GREENSBORO, NC",
+  "waterbody": "RYAN CREEK BELOW US 220 AT GREENSBORO, NC",
+  "state": "NC",
+  "latitude": 36.0311111,
+  "longitude": -79.7961111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RYAN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ryan Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ryan7",
+  "slug": "usgs-02094775",
+  "noaaForecastPath": "data/noaa-forecast/RYAN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

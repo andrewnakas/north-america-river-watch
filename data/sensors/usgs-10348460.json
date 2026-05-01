@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348460",
+  "key": "10348460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348460",
+  "name": "FRANKTOWN CK NR CARSON CITY, NV",
+  "waterbody": "FRANKTOWN CK NR CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.20227778,
+  "longitude": -119.8710833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348460",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

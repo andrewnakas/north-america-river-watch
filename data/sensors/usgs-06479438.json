@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479438",
+  "key": "06479438",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479438",
+  "name": "BIG SIOUX RIVER NEAR WATERTOWN,SD",
+  "waterbody": "BIG SIOUX RIVER NEAR WATERTOWN,SD",
+  "state": "SD",
+  "latitude": 45.0060753,
+  "longitude": -97.1650756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtrs2",
+  "slug": "usgs-06479438",
+  "noaaForecastPath": "data/noaa-forecast/WTRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

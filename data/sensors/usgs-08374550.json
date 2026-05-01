@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08374550",
+  "key": "08374550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08374550",
+  "name": "Rio Grande nr Castolon, TX",
+  "waterbody": "Rio Grande nr Castolon, TX",
+  "state": "TX",
+  "latitude": 29.13798,
+  "longitude": -103.5249033,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cstt2",
+  "slug": "usgs-08374550",
+  "noaaForecastPath": "data/noaa-forecast/CSTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

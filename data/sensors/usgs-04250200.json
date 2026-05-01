@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04250200",
+  "key": "04250200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04250200",
+  "name": "SALMON RIVER AT PINEVILLE NY",
+  "waterbody": "SALMON RIVER AT PINEVILLE NY",
+  "state": "NY",
+  "latitude": 43.53119444,
+  "longitude": -76.0376944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnvn6",
+  "slug": "usgs-04250200",
+  "noaaForecastPath": "data/noaa-forecast/PNVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

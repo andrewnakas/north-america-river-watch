@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04125460",
+  "key": "04125460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04125460",
+  "name": "PINE RIVER AT HIGH SCHOOL BRIDGE NR HOXEYVILLE, MI",
+  "waterbody": "PINE RIVER AT HIGH SCHOOL BRIDGE NR HOXEYVILLE, MI",
+  "state": "MI",
+  "latitude": 44.19334009,
+  "longitude": -85.7697863,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOXM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine River (N Lower MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hoxm4",
+  "slug": "usgs-04125460",
+  "noaaForecastPath": "data/noaa-forecast/HOXM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

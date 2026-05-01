@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03238772",
+  "key": "03238772",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03238772",
+  "name": "FOURMILE CREEK AT POPLAR RIDGE RD NR ALEXANDRIA,KY",
+  "waterbody": "FOURMILE CREEK AT POPLAR RIDGE RD NR ALEXANDRIA,KY",
+  "state": "KY",
+  "latitude": 38.98666667,
+  "longitude": -84.3652778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fourmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmck2",
+  "slug": "usgs-03238772",
+  "noaaForecastPath": "data/noaa-forecast/FMCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03323580",
+  "key": "03323580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03323580",
+  "name": "GRAHAM MCCOLLOCH D AT S BEND DR NR FORT WAYNE, IN",
+  "waterbody": "GRAHAM MCCOLLOCH D AT S BEND DR NR FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 41.0503611,
+  "longitude": -85.2314722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03323580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

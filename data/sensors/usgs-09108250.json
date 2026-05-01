@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09108250",
+  "key": "09108250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09108250",
+  "name": "WILLOW CREEK ABOVE TAYLOR PARK RESERVOIR, CO.",
+  "waterbody": "WILLOW CREEK ABOVE TAYLOR PARK RESERVOIR, CO.",
+  "state": "CO",
+  "latitude": 38.8179361,
+  "longitude": -106.56075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkrc2",
+  "slug": "usgs-09108250",
+  "noaaForecastPath": "data/noaa-forecast/WKRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

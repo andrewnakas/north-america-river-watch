@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01374901",
+  "key": "01374901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374901",
+  "name": "CROSS RIVER AT KATONAH NY",
+  "waterbody": "CROSS RIVER AT KATONAH NY",
+  "state": "NY",
+  "latitude": 41.26605556,
+  "longitude": -73.6660833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KTNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cross River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ktnn6",
+  "slug": "usgs-01374901",
+  "noaaForecastPath": "data/noaa-forecast/KTNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

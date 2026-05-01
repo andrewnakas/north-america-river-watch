@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09386250",
+  "key": "09386250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09386250",
+  "name": "CARRIZO WASH NEAR ST. JOHNS, AZ",
+  "waterbody": "CARRIZO WASH NEAR ST. JOHNS, AZ",
+  "state": "AZ",
+  "latitude": 34.6147587,
+  "longitude": -109.3184306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09386250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

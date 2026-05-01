@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10331500",
+  "key": "10331500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10331500",
+  "name": "HUMBOLDT RV NR ROSE CK, NV",
+  "waterbody": "HUMBOLDT RV NR ROSE CK, NV",
+  "state": "NV",
+  "latitude": 40.86339167,
+  "longitude": -117.99508333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRRN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humboldt River nr Rose Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrrn2",
+  "slug": "usgs-10331500",
+  "noaaForecastPath": "data/noaa-forecast/HRRN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

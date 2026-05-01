@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209303205",
+  "key": "0209303205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209303205",
+  "name": "NEW RIVER BELOW HWY17 BRIDGE AT JACKSONVILLE, NC",
+  "waterbody": "NEW RIVER BELOW HWY17 BRIDGE AT JACKSONVILLE, NC",
+  "state": "NC",
+  "latitude": 34.74888889,
+  "longitude": -77.43777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jckn7",
+  "slug": "usgs-0209303205",
+  "noaaForecastPath": "data/noaa-forecast/JCKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

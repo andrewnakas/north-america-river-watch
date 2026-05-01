@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06906000",
+  "key": "06906000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06906000",
+  "name": "Mussel Fork near Musselfork, MO",
+  "waterbody": "Mussel Fork near Musselfork, MO",
+  "state": "MO",
+  "latitude": 39.52352778,
+  "longitude": -92.9496389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06906000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

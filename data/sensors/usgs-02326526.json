@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02326526",
+  "key": "02326526",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326526",
+  "name": "WACISSA RIVER NR WACISSA FLA",
+  "waterbody": "WACISSA RIVER NR WACISSA FLA",
+  "state": "FL",
+  "latitude": 30.3013159,
+  "longitude": -83.9796085,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wacissa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wclf1",
+  "slug": "usgs-02326526",
+  "noaaForecastPath": "data/noaa-forecast/WCLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

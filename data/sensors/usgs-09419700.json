@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419700",
+  "key": "09419700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419700",
+  "name": "LAS VEGAS WASH AT PABCO RD NR HENDERSON, NV",
+  "waterbody": "LAS VEGAS WASH AT PABCO RD NR HENDERSON, NV",
+  "state": "NV",
+  "latitude": 36.08747539,
+  "longitude": -114.9858276,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04252500",
+  "key": "04252500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04252500",
+  "name": "BLACK RIVER NEAR BOONVILLE NY",
+  "waterbody": "BLACK RIVER NEAR BOONVILLE NY",
+  "state": "NY",
+  "latitude": 43.5116111,
+  "longitude": -75.30677778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOON6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boon6",
+  "slug": "usgs-04252500",
+  "noaaForecastPath": "data/noaa-forecast/BOON6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

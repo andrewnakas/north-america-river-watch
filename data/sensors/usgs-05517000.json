@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05517000",
+  "key": "05517000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05517000",
+  "name": "YELLOW RIVER AT KNOX, IN",
+  "waterbody": "YELLOW RIVER AT KNOX, IN",
+  "state": "IN",
+  "latitude": 41.30279685,
+  "longitude": -86.62053829,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNXI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knxi3",
+  "slug": "usgs-05517000",
+  "noaaForecastPath": "data/noaa-forecast/KNXI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

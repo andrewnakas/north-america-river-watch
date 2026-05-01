@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03130647",
+  "key": "03130647",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03130647",
+  "name": "Touby Run at W 6th St at Mansfield OH",
+  "waterbody": "Touby Run at W 6th St at Mansfield OH",
+  "state": "OH",
+  "latitude": 40.76527778,
+  "longitude": -82.5180556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYRO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Touby Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tyro1",
+  "slug": "usgs-03130647",
+  "noaaForecastPath": "data/noaa-forecast/TYRO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

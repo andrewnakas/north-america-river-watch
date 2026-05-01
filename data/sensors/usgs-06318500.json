@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06318500",
+  "key": "06318500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06318500",
+  "name": "CLEAR CREEK NEAR BUFFALO, WY",
+  "waterbody": "CLEAR CREEK NEAR BUFFALO, WY",
+  "state": "WY",
+  "latitude": 44.33275055,
+  "longitude": -106.7772735,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccbw4",
+  "slug": "usgs-06318500",
+  "noaaForecastPath": "data/noaa-forecast/CCBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

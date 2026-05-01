@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06025800",
+  "key": "06025800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06025800",
+  "name": "Willow Creek near Glen MT",
+  "waterbody": "Willow Creek near Glen MT",
+  "state": "MT",
+  "latitude": 45.44775,
+  "longitude": -112.820425,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06025800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

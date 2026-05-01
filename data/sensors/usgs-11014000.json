@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11014000",
+  "key": "11014000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11014000",
+  "name": "JAMUL C NR JAMUL CA",
+  "waterbody": "JAMUL C NR JAMUL CA",
+  "state": "CA",
+  "latitude": 32.6375566,
+  "longitude": -116.8841893,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11014000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

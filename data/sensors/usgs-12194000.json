@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12194000",
+  "key": "12194000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12194000",
+  "name": "SKAGIT RIVER NEAR CONCRETE, WA",
+  "waterbody": "SKAGIT RIVER NEAR CONCRETE, WA",
+  "state": "WA",
+  "latitude": 48.52428059,
+  "longitude": -121.770974,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CONW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skagit River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/conw1",
+  "slug": "usgs-12194000",
+  "noaaForecastPath": "data/noaa-forecast/CONW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

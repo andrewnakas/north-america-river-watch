@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01318500",
+  "key": "01318500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01318500",
+  "name": "HUDSON RIVER AT HADLEY NY",
+  "waterbody": "HUDSON RIVER AT HADLEY NY",
+  "state": "NY",
+  "latitude": 43.31905556,
+  "longitude": -73.8443056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hudson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdyn6",
+  "slug": "usgs-01318500",
+  "noaaForecastPath": "data/noaa-forecast/HDYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

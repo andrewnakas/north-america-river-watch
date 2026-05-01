@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03316500",
+  "key": "03316500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03316500",
+  "name": "GREEN RIVER AT PARADISE, KY",
+  "waterbody": "GREEN RIVER AT PARADISE, KY",
+  "state": "KY",
+  "latitude": 37.2639316,
+  "longitude": -86.9777726,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRDK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prdk2",
+  "slug": "usgs-03316500",
+  "noaaForecastPath": "data/noaa-forecast/PRDK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

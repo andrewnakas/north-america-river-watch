@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11509250",
+  "key": "11509250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11509250",
+  "name": "ADY CANAL ABOVE LOWER KLAMATH NWR, NEAR WORDEN, OR",
+  "waterbody": "ADY CANAL ABOVE LOWER KLAMATH NWR, NEAR WORDEN, OR",
+  "state": "OR",
+  "latitude": 42.00416667,
+  "longitude": -121.8258333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11509250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

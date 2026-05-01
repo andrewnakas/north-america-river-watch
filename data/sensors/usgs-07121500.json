@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07121500",
+  "key": "07121500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07121500",
+  "name": "TIMPAS CREEK AT MOUTH NEAR SWINK, CO.",
+  "waterbody": "TIMPAS CREEK AT MOUTH NEAR SWINK, CO.",
+  "state": "CO",
+  "latitude": 38.003056,
+  "longitude": -103.655556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07121500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

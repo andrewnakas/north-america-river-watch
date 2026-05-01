@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13088400",
+  "key": "13088400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13088400",
+  "name": "DRY CREEK NR ARTESIAN CITY ID",
+  "waterbody": "DRY CREEK NR ARTESIAN CITY ID",
+  "state": "ID",
+  "latitude": 42.37213588,
+  "longitude": -114.1872485,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13088400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

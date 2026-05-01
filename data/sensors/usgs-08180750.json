@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08180750",
+  "key": "08180750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180750",
+  "name": "Medio Ck at Pearsall Rd, San Antonio, TX",
+  "waterbody": "Medio Ck at Pearsall Rd, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.3279722,
+  "longitude": -98.6388056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08180750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

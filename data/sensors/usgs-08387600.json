@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08387600",
+  "key": "08387600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08387600",
+  "name": "EAGLE CREEK BELOW SOUTH FORK NEAR ALTO, NM",
+  "waterbody": "EAGLE CREEK BELOW SOUTH FORK NEAR ALTO, NM",
+  "state": "NM",
+  "latitude": 33.39285278,
+  "longitude": -105.7233444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08387600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

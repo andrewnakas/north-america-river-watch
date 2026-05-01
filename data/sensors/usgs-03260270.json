@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03260270",
+  "key": "03260270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03260270",
+  "name": "SAND RUN AT THORNWILDE DR AT FRANCISVILLE, KY",
+  "waterbody": "SAND RUN AT THORNWILDE DR AT FRANCISVILLE, KY",
+  "state": "KY",
+  "latitude": 39.1045833,
+  "longitude": -84.7291944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sand Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcvk2",
+  "slug": "usgs-03260270",
+  "noaaForecastPath": "data/noaa-forecast/FCVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

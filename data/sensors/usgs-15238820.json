@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15238820",
+  "key": "15238820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15238820",
+  "name": "BARABARA C NR SELDOVIA AK",
+  "waterbody": "BARABARA C NR SELDOVIA AK",
+  "state": "AK",
+  "latitude": 59.4799395,
+  "longitude": -151.6471106,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15238820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

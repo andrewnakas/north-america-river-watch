@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10016900",
+  "key": "10016900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10016900",
+  "name": "BEAR RIVER AT EVANSTON, WY",
+  "waterbody": "BEAR RIVER AT EVANSTON, WY",
+  "state": "WY",
+  "latitude": 41.2698611,
+  "longitude": -110.9636944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVAW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evaw4",
+  "slug": "usgs-10016900",
+  "noaaForecastPath": "data/noaa-forecast/EVAW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16229000",
+  "key": "16229000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16229000",
+  "name": "Kalihi Str nr Honolulu, Oahu, HI",
+  "waterbody": "Kalihi Str nr Honolulu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.3633611,
+  "longitude": -157.8444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KHSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kalihi Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/khsh1",
+  "slug": "usgs-16229000",
+  "noaaForecastPath": "data/noaa-forecast/KHSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

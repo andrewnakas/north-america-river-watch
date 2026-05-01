@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04102786",
+  "key": "04102786",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04102786",
+  "name": "S.B. KALAMAZOO RIVER AT GROVER RD NR HANOVER, MI",
+  "waterbody": "S.B. KALAMAZOO RIVER AT GROVER RD NR HANOVER, MI",
+  "state": "MI",
+  "latitude": 42.0764005,
+  "longitude": -84.59269182,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04102786",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

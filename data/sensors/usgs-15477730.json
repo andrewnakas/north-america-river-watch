@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15477730",
+  "key": "15477730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15477730",
+  "name": "LIESE C NR BIG DELTA AK",
+  "waterbody": "LIESE C NR BIG DELTA AK",
+  "state": "AK",
+  "latitude": 64.4476748,
+  "longitude": -144.8854024,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15477730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

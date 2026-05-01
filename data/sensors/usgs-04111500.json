@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04111500",
+  "key": "04111500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04111500",
+  "name": "DEER CREEK NEAR DANSVILLE, MI",
+  "waterbody": "DEER CREEK NEAR DANSVILLE, MI",
+  "state": "MI",
+  "latitude": 42.60920199,
+  "longitude": -84.3191359,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04111500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

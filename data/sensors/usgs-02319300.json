@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02319300",
+  "key": "02319300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02319300",
+  "name": "WITHLACOOCHEE RIVER NR MADISON FLA",
+  "waterbody": "WITHLACOOCHEE RIVER NR MADISON FLA",
+  "state": "FL",
+  "latitude": 30.48244845,
+  "longitude": -83.24294223,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtmf1",
+  "slug": "usgs-02319300",
+  "noaaForecastPath": "data/noaa-forecast/WTMF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

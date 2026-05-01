@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11136500",
+  "key": "11136500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11136500",
+  "name": "CUYAMA R NR VENTUCOPA CA",
+  "waterbody": "CUYAMA R NR VENTUCOPA CA",
+  "state": "CA",
+  "latitude": 34.68804167,
+  "longitude": -119.3587333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuyama River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvpc1",
+  "slug": "usgs-11136500",
+  "noaaForecastPath": "data/noaa-forecast/CVPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

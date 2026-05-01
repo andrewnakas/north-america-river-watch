@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06832500",
+  "key": "06832500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06832500",
+  "name": "FRENCHMAN CREEK NEAR ENDERS, NEBR.",
+  "waterbody": "FRENCHMAN CREEK NEAR ENDERS, NEBR.",
+  "state": "NE",
+  "latitude": 40.42055556,
+  "longitude": -101.5122222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06832500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

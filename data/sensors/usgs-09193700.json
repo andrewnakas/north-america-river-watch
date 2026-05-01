@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09193700",
+  "key": "09193700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09193700",
+  "name": "New Fork River ab Willow Cr, nr Cora, WY",
+  "waterbody": "New Fork River ab Willow Cr, nr Cora, WY",
+  "state": "WY",
+  "latitude": 42.98716389,
+  "longitude": -109.9938306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09193700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

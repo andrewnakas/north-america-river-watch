@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08072520",
+  "key": "08072520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08072520",
+  "name": "Clodine Ditch at Noble Rd nr Addicks, TX",
+  "waterbody": "Clodine Ditch at Noble Rd nr Addicks, TX",
+  "state": "TX",
+  "latitude": 29.7555972,
+  "longitude": -95.6457306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08072520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

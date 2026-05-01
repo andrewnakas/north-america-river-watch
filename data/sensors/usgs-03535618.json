@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03535618",
+  "key": "03535618",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03535618",
+  "name": "Conner Ck at E Gallaher Ferry Rd nr Farragut TN",
+  "waterbody": "Conner Ck at E Gallaher Ferry Rd nr Farragut TN",
+  "state": "TN",
+  "latitude": 35.9203611,
+  "longitude": -84.2166944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conner Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnrt1",
+  "slug": "usgs-03535618",
+  "noaaForecastPath": "data/noaa-forecast/CNRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

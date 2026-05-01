@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15056210",
+  "key": "15056210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15056210",
+  "name": "TAIYA R NR SKAGWAY AK",
+  "waterbody": "TAIYA R NR SKAGWAY AK",
+  "state": "AK",
+  "latitude": 59.511944,
+  "longitude": -135.344444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYAA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Taiya River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tyaa2",
+  "slug": "usgs-15056210",
+  "noaaForecastPath": "data/noaa-forecast/TYAA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

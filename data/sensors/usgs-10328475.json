@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10328475",
+  "key": "10328475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10328475",
+  "name": "S FK L HUMBOLDT RV NR PARADISE VALLEY, NV",
+  "waterbody": "S FK L HUMBOLDT RV NR PARADISE VALLEY, NV",
+  "state": "NV",
+  "latitude": 41.44805556,
+  "longitude": -117.088611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10328475",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

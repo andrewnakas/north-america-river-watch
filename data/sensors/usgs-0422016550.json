@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0422016550",
+  "key": "0422016550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0422016550",
+  "name": "OAK ORCHARD CREEK NEAR KENYONVILLE NY",
+  "waterbody": "OAK ORCHARD CREEK NEAR KENYONVILLE NY",
+  "state": "NY",
+  "latitude": 43.301,
+  "longitude": -78.3104444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Orchard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knvn6",
+  "slug": "usgs-0422016550",
+  "noaaForecastPath": "data/noaa-forecast/KNVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

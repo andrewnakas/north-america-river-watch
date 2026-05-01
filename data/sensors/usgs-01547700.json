@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01547700",
+  "key": "01547700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01547700",
+  "name": "Marsh Creek at Blanchard, PA",
+  "waterbody": "Marsh Creek at Blanchard, PA",
+  "state": "PA",
+  "latitude": 41.05945278,
+  "longitude": -77.6057955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marsh Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bndp1",
+  "slug": "usgs-01547700",
+  "noaaForecastPath": "data/noaa-forecast/BNDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

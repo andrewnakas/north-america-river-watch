@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05395000",
+  "key": "05395000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05395000",
+  "name": "WISCONSIN RIVER AT MERRILL, WI",
+  "waterbody": "WISCONSIN RIVER AT MERRILL, WI",
+  "state": "WI",
+  "latitude": 45.1783333,
+  "longitude": -89.6816667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRLW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrlw3",
+  "slug": "usgs-05395000",
+  "noaaForecastPath": "data/noaa-forecast/RRLW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

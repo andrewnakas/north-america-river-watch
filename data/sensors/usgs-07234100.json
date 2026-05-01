@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07234100",
+  "key": "07234100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07234100",
+  "name": "Clear Creek near Elmwood, OK",
+  "waterbody": "Clear Creek near Elmwood, OK",
+  "state": "OK",
+  "latitude": 36.64502788,
+  "longitude": -100.5023688,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07234100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

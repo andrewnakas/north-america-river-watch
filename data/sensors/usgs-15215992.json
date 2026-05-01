@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15215992",
+  "key": "15215992",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15215992",
+  "name": "HENEY C AT CANYON MOUTH NR CORDOVA AK",
+  "waterbody": "HENEY C AT CANYON MOUTH NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.52337708,
+  "longitude": -145.76347238,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15215992",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

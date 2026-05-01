@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03377500",
+  "key": "03377500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03377500",
+  "name": "WABASH RIVER AT MT. CARMEL, IL",
+  "waterbody": "WABASH RIVER AT MT. CARMEL, IL",
+  "state": "IL",
+  "latitude": 38.3983333,
+  "longitude": -87.75638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcri2",
+  "slug": "usgs-03377500",
+  "noaaForecastPath": "data/noaa-forecast/MCRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

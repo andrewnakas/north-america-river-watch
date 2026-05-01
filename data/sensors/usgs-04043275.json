@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04043275",
+  "key": "04043275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043275",
+  "name": "YELLOW DOG RIVER NEAR BIG BAY, MI",
+  "waterbody": "YELLOW DOG RIVER NEAR BIG BAY, MI",
+  "state": "MI",
+  "latitude": 46.7135391,
+  "longitude": -87.8406871,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04043275",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06919900",
+  "key": "06919900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06919900",
+  "name": "Sac River near Caplinger Mills, MO",
+  "waterbody": "Sac River near Caplinger Mills, MO",
+  "state": "MO",
+  "latitude": 37.8698333,
+  "longitude": -93.8031667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmzm7",
+  "slug": "usgs-06919900",
+  "noaaForecastPath": "data/noaa-forecast/CMZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03075825",
+  "key": "03075825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03075825",
+  "name": "NORTH GLADE RUN NEAR SWANTON, MD",
+  "waterbody": "NORTH GLADE RUN NEAR SWANTON, MD",
+  "state": "MD",
+  "latitude": 39.5070833,
+  "longitude": -79.2516667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NGLM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Glade Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nglm2",
+  "slug": "usgs-03075825",
+  "noaaForecastPath": "data/noaa-forecast/NGLM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

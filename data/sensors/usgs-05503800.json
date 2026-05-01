@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05503800",
+  "key": "05503800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05503800",
+  "name": "Crooked Creek near Paris, MO",
+  "waterbody": "Crooked Creek near Paris, MO",
+  "state": "MO",
+  "latitude": 39.5848333,
+  "longitude": -91.9935,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05503800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

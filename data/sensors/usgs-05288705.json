@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05288705",
+  "key": "05288705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05288705",
+  "name": "SHINGLE CREEK AT QUEEN AVE IN MINNEAPOLIS, MN",
+  "waterbody": "SHINGLE CREEK AT QUEEN AVE IN MINNEAPOLIS, MN",
+  "state": "MN",
+  "latitude": 45.049798,
+  "longitude": -93.310445,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGCM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shingle Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgcm5",
+  "slug": "usgs-05288705",
+  "noaaForecastPath": "data/noaa-forecast/SGCM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

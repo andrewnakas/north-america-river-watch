@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067585",
+  "key": "08067585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067585",
+  "name": "Little Lake Ck at FM 149 nr Montgomery, TX",
+  "waterbody": "Little Lake Ck at FM 149 nr Montgomery, TX",
+  "state": "TX",
+  "latitude": 30.44693056,
+  "longitude": -95.6972333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067585",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

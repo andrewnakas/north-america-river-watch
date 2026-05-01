@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03326500",
+  "key": "03326500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03326500",
+  "name": "MISSISSINEWA RIVER AT MARION, IN",
+  "waterbody": "MISSISSINEWA RIVER AT MARION, IN",
+  "state": "IN",
+  "latitude": 40.57641667,
+  "longitude": -85.6595278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MROI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississinewa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mroi3",
+  "slug": "usgs-03326500",
+  "noaaForecastPath": "data/noaa-forecast/MROI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

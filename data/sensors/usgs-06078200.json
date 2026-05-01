@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06078200",
+  "key": "06078200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06078200",
+  "name": "Missouri River near Ulm MT",
+  "waterbody": "Missouri River near Ulm MT",
+  "state": "MT",
+  "latitude": 47.43496667,
+  "longitude": -111.3884444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ULMM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ulmm8",
+  "slug": "usgs-06078200",
+  "noaaForecastPath": "data/noaa-forecast/ULMM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

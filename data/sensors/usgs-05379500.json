@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05379500",
+  "key": "05379500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05379500",
+  "name": "TREMPEALEAU RIVER AT DODGE, WI",
+  "waterbody": "TREMPEALEAU RIVER AT DODGE, WI",
+  "state": "WI",
+  "latitude": 44.13175,
+  "longitude": -91.5530278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DDGW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trempealeau River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ddgw3",
+  "slug": "usgs-05379500",
+  "noaaForecastPath": "data/noaa-forecast/DDGW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

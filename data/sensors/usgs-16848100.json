@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16848100",
+  "key": "16848100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16848100",
+  "name": "Almagosa River near Agat, Guam",
+  "waterbody": "Almagosa River near Agat, Guam",
+  "state": "GU",
+  "latitude": 13.34672222,
+  "longitude": 144.6955,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16848100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

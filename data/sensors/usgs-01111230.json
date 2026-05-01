@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01111230",
+  "key": "01111230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01111230",
+  "name": "BLACKSTONE RIVER AT MILLVILLE, MA",
+  "waterbody": "BLACKSTONE RIVER AT MILLVILLE, MA",
+  "state": "MA",
+  "latitude": 42.0228757,
+  "longitude": -71.5722859,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01111230",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

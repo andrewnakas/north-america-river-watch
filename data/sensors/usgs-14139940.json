@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14139940",
+  "key": "14139940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14139940",
+  "name": "BULL RUN RIVER BLW BULL RUN RES 2, NR BULL RUN, OR",
+  "waterbody": "BULL RUN RIVER BLW BULL RUN RES 2, NR BULL RUN, OR",
+  "state": "OR",
+  "latitude": 45.44852778,
+  "longitude": -122.1551944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BURO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bull Run River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/buro3",
+  "slug": "usgs-14139940",
+  "noaaForecastPath": "data/noaa-forecast/BURO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

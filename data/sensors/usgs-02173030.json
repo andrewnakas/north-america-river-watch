@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02173030",
+  "key": "02173030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02173030",
+  "name": "SOUTH FORK EDISTO RIVER NEAR COPE, SC",
+  "waterbody": "SOUTH FORK EDISTO RIVER NEAR COPE, SC",
+  "state": "SC",
+  "latitude": 33.3590442,
+  "longitude": -81.0595425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COPS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Edisto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cops1",
+  "slug": "usgs-02173030",
+  "noaaForecastPath": "data/noaa-forecast/COPS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

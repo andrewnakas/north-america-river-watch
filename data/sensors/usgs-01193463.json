@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01193463",
+  "key": "01193463",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01193463",
+  "name": "SALMON RIVER US WOLF BROOK NR N WESTCHESTER CT",
+  "waterbody": "SALMON RIVER US WOLF BROOK NR N WESTCHESTER CT",
+  "state": "CT",
+  "latitude": 41.57416944,
+  "longitude": -72.42947778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01193463",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08065980",
+  "key": "08065980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065980",
+  "name": "Harmon Ck nr Riverside, TX",
+  "waterbody": "Harmon Ck nr Riverside, TX",
+  "state": "TX",
+  "latitude": 30.8607861,
+  "longitude": -95.4335528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08065980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

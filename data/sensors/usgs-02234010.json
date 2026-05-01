@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02234010",
+  "key": "02234010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02234010",
+  "name": "ST. JOHNS RIVER AT OSCEOLA, FL",
+  "waterbody": "ST. JOHNS RIVER AT OSCEOLA, FL",
+  "state": "FL",
+  "latitude": 28.793881,
+  "longitude": -81.05783718,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02234010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

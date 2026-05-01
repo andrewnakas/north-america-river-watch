@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02105500",
+  "key": "02105500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02105500",
+  "name": "CAPE FEAR R AT WILM O HUSKE LOCK NR TARHEEL, NC",
+  "waterbody": "CAPE FEAR R AT WILM O HUSKE LOCK NR TARHEEL, NC",
+  "state": "NC",
+  "latitude": 34.83555556,
+  "longitude": -78.8236111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cape Fear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stpn7",
+  "slug": "usgs-02105500",
+  "noaaForecastPath": "data/noaa-forecast/STPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

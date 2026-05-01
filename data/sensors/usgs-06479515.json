@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479515",
+  "key": "06479515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479515",
+  "name": "WILLOW CREEK NEAR WATERTOWN,SD",
+  "waterbody": "WILLOW CREEK NEAR WATERTOWN,SD",
+  "state": "SD",
+  "latitude": 44.9188536,
+  "longitude": -97.0456271,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwcs2",
+  "slug": "usgs-06479515",
+  "noaaForecastPath": "data/noaa-forecast/WWCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

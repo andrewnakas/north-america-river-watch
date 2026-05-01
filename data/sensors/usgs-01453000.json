@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01453000",
+  "key": "01453000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01453000",
+  "name": "Lehigh River at Bethlehem, PA",
+  "waterbody": "Lehigh River at Bethlehem, PA",
+  "state": "PA",
+  "latitude": 40.6153761,
+  "longitude": -75.3787914,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BETP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lehigh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/betp1",
+  "slug": "usgs-01453000",
+  "noaaForecastPath": "data/noaa-forecast/BETP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

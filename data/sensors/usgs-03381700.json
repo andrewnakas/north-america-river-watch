@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03381700",
+  "key": "03381700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03381700",
+  "name": "OHIO RIVER AT OLD SHAWNEETOWN, IL-KY",
+  "waterbody": "OHIO RIVER AT OLD SHAWNEETOWN, IL-KY",
+  "state": "KY",
+  "latitude": 37.6925,
+  "longitude": -88.1347222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03381700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

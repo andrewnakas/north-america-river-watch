@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01529950",
+  "key": "01529950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01529950",
+  "name": "CHEMUNG RIVER AT CORNING NY",
+  "waterbody": "CHEMUNG RIVER AT CORNING NY",
+  "state": "NY",
+  "latitude": 42.14641667,
+  "longitude": -77.0575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chemung River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crnn6",
+  "slug": "usgs-01529950",
+  "noaaForecastPath": "data/noaa-forecast/CRNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

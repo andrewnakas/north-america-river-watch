@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05398100",
+  "key": "05398100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05398100",
+  "name": "WISCONSIN RIVER AT MOSINEE, WI",
+  "waterbody": "WISCONSIN RIVER AT MOSINEE, WI",
+  "state": "WI",
+  "latitude": 44.79888889,
+  "longitude": -89.7075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05398100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

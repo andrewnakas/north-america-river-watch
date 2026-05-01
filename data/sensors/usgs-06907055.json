@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06907055",
+  "key": "06907055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06907055",
+  "name": "Long Branch upstream of Hwy D at Whiteman AFB",
+  "waterbody": "Long Branch upstream of Hwy D at Whiteman AFB",
+  "state": "MO",
+  "latitude": 38.7224361,
+  "longitude": -93.5320083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06907055",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06453620",
+  "key": "06453620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06453620",
+  "name": "Missouri River blw Ponca Creek nr Verdel, Nebr.",
+  "waterbody": "Missouri River blw Ponca Creek nr Verdel, Nebr.",
+  "state": "NE",
+  "latitude": 42.78814444,
+  "longitude": -98.08346944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRVN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrvn1",
+  "slug": "usgs-06453620",
+  "noaaForecastPath": "data/noaa-forecast/MRVN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

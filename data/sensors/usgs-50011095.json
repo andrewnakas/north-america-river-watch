@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50011095",
+  "key": "50011095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50011095",
+  "name": "CANAL MOCA BLW HWY 112, PR",
+  "waterbody": "CANAL MOCA BLW HWY 112, PR",
+  "state": "PR",
+  "latitude": 18.45441396,
+  "longitude": -67.0345687,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50011095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

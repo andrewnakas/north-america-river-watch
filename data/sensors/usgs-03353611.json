@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353611",
+  "key": "03353611",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353611",
+  "name": "WHITE R. AT STOUT GEN. STN. AT INDIANAPOLIS, IN",
+  "waterbody": "WHITE R. AT STOUT GEN. STN. AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.7144805,
+  "longitude": -86.200525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stti3",
+  "slug": "usgs-03353611",
+  "noaaForecastPath": "data/noaa-forecast/STTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

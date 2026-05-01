@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442692",
+  "key": "09442692",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442692",
+  "name": "TULAROSA RIVER ABOVE ARAGON, NM",
+  "waterbody": "TULAROSA RIVER ABOVE ARAGON, NM",
+  "state": "NM",
+  "latitude": 33.89144118,
+  "longitude": -108.5156166,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442692",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.310Z"
+}

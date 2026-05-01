@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02180400",
+  "key": "02180400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02180400",
+  "name": "TIGER CREEK NEAR LAKEMONT, GA",
+  "waterbody": "TIGER CREEK NEAR LAKEMONT, GA",
+  "state": "GA",
+  "latitude": 34.78613889,
+  "longitude": -83.4155833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02180400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

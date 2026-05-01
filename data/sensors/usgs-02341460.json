@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02341460",
+  "key": "02341460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02341460",
+  "name": "CHATTAHOOCHEE RIVER AT 14TH ST, AT COLUMBUS, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER AT 14TH ST, AT COLUMBUS, GA",
+  "state": "GA",
+  "latitude": 32.47277778,
+  "longitude": -84.9966667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBUG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbug1",
+  "slug": "usgs-02341460",
+  "noaaForecastPath": "data/noaa-forecast/CBUG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

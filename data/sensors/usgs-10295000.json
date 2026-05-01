@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10295000",
+  "key": "10295000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10295000",
+  "name": "E WALKER RV NR MASON, NV",
+  "waterbody": "E WALKER RV NR MASON, NV",
+  "state": "NV",
+  "latitude": 38.8774,
+  "longitude": -119.1442806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWMN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Walker River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewmn2",
+  "slug": "usgs-10295000",
+  "noaaForecastPath": "data/noaa-forecast/EWMN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

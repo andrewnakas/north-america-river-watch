@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08130500",
+  "key": "08130500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08130500",
+  "name": "Dove Ck at Knickerbocker, TX",
+  "waterbody": "Dove Ck at Knickerbocker, TX",
+  "state": "TX",
+  "latitude": 31.27405465,
+  "longitude": -100.6309318,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dove Creek (Concho River Basin)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knbt2",
+  "slug": "usgs-08130500",
+  "noaaForecastPath": "data/noaa-forecast/KNBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

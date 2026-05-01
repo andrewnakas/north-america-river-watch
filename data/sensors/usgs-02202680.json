@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02202680",
+  "key": "02202680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02202680",
+  "name": "OGEECHEE RIVER AT GA 204, NEAR ELLABELL, GA",
+  "waterbody": "OGEECHEE RIVER AT GA 204, NEAR ELLABELL, GA",
+  "state": "GA",
+  "latitude": 32.0795,
+  "longitude": -81.38475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogeechee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ellg1",
+  "slug": "usgs-02202680",
+  "noaaForecastPath": "data/noaa-forecast/ELLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

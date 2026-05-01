@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05293000",
+  "key": "05293000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05293000",
+  "name": "YELLOW BANK RIVER NEAR ODESSA, MN",
+  "waterbody": "YELLOW BANK RIVER NEAR ODESSA, MN",
+  "state": "MN",
+  "latitude": 45.22619686,
+  "longitude": -96.348488,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ODSM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow Bank River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/odsm5",
+  "slug": "usgs-05293000",
+  "noaaForecastPath": "data/noaa-forecast/ODSM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05524500",
+  "key": "05524500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05524500",
+  "name": "IROQUOIS RIVER NEAR FORESMAN, IN",
+  "waterbody": "IROQUOIS RIVER NEAR FORESMAN, IN",
+  "state": "IN",
+  "latitude": 40.8705788,
+  "longitude": -87.3066723,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iroquois River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fsmi3",
+  "slug": "usgs-05524500",
+  "noaaForecastPath": "data/noaa-forecast/FSMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

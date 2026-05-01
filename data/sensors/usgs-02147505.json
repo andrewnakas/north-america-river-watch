@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02147505",
+  "key": "02147505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02147505",
+  "name": "CEDAR CREEK RES TAILRACE BELOW GREAT FALLS, SC",
+  "waterbody": "CEDAR CREEK RES TAILRACE BELOW GREAT FALLS, SC",
+  "state": "SC",
+  "latitude": 34.541111,
+  "longitude": -80.875278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdcs1",
+  "slug": "usgs-02147505",
+  "noaaForecastPath": "data/noaa-forecast/CDCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06800000",
+  "key": "06800000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06800000",
+  "name": "Maple Creek near Nickerson, Nebr.",
+  "waterbody": "Maple Creek near Nickerson, Nebr.",
+  "state": "NE",
+  "latitude": 41.561244,
+  "longitude": -96.541017,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NKRN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maple Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nkrn1",
+  "slug": "usgs-06800000",
+  "noaaForecastPath": "data/noaa-forecast/NKRN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

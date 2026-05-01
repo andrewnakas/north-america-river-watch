@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01197145",
+  "key": "01197145",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01197145",
+  "name": "HOUSATONIC RIVER AT LENOXDALE, MA",
+  "waterbody": "HOUSATONIC RIVER AT LENOXDALE, MA",
+  "state": "MA",
+  "latitude": 42.34288889,
+  "longitude": -73.2451667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01197145",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

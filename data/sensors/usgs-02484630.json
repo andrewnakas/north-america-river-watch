@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02484630",
+  "key": "02484630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02484630",
+  "name": "PEARL RIVER AT COAL BLUFF NR RATLIFF, MS",
+  "waterbody": "PEARL RIVER AT COAL BLUFF NR RATLIFF, MS",
+  "state": "MS",
+  "latitude": 32.59041575,
+  "longitude": -89.78035559,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02484630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

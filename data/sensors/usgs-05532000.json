@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05532000",
+  "key": "05532000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05532000",
+  "name": "ADDISON CREEK AT BELLWOOD, IL",
+  "waterbody": "ADDISON CREEK AT BELLWOOD, IL",
+  "state": "IL",
+  "latitude": 41.88185556,
+  "longitude": -87.8689333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Addison Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwdi2",
+  "slug": "usgs-05532000",
+  "noaaForecastPath": "data/noaa-forecast/BWDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

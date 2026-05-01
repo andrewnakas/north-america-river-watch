@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09364500",
+  "key": "09364500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09364500",
+  "name": "ANIMAS RIVER AT FARMINGTON, NM",
+  "waterbody": "ANIMAS RIVER AT FARMINGTON, NM",
+  "state": "NM",
+  "latitude": 36.7225,
+  "longitude": -108.20175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARFN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Animas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arfn5",
+  "slug": "usgs-09364500",
+  "noaaForecastPath": "data/noaa-forecast/ARFN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

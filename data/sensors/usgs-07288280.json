@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07288280",
+  "key": "07288280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288280",
+  "name": "BIG SUNFLOWER RIVER NR MERIGOLD, MS",
+  "waterbody": "BIG SUNFLOWER RIVER NR MERIGOLD, MS",
+  "state": "MS",
+  "latitude": 33.8325,
+  "longitude": -90.67,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRGM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sunflower River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrgm6",
+  "slug": "usgs-07288280",
+  "noaaForecastPath": "data/noaa-forecast/MRGM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

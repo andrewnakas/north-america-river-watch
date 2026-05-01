@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14375400",
+  "key": "14375400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14375400",
+  "name": "ELK CREEK NEAR OBRIEN,OREG.",
+  "waterbody": "ELK CREEK NEAR OBRIEN,OREG.",
+  "state": "OR",
+  "latitude": 42.0315013,
+  "longitude": -123.7378483,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14375400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

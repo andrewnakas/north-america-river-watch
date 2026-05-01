@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02465000",
+  "key": "02465000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02465000",
+  "name": "BLACK WARRIOR RIVER AT NORTHPORT AL",
+  "waterbody": "BLACK WARRIOR RIVER AT NORTHPORT AL",
+  "state": "AL",
+  "latitude": 33.20928528,
+  "longitude": -87.5900074,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02465000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

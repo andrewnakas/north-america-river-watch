@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06351200",
+  "key": "06351200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06351200",
+  "name": "CANNONBALL RIVER NEAR RALEIGH, ND",
+  "waterbody": "CANNONBALL RIVER NEAR RALEIGH, ND",
+  "state": "ND",
+  "latitude": 46.12689745,
+  "longitude": -101.3332835,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06351200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

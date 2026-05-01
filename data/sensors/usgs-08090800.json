@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08090800",
+  "key": "08090800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08090800",
+  "name": "Brazos Rv nr Dennis, TX",
+  "waterbody": "Brazos Rv nr Dennis, TX",
+  "state": "TX",
+  "latitude": 32.61568907,
+  "longitude": -97.9258703,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnnt2",
+  "slug": "usgs-08090800",
+  "noaaForecastPath": "data/noaa-forecast/DNNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

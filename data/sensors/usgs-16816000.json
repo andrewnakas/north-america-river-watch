@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16816000",
+  "key": "16816000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16816000",
+  "name": "Umatac River at Umatac, Guam",
+  "waterbody": "Umatac River at Umatac, Guam",
+  "state": "GU",
+  "latitude": 13.29797222,
+  "longitude": 144.6652222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16816000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

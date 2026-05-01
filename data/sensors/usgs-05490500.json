@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05490500",
+  "key": "05490500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05490500",
+  "name": "Des Moines River at Keosauqua, IA",
+  "waterbody": "Des Moines River at Keosauqua, IA",
+  "state": "IA",
+  "latitude": 40.72780556,
+  "longitude": -91.9596139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KEQI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/keqi4",
+  "slug": "usgs-05490500",
+  "noaaForecastPath": "data/noaa-forecast/KEQI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

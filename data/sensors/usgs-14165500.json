@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14165500",
+  "key": "14165500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14165500",
+  "name": "MCKENZIE RIVER NEAR COBURG, OR",
+  "waterbody": "MCKENZIE RIVER NEAR COBURG, OR",
+  "state": "OR",
+  "latitude": 44.11305556,
+  "longitude": -123.0469722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRGO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKenzie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrgo3",
+  "slug": "usgs-14165500",
+  "noaaForecastPath": "data/noaa-forecast/MRGO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

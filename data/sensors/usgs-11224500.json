@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11224500",
+  "key": "11224500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11224500",
+  "name": "LOS GATOS C AB NUNEZ CYN NR COALINGA CA",
+  "waterbody": "LOS GATOS C AB NUNEZ CYN NR COALINGA CA",
+  "state": "CA",
+  "latitude": 36.21466074,
+  "longitude": -120.4706956,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Los Gatos Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgcc1",
+  "slug": "usgs-11224500",
+  "noaaForecastPath": "data/noaa-forecast/LGCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

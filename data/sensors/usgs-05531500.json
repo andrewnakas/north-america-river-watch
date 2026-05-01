@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05531500",
+  "key": "05531500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05531500",
+  "name": "SALT CREEK AT WESTERN SPRINGS, IL",
+  "waterbody": "SALT CREEK AT WESTERN SPRINGS, IL",
+  "state": "IL",
+  "latitude": 41.8258333,
+  "longitude": -87.9002778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wspi2",
+  "slug": "usgs-05531500",
+  "noaaForecastPath": "data/noaa-forecast/WSPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

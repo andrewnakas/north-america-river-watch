@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06660000",
+  "key": "06660000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06660000",
+  "name": "LARAMIE RIVER AT LARAMIE, WY",
+  "waterbody": "LARAMIE RIVER AT LARAMIE, WY",
+  "state": "WY",
+  "latitude": 41.32777778,
+  "longitude": -105.6074167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Laramie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llrw4",
+  "slug": "usgs-06660000",
+  "noaaForecastPath": "data/noaa-forecast/LLRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

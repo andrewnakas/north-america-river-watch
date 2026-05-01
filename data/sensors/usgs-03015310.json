@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03015310",
+  "key": "03015310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03015310",
+  "name": "Allegheny River bl Conewango Creek at Warren, PA",
+  "waterbody": "Allegheny River bl Conewango Creek at Warren, PA",
+  "state": "PA",
+  "latitude": 41.8439485,
+  "longitude": -79.1497668,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrrp1",
+  "slug": "usgs-03015310",
+  "noaaForecastPath": "data/noaa-forecast/WRRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

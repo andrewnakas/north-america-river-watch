@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01359165",
+  "key": "01359165",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01359165",
+  "name": "HUDSON RIVER AT PORT OF ALBANY NY",
+  "waterbody": "HUDSON RIVER AT PORT OF ALBANY NY",
+  "state": "NY",
+  "latitude": 42.61952778,
+  "longitude": -73.7589167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01359165",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

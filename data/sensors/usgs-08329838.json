@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329838",
+  "key": "08329838",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329838",
+  "name": "SF HAHN ARROYO IN ALBUQUERQUE, NM",
+  "waterbody": "SF HAHN ARROYO IN ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.12111111,
+  "longitude": -106.56777778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329838",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

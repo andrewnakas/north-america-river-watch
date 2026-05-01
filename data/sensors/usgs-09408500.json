@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09408500",
+  "key": "09408500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09408500",
+  "name": "SANTA CLARA-PINTO DIVERSION NEAR PINTO, UT",
+  "waterbody": "SANTA CLARA-PINTO DIVERSION NEAR PINTO, UT",
+  "state": "UT",
+  "latitude": 37.4677569,
+  "longitude": -113.4732888,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09408500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

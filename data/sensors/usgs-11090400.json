@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11090400",
+  "key": "11090400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11090400",
+  "name": "FULLERTON C NR BUENA PARK CA",
+  "waterbody": "FULLERTON C NR BUENA PARK CA",
+  "state": "CA",
+  "latitude": 33.86402778,
+  "longitude": -118.0298333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11090400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

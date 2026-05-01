@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02043190",
+  "key": "02043190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02043190",
+  "name": "WEST NECK CR AT RT 149 AT PRINCESS ANNE, VA WN1",
+  "waterbody": "WEST NECK CR AT RT 149 AT PRINCESS ANNE, VA WN1",
+  "state": "VA",
+  "latitude": 36.75570539,
+  "longitude": -76.0407649,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02043190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

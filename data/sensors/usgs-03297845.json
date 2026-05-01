@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03297845",
+  "key": "03297845",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03297845",
+  "name": "FLOYDS FORK NEAR CRESTWOOD, KY",
+  "waterbody": "FLOYDS FORK NEAR CRESTWOOD, KY",
+  "state": "KY",
+  "latitude": 38.2986807,
+  "longitude": -85.4266253,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03297845",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

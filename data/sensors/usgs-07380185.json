@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07380185",
+  "key": "07380185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380185",
+  "name": "W Colyell Cr. at Joe May Rd near Port Vincent, LA",
+  "waterbody": "W Colyell Cr. at Joe May Rd near Port Vincent, LA",
+  "state": "LA",
+  "latitude": 30.42158054,
+  "longitude": -90.8648207,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07380185",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

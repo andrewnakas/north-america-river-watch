@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05587498",
+  "key": "05587498",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05587498",
+  "name": "Mississippi River Pool Lock and Dam 26 at Alton,IL",
+  "waterbody": "Mississippi River Pool Lock and Dam 26 at Alton,IL",
+  "state": "IL",
+  "latitude": 38.88730556,
+  "longitude": -90.184,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALOI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aloi2",
+  "slug": "usgs-05587498",
+  "noaaForecastPath": "data/noaa-forecast/ALOI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

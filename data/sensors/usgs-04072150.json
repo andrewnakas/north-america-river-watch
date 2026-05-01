@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04072150",
+  "key": "04072150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04072150",
+  "name": "DUCK CREEK NEAR HOWARD, WI",
+  "waterbody": "DUCK CREEK NEAR HOWARD, WI",
+  "state": "WI",
+  "latitude": 44.53338889,
+  "longitude": -88.1296944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOWW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duck Creek (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/howw3",
+  "slug": "usgs-04072150",
+  "noaaForecastPath": "data/noaa-forecast/HOWW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

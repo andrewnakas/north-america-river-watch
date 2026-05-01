@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11114495",
+  "key": "11114495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11114495",
+  "name": "MATILIJA C NR RES NR MATILIJA HOT SPRINGS CA",
+  "waterbody": "MATILIJA C NR RES NR MATILIJA HOT SPRINGS CA",
+  "state": "CA",
+  "latitude": 34.50276555,
+  "longitude": -119.35731358,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11114495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

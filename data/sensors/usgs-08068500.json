@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068500",
+  "key": "08068500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068500",
+  "name": "Spring Ck nr Spring, TX",
+  "waterbody": "Spring Ck nr Spring, TX",
+  "state": "TX",
+  "latitude": 30.11049517,
+  "longitude": -95.4363275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spnt2",
+  "slug": "usgs-08068500",
+  "noaaForecastPath": "data/noaa-forecast/SPNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

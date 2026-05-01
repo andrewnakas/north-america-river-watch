@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02490193",
+  "key": "02490193",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02490193",
+  "name": "Pearl River at Pools Bluff near Bogalusa, LA",
+  "waterbody": "Pearl River at Pools Bluff near Bogalusa, LA",
+  "state": "LA",
+  "latitude": 30.70583333,
+  "longitude": -89.8463889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPBL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ppbl1",
+  "slug": "usgs-02490193",
+  "noaaForecastPath": "data/noaa-forecast/PPBL1.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11028500",
+  "key": "11028500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11028500",
+  "name": "SANTA MARIA C NR RAMONA CA",
+  "waterbody": "SANTA MARIA C NR RAMONA CA",
+  "state": "CA",
+  "latitude": 33.0522655,
+  "longitude": -116.9455844,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11028500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

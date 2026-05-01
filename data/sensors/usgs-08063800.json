@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08063800",
+  "key": "08063800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08063800",
+  "name": "Waxahachie Ck nr Bardwell, TX",
+  "waterbody": "Waxahachie Ck nr Bardwell, TX",
+  "state": "TX",
+  "latitude": 32.2434807,
+  "longitude": -96.6402676,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Texas Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdwt2",
+  "slug": "usgs-08063800",
+  "noaaForecastPath": "data/noaa-forecast/BDWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

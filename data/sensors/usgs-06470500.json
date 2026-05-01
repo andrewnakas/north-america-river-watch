@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06470500",
+  "key": "06470500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06470500",
+  "name": "JAMES RIVER AT LAMOURE, ND",
+  "waterbody": "JAMES RIVER AT LAMOURE, ND",
+  "state": "ND",
+  "latitude": 46.35552489,
+  "longitude": -98.3045433,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAMN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lamn8",
+  "slug": "usgs-06470500",
+  "noaaForecastPath": "data/noaa-forecast/LAMN8.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

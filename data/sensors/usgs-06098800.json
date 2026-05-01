@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06098800",
+  "key": "06098800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06098800",
+  "name": "Cut Bank Cr ab Gillam Coulee, nr Sundance, MT",
+  "waterbody": "Cut Bank Cr ab Gillam Coulee, nr Sundance, MT",
+  "state": "MT",
+  "latitude": 48.67847778,
+  "longitude": -112.5940056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06098800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

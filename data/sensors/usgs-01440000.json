@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01440000",
+  "key": "01440000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01440000",
+  "name": "Flat Brook near Flatbrookville NJ",
+  "waterbody": "Flat Brook near Flatbrookville NJ",
+  "state": "NJ",
+  "latitude": 41.10611111,
+  "longitude": -74.9525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLAN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flan4",
+  "slug": "usgs-01440000",
+  "noaaForecastPath": "data/noaa-forecast/FLAN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

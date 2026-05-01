@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04214500",
+  "key": "04214500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04214500",
+  "name": "BUFFALO CREEK AT GARDENVILLE NY",
+  "waterbody": "BUFFALO CREEK AT GARDENVILLE NY",
+  "state": "NY",
+  "latitude": 42.8546111,
+  "longitude": -78.7564167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdvn6",
+  "slug": "usgs-04214500",
+  "noaaForecastPath": "data/noaa-forecast/GDVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

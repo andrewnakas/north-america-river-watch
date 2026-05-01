@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02201230",
+  "key": "02201230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02201230",
+  "name": "OGEECHEE RIVER AT MIDVILLE, GA",
+  "waterbody": "OGEECHEE RIVER AT MIDVILLE, GA",
+  "state": "GA",
+  "latitude": 32.81469444,
+  "longitude": -82.235,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDVG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogeechee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdvg1",
+  "slug": "usgs-02201230",
+  "noaaForecastPath": "data/noaa-forecast/MDVG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

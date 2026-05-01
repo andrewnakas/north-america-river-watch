@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50232000",
+  "key": "50232000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50232000",
+  "name": "QUEBRADA LA MINA NR LA ESPERANZA, VIEQUES, PR",
+  "waterbody": "QUEBRADA LA MINA NR LA ESPERANZA, VIEQUES, PR",
+  "state": "PR",
+  "latitude": 18.11301939,
+  "longitude": -65.4704367,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50232000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

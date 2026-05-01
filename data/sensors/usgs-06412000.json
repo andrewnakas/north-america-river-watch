@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06412000",
+  "key": "06412000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06412000",
+  "name": "RAPID CREEK AT BIG BEND NR RAPID CITY,SD",
+  "waterbody": "RAPID CREEK AT BIG BEND NR RAPID CITY,SD",
+  "state": "SD",
+  "latitude": 44.05498747,
+  "longitude": -103.417132,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIGS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bigs2",
+  "slug": "usgs-06412000",
+  "noaaForecastPath": "data/noaa-forecast/BIGS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

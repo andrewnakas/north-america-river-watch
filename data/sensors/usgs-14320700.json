@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14320700",
+  "key": "14320700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14320700",
+  "name": "CALAPOOYA CREEK NEAR OAKLAND, OR",
+  "waterbody": "CALAPOOYA CREEK NEAR OAKLAND, OR",
+  "state": "OR",
+  "latitude": 43.4026171,
+  "longitude": -123.3636909,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CALO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calapooya Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/calo3",
+  "slug": "usgs-14320700",
+  "noaaForecastPath": "data/noaa-forecast/CALO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

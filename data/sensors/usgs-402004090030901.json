@@ -1,0 +1,19 @@
+{
+  "id": "usgs:402004090030901",
+  "key": "402004090030901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "402004090030901",
+  "name": "EMIQUON LAKE OUTLET NEAR HAVANA, IL",
+  "waterbody": "EMIQUON LAKE OUTLET NEAR HAVANA, IL",
+  "state": "IL",
+  "latitude": 40.33444444,
+  "longitude": -90.0525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-402004090030901",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

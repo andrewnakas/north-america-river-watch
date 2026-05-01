@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07153000",
+  "key": "07153000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07153000",
+  "name": "Black Bear Creek at Pawnee, OK",
+  "waterbody": "Black Bear Creek at Pawnee, OK",
+  "state": "OK",
+  "latitude": 36.34366537,
+  "longitude": -96.7994788,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAWO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Bear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pawo2",
+  "slug": "usgs-07153000",
+  "noaaForecastPath": "data/noaa-forecast/PAWO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

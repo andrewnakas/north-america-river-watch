@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07311800",
+  "key": "07311800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07311800",
+  "name": "S Wichita Rv nr Benjamin, TX",
+  "waterbody": "S Wichita Rv nr Benjamin, TX",
+  "state": "TX",
+  "latitude": 33.644257,
+  "longitude": -99.8009252,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BENT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bent2",
+  "slug": "usgs-07311800",
+  "noaaForecastPath": "data/noaa-forecast/BENT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

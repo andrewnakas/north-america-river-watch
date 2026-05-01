@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05131455",
+  "key": "05131455",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05131455",
+  "name": "NETT LAKE RIVER NEAR NETT LAKE, MN",
+  "waterbody": "NETT LAKE RIVER NEAR NETT LAKE, MN",
+  "state": "MN",
+  "latitude": 48.1104829,
+  "longitude": -93.1871095,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05131455",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

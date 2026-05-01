@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01583100",
+  "key": "01583100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01583100",
+  "name": "PINEY RUN AT DOVER, MD",
+  "waterbody": "PINEY RUN AT DOVER, MD",
+  "state": "MD",
+  "latitude": 39.5206111,
+  "longitude": -76.76688889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DVRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piney Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dvrm2",
+  "slug": "usgs-01583100",
+  "noaaForecastPath": "data/noaa-forecast/DVRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03404900",
+  "key": "03404900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03404900",
+  "name": "LYNN CAMP CREEK AT CORBIN, KY",
+  "waterbody": "LYNN CAMP CREEK AT CORBIN, KY",
+  "state": "KY",
+  "latitude": 36.9514765,
+  "longitude": -84.0935427,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CORK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lynn Camp Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cork2",
+  "slug": "usgs-03404900",
+  "noaaForecastPath": "data/noaa-forecast/CORK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

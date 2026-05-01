@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09083800",
+  "key": "09083800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09083800",
+  "name": "CRYSTAL RIVER BELOW CARBONDALE, CO",
+  "waterbody": "CRYSTAL RIVER BELOW CARBONDALE, CO",
+  "state": "CO",
+  "latitude": 39.40803866,
+  "longitude": -107.23033,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09083800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

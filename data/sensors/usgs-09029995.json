@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09029995",
+  "key": "09029995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09029995",
+  "name": "MIDDLE FORK RANCH CREEK ABV DIVERSION NR FRASER CO",
+  "waterbody": "MIDDLE FORK RANCH CREEK ABV DIVERSION NR FRASER CO",
+  "state": "CO",
+  "latitude": 39.92896944,
+  "longitude": -105.7343389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09029995",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

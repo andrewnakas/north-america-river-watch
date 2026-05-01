@@ -1,0 +1,19 @@
+{
+  "id": "usgs:403930082335600",
+  "key": "403930082335600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "403930082335600",
+  "name": "Clear Fork Mohican River below Lexington OH",
+  "waterbody": "Clear Fork Mohican River below Lexington OH",
+  "state": "OH",
+  "latitude": 40.65829167,
+  "longitude": -82.56543889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-403930082335600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06928420",
+  "key": "06928420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06928420",
+  "name": "Roubidoux Creek at Polla Rd bl Ft. Leonard Wood",
+  "waterbody": "Roubidoux Creek at Polla Rd bl Ft. Leonard Wood",
+  "state": "MO",
+  "latitude": 37.79194444,
+  "longitude": -92.1833333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBXM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roubidoux Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbxm7",
+  "slug": "usgs-06928420",
+  "noaaForecastPath": "data/noaa-forecast/RBXM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

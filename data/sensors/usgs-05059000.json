@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05059000",
+  "key": "05059000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05059000",
+  "name": "SHEYENNE RIVER NEAR KINDRED, ND",
+  "waterbody": "SHEYENNE RIVER NEAR KINDRED, ND",
+  "state": "ND",
+  "latitude": 46.63163288,
+  "longitude": -97.000643,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNDN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kndn8",
+  "slug": "usgs-05059000",
+  "noaaForecastPath": "data/noaa-forecast/KNDN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

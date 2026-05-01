@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06345780",
+  "key": "06345780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06345780",
+  "name": "HEART R AB LAKE TSCHIDA NR GLEN ULLIN, ND",
+  "waterbody": "HEART R AB LAKE TSCHIDA NR GLEN ULLIN, ND",
+  "state": "ND",
+  "latitude": 46.6569506,
+  "longitude": -102.0793279,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06345780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

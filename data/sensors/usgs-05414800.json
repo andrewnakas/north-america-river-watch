@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05414800",
+  "key": "05414800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05414800",
+  "name": "SINSINAWA RIVER NEAR HAZEL GREEN, WI",
+  "waterbody": "SINSINAWA RIVER NEAR HAZEL GREEN, WI",
+  "state": "WI",
+  "latitude": 42.53389075,
+  "longitude": -90.481517,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05414800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

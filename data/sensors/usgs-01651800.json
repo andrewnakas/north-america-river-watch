@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01651800",
+  "key": "01651800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01651800",
+  "name": "WATTS BRANCH AT WASHINGTON, DC",
+  "waterbody": "WATTS BRANCH AT WASHINGTON, DC",
+  "state": "DC",
+  "latitude": 38.90127778,
+  "longitude": -76.94327778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WATD2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Watts Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/watd2",
+  "slug": "usgs-01651800",
+  "noaaForecastPath": "data/noaa-forecast/WATD2.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

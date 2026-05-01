@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02431000",
+  "key": "02431000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02431000",
+  "name": "TOMBIGBEE RIVER NR FULTON, MS",
+  "waterbody": "TOMBIGBEE RIVER NR FULTON, MS",
+  "state": "MS",
+  "latitude": 34.265,
+  "longitude": -88.4452778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FULM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tombigbee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fulm6",
+  "slug": "usgs-02431000",
+  "noaaForecastPath": "data/noaa-forecast/FULM6.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

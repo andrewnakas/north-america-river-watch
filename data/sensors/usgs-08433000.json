@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08433000",
+  "key": "08433000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08433000",
+  "name": "Barrilla Draw nr Saragosa, TX",
+  "waterbody": "Barrilla Draw nr Saragosa, TX",
+  "state": "TX",
+  "latitude": 30.95792694,
+  "longitude": -103.459619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barrilla Draw 13 miles ESE of Saragosa",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgat2",
+  "slug": "usgs-08433000",
+  "noaaForecastPath": "data/noaa-forecast/SGAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

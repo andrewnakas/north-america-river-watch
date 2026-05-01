@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06823500",
+  "key": "06823500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06823500",
+  "name": "Buffalo Creek near Haigler, Nebr.",
+  "waterbody": "Buffalo Creek near Haigler, Nebr.",
+  "state": "NE",
+  "latitude": 40.039253,
+  "longitude": -101.866506,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbcn1",
+  "slug": "usgs-06823500",
+  "noaaForecastPath": "data/noaa-forecast/HBCN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

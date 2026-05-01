@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05527905",
+  "key": "05527905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05527905",
+  "name": "HASTINGS CREEK NEAR LINDENHURST, IL",
+  "waterbody": "HASTINGS CREEK NEAR LINDENHURST, IL",
+  "state": "IL",
+  "latitude": 42.44805556,
+  "longitude": -88.0247222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05527905",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15049900",
+  "key": "15049900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15049900",
+  "name": "GOLD C NR JUNEAU AK",
+  "waterbody": "GOLD C NR JUNEAU AK",
+  "state": "AK",
+  "latitude": 58.3068952,
+  "longitude": -134.388436,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15049900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

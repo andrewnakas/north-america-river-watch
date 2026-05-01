@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05411850",
+  "key": "05411850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05411850",
+  "name": "Turkey River near Eldorado, IA",
+  "waterbody": "Turkey River near Eldorado, IA",
+  "state": "IA",
+  "latitude": 43.0541879,
+  "longitude": -91.8090983,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDRI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edri4",
+  "slug": "usgs-05411850",
+  "noaaForecastPath": "data/noaa-forecast/EDRI4.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

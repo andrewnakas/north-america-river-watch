@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05386500",
+  "key": "05386500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05386500",
+  "name": "COON CREEK AT COON VALLEY, WI",
+  "waterbody": "COON CREEK AT COON VALLEY, WI",
+  "state": "WI",
+  "latitude": 43.7046921,
+  "longitude": -91.0184642,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05386500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

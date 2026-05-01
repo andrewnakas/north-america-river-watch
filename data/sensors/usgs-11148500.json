@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11148500",
+  "key": "11148500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11148500",
+  "name": "ESTRELLA R NR ESTRELLA CA",
+  "waterbody": "ESTRELLA R NR ESTRELLA CA",
+  "state": "CA",
+  "latitude": 35.71719096,
+  "longitude": -120.6401683,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Estrella River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/esrc1",
+  "slug": "usgs-11148500",
+  "noaaForecastPath": "data/noaa-forecast/ESRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01350120",
+  "key": "01350120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01350120",
+  "name": "PLATTER KILL AT GILBOA NY",
+  "waterbody": "PLATTER KILL AT GILBOA NY",
+  "state": "NY",
+  "latitude": 42.4067222,
+  "longitude": -74.44813889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platter Kill",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkln6",
+  "slug": "usgs-01350120",
+  "noaaForecastPath": "data/noaa-forecast/PKLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

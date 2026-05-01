@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01505000",
+  "key": "01505000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01505000",
+  "name": "CHENANGO RIVER AT SHERBURNE NY",
+  "waterbody": "CHENANGO RIVER AT SHERBURNE NY",
+  "state": "NY",
+  "latitude": 42.67852778,
+  "longitude": -75.51066667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chenango River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shbn6",
+  "slug": "usgs-01505000",
+  "noaaForecastPath": "data/noaa-forecast/SHBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12143900",
+  "key": "12143900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12143900",
+  "name": "BOXLEY CREEK NEAR EDGEWICK, WA",
+  "waterbody": "BOXLEY CREEK NEAR EDGEWICK, WA",
+  "state": "WA",
+  "latitude": 47.44871459,
+  "longitude": -121.7317744,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12143900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

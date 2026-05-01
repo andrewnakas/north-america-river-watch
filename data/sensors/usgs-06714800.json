@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06714800",
+  "key": "06714800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06714800",
+  "name": "LEAVENWORTH CREEK AT MOUTH NEAR GEORGETOWN, CO",
+  "waterbody": "LEAVENWORTH CREEK AT MOUTH NEAR GEORGETOWN, CO",
+  "state": "CO",
+  "latitude": 39.68720955,
+  "longitude": -105.7002821,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06714800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

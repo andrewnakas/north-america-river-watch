@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02032400",
+  "key": "02032400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02032400",
+  "name": "BUCK MOUNTAIN CREEK NEAR FREE UNION, VA",
+  "waterbody": "BUCK MOUNTAIN CREEK NEAR FREE UNION, VA",
+  "state": "VA",
+  "latitude": 38.1545786,
+  "longitude": -78.5391805,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02032400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

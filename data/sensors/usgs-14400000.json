@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14400000",
+  "key": "14400000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14400000",
+  "name": "CHETCO RIVER NEAR BROOKINGS, OR",
+  "waterbody": "CHETCO RIVER NEAR BROOKINGS, OR",
+  "state": "OR",
+  "latitude": 42.12344278,
+  "longitude": -124.1873107,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chetco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chto3",
+  "slug": "usgs-14400000",
+  "noaaForecastPath": "data/noaa-forecast/CHTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

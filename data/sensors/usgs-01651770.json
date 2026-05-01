@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01651770",
+  "key": "01651770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01651770",
+  "name": "HICKEY RUN AT NATIONAL ARBORETUM AT WASHINGTON, DC",
+  "waterbody": "HICKEY RUN AT NATIONAL ARBORETUM AT WASHINGTON, DC",
+  "state": "DC",
+  "latitude": 38.9161111,
+  "longitude": -76.9688611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAHD2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hickey Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nahd2",
+  "slug": "usgs-01651770",
+  "noaaForecastPath": "data/noaa-forecast/NAHD2.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

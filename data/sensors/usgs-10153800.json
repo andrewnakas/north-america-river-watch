@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10153800",
+  "key": "10153800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10153800",
+  "name": "NORTH FORK PROVO RIVER NEAR KAMAS, UT",
+  "waterbody": "NORTH FORK PROVO RIVER NEAR KAMAS, UT",
+  "state": "UT",
+  "latitude": 40.59661455,
+  "longitude": -111.0973947,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10153800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

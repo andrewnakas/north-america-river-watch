@@ -1,0 +1,22 @@
+{
+  "id": "usgs:335540078093395",
+  "key": "335540078093395",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "335540078093395",
+  "name": "EF MIDDLETON BLVD BRIDGE,HWY 1500 TO OAK ISLAND,NC",
+  "waterbody": "EF MIDDLETON BLVD BRIDGE,HWY 1500 TO OAK ISLAND,NC",
+  "state": "NC",
+  "latitude": 33.92788056,
+  "longitude": -78.1591667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSON7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Montgomery Slough",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mson7",
+  "slug": "usgs-335540078093395",
+  "noaaForecastPath": "data/noaa-forecast/MSON7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

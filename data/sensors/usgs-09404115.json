@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09404115",
+  "key": "09404115",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404115",
+  "name": "HAVASU CREEK ABOVE THE MOUTH, NEAR SUPAI, AZ",
+  "waterbody": "HAVASU CREEK ABOVE THE MOUTH, NEAR SUPAI, AZ",
+  "state": "AZ",
+  "latitude": 36.30581618,
+  "longitude": -112.761305,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNSA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Havasu Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnsa3",
+  "slug": "usgs-09404115",
+  "noaaForecastPath": "data/noaa-forecast/HNSA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

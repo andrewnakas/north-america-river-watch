@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01122500",
+  "key": "01122500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01122500",
+  "name": "SHETUCKET RIVER NEAR WILLIMANTIC, CT",
+  "waterbody": "SHETUCKET RIVER NEAR WILLIMANTIC, CT",
+  "state": "CT",
+  "latitude": 41.70026088,
+  "longitude": -72.18200333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLMC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shetucket River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlmc3",
+  "slug": "usgs-01122500",
+  "noaaForecastPath": "data/noaa-forecast/WLMC3.json",
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04143900",
+  "key": "04143900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04143900",
+  "name": "SHIAWASSEE RIVER AT LINDEN, MI",
+  "waterbody": "SHIAWASSEE RIVER AT LINDEN, MI",
+  "state": "MI",
+  "latitude": 42.81586239,
+  "longitude": -83.8018978,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04143900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

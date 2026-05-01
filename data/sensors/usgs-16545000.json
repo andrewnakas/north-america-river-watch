@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16545000",
+  "key": "16545000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16545000",
+  "name": "Puohokamoa Str ab Spreckels Ditch, Maui, HI",
+  "waterbody": "Puohokamoa Str ab Spreckels Ditch, Maui, HI",
+  "state": "HI",
+  "latitude": 20.85263746,
+  "longitude": -156.18858547,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16545000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

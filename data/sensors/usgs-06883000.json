@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06883000",
+  "key": "06883000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06883000",
+  "name": "Little Blue River near Deweese, Nebr.",
+  "waterbody": "Little Blue River near Deweese, Nebr.",
+  "state": "NE",
+  "latitude": 40.3325,
+  "longitude": -98.0669444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWEN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwen1",
+  "slug": "usgs-06883000",
+  "noaaForecastPath": "data/noaa-forecast/DWEN1.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

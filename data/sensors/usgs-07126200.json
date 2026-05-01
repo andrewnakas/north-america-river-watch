@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07126200",
+  "key": "07126200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07126200",
+  "name": "VAN BREMER ARROYO NEAR MODEL, CO",
+  "waterbody": "VAN BREMER ARROYO NEAR MODEL, CO",
+  "state": "CO",
+  "latitude": 37.345556,
+  "longitude": -103.9575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07126200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03216000",
+  "key": "03216000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03216000",
+  "name": "OHIO RIVER AT ASHLAND, KY",
+  "waterbody": "OHIO RIVER AT ASHLAND, KY",
+  "state": "KY",
+  "latitude": 38.4840255,
+  "longitude": -82.6415499,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASHK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ashk2",
+  "slug": "usgs-03216000",
+  "noaaForecastPath": "data/noaa-forecast/ASHK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

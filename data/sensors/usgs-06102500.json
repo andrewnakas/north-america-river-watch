@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06102500",
+  "key": "06102500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06102500",
+  "name": "Teton River bl South Fork nr Choteau MT",
+  "waterbody": "Teton River bl South Fork nr Choteau MT",
+  "state": "MT",
+  "latitude": 47.8830833,
+  "longitude": -112.6119833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSFM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Teton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tsfm8",
+  "slug": "usgs-06102500",
+  "noaaForecastPath": "data/noaa-forecast/TSFM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

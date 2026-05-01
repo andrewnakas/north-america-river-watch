@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02174250",
+  "key": "02174250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02174250",
+  "name": "COW CASTLE CREEK NEAR BOWMAN, SC",
+  "waterbody": "COW CASTLE CREEK NEAR BOWMAN, SC",
+  "state": "SC",
+  "latitude": 33.3787575,
+  "longitude": -80.699807,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOWS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Castle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bows1",
+  "slug": "usgs-02174250",
+  "noaaForecastPath": "data/noaa-forecast/BOWS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

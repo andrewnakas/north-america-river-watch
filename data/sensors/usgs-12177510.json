@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12177510",
+  "key": "12177510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12177510",
+  "name": "STETATTLE CREEK AT DIABLO, WA",
+  "waterbody": "STETATTLE CREEK AT DIABLO, WA",
+  "state": "WA",
+  "latitude": 48.7171333,
+  "longitude": -121.1499389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STTW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stetattle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sttw1",
+  "slug": "usgs-12177510",
+  "noaaForecastPath": "data/noaa-forecast/STTW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

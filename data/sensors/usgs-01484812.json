@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01484812",
+  "key": "01484812",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01484812",
+  "name": "NASSAWADOX CREEK AB CHURCH CRK NR SILVER BEACH, VA",
+  "waterbody": "NASSAWADOX CREEK AB CHURCH CRK NR SILVER BEACH, VA",
+  "state": "VA",
+  "latitude": 37.4763333,
+  "longitude": -75.9352222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSWV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nassawadox Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nswv2",
+  "slug": "usgs-01484812",
+  "noaaForecastPath": "data/noaa-forecast/NSWV2.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

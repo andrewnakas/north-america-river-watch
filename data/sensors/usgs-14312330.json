@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14312330",
+  "key": "14312330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14312330",
+  "name": "SOUTH UMPQUA RIVER AT MELROSE, OR",
+  "waterbody": "SOUTH UMPQUA RIVER AT MELROSE, OR",
+  "state": "OR",
+  "latitude": 43.2517611,
+  "longitude": -123.4477,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "SOUTH UMPQUA AT MELROSE",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sumo3",
+  "slug": "usgs-14312330",
+  "noaaForecastPath": "data/noaa-forecast/SUMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

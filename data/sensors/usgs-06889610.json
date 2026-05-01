@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06889610",
+  "key": "06889610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889610",
+  "name": "SB SHUNGANUNGA C AT SW 37TH ST, TOPEKA, KS",
+  "waterbody": "SB SHUNGANUNGA C AT SW 37TH ST, TOPEKA, KS",
+  "state": "KS",
+  "latitude": 39.0002788,
+  "longitude": -95.711927,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06889610",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

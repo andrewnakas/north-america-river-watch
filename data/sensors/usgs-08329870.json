@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329870",
+  "key": "08329870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329870",
+  "name": "BEAR ARROYO AT JEFFERSON ST AT ALBQ, NM",
+  "waterbody": "BEAR ARROYO AT JEFFERSON ST AT ALBQ, NM",
+  "state": "NM",
+  "latitude": 35.1508333,
+  "longitude": -106.5977778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329870",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14138900",
+  "key": "14138900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14138900",
+  "name": "NORTH FORK BULL RUN RIVER NEAR MULTNOMAH FALLS, OR",
+  "waterbody": "NORTH FORK BULL RUN RIVER NEAR MULTNOMAH FALLS, OR",
+  "state": "OR",
+  "latitude": 45.4942454,
+  "longitude": -122.035888,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Fk Bull Run River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbro3",
+  "slug": "usgs-14138900",
+  "noaaForecastPath": "data/noaa-forecast/NBRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

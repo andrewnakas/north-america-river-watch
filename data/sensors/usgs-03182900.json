@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03182900",
+  "key": "03182900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03182900",
+  "name": "HOWARD CREEK AT WHITE SULPHUR SPRINGS, WV",
+  "waterbody": "HOWARD CREEK AT WHITE SULPHUR SPRINGS, WV",
+  "state": "WV",
+  "latitude": 37.79344444,
+  "longitude": -80.3046111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HWCW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Howard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hwcw2",
+  "slug": "usgs-03182900",
+  "noaaForecastPath": "data/noaa-forecast/HWCW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

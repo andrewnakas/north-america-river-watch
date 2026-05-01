@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06077500",
+  "key": "06077500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06077500",
+  "name": "Smith River near Eden MT",
+  "waterbody": "Smith River near Eden MT",
+  "state": "MT",
+  "latitude": 47.18929167,
+  "longitude": -111.3862389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDNM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River (MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ednm8",
+  "slug": "usgs-06077500",
+  "noaaForecastPath": "data/noaa-forecast/EDNM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

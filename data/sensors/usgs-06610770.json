@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610770",
+  "key": "06610770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610770",
+  "name": "Big Papillion Creek at Q Street at Omaha, Nebr.",
+  "waterbody": "Big Papillion Creek at Q Street at Omaha, Nebr.",
+  "state": "NE",
+  "latitude": 41.2052,
+  "longitude": -96.01605278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RABN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rabn1",
+  "slug": "usgs-06610770",
+  "noaaForecastPath": "data/noaa-forecast/RABN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

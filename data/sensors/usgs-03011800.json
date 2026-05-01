@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03011800",
+  "key": "03011800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03011800",
+  "name": "Kinzua Creek near Guffey, PA",
+  "waterbody": "Kinzua Creek near Guffey, PA",
+  "state": "PA",
+  "latitude": 41.76645099,
+  "longitude": -78.71863999,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUFP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kinzua Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gufp1",
+  "slug": "usgs-03011800",
+  "noaaForecastPath": "data/noaa-forecast/GUFP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

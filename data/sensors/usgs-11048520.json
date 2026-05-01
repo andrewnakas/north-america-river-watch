@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11048520",
+  "key": "11048520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11048520",
+  "name": "CENTRAL IRVINE CHANNEL NR TUSTIN CA",
+  "waterbody": "CENTRAL IRVINE CHANNEL NR TUSTIN CA",
+  "state": "CA",
+  "latitude": 33.7161111,
+  "longitude": -117.7894444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11048520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02108619",
+  "key": "02108619",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02108619",
+  "name": "NORTHEAST CAPE FEAR R AT CASTLE HAYNE, NC",
+  "waterbody": "NORTHEAST CAPE FEAR R AT CASTLE HAYNE, NC",
+  "state": "NC",
+  "latitude": 34.3646333,
+  "longitude": -77.8976528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02108619",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01515000",
+  "key": "01515000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01515000",
+  "name": "SUSQUEHANNA RIVER NEAR WAVERLY NY",
+  "waterbody": "SUSQUEHANNA RIVER NEAR WAVERLY NY",
+  "state": "PA",
+  "latitude": 41.98494444,
+  "longitude": -76.50125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01515000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

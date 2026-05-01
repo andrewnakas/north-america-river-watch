@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01354083",
+  "key": "01354083",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01354083",
+  "name": "MOHAWK RIVER AT AMSTERDAM NY",
+  "waterbody": "MOHAWK RIVER AT AMSTERDAM NY",
+  "state": "NY",
+  "latitude": 42.934,
+  "longitude": -74.1918611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMDN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mohawk River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amdn6",
+  "slug": "usgs-01354083",
+  "noaaForecastPath": "data/noaa-forecast/AMDN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

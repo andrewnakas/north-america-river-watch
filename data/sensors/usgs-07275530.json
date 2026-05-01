@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07275530",
+  "key": "07275530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07275530",
+  "name": "PETERS (LONG) CREEK NR POPE, MS",
+  "waterbody": "PETERS (LONG) CREEK NR POPE, MS",
+  "state": "MS",
+  "latitude": 34.21388889,
+  "longitude": -89.9819444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07275530",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

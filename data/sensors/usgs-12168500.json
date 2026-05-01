@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12168500",
+  "key": "12168500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12168500",
+  "name": "Pilchuck River near Bryant, WA",
+  "waterbody": "Pilchuck River near Bryant, WA",
+  "state": "WA",
+  "latitude": 48.265935,
+  "longitude": -122.1640353,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12168500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

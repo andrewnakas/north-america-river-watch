@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03036151",
+  "key": "03036151",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03036151",
+  "name": "Allegheny R at L&D 8 (lower pool) nr Templeton, PA",
+  "waterbody": "Allegheny R at L&D 8 (lower pool) nr Templeton, PA",
+  "state": "PA",
+  "latitude": 40.8939083,
+  "longitude": -79.478625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03036151",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

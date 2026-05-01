@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05487520",
+  "key": "05487520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05487520",
+  "name": "Des Moines River near Swan, IA",
+  "waterbody": "Des Moines River near Swan, IA",
+  "state": "IA",
+  "latitude": 41.48938889,
+  "longitude": -93.2782222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWNI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swni4",
+  "slug": "usgs-05487520",
+  "noaaForecastPath": "data/noaa-forecast/SWNI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

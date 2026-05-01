@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06216900",
+  "key": "06216900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06216900",
+  "name": "Pryor Creek nr Huntley MT",
+  "waterbody": "Pryor Creek nr Huntley MT",
+  "state": "MT",
+  "latitude": 45.8196944,
+  "longitude": -108.2903333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06216900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

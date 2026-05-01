@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04122100",
+  "key": "04122100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04122100",
+  "name": "BEAR CREEK NEAR MUSKEGON, MI",
+  "waterbody": "BEAR CREEK NEAR MUSKEGON, MI",
+  "state": "MI",
+  "latitude": 43.2886254,
+  "longitude": -86.2228378,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcmm4",
+  "slug": "usgs-04122100",
+  "noaaForecastPath": "data/noaa-forecast/BCMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

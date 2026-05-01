@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11493500",
+  "key": "11493500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11493500",
+  "name": "WILLIAMSON RIVER NEAR KLAMATH AGENCY, OR",
+  "waterbody": "WILLIAMSON RIVER NEAR KLAMATH AGENCY, OR",
+  "state": "OR",
+  "latitude": 42.739925,
+  "longitude": -121.8345167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williamson River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkao3",
+  "slug": "usgs-11493500",
+  "noaaForecastPath": "data/noaa-forecast/WKAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

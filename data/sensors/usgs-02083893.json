@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02083893",
+  "key": "02083893",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02083893",
+  "name": "TAR RIVER AT US 264 BYPASS NR ROCK SPRINGS, NC",
+  "waterbody": "TAR RIVER AT US 264 BYPASS NR ROCK SPRINGS, NC",
+  "state": "NC",
+  "latitude": 35.64527778,
+  "longitude": -77.42277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBYN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbyn7",
+  "slug": "usgs-02083893",
+  "noaaForecastPath": "data/noaa-forecast/GBYN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

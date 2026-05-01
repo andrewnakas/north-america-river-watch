@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09209400",
+  "key": "09209400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09209400",
+  "name": "GREEN RIVER NEAR LA BARGE, WY",
+  "waterbody": "GREEN RIVER NEAR LA BARGE, WY",
+  "state": "WY",
+  "latitude": 42.19269994,
+  "longitude": -110.1632544,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LABW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (WY-UT-CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/labw4",
+  "slug": "usgs-09209400",
+  "noaaForecastPath": "data/noaa-forecast/LABW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

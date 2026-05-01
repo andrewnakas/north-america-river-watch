@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09497830",
+  "key": "09497830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09497830",
+  "name": "CANYON CREEK ABOVE COW CREEK NEAR YOUNG, AZ",
+  "waterbody": "CANYON CREEK ABOVE COW CREEK NEAR YOUNG, AZ",
+  "state": "AZ",
+  "latitude": 34.20491944,
+  "longitude": -110.7526,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09497830",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

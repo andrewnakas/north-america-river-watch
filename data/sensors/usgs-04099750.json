@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04099750",
+  "key": "04099750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04099750",
+  "name": "PIGEON RIVER NEAR SCOTT, IN",
+  "waterbody": "PIGEON RIVER NEAR SCOTT, IN",
+  "state": "IN",
+  "latitude": 41.7489037,
+  "longitude": -85.5763364,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCOI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scoi3",
+  "slug": "usgs-04099750",
+  "noaaForecastPath": "data/noaa-forecast/SCOI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

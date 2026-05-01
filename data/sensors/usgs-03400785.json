@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03400785",
+  "key": "03400785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03400785",
+  "name": "MARTINS FORK ABOVE SMITH, KY",
+  "waterbody": "MARTINS FORK ABOVE SMITH, KY",
+  "state": "KY",
+  "latitude": 36.72619838,
+  "longitude": -83.287958,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03400785",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

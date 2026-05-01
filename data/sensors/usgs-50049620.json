@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50049620",
+  "key": "50049620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50049620",
+  "name": "QDA. MARGARITA AT CAPARRA INTER. NR GUAYNABO, PR",
+  "waterbody": "QDA. MARGARITA AT CAPARRA INTER. NR GUAYNABO, PR",
+  "state": "PR",
+  "latitude": 18.415528,
+  "longitude": -66.103361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QMAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Piedras",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qmap4",
+  "slug": "usgs-50049620",
+  "noaaForecastPath": "data/noaa-forecast/QMAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

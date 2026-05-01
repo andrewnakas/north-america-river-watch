@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03238780",
+  "key": "03238780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03238780",
+  "name": "FOURMILE CR @ HWY 547 NR ALEXANDRIA, KY",
+  "waterbody": "FOURMILE CR @ HWY 547 NR ALEXANDRIA, KY",
+  "state": "KY",
+  "latitude": 39.00916667,
+  "longitude": -84.3733333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03238780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

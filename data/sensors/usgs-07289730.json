@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07289730",
+  "key": "07289730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07289730",
+  "name": "BIG BLACK RIVER NR BENTONIA, MS",
+  "waterbody": "BIG BLACK RIVER NR BENTONIA, MS",
+  "state": "MS",
+  "latitude": 32.60305556,
+  "longitude": -90.3638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTAM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btam6",
+  "slug": "usgs-07289730",
+  "noaaForecastPath": "data/noaa-forecast/BTAM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02059485",
+  "key": "02059485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02059485",
+  "name": "GOOSE CREEK AT RT 747 NEAR BUNKER HILL, VA",
+  "waterbody": "GOOSE CREEK AT RT 747 NEAR BUNKER HILL, VA",
+  "state": "VA",
+  "latitude": 37.26638889,
+  "longitude": -79.5877778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02059485",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

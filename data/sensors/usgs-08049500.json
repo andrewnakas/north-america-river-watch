@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08049500",
+  "key": "08049500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08049500",
+  "name": "W Fk Trinity Rv at Grand Prairie, TX",
+  "waterbody": "W Fk Trinity Rv at Grand Prairie, TX",
+  "state": "TX",
+  "latitude": 32.7625,
+  "longitude": -96.9944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GPRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gprt2",
+  "slug": "usgs-08049500",
+  "noaaForecastPath": "data/noaa-forecast/GPRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

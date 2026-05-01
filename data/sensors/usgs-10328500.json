@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10328500",
+  "key": "10328500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10328500",
+  "name": "L HUMBOLDT RV BLW CHIMNEY DM NR PARADISE VALLEY NV",
+  "waterbody": "L HUMBOLDT RV BLW CHIMNEY DM NR PARADISE VALLEY NV",
+  "state": "NV",
+  "latitude": 41.3933333,
+  "longitude": -117.1813889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10328500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

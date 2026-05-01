@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0219562950",
+  "key": "0219562950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0219562950",
+  "name": "CUFFEYTOWN CRK AT LIBERTY HILL RD NR MCCORMICK, SC",
+  "waterbody": "CUFFEYTOWN CRK AT LIBERTY HILL RD NR MCCORMICK, SC",
+  "state": "SC",
+  "latitude": 33.9241111,
+  "longitude": -82.1794444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuffeytown Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctcs1",
+  "slug": "usgs-0219562950",
+  "noaaForecastPath": "data/noaa-forecast/CTCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

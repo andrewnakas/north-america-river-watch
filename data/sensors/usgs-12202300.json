@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12202300",
+  "key": "12202300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12202300",
+  "name": "OLSEN CREEK NEAR BELLINGHAM, WA",
+  "waterbody": "OLSEN CREEK NEAR BELLINGHAM, WA",
+  "state": "WA",
+  "latitude": 48.7512221,
+  "longitude": -122.3534976,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12202300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02369600",
+  "key": "02369600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02369600",
+  "name": "YELLOW RIVER NR MILTON, FLA.",
+  "waterbody": "YELLOW RIVER NR MILTON, FLA.",
+  "state": "FL",
+  "latitude": 30.569639,
+  "longitude": -86.9235732,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLYF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River (AL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlyf1",
+  "slug": "usgs-02369600",
+  "noaaForecastPath": "data/noaa-forecast/MLYF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

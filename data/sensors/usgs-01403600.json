@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01403600",
+  "key": "01403600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01403600",
+  "name": "Green Brook at Rock Avenue at Plainfield NJ",
+  "waterbody": "Green Brook at Rock Avenue at Plainfield NJ",
+  "state": "NJ",
+  "latitude": 40.60194444,
+  "longitude": -74.4575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRBN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grbn4",
+  "slug": "usgs-01403600",
+  "noaaForecastPath": "data/noaa-forecast/GRBN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

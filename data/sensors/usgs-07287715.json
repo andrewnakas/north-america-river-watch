@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07287715",
+  "key": "07287715",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07287715",
+  "name": "MILL CREEK TRIBUTARY NEAR FRIARS POINT, MS",
+  "waterbody": "MILL CREEK TRIBUTARY NEAR FRIARS POINT, MS",
+  "state": "MS",
+  "latitude": 34.38169444,
+  "longitude": -90.55625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07287715",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07227890",
+  "key": "07227890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07227890",
+  "name": "Big Blue Ck nr Fritch, TX",
+  "waterbody": "Big Blue Ck nr Fritch, TX",
+  "state": "TX",
+  "latitude": 35.72077778,
+  "longitude": -101.6625278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FBKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Blue Creek 6NNW Fritch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fbkt2",
+  "slug": "usgs-07227890",
+  "noaaForecastPath": "data/noaa-forecast/FBKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

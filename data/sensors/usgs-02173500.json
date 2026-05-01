@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02173500",
+  "key": "02173500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02173500",
+  "name": "NORTH FORK EDISTO RIVER AT ORANGEBURG, SC",
+  "waterbody": "NORTH FORK EDISTO RIVER AT ORANGEBURG, SC",
+  "state": "SC",
+  "latitude": 33.47792207,
+  "longitude": -80.8747286,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N. Fork Edisto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orbs1",
+  "slug": "usgs-02173500",
+  "noaaForecastPath": "data/noaa-forecast/ORBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

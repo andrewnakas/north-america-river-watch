@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06921720",
+  "key": "06921720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06921720",
+  "name": "Big Creek near Blairstown, MO",
+  "waterbody": "Big Creek near Blairstown, MO",
+  "state": "MO",
+  "latitude": 38.55497778,
+  "longitude": -93.9653528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blrm7",
+  "slug": "usgs-06921720",
+  "noaaForecastPath": "data/noaa-forecast/BLRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

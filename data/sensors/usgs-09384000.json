@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09384000",
+  "key": "09384000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09384000",
+  "name": "LITTLE COLORADO R ABV LYMAN LAKE NR ST. JOHNS, AZ",
+  "waterbody": "LITTLE COLORADO R ABV LYMAN LAKE NR ST. JOHNS, AZ",
+  "state": "AZ",
+  "latitude": 34.31502222,
+  "longitude": -109.36233056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCLA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Colorado River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcla3",
+  "slug": "usgs-09384000",
+  "noaaForecastPath": "data/noaa-forecast/LCLA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

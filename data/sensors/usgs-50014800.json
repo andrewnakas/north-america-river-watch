@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50014800",
+  "key": "50014800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50014800",
+  "name": "RIO CAMUY NR BAYANEY, PR",
+  "waterbody": "RIO CAMUY NR BAYANEY, PR",
+  "state": "PR",
+  "latitude": 18.396436,
+  "longitude": -66.817986,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Camuy",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmap4",
+  "slug": "usgs-50014800",
+  "noaaForecastPath": "data/noaa-forecast/CMAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

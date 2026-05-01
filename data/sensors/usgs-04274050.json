@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04274050",
+  "key": "04274050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04274050",
+  "name": "W BR AUSABLE R TRIB 2 AB ST HW 86 NR WILMINGTON NY",
+  "waterbody": "W BR AUSABLE R TRIB 2 AB ST HW 86 NR WILMINGTON NY",
+  "state": "NY",
+  "latitude": 44.34669444,
+  "longitude": -73.8691667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04274050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

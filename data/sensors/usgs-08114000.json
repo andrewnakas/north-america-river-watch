@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08114000",
+  "key": "08114000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08114000",
+  "name": "Brazos Rv at Richmond, TX",
+  "waterbody": "Brazos Rv at Richmond, TX",
+  "state": "TX",
+  "latitude": 29.5824589,
+  "longitude": -95.7577275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RMOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rmot2",
+  "slug": "usgs-08114000",
+  "noaaForecastPath": "data/noaa-forecast/RMOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

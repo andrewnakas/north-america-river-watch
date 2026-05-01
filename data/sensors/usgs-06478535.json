@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06478535",
+  "key": "06478535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478535",
+  "name": "EAST FORK VERMILLION RIVER NEAR RAMONA, SD",
+  "waterbody": "EAST FORK VERMILLION RIVER NEAR RAMONA, SD",
+  "state": "SD",
+  "latitude": 44.109695,
+  "longitude": -97.3872899,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06478535",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

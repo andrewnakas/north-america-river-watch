@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10336775",
+  "key": "10336775",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336775",
+  "name": "TROUT CK AT PIONEER TRAIL NR SOUTH LAKE TAHOE, CA",
+  "waterbody": "TROUT CK AT PIONEER TRAIL NR SOUTH LAKE TAHOE, CA",
+  "state": "CA",
+  "latitude": 38.90339444,
+  "longitude": -119.9688917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10336775",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

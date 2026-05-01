@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04294000",
+  "key": "04294000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04294000",
+  "name": "MISSISQUOI RIVER AT SWANTON, VT",
+  "waterbody": "MISSISQUOI RIVER AT SWANTON, VT",
+  "state": "VT",
+  "latitude": 44.9167499,
+  "longitude": -73.1285674,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWAV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missisquoi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swav1",
+  "slug": "usgs-04294000",
+  "noaaForecastPath": "data/noaa-forecast/SWAV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

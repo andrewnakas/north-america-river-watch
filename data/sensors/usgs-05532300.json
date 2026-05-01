@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05532300",
+  "key": "05532300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05532300",
+  "name": "SALT CREEK AT BROOKFIELD, IL",
+  "waterbody": "SALT CREEK AT BROOKFIELD, IL",
+  "state": "IL",
+  "latitude": 41.8458333,
+  "longitude": -87.8525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05532300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

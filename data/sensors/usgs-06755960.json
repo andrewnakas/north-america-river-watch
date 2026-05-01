@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06755960",
+  "key": "06755960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06755960",
+  "name": "CROW CREEK AT 19TH STREET, AT CHEYENNE, WY",
+  "waterbody": "CROW CREEK AT 19TH STREET, AT CHEYENNE, WY",
+  "state": "WY",
+  "latitude": 41.1313333,
+  "longitude": -104.8289167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FEWW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/feww4",
+  "slug": "usgs-06755960",
+  "noaaForecastPath": "data/noaa-forecast/FEWW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

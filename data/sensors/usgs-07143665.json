@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07143665",
+  "key": "07143665",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07143665",
+  "name": "L ARKANSAS R AT ALTA MILLS, KS",
+  "waterbody": "L ARKANSAS R AT ALTA MILLS, KS",
+  "state": "KS",
+  "latitude": 38.1122326,
+  "longitude": -97.591987,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALMK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/almk1",
+  "slug": "usgs-07143665",
+  "noaaForecastPath": "data/noaa-forecast/ALMK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

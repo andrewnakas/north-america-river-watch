@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03010820",
+  "key": "03010820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03010820",
+  "name": "ALLEGHENY RIVER AT OLEAN NY",
+  "waterbody": "ALLEGHENY RIVER AT OLEAN NY",
+  "state": "NY",
+  "latitude": 42.0723611,
+  "longitude": -78.4508611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OLNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/olnn6",
+  "slug": "usgs-03010820",
+  "noaaForecastPath": "data/noaa-forecast/OLNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

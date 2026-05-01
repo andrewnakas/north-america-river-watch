@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04027200",
+  "key": "04027200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04027200",
+  "name": "TWENTYMILE CREEK AT GRAND VIEW, WI",
+  "waterbody": "TWENTYMILE CREEK AT GRAND VIEW, WI",
+  "state": "WI",
+  "latitude": 46.37244958,
+  "longitude": -91.0917176,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04027200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

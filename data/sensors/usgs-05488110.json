@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05488110",
+  "key": "05488110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05488110",
+  "name": "Des Moines River near Pella, IA",
+  "waterbody": "Des Moines River near Pella, IA",
+  "state": "IA",
+  "latitude": 41.36416667,
+  "longitude": -92.9754722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRDI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrdi4",
+  "slug": "usgs-05488110",
+  "noaaForecastPath": "data/noaa-forecast/RRDI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

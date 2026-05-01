@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01138500",
+  "key": "01138500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01138500",
+  "name": "CONNECTICUT RIVER AT WELLS RIVER, VT",
+  "waterbody": "CONNECTICUT RIVER AT WELLS RIVER, VT",
+  "state": "VT",
+  "latitude": 44.15339689,
+  "longitude": -72.0417577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WELV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/welv1",
+  "slug": "usgs-01138500",
+  "noaaForecastPath": "data/noaa-forecast/WELV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

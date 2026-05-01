@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06721000",
+  "key": "06721000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06721000",
+  "name": "SOUTH PLATTE RIVER AT FORT LUPTON, CO.",
+  "waterbody": "SOUTH PLATTE RIVER AT FORT LUPTON, CO.",
+  "state": "CO",
+  "latitude": 40.116111,
+  "longitude": -104.818056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUPC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lupc2",
+  "slug": "usgs-06721000",
+  "noaaForecastPath": "data/noaa-forecast/LUPC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02172040",
+  "key": "02172040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172040",
+  "name": "BACK RIVER AT DUPONT INTAKE NR KITTREDGE, SC",
+  "waterbody": "BACK RIVER AT DUPONT INTAKE NR KITTREDGE, SC",
+  "state": "SC",
+  "latitude": 33.0569722,
+  "longitude": -79.9584722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02172040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.364Z"
+}

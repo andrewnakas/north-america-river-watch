@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01422747",
+  "key": "01422747",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01422747",
+  "name": "EAST BROOK EAST OF WALTON NY",
+  "waterbody": "EAST BROOK EAST OF WALTON NY",
+  "state": "NY",
+  "latitude": 42.17266667,
+  "longitude": -75.1219167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWAN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewan6",
+  "slug": "usgs-01422747",
+  "noaaForecastPath": "data/noaa-forecast/EWAN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

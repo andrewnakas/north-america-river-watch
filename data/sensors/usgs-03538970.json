@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03538970",
+  "key": "03538970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03538970",
+  "name": "BASSES CREEK AT LAKE TANSI NR CROSSVILLE,TN",
+  "waterbody": "BASSES CREEK AT LAKE TANSI NR CROSSVILLE,TN",
+  "state": "TN",
+  "latitude": 35.8508333,
+  "longitude": -85.0547222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Basses Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcrt1",
+  "slug": "usgs-03538970",
+  "noaaForecastPath": "data/noaa-forecast/BCRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

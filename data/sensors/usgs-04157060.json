@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04157060",
+  "key": "04157060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04157060",
+  "name": "SAGINAW RIVER AT MIDLAND STREET AT BAY CITY, MI",
+  "waterbody": "SAGINAW RIVER AT MIDLAND STREET AT BAY CITY, MI",
+  "state": "MI",
+  "latitude": 43.60194444,
+  "longitude": -83.8922222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04157060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

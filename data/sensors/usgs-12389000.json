@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12389000",
+  "key": "12389000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12389000",
+  "name": "Clark Fork near Plains MT",
+  "waterbody": "Clark Fork near Plains MT",
+  "state": "MT",
+  "latitude": 47.4292,
+  "longitude": -114.8565333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLNM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clark Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plnm8",
+  "slug": "usgs-12389000",
+  "noaaForecastPath": "data/noaa-forecast/PLNM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

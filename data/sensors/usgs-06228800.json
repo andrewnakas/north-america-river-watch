@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06228800",
+  "key": "06228800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06228800",
+  "name": "NORTH FORK LITTLE WIND RIVER NR FORT WASHAKIE, WY",
+  "waterbody": "NORTH FORK LITTLE WIND RIVER NR FORT WASHAKIE, WY",
+  "state": "WY",
+  "latitude": 43.0271782,
+  "longitude": -109.0012383,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NLWW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Little Wind River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nlww4",
+  "slug": "usgs-06228800",
+  "noaaForecastPath": "data/noaa-forecast/NLWW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146348",
+  "key": "02146348",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146348",
+  "name": "COFFEY CREEK NR CHARLOTTE, NC",
+  "waterbody": "COFFEY CREEK NR CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.1458333,
+  "longitude": -80.9269444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coffee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cofn7",
+  "slug": "usgs-02146348",
+  "noaaForecastPath": "data/noaa-forecast/COFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

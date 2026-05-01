@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09070500",
+  "key": "09070500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09070500",
+  "name": "COLORADO RIVER NEAR DOTSERO, CO",
+  "waterbody": "COLORADO RIVER NEAR DOTSERO, CO",
+  "state": "CO",
+  "latitude": 39.6446111,
+  "longitude": -107.0780139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EGLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eglc2",
+  "slug": "usgs-09070500",
+  "noaaForecastPath": "data/noaa-forecast/EGLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

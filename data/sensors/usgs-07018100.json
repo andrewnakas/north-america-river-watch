@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07018100",
+  "key": "07018100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07018100",
+  "name": "Big River near Richwoods, MO",
+  "waterbody": "Big River near Richwoods, MO",
+  "state": "MO",
+  "latitude": 38.1596111,
+  "longitude": -90.7060556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCHM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rchm7",
+  "slug": "usgs-07018100",
+  "noaaForecastPath": "data/noaa-forecast/RCHM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

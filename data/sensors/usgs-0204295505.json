@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204295505",
+  "key": "0204295505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204295505",
+  "name": "LITTLE NECK CREEK AT PINEWOOD RD AT VA BEACH, VA",
+  "waterbody": "LITTLE NECK CREEK AT PINEWOOD RD AT VA BEACH, VA",
+  "state": "VA",
+  "latitude": 36.85927778,
+  "longitude": -75.9844722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Neck Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltcv2",
+  "slug": "usgs-0204295505",
+  "noaaForecastPath": "data/noaa-forecast/LTCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

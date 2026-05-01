@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068720",
+  "key": "08068720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068720",
+  "name": "Cypress Ck at Katy-Hockley Rd nr Hockley, TX",
+  "waterbody": "Cypress Ck at Katy-Hockley Rd nr Hockley, TX",
+  "state": "TX",
+  "latitude": 29.9502237,
+  "longitude": -95.8082835,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KHOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/khot2",
+  "slug": "usgs-08068720",
+  "noaaForecastPath": "data/noaa-forecast/KHOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

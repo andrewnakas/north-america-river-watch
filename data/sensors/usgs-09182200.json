@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09182200",
+  "key": "09182200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09182200",
+  "name": "CASTLE CREEK BELOW CASTLETON NEAR MOAB, UT",
+  "waterbody": "CASTLE CREEK BELOW CASTLETON NEAR MOAB, UT",
+  "state": "UT",
+  "latitude": 38.6124849,
+  "longitude": -109.332338,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09182200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

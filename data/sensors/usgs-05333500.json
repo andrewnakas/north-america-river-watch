@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05333500",
+  "key": "05333500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05333500",
+  "name": "ST. CROIX RIVER NEAR DANBURY, WI",
+  "waterbody": "ST. CROIX RIVER NEAR DANBURY, WI",
+  "state": "WI",
+  "latitude": 46.0761111,
+  "longitude": -92.2466667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DANW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Croix River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/danw3",
+  "slug": "usgs-05333500",
+  "noaaForecastPath": "data/noaa-forecast/DANW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

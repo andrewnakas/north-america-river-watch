@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06896900",
+  "key": "06896900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06896900",
+  "name": "Grand River near Pattonsburg, MO",
+  "waterbody": "Grand River near Pattonsburg, MO",
+  "state": "MO",
+  "latitude": 40.0261111,
+  "longitude": -94.1272222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PATM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/patm7",
+  "slug": "usgs-06896900",
+  "noaaForecastPath": "data/noaa-forecast/PATM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03267000",
+  "key": "03267000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03267000",
+  "name": "Mad River near Urbana OH",
+  "waterbody": "Mad River near Urbana OH",
+  "state": "OH",
+  "latitude": 40.1075575,
+  "longitude": -83.7990978,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UBNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mad River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ubno1",
+  "slug": "usgs-03267000",
+  "noaaForecastPath": "data/noaa-forecast/UBNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

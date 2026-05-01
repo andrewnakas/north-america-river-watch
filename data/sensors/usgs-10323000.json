@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10323000",
+  "key": "10323000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10323000",
+  "name": "PINE CK NR PALISADE, NV",
+  "waterbody": "PINE CK NR PALISADE, NV",
+  "state": "NV",
+  "latitude": 40.5947972,
+  "longitude": -116.1732694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSGN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Creek nr Palisade",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rsgn2",
+  "slug": "usgs-10323000",
+  "noaaForecastPath": "data/noaa-forecast/RSGN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

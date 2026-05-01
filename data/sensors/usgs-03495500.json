@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03495500",
+  "key": "03495500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03495500",
+  "name": "HOLSTON RIVER NEAR KNOXVILLE, TN",
+  "waterbody": "HOLSTON RIVER NEAR KNOXVILLE, TN",
+  "state": "TN",
+  "latitude": 36.0156395,
+  "longitude": -83.8315703,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03495500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

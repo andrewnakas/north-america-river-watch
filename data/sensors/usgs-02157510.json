@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02157510",
+  "key": "02157510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02157510",
+  "name": "MIDDLE TYGER RIVER NEAR LYMAN, SC",
+  "waterbody": "MIDDLE TYGER RIVER NEAR LYMAN, SC",
+  "state": "SC",
+  "latitude": 34.9401187,
+  "longitude": -82.1234421,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTLS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Tyger River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtls1",
+  "slug": "usgs-02157510",
+  "noaaForecastPath": "data/noaa-forecast/MTLS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

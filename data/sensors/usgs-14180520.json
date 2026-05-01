@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14180520",
+  "key": "14180520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14180520",
+  "name": "N SANTIAM RIVER BLW DETROIT DAM, NR DETROIT, OR",
+  "waterbody": "N SANTIAM RIVER BLW DETROIT DAM, NR DETROIT, OR",
+  "state": "OR",
+  "latitude": 44.7254333,
+  "longitude": -122.2554167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14180520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

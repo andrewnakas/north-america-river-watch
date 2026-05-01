@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02082585",
+  "key": "02082585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02082585",
+  "name": "TAR RIVER AT NC 97 AT ROCKY MOUNT, NC",
+  "waterbody": "TAR RIVER AT NC 97 AT ROCKY MOUNT, NC",
+  "state": "NC",
+  "latitude": 35.9547222,
+  "longitude": -77.7872222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rokn7",
+  "slug": "usgs-02082585",
+  "noaaForecastPath": "data/noaa-forecast/ROKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

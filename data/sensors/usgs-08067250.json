@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067250",
+  "key": "08067250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067250",
+  "name": "Trinity Rv at IH 10 nr Wallisville, TX",
+  "waterbody": "Trinity Rv at IH 10 nr Wallisville, TX",
+  "state": "TX",
+  "latitude": 29.83707778,
+  "longitude": -94.7635944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.401Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01460880",
+  "key": "01460880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01460880",
+  "name": "Lockatong Creek at Raven Rock NJ",
+  "waterbody": "Lockatong Creek at Raven Rock NJ",
+  "state": "NJ",
+  "latitude": 40.4161111,
+  "longitude": -75.01777778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01460880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

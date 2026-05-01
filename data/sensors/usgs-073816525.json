@@ -1,0 +1,19 @@
+{
+  "id": "usgs:073816525",
+  "key": "073816525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073816525",
+  "name": "Mouth of Atchafalaya River at Atchafalaya Bay",
+  "waterbody": "Mouth of Atchafalaya River at Atchafalaya Bay",
+  "state": "LA",
+  "latitude": 29.43025,
+  "longitude": -91.3338889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-073816525",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

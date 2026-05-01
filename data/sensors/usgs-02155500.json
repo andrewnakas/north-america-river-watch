@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02155500",
+  "key": "02155500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02155500",
+  "name": "PACOLET RIVER NEAR FINGERVILLE, SC",
+  "waterbody": "PACOLET RIVER NEAR FINGERVILLE, SC",
+  "state": "SC",
+  "latitude": 35.110217,
+  "longitude": -81.958842,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pacolet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcrs1",
+  "slug": "usgs-02155500",
+  "noaaForecastPath": "data/noaa-forecast/PCRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

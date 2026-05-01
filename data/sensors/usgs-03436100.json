@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03436100",
+  "key": "03436100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03436100",
+  "name": "RED RIVER AT PORT ROYAL, TN",
+  "waterbody": "RED RIVER AT PORT ROYAL, TN",
+  "state": "TN",
+  "latitude": 36.5547222,
+  "longitude": -87.1419444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PORT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/port1",
+  "slug": "usgs-03436100",
+  "noaaForecastPath": "data/noaa-forecast/PORT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

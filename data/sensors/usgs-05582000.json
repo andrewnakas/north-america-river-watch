@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05582000",
+  "key": "05582000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05582000",
+  "name": "SALT CREEK NEAR GREENVIEW, IL",
+  "waterbody": "SALT CREEK NEAR GREENVIEW, IL",
+  "state": "IL",
+  "latitude": 40.13185556,
+  "longitude": -89.7357139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GREI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grei2",
+  "slug": "usgs-05582000",
+  "noaaForecastPath": "data/noaa-forecast/GREI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

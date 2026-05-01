@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01469700",
+  "key": "01469700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01469700",
+  "name": "Little Schuylkill River at South Tamaqua, PA",
+  "waterbody": "Little Schuylkill River at South Tamaqua, PA",
+  "state": "PA",
+  "latitude": 40.77314556,
+  "longitude": -75.9565925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01469700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

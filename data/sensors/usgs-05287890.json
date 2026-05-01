@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05287890",
+  "key": "05287890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05287890",
+  "name": "ELM CREEK NR CHAMPLIN, MN",
+  "waterbody": "ELM CREEK NR CHAMPLIN, MN",
+  "state": "MN",
+  "latitude": 45.163302,
+  "longitude": -93.436791,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elm Creek (MN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chpm5",
+  "slug": "usgs-05287890",
+  "noaaForecastPath": "data/noaa-forecast/CHPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

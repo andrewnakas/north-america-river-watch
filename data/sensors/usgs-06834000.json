@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06834000",
+  "key": "06834000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06834000",
+  "name": "Frenchman Creek at Palisade, Nebr.",
+  "waterbody": "Frenchman Creek at Palisade, Nebr.",
+  "state": "NE",
+  "latitude": 40.35183056,
+  "longitude": -101.12335833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PALN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frenchman Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paln1",
+  "slug": "usgs-06834000",
+  "noaaForecastPath": "data/noaa-forecast/PALN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

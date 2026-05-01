@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09127000",
+  "key": "09127000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09127000",
+  "name": "CIMARRON RIVER BLW CIMARRON CREEK AT CIMARRON, CO",
+  "waterbody": "CIMARRON RIVER BLW CIMARRON CREEK AT CIMARRON, CO",
+  "state": "CO",
+  "latitude": 38.44694444,
+  "longitude": -107.5552222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09127000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

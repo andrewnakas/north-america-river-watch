@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03039040",
+  "key": "03039040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03039040",
+  "name": "Allegheny River at Lock & Dam 5 near Freeport, PA",
+  "waterbody": "Allegheny River at Lock & Dam 5 near Freeport, PA",
+  "state": "PA",
+  "latitude": 40.6847222,
+  "longitude": -79.6675,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FREP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frep1",
+  "slug": "usgs-03039040",
+  "noaaForecastPath": "data/noaa-forecast/FREP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

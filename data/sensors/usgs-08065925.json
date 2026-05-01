@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08065925",
+  "key": "08065925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065925",
+  "name": "Nelson Ck at FM 247 nr Huntsville, TX",
+  "waterbody": "Nelson Ck at FM 247 nr Huntsville, TX",
+  "state": "TX",
+  "latitude": 30.8222611,
+  "longitude": -95.5946306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nelson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nest2",
+  "slug": "usgs-08065925",
+  "noaaForecastPath": "data/noaa-forecast/NEST2.json",
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15274000",
+  "key": "15274000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15274000",
+  "name": "SF CAMPBELL C NR ANCHORAGE AK",
+  "waterbody": "SF CAMPBELL C NR ANCHORAGE AK",
+  "state": "AK",
+  "latitude": 61.16667096,
+  "longitude": -149.7727527,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15274000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

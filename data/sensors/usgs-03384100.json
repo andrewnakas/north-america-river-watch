@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03384100",
+  "key": "03384100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03384100",
+  "name": "TRADEWATER RIVER NEAR PROVIDENCE, KY",
+  "waterbody": "TRADEWATER RIVER NEAR PROVIDENCE, KY",
+  "state": "KY",
+  "latitude": 37.39671307,
+  "longitude": -87.8450154,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWPK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tradewater River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twpk2",
+  "slug": "usgs-03384100",
+  "noaaForecastPath": "data/noaa-forecast/TWPK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

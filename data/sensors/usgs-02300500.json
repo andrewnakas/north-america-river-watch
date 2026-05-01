@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02300500",
+  "key": "02300500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300500",
+  "name": "LITTLE MANATEE RIVER AT US 301 NEAR WIMAUMA, FL",
+  "waterbody": "LITTLE MANATEE RIVER AT US 301 NEAR WIMAUMA, FL",
+  "state": "FL",
+  "latitude": 27.67114344,
+  "longitude": -82.3525925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WIMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Manatee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wimf1",
+  "slug": "usgs-02300500",
+  "noaaForecastPath": "data/noaa-forecast/WIMF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

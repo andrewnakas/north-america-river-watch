@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10315500",
+  "key": "10315500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10315500",
+  "name": "MARYS RV ABV HOT SPGS CK NR DEETH, NV",
+  "waterbody": "MARYS RV ABV HOT SPGS CK NR DEETH, NV",
+  "state": "NV",
+  "latitude": 41.2526961,
+  "longitude": -115.2564468,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MHSN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marys River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mhsn2",
+  "slug": "usgs-10315500",
+  "noaaForecastPath": "data/noaa-forecast/MHSN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

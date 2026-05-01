@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03451500",
+  "key": "03451500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03451500",
+  "name": "FRENCH BROAD RIVER AT ASHEVILLE, NC",
+  "waterbody": "FRENCH BROAD RIVER AT ASHEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.60888889,
+  "longitude": -82.5780556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AVLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Broad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/avln7",
+  "slug": "usgs-03451500",
+  "noaaForecastPath": "data/noaa-forecast/AVLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

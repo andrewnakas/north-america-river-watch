@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11447850",
+  "key": "11447850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11447850",
+  "name": "STEAMBOAT SLOUGH NR WALNUT GROVE CA",
+  "waterbody": "STEAMBOAT SLOUGH NR WALNUT GROVE CA",
+  "state": "CA",
+  "latitude": 38.2847222,
+  "longitude": -121.5866667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11447850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

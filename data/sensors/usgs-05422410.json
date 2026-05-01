@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05422410",
+  "key": "05422410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05422410",
+  "name": "MISS R AT AUX LOCK 14 (DS) AT PLEASANT VALLEY, IA",
+  "waterbody": "MISS R AT AUX LOCK 14 (DS) AT PLEASANT VALLEY, IA",
+  "state": "IA",
+  "latitude": 41.5738333,
+  "longitude": -90.4056667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05422410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

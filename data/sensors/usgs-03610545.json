@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03610545",
+  "key": "03610545",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03610545",
+  "name": "WEST FORK CLARKS RIVER NEAR BREWERS, KY",
+  "waterbody": "WEST FORK CLARKS RIVER NEAR BREWERS, KY",
+  "state": "KY",
+  "latitude": 36.78005619,
+  "longitude": -88.4675423,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03610545",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

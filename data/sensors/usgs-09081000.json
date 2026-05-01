@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09081000",
+  "key": "09081000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09081000",
+  "name": "ROARING FORK RIVER NEAR EMMA, CO",
+  "waterbody": "ROARING FORK RIVER NEAR EMMA, CO",
+  "state": "CO",
+  "latitude": 39.37331729,
+  "longitude": -107.0839367,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roaring Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/emmc2",
+  "slug": "usgs-09081000",
+  "noaaForecastPath": "data/noaa-forecast/EMMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

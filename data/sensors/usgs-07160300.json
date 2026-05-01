@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07160300",
+  "key": "07160300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07160300",
+  "name": "Boggy Creek at 30th St at Enid, OK",
+  "waterbody": "Boggy Creek at 30th St at Enid, OK",
+  "state": "OK",
+  "latitude": 36.38983889,
+  "longitude": -97.8368611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EGCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boggy Creek (N OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/egco2",
+  "slug": "usgs-07160300",
+  "noaaForecastPath": "data/noaa-forecast/EGCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06025270",
+  "key": "06025270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06025270",
+  "name": "Moose Creek above MacLean Creek, near Divide, MT",
+  "waterbody": "Moose Creek above MacLean Creek, near Divide, MT",
+  "state": "MT",
+  "latitude": 45.74335,
+  "longitude": -112.6706639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06025270",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

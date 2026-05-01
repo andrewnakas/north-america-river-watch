@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08063100",
+  "key": "08063100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08063100",
+  "name": "Richland Ck nr Dawson, TX",
+  "waterbody": "Richland Ck nr Dawson, TX",
+  "state": "TX",
+  "latitude": 31.9384908,
+  "longitude": -96.6813787,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08063100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

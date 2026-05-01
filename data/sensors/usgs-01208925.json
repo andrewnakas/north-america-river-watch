@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01208925",
+  "key": "01208925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01208925",
+  "name": "MILL RIVER NEAR FAIRFIELD, CT",
+  "waterbody": "MILL RIVER NEAR FAIRFIELD, CT",
+  "state": "CT",
+  "latitude": 41.165475,
+  "longitude": -73.27000833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01208925",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

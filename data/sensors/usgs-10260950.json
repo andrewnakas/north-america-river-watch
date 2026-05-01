@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10260950",
+  "key": "10260950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10260950",
+  "name": "WF MOJAVE R AB MOJAVE R FORKS RES NR HESPERIA CA",
+  "waterbody": "WF MOJAVE R AB MOJAVE R FORKS RES NR HESPERIA CA",
+  "state": "CA",
+  "latitude": 34.33889196,
+  "longitude": -117.2578213,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10260950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

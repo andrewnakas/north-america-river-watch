@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07228650",
+  "key": "07228650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07228650",
+  "name": "Canadian River near Cogar, Ok",
+  "waterbody": "Canadian River near Cogar, Ok",
+  "state": "OK",
+  "latitude": 35.454892,
+  "longitude": -98.149283,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCRO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccro2",
+  "slug": "usgs-07228650",
+  "noaaForecastPath": "data/noaa-forecast/CCRO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10351900",
+  "key": "10351900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10351900",
+  "name": "HARDSCRABBLE CK ABV TH RANCH AT SUTCLIFFE, NV",
+  "waterbody": "HARDSCRABBLE CK ABV TH RANCH AT SUTCLIFFE, NV",
+  "state": "NV",
+  "latitude": 39.9387333,
+  "longitude": -119.6481,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10351900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

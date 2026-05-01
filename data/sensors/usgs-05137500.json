@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05137500",
+  "key": "05137500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05137500",
+  "name": "RAINY RIVER NEAR BOAT LANDING AT WHEELERS POINT,MN",
+  "waterbody": "RAINY RIVER NEAR BOAT LANDING AT WHEELERS POINT,MN",
+  "state": "MN",
+  "latitude": 48.83188889,
+  "longitude": -94.7041111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rainy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whpm5",
+  "slug": "usgs-05137500",
+  "noaaForecastPath": "data/noaa-forecast/WHPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

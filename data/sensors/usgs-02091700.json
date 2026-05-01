@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02091700",
+  "key": "02091700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02091700",
+  "name": "LITTLE CONTENTNEA CREEK NEAR FARMVILLE, NC",
+  "waterbody": "LITTLE CONTENTNEA CREEK NEAR FARMVILLE, NC",
+  "state": "NC",
+  "latitude": 35.54460599,
+  "longitude": -77.5110797,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02091700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

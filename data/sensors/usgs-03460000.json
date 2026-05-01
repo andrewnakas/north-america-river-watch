@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03460000",
+  "key": "03460000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03460000",
+  "name": "CATALOOCHEE CREEK NEAR CATALOOCHEE, NC",
+  "waterbody": "CATALOOCHEE CREEK NEAR CATALOOCHEE, NC",
+  "state": "NC",
+  "latitude": 35.6672222,
+  "longitude": -83.0727778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03460000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

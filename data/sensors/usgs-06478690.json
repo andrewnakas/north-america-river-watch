@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06478690",
+  "key": "06478690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478690",
+  "name": "WEST FORK VERMILLION RIVER NEAR PARKER,SD",
+  "waterbody": "WEST FORK VERMILLION RIVER NEAR PARKER,SD",
+  "state": "SD",
+  "latitude": 43.415639,
+  "longitude": -97.204861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Vermillion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkrs2",
+  "slug": "usgs-06478690",
+  "noaaForecastPath": "data/noaa-forecast/PKRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

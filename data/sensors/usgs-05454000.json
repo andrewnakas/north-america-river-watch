@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05454000",
+  "key": "05454000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05454000",
+  "name": "Rapid Creek near Iowa City, IA",
+  "waterbody": "Rapid Creek near Iowa City, IA",
+  "state": "IA",
+  "latitude": 41.70001667,
+  "longitude": -91.4876667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek (IA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irci4",
+  "slug": "usgs-05454000",
+  "noaaForecastPath": "data/noaa-forecast/IRCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

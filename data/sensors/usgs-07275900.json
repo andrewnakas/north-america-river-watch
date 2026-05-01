@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07275900",
+  "key": "07275900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07275900",
+  "name": "COLDWATER RIVER NR OLIVE BRANCH, MS",
+  "waterbody": "COLDWATER RIVER NR OLIVE BRANCH, MS",
+  "state": "MS",
+  "latitude": 34.9075,
+  "longitude": -89.7533333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OLVM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coldwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/olvm6",
+  "slug": "usgs-07275900",
+  "noaaForecastPath": "data/noaa-forecast/OLVM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

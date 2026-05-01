@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07268000",
+  "key": "07268000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07268000",
+  "name": "LITTLE TALLAHATCHIE RIVER AT ETTA, MS",
+  "waterbody": "LITTLE TALLAHATCHIE RIVER AT ETTA, MS",
+  "state": "MS",
+  "latitude": 34.4825,
+  "longitude": -89.2244444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ETAM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Tallahatchie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/etam6",
+  "slug": "usgs-07268000",
+  "noaaForecastPath": "data/noaa-forecast/ETAM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

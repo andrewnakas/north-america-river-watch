@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02266500",
+  "key": "02266500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266500",
+  "name": "REEDY CREEK NEAR LOUGHMAN, FL",
+  "waterbody": "REEDY CREEK NEAR LOUGHMAN, FL",
+  "state": "FL",
+  "latitude": 28.2636234,
+  "longitude": -81.536462,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02266500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

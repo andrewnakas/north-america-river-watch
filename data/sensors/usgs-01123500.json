@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01123500",
+  "key": "01123500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01123500",
+  "name": "QUINEBAUG RIVER AT WESTVILLE, MA",
+  "waterbody": "QUINEBAUG RIVER AT WESTVILLE, MA",
+  "state": "MA",
+  "latitude": 42.0730349,
+  "longitude": -72.0739414,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01123500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

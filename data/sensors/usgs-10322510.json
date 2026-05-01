@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10322510",
+  "key": "10322510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322510",
+  "name": "TONKIN SPG OUTFLOW ABV DENAY CK NR EUREKA, NV",
+  "waterbody": "TONKIN SPG OUTFLOW ABV DENAY CK NR EUREKA, NV",
+  "state": "NV",
+  "latitude": 39.90480556,
+  "longitude": -116.4125278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TONN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tonkin Spring abv Denay Creek nr Crescent Vly",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tonn2",
+  "slug": "usgs-10322510",
+  "noaaForecastPath": "data/noaa-forecast/TONN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

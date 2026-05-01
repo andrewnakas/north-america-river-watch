@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01543700",
+  "key": "01543700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01543700",
+  "name": "First Fork Sinnemahoning Creek at Wharton, PA",
+  "waterbody": "First Fork Sinnemahoning Creek at Wharton, PA",
+  "state": "PA",
+  "latitude": 41.518894,
+  "longitude": -78.0274739,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "First Fork Sinnemahoning Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whrp1",
+  "slug": "usgs-01543700",
+  "noaaForecastPath": "data/noaa-forecast/WHRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

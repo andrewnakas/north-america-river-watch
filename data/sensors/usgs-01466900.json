@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01466900",
+  "key": "01466900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466900",
+  "name": "Greenwood Branch at New Lisbon NJ",
+  "waterbody": "Greenwood Branch at New Lisbon NJ",
+  "state": "NJ",
+  "latitude": 39.9561111,
+  "longitude": -74.62777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NLBN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greenwood Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nlbn4",
+  "slug": "usgs-01466900",
+  "noaaForecastPath": "data/noaa-forecast/NLBN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

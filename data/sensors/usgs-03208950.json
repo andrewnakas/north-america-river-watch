@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03208950",
+  "key": "03208950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03208950",
+  "name": "CRANES NEST RIVER NEAR CLINTWOOD, VA",
+  "waterbody": "CRANES NEST RIVER NEAR CLINTWOOD, VA",
+  "state": "VA",
+  "latitude": 37.1239952,
+  "longitude": -82.4387614,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cranes Nest River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnrv2",
+  "slug": "usgs-03208950",
+  "noaaForecastPath": "data/noaa-forecast/CNRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

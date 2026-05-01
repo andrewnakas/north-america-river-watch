@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01460500",
+  "key": "01460500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01460500",
+  "name": "Delaware and Raritan Canal at Kingston NJ",
+  "waterbody": "Delaware and Raritan Canal at Kingston NJ",
+  "state": "NJ",
+  "latitude": 40.37361111,
+  "longitude": -74.61833333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01460500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

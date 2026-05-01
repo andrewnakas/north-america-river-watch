@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0205491522",
+  "key": "0205491522",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0205491522",
+  "name": "ROANOKE RIVER AT BRIDGE STREET BR AT ROANOKE, VA",
+  "waterbody": "ROANOKE RIVER AT BRIDGE STREET BR AT ROANOKE, VA",
+  "state": "VA",
+  "latitude": 37.27485876,
+  "longitude": -79.9800384,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RHBV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hortons Branch",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rhbv2",
+  "slug": "usgs-0205491522",
+  "noaaForecastPath": "data/noaa-forecast/RHBV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

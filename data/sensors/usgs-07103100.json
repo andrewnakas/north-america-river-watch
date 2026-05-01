@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103100",
+  "key": "07103100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103100",
+  "name": "WILLIAMS CANYON ABV MOUTH NEAR MANITOU SPRINGS, CO",
+  "waterbody": "WILLIAMS CANYON ABV MOUTH NEAR MANITOU SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.88880278,
+  "longitude": -104.918825,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06469015",
+  "key": "06469015",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06469015",
+  "name": "JAMES RIVER ON 5TH ST IN JAMESTOWN, ND",
+  "waterbody": "JAMES RIVER ON 5TH ST IN JAMESTOWN, ND",
+  "state": "ND",
+  "latitude": 46.9125,
+  "longitude": -98.7175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06469015",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

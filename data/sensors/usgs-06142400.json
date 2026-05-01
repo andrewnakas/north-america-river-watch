@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06142400",
+  "key": "06142400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06142400",
+  "name": "Clear Creek near Chinook MT",
+  "waterbody": "Clear Creek near Chinook MT",
+  "state": "MT",
+  "latitude": 48.5788694,
+  "longitude": -109.3911306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCMM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek (North-central MT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccmm8",
+  "slug": "usgs-06142400",
+  "noaaForecastPath": "data/noaa-forecast/CCMM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

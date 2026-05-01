@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15109048",
+  "key": "15109048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15109048",
+  "name": "PETERSON C BL NF NR AUKE BAY AK",
+  "waterbody": "PETERSON C BL NF NR AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.2830018,
+  "longitude": -134.6667836,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15109048",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

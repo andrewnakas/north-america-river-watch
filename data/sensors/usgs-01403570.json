@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01403570",
+  "key": "01403570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01403570",
+  "name": "Stony Brook at North Plainfield NJ",
+  "waterbody": "Stony Brook at North Plainfield NJ",
+  "state": "NJ",
+  "latitude": 40.62194444,
+  "longitude": -74.43611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STBN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stbn4",
+  "slug": "usgs-01403570",
+  "noaaForecastPath": "data/noaa-forecast/STBN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

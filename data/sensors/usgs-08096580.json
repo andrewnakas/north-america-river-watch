@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08096580",
+  "key": "08096580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08096580",
+  "name": "Tehuacana Ck at Hwy 6 nr Waco, TX",
+  "waterbody": "Tehuacana Ck at Hwy 6 nr Waco, TX",
+  "state": "TX",
+  "latitude": 31.53588889,
+  "longitude": -97.0325417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08096580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

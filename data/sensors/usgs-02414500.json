@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02414500",
+  "key": "02414500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02414500",
+  "name": "TALLAPOOSA RIVER AT WADLEY AL",
+  "waterbody": "TALLAPOOSA RIVER AT WADLEY AL",
+  "state": "AL",
+  "latitude": 33.11678684,
+  "longitude": -85.5607875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDLA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tallapoosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdla1",
+  "slug": "usgs-02414500",
+  "noaaForecastPath": "data/noaa-forecast/WDLA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

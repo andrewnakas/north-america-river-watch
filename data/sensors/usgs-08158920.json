@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158920",
+  "key": "08158920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158920",
+  "name": "Williamson Ck at Oak Hill, TX",
+  "waterbody": "Williamson Ck at Oak Hill, TX",
+  "state": "TX",
+  "latitude": 30.23520806,
+  "longitude": -97.8602848,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williamson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wklt2",
+  "slug": "usgs-08158920",
+  "noaaForecastPath": "data/noaa-forecast/WKLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

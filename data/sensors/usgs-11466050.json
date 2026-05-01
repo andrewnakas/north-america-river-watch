@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11466050",
+  "key": "11466050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11466050",
+  "name": "SANTA ROSA C A MISSION BLVD A SANTA ROSA CA",
+  "waterbody": "SANTA ROSA C A MISSION BLVD A SANTA ROSA CA",
+  "state": "CA",
+  "latitude": 38.4576889,
+  "longitude": -122.6722079,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11466050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

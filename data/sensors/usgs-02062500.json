@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02062500",
+  "key": "02062500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02062500",
+  "name": "ROANOKE (STAUNTON) RIVER AT BROOKNEAL, VA",
+  "waterbody": "ROANOKE (STAUNTON) RIVER AT BROOKNEAL, VA",
+  "state": "VA",
+  "latitude": 37.03944444,
+  "longitude": -78.9457222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BROV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brov2",
+  "slug": "usgs-02062500",
+  "noaaForecastPath": "data/noaa-forecast/BROV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

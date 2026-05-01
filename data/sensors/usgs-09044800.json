@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09044800",
+  "key": "09044800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09044800",
+  "name": "MCCULLOUGH-SP-CRYS-DIVERSION NEAR HOOSIER PASS, CO",
+  "waterbody": "MCCULLOUGH-SP-CRYS-DIVERSION NEAR HOOSIER PASS, CO",
+  "state": "CO",
+  "latitude": 39.38082156,
+  "longitude": -106.0711304,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09044800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

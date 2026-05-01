@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05465700",
+  "key": "05465700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05465700",
+  "name": "Iowa River at Oakville, IA",
+  "waterbody": "Iowa River at Oakville, IA",
+  "state": "IA",
+  "latitude": 41.10319444,
+  "longitude": -91.0635278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKVI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okvi4",
+  "slug": "usgs-05465700",
+  "noaaForecastPath": "data/noaa-forecast/OKVI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

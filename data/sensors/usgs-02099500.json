@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02099500",
+  "key": "02099500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02099500",
+  "name": "DEEP RIVER NEAR RANDLEMAN, NC",
+  "waterbody": "DEEP RIVER NEAR RANDLEMAN, NC",
+  "state": "NC",
+  "latitude": 35.9036111,
+  "longitude": -79.8527778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02099500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

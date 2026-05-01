@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08133250",
+  "key": "08133250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08133250",
+  "name": "N Concho Rv abv Sterling City, TX",
+  "waterbody": "N Concho Rv abv Sterling City, TX",
+  "state": "TX",
+  "latitude": 31.8973574,
+  "longitude": -101.105113,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08133250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

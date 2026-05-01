@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09481000",
+  "key": "09481000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09481000",
+  "name": "NOGALES WASH AT NOGALES, AZ",
+  "waterbody": "NOGALES WASH AT NOGALES, AZ",
+  "state": "AZ",
+  "latitude": 31.3432722,
+  "longitude": -110.9316722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09481000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

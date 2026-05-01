@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07332307",
+  "key": "07332307",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332307",
+  "name": "Blue River near Franks, OK",
+  "waterbody": "Blue River near Franks, OK",
+  "state": "OK",
+  "latitude": 34.5781455,
+  "longitude": -96.6988971,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FKBO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fkbo2",
+  "slug": "usgs-07332307",
+  "noaaForecastPath": "data/noaa-forecast/FKBO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50131990",
+  "key": "50131990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50131990",
+  "name": "RIO GUANAJIBO AT HWY 119 AT SAN GERMAN, PR",
+  "waterbody": "RIO GUANAJIBO AT HWY 119 AT SAN GERMAN, PR",
+  "state": "PR",
+  "latitude": 18.08278016,
+  "longitude": -67.0322228,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50131990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

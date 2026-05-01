@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08170905",
+  "key": "08170905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08170905",
+  "name": "Blanco Rv at Valley View Rd nr Fischer, TX",
+  "waterbody": "Blanco Rv at Valley View Rd nr Fischer, TX",
+  "state": "TX",
+  "latitude": 30.0368,
+  "longitude": -98.2228972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08170905",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

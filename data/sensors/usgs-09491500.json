@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09491500",
+  "key": "09491500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09491500",
+  "name": "NORTH FORK WHITE RIVER AT LOWER LOG.RD NR HODAH,AZ",
+  "waterbody": "NORTH FORK WHITE RIVER AT LOWER LOG.RD NR HODAH,AZ",
+  "state": "AZ",
+  "latitude": 33.9972222,
+  "longitude": -109.8834167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09491500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

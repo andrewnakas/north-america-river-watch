@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10338500",
+  "key": "10338500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10338500",
+  "name": "DONNER C A DONNER LK NR TRUCKEE CA",
+  "waterbody": "DONNER C A DONNER LK NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.3235172,
+  "longitude": -120.2343654,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCKC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Donner Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dckc1",
+  "slug": "usgs-10338500",
+  "noaaForecastPath": "data/noaa-forecast/DCKC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01118500",
+  "key": "01118500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01118500",
+  "name": "PAWCATUCK RIVER AT WESTERLY, RI",
+  "waterbody": "PAWCATUCK RIVER AT WESTERLY, RI",
+  "state": "RI",
+  "latitude": 41.385278,
+  "longitude": -71.833056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSTR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pawcatuck",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wstr1",
+  "slug": "usgs-01118500",
+  "noaaForecastPath": "data/noaa-forecast/WSTR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

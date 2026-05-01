@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05573500",
+  "key": "05573500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05573500",
+  "name": "SANGAMON RIVER AT LAKE DECATUR, IL",
+  "waterbody": "SANGAMON RIVER AT LAKE DECATUR, IL",
+  "state": "IL",
+  "latitude": 39.827475,
+  "longitude": -88.9566167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05573500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

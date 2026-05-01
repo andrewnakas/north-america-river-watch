@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09312700",
+  "key": "09312700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09312700",
+  "name": "BEAVER CREEK NEAR SOLDIER SUMMIT, UTAH",
+  "waterbody": "BEAVER CREEK NEAR SOLDIER SUMMIT, UTAH",
+  "state": "UT",
+  "latitude": 39.8305162,
+  "longitude": -110.9693302,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09312700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15086960",
+  "key": "15086960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15086960",
+  "name": "SUNRISE LK OUTLET NR WRANGELL AK",
+  "waterbody": "SUNRISE LK OUTLET NR WRANGELL AK",
+  "state": "AK",
+  "latitude": 56.4118757,
+  "longitude": -132.4933566,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15086960",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

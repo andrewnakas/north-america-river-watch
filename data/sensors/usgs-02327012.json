@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02327012",
+  "key": "02327012",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02327012",
+  "name": "WEST DD AT ROBERTS AVE TALLAHASSEE,FL",
+  "waterbody": "WEST DD AT ROBERTS AVE TALLAHASSEE,FL",
+  "state": "FL",
+  "latitude": 30.42964438,
+  "longitude": -84.32934579,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Munson Slough",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnrf1",
+  "slug": "usgs-02327012",
+  "noaaForecastPath": "data/noaa-forecast/MNRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

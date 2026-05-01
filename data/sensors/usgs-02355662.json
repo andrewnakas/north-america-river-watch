@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02355662",
+  "key": "02355662",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02355662",
+  "name": "FLINT RIVER AT RIVERVIEW PLANTATION, NR HOPEFUL,GA",
+  "waterbody": "FLINT RIVER AT RIVERVIEW PLANTATION, NR HOPEFUL,GA",
+  "state": "GA",
+  "latitude": 31.14055556,
+  "longitude": -84.4809722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOPG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River (GA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hopg1",
+  "slug": "usgs-02355662",
+  "noaaForecastPath": "data/noaa-forecast/HOPG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

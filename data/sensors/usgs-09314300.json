@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09314300",
+  "key": "09314300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09314300",
+  "name": "PRICE RIVER ABV SILVAGNI RANCH DIV NR WOODSIDE, UT",
+  "waterbody": "PRICE RIVER ABV SILVAGNI RANCH DIV NR WOODSIDE, UT",
+  "state": "UT",
+  "latitude": 39.33553056,
+  "longitude": -110.4281,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09314300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03039036",
+  "key": "03039036",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03039036",
+  "name": "Allegheny River below Lock & Dam 6 at Clinton, PA",
+  "waterbody": "Allegheny River below Lock & Dam 6 at Clinton, PA",
+  "state": "PA",
+  "latitude": 40.715,
+  "longitude": -79.5811111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03039036",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

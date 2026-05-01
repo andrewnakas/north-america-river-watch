@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09378170",
+  "key": "09378170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09378170",
+  "name": "SOUTH CREEK ABOVE RESERVOIR NEAR MONTICELLO, UT",
+  "waterbody": "SOUTH CREEK ABOVE RESERVOIR NEAR MONTICELLO, UT",
+  "state": "UT",
+  "latitude": 37.8466608,
+  "longitude": -109.3695625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09378170",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

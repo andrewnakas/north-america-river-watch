@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06482010",
+  "key": "06482010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06482010",
+  "name": "SILVER CREEK AT SIOUX FALLS, SD",
+  "waterbody": "SILVER CREEK AT SIOUX FALLS, SD",
+  "state": "SD",
+  "latitude": 43.602197,
+  "longitude": -96.731717,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFLS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfls2",
+  "slug": "usgs-06482010",
+  "noaaForecastPath": "data/noaa-forecast/SFLS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

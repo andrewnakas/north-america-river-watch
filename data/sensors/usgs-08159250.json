@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08159250",
+  "key": "08159250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08159250",
+  "name": "Maha Ck at Von Quintus Rd nr Del Valle, TX",
+  "waterbody": "Maha Ck at Von Quintus Rd nr Del Valle, TX",
+  "state": "TX",
+  "latitude": 30.09453056,
+  "longitude": -97.6593222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08159250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14040600",
+  "key": "14040600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14040600",
+  "name": "MOUNTAIN CREEK NEAR MITCHELL,OREG.",
+  "waterbody": "MOUNTAIN CREEK NEAR MITCHELL,OREG.",
+  "state": "OR",
+  "latitude": 44.5348599,
+  "longitude": -120.0302781,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14040600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

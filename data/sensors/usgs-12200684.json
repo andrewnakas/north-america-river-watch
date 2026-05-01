@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12200684",
+  "key": "12200684",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12200684",
+  "name": "CARPENTER CR NR BACON RD NR MOUNT VERNON, WA",
+  "waterbody": "CARPENTER CR NR BACON RD NR MOUNT VERNON, WA",
+  "state": "WA",
+  "latitude": 48.37944167,
+  "longitude": -122.3066056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12200684",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

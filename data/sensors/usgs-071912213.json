@@ -1,0 +1,22 @@
+{
+  "id": "usgs:071912213",
+  "key": "071912213",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "071912213",
+  "name": "Spavinaw Creek near Colcord, OK",
+  "waterbody": "Spavinaw Creek near Colcord, OK",
+  "state": "OK",
+  "latitude": 36.32256869,
+  "longitude": -94.6852334,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCDO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spavinaw Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccdo2",
+  "slug": "usgs-071912213",
+  "noaaForecastPath": "data/noaa-forecast/CCDO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

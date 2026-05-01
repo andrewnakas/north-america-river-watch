@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01169900",
+  "key": "01169900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01169900",
+  "name": "SOUTH RIVER NEAR CONWAY, MA",
+  "waterbody": "SOUTH RIVER NEAR CONWAY, MA",
+  "state": "MA",
+  "latitude": 42.5419228,
+  "longitude": -72.6936802,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01169900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

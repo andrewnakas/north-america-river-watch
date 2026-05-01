@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03107500",
+  "key": "03107500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03107500",
+  "name": "Beaver River at Beaver Falls, PA",
+  "waterbody": "Beaver River at Beaver Falls, PA",
+  "state": "PA",
+  "latitude": 40.763351,
+  "longitude": -80.31505239,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEAP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/beap1",
+  "slug": "usgs-03107500",
+  "noaaForecastPath": "data/noaa-forecast/BEAP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

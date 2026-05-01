@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02172002",
+  "key": "02172002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172002",
+  "name": "LAKE MOULTRIE TAILRACE CANAL AT MONCKS CORNER, SC",
+  "waterbody": "LAKE MOULTRIE TAILRACE CANAL AT MONCKS CORNER, SC",
+  "state": "SC",
+  "latitude": 33.21491667,
+  "longitude": -79.9749167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02172002",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.364Z"
+}

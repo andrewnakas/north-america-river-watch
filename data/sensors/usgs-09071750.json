@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09071750",
+  "key": "09071750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09071750",
+  "name": "COLORADO RIVER ABOVE GLENWOOD SPRINGS, CO",
+  "waterbody": "COLORADO RIVER ABOVE GLENWOOD SPRINGS, CO",
+  "state": "CO",
+  "latitude": 39.5588711,
+  "longitude": -107.2908874,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09071750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

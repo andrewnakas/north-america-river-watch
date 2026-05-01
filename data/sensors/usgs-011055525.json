@@ -1,0 +1,19 @@
+{
+  "id": "usgs:011055525",
+  "key": "011055525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "011055525",
+  "name": "PONKAPOAG BRK UPSTREAM RT 138,NR CANTON, MA",
+  "waterbody": "PONKAPOAG BRK UPSTREAM RT 138,NR CANTON, MA",
+  "state": "MA",
+  "latitude": 42.19027778,
+  "longitude": -71.1144444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-011055525",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

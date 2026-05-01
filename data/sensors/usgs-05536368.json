@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536368",
+  "key": "05536368",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536368",
+  "name": "CALUMET SAG CHANNEL AT BLUE ISLAND, IL",
+  "waterbody": "CALUMET SAG CHANNEL AT BLUE ISLAND, IL",
+  "state": "IL",
+  "latitude": 41.65281186,
+  "longitude": -87.670326,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSBI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cal-Sag Channel",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csbi2",
+  "slug": "usgs-05536368",
+  "noaaForecastPath": "data/noaa-forecast/CSBI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

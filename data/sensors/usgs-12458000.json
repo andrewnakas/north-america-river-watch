@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12458000",
+  "key": "12458000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12458000",
+  "name": "ICICLE CREEK ABOVE SNOW CREEK NEAR LEAVENWORTH, WA",
+  "waterbody": "ICICLE CREEK ABOVE SNOW CREEK NEAR LEAVENWORTH, WA",
+  "state": "WA",
+  "latitude": 47.54092147,
+  "longitude": -120.720059,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12458000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

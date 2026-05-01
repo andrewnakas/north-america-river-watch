@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01121000",
+  "key": "01121000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01121000",
+  "name": "MOUNT HOPE RIVER NEAR WARRENVILLE, CT",
+  "waterbody": "MOUNT HOPE RIVER NEAR WARRENVILLE, CT",
+  "state": "CT",
+  "latitude": 41.84359288,
+  "longitude": -72.16894625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRNC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mount Hope River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrnc3",
+  "slug": "usgs-01121000",
+  "noaaForecastPath": "data/noaa-forecast/WRNC3.json",
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

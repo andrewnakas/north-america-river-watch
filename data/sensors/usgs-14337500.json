@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14337500",
+  "key": "14337500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14337500",
+  "name": "BIG BUTTE CREEK NEAR MCLEOD, OR",
+  "waterbody": "BIG BUTTE CREEK NEAR MCLEOD, OR",
+  "state": "OR",
+  "latitude": 42.6512372,
+  "longitude": -122.6914288,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLBO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Butte Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlbo3",
+  "slug": "usgs-14337500",
+  "noaaForecastPath": "data/noaa-forecast/MLBO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

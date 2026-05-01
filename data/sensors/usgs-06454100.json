@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06454100",
+  "key": "06454100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06454100",
+  "name": "Niobrara River at Agate, Nebr.",
+  "waterbody": "Niobrara River at Agate, Nebr.",
+  "state": "NE",
+  "latitude": 42.4236111,
+  "longitude": -103.7922222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06454100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

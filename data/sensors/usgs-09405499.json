@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09405499",
+  "key": "09405499",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09405499",
+  "name": "SPRINGDALE CANAL NR. SPRINGDALE, UT",
+  "waterbody": "SPRINGDALE CANAL NR. SPRINGDALE, UT",
+  "state": "UT",
+  "latitude": 37.21164904,
+  "longitude": -112.9766067,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09405499",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

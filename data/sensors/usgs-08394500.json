@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08394500",
+  "key": "08394500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08394500",
+  "name": "RIO FELIX AT OLD HWY BRD NR HAGERMAN, NM",
+  "waterbody": "RIO FELIX AT OLD HWY BRD NR HAGERMAN, NM",
+  "state": "NM",
+  "latitude": 33.1251075,
+  "longitude": -104.3449634,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08394500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

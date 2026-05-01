@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07203505",
+  "key": "07203505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07203505",
+  "name": "VERMEJO DITCH NEAR COLFAX, NM",
+  "waterbody": "VERMEJO DITCH NEAR COLFAX, NM",
+  "state": "NM",
+  "latitude": 36.57836704,
+  "longitude": -104.6930493,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07203505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

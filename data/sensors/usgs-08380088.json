@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08380088",
+  "key": "08380088",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08380088",
+  "name": "BEAVER CREEK NEAR GALLINAS, NM",
+  "waterbody": "BEAVER CREEK NEAR GALLINAS, NM",
+  "state": "NM",
+  "latitude": 35.68973056,
+  "longitude": -105.3763611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08380088",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

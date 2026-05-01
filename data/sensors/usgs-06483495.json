@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06483495",
+  "key": "06483495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06483495",
+  "name": "Burr Oak Creek near Perkins, IA",
+  "waterbody": "Burr Oak Creek near Perkins, IA",
+  "state": "IA",
+  "latitude": 43.24525718,
+  "longitude": -96.177523,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Burr Oak Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boci4",
+  "slug": "usgs-06483495",
+  "noaaForecastPath": "data/noaa-forecast/BOCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

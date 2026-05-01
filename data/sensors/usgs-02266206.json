@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02266206",
+  "key": "02266206",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266206",
+  "name": "WHITTENHORSE BELOW S-411 NR VINELAND,FL",
+  "waterbody": "WHITTENHORSE BELOW S-411 NR VINELAND,FL",
+  "state": "FL",
+  "latitude": 28.39306277,
+  "longitude": -81.6106298,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02266206",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

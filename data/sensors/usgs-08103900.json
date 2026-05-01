@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08103900",
+  "key": "08103900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08103900",
+  "name": "S Fk Rocky Ck nr Briggs, TX",
+  "waterbody": "S Fk Rocky Ck nr Briggs, TX",
+  "state": "TX",
+  "latitude": 30.91156805,
+  "longitude": -98.0369676,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSJT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Rocky Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsjt2",
+  "slug": "usgs-08103900",
+  "noaaForecastPath": "data/noaa-forecast/BSJT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

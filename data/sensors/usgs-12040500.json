@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12040500",
+  "key": "12040500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12040500",
+  "name": "QUEETS RIVER NEAR CLEARWATER, WA",
+  "waterbody": "QUEETS RIVER NEAR CLEARWATER, WA",
+  "state": "WA",
+  "latitude": 47.5378275,
+  "longitude": -124.3157227,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QUEW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Queets R",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/quew1",
+  "slug": "usgs-12040500",
+  "noaaForecastPath": "data/noaa-forecast/QUEW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

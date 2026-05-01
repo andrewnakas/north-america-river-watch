@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04043800",
+  "key": "04043800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043800",
+  "name": "McCLURE STORAGE BASIN RELEASE NEAR MARQUETTE, MI",
+  "waterbody": "McCLURE STORAGE BASIN RELEASE NEAR MARQUETTE, MI",
+  "state": "MI",
+  "latitude": 46.5718763,
+  "longitude": -87.4765261,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04043800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

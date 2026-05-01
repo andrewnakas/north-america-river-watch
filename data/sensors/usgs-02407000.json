@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02407000",
+  "key": "02407000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02407000",
+  "name": "COOSA RIVER AT CHILDERSBURG AL",
+  "waterbody": "COOSA RIVER AT CHILDERSBURG AL",
+  "state": "AL",
+  "latitude": 33.29182009,
+  "longitude": -86.3638657,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHLA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chla1",
+  "slug": "usgs-02407000",
+  "noaaForecastPath": "data/noaa-forecast/CHLA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

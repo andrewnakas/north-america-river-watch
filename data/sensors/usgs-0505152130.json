@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0505152130",
+  "key": "0505152130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0505152130",
+  "name": "RED RIVER OF THE NORTH AT ENLOE, ND",
+  "waterbody": "RED RIVER OF THE NORTH AT ENLOE, ND",
+  "state": "ND",
+  "latitude": 46.49888889,
+  "longitude": -96.7388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENLN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River of the North",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/enln8",
+  "slug": "usgs-0505152130",
+  "noaaForecastPath": "data/noaa-forecast/ENLN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

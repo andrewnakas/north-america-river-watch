@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15477740",
+  "key": "15477740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15477740",
+  "name": "GOODPASTER R NR BIG DELTA AK",
+  "waterbody": "GOODPASTER R NR BIG DELTA AK",
+  "state": "AK",
+  "latitude": 64.450151,
+  "longitude": -144.9445773,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goodpaster River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbda2",
+  "slug": "usgs-15477740",
+  "noaaForecastPath": "data/noaa-forecast/GBDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

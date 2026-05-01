@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04135500",
+  "key": "04135500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04135500",
+  "name": "AU SABLE RIVER AT GRAYLING, MI",
+  "waterbody": "AU SABLE RIVER AT GRAYLING, MI",
+  "state": "MI",
+  "latitude": 44.65973729,
+  "longitude": -84.7125289,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04135500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

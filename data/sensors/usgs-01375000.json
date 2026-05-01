@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01375000",
+  "key": "01375000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01375000",
+  "name": "CROTON R AT NEW CROTON DAM NR CROTON-ON-HUDSON NY",
+  "waterbody": "CROTON R AT NEW CROTON DAM NR CROTON-ON-HUDSON NY",
+  "state": "NY",
+  "latitude": 41.22502778,
+  "longitude": -73.85888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01375000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02250500",
+  "key": "02250500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02250500",
+  "name": "GOAT CREEK NR VALKARIA, FLA.",
+  "waterbody": "GOAT CREEK NR VALKARIA, FLA.",
+  "state": "FL",
+  "latitude": 27.96724239,
+  "longitude": -80.5656091,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02250500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

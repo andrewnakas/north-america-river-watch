@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03334000",
+  "key": "03334000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03334000",
+  "name": "WILDCAT CREEK AT OWASCO, IN",
+  "waterbody": "WILDCAT CREEK AT OWASCO, IN",
+  "state": "IN",
+  "latitude": 40.4648333,
+  "longitude": -86.6365556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wildcat Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owci3",
+  "slug": "usgs-03334000",
+  "noaaForecastPath": "data/noaa-forecast/OWCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

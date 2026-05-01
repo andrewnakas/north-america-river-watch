@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04276500",
+  "key": "04276500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04276500",
+  "name": "BOQUET RIVER AT WILLSBORO NY",
+  "waterbody": "BOQUET RIVER AT WILLSBORO NY",
+  "state": "NY",
+  "latitude": 44.35847222,
+  "longitude": -73.39455556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boquet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlbn6",
+  "slug": "usgs-04276500",
+  "noaaForecastPath": "data/noaa-forecast/WLBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

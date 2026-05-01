@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12213140",
+  "key": "12213140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12213140",
+  "name": "NOOKSACK RIVER AT BRENNAN, WA",
+  "waterbody": "NOOKSACK RIVER AT BRENNAN, WA",
+  "state": "WA",
+  "latitude": 48.81927627,
+  "longitude": -122.5798947,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12213140",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

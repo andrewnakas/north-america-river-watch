@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01479000",
+  "key": "01479000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01479000",
+  "name": "WHITE CLAY CREEK NEAR NEWARK, DE",
+  "waterbody": "WHITE CLAY CREEK NEAR NEWARK, DE",
+  "state": "DE",
+  "latitude": 39.6992222,
+  "longitude": -75.67502778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DPKD1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Clay Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dpkd1",
+  "slug": "usgs-01479000",
+  "noaaForecastPath": "data/noaa-forecast/DPKD1.json",
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

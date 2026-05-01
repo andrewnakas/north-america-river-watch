@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10353600",
+  "key": "10353600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10353600",
+  "name": "KINGS RV NR OROVADA, NV",
+  "waterbody": "KINGS RV NR OROVADA, NV",
+  "state": "NV",
+  "latitude": 41.90574167,
+  "longitude": -118.309125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10353600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

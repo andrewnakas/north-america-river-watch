@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01154500",
+  "key": "01154500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01154500",
+  "name": "CONNECTICUT RIVER AT NORTH WALPOLE, NH",
+  "waterbody": "CONNECTICUT RIVER AT NORTH WALPOLE, NH",
+  "state": "NH",
+  "latitude": 43.12618905,
+  "longitude": -72.4367549,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLPN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlpn3",
+  "slug": "usgs-01154500",
+  "noaaForecastPath": "data/noaa-forecast/WLPN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

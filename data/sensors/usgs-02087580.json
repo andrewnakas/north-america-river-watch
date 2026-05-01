@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02087580",
+  "key": "02087580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02087580",
+  "name": "SWIFT CREEK NEAR APEX, NC",
+  "waterbody": "SWIFT CREEK NEAR APEX, NC",
+  "state": "NC",
+  "latitude": 35.71888889,
+  "longitude": -78.7522222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swift Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/apsn7",
+  "slug": "usgs-02087580",
+  "noaaForecastPath": "data/noaa-forecast/APSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02217297",
+  "key": "02217297",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02217297",
+  "name": "MULBERRY CREEK NEAR WINDER, GA",
+  "waterbody": "MULBERRY CREEK NEAR WINDER, GA",
+  "state": "GA",
+  "latitude": 34.0459722,
+  "longitude": -83.7113611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mulberry Creek (GA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnrg1",
+  "slug": "usgs-02217297",
+  "noaaForecastPath": "data/noaa-forecast/WNRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

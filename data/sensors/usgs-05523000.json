@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05523000",
+  "key": "05523000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05523000",
+  "name": "BICE DITCH NEAR SOUTH MARION, IND.",
+  "waterbody": "BICE DITCH NEAR SOUTH MARION, IND.",
+  "state": "IN",
+  "latitude": 40.86668998,
+  "longitude": -87.0922207,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05523000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

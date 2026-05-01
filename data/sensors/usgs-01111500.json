@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01111500",
+  "key": "01111500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01111500",
+  "name": "BRANCH RIVER AT FORESTDALE, RI",
+  "waterbody": "BRANCH RIVER AT FORESTDALE, RI",
+  "state": "RI",
+  "latitude": 41.99648716,
+  "longitude": -71.56200758,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FDLR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Branch River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fdlr1",
+  "slug": "usgs-01111500",
+  "noaaForecastPath": "data/noaa-forecast/FDLR1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

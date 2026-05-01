@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04237020",
+  "key": "04237020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04237020",
+  "name": "SENECA R (BARGE CANAL) AT CROSS LAKE NR JORDAN NY",
+  "waterbody": "SENECA R (BARGE CANAL) AT CROSS LAKE NR JORDAN NY",
+  "state": "NY",
+  "latitude": 43.10013889,
+  "longitude": -76.4981667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRXN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seneca River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crxn6",
+  "slug": "usgs-04237020",
+  "noaaForecastPath": "data/noaa-forecast/CRXN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

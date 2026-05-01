@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03416000",
+  "key": "03416000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03416000",
+  "name": "WOLF RIVER NEAR BYRDSTOWN, TN",
+  "waterbody": "WOLF RIVER NEAR BYRDSTOWN, TN",
+  "state": "TN",
+  "latitude": 36.560278,
+  "longitude": -85.073056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYGT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bygt1",
+  "slug": "usgs-03416000",
+  "noaaForecastPath": "data/noaa-forecast/BYGT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

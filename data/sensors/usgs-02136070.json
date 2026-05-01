@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02136070",
+  "key": "02136070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02136070",
+  "name": "BLACK RIVER AT SC51 NEAR RHEMS, SC",
+  "waterbody": "BLACK RIVER AT SC51 NEAR RHEMS, SC",
+  "state": "SC",
+  "latitude": 33.54719444,
+  "longitude": -79.4015,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brrs1",
+  "slug": "usgs-02136070",
+  "noaaForecastPath": "data/noaa-forecast/BRRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

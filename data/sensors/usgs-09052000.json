@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09052000",
+  "key": "09052000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09052000",
+  "name": "ROCK CREEK NEAR DILLON, CO.",
+  "waterbody": "ROCK CREEK NEAR DILLON, CO.",
+  "state": "CO",
+  "latitude": 39.72304159,
+  "longitude": -106.1286328,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09052000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

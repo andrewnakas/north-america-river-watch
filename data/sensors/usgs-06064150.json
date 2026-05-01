@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06064150",
+  "key": "06064150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06064150",
+  "name": "Tenmile Cr ab Prickley Pear Cr nr Helena",
+  "waterbody": "Tenmile Cr ab Prickley Pear Cr nr Helena",
+  "state": "MT",
+  "latitude": 46.6607472,
+  "longitude": -111.9899444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06064150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

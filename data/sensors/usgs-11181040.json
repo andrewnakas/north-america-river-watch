@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11181040",
+  "key": "11181040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11181040",
+  "name": "SAN LORENZO C A SAN LORENZO CA",
+  "waterbody": "SAN LORENZO C A SAN LORENZO CA",
+  "state": "CA",
+  "latitude": 37.6840977,
+  "longitude": -122.1399649,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Lorenzo Creek (Alameda)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slcc1",
+  "slug": "usgs-11181040",
+  "noaaForecastPath": "data/noaa-forecast/SLCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

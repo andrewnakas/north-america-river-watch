@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09507480",
+  "key": "09507480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09507480",
+  "name": "FOSSIL CREEK NEAR STRAWBERRY, AZ",
+  "waterbody": "FOSSIL CREEK NEAR STRAWBERRY, AZ",
+  "state": "AZ",
+  "latitude": 34.39430556,
+  "longitude": -111.63,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCSA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fossil Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcsa3",
+  "slug": "usgs-09507480",
+  "noaaForecastPath": "data/noaa-forecast/FCSA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

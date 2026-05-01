@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15283700",
+  "key": "15283700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15283700",
+  "name": "MOOSE C NR PALMER AK",
+  "waterbody": "MOOSE C NR PALMER AK",
+  "state": "AK",
+  "latitude": 61.68438889,
+  "longitude": -149.0524167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOOA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moose Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mooa2",
+  "slug": "usgs-15283700",
+  "noaaForecastPath": "data/noaa-forecast/MOOA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

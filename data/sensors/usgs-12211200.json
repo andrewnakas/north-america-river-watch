@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12211200",
+  "key": "12211200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12211200",
+  "name": "NOOKSACK RIVER AT EVERSON, WA",
+  "waterbody": "NOOKSACK RIVER AT EVERSON, WA",
+  "state": "WA",
+  "latitude": 48.91789467,
+  "longitude": -122.3479369,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NREW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nooksack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrew1",
+  "slug": "usgs-12211200",
+  "noaaForecastPath": "data/noaa-forecast/NREW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

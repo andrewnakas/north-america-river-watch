@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06889200",
+  "key": "06889200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889200",
+  "name": "SOLDIER C NR DELIA, KS",
+  "waterbody": "SOLDIER C NR DELIA, KS",
+  "state": "KS",
+  "latitude": 39.23833024,
+  "longitude": -95.8885992,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DELK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Soldier Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/delk1",
+  "slug": "usgs-06889200",
+  "noaaForecastPath": "data/noaa-forecast/DELK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

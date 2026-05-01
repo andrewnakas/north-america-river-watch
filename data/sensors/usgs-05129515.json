@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05129515",
+  "key": "05129515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05129515",
+  "name": "RAINY R AT BOAT LANDING BLW INTERNATIONAL FALLS,MN",
+  "waterbody": "RAINY R AT BOAT LANDING BLW INTERNATIONAL FALLS,MN",
+  "state": "MN",
+  "latitude": 48.59222222,
+  "longitude": -93.44666667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RNYM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rainy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rnym5",
+  "slug": "usgs-05129515",
+  "noaaForecastPath": "data/noaa-forecast/RNYM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

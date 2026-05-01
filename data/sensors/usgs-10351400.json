@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10351400",
+  "key": "10351400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10351400",
+  "name": "TRUCKEE CANAL NR HAZEN, NV",
+  "waterbody": "TRUCKEE CANAL NR HAZEN, NV",
+  "state": "NV",
+  "latitude": 39.5038035,
+  "longitude": -119.0451614,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10351400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

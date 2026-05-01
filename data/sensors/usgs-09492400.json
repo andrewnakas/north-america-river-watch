@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09492400",
+  "key": "09492400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09492400",
+  "name": "EAST FORK WHITE RIVER NEAR FORT APACHE, AZ.",
+  "waterbody": "EAST FORK WHITE RIVER NEAR FORT APACHE, AZ.",
+  "state": "AZ",
+  "latitude": 33.8222723,
+  "longitude": -109.8145413,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWFA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "E Fork White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewfa3",
+  "slug": "usgs-09492400",
+  "noaaForecastPath": "data/noaa-forecast/EWFA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

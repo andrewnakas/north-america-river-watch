@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05384350",
+  "key": "05384350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05384350",
+  "name": "ROOT RIVER ABOVE RUSHFORD, MN",
+  "waterbody": "ROOT RIVER ABOVE RUSHFORD, MN",
+  "state": "MN",
+  "latitude": 43.79777778,
+  "longitude": -91.8038889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSFM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Root River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rsfm5",
+  "slug": "usgs-05384350",
+  "noaaForecastPath": "data/noaa-forecast/RSFM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

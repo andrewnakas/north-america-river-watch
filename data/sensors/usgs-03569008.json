@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03569008",
+  "key": "03569008",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03569008",
+  "name": "LOOKOUT CREEK AT MILE 2.6 NR WAUHATCHIE, TN",
+  "waterbody": "LOOKOUT CREEK AT MILE 2.6 NR WAUHATCHIE, TN",
+  "state": "TN",
+  "latitude": 35.0073972,
+  "longitude": -85.3675944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKOT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lookout Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkot1",
+  "slug": "usgs-03569008",
+  "noaaForecastPath": "data/noaa-forecast/LKOT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

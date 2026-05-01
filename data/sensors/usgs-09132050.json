@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09132050",
+  "key": "09132050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09132050",
+  "name": "ANTHRACITE CREEK NEAR SOMERSET, CO.",
+  "waterbody": "ANTHRACITE CREEK NEAR SOMERSET, CO.",
+  "state": "CO",
+  "latitude": 38.95425,
+  "longitude": -107.27175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATHC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Anthracite Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/athc2",
+  "slug": "usgs-09132050",
+  "noaaForecastPath": "data/noaa-forecast/ATHC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

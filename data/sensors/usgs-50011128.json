@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50011128",
+  "key": "50011128",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50011128",
+  "name": "CANAL MOCA ABV AGUADILLA PLANT, AGUADILLA, PR",
+  "waterbody": "CANAL MOCA ABV AGUADILLA PLANT, AGUADILLA, PR",
+  "state": "PR",
+  "latitude": 18.44921944,
+  "longitude": -67.13732222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50011128",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

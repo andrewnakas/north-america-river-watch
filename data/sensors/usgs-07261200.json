@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07261200",
+  "key": "07261200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07261200",
+  "name": "East Fork Cadron Creek near Enola, AR",
+  "waterbody": "East Fork Cadron Creek near Enola, AR",
+  "state": "AR",
+  "latitude": 35.2183333,
+  "longitude": -92.2794444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07261200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

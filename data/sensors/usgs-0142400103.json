@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0142400103",
+  "key": "0142400103",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0142400103",
+  "name": "TROUT CREEK NEAR TROUT CREEK NY",
+  "waterbody": "TROUT CREEK NEAR TROUT CREEK NY",
+  "state": "NY",
+  "latitude": 42.1735833,
+  "longitude": -75.2794444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trout Creek (NY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trcn6",
+  "slug": "usgs-0142400103",
+  "noaaForecastPath": "data/noaa-forecast/TRCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07191288",
+  "key": "07191288",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07191288",
+  "name": "Spavinaw Creek near Eucha, OK",
+  "waterbody": "Spavinaw Creek near Eucha, OK",
+  "state": "OK",
+  "latitude": 36.37925097,
+  "longitude": -94.936901,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NNEO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eastern Oklahoma Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nneo2",
+  "slug": "usgs-07191288",
+  "noaaForecastPath": "data/noaa-forecast/NNEO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

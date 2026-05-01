@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13011000",
+  "key": "13011000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13011000",
+  "name": "SNAKE RIVER NEAR MORAN, WY",
+  "waterbody": "SNAKE RIVER NEAR MORAN, WY",
+  "state": "WY",
+  "latitude": 43.85851819,
+  "longitude": -110.5866219,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JLKW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jlkw4",
+  "slug": "usgs-13011000",
+  "noaaForecastPath": "data/noaa-forecast/JLKW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

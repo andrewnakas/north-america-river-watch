@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05286000",
+  "key": "05286000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05286000",
+  "name": "RUM RIVER NEAR ST. FRANCIS, MN",
+  "waterbody": "RUM RIVER NEAR ST. FRANCIS, MN",
+  "state": "MN",
+  "latitude": 45.32774267,
+  "longitude": -93.3724537,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STFM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rum River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stfm5",
+  "slug": "usgs-05286000",
+  "noaaForecastPath": "data/noaa-forecast/STFM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

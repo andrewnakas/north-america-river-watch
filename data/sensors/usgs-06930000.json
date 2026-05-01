@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06930000",
+  "key": "06930000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06930000",
+  "name": "Big Piney River near Big Piney, MO",
+  "waterbody": "Big Piney River near Big Piney, MO",
+  "state": "MO",
+  "latitude": 37.66563889,
+  "longitude": -92.0499167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PINM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Piney",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pinm7",
+  "slug": "usgs-06930000",
+  "noaaForecastPath": "data/noaa-forecast/PINM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14090400",
+  "key": "14090400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14090400",
+  "name": "WHITEWATER RIVER NEAR CAMP SHERMAN, OR",
+  "waterbody": "WHITEWATER RIVER NEAR CAMP SHERMAN, OR",
+  "state": "OR",
+  "latitude": 44.7190062,
+  "longitude": -121.6403407,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14090400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

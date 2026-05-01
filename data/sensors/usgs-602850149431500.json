@@ -1,0 +1,22 @@
+{
+  "id": "usgs:602850149431500",
+  "key": "602850149431500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "602850149431500",
+  "name": "QUARTZ C AT QUARTZ C RD NR COOPER LANDING AK",
+  "waterbody": "QUARTZ C AT QUARTZ C RD NR COOPER LANDING AK",
+  "state": "AK",
+  "latitude": 60.4805556,
+  "longitude": -149.7208333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QCKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quartz Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qcka2",
+  "slug": "usgs-602850149431500",
+  "noaaForecastPath": "data/noaa-forecast/QCKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

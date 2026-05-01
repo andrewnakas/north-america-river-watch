@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07020850",
+  "key": "07020850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07020850",
+  "name": "Mississippi River at Cape Girardeau, MO",
+  "waterbody": "Mississippi River at Cape Girardeau, MO",
+  "state": "MO",
+  "latitude": 37.30188889,
+  "longitude": -89.518,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPGM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpgm7",
+  "slug": "usgs-07020850",
+  "noaaForecastPath": "data/noaa-forecast/CPGM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

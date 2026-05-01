@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02236350",
+  "key": "02236350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02236350",
+  "name": "GREEN SWAMP RUN NEAR EVA, FL",
+  "waterbody": "GREEN SWAMP RUN NEAR EVA, FL",
+  "state": "FL",
+  "latitude": 28.3111212,
+  "longitude": -81.6853534,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green Swamp Run Near Eva",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gsrf1",
+  "slug": "usgs-02236350",
+  "noaaForecastPath": "data/noaa-forecast/GSRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

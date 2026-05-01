@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10349849",
+  "key": "10349849",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10349849",
+  "name": "STEAMBOAT CK AT SHORT LN AT RENO, NV",
+  "waterbody": "STEAMBOAT CK AT SHORT LN AT RENO, NV",
+  "state": "NV",
+  "latitude": 39.4657449,
+  "longitude": -119.7285199,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10349849",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

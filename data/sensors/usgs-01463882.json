@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01463882",
+  "key": "01463882",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01463882",
+  "name": "Assunpink Creek below STP near Mercerville NJ",
+  "waterbody": "Assunpink Creek below STP near Mercerville NJ",
+  "state": "NJ",
+  "latitude": 40.2475,
+  "longitude": -74.72777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MERN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Assunpink Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mern4",
+  "slug": "usgs-01463882",
+  "noaaForecastPath": "data/noaa-forecast/MERN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

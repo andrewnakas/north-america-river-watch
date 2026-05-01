@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09512165",
+  "key": "09512165",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512165",
+  "name": "SALT RIVER AT PRIEST DRIVE NEAR PHOENIX, AZ",
+  "waterbody": "SALT RIVER AT PRIEST DRIVE NEAR PHOENIX, AZ",
+  "state": "AZ",
+  "latitude": 33.43411111,
+  "longitude": -111.96133333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLPA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slpa3",
+  "slug": "usgs-09512165",
+  "noaaForecastPath": "data/noaa-forecast/SLPA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

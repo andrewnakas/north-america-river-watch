@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299734",
+  "key": "02299734",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299734",
+  "name": "CURRY CREEK AT HIGHWAY 41 AT NOKOMIS FL",
+  "waterbody": "CURRY CREEK AT HIGHWAY 41 AT NOKOMIS FL",
+  "state": "FL",
+  "latitude": 27.11271944,
+  "longitude": -82.4474111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Donna Bay",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nokf1",
+  "slug": "usgs-02299734",
+  "noaaForecastPath": "data/noaa-forecast/NOKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.200Z"
+}

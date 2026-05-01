@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068090",
+  "key": "08068090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068090",
+  "name": "W Fk San Jacinto Rv abv Lk Houston nr Porter, TX",
+  "waterbody": "W Fk San Jacinto Rv abv Lk Houston nr Porter, TX",
+  "state": "TX",
+  "latitude": 30.14116667,
+  "longitude": -95.3382222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork San Jacinto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/poet2",
+  "slug": "usgs-08068090",
+  "noaaForecastPath": "data/noaa-forecast/POET2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

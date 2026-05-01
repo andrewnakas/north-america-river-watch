@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16077000",
+  "key": "16077000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16077000",
+  "name": "MAKALEHA DITCH NR KEALIA, KAUAI, HI",
+  "waterbody": "MAKALEHA DITCH NR KEALIA, KAUAI, HI",
+  "state": "HI",
+  "latitude": 22.11518889,
+  "longitude": -159.364961,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16077000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

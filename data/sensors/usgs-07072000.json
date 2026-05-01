@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07072000",
+  "key": "07072000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07072000",
+  "name": "Eleven Point River near Ravenden Springs, AR",
+  "waterbody": "Eleven Point River near Ravenden Springs, AR",
+  "state": "AR",
+  "latitude": 36.34638889,
+  "longitude": -91.1141667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVSA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eleven Point River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvsa4",
+  "slug": "usgs-07072000",
+  "noaaForecastPath": "data/noaa-forecast/RVSA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

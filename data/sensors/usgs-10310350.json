@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10310350",
+  "key": "10310350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10310350",
+  "name": "MILLER SPGS NR SHERIDAN, NV",
+  "waterbody": "MILLER SPGS NR SHERIDAN, NV",
+  "state": "NV",
+  "latitude": 38.87851766,
+  "longitude": -119.8196226,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10310350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15087810",
+  "key": "15087810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087810",
+  "name": "SAWMILL C BL U TAILRACE NR SITKA AK",
+  "waterbody": "SAWMILL C BL U TAILRACE NR SITKA AK",
+  "state": "AK",
+  "latitude": 57.06094209,
+  "longitude": -135.2115356,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWMA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sawmill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swma2",
+  "slug": "usgs-15087810",
+  "noaaForecastPath": "data/noaa-forecast/SWMA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

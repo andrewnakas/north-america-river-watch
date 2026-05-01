@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067280",
+  "key": "08067280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067280",
+  "name": "Turtle Bayou at I-10 nr Hankamer, TX",
+  "waterbody": "Turtle Bayou at I-10 nr Hankamer, TX",
+  "state": "TX",
+  "latitude": 29.84058056,
+  "longitude": -94.654225,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

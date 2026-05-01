@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09223000",
+  "key": "09223000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09223000",
+  "name": "HAMS FORK BELOW POLE CREEK, NEAR FRONTIER, WY",
+  "waterbody": "HAMS FORK BELOW POLE CREEK, NEAR FRONTIER, WY",
+  "state": "WY",
+  "latitude": 42.11088889,
+  "longitude": -110.7094167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMFW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hams Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmfw4",
+  "slug": "usgs-09223000",
+  "noaaForecastPath": "data/noaa-forecast/HMFW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

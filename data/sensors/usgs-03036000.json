@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03036000",
+  "key": "03036000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03036000",
+  "name": "Mahoning Creek at Mahoning Creek Dam, PA",
+  "waterbody": "Mahoning Creek at Mahoning Creek Dam, PA",
+  "state": "PA",
+  "latitude": 40.9275653,
+  "longitude": -79.2911508,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MHGP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mahoning Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mhgp1",
+  "slug": "usgs-03036000",
+  "noaaForecastPath": "data/noaa-forecast/MHGP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

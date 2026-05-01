@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10041000",
+  "key": "10041000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10041000",
+  "name": "THOMAS FORK NEAR WYOMING-IDAHO STATE LINE",
+  "waterbody": "THOMAS FORK NEAR WYOMING-IDAHO STATE LINE",
+  "state": "WY",
+  "latitude": 42.40215256,
+  "longitude": -111.0249154,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10041000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

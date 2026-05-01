@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03431790",
+  "key": "03431790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431790",
+  "name": "CUMBERLAND RIVER AT ASHLAND CITY, TN",
+  "waterbody": "CUMBERLAND RIVER AT ASHLAND CITY, TN",
+  "state": "TN",
+  "latitude": 36.27055556,
+  "longitude": -87.0761111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACIT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acit1",
+  "slug": "usgs-03431790",
+  "noaaForecastPath": "data/noaa-forecast/ACIT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

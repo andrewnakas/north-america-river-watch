@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02153500",
+  "key": "02153500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02153500",
+  "name": "BROAD RIVER NEAR GAFFNEY, SC",
+  "waterbody": "BROAD RIVER NEAR GAFFNEY, SC",
+  "state": "SC",
+  "latitude": 35.08899804,
+  "longitude": -81.5720518,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broad River in NC/SC",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brgs1",
+  "slug": "usgs-02153500",
+  "noaaForecastPath": "data/noaa-forecast/BRGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

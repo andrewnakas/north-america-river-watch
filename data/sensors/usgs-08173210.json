@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08173210",
+  "key": "08173210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08173210",
+  "name": "Plum Ck at US183 nr Luling, TX",
+  "waterbody": "Plum Ck at US183 nr Luling, TX",
+  "state": "TX",
+  "latitude": 29.6549222,
+  "longitude": -97.5997722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08173210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

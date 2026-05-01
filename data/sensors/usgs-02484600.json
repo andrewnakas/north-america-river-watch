@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02484600",
+  "key": "02484600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02484600",
+  "name": "COFFEE BOGUE AT LUDLOW, MS",
+  "waterbody": "COFFEE BOGUE AT LUDLOW, MS",
+  "state": "MS",
+  "latitude": 32.57388889,
+  "longitude": -89.7297222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBOM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coffee Bogue",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbom6",
+  "slug": "usgs-02484600",
+  "noaaForecastPath": "data/noaa-forecast/CBOM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

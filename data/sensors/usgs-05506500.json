@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05506500",
+  "key": "05506500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05506500",
+  "name": "Middle Fork Salt River at Paris, MO",
+  "waterbody": "Middle Fork Salt River at Paris, MO",
+  "state": "MO",
+  "latitude": 39.48351667,
+  "longitude": -92.0136583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05506500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

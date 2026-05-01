@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06102050",
+  "key": "06102050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06102050",
+  "name": "Marias River near Loma MT",
+  "waterbody": "Marias River near Loma MT",
+  "state": "MT",
+  "latitude": 47.94590278,
+  "longitude": -110.5808389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOMM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marias River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lomm8",
+  "slug": "usgs-06102050",
+  "noaaForecastPath": "data/noaa-forecast/LOMM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

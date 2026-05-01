@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01451650",
+  "key": "01451650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01451650",
+  "name": "Little Lehigh Creek at Tenth St. Br. at Allentown",
+  "waterbody": "Little Lehigh Creek at Tenth St. Br. at Allentown",
+  "state": "PA",
+  "latitude": 40.59648637,
+  "longitude": -75.4740717,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APAP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Lehigh Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/apap1",
+  "slug": "usgs-01451650",
+  "noaaForecastPath": "data/noaa-forecast/APAP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

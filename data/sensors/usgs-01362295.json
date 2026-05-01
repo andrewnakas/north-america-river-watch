@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362295",
+  "key": "01362295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362295",
+  "name": "PANTHER KILL AT PANTHER KILL ROAD NR PHOENICIA NY",
+  "waterbody": "PANTHER KILL AT PANTHER KILL ROAD NR PHOENICIA NY",
+  "state": "NY",
+  "latitude": 42.06561111,
+  "longitude": -74.35066667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362295",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

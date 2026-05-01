@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15743850",
+  "key": "15743850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15743850",
+  "name": "DAHL C NR KOBUK AK",
+  "waterbody": "DAHL C NR KOBUK AK",
+  "state": "AK",
+  "latitude": 66.945573,
+  "longitude": -156.9117744,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dahl Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcka2",
+  "slug": "usgs-15743850",
+  "noaaForecastPath": "data/noaa-forecast/DCKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14074900",
+  "key": "14074900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14074900",
+  "name": "SNOW CREEK NEAR SISTERS,OREG.",
+  "waterbody": "SNOW CREEK NEAR SISTERS,OREG.",
+  "state": "OR",
+  "latitude": 44.11622657,
+  "longitude": -121.6605945,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14074900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

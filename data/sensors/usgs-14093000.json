@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14093000",
+  "key": "14093000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14093000",
+  "name": "SHITIKE CREEK NEAR WARM SPRINGS, OR",
+  "waterbody": "SHITIKE CREEK NEAR WARM SPRINGS, OR",
+  "state": "OR",
+  "latitude": 44.7642856,
+  "longitude": -121.2364393,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14093000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

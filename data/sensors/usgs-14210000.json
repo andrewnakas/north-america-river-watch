@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14210000",
+  "key": "14210000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14210000",
+  "name": "CLACKAMAS RIVER AT ESTACADA, OR",
+  "waterbody": "CLACKAMAS RIVER AT ESTACADA, OR",
+  "state": "OR",
+  "latitude": 45.29984346,
+  "longitude": -122.3539746,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clackamas River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/esto3",
+  "slug": "usgs-14210000",
+  "noaaForecastPath": "data/noaa-forecast/ESTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03229500",
+  "key": "03229500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03229500",
+  "name": "Big Walnut Creek at Rees OH",
+  "waterbody": "Big Walnut Creek at Rees OH",
+  "state": "OH",
+  "latitude": 39.85673038,
+  "longitude": -82.9571255,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "REEO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Walnut Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/reeo1",
+  "slug": "usgs-03229500",
+  "noaaForecastPath": "data/noaa-forecast/REEO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05393500",
+  "key": "05393500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05393500",
+  "name": "SPIRIT RIVER AT SPIRIT FALLS, WI",
+  "waterbody": "SPIRIT RIVER AT SPIRIT FALLS, WI",
+  "state": "WI",
+  "latitude": 45.44916667,
+  "longitude": -89.9791667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRIW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spirit River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/triw3",
+  "slug": "usgs-05393500",
+  "noaaForecastPath": "data/noaa-forecast/TRIW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

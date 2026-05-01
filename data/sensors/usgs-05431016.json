@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05431016",
+  "key": "05431016",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05431016",
+  "name": "JACKSON CREEK AT MOUND ROAD NEAR ELKHORN, WI",
+  "waterbody": "JACKSON CREEK AT MOUND ROAD NEAR ELKHORN, WI",
+  "state": "WI",
+  "latitude": 42.6408333,
+  "longitude": -88.5608333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05431016",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

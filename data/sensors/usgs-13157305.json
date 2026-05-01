@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157305",
+  "key": "13157305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157305",
+  "name": "SAND DUNES FARM PUMPING PLANT NR HAMMETT ID",
+  "waterbody": "SAND DUNES FARM PUMPING PLANT NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.9396185,
+  "longitude": -115.667026,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157305",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

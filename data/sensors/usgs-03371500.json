@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03371500",
+  "key": "03371500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03371500",
+  "name": "EAST FORK WHITE RIVER NEAR BEDFORD, IN",
+  "waterbody": "EAST FORK WHITE RIVER NEAR BEDFORD, IN",
+  "state": "IN",
+  "latitude": 38.7703263,
+  "longitude": -86.4096988,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork White River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bedi3",
+  "slug": "usgs-03371500",
+  "noaaForecastPath": "data/noaa-forecast/BEDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

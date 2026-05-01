@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02308866",
+  "key": "02308866",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02308866",
+  "name": "ROOSEVELT CANAL BELOW STR 23-8 NR PINELLAS PARK FL",
+  "waterbody": "ROOSEVELT CANAL BELOW STR 23-8 NR PINELLAS PARK FL",
+  "state": "FL",
+  "latitude": 27.90780025,
+  "longitude": -82.6759327,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02308866",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

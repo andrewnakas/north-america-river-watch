@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15477761",
+  "key": "15477761",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15477761",
+  "name": "U WEST C NR BIG DELTA AK",
+  "waterbody": "U WEST C NR BIG DELTA AK",
+  "state": "AK",
+  "latitude": 64.416565,
+  "longitude": -144.8509555,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15477761",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

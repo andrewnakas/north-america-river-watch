@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15050000",
+  "key": "15050000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15050000",
+  "name": "GOLD C AT JUNEAU AK",
+  "waterbody": "GOLD C AT JUNEAU AK",
+  "state": "AK",
+  "latitude": 58.30661738,
+  "longitude": -134.403159,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JNEA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gastineau Channel Tide Gauge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jnea2",
+  "slug": "usgs-15050000",
+  "noaaForecastPath": "data/noaa-forecast/JNEA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

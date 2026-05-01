@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02026000",
+  "key": "02026000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02026000",
+  "name": "JAMES RIVER AT BENT CREEK, VA",
+  "waterbody": "JAMES RIVER AT BENT CREEK, VA",
+  "state": "VA",
+  "latitude": 37.5362539,
+  "longitude": -78.8294611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BECV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River (VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/becv2",
+  "slug": "usgs-02026000",
+  "noaaForecastPath": "data/noaa-forecast/BECV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

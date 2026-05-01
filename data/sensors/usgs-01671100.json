@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01671100",
+  "key": "01671100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01671100",
+  "name": "LITTLE RIVER NEAR DOSWELL, VA",
+  "waterbody": "LITTLE RIVER NEAR DOSWELL, VA",
+  "state": "VA",
+  "latitude": 37.8726401,
+  "longitude": -77.5130392,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTTV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lttv2",
+  "slug": "usgs-01671100",
+  "noaaForecastPath": "data/noaa-forecast/LTTV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01398102",
+  "key": "01398102",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01398102",
+  "name": "South Branch Raritan River at South Branch NJ",
+  "waterbody": "South Branch Raritan River at South Branch NJ",
+  "state": "NJ",
+  "latitude": 40.54694444,
+  "longitude": -74.69638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBNN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Raritan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbnn4",
+  "slug": "usgs-01398102",
+  "noaaForecastPath": "data/noaa-forecast/SBNN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08061750",
+  "key": "08061750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08061750",
+  "name": "E Fk Trinity Rv nr Forney, TX",
+  "waterbody": "E Fk Trinity Rv nr Forney, TX",
+  "state": "TX",
+  "latitude": 32.7742947,
+  "longitude": -96.5035991,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08061750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

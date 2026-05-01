@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01576706",
+  "key": "01576706",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576706",
+  "name": "Little Conestoga Cr, Columbia Ave at Wheatland PA",
+  "waterbody": "Little Conestoga Cr, Columbia Ave at Wheatland PA",
+  "state": "PA",
+  "latitude": 40.03805556,
+  "longitude": -76.34288889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01576706",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

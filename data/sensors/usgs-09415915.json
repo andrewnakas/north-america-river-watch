@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415915",
+  "key": "09415915",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415915",
+  "name": "WARM SPGS W INFLOW NR MOAPA, NV",
+  "waterbody": "WARM SPGS W INFLOW NR MOAPA, NV",
+  "state": "NV",
+  "latitude": 36.71051944,
+  "longitude": -114.7146056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415915",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

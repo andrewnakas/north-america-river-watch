@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14335200",
+  "key": "14335200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14335200",
+  "name": "SO FK BIG BUTTE CR AB WILLOW CR NR B FLS,OREG.",
+  "waterbody": "SO FK BIG BUTTE CR AB WILLOW CR NR B FLS,OREG.",
+  "state": "OR",
+  "latitude": 42.5206857,
+  "longitude": -122.4858634,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14335200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

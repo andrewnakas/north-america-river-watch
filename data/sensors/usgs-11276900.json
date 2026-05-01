@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11276900",
+  "key": "11276900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11276900",
+  "name": "TUOLUMNE R BL EARLY INTAKE NR MATHER CA",
+  "waterbody": "TUOLUMNE R BL EARLY INTAKE NR MATHER CA",
+  "state": "CA",
+  "latitude": 37.88157506,
+  "longitude": -119.9701483,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11276900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

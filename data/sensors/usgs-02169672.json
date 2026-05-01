@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02169672",
+  "key": "02169672",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169672",
+  "name": "CEDAR CREEK AT CONGAREE NP NEAR GADSDEN, SC",
+  "waterbody": "CEDAR CREEK AT CONGAREE NP NEAR GADSDEN, SC",
+  "state": "SC",
+  "latitude": 33.81626536,
+  "longitude": -80.8273121,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCKS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (Richland County)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccks1",
+  "slug": "usgs-02169672",
+  "noaaForecastPath": "data/noaa-forecast/CCKS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

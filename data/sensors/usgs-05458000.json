@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05458000",
+  "key": "05458000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05458000",
+  "name": "Little Cedar River near Ionia, IA",
+  "waterbody": "Little Cedar River near Ionia, IA",
+  "state": "IA",
+  "latitude": 43.03327778,
+  "longitude": -92.5035444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IONI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ioni4",
+  "slug": "usgs-05458000",
+  "noaaForecastPath": "data/noaa-forecast/IONI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

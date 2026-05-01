@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03216350",
+  "key": "03216350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03216350",
+  "name": "LITTLE SANDY RIVER BELOW GRAYSON DAM NEAR LEON, KY",
+  "waterbody": "LITTLE SANDY RIVER BELOW GRAYSON DAM NEAR LEON, KY",
+  "state": "KY",
+  "latitude": 38.25397068,
+  "longitude": -82.9910027,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sandy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gylk2",
+  "slug": "usgs-03216350",
+  "noaaForecastPath": "data/noaa-forecast/GYLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

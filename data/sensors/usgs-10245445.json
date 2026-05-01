@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10245445",
+  "key": "10245445",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245445",
+  "name": "ILLIPAH CK NR HAMILTON, NV",
+  "waterbody": "ILLIPAH CK NR HAMILTON, NV",
+  "state": "NV",
+  "latitude": 39.31776389,
+  "longitude": -115.3950583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10245445",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

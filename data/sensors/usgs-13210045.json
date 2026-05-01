@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13210045",
+  "key": "13210045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13210045",
+  "name": "Boise R near Middleton, ID",
+  "waterbody": "Boise R near Middleton, ID",
+  "state": "ID",
+  "latitude": 43.681756,
+  "longitude": -116.558706,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13210045",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

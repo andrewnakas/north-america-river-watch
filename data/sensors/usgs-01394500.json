@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01394500",
+  "key": "01394500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01394500",
+  "name": "Rahway River near Springfield NJ",
+  "waterbody": "Rahway River near Springfield NJ",
+  "state": "NJ",
+  "latitude": 40.6875,
+  "longitude": -74.3116667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPGN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rahway River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spgn4",
+  "slug": "usgs-01394500",
+  "noaaForecastPath": "data/noaa-forecast/SPGN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12211190",
+  "key": "12211190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12211190",
+  "name": "NOOKSACK R OVERFLOW AT EMERSON RD AT EVERSON, WA",
+  "waterbody": "NOOKSACK R OVERFLOW AT EMERSON RD AT EVERSON, WA",
+  "state": "WA",
+  "latitude": 48.91339469,
+  "longitude": -122.3404367,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12211190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

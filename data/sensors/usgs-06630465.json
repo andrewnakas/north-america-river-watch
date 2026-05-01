@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06630465",
+  "key": "06630465",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06630465",
+  "name": "Medicine Bow R ab E Fk Med Bow nr Elk Mountain, WY",
+  "waterbody": "Medicine Bow R ab E Fk Med Bow nr Elk Mountain, WY",
+  "state": "WY",
+  "latitude": 41.54777778,
+  "longitude": -106.4097222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medicine Bow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbrw4",
+  "slug": "usgs-06630465",
+  "noaaForecastPath": "data/noaa-forecast/MBRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

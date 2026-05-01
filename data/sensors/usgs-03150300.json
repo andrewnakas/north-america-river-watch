@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03150300",
+  "key": "03150300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03150300",
+  "name": "Muskingum River near Beverly OH",
+  "waterbody": "Muskingum River near Beverly OH",
+  "state": "OH",
+  "latitude": 39.58062844,
+  "longitude": -81.6712409,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03150300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

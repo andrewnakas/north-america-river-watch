@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05487980",
+  "key": "05487980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05487980",
+  "name": "White Breast Creek near Dallas, IA",
+  "waterbody": "White Breast Creek near Dallas, IA",
+  "state": "IA",
+  "latitude": 41.24644444,
+  "longitude": -93.2901389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLLI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Breast Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlli4",
+  "slug": "usgs-05487980",
+  "noaaForecastPath": "data/noaa-forecast/DLLI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

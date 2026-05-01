@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02025652",
+  "key": "02025652",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02025652",
+  "name": "HARRIS CREEK BELOW ROUTE 130 NEAR MONROE, VA",
+  "waterbody": "HARRIS CREEK BELOW ROUTE 130 NEAR MONROE, VA",
+  "state": "VA",
+  "latitude": 37.48527778,
+  "longitude": -79.1666667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Harris Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcrv2",
+  "slug": "usgs-02025652",
+  "noaaForecastPath": "data/noaa-forecast/HCRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

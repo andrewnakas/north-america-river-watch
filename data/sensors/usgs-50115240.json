@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50115240",
+  "key": "50115240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50115240",
+  "name": "RIO PORTUGUES AT PARQUE CEREMONIAL TIBES NR PONCE",
+  "waterbody": "RIO PORTUGUES AT PARQUE CEREMONIAL TIBES NR PONCE",
+  "state": "PR",
+  "latitude": 18.043569,
+  "longitude": -66.621508,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRNP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Portugues",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prnp4",
+  "slug": "usgs-50115240",
+  "noaaForecastPath": "data/noaa-forecast/PRNP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

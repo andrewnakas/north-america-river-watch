@@ -1,0 +1,19 @@
+{
+  "id": "usgs:010965305",
+  "key": "010965305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "010965305",
+  "name": "MERRIMACK R NR TYNGSBOROUGH BRIDGE TYNGSBOROUGH MA",
+  "waterbody": "MERRIMACK R NR TYNGSBOROUGH BRIDGE TYNGSBOROUGH MA",
+  "state": "MA",
+  "latitude": 42.67738889,
+  "longitude": -71.4210556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-010965305",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14182500",
+  "key": "14182500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14182500",
+  "name": "LITTLE NORTH SANTIAM RIVER NEAR MEHAMA, OR",
+  "waterbody": "LITTLE NORTH SANTIAM RIVER NEAR MEHAMA, OR",
+  "state": "OR",
+  "latitude": 44.7915108,
+  "longitude": -122.5789738,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little N. Santiam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsmo3",
+  "slug": "usgs-14182500",
+  "noaaForecastPath": "data/noaa-forecast/LSMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

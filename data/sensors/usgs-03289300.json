@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03289300",
+  "key": "03289300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03289300",
+  "name": "SOUTH ELKHORN CREEK NEAR MIDWAY, KY",
+  "waterbody": "SOUTH ELKHORN CREEK NEAR MIDWAY, KY",
+  "state": "KY",
+  "latitude": 38.1409082,
+  "longitude": -84.645222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDWK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Elkhorn Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdwk2",
+  "slug": "usgs-03289300",
+  "noaaForecastPath": "data/noaa-forecast/MDWK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

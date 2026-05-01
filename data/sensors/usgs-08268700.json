@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08268700",
+  "key": "08268700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08268700",
+  "name": "RIO GRANDE NEAR ARROYO HONDO, NM",
+  "waterbody": "RIO GRANDE NEAR ARROYO HONDO, NM",
+  "state": "NM",
+  "latitude": 36.53446658,
+  "longitude": -105.710012,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08268700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

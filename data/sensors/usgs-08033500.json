@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08033500",
+  "key": "08033500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08033500",
+  "name": "Neches Rv nr Rockland, TX",
+  "waterbody": "Neches Rv nr Rockland, TX",
+  "state": "TX",
+  "latitude": 31.025,
+  "longitude": -94.3994444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neches River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rokt2",
+  "slug": "usgs-08033500",
+  "noaaForecastPath": "data/noaa-forecast/ROKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

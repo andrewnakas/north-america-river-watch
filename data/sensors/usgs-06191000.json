@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06191000",
+  "key": "06191000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06191000",
+  "name": "Gardner River near Mammoth, YNP",
+  "waterbody": "Gardner River near Mammoth, YNP",
+  "state": "MT",
+  "latitude": 44.9923444,
+  "longitude": -110.690975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06191000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04206425",
+  "key": "04206425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04206425",
+  "name": "Cuyahoga River at Jaite OH",
+  "waterbody": "Cuyahoga River at Jaite OH",
+  "state": "OH",
+  "latitude": 41.28894396,
+  "longitude": -81.56511929,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAIO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuyahoga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jaio1",
+  "slug": "usgs-04206425",
+  "noaaForecastPath": "data/noaa-forecast/JAIO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

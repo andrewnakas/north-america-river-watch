@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08150700",
+  "key": "08150700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08150700",
+  "name": "Llano Rv nr Mason, TX",
+  "waterbody": "Llano Rv nr Mason, TX",
+  "state": "TX",
+  "latitude": 30.66073685,
+  "longitude": -99.1092185,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Llano River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlrt2",
+  "slug": "usgs-08150700",
+  "noaaForecastPath": "data/noaa-forecast/MLRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

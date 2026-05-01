@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03505550",
+  "key": "03505550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03505550",
+  "name": "NANTAHALA RIVER NEAR HEWITT, NC",
+  "waterbody": "NANTAHALA RIVER NEAR HEWITT, NC",
+  "state": "NC",
+  "latitude": 35.305,
+  "longitude": -83.6522222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HEWN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nantahala River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hewn7",
+  "slug": "usgs-03505550",
+  "noaaForecastPath": "data/noaa-forecast/HEWN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

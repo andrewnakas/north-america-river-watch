@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07040100",
+  "key": "07040100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07040100",
+  "name": "St. Francis River at St. Francis, AR",
+  "waterbody": "St. Francis River at St. Francis, AR",
+  "state": "AR",
+  "latitude": 36.45555556,
+  "longitude": -90.1377778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFRA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Francis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfra4",
+  "slug": "usgs-07040100",
+  "noaaForecastPath": "data/noaa-forecast/SFRA4.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

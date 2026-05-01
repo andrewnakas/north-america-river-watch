@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09019850",
+  "key": "09019850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09019850",
+  "name": "WILLOW CREEK BELOW CABIN CREEK NEAR GRANBY, CO",
+  "waterbody": "WILLOW CREEK BELOW CABIN CREEK NEAR GRANBY, CO",
+  "state": "CO",
+  "latitude": 40.21426944,
+  "longitude": -106.0506611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09019850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

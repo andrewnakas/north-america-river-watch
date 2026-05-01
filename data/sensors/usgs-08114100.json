@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08114100",
+  "key": "08114100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08114100",
+  "name": "Brazos Rv nr Sugar Land, TX",
+  "waterbody": "Brazos Rv nr Sugar Land, TX",
+  "state": "TX",
+  "latitude": 29.56768889,
+  "longitude": -95.6681417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slnt2",
+  "slug": "usgs-08114100",
+  "noaaForecastPath": "data/noaa-forecast/SLNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

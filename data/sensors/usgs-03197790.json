@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03197790",
+  "key": "03197790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03197790",
+  "name": "LITTLE SANDY CREEK NEAR ELKVIEW,WV",
+  "waterbody": "LITTLE SANDY CREEK NEAR ELKVIEW,WV",
+  "state": "WV",
+  "latitude": 38.45594444,
+  "longitude": -81.5011944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSCW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sandy Creek (WV)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lscw2",
+  "slug": "usgs-03197790",
+  "noaaForecastPath": "data/noaa-forecast/LSCW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

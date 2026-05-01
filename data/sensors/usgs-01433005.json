@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01433005",
+  "key": "01433005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01433005",
+  "name": "MONGAUP R BELOW SWINGING BRIDGE RESERVOIR NY",
+  "waterbody": "MONGAUP R BELOW SWINGING BRIDGE RESERVOIR NY",
+  "state": "NY",
+  "latitude": 41.56727778,
+  "longitude": -74.78327778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01433005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06879900",
+  "key": "06879900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06879900",
+  "name": "BIG BLUE RIVER AT SURPRISE, NEBR.",
+  "waterbody": "BIG BLUE RIVER AT SURPRISE, NEBR.",
+  "state": "NE",
+  "latitude": 41.10194444,
+  "longitude": -97.3105556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRPN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srpn1",
+  "slug": "usgs-06879900",
+  "noaaForecastPath": "data/noaa-forecast/SRPN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

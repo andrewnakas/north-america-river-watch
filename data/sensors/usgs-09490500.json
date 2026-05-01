@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09490500",
+  "key": "09490500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09490500",
+  "name": "BLACK RIVER NEAR FORT APACHE, AZ.",
+  "waterbody": "BLACK RIVER NEAR FORT APACHE, AZ.",
+  "state": "AZ",
+  "latitude": 33.71282949,
+  "longitude": -110.2117674,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09490500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

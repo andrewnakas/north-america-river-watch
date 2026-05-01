@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01144500",
+  "key": "01144500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01144500",
+  "name": "CONNECTICUT RIVER AT WEST LEBANON, NH",
+  "waterbody": "CONNECTICUT RIVER AT WEST LEBANON, NH",
+  "state": "NH",
+  "latitude": 43.64618187,
+  "longitude": -72.3123134,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLBN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlbn3",
+  "slug": "usgs-01144500",
+  "noaaForecastPath": "data/noaa-forecast/WLBN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

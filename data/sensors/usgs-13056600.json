@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13056600",
+  "key": "13056600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13056600",
+  "name": "TEXAS SLOUGH NR REXBURG ID",
+  "waterbody": "TEXAS SLOUGH NR REXBURG ID",
+  "state": "ID",
+  "latitude": 43.7879665,
+  "longitude": -111.8963571,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13056600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

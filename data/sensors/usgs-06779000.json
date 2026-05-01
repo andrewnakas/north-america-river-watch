@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06779000",
+  "key": "06779000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06779000",
+  "name": "MIDDLE LOUP R. AT ARCADIA, NEBR.",
+  "waterbody": "MIDDLE LOUP R. AT ARCADIA, NEBR.",
+  "state": "NE",
+  "latitude": 41.42194444,
+  "longitude": -99.1316667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06779000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

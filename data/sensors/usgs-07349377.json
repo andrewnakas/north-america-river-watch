@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07349377",
+  "key": "07349377",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07349377",
+  "name": "Flat River east of Caplis, LA",
+  "waterbody": "Flat River east of Caplis, LA",
+  "state": "LA",
+  "latitude": 32.40413889,
+  "longitude": -93.5997778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07349377",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

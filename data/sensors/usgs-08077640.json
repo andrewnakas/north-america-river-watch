@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08077640",
+  "key": "08077640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08077640",
+  "name": "Dickinson Bayou at FM 517 nr Alvin, TX",
+  "waterbody": "Dickinson Bayou at FM 517 nr Alvin, TX",
+  "state": "TX",
+  "latitude": 29.436075,
+  "longitude": -95.1701306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dickinson Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnbt2",
+  "slug": "usgs-08077640",
+  "noaaForecastPath": "data/noaa-forecast/DNBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

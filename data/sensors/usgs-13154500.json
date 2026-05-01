@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13154500",
+  "key": "13154500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13154500",
+  "name": "SNAKE RIVER AT KING HILL ID",
+  "waterbody": "SNAKE RIVER AT KING HILL ID",
+  "state": "ID",
+  "latitude": 43.0022222,
+  "longitude": -115.2025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKHI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skhi1",
+  "slug": "usgs-13154500",
+  "noaaForecastPath": "data/noaa-forecast/SKHI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

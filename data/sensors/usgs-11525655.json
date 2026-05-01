@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11525655",
+  "key": "11525655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11525655",
+  "name": "TRINITY R BL LIMEKILN GULCH NR DOUGLAS CITY CA",
+  "waterbody": "TRINITY R BL LIMEKILN GULCH NR DOUGLAS CITY CA",
+  "state": "CA",
+  "latitude": 40.67261385,
+  "longitude": -122.9205459,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11525655",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

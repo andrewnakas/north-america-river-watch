@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03249505",
+  "key": "03249505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03249505",
+  "name": "LICKING RIVER AT HWY 60 AT FARMERS, KY",
+  "waterbody": "LICKING RIVER AT HWY 60 AT FARMERS, KY",
+  "state": "KY",
+  "latitude": 38.14008125,
+  "longitude": -83.5571327,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRMK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Licking River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frmk2",
+  "slug": "usgs-03249505",
+  "noaaForecastPath": "data/noaa-forecast/FRMK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

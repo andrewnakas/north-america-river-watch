@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03371650",
+  "key": "03371650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03371650",
+  "name": "NORTH FORK SALT CREEK AT NASHVILLE, IN",
+  "waterbody": "NORTH FORK SALT CREEK AT NASHVILLE, IN",
+  "state": "IN",
+  "latitude": 39.20141667,
+  "longitude": -86.2471111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFSI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Salt Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfsi3",
+  "slug": "usgs-03371650",
+  "noaaForecastPath": "data/noaa-forecast/NFSI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

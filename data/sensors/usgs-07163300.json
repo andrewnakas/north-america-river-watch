@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07163300",
+  "key": "07163300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07163300",
+  "name": "Cimarron River near Yale, OK",
+  "waterbody": "Cimarron River near Yale, OK",
+  "state": "OK",
+  "latitude": 36.0922222,
+  "longitude": -96.7136111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07163300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

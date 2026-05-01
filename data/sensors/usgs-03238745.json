@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03238745",
+  "key": "03238745",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03238745",
+  "name": "TWELVEMILE CREEK AT HIGHWAY 1997 NR ALEXANDRIA, KY",
+  "waterbody": "TWELVEMILE CREEK AT HIGHWAY 1997 NR ALEXANDRIA, KY",
+  "state": "KY",
+  "latitude": 38.9514529,
+  "longitude": -84.3382712,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twelvemile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmck2",
+  "slug": "usgs-03238745",
+  "noaaForecastPath": "data/noaa-forecast/TMCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

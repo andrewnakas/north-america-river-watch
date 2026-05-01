@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08371500",
+  "key": "08371500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08371500",
+  "name": "Rio Grande abv Rio Conchos nr Presidio, TX",
+  "waterbody": "Rio Grande abv Rio Conchos nr Presidio, TX",
+  "state": "TX",
+  "latitude": 29.6210127,
+  "longitude": -104.4810367,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08371500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

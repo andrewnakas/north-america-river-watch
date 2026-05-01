@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03124800",
+  "key": "03124800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03124800",
+  "name": "Tuscarawas River at New Philadelphia OH",
+  "waterbody": "Tuscarawas River at New Philadelphia OH",
+  "state": "OH",
+  "latitude": 40.4808984,
+  "longitude": -81.4481707,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWPO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwpo1",
+  "slug": "usgs-03124800",
+  "noaaForecastPath": "data/noaa-forecast/NWPO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

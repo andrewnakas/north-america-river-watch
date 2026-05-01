@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12113390",
+  "key": "12113390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12113390",
+  "name": "DUWAMISH RIVER AT GOLF COURSE AT TUKWILA, WA",
+  "waterbody": "DUWAMISH RIVER AT GOLF COURSE AT TUKWILA, WA",
+  "state": "WA",
+  "latitude": 47.4789861,
+  "longitude": -122.2587333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWTW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duwamish River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwtw1",
+  "slug": "usgs-12113390",
+  "noaaForecastPath": "data/noaa-forecast/DWTW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

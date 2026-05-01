@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06052500",
+  "key": "06052500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06052500",
+  "name": "Gallatin River at Logan MT",
+  "waterbody": "Gallatin River at Logan MT",
+  "state": "MT",
+  "latitude": 45.8862472,
+  "longitude": -111.4420083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOGM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gallatin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/logm8",
+  "slug": "usgs-06052500",
+  "noaaForecastPath": "data/noaa-forecast/LOGM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

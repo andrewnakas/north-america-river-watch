@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04174490",
+  "key": "04174490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04174490",
+  "name": "ALLEN CREEK AT MOUTH AT ANN ARBOR, MI",
+  "waterbody": "ALLEN CREEK AT MOUTH AT ANN ARBOR, MI",
+  "state": "MI",
+  "latitude": 42.2897222,
+  "longitude": -83.7461111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04174490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

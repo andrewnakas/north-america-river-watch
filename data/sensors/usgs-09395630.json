@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09395630",
+  "key": "09395630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09395630",
+  "name": "PUERCO RIVER NR MANUELITO, NM",
+  "waterbody": "PUERCO RIVER NR MANUELITO, NM",
+  "state": "NM",
+  "latitude": 35.46196735,
+  "longitude": -108.9428665,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09395630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07351500",
+  "key": "07351500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07351500",
+  "name": "Cypress Bayou near Keithville, LA",
+  "waterbody": "Cypress Bayou near Keithville, LA",
+  "state": "LA",
+  "latitude": 32.3,
+  "longitude": -93.8277778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07351500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

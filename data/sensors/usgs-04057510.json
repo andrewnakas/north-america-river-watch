@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04057510",
+  "key": "04057510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04057510",
+  "name": "STURGEON RIVER NEAR NAHMA JUNCTION, MI",
+  "waterbody": "STURGEON RIVER NEAR NAHMA JUNCTION, MI",
+  "state": "MI",
+  "latitude": 45.9430235,
+  "longitude": -86.7056997,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NJNM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sturgeon River - Delta Co",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/njnm4",
+  "slug": "usgs-04057510",
+  "noaaForecastPath": "data/noaa-forecast/NJNM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

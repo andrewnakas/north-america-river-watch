@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11152890",
+  "key": "11152890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11152890",
+  "name": "PACHECO C A BELL STATION CA",
+  "waterbody": "PACHECO C A BELL STATION CA",
+  "state": "CA",
+  "latitude": 37.034806,
+  "longitude": -121.310056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pacheco Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbsc1",
+  "slug": "usgs-11152890",
+  "noaaForecastPath": "data/noaa-forecast/PBSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

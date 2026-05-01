@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11085000",
+  "key": "11085000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11085000",
+  "name": "SAN GABRIEL R BL SANTA FE DAM NR BALDWIN PK CA",
+  "waterbody": "SAN GABRIEL R BL SANTA FE DAM NR BALDWIN PK CA",
+  "state": "CA",
+  "latitude": 34.11223019,
+  "longitude": -117.9695092,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFHC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Gabriel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfhc1",
+  "slug": "usgs-11085000",
+  "noaaForecastPath": "data/noaa-forecast/SFHC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

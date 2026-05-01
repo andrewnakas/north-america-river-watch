@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16759000",
+  "key": "16759000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16759000",
+  "name": "Hauani Gulch near Kamuela, HI",
+  "waterbody": "Hauani Gulch near Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.03801389,
+  "longitude": -155.6486139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16759000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

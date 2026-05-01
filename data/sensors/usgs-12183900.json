@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12183900",
+  "key": "12183900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12183900",
+  "name": "SKAGIT RIVER AT CORKINDALE, WA",
+  "waterbody": "SKAGIT RIVER AT CORKINDALE, WA",
+  "state": "WA",
+  "latitude": 48.5087222,
+  "longitude": -121.4684722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12183900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

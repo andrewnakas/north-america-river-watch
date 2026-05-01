@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05286290",
+  "key": "05286290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05286290",
+  "name": "CEDAR CREEK NEAR COOPERS CORNER, MN",
+  "waterbody": "CEDAR CREEK NEAR COOPERS CORNER, MN",
+  "state": "MN",
+  "latitude": 45.39190888,
+  "longitude": -93.2124489,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05286290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

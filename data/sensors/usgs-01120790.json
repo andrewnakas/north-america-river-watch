@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01120790",
+  "key": "01120790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01120790",
+  "name": "NATCHAUG RIVER AT MARCY RD. NEAR CHAPLIN, CT",
+  "waterbody": "NATCHAUG RIVER AT MARCY RD. NEAR CHAPLIN, CT",
+  "state": "CT",
+  "latitude": 41.81616944,
+  "longitude": -72.10616944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHAC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Natchaug River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chac3",
+  "slug": "usgs-01120790",
+  "noaaForecastPath": "data/noaa-forecast/CHAC3.json",
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

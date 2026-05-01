@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02223110",
+  "key": "02223110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02223110",
+  "name": "BUFFALO CREEK AT GA 272, NEAR OCONEE, GA",
+  "waterbody": "BUFFALO CREEK AT GA 272, NEAR OCONEE, GA",
+  "state": "GA",
+  "latitude": 32.89166667,
+  "longitude": -82.9615278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFOG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfog1",
+  "slug": "usgs-02223110",
+  "noaaForecastPath": "data/noaa-forecast/BFOG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

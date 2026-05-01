@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08151100",
+  "key": "08151100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08151100",
+  "name": "Llano Rv at CR 102 nr Llano, TX",
+  "waterbody": "Llano Rv at CR 102 nr Llano, TX",
+  "state": "TX",
+  "latitude": 30.72749444,
+  "longitude": -98.8142861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Llano River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrtt2",
+  "slug": "usgs-08151100",
+  "noaaForecastPath": "data/noaa-forecast/LRTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:412630070400301",
+  "key": "412630070400301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412630070400301",
+  "name": "BLACKWATER BROOK AT LAMBERTS COVE, MA",
+  "waterbody": "BLACKWATER BROOK AT LAMBERTS COVE, MA",
+  "state": "MA",
+  "latitude": 41.44182868,
+  "longitude": -70.6670676,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-412630070400301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

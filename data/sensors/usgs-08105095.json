@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105095",
+  "key": "08105095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105095",
+  "name": "Berry Ck at Airport Rd nr Georgetown, TX",
+  "waterbody": "Berry Ck at Airport Rd nr Georgetown, TX",
+  "state": "TX",
+  "latitude": 30.70324685,
+  "longitude": -97.6663985,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Berry Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gtwt2",
+  "slug": "usgs-08105095",
+  "noaaForecastPath": "data/noaa-forecast/GTWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

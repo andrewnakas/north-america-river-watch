@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0208925200",
+  "key": "0208925200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208925200",
+  "name": "BEAR CREEK AT MAYS STORE, NC",
+  "waterbody": "BEAR CREEK AT MAYS STORE, NC",
+  "state": "NC",
+  "latitude": 35.2747222,
+  "longitude": -77.7944444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0208925200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

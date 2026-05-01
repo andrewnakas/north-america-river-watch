@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05520980",
+  "key": "05520980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05520980",
+  "name": "IROQUOIS RIVER NEAR PARR, IN",
+  "waterbody": "IROQUOIS RIVER NEAR PARR, IN",
+  "state": "IN",
+  "latitude": 41.01275,
+  "longitude": -87.2431944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05520980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

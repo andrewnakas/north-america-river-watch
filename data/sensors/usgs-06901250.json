@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06901250",
+  "key": "06901250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06901250",
+  "name": "Little East Locust Creek near Browning, MO",
+  "waterbody": "Little East Locust Creek near Browning, MO",
+  "state": "MO",
+  "latitude": 40.06557598,
+  "longitude": -93.1404847,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06901250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

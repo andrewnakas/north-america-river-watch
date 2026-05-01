@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08395500",
+  "key": "08395500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08395500",
+  "name": "PECOS RIVER NEAR LAKE ARTHUR, NM",
+  "waterbody": "PECOS RIVER NEAR LAKE ARTHUR, NM",
+  "state": "NM",
+  "latitude": 32.98863056,
+  "longitude": -104.3239556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LATN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/latn5",
+  "slug": "usgs-08395500",
+  "noaaForecastPath": "data/noaa-forecast/LATN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178500",
+  "key": "08178500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178500",
+  "name": "San Pedro Ck at Furnish St, San Antonio, TX",
+  "waterbody": "San Pedro Ck at Furnish St, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.40634484,
+  "longitude": -98.5108795,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Pedro Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saft2",
+  "slug": "usgs-08178500",
+  "noaaForecastPath": "data/noaa-forecast/SAFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

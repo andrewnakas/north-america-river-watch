@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10315600",
+  "key": "10315600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10315600",
+  "name": "MARYS RV BLW TWIN BUTTES NR DEETH, NV",
+  "waterbody": "MARYS RV BLW TWIN BUTTES NR DEETH, NV",
+  "state": "NV",
+  "latitude": 41.15436386,
+  "longitude": -115.2711684,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10315600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

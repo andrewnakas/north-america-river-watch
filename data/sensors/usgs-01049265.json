@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01049265",
+  "key": "01049265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01049265",
+  "name": "Kennebec River at North Sidney, Maine",
+  "waterbody": "Kennebec River at North Sidney, Maine",
+  "state": "ME",
+  "latitude": 44.4722222,
+  "longitude": -69.68388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIDM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kennebec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sidm1",
+  "slug": "usgs-01049265",
+  "noaaForecastPath": "data/noaa-forecast/SIDM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

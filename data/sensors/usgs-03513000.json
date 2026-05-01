@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03513000",
+  "key": "03513000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03513000",
+  "name": "TUCKASEGEE RIVER AT BRYSON CITY, NC",
+  "waterbody": "TUCKASEGEE RIVER AT BRYSON CITY, NC",
+  "state": "NC",
+  "latitude": 35.4275,
+  "longitude": -83.4469444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TKSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuckasegee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tksn7",
+  "slug": "usgs-03513000",
+  "noaaForecastPath": "data/noaa-forecast/TKSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

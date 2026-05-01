@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08167500",
+  "key": "08167500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08167500",
+  "name": "Guadalupe Rv nr Spring Branch, TX",
+  "waterbody": "Guadalupe Rv nr Spring Branch, TX",
+  "state": "TX",
+  "latitude": 29.8604957,
+  "longitude": -98.3836275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srgt2",
+  "slug": "usgs-08167500",
+  "noaaForecastPath": "data/noaa-forecast/SRGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

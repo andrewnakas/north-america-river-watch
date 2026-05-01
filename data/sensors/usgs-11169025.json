@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11169025",
+  "key": "11169025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11169025",
+  "name": "GUADALUPE R ABV HWY 101 A SAN JOSE CA",
+  "waterbody": "GUADALUPE R ABV HWY 101 A SAN JOSE CA",
+  "state": "CA",
+  "latitude": 37.3738296,
+  "longitude": -121.9330129,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUTC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River (CA)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gutc1",
+  "slug": "usgs-11169025",
+  "noaaForecastPath": "data/noaa-forecast/GUTC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

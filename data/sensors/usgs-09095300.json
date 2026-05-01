@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09095300",
+  "key": "09095300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09095300",
+  "name": "DRY FORK AT UPPER STATION NEAR DE BEQUE, CO.",
+  "waterbody": "DRY FORK AT UPPER STATION NEAR DE BEQUE, CO.",
+  "state": "CO",
+  "latitude": 39.3747361,
+  "longitude": -108.3172694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09095300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

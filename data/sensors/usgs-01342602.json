@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01342602",
+  "key": "01342602",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01342602",
+  "name": "MOHAWK RIVER NEAR UTICA NY",
+  "waterbody": "MOHAWK RIVER NEAR UTICA NY",
+  "state": "NY",
+  "latitude": 43.09413889,
+  "longitude": -75.15780556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01342602",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

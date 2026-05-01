@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298527",
+  "key": "02298527",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298527",
+  "name": "OGLEBY CK DNSTR FROM BOGGY CK NEAR MYAKKA CITY FL",
+  "waterbody": "OGLEBY CK DNSTR FROM BOGGY CK NEAR MYAKKA CITY FL",
+  "state": "FL",
+  "latitude": 27.40365397,
+  "longitude": -82.181756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OGLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogleby Creek Downstream From Boggy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oglf1",
+  "slug": "usgs-02298527",
+  "noaaForecastPath": "data/noaa-forecast/OGLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

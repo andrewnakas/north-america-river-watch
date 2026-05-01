@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01381900",
+  "key": "01381900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01381900",
+  "name": "Passaic River at Pine Brook NJ",
+  "waterbody": "Passaic River at Pine Brook NJ",
+  "state": "NJ",
+  "latitude": 40.8625,
+  "longitude": -74.3216667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PINN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Passaic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pinn4",
+  "slug": "usgs-01381900",
+  "noaaForecastPath": "data/noaa-forecast/PINN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

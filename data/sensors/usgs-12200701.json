@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12200701",
+  "key": "12200701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12200701",
+  "name": "FISHER CREEK NEAR CONWAY, WA",
+  "waterbody": "FISHER CREEK NEAR CONWAY, WA",
+  "state": "WA",
+  "latitude": 48.31899087,
+  "longitude": -122.3251552,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12200701",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

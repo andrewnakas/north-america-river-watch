@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05482500",
+  "key": "05482500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05482500",
+  "name": "North Raccoon River near Jefferson, IA",
+  "waterbody": "North Raccoon River near Jefferson, IA",
+  "state": "IA",
+  "latitude": 41.9878611,
+  "longitude": -94.3770833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EFWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Raccoon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/efwi4",
+  "slug": "usgs-05482500",
+  "noaaForecastPath": "data/noaa-forecast/EFWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

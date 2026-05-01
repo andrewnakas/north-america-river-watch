@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13155750",
+  "key": "13155750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13155750",
+  "name": "SAILOR CREEK PUMPING PLANT NR GLENNS FERRY ID",
+  "waterbody": "SAILOR CREEK PUMPING PLANT NR GLENNS FERRY ID",
+  "state": "ID",
+  "latitude": 42.93694444,
+  "longitude": -115.3827778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13155750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

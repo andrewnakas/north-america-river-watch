@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05446500",
+  "key": "05446500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05446500",
+  "name": "ROCK RIVER NEAR JOSLIN, IL",
+  "waterbody": "ROCK RIVER NEAR JOSLIN, IL",
+  "state": "IL",
+  "latitude": 41.5561111,
+  "longitude": -90.1852778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JOSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/josi2",
+  "slug": "usgs-05446500",
+  "noaaForecastPath": "data/noaa-forecast/JOSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

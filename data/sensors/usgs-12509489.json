@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12509489",
+  "key": "12509489",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12509489",
+  "name": "YAKIMA RIVER AT PROSSER, WA",
+  "waterbody": "YAKIMA RIVER AT PROSSER, WA",
+  "state": "WA",
+  "latitude": 46.2124361,
+  "longitude": -119.7656833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12509489",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

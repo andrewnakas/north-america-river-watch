@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04087050",
+  "key": "04087050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087050",
+  "name": "LITTLE MENOMONEE RIVER NEAR FREISTADT, WI",
+  "waterbody": "LITTLE MENOMONEE RIVER NEAR FREISTADT, WI",
+  "state": "WI",
+  "latitude": 43.20667408,
+  "longitude": -88.0384231,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04087050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

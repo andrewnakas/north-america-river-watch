@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05550300",
+  "key": "05550300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05550300",
+  "name": "TYLER CREEK AT ELGIN, IL",
+  "waterbody": "TYLER CREEK AT ELGIN, IL",
+  "state": "IL",
+  "latitude": 42.05866667,
+  "longitude": -88.3040667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ETCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tyler Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/etci2",
+  "slug": "usgs-05550300",
+  "noaaForecastPath": "data/noaa-forecast/ETCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07142020",
+  "key": "07142020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07142020",
+  "name": "WALNUT C BLW CHEYENNE BTMS DV NR GREAT BEND, KS",
+  "waterbody": "WALNUT C BLW CHEYENNE BTMS DV NR GREAT BEND, KS",
+  "state": "KS",
+  "latitude": 38.41890087,
+  "longitude": -98.7650845,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07142020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

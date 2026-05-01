@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09403043",
+  "key": "09403043",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09403043",
+  "name": "HERMIT CREEK ABOVE TONTO TRAIL NR GRAND CANYON, AZ",
+  "waterbody": "HERMIT CREEK ABOVE TONTO TRAIL NR GRAND CANYON, AZ",
+  "state": "AZ",
+  "latitude": 36.08081566,
+  "longitude": -112.2137829,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09403043",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

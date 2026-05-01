@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01433510",
+  "key": "01433510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01433510",
+  "name": "MONGAUP RIVER AT MONGAUP NY",
+  "waterbody": "MONGAUP RIVER AT MONGAUP NY",
+  "state": "NY",
+  "latitude": 41.4267594,
+  "longitude": -74.75571928,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01433510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

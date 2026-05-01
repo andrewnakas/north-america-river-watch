@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12080500",
+  "key": "12080500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12080500",
+  "name": "WOODWARD CREEK NEAR OLYMPIA, WA",
+  "waterbody": "WOODWARD CREEK NEAR OLYMPIA, WA",
+  "state": "WA",
+  "latitude": 47.0834295,
+  "longitude": -122.8606937,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12080500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

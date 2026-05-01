@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02029000",
+  "key": "02029000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02029000",
+  "name": "JAMES RIVER AT SCOTTSVILLE, VA",
+  "waterbody": "JAMES RIVER AT SCOTTSVILLE, VA",
+  "state": "VA",
+  "latitude": 37.7973651,
+  "longitude": -78.491398,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVEV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River (VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svev2",
+  "slug": "usgs-02029000",
+  "noaaForecastPath": "data/noaa-forecast/SVEV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

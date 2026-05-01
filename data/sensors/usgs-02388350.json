@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02388350",
+  "key": "02388350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02388350",
+  "name": "ARMUCHEE CREEK AT OLD DALTON ROAD, NEAR ROME, GA",
+  "waterbody": "ARMUCHEE CREEK AT OLD DALTON ROAD, NEAR ROME, GA",
+  "state": "GA",
+  "latitude": 34.3608333,
+  "longitude": -85.1401667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Armuchee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arcg1",
+  "slug": "usgs-02388350",
+  "noaaForecastPath": "data/noaa-forecast/ARCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

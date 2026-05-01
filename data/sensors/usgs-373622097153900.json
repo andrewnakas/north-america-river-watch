@@ -1,0 +1,19 @@
+{
+  "id": "usgs:373622097153900",
+  "key": "373622097153900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "373622097153900",
+  "name": "McConnell C at 47th St, Wichita, KS",
+  "waterbody": "McConnell C at 47th St, Wichita, KS",
+  "state": "KS",
+  "latitude": 37.60611111,
+  "longitude": -97.26083333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-373622097153900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

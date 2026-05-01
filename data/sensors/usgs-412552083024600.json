@@ -1,0 +1,19 @@
+{
+  "id": "usgs:412552083024600",
+  "key": "412552083024600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412552083024600",
+  "name": "Sandusky River below Wightmans Grove OH",
+  "waterbody": "Sandusky River below Wightmans Grove OH",
+  "state": "OH",
+  "latitude": 41.4311111,
+  "longitude": -83.0461111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-412552083024600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

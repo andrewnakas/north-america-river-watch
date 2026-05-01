@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10302002",
+  "key": "10302002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10302002",
+  "name": "WALKER RV AT LATERAL 2-A SIPHON NR SCHURZ, NV",
+  "waterbody": "WALKER RV AT LATERAL 2-A SIPHON NR SCHURZ, NV",
+  "state": "NV",
+  "latitude": 38.94019785,
+  "longitude": -118.8037557,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSIN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsin2",
+  "slug": "usgs-10302002",
+  "noaaForecastPath": "data/noaa-forecast/WSIN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

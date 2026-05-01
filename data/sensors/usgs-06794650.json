@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06794650",
+  "key": "06794650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06794650",
+  "name": "Clear Creek 1.75 mile W of Polk County line, Nebr.",
+  "waterbody": "Clear Creek 1.75 mile W of Polk County line, Nebr.",
+  "state": "NE",
+  "latitude": 41.35194444,
+  "longitude": -97.4033333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHEN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shen1",
+  "slug": "usgs-06794650",
+  "noaaForecastPath": "data/noaa-forecast/SHEN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208732885",
+  "key": "0208732885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208732885",
+  "name": "MARSH CREEK NEAR NEW HOPE, NC",
+  "waterbody": "MARSH CREEK NEAR NEW HOPE, NC",
+  "state": "NC",
+  "latitude": 35.81694444,
+  "longitude": -78.5930556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marsh Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mshn7",
+  "slug": "usgs-0208732885",
+  "noaaForecastPath": "data/noaa-forecast/MSHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

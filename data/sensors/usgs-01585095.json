@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01585095",
+  "key": "01585095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585095",
+  "name": "NORTH FORK WHITEMARSH RUN NEAR WHITE MARSH, MD",
+  "waterbody": "NORTH FORK WHITEMARSH RUN NEAR WHITE MARSH, MD",
+  "state": "MD",
+  "latitude": 39.38588889,
+  "longitude": -76.4688611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01585095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

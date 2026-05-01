@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09274900",
+  "key": "09274900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09274900",
+  "name": "W.F. DUCHESNE RIV BEL VAT DIVERSION NR HANNA, UT",
+  "waterbody": "W.F. DUCHESNE RIV BEL VAT DIVERSION NR HANNA, UT",
+  "state": "UT",
+  "latitude": 40.450223,
+  "longitude": -111.0043319,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09274900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

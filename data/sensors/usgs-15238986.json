@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15238986",
+  "key": "15238986",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15238986",
+  "name": "BATTLE C 1.0 MI AB MOUTH NR HOMER AK",
+  "waterbody": "BATTLE C 1.0 MI AB MOUTH NR HOMER AK",
+  "state": "AK",
+  "latitude": 59.762333,
+  "longitude": -150.953056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BATA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Battle Creek 1.0 mile",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bata2",
+  "slug": "usgs-15238986",
+  "noaaForecastPath": "data/noaa-forecast/BATA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05535070",
+  "key": "05535070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05535070",
+  "name": "SKOKIE RIVER NEAR HIGHLAND PARK, IL",
+  "waterbody": "SKOKIE RIVER NEAR HIGHLAND PARK, IL",
+  "state": "IL",
+  "latitude": 42.1597222,
+  "longitude": -87.7980556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HIPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skokie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hipi2",
+  "slug": "usgs-05535070",
+  "noaaForecastPath": "data/noaa-forecast/HIPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

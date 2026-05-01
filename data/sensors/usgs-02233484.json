@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02233484",
+  "key": "02233484",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02233484",
+  "name": "ECONLOCKHATCHEE RIVER NEAR OVIEDO, FL",
+  "waterbody": "ECONLOCKHATCHEE RIVER NEAR OVIEDO, FL",
+  "state": "FL",
+  "latitude": 28.65555285,
+  "longitude": -81.169786,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Econlockhatchee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ecnf1",
+  "slug": "usgs-02233484",
+  "noaaForecastPath": "data/noaa-forecast/ECNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

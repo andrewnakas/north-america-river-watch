@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09124500",
+  "key": "09124500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09124500",
+  "name": "LAKE FORK AT GATEVIEW, CO.",
+  "waterbody": "LAKE FORK AT GATEVIEW, CO.",
+  "state": "CO",
+  "latitude": 38.2988834,
+  "longitude": -107.2300557,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LFGC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lfgc2",
+  "slug": "usgs-09124500",
+  "noaaForecastPath": "data/noaa-forecast/LFGC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

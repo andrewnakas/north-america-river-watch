@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08176550",
+  "key": "08176550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08176550",
+  "name": "Fifteenmile Ck nr Weser, TX",
+  "waterbody": "Fifteenmile Ck nr Weser, TX",
+  "state": "TX",
+  "latitude": 28.89776103,
+  "longitude": -97.3549922,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fifteenmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrst2",
+  "slug": "usgs-08176550",
+  "noaaForecastPath": "data/noaa-forecast/WRST2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

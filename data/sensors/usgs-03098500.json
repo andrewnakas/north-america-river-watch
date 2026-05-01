@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03098500",
+  "key": "03098500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03098500",
+  "name": "Mill Creek at Youngstown OH",
+  "waterbody": "Mill Creek at Youngstown OH",
+  "state": "OH",
+  "latitude": 41.07200276,
+  "longitude": -80.69035408,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03098500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

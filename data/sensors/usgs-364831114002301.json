@@ -1,0 +1,22 @@
+{
+  "id": "usgs:364831114002301",
+  "key": "364831114002301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "364831114002301",
+  "name": "VIRGIN R BLW MESQUITE DIV NR LITTELFIELD, AZ",
+  "waterbody": "VIRGIN R BLW MESQUITE DIV NR LITTELFIELD, AZ",
+  "state": "AZ",
+  "latitude": 36.8085,
+  "longitude": -114.0065194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVSA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Virgin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mvsa3",
+  "slug": "usgs-364831114002301",
+  "noaaForecastPath": "data/noaa-forecast/MVSA3.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

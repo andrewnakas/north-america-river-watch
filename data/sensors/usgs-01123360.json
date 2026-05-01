@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01123360",
+  "key": "01123360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01123360",
+  "name": "QUINEBAUG R BL E BRIMFIELD DAM AT FISKDALE, MA",
+  "waterbody": "QUINEBAUG R BL E BRIMFIELD DAM AT FISKDALE, MA",
+  "state": "MA",
+  "latitude": 42.108375,
+  "longitude": -72.1261306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01123360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01503500",
+  "key": "01503500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01503500",
+  "name": "SUSQUEHANNA RIVER AT BINGHAMTON NY",
+  "waterbody": "SUSQUEHANNA RIVER AT BINGHAMTON NY",
+  "state": "NY",
+  "latitude": 42.09183333,
+  "longitude": -75.91441667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bngn6",
+  "slug": "usgs-01503500",
+  "noaaForecastPath": "data/noaa-forecast/BNGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

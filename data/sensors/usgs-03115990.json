@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03115990",
+  "key": "03115990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03115990",
+  "name": "Wolf Creek near Barberton OH",
+  "waterbody": "Wolf Creek near Barberton OH",
+  "state": "OH",
+  "latitude": 41.04894417,
+  "longitude": -81.5998438,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek (Summit)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfbo1",
+  "slug": "usgs-03115990",
+  "noaaForecastPath": "data/noaa-forecast/WFBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

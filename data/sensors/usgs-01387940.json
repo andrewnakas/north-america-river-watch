@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01387940",
+  "key": "01387940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01387940",
+  "name": "Ramapo River at Lakeside Ave at Pompton Lakes NJ",
+  "waterbody": "Ramapo River at Lakeside Ave at Pompton Lakes NJ",
+  "state": "NJ",
+  "latitude": 41.00722222,
+  "longitude": -74.27444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PMPN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ramapo River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pmpn4",
+  "slug": "usgs-01387940",
+  "noaaForecastPath": "data/noaa-forecast/PMPN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

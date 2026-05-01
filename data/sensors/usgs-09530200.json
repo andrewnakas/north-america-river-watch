@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09530200",
+  "key": "09530200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09530200",
+  "name": "YUMA MESA OUTLET DRAIN NEAR YUMA, AZ",
+  "waterbody": "YUMA MESA OUTLET DRAIN NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.730047,
+  "longitude": -114.658287,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09530200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

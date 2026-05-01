@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06889000",
+  "key": "06889000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889000",
+  "name": "KANSAS R AT TOPEKA, KS",
+  "waterbody": "KANSAS R AT TOPEKA, KS",
+  "state": "KS",
+  "latitude": 39.0666666,
+  "longitude": -95.6497028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TPAK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tpak1",
+  "slug": "usgs-06889000",
+  "noaaForecastPath": "data/noaa-forecast/TPAK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

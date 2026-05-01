@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03212640",
+  "key": "03212640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03212640",
+  "name": "JOHNS KNOB BRANCH AT ELKHORN, WV",
+  "waterbody": "JOHNS KNOB BRANCH AT ELKHORN, WV",
+  "state": "WV",
+  "latitude": 37.3850722,
+  "longitude": -81.3970278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03212640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01558000",
+  "key": "01558000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01558000",
+  "name": "Little Juniata River at Spruce Creek, PA",
+  "waterbody": "Little Juniata River at Spruce Creek, PA",
+  "state": "PA",
+  "latitude": 40.61251438,
+  "longitude": -78.1405373,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPKP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Juniata River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spkp1",
+  "slug": "usgs-01558000",
+  "noaaForecastPath": "data/noaa-forecast/SPKP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

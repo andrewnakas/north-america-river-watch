@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08211500",
+  "key": "08211500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08211500",
+  "name": "Nueces Rv at Calallen, TX",
+  "waterbody": "Nueces Rv at Calallen, TX",
+  "state": "TX",
+  "latitude": 27.88307697,
+  "longitude": -97.625273,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/caat2",
+  "slug": "usgs-08211500",
+  "noaaForecastPath": "data/noaa-forecast/CAAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

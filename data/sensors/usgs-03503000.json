@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03503000",
+  "key": "03503000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03503000",
+  "name": "LITTLE TENNESSEE RIVER AT NEEDMORE, NC",
+  "waterbody": "LITTLE TENNESSEE RIVER AT NEEDMORE, NC",
+  "state": "NC",
+  "latitude": 35.33638889,
+  "longitude": -83.5269444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEEN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Tennessee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/neen7",
+  "slug": "usgs-03503000",
+  "noaaForecastPath": "data/noaa-forecast/NEEN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06810070",
+  "key": "06810070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06810070",
+  "name": "Missouri River at Brownville, NE",
+  "waterbody": "Missouri River at Brownville, NE",
+  "state": "NE",
+  "latitude": 40.39819444,
+  "longitude": -95.6536667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRON1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bron1",
+  "slug": "usgs-06810070",
+  "noaaForecastPath": "data/noaa-forecast/BRON1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04094400",
+  "key": "04094400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04094400",
+  "name": "SALT CREEK AT VALPARAISO, IN",
+  "waterbody": "SALT CREEK AT VALPARAISO, IN",
+  "state": "IN",
+  "latitude": 41.4647222,
+  "longitude": -87.0705556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scri3",
+  "slug": "usgs-04094400",
+  "noaaForecastPath": "data/noaa-forecast/SCRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04059750",
+  "key": "04059750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04059750",
+  "name": "CEDAR RIVER AT COUNTY ROAD 366 NR CEDAR RIVER, MI",
+  "waterbody": "CEDAR RIVER AT COUNTY ROAD 366 NR CEDAR RIVER, MI",
+  "state": "MI",
+  "latitude": 45.52388889,
+  "longitude": -87.395,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crrm4",
+  "slug": "usgs-04059750",
+  "noaaForecastPath": "data/noaa-forecast/CRRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

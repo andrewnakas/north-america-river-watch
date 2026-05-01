@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01059000",
+  "key": "01059000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01059000",
+  "name": "Androscoggin River near Auburn, Maine",
+  "waterbody": "Androscoggin River near Auburn, Maine",
+  "state": "ME",
+  "latitude": 44.0722222,
+  "longitude": -70.2080556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUBM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Androscoggin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aubm1",
+  "slug": "usgs-01059000",
+  "noaaForecastPath": "data/noaa-forecast/AUBM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

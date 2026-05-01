@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05353800",
+  "key": "05353800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05353800",
+  "name": "STRAIGHT RIVER NEAR FARIBAULT, MN",
+  "waterbody": "STRAIGHT RIVER NEAR FARIBAULT, MN",
+  "state": "MN",
+  "latitude": 44.257882,
+  "longitude": -93.231121,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRBM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Straight River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frbm5",
+  "slug": "usgs-05353800",
+  "noaaForecastPath": "data/noaa-forecast/FRBM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

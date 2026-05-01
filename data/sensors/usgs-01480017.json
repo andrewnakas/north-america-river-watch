@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01480017",
+  "key": "01480017",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480017",
+  "name": "CALF RUN AT MARSHALLTON, DE",
+  "waterbody": "CALF RUN AT MARSHALLTON, DE",
+  "state": "DE",
+  "latitude": 39.72741667,
+  "longitude": -75.6518611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01480017",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

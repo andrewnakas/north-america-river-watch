@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01555000",
+  "key": "01555000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01555000",
+  "name": "Penns Creek at Penns Creek, PA",
+  "waterbody": "Penns Creek at Penns Creek, PA",
+  "state": "PA",
+  "latitude": 40.86674917,
+  "longitude": -77.0483088,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Penns Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pncp1",
+  "slug": "usgs-01555000",
+  "noaaForecastPath": "data/noaa-forecast/PNCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

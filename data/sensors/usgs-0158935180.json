@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0158935180",
+  "key": "0158935180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0158935180",
+  "name": "GWYNNS RUN AT BALTIMORE, MD",
+  "waterbody": "GWYNNS RUN AT BALTIMORE, MD",
+  "state": "MD",
+  "latitude": 39.27824579,
+  "longitude": -76.6516908,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maidens Choice Run",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcrm2",
+  "slug": "usgs-0158935180",
+  "noaaForecastPath": "data/noaa-forecast/MCRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02263800",
+  "key": "02263800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02263800",
+  "name": "SHINGLE CREEK AT AIRPORT NEAR KISSIMMEE, FL",
+  "waterbody": "SHINGLE CREEK AT AIRPORT NEAR KISSIMMEE, FL",
+  "state": "FL",
+  "latitude": 28.3041775,
+  "longitude": -81.450905,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shingle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sncf1",
+  "slug": "usgs-02263800",
+  "noaaForecastPath": "data/noaa-forecast/SNCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

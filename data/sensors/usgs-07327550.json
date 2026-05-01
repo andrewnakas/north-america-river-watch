@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07327550",
+  "key": "07327550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07327550",
+  "name": "Little Washita River East of Ninnekah, OK",
+  "waterbody": "Little Washita River East of Ninnekah, OK",
+  "state": "OK",
+  "latitude": 34.9634007,
+  "longitude": -97.8994861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NKHO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Washita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nkho2",
+  "slug": "usgs-07327550",
+  "noaaForecastPath": "data/noaa-forecast/NKHO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

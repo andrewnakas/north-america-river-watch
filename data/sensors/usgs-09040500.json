@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09040500",
+  "key": "09040500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09040500",
+  "name": "TROUBLESOME CREEK NEAR TROUBLESOME, CO.",
+  "waterbody": "TROUBLESOME CREEK NEAR TROUBLESOME, CO.",
+  "state": "CO",
+  "latitude": 40.058664,
+  "longitude": -106.305178,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09040500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

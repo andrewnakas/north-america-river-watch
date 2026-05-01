@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01134500",
+  "key": "01134500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01134500",
+  "name": "MOOSE RIVER AT VICTORY, VT",
+  "waterbody": "MOOSE RIVER AT VICTORY, VT",
+  "state": "VT",
+  "latitude": 44.5117231,
+  "longitude": -71.8373143,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VICV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moose River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vicv1",
+  "slug": "usgs-01134500",
+  "noaaForecastPath": "data/noaa-forecast/VICV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

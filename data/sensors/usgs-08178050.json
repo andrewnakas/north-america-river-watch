@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178050",
+  "key": "08178050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178050",
+  "name": "San Antonio Rv at Mitchell St, San Antonio, TX",
+  "waterbody": "San Antonio Rv at Mitchell St, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.39301189,
+  "longitude": -98.4947392,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Antonio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtst2",
+  "slug": "usgs-08178050",
+  "noaaForecastPath": "data/noaa-forecast/MTST2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

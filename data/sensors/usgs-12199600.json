@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12199600",
+  "key": "12199600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12199600",
+  "name": "NOOKACHAMPS CREEK AT BAKER HEIGHTS, WA",
+  "waterbody": "NOOKACHAMPS CREEK AT BAKER HEIGHTS, WA",
+  "state": "WA",
+  "latitude": 48.42871668,
+  "longitude": -122.2590446,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12199600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

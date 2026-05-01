@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06429500",
+  "key": "06429500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06429500",
+  "name": "COLD SPRINGS CREEK AT BUCKHORN, WY",
+  "waterbody": "COLD SPRINGS CREEK AT BUCKHORN, WY",
+  "state": "WY",
+  "latitude": 44.1538335,
+  "longitude": -104.0780804,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06429500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12427000",
+  "key": "12427000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12427000",
+  "name": "LITTLE SPOKANE RIVER AT ELK, WA",
+  "waterbody": "LITTLE SPOKANE RIVER AT ELK, WA",
+  "state": "WA",
+  "latitude": 48.0221196,
+  "longitude": -117.2729919,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12427000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02147801",
+  "key": "02147801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02147801",
+  "name": "LAKE WATEREE TAILRACE ABOVE CAMDEN, SC",
+  "waterbody": "LAKE WATEREE TAILRACE ABOVE CAMDEN, SC",
+  "state": "SC",
+  "latitude": 34.33207981,
+  "longitude": -80.69842699,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WATS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wateree River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wats1",
+  "slug": "usgs-02147801",
+  "noaaForecastPath": "data/noaa-forecast/WATS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

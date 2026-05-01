@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16103000",
+  "key": "16103000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16103000",
+  "name": "Hanalei River nr Hanalei, Kauai, HI",
+  "waterbody": "Hanalei River nr Hanalei, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.17958333,
+  "longitude": -159.4663889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLEH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hanalei River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hleh1",
+  "slug": "usgs-16103000",
+  "noaaForecastPath": "data/noaa-forecast/HLEH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

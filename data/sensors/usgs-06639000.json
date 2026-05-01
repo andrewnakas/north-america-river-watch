@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06639000",
+  "key": "06639000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06639000",
+  "name": "SWEETWATER RIVER NEAR ALCOVA, WY",
+  "waterbody": "SWEETWATER RIVER NEAR ALCOVA, WY",
+  "state": "WY",
+  "latitude": 42.4900222,
+  "longitude": -107.1411944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWEW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swew4",
+  "slug": "usgs-06639000",
+  "noaaForecastPath": "data/noaa-forecast/SWEW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08378500",
+  "key": "08378500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08378500",
+  "name": "PECOS RIVER NEAR PECOS, NM",
+  "waterbody": "PECOS RIVER NEAR PECOS, NM",
+  "state": "NM",
+  "latitude": 35.70835,
+  "longitude": -105.6827028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCON5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcon5",
+  "slug": "usgs-08378500",
+  "noaaForecastPath": "data/noaa-forecast/PCON5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

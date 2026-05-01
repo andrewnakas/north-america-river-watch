@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07104000",
+  "key": "07104000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07104000",
+  "name": "MONUMENT CREEK AT PIKEVIEW, CO.",
+  "waterbody": "MONUMENT CREEK AT PIKEVIEW, CO.",
+  "state": "CO",
+  "latitude": 38.91777057,
+  "longitude": -104.8185877,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07104000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

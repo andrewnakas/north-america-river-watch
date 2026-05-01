@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209782609",
+  "key": "0209782609",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209782609",
+  "name": "WHITE OAK CR AT MOUTH NEAR GREEN LEVEL, NC",
+  "waterbody": "WHITE OAK CR AT MOUTH NEAR GREEN LEVEL, NC",
+  "state": "NC",
+  "latitude": 35.76027778,
+  "longitude": -78.9202778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLVN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Oak Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glvn7",
+  "slug": "usgs-0209782609",
+  "noaaForecastPath": "data/noaa-forecast/GLVN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

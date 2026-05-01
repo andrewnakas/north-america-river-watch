@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09527900",
+  "key": "09527900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09527900",
+  "name": "MITTRY LAKE OUTLET CHANNEL NR YUMA, AZ",
+  "waterbody": "MITTRY LAKE OUTLET CHANNEL NR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.8191831,
+  "longitude": -114.4855873,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09527900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

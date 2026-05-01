@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11070500",
+  "key": "11070500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11070500",
+  "name": "SAN JACINTO R NR ELSINORE CA",
+  "waterbody": "SAN JACINTO R NR ELSINORE CA",
+  "state": "CA",
+  "latitude": 33.66418858,
+  "longitude": -117.293927,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11070500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

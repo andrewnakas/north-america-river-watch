@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06080900",
+  "key": "06080900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06080900",
+  "name": "Sun River bl Diversion Dam nr Augusta MT",
+  "waterbody": "Sun River bl Diversion Dam nr Augusta MT",
+  "state": "MT",
+  "latitude": 47.61850556,
+  "longitude": -112.6920556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sun River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/addm8",
+  "slug": "usgs-06080900",
+  "noaaForecastPath": "data/noaa-forecast/ADDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07232500",
+  "key": "07232500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07232500",
+  "name": "Beaver River near Guymon, OK",
+  "waterbody": "Beaver River near Guymon, OK",
+  "state": "OK",
+  "latitude": 36.72141497,
+  "longitude": -101.4896047,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07232500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

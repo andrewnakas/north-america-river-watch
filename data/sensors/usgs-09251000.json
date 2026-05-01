@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09251000",
+  "key": "09251000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09251000",
+  "name": "YAMPA RIVER NEAR MAYBELL, CO",
+  "waterbody": "YAMPA RIVER NEAR MAYBELL, CO",
+  "state": "CO",
+  "latitude": 40.50273085,
+  "longitude": -108.0334482,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yampa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mblc2",
+  "slug": "usgs-09251000",
+  "noaaForecastPath": "data/noaa-forecast/MBLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

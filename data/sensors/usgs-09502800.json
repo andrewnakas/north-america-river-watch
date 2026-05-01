@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09502800",
+  "key": "09502800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09502800",
+  "name": "WILLIAMSON VALLEY WASH NEAR PAULDEN, AZ",
+  "waterbody": "WILLIAMSON VALLEY WASH NEAR PAULDEN, AZ",
+  "state": "AZ",
+  "latitude": 34.8666865,
+  "longitude": -112.6132308,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WVAA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williamson Valley Wash",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wvaa3",
+  "slug": "usgs-09502800",
+  "noaaForecastPath": "data/noaa-forecast/WVAA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

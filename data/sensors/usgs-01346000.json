@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01346000",
+  "key": "01346000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01346000",
+  "name": "WEST CANADA CREEK AT KAST BRIDGE NY",
+  "waterbody": "WEST CANADA CREEK AT KAST BRIDGE NY",
+  "state": "NY",
+  "latitude": 43.06852778,
+  "longitude": -74.98827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KASN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Canada Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kasn6",
+  "slug": "usgs-01346000",
+  "noaaForecastPath": "data/noaa-forecast/KASN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

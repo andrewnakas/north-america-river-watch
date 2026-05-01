@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06620000",
+  "key": "06620000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06620000",
+  "name": "NORTH PLATTE RIVER NEAR NORTHGATE, CO",
+  "waterbody": "NORTH PLATTE RIVER NEAR NORTHGATE, CO",
+  "state": "CO",
+  "latitude": 40.93663889,
+  "longitude": -106.3391944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NGTC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ngtc2",
+  "slug": "usgs-06620000",
+  "noaaForecastPath": "data/noaa-forecast/NGTC2.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

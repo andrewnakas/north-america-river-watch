@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10208500",
+  "key": "10208500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10208500",
+  "name": "OAK CREEK NR. FAIRVIEW, UTAH",
+  "waterbody": "OAK CREEK NR. FAIRVIEW, UTAH",
+  "state": "UT",
+  "latitude": 39.67385065,
+  "longitude": -111.4090753,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10208500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

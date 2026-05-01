@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01417000",
+  "key": "01417000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01417000",
+  "name": "EAST BRANCH DELAWARE RIVER AT DOWNSVILLE NY",
+  "waterbody": "EAST BRANCH DELAWARE RIVER AT DOWNSVILLE NY",
+  "state": "NY",
+  "latitude": 42.07502778,
+  "longitude": -74.97627778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PEPN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pepn6",
+  "slug": "usgs-01417000",
+  "noaaForecastPath": "data/noaa-forecast/PEPN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

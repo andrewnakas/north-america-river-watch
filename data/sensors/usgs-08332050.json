@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08332050",
+  "key": "08332050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08332050",
+  "name": "BERNARDO INTERIOR DRAIN NR BERNARDO, NM",
+  "waterbody": "BERNARDO INTERIOR DRAIN NR BERNARDO, NM",
+  "state": "NM",
+  "latitude": 34.41562016,
+  "longitude": -106.821415,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08332050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

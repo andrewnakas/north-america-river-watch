@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13069500",
+  "key": "13069500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13069500",
+  "name": "SNAKE RIVER NR BLACKFOOT ID",
+  "waterbody": "SNAKE RIVER NR BLACKFOOT ID",
+  "state": "ID",
+  "latitude": 43.12527778,
+  "longitude": -112.5188889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFTI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfti1",
+  "slug": "usgs-13069500",
+  "noaaForecastPath": "data/noaa-forecast/BFTI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

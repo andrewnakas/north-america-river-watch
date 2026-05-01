@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08148500",
+  "key": "08148500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08148500",
+  "name": "N Llano Rv nr Junction, TX",
+  "waterbody": "N Llano Rv nr Junction, TX",
+  "state": "TX",
+  "latitude": 30.5174101,
+  "longitude": -99.806179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Llano River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jctt2",
+  "slug": "usgs-08148500",
+  "noaaForecastPath": "data/noaa-forecast/JCTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07291000",
+  "key": "07291000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07291000",
+  "name": "HOMOCHITTO RIVER AT EDDICETON, MS",
+  "waterbody": "HOMOCHITTO RIVER AT EDDICETON, MS",
+  "state": "MS",
+  "latitude": 31.50305556,
+  "longitude": -90.7775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDDM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Homochitto River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eddm6",
+  "slug": "usgs-07291000",
+  "noaaForecastPath": "data/noaa-forecast/EDDM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

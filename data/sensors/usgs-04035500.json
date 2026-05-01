@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04035500",
+  "key": "04035500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04035500",
+  "name": "MIDDLE BRANCH ONTONAGON RIVER NEAR ROCKLAND, MI",
+  "waterbody": "MIDDLE BRANCH ONTONAGON RIVER NEAR ROCKLAND, MI",
+  "state": "MI",
+  "latitude": 46.6991073,
+  "longitude": -89.160141,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04035500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

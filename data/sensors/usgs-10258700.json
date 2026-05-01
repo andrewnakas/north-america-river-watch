@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10258700",
+  "key": "10258700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10258700",
+  "name": "MURRAY CYN C NR PALM SPRINGS CA",
+  "waterbody": "MURRAY CYN C NR PALM SPRINGS CA",
+  "state": "CA",
+  "latitude": 33.75277778,
+  "longitude": -116.5444444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10258700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

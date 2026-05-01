@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893890",
+  "key": "06893890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893890",
+  "name": "East Fork Little Blue River near Blue Springs, MO",
+  "waterbody": "East Fork Little Blue River near Blue Springs, MO",
+  "state": "MO",
+  "latitude": 39.02556175,
+  "longitude": -94.3438385,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoirs  Blue Springs Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bszm7",
+  "slug": "usgs-06893890",
+  "noaaForecastPath": "data/noaa-forecast/BSZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08481500",
+  "key": "08481500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08481500",
+  "name": "TULAROSA CREEK NEAR BENT, NM",
+  "waterbody": "TULAROSA CREEK NEAR BENT, NM",
+  "state": "NM",
+  "latitude": 33.14488889,
+  "longitude": -105.8979028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tularosa Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlcn5",
+  "slug": "usgs-08481500",
+  "noaaForecastPath": "data/noaa-forecast/TLCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

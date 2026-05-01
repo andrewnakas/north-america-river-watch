@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05436500",
+  "key": "05436500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05436500",
+  "name": "SUGAR RIVER NEAR BRODHEAD, WI",
+  "waterbody": "SUGAR RIVER NEAR BRODHEAD, WI",
+  "state": "WI",
+  "latitude": 42.61230556,
+  "longitude": -89.3979722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BROW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brow3",
+  "slug": "usgs-05436500",
+  "noaaForecastPath": "data/noaa-forecast/BROW3.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

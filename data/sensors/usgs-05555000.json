@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05555000",
+  "key": "05555000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05555000",
+  "name": "VERMILION RIVER AT STREATOR, IL",
+  "waterbody": "VERMILION RIVER AT STREATOR, IL",
+  "state": "IL",
+  "latitude": 41.0930888,
+  "longitude": -88.8347959,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05555000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

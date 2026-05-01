@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06868850",
+  "key": "06868850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06868850",
+  "name": "SALINE R AT LINCOLN, KS",
+  "waterbody": "SALINE R AT LINCOLN, KS",
+  "state": "KS",
+  "latitude": 39.02831944,
+  "longitude": -98.1501667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LINK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/link1",
+  "slug": "usgs-06868850",
+  "noaaForecastPath": "data/noaa-forecast/LINK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

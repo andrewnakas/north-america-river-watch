@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01350212",
+  "key": "01350212",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01350212",
+  "name": "SCHOHARIE CREEK NEAR NORTH BLENHEIM NY",
+  "waterbody": "SCHOHARIE CREEK NEAR NORTH BLENHEIM NY",
+  "state": "NY",
+  "latitude": 42.47263889,
+  "longitude": -74.44113889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schoharie Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbhn6",
+  "slug": "usgs-01350212",
+  "noaaForecastPath": "data/noaa-forecast/NBHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:412624081450700",
+  "key": "412624081450700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412624081450700",
+  "name": "East Branch Big Creek at Brooklyn OH",
+  "waterbody": "East Branch Big Creek at Brooklyn OH",
+  "state": "OH",
+  "latitude": 41.44,
+  "longitude": -81.7519444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIKO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/biko1",
+  "slug": "usgs-412624081450700",
+  "noaaForecastPath": "data/noaa-forecast/BIKO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

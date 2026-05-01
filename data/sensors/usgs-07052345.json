@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07052345",
+  "key": "07052345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07052345",
+  "name": "Finley Creek below Riverdale, MO",
+  "waterbody": "Finley Creek below Riverdale, MO",
+  "state": "MO",
+  "latitude": 36.97488889,
+  "longitude": -93.3278889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FINM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Finley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/finm7",
+  "slug": "usgs-07052345",
+  "noaaForecastPath": "data/noaa-forecast/FINM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

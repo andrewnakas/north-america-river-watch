@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08082000",
+  "key": "08082000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08082000",
+  "name": "Salt Fk Brazos Rv nr Aspermont, TX",
+  "waterbody": "Salt Fk Brazos Rv nr Aspermont, TX",
+  "state": "TX",
+  "latitude": 33.3339801,
+  "longitude": -100.2381622,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork - Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/artt2",
+  "slug": "usgs-08082000",
+  "noaaForecastPath": "data/noaa-forecast/ARTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

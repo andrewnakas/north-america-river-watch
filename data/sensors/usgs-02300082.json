@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02300082",
+  "key": "02300082",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300082",
+  "name": "FROG CREEK NEAR RUBONIA FL",
+  "waterbody": "FROG CREEK NEAR RUBONIA FL",
+  "state": "FL",
+  "latitude": 27.58805556,
+  "longitude": -82.5397222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frog Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frgf1",
+  "slug": "usgs-02300082",
+  "noaaForecastPath": "data/noaa-forecast/FRGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

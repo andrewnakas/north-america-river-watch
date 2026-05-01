@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01095503",
+  "key": "01095503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01095503",
+  "name": "NASHUA RIVER, WATER STREET BRIDGE, AT CLINTON, MA",
+  "waterbody": "NASHUA RIVER, WATER STREET BRIDGE, AT CLINTON, MA",
+  "state": "MA",
+  "latitude": 42.41944444,
+  "longitude": -71.6661111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLIM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nashua River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clim3",
+  "slug": "usgs-01095503",
+  "noaaForecastPath": "data/noaa-forecast/CLIM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

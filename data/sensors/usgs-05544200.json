@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05544200",
+  "key": "05544200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05544200",
+  "name": "MUKWONAGO RIVER AT MUKWONAGO, WI",
+  "waterbody": "MUKWONAGO RIVER AT MUKWONAGO, WI",
+  "state": "WI",
+  "latitude": 42.85666667,
+  "longitude": -88.3277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUKW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mukwonago River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mukw3",
+  "slug": "usgs-05544200",
+  "noaaForecastPath": "data/noaa-forecast/MUKW3.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

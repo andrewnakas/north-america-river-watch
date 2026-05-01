@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01466600",
+  "key": "01466600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466600",
+  "name": "McDonalds Branch at Cooper Road at McDonalds NJ",
+  "waterbody": "McDonalds Branch at Cooper Road at McDonalds NJ",
+  "state": "NJ",
+  "latitude": 39.90469444,
+  "longitude": -74.5540833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01466600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

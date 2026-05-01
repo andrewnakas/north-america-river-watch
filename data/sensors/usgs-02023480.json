@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02023480",
+  "key": "02023480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02023480",
+  "name": "SOUTH RIVER AT RT 716 NEAR BUENA VISTA, VA",
+  "waterbody": "SOUTH RIVER AT RT 716 NEAR BUENA VISTA, VA",
+  "state": "VA",
+  "latitude": 37.80521389,
+  "longitude": -79.3236111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRNV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South River (VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crnv2",
+  "slug": "usgs-02023480",
+  "noaaForecastPath": "data/noaa-forecast/CRNV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

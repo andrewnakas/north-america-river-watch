@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07106200",
+  "key": "07106200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07106200",
+  "name": "FOUNTAIN CREEK ABOVE YOUNG HOLLOW NEAR WIGWAM, CO",
+  "waterbody": "FOUNTAIN CREEK ABOVE YOUNG HOLLOW NEAR WIGWAM, CO",
+  "state": "CO",
+  "latitude": 38.50225,
+  "longitude": -104.6064444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07106200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

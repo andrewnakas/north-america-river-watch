@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04185440",
+  "key": "04185440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04185440",
+  "name": "Unnamed Tributary to Lost Creek near Farmer OH",
+  "waterbody": "Unnamed Tributary to Lost Creek near Farmer OH",
+  "state": "OH",
+  "latitude": 41.3617172,
+  "longitude": -84.6910667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FARO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unnamed Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/faro1",
+  "slug": "usgs-04185440",
+  "noaaForecastPath": "data/noaa-forecast/FARO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

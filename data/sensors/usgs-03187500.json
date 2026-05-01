@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03187500",
+  "key": "03187500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03187500",
+  "name": "CRANBERRY RIVER NEAR RICHWOOD, WV",
+  "waterbody": "CRANBERRY RIVER NEAR RICHWOOD, WV",
+  "state": "WV",
+  "latitude": 38.2953903,
+  "longitude": -80.5264749,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCWW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cranberry River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcww2",
+  "slug": "usgs-03187500",
+  "noaaForecastPath": "data/noaa-forecast/RCWW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14096300",
+  "key": "14096300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14096300",
+  "name": "MILL CREEK NR BADGER BUTTE, NR WARM SPRINGS, OR",
+  "waterbody": "MILL CREEK NR BADGER BUTTE, NR WARM SPRINGS, OR",
+  "state": "OR",
+  "latitude": 44.86150588,
+  "longitude": -121.6275668,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14096300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

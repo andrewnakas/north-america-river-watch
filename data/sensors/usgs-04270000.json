@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04270000",
+  "key": "04270000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04270000",
+  "name": "SALMON RIVER AT CHASM FALLS NY",
+  "waterbody": "SALMON RIVER AT CHASM FALLS NY",
+  "state": "NY",
+  "latitude": 44.7561111,
+  "longitude": -74.21888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04270000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

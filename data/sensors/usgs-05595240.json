@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05595240",
+  "key": "05595240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595240",
+  "name": "KASKASKIA RIVER NEAR RED BUD, IL",
+  "waterbody": "KASKASKIA RIVER NEAR RED BUD, IL",
+  "state": "IL",
+  "latitude": 38.1886111,
+  "longitude": -89.8888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05595240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

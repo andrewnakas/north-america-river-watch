@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01465880",
+  "key": "01465880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465880",
+  "name": "Southwest Branch Rancocas Creek at Medford NJ",
+  "waterbody": "Southwest Branch Rancocas Creek at Medford NJ",
+  "state": "NJ",
+  "latitude": 39.89527778,
+  "longitude": -74.82361111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MEDN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Southwest Branch Rancocas Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/medn4",
+  "slug": "usgs-01465880",
+  "noaaForecastPath": "data/noaa-forecast/MEDN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

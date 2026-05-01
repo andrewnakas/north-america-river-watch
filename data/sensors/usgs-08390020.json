@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08390020",
+  "key": "08390020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08390020",
+  "name": "RIO HONDO ABOVE CHAVEZ CANYON NEAR HONDO, NM",
+  "waterbody": "RIO HONDO ABOVE CHAVEZ CANYON NEAR HONDO, NM",
+  "state": "NM",
+  "latitude": 33.37125,
+  "longitude": -105.25738889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08390020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

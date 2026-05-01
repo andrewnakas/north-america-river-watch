@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01439590",
+  "key": "01439590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01439590",
+  "name": "Little Bush Kill at Edgemere, PA",
+  "waterbody": "Little Bush Kill at Edgemere, PA",
+  "state": "PA",
+  "latitude": 41.25860935,
+  "longitude": -74.9954313,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDGP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Bush Kill",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edgp1",
+  "slug": "usgs-01439590",
+  "noaaForecastPath": "data/noaa-forecast/EDGP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

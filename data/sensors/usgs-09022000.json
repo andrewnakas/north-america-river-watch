@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09022000",
+  "key": "09022000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09022000",
+  "name": "FRASER RIVER AT UPPER STA, NEAR WINTER PARK, CO.",
+  "waterbody": "FRASER RIVER AT UPPER STA, NEAR WINTER PARK, CO.",
+  "state": "CO",
+  "latitude": 39.845833,
+  "longitude": -105.751389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09022000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

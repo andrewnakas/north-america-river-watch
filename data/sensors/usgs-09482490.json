@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09482490",
+  "key": "09482490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09482490",
+  "name": "SANTA CRUZ RIVER AT STARR PASS GCS AT TUCSON AZ",
+  "waterbody": "SANTA CRUZ RIVER AT STARR PASS GCS AT TUCSON AZ",
+  "state": "AZ",
+  "latitude": 32.20705278,
+  "longitude": -110.9885333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09482490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

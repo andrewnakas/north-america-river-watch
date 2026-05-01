@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05521000",
+  "key": "05521000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05521000",
+  "name": "IROQUOIS RIVER AT ROSEBUD, IN",
+  "waterbody": "IROQUOIS RIVER AT ROSEBUD, IN",
+  "state": "IN",
+  "latitude": 41.033355,
+  "longitude": -87.1802792,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05521000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

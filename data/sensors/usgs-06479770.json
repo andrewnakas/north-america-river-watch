@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479770",
+  "key": "06479770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479770",
+  "name": "BIG SIOUX RIVER NEAR BRUCE, SD",
+  "waterbody": "BIG SIOUX RIVER NEAR BRUCE, SD",
+  "state": "SD",
+  "latitude": 44.4675224,
+  "longitude": -96.8874204,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brcs2",
+  "slug": "usgs-06479770",
+  "noaaForecastPath": "data/noaa-forecast/BRCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

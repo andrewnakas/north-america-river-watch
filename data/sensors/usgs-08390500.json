@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08390500",
+  "key": "08390500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08390500",
+  "name": "RIO HONDO AT DIAMOND A RANCH NR ROSWELL, NM",
+  "waterbody": "RIO HONDO AT DIAMOND A RANCH NR ROSWELL, NM",
+  "state": "NM",
+  "latitude": 33.34916667,
+  "longitude": -104.8516667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DARN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Hondo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/darn5",
+  "slug": "usgs-08390500",
+  "noaaForecastPath": "data/noaa-forecast/DARN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

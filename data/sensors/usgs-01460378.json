@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01460378",
+  "key": "01460378",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01460378",
+  "name": "D&R Ca feeder US of gate at Washington Crossing NJ",
+  "waterbody": "D&R Ca feeder US of gate at Washington Crossing NJ",
+  "state": "NJ",
+  "latitude": 40.29638889,
+  "longitude": -74.86666667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01460378",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

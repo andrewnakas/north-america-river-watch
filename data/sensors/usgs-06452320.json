@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06452320",
+  "key": "06452320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06452320",
+  "name": "PLATTE CREEK NEAR PLATTE, SD",
+  "waterbody": "PLATTE CREEK NEAR PLATTE, SD",
+  "state": "SD",
+  "latitude": 43.3272192,
+  "longitude": -98.9706446,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcps2",
+  "slug": "usgs-06452320",
+  "noaaForecastPath": "data/noaa-forecast/PCPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

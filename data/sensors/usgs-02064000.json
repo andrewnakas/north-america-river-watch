@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02064000",
+  "key": "02064000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02064000",
+  "name": "FALLING RIVER NEAR NARUNA, VA",
+  "waterbody": "FALLING RIVER NEAR NARUNA, VA",
+  "state": "VA",
+  "latitude": 37.12680956,
+  "longitude": -78.9597374,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Falling River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flrv2",
+  "slug": "usgs-02064000",
+  "noaaForecastPath": "data/noaa-forecast/FLRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

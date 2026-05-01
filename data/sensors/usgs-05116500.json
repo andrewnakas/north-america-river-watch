@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05116500",
+  "key": "05116500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05116500",
+  "name": "DES LACS RIVER AT FOXHOLM, ND",
+  "waterbody": "DES LACS RIVER AT FOXHOLM, ND",
+  "state": "ND",
+  "latitude": 48.37056947,
+  "longitude": -101.5701633,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DESN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Lacs River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/desn8",
+  "slug": "usgs-05116500",
+  "noaaForecastPath": "data/noaa-forecast/DESN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

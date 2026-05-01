@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02296750",
+  "key": "02296750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02296750",
+  "name": "PEACE RIVER AT SR 70 AT ARCADIA, FL",
+  "waterbody": "PEACE RIVER AT SR 70 AT ARCADIA, FL",
+  "state": "FL",
+  "latitude": 27.22088245,
+  "longitude": -81.8761946,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peace River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arcf1",
+  "slug": "usgs-02296750",
+  "noaaForecastPath": "data/noaa-forecast/ARCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

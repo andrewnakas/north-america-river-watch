@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09179450",
+  "key": "09179450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09179450",
+  "name": "DOLORES RIVER NEAR GATEWAY, CO",
+  "waterbody": "DOLORES RIVER NEAR GATEWAY, CO",
+  "state": "CO",
+  "latitude": 38.66803889,
+  "longitude": -108.96551944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DGAC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dolores River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dgac2",
+  "slug": "usgs-09179450",
+  "noaaForecastPath": "data/noaa-forecast/DGAC2.json",
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

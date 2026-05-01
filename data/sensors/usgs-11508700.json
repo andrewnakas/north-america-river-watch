@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11508700",
+  "key": "11508700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11508700",
+  "name": "KLAMATH RIVER AT MILLER ISLAND, NEAR MIDLAND, OR",
+  "waterbody": "KLAMATH RIVER AT MILLER ISLAND, NEAR MIDLAND, OR",
+  "state": "OR",
+  "latitude": 42.1467833,
+  "longitude": -121.848686,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11508700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

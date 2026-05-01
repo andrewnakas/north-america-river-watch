@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11462080",
+  "key": "11462080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11462080",
+  "name": "RUSSIAN R NR TALMAGE CA",
+  "waterbody": "RUSSIAN R NR TALMAGE CA",
+  "state": "CA",
+  "latitude": 39.1129134,
+  "longitude": -123.183028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLMC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlmc1",
+  "slug": "usgs-11462080",
+  "noaaForecastPath": "data/noaa-forecast/TLMC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

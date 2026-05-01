@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02337000",
+  "key": "02337000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02337000",
+  "name": "SWEETWATER CREEK NEAR AUSTELL, GA",
+  "waterbody": "SWEETWATER CREEK NEAR AUSTELL, GA",
+  "state": "GA",
+  "latitude": 33.77677778,
+  "longitude": -84.6155,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUSG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ausg1",
+  "slug": "usgs-02337000",
+  "noaaForecastPath": "data/noaa-forecast/AUSG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

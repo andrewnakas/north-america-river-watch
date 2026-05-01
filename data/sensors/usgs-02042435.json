@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02042435",
+  "key": "02042435",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02042435",
+  "name": "CHICKAHOMINY RIV AT RT 615 NR HIGHLAND SPGS, VA",
+  "waterbody": "CHICKAHOMINY RIV AT RT 615 NR HIGHLAND SPGS, VA",
+  "state": "VA",
+  "latitude": 37.576853,
+  "longitude": -77.333794,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02042435",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

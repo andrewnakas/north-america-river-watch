@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04026157",
+  "key": "04026157",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04026157",
+  "name": "SISKIWIT RIVER AT CTY HWY C NEAR CORNUCOPIA, WI",
+  "waterbody": "SISKIWIT RIVER AT CTY HWY C NEAR CORNUCOPIA, WI",
+  "state": "WI",
+  "latitude": 46.8048333,
+  "longitude": -91.0930778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Siskiwit R nr Cornucopia",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/susw3",
+  "slug": "usgs-04026157",
+  "noaaForecastPath": "data/noaa-forecast/SUSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

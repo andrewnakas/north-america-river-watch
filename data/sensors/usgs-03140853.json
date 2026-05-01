@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03140853",
+  "key": "03140853",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03140853",
+  "name": "Seneca Fork above Senecaville Lake OH",
+  "waterbody": "Seneca Fork above Senecaville Lake OH",
+  "state": "OH",
+  "latitude": 39.86388889,
+  "longitude": -81.3208333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03140853",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

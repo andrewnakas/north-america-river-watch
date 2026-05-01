@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12340500",
+  "key": "12340500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12340500",
+  "name": "Clark Fork above Missoula MT",
+  "waterbody": "Clark Fork above Missoula MT",
+  "state": "MT",
+  "latitude": 46.87676389,
+  "longitude": -113.9321194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABOM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clark Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abom8",
+  "slug": "usgs-12340500",
+  "noaaForecastPath": "data/noaa-forecast/ABOM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

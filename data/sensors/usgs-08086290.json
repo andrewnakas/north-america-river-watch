@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08086290",
+  "key": "08086290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08086290",
+  "name": "Big Sandy Ck abv Breckenridge, TX",
+  "waterbody": "Big Sandy Ck abv Breckenridge, TX",
+  "state": "TX",
+  "latitude": 32.64845613,
+  "longitude": -99.0045146,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy Creek (Brazos River Basin)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bget2",
+  "slug": "usgs-08086290",
+  "noaaForecastPath": "data/noaa-forecast/BGET2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

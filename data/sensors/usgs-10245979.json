@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10245979",
+  "key": "10245979",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245979",
+  "name": "SLOUGH CK AT HWY 50 ABV SLOUGH CK AT DEVILS GATE",
+  "waterbody": "SLOUGH CK AT HWY 50 ABV SLOUGH CK AT DEVILS GATE",
+  "state": "NV",
+  "latitude": 39.58041667,
+  "longitude": -116.095111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10245979",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

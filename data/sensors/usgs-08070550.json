@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08070550",
+  "key": "08070550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08070550",
+  "name": "Spring Branch at SH 242 nr Splendora, TX",
+  "waterbody": "Spring Branch at SH 242 nr Splendora, TX",
+  "state": "TX",
+  "latitude": 30.2198111,
+  "longitude": -95.2492083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08070550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

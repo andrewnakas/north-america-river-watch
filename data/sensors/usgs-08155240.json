@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08155240",
+  "key": "08155240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08155240",
+  "name": "Barton Ck at Lost Ck Blvd nr Austin, TX",
+  "waterbody": "Barton Ck at Lost Ck Blvd nr Austin, TX",
+  "state": "TX",
+  "latitude": 30.27409788,
+  "longitude": -97.84475235,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lost Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lckt2",
+  "slug": "usgs-08155240",
+  "noaaForecastPath": "data/noaa-forecast/LCKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02074000",
+  "key": "02074000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02074000",
+  "name": "SMITH RIVER AT EDEN, NC",
+  "waterbody": "SMITH RIVER AT EDEN, NC",
+  "state": "NC",
+  "latitude": 36.52555556,
+  "longitude": -79.7655556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edsn7",
+  "slug": "usgs-02074000",
+  "noaaForecastPath": "data/noaa-forecast/EDSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

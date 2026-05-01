@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04174800",
+  "key": "04174800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04174800",
+  "name": "HURON RIVER AT YPSILANTI, MI",
+  "waterbody": "HURON RIVER AT YPSILANTI, MI",
+  "state": "MI",
+  "latitude": 42.2492053,
+  "longitude": -83.6124383,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04174800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

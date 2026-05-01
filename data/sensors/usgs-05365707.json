@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05365707",
+  "key": "05365707",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05365707",
+  "name": "NORTH FORK EAU CLAIRE RIVER NEAR THORP, WI",
+  "waterbody": "NORTH FORK EAU CLAIRE RIVER NEAR THORP, WI",
+  "state": "WI",
+  "latitude": 44.97357826,
+  "longitude": -90.849304,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05365707",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

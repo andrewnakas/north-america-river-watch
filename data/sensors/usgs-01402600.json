@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01402600",
+  "key": "01402600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01402600",
+  "name": "Royce Brook tributary near Belle Mead NJ",
+  "waterbody": "Royce Brook tributary near Belle Mead NJ",
+  "state": "NJ",
+  "latitude": 40.49916667,
+  "longitude": -74.6511111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01402600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

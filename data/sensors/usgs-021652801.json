@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021652801",
+  "key": "021652801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021652801",
+  "name": "NORTH RABON CREEK NEAR HICKORY TAVERN, SC",
+  "waterbody": "NORTH RABON CREEK NEAR HICKORY TAVERN, SC",
+  "state": "SC",
+  "latitude": 34.525,
+  "longitude": -82.1383333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Rabon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrbs1",
+  "slug": "usgs-021652801",
+  "noaaForecastPath": "data/noaa-forecast/NRBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

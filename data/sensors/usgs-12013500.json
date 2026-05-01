@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12013500",
+  "key": "12013500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12013500",
+  "name": "WILLAPA RIVER NEAR WILLAPA, WA",
+  "waterbody": "WILLAPA RIVER NEAR WILLAPA, WA",
+  "state": "WA",
+  "latitude": 46.65093418,
+  "longitude": -123.6526584,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WILW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willapa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wilw1",
+  "slug": "usgs-12013500",
+  "noaaForecastPath": "data/noaa-forecast/WILW1.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

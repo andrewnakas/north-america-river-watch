@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05548280",
+  "key": "05548280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05548280",
+  "name": "NIPPERSINK CREEK NEAR SPRING GROVE, IL",
+  "waterbody": "NIPPERSINK CREEK NEAR SPRING GROVE, IL",
+  "state": "IL",
+  "latitude": 42.44373056,
+  "longitude": -88.247425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NIPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nippersink Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nipi2",
+  "slug": "usgs-05548280",
+  "noaaForecastPath": "data/noaa-forecast/NIPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

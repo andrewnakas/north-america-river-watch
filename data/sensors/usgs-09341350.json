@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09341350",
+  "key": "09341350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09341350",
+  "name": "WINDY PASS CR NR PAGOSA SPR, CO.",
+  "waterbody": "WINDY PASS CR NR PAGOSA SPR, CO.",
+  "state": "CO",
+  "latitude": 37.43917388,
+  "longitude": -106.8800416,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09341350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

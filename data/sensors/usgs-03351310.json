@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03351310",
+  "key": "03351310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03351310",
+  "name": "CROOKED CREEK AT INDIANAPOLIS, IN",
+  "waterbody": "CROOKED CREEK AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.82975688,
+  "longitude": -86.20608069,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCII3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccii3",
+  "slug": "usgs-03351310",
+  "noaaForecastPath": "data/noaa-forecast/CCII3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

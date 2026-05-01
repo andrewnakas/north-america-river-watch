@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07198000",
+  "key": "07198000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07198000",
+  "name": "Illinois River near Gore, OK",
+  "waterbody": "Illinois River near Gore, OK",
+  "state": "OK",
+  "latitude": 35.5731511,
+  "longitude": -95.0688458,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GORO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River (AR OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/goro2",
+  "slug": "usgs-07198000",
+  "noaaForecastPath": "data/noaa-forecast/GORO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

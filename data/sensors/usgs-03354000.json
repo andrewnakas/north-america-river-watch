@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03354000",
+  "key": "03354000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03354000",
+  "name": "WHITE RIVER NEAR CENTERTON, IN",
+  "waterbody": "WHITE RIVER NEAR CENTERTON, IN",
+  "state": "IN",
+  "latitude": 39.4975388,
+  "longitude": -86.4005316,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnti3",
+  "slug": "usgs-03354000",
+  "noaaForecastPath": "data/noaa-forecast/CNTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

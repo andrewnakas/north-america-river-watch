@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01572190",
+  "key": "01572190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01572190",
+  "name": "Swatara Creek near Inwood, PA",
+  "waterbody": "Swatara Creek near Inwood, PA",
+  "state": "PA",
+  "latitude": 40.4792558,
+  "longitude": -76.530797,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IWDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swatara Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iwdp1",
+  "slug": "usgs-01572190",
+  "noaaForecastPath": "data/noaa-forecast/IWDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

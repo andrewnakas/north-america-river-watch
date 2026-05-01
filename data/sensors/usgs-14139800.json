@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14139800",
+  "key": "14139800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14139800",
+  "name": "SOUTH FORK BULL RUN RIVER NEAR BULL RUN, OR",
+  "waterbody": "SOUTH FORK BULL RUN RIVER NEAR BULL RUN, OR",
+  "state": "OR",
+  "latitude": 45.444564,
+  "longitude": -122.1095292,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "S Fk Bull Run River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbro3",
+  "slug": "usgs-14139800",
+  "noaaForecastPath": "data/noaa-forecast/SBRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

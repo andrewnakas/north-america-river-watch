@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04166500",
+  "key": "04166500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04166500",
+  "name": "RIVER ROUGE AT DETROIT, MI",
+  "waterbody": "RIVER ROUGE AT DETROIT, MI",
+  "state": "MI",
+  "latitude": 42.3730923,
+  "longitude": -83.2546513,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DETM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rouge River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/detm4",
+  "slug": "usgs-04166500",
+  "noaaForecastPath": "data/noaa-forecast/DETM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11063510",
+  "key": "11063510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11063510",
+  "name": "CAJON C BL LONE PINE C NR KEENBROOK CA",
+  "waterbody": "CAJON C BL LONE PINE C NR KEENBROOK CA",
+  "state": "CA",
+  "latitude": 34.2633392,
+  "longitude": -117.4669944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CJKC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cajon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cjkc1",
+  "slug": "usgs-11063510",
+  "noaaForecastPath": "data/noaa-forecast/CJKC1.json",
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

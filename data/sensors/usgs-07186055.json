@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07186055",
+  "key": "07186055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07186055",
+  "name": "COW C NR SCAMMON, KS",
+  "waterbody": "COW C NR SCAMMON, KS",
+  "state": "KS",
+  "latitude": 37.28055556,
+  "longitude": -94.675,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07186055",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08164504",
+  "key": "08164504",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164504",
+  "name": "E Mustang Ck nr Louise, TX",
+  "waterbody": "E Mustang Ck nr Louise, TX",
+  "state": "TX",
+  "latitude": 29.07081227,
+  "longitude": -96.4171913,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Mustang Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmct2",
+  "slug": "usgs-08164504",
+  "noaaForecastPath": "data/noaa-forecast/LMCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

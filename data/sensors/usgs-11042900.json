@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11042900",
+  "key": "11042900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11042900",
+  "name": "SANTA GERTRUDIS C NR TEMECULA CA",
+  "waterbody": "SANTA GERTRUDIS C NR TEMECULA CA",
+  "state": "CA",
+  "latitude": 33.52447338,
+  "longitude": -117.1647469,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11042900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

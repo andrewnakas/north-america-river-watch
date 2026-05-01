@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03361440",
+  "key": "03361440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03361440",
+  "name": "LITTLE BLUE RIVER AT SHELBYVILLE, IN",
+  "waterbody": "LITTLE BLUE RIVER AT SHELBYVILLE, IN",
+  "state": "IN",
+  "latitude": 39.5255938,
+  "longitude": -85.7632886,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Blue River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbri3",
+  "slug": "usgs-03361440",
+  "noaaForecastPath": "data/noaa-forecast/LBRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

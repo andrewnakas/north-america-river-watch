@@ -1,0 +1,22 @@
+{
+  "id": "usgs:094196781",
+  "key": "094196781",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "094196781",
+  "name": "FLAMINGO WASH AT NELLIS BLVD NR LAS VEGAS, NV",
+  "waterbody": "FLAMINGO WASH AT NELLIS BLVD NR LAS VEGAS, NV",
+  "state": "NV",
+  "latitude": 36.14302819,
+  "longitude": -115.0655537,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FWNN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flamingo Wash",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fwnn2",
+  "slug": "usgs-094196781",
+  "noaaForecastPath": "data/noaa-forecast/FWNN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

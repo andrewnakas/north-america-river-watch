@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01021050",
+  "key": "01021050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01021050",
+  "name": "St. Croix River at Milltown, Maine",
+  "waterbody": "St. Croix River at Milltown, Maine",
+  "state": "ME",
+  "latitude": 45.17,
+  "longitude": -67.2966667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01021050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

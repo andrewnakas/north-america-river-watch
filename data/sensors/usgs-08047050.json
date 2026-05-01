@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08047050",
+  "key": "08047050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08047050",
+  "name": "Marys Ck at Benbrook, TX",
+  "waterbody": "Marys Ck at Benbrook, TX",
+  "state": "TX",
+  "latitude": 32.6951316,
+  "longitude": -97.4472422,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marys Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmct2",
+  "slug": "usgs-08047050",
+  "noaaForecastPath": "data/noaa-forecast/BMCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

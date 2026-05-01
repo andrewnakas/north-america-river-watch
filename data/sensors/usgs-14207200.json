@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14207200",
+  "key": "14207200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14207200",
+  "name": "TUALATIN RIVER AT OSWEGO DAM, NEAR WEST LINN, OR",
+  "waterbody": "TUALATIN RIVER AT OSWEGO DAM, NEAR WEST LINN, OR",
+  "state": "OR",
+  "latitude": 45.35650877,
+  "longitude": -122.6850937,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14207200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

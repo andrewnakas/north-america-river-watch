@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01109659",
+  "key": "01109659",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109659",
+  "name": "BLACKSTONE R AT INT RT 146 AND I-90 NR MILLBURY,MA",
+  "waterbody": "BLACKSTONE R AT INT RT 146 AND I-90 NR MILLBURY,MA",
+  "state": "MA",
+  "latitude": 42.2083333,
+  "longitude": -71.7822222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01109659",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

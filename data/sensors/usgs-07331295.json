@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07331295",
+  "key": "07331295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07331295",
+  "name": "Pennington Creek East of Mill Creek, OK",
+  "waterbody": "Pennington Creek East of Mill Creek, OK",
+  "state": "OK",
+  "latitude": 34.42036998,
+  "longitude": -96.7588959,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCPO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pennington Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcpo2",
+  "slug": "usgs-07331295",
+  "noaaForecastPath": "data/noaa-forecast/MCPO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

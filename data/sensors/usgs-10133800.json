@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10133800",
+  "key": "10133800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10133800",
+  "name": "EAST CANYON CREEK NEAR JEREMY RANCH, UT",
+  "waterbody": "EAST CANYON CREEK NEAR JEREMY RANCH, UT",
+  "state": "UT",
+  "latitude": 40.75966979,
+  "longitude": -111.5640912,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECAU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Canyon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ecau1",
+  "slug": "usgs-10133800",
+  "noaaForecastPath": "data/noaa-forecast/ECAU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

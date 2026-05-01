@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09247600",
+  "key": "09247600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09247600",
+  "name": "YAMPA RIVER BELOW CRAIG, CO.",
+  "waterbody": "YAMPA RIVER BELOW CRAIG, CO.",
+  "state": "CO",
+  "latitude": 40.48078908,
+  "longitude": -107.61426846,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CGGC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yampa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cggc2",
+  "slug": "usgs-09247600",
+  "noaaForecastPath": "data/noaa-forecast/CGGC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

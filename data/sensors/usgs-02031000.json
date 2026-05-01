@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02031000",
+  "key": "02031000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02031000",
+  "name": "MECHUMS RIVER NEAR WHITE HALL, VA",
+  "waterbody": "MECHUMS RIVER NEAR WHITE HALL, VA",
+  "state": "VA",
+  "latitude": 38.10263608,
+  "longitude": -78.5927935,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MECV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mechums River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mecv2",
+  "slug": "usgs-02031000",
+  "noaaForecastPath": "data/noaa-forecast/MECV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

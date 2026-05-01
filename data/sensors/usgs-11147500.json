@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11147500",
+  "key": "11147500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11147500",
+  "name": "SALINAS R A PASO ROBLES CA",
+  "waterbody": "SALINAS R A PASO ROBLES CA",
+  "state": "CA",
+  "latitude": 35.6285813,
+  "longitude": -120.6843373,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salinas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prbc1",
+  "slug": "usgs-11147500",
+  "noaaForecastPath": "data/noaa-forecast/PRBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

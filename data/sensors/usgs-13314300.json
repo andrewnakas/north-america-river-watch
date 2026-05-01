@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13314300",
+  "key": "13314300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13314300",
+  "name": "SOUTH FORK SALMON RIVER AT MOUTH NR MACKAY BAR ID",
+  "waterbody": "SOUTH FORK SALMON RIVER AT MOUTH NR MACKAY BAR ID",
+  "state": "ID",
+  "latitude": 45.36657507,
+  "longitude": -115.5129009,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13314300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03111520",
+  "key": "03111520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03111520",
+  "name": "OHIO R AT PIKE ISLAND LOCK & DAM (LOWER), WV",
+  "waterbody": "OHIO R AT PIKE ISLAND LOCK & DAM (LOWER), WV",
+  "state": "WV",
+  "latitude": 40.14979387,
+  "longitude": -80.70146889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHLW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whlw2",
+  "slug": "usgs-03111520",
+  "noaaForecastPath": "data/noaa-forecast/WHLW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03284000",
+  "key": "03284000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03284000",
+  "name": "KENTUCKY RIVER AT LOCK 10 NEAR WINCHESTER, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 10 NEAR WINCHESTER, KY",
+  "state": "KY",
+  "latitude": 37.89396779,
+  "longitude": -84.26048609,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FODK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fodk2",
+  "slug": "usgs-03284000",
+  "noaaForecastPath": "data/noaa-forecast/FODK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380107",
+  "key": "07380107",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380107",
+  "name": "Muddy Creek at Manchac Acres Rd near Oak Grove, LA",
+  "waterbody": "Muddy Creek at Manchac Acres Rd near Oak Grove, LA",
+  "state": "LA",
+  "latitude": 30.32852706,
+  "longitude": -90.94648899,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCOL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcol1",
+  "slug": "usgs-07380107",
+  "noaaForecastPath": "data/noaa-forecast/MCOL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

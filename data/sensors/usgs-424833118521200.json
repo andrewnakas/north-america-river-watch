@@ -1,0 +1,22 @@
+{
+  "id": "usgs:424833118521200",
+  "key": "424833118521200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "424833118521200",
+  "name": "DONNER UND BLITZEN BELOW PAGE SPRINGS",
+  "waterbody": "DONNER UND BLITZEN BELOW PAGE SPRINGS",
+  "state": "OR",
+  "latitude": 42.80916667,
+  "longitude": -118.86986111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DBPO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Donner und Blitzen River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dbpo3",
+  "slug": "usgs-424833118521200",
+  "noaaForecastPath": "data/noaa-forecast/DBPO3.json",
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

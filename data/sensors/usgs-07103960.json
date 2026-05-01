@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103960",
+  "key": "07103960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103960",
+  "name": "KETTLE CREEK ABOVE USAF ACADEMY, CO",
+  "waterbody": "KETTLE CREEK ABOVE USAF ACADEMY, CO",
+  "state": "CO",
+  "latitude": 38.9761111,
+  "longitude": -104.7986111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103960",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05404116",
+  "key": "05404116",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05404116",
+  "name": "WEST BRANCH BARABOO RIVER AT HILLSBORO, WI",
+  "waterbody": "WEST BRANCH BARABOO RIVER AT HILLSBORO, WI",
+  "state": "WI",
+  "latitude": 43.65277778,
+  "longitude": -90.3358333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05404116",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

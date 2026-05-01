@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08420500",
+  "key": "08420500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08420500",
+  "name": "Pecos Rv at Pecos, TX",
+  "waterbody": "Pecos Rv at Pecos, TX",
+  "state": "TX",
+  "latitude": 31.43652327,
+  "longitude": -103.467395,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08420500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13118975",
+  "key": "13118975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13118975",
+  "name": "LITTLE LOST RIVER AB FLOOD DIVERSION NR HOWE ID",
+  "waterbody": "LITTLE LOST RIVER AB FLOOD DIVERSION NR HOWE ID",
+  "state": "ID",
+  "latitude": 43.884825,
+  "longitude": -113.0970083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13118975",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

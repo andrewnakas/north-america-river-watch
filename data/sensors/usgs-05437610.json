@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05437610",
+  "key": "05437610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05437610",
+  "name": "ROCK RIVER AT LATHAM PARK, IL",
+  "waterbody": "ROCK RIVER AT LATHAM PARK, IL",
+  "state": "IL",
+  "latitude": 42.3686333,
+  "longitude": -89.0572611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LATI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lati2",
+  "slug": "usgs-05437610",
+  "noaaForecastPath": "data/noaa-forecast/LATI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12457000",
+  "key": "12457000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12457000",
+  "name": "WENATCHEE RIVER AT PLAIN, WA",
+  "waterbody": "WENATCHEE RIVER AT PLAIN, WA",
+  "state": "WA",
+  "latitude": 47.76286656,
+  "longitude": -120.6661735,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPLW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wenatchee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wplw1",
+  "slug": "usgs-12457000",
+  "noaaForecastPath": "data/noaa-forecast/WPLW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

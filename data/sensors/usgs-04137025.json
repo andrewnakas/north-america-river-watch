@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04137025",
+  "key": "04137025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04137025",
+  "name": "AU SABLE RIVER NEAR GLENNIE, MI",
+  "waterbody": "AU SABLE RIVER NEAR GLENNIE, MI",
+  "state": "MI",
+  "latitude": 44.4541823,
+  "longitude": -83.6744254,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04137025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

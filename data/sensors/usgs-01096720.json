@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01096720",
+  "key": "01096720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01096720",
+  "name": "ASSABET RIVER AT BOUNDARY ST. NR NORTHBOROUGH, MA",
+  "waterbody": "ASSABET RIVER AT BOUNDARY ST. NR NORTHBOROUGH, MA",
+  "state": "MA",
+  "latitude": 42.3414824,
+  "longitude": -71.6159002,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01096720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03336645",
+  "key": "03336645",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03336645",
+  "name": "MIDDLE FORK VERMILION RIVER ABOVE OAKWOOD, IL",
+  "waterbody": "MIDDLE FORK VERMILION RIVER ABOVE OAKWOOD, IL",
+  "state": "IL",
+  "latitude": 40.13696944,
+  "longitude": -87.7446944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Vermilion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okwi2",
+  "slug": "usgs-03336645",
+  "noaaForecastPath": "data/noaa-forecast/OKWI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

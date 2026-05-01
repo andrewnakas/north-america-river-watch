@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10172625",
+  "key": "10172625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10172625",
+  "name": "SALT LAKE CITY SEWAGE CANAL NR FARMINGTON, UTAH",
+  "waterbody": "SALT LAKE CITY SEWAGE CANAL NR FARMINGTON, UTAH",
+  "state": "UT",
+  "latitude": 40.89413889,
+  "longitude": -112.00552778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10172625",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

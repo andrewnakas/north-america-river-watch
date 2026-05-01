@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02336093",
+  "key": "02336093",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336093",
+  "name": "N FK PEACHTREE CR TRB AT DRESDEN DR, NR ATLANTA,GA",
+  "waterbody": "N FK PEACHTREE CR TRB AT DRESDEN DR, NR ATLANTA,GA",
+  "state": "GA",
+  "latitude": 33.87,
+  "longitude": -84.294722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02336093",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

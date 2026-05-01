@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08083240",
+  "key": "08083240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083240",
+  "name": "Clear Fk Brazos Rv at Hwy 83 nr Hawley, TX",
+  "waterbody": "Clear Fk Brazos Rv at Hwy 83 nr Hawley, TX",
+  "state": "TX",
+  "latitude": 32.5985,
+  "longitude": -99.8145556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HWLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hwlt2",
+  "slug": "usgs-08083240",
+  "noaaForecastPath": "data/noaa-forecast/HWLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

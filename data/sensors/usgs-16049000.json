@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16049000",
+  "key": "16049000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16049000",
+  "name": "Hanapepe Riv blw Manuahi Str nr Eleele, Kauai, HI",
+  "waterbody": "Hanapepe Riv blw Manuahi Str nr Eleele, Kauai, HI",
+  "state": "HI",
+  "latitude": 21.95491667,
+  "longitude": -159.5507778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HPPH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hanapepe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hpph1",
+  "slug": "usgs-16049000",
+  "noaaForecastPath": "data/noaa-forecast/HPPH1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

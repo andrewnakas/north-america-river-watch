@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50056400",
+  "key": "50056400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50056400",
+  "name": "RIO VALENCIANO NR JUNCOS, PR",
+  "waterbody": "RIO VALENCIANO NR JUNCOS, PR",
+  "state": "PR",
+  "latitude": 18.216072,
+  "longitude": -65.926169,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VALP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Valenciano",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/valp4",
+  "slug": "usgs-50056400",
+  "noaaForecastPath": "data/noaa-forecast/VALP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

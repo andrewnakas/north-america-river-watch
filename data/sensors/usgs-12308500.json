@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12308500",
+  "key": "12308500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12308500",
+  "name": "KOOTENAI R AT CROSSPORT NR BONNERS FERRY, ID",
+  "waterbody": "KOOTENAI R AT CROSSPORT NR BONNERS FERRY, ID",
+  "state": "ID",
+  "latitude": 48.70166667,
+  "longitude": -116.2425,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12308500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

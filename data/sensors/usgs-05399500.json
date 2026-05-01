@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05399500",
+  "key": "05399500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05399500",
+  "name": "BIG EAU PLEINE RIVER AT STRATFORD, WI",
+  "waterbody": "BIG EAU PLEINE RIVER AT STRATFORD, WI",
+  "state": "WI",
+  "latitude": 44.8219098,
+  "longitude": -90.0795754,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STRW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Eau Pleine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/strw3",
+  "slug": "usgs-05399500",
+  "noaaForecastPath": "data/noaa-forecast/STRW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

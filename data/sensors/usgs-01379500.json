@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01379500",
+  "key": "01379500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01379500",
+  "name": "Passaic River near Chatham NJ",
+  "waterbody": "Passaic River near Chatham NJ",
+  "state": "NJ",
+  "latitude": 40.7261111,
+  "longitude": -74.3897222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAMN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Passaic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/camn4",
+  "slug": "usgs-01379500",
+  "noaaForecastPath": "data/noaa-forecast/CAMN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

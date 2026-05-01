@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07298500",
+  "key": "07298500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07298500",
+  "name": "Pr Dog Twn Fk Red Rv nr Brice, TX",
+  "waterbody": "Pr Dog Twn Fk Red Rv nr Brice, TX",
+  "state": "TX",
+  "latitude": 34.62783574,
+  "longitude": -100.9406994,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BICT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Dog Town Fork of the Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bict2",
+  "slug": "usgs-07298500",
+  "noaaForecastPath": "data/noaa-forecast/BICT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

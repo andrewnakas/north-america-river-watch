@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05432500",
+  "key": "05432500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05432500",
+  "name": "PECATONICA RIVER AT DARLINGTON, WI",
+  "waterbody": "PECATONICA RIVER AT DARLINGTON, WI",
+  "state": "WI",
+  "latitude": 42.67777778,
+  "longitude": -90.1186111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DARW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecatonica River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/darw3",
+  "slug": "usgs-05432500",
+  "noaaForecastPath": "data/noaa-forecast/DARW3.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

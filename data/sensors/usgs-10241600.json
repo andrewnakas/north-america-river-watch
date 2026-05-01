@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10241600",
+  "key": "10241600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10241600",
+  "name": "SUMMIT CREEK NEAR SUMMIT, UTAH",
+  "waterbody": "SUMMIT CREEK NEAR SUMMIT, UTAH",
+  "state": "UT",
+  "latitude": 37.7869207,
+  "longitude": -112.9163347,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10241600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

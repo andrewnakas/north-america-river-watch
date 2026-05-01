@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01158000",
+  "key": "01158000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01158000",
+  "name": "ASHUELOT RIVER BELOW SURRY MT DAM, NEAR KEENE, NH",
+  "waterbody": "ASHUELOT RIVER BELOW SURRY MT DAM, NEAR KEENE, NH",
+  "state": "NH",
+  "latitude": 42.9948023,
+  "longitude": -72.31119719,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KENN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashuelot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kenn3",
+  "slug": "usgs-01158000",
+  "noaaForecastPath": "data/noaa-forecast/KENN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07106510",
+  "key": "07106510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07106510",
+  "name": "FOUNTAIN CREEK AT 8TH STREET AT PUEBLO, CO",
+  "waterbody": "FOUNTAIN CREEK AT 8TH STREET AT PUEBLO, CO",
+  "state": "CO",
+  "latitude": 38.27444444,
+  "longitude": -104.6005556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOBC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fountain Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fobc2",
+  "slug": "usgs-07106510",
+  "noaaForecastPath": "data/noaa-forecast/FOBC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

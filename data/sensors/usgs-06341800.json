@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06341800",
+  "key": "06341800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06341800",
+  "name": "PAINTED WOODS CREEK NR WILTON, ND",
+  "waterbody": "PAINTED WOODS CREEK NR WILTON, ND",
+  "state": "ND",
+  "latitude": 47.2741944,
+  "longitude": -100.7896389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06341800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

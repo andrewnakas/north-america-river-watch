@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803510",
+  "key": "06803510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803510",
+  "name": "Little Salt Creek near Lincoln, Nebr.",
+  "waterbody": "Little Salt Creek near Lincoln, Nebr.",
+  "state": "NE",
+  "latitude": 40.893219,
+  "longitude": -96.681672,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LICN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Salt Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/licn1",
+  "slug": "usgs-06803510",
+  "noaaForecastPath": "data/noaa-forecast/LICN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01407705",
+  "key": "01407705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01407705",
+  "name": "Shark River near Neptune City NJ",
+  "waterbody": "Shark River near Neptune City NJ",
+  "state": "NJ",
+  "latitude": 40.19861111,
+  "longitude": -74.07,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEPN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shark River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nepn4",
+  "slug": "usgs-01407705",
+  "noaaForecastPath": "data/noaa-forecast/NEPN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

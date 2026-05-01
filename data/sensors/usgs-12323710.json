@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12323710",
+  "key": "12323710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12323710",
+  "name": "Willow Creek nr Anaconda, MT",
+  "waterbody": "Willow Creek nr Anaconda, MT",
+  "state": "MT",
+  "latitude": 46.0645111,
+  "longitude": -112.8935306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12323710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

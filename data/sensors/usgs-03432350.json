@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03432350",
+  "key": "03432350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03432350",
+  "name": "HARPETH RIVER AT FRANKLIN, TN",
+  "waterbody": "HARPETH RIVER AT FRANKLIN, TN",
+  "state": "TN",
+  "latitude": 35.92084908,
+  "longitude": -86.86548879,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRAT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Harpeth River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frat1",
+  "slug": "usgs-03432350",
+  "noaaForecastPath": "data/noaa-forecast/FRAT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

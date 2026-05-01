@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02039500",
+  "key": "02039500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02039500",
+  "name": "APPOMATTOX RIVER AT FARMVILLE, VA",
+  "waterbody": "APPOMATTOX RIVER AT FARMVILLE, VA",
+  "state": "VA",
+  "latitude": 37.3070965,
+  "longitude": -78.388607,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRMV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Appomattox River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frmv2",
+  "slug": "usgs-02039500",
+  "noaaForecastPath": "data/noaa-forecast/FRMV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

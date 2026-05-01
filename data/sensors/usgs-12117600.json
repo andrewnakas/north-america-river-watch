@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12117600",
+  "key": "12117600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12117600",
+  "name": "CEDAR RIVER BELOW DIVERSION NEAR LANDSBURG, WA",
+  "waterbody": "CEDAR RIVER BELOW DIVERSION NEAR LANDSBURG, WA",
+  "state": "WA",
+  "latitude": 47.3795458,
+  "longitude": -121.983448,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12117600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

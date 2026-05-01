@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05245100",
+  "key": "05245100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05245100",
+  "name": "LONG PRAIRIE RIVER AT LONG PRAIRIE, MN",
+  "waterbody": "LONG PRAIRIE RIVER AT LONG PRAIRIE, MN",
+  "state": "MN",
+  "latitude": 45.97509,
+  "longitude": -94.865925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Prairie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgpm5",
+  "slug": "usgs-05245100",
+  "noaaForecastPath": "data/noaa-forecast/LGPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

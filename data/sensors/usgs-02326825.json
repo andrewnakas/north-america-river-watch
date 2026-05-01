@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02326825",
+  "key": "02326825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326825",
+  "name": "NORTHEAST DD AT HADLEY RD TALLAHASSEE,FL",
+  "waterbody": "NORTHEAST DD AT HADLEY RD TALLAHASSEE,FL",
+  "state": "FL",
+  "latitude": 30.50353335,
+  "longitude": -84.2379543,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02326825",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

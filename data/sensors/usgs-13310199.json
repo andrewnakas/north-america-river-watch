@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13310199",
+  "key": "13310199",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13310199",
+  "name": "MF SALMON RIVER AT MOUTH NR SHOUP, ID",
+  "waterbody": "MF SALMON RIVER AT MOUTH NR SHOUP, ID",
+  "state": "ID",
+  "latitude": 45.2936111,
+  "longitude": -114.5963889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mssi1",
+  "slug": "usgs-13310199",
+  "noaaForecastPath": "data/noaa-forecast/MSSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

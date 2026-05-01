@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06356000",
+  "key": "06356000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06356000",
+  "name": "SOUTH FORK GRAND R AT BUFFALO SD",
+  "waterbody": "SOUTH FORK GRAND R AT BUFFALO SD",
+  "state": "SD",
+  "latitude": 45.5761079,
+  "longitude": -103.5443583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06356000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

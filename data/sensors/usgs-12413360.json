@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12413360",
+  "key": "12413360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413360",
+  "name": "EF PINE CREEK ABV GILBERT CR NEAR PINEHURST ID",
+  "waterbody": "EF PINE CREEK ABV GILBERT CR NEAR PINEHURST ID",
+  "state": "ID",
+  "latitude": 47.44027778,
+  "longitude": -116.1752778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12413360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05458500",
+  "key": "05458500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05458500",
+  "name": "Cedar River at Janesville, IA",
+  "waterbody": "Cedar River at Janesville, IA",
+  "state": "IA",
+  "latitude": 42.64831667,
+  "longitude": -92.4651861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JANI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jani4",
+  "slug": "usgs-05458500",
+  "noaaForecastPath": "data/noaa-forecast/JANI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

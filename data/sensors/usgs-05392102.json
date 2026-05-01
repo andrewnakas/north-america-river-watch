@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05392102",
+  "key": "05392102",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05392102",
+  "name": "TOMAHAWK RIVER @ STATE HIGHWAY 70 NEAR MINOCQUA,WI",
+  "waterbody": "TOMAHAWK RIVER @ STATE HIGHWAY 70 NEAR MINOCQUA,WI",
+  "state": "WI",
+  "latitude": 45.8832862,
+  "longitude": -89.7423709,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05392102",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

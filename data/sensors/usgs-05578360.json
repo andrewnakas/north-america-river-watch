@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05578360",
+  "key": "05578360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05578360",
+  "name": "SALT CREEK AT WELDON SPRINGS RD NR CLINTON, IL",
+  "waterbody": "SALT CREEK AT WELDON SPRINGS RD NR CLINTON, IL",
+  "state": "IL",
+  "latitude": 40.10988889,
+  "longitude": -88.9237306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05578360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

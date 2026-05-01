@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01616425",
+  "key": "01616425",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01616425",
+  "name": "HOPEWELL RUN AT LEETOWN, WV",
+  "waterbody": "HOPEWELL RUN AT LEETOWN, WV",
+  "state": "WV",
+  "latitude": 39.35463889,
+  "longitude": -77.9336111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01616425",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

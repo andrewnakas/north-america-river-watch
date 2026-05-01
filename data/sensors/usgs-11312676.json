@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11312676",
+  "key": "11312676",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11312676",
+  "name": "MIDDLE R AT MIDDLE RIVER CA",
+  "waterbody": "MIDDLE R AT MIDDLE RIVER CA",
+  "state": "CA",
+  "latitude": 37.94226944,
+  "longitude": -121.5337,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacramento-San Joaquin Delta",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcic1",
+  "slug": "usgs-11312676",
+  "noaaForecastPath": "data/noaa-forecast/BCIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04106906",
+  "key": "04106906",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04106906",
+  "name": "KALAMAZOO RIVER AT PLAINWELL, MI",
+  "waterbody": "KALAMAZOO RIVER AT PLAINWELL, MI",
+  "state": "MI",
+  "latitude": 42.4486111,
+  "longitude": -85.6494444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04106906",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

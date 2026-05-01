@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04159500",
+  "key": "04159500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04159500",
+  "name": "BLACK RIVER NEAR FARGO, MI",
+  "waterbody": "BLACK RIVER NEAR FARGO, MI",
+  "state": "MI",
+  "latitude": 43.09224958,
+  "longitude": -82.6179795,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04159500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

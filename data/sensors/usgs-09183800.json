@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09183800",
+  "key": "09183800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09183800",
+  "name": "NORTH FORK MILL CREEK NEAR MOAB, UTAH",
+  "waterbody": "NORTH FORK MILL CREEK NEAR MOAB, UTAH",
+  "state": "UT",
+  "latitude": 38.56599444,
+  "longitude": -109.477175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFMU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Mill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfmu1",
+  "slug": "usgs-09183800",
+  "noaaForecastPath": "data/noaa-forecast/NFMU1.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

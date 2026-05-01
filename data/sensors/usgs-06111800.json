@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06111800",
+  "key": "06111800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06111800",
+  "name": "Big Spring Cr at R&B Trading Post nr Lewistown MT",
+  "waterbody": "Big Spring Cr at R&B Trading Post nr Lewistown MT",
+  "state": "MT",
+  "latitude": 47.0878333,
+  "longitude": -109.4575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTPM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Spring Creek (MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltpm8",
+  "slug": "usgs-06111800",
+  "noaaForecastPath": "data/noaa-forecast/LTPM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

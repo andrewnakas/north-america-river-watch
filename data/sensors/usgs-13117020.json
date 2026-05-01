@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13117020",
+  "key": "13117020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13117020",
+  "name": "BIRCH CREEK AT BLUE DOME INN NR RENO ID",
+  "waterbody": "BIRCH CREEK AT BLUE DOME INN NR RENO ID",
+  "state": "ID",
+  "latitude": 44.1533333,
+  "longitude": -112.9091667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13117020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

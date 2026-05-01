@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03373560",
+  "key": "03373560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03373560",
+  "name": "LOST RIVER NEAR PROSPECT, IN",
+  "waterbody": "LOST RIVER NEAR PROSPECT, IN",
+  "state": "IN",
+  "latitude": 38.58116238,
+  "longitude": -86.5988716,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSPI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lost River (IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pspi3",
+  "slug": "usgs-03373560",
+  "noaaForecastPath": "data/noaa-forecast/PSPI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

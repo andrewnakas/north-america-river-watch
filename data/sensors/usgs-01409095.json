@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01409095",
+  "key": "01409095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01409095",
+  "name": "Oyster Creek near Brookville NJ",
+  "waterbody": "Oyster Creek near Brookville NJ",
+  "state": "NJ",
+  "latitude": 39.7983333,
+  "longitude": -74.25027778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01409095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

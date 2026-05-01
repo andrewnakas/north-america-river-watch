@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14309000",
+  "key": "14309000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14309000",
+  "name": "COW CREEK NEAR AZALEA, OR",
+  "waterbody": "COW CREEK NEAR AZALEA, OR",
+  "state": "OR",
+  "latitude": 42.82484286,
+  "longitude": -123.1789492,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AZAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/azao3",
+  "slug": "usgs-14309000",
+  "noaaForecastPath": "data/noaa-forecast/AZAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

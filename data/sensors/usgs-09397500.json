@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09397500",
+  "key": "09397500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09397500",
+  "name": "CHEVELON FORK BELOW WILDCAT CANYON, NR WINSLOW, AZ",
+  "waterbody": "CHEVELON FORK BELOW WILDCAT CANYON, NR WINSLOW, AZ",
+  "state": "AZ",
+  "latitude": 34.636389,
+  "longitude": -110.713611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHWA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chevelon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chwa3",
+  "slug": "usgs-09397500",
+  "noaaForecastPath": "data/noaa-forecast/CHWA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

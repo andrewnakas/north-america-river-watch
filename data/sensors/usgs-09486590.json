@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09486590",
+  "key": "09486590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486590",
+  "name": "ARIVACA CREEK NEAR ARIVACA, AZ",
+  "waterbody": "ARIVACA CREEK NEAR ARIVACA, AZ",
+  "state": "AZ",
+  "latitude": 31.58355556,
+  "longitude": -111.34975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09486590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05331000",
+  "key": "05331000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05331000",
+  "name": "MISSISSIPPI RIVER AT ST. PAUL, MN",
+  "waterbody": "MISSISSIPPI RIVER AT ST. PAUL, MN",
+  "state": "MN",
+  "latitude": 44.9444444,
+  "longitude": -93.0881111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stpm5",
+  "slug": "usgs-05331000",
+  "noaaForecastPath": "data/noaa-forecast/STPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

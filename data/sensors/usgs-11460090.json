@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11460090",
+  "key": "11460090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11460090",
+  "name": "CORTE MADERA C NR LARKSPUR CA",
+  "waterbody": "CORTE MADERA C NR LARKSPUR CA",
+  "state": "CA",
+  "latitude": 37.9433333,
+  "longitude": -122.5147222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11460090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

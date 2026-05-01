@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05536105",
+  "key": "05536105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536105",
+  "name": "NB CHICAGO RIVER AT ALBANY AVENUE AT CHICAGO, IL",
+  "waterbody": "NB CHICAGO RIVER AT ALBANY AVENUE AT CHICAGO, IL",
+  "state": "IL",
+  "latitude": 41.97416667,
+  "longitude": -87.7058333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05536105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

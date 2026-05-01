@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083405",
+  "key": "08083405",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083405",
+  "name": "Little Elm Ck at Dub Wright Blvd, Abilene, TX",
+  "waterbody": "Little Elm Ck at Dub Wright Blvd, Abilene, TX",
+  "state": "TX",
+  "latitude": 32.42970833,
+  "longitude": -99.80825278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083405",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03300400",
+  "key": "03300400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03300400",
+  "name": "BEECH FORK AT MAUD, KY",
+  "waterbody": "BEECH FORK AT MAUD, KY",
+  "state": "KY",
+  "latitude": 37.83283985,
+  "longitude": -85.2960686,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUDK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beech Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mudk2",
+  "slug": "usgs-03300400",
+  "noaaForecastPath": "data/noaa-forecast/MUDK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08292000",
+  "key": "08292000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08292000",
+  "name": "SANTA CLARA CREEK NEAR ESPANOLA, NM",
+  "waterbody": "SANTA CLARA CREEK NEAR ESPANOLA, NM",
+  "state": "NM",
+  "latitude": 35.97780087,
+  "longitude": -106.1728027,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08292000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

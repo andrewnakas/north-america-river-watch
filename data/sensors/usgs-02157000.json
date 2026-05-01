@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02157000",
+  "key": "02157000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02157000",
+  "name": "NORTH TYGER RIVER NEAR FAIRMONT, SC",
+  "waterbody": "NORTH TYGER RIVER NEAR FAIRMONT, SC",
+  "state": "SC",
+  "latitude": 34.930081,
+  "longitude": -82.043819,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02157000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

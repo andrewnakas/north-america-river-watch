@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08111850",
+  "key": "08111850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111850",
+  "name": "Brazos Rv at San Felipe, TX",
+  "waterbody": "Brazos Rv at San Felipe, TX",
+  "state": "TX",
+  "latitude": 29.80833333,
+  "longitude": -96.0955556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bawt2",
+  "slug": "usgs-08111850",
+  "noaaForecastPath": "data/noaa-forecast/BAWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

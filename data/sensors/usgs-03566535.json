@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03566535",
+  "key": "03566535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03566535",
+  "name": "NORTH CHICKAMAUGA CR AT MILE STRAIGHT, TN",
+  "waterbody": "NORTH CHICKAMAUGA CR AT MILE STRAIGHT, TN",
+  "state": "TN",
+  "latitude": 35.2111806,
+  "longitude": -85.2152353,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCCT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Chickamauga Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncct1",
+  "slug": "usgs-03566535",
+  "noaaForecastPath": "data/noaa-forecast/NCCT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

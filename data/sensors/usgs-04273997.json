@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04273997",
+  "key": "04273997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04273997",
+  "name": "W BR AUSABLE R TRIB 1 BLW ST HW 86 NR LK PLACID NY",
+  "waterbody": "W BR AUSABLE R TRIB 1 BLW ST HW 86 NR LK PLACID NY",
+  "state": "NY",
+  "latitude": 44.3037861,
+  "longitude": -73.92070278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04273997",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

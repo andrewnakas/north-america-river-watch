@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05543800",
+  "key": "05543800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05543800",
+  "name": "FOX RIVER AT WATERTOWN ROAD NEAR WAUKESHA, WI",
+  "waterbody": "FOX RIVER AT WATERTOWN ROAD NEAR WAUKESHA, WI",
+  "state": "WI",
+  "latitude": 43.05337198,
+  "longitude": -88.1948418,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05543800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

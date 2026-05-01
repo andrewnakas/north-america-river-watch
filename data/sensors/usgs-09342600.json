@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09342600",
+  "key": "09342600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09342600",
+  "name": "SAN JUAN RIVER NEAR CO RD 119 AT PAGOSA SPRINGS CO",
+  "waterbody": "SAN JUAN RIVER NEAR CO RD 119 AT PAGOSA SPRINGS CO",
+  "state": "CO",
+  "latitude": 37.25834444,
+  "longitude": -107.0111083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09342600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

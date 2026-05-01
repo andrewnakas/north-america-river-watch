@@ -1,0 +1,19 @@
+{
+  "id": "usgs:400423082353500",
+  "key": "400423082353500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "400423082353500",
+  "name": "Flume at SR 37 E of Moots Run nr Alexandria OH",
+  "waterbody": "Flume at SR 37 E of Moots Run nr Alexandria OH",
+  "state": "OH",
+  "latitude": 40.07305556,
+  "longitude": -82.5930556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-400423082353500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01595200",
+  "key": "01595200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01595200",
+  "name": "STONY RIVER NEAR MOUNT STORM, WV",
+  "waterbody": "STONY RIVER NEAR MOUNT STORM, WV",
+  "state": "WV",
+  "latitude": 39.26954905,
+  "longitude": -79.2622625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01595200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

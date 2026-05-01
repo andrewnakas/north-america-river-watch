@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07105945",
+  "key": "07105945",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07105945",
+  "name": "ROCK CREEK ABOVE FORT CARSON RESERVATION, CO",
+  "waterbody": "ROCK CREEK ABOVE FORT CARSON RESERVATION, CO",
+  "state": "CO",
+  "latitude": 38.707493,
+  "longitude": -104.8466403,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07105945",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

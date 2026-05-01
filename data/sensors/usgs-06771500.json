@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06771500",
+  "key": "06771500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06771500",
+  "name": "WOOD RIVER NEAR GIBBON, NE",
+  "waterbody": "WOOD RIVER NEAR GIBBON, NE",
+  "state": "NE",
+  "latitude": 40.7711111,
+  "longitude": -98.7977778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wood River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbbn1",
+  "slug": "usgs-06771500",
+  "noaaForecastPath": "data/noaa-forecast/GBBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

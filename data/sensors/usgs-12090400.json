@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12090400",
+  "key": "12090400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12090400",
+  "name": "NORTH FORK CLOVER CREEK NEAR PARKLAND, WA",
+  "waterbody": "NORTH FORK CLOVER CREEK NEAR PARKLAND, WA",
+  "state": "WA",
+  "latitude": 47.1345151,
+  "longitude": -122.4151013,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12090400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10143500",
+  "key": "10143500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10143500",
+  "name": "CENTERVILLE CREEK ABV DIV NR CENTERVILLE, UT",
+  "waterbody": "CENTERVILLE CREEK ABV DIV NR CENTERVILLE, UT",
+  "state": "UT",
+  "latitude": 40.916389,
+  "longitude": -111.862222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10143500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

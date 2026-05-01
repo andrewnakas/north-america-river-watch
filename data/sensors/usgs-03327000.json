@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03327000",
+  "key": "03327000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03327000",
+  "name": "MISSISSINEWA RIVER AT PEORIA, IN",
+  "waterbody": "MISSISSINEWA RIVER AT PEORIA, IN",
+  "state": "IN",
+  "latitude": 40.7233579,
+  "longitude": -85.9574609,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSSI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northern Indiana Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mssi3",
+  "slug": "usgs-03327000",
+  "noaaForecastPath": "data/noaa-forecast/MSSI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05051600",
+  "key": "05051600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05051600",
+  "name": "WILD RICE RIVER NEAR RUTLAND, ND",
+  "waterbody": "WILD RICE RIVER NEAR RUTLAND, ND",
+  "state": "ND",
+  "latitude": 46.02218992,
+  "longitude": -97.51148196,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FWRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wild Rice River (ND)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fwrn8",
+  "slug": "usgs-05051600",
+  "noaaForecastPath": "data/noaa-forecast/FWRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

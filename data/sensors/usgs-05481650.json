@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05481650",
+  "key": "05481650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05481650",
+  "name": "Des Moines River near Saylorville, IA",
+  "waterbody": "Des Moines River near Saylorville, IA",
+  "state": "IA",
+  "latitude": 41.6803333,
+  "longitude": -93.6676111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDTI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdti4",
+  "slug": "usgs-05481650",
+  "noaaForecastPath": "data/noaa-forecast/SDTI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

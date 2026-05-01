@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11525500",
+  "key": "11525500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11525500",
+  "name": "TRINITY R A LEWISTON CA",
+  "waterbody": "TRINITY R A LEWISTON CA",
+  "state": "CA",
+  "latitude": 40.7247222,
+  "longitude": -122.801111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRWC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trwc1",
+  "slug": "usgs-11525500",
+  "noaaForecastPath": "data/noaa-forecast/TRWC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

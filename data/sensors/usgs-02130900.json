@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02130900",
+  "key": "02130900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02130900",
+  "name": "BLACK CREEK NEAR MCBEE, SC",
+  "waterbody": "BLACK CREEK NEAR MCBEE, SC",
+  "state": "SC",
+  "latitude": 34.51404244,
+  "longitude": -80.1831244,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Creek (SC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcbs1",
+  "slug": "usgs-02130900",
+  "noaaForecastPath": "data/noaa-forecast/MCBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

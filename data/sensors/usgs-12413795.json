@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12413795",
+  "key": "12413795",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413795",
+  "name": "Coeur D Alene R Abv Rose Lake ID",
+  "waterbody": "Coeur D Alene R Abv Rose Lake ID",
+  "state": "ID",
+  "latitude": 47.5375083,
+  "longitude": -116.4678389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12413795",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

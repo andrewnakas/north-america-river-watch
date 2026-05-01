@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07072500",
+  "key": "07072500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07072500",
+  "name": "Black River at Black Rock, AR",
+  "waterbody": "Black River at Black Rock, AR",
+  "state": "AR",
+  "latitude": 36.1025,
+  "longitude": -91.0977778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKRA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkra4",
+  "slug": "usgs-07072500",
+  "noaaForecastPath": "data/noaa-forecast/BKRA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

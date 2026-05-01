@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14208300",
+  "key": "14208300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14208300",
+  "name": "COLLAWASH R NR BREITENBUSH, OR",
+  "waterbody": "COLLAWASH R NR BREITENBUSH, OR",
+  "state": "OR",
+  "latitude": 44.987944,
+  "longitude": -122.065972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14208300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

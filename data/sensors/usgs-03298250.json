@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03298250",
+  "key": "03298250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298250",
+  "name": "CEDAR CREEK AT THIXTON ROAD NEAR LOUISVILLE, KY",
+  "waterbody": "CEDAR CREEK AT THIXTON ROAD NEAR LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.0792321,
+  "longitude": -85.6160683,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03298250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

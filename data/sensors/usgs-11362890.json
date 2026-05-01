@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11362890",
+  "key": "11362890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11362890",
+  "name": "NELSON C RELEASE WEIR BL PP DIV NR BIG BEND CA",
+  "waterbody": "NELSON C RELEASE WEIR BL PP DIV NR BIG BEND CA",
+  "state": "CA",
+  "latitude": 41.04210268,
+  "longitude": -121.8772172,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11362890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

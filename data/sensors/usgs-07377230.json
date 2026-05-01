@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07377230",
+  "key": "07377230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07377230",
+  "name": "Little Sandy Creek at Peairs Rd SE of Milldale, LA",
+  "waterbody": "Little Sandy Creek at Peairs Rd SE of Milldale, LA",
+  "state": "LA",
+  "latitude": 30.6436856,
+  "longitude": -91.0074645,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prcl1",
+  "slug": "usgs-07377230",
+  "noaaForecastPath": "data/noaa-forecast/PRCL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

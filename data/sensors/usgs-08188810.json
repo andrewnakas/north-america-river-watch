@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08188810",
+  "key": "08188810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08188810",
+  "name": "Guadalupe Rv at SH 35 nr Tivoli, TX",
+  "waterbody": "Guadalupe Rv at SH 35 nr Tivoli, TX",
+  "state": "TX",
+  "latitude": 28.4783224,
+  "longitude": -96.8627751,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TVLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tvlt2",
+  "slug": "usgs-08188810",
+  "noaaForecastPath": "data/noaa-forecast/TVLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021765795",
+  "key": "021765795",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021765795",
+  "name": "COLLETON RIVER AT BLUFFTON, SC",
+  "waterbody": "COLLETON RIVER AT BLUFFTON, SC",
+  "state": "SC",
+  "latitude": 32.2878722,
+  "longitude": -80.813975,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRIS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colleton River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cris1",
+  "slug": "usgs-021765795",
+  "noaaForecastPath": "data/noaa-forecast/CRIS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

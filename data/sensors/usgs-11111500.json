@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11111500",
+  "key": "11111500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11111500",
+  "name": "SESPE CREEK NEAR WHEELER SPRINGS CA",
+  "waterbody": "SESPE CREEK NEAR WHEELER SPRINGS CA",
+  "state": "CA",
+  "latitude": 34.5777657,
+  "longitude": -119.2573347,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSWC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sespe Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sswc1",
+  "slug": "usgs-11111500",
+  "noaaForecastPath": "data/noaa-forecast/SSWC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

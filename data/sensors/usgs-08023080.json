@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08023080",
+  "key": "08023080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08023080",
+  "name": "Bayou Grand Cane near Stanley, LA",
+  "waterbody": "Bayou Grand Cane near Stanley, LA",
+  "state": "LA",
+  "latitude": 31.9627248,
+  "longitude": -93.9411723,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08023080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

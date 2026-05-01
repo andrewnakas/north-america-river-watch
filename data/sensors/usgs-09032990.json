@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09032990",
+  "key": "09032990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09032990",
+  "name": "MEADOW CREEK BLW MEADOW CREEK RES NR TABERNASH, CO",
+  "waterbody": "MEADOW CREEK BLW MEADOW CREEK RES NR TABERNASH, CO",
+  "state": "CO",
+  "latitude": 40.05202778,
+  "longitude": -105.7541667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09032990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

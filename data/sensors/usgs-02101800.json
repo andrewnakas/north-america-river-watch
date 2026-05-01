@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02101800",
+  "key": "02101800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02101800",
+  "name": "TICK CREEK NEAR MOUNT VERNON SPRINGS, NC",
+  "waterbody": "TICK CREEK NEAR MOUNT VERNON SPRINGS, NC",
+  "state": "NC",
+  "latitude": 35.6597222,
+  "longitude": -79.4016667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mvsn7",
+  "slug": "usgs-02101800",
+  "noaaForecastPath": "data/noaa-forecast/MVSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

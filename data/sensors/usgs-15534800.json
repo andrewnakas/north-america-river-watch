@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15534800",
+  "key": "15534800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15534800",
+  "name": "CHATANIKA R AB POKER C NR CHATANIKA AK",
+  "waterbody": "CHATANIKA R AB POKER C NR CHATANIKA AK",
+  "state": "AK",
+  "latitude": 65.1409668,
+  "longitude": -147.4580118,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15534800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

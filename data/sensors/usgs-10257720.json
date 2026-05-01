@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10257720",
+  "key": "10257720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10257720",
+  "name": "CHINO CYN C BL TRAMWAY NR PALM SPRINGS CA",
+  "waterbody": "CHINO CYN C BL TRAMWAY NR PALM SPRINGS CA",
+  "state": "CA",
+  "latitude": 33.84385,
+  "longitude": -116.6058083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10257720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

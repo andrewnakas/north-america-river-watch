@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03076500",
+  "key": "03076500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03076500",
+  "name": "YOUGHIOGHENY RIVER AT FRIENDSVILLE, MD",
+  "waterbody": "YOUGHIOGHENY RIVER AT FRIENDSVILLE, MD",
+  "state": "MD",
+  "latitude": 39.6536111,
+  "longitude": -79.4083056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRDM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Youghiogheny River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frdm2",
+  "slug": "usgs-03076500",
+  "noaaForecastPath": "data/noaa-forecast/FRDM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

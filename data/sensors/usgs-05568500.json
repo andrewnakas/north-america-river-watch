@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05568500",
+  "key": "05568500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05568500",
+  "name": "ILLINOIS RIVER AT KINGSTON MINES, IL",
+  "waterbody": "ILLINOIS RIVER AT KINGSTON MINES, IL",
+  "state": "IL",
+  "latitude": 40.55343889,
+  "longitude": -89.7772722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kngi2",
+  "slug": "usgs-05568500",
+  "noaaForecastPath": "data/noaa-forecast/KNGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01542500",
+  "key": "01542500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01542500",
+  "name": "WB Susquehanna River at Karthaus, PA",
+  "waterbody": "WB Susquehanna River at Karthaus, PA",
+  "state": "PA",
+  "latitude": 41.11755906,
+  "longitude": -78.108896,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KARP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/karp1",
+  "slug": "usgs-01542500",
+  "noaaForecastPath": "data/noaa-forecast/KARP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

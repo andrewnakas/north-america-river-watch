@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03451000",
+  "key": "03451000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03451000",
+  "name": "SWANNANOA RIVER AT BILTMORE, NC",
+  "waterbody": "SWANNANOA RIVER AT BILTMORE, NC",
+  "state": "NC",
+  "latitude": 35.5683333,
+  "longitude": -82.5447222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLTN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swannanoa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bltn7",
+  "slug": "usgs-03451000",
+  "noaaForecastPath": "data/noaa-forecast/BLTN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

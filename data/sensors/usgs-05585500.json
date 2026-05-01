@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05585500",
+  "key": "05585500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05585500",
+  "name": "ILLINOIS RIVER AT MEREDOSIA, IL",
+  "waterbody": "ILLINOIS RIVER AT MEREDOSIA, IL",
+  "state": "IL",
+  "latitude": 39.83116667,
+  "longitude": -90.5598333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MROI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mroi2",
+  "slug": "usgs-05585500",
+  "noaaForecastPath": "data/noaa-forecast/MROI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

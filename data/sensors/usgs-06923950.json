@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06923950",
+  "key": "06923950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06923950",
+  "name": "Niangua River at Tunnel Dam near Macks Creek, MO",
+  "waterbody": "Niangua River at Tunnel Dam near Macks Creek, MO",
+  "state": "MO",
+  "latitude": 37.93694444,
+  "longitude": -92.8513611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TUDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Niangua River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tudm7",
+  "slug": "usgs-06923950",
+  "noaaForecastPath": "data/noaa-forecast/TUDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

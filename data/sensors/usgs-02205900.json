@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02205900",
+  "key": "02205900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02205900",
+  "name": "BEAVER RUIN CREEK AT MITCHELL RD, NR NORCROSS, GA",
+  "waterbody": "BEAVER RUIN CREEK AT MITCHELL RD, NR NORCROSS, GA",
+  "state": "GA",
+  "latitude": 33.92555556,
+  "longitude": -84.1936111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Ruin Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvrg1",
+  "slug": "usgs-02205900",
+  "noaaForecastPath": "data/noaa-forecast/BVRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03599408",
+  "key": "03599408",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03599408",
+  "name": "DUCK RIVER AT CARPENTER'S BRIDGE NR POTTSVILLE, TN",
+  "waterbody": "DUCK RIVER AT CARPENTER'S BRIDGE NR POTTSVILLE, TN",
+  "state": "TN",
+  "latitude": 35.6178481,
+  "longitude": -86.8661123,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03599408",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

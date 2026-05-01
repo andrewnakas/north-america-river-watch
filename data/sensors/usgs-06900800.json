@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06900800",
+  "key": "06900800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06900800",
+  "name": "Grand River near Fountain Grove, MO",
+  "waterbody": "Grand River near Fountain Grove, MO",
+  "state": "MO",
+  "latitude": 39.6922222,
+  "longitude": -93.3252778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06900800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03560500",
+  "key": "03560500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03560500",
+  "name": "DAVIS MILL CREEK AT COPPERHILL, TN",
+  "waterbody": "DAVIS MILL CREEK AT COPPERHILL, TN",
+  "state": "TN",
+  "latitude": 34.99535785,
+  "longitude": -84.3821455,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03560500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08067000",
+  "key": "08067000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067000",
+  "name": "Trinity Rv at Liberty, TX",
+  "waterbody": "Trinity Rv at Liberty, TX",
+  "state": "TX",
+  "latitude": 30.05771539,
+  "longitude": -94.8182567,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbyt2",
+  "slug": "usgs-08067000",
+  "noaaForecastPath": "data/noaa-forecast/LBYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.393Z"
+}

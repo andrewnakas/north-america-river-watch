@@ -1,0 +1,22 @@
+{
+  "id": "usgs:413217083492900",
+  "key": "413217083492900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "413217083492900",
+  "name": "Swan Creek at Oak Openings Metropark OH",
+  "waterbody": "Swan Creek at Oak Openings Metropark OH",
+  "state": "OH",
+  "latitude": 41.538044,
+  "longitude": -83.824689,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKOO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swan Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okoo1",
+  "slug": "usgs-413217083492900",
+  "noaaForecastPath": "data/noaa-forecast/OKOO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

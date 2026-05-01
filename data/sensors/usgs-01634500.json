@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01634500",
+  "key": "01634500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01634500",
+  "name": "CEDAR CREEK NEAR WINCHESTER, VA",
+  "waterbody": "CEDAR CREEK NEAR WINCHESTER, VA",
+  "state": "VA",
+  "latitude": 39.0812176,
+  "longitude": -78.3294486,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wccv2",
+  "slug": "usgs-01634500",
+  "noaaForecastPath": "data/noaa-forecast/WCCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

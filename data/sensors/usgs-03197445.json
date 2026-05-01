@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03197445",
+  "key": "03197445",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03197445",
+  "name": "BIG SANDY CREEK BL LT HAND CREEK NR CLENDENIN, WV",
+  "waterbody": "BIG SANDY CREEK BL LT HAND CREEK NR CLENDENIN, WV",
+  "state": "WV",
+  "latitude": 38.5227222,
+  "longitude": -81.3476944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSCW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy Creek (WV)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bscw2",
+  "slug": "usgs-03197445",
+  "noaaForecastPath": "data/noaa-forecast/BSCW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

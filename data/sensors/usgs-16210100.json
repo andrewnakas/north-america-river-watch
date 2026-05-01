@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16210100",
+  "key": "16210100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16210100",
+  "name": "Wahiawa Ditch at Wahiawa, Oahu, HI",
+  "waterbody": "Wahiawa Ditch at Wahiawa, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.50055556,
+  "longitude": -158.0510278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16210100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

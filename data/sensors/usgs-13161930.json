@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13161930",
+  "key": "13161930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13161930",
+  "name": "BIG JACKS CREEK AT PARKER TRAIL NR GRASMERE, ID",
+  "waterbody": "BIG JACKS CREEK AT PARKER TRAIL NR GRASMERE, ID",
+  "state": "ID",
+  "latitude": 42.593889,
+  "longitude": -115.993889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BJCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Jacks Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bjci1",
+  "slug": "usgs-13161930",
+  "noaaForecastPath": "data/noaa-forecast/BJCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

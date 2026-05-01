@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11141280",
+  "key": "11141280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11141280",
+  "name": "LOPEZ C NR ARROYO GRANDE CA",
+  "waterbody": "LOPEZ C NR ARROYO GRANDE CA",
+  "state": "CA",
+  "latitude": 35.23551667,
+  "longitude": -120.4723504,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11141280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

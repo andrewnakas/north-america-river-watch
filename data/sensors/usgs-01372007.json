@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01372007",
+  "key": "01372007",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01372007",
+  "name": "RONDOUT CREEK AT RONDOUT NY",
+  "waterbody": "RONDOUT CREEK AT RONDOUT NY",
+  "state": "NY",
+  "latitude": 41.918139,
+  "longitude": -73.981722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rondout Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdtn6",
+  "slug": "usgs-01372007",
+  "noaaForecastPath": "data/noaa-forecast/RDTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

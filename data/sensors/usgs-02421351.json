@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02421351",
+  "key": "02421351",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02421351",
+  "name": "ALABAMA RIVER BL ROBERT F HENRY L&D NEAR BENTON,AL",
+  "waterbody": "ALABAMA RIVER BL ROBERT F HENRY L&D NEAR BENTON,AL",
+  "state": "AL",
+  "latitude": 32.32236057,
+  "longitude": -86.7838712,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYLA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alabama River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tyla1",
+  "slug": "usgs-02421351",
+  "noaaForecastPath": "data/noaa-forecast/TYLA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

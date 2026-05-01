@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01161000",
+  "key": "01161000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01161000",
+  "name": "ASHUELOT RIVER AT HINSDALE, NH",
+  "waterbody": "ASHUELOT RIVER AT HINSDALE, NH",
+  "state": "NH",
+  "latitude": 42.78591586,
+  "longitude": -72.4861996,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDLN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashuelot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdln3",
+  "slug": "usgs-01161000",
+  "noaaForecastPath": "data/noaa-forecast/HDLN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

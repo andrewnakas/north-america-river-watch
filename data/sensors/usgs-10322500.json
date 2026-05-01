@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10322500",
+  "key": "10322500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322500",
+  "name": "HUMBOLDT RV AT PALISADE, NV",
+  "waterbody": "HUMBOLDT RV AT PALISADE, NV",
+  "state": "NV",
+  "latitude": 40.60741747,
+  "longitude": -116.2017444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PALN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humboldt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paln2",
+  "slug": "usgs-10322500",
+  "noaaForecastPath": "data/noaa-forecast/PALN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

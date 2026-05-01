@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01118300",
+  "key": "01118300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01118300",
+  "name": "PENDLETON HILL BROOK NEAR CLARKS FALLS, CT",
+  "waterbody": "PENDLETON HILL BROOK NEAR CLARKS FALLS, CT",
+  "state": "CT",
+  "latitude": 41.47482222,
+  "longitude": -71.83423611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHBC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pendlenton Hill Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phbc3",
+  "slug": "usgs-01118300",
+  "noaaForecastPath": "data/noaa-forecast/PHBC3.json",
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

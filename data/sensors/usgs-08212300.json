@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08212300",
+  "key": "08212300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08212300",
+  "name": "Tranquitas Ck at Kingsville, TX",
+  "waterbody": "Tranquitas Ck at Kingsville, TX",
+  "state": "TX",
+  "latitude": 27.52614624,
+  "longitude": -97.8674982,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KIVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tranquitas Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kivt2",
+  "slug": "usgs-08212300",
+  "noaaForecastPath": "data/noaa-forecast/KIVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08212400",
+  "key": "08212400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08212400",
+  "name": "Los Olmos Ck nr Falfurrias, TX",
+  "waterbody": "Los Olmos Ck nr Falfurrias, TX",
+  "state": "TX",
+  "latitude": 27.26448618,
+  "longitude": -98.1358378,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FAFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Los Olmos Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/faft2",
+  "slug": "usgs-08212400",
+  "noaaForecastPath": "data/noaa-forecast/FAFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

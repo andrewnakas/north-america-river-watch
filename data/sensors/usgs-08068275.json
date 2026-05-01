@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068275",
+  "key": "08068275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068275",
+  "name": "Spring Ck nr Tomball, TX",
+  "waterbody": "Spring Ck nr Tomball, TX",
+  "state": "TX",
+  "latitude": 30.11993899,
+  "longitude": -95.6460559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmbt2",
+  "slug": "usgs-08068275",
+  "noaaForecastPath": "data/noaa-forecast/TMBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

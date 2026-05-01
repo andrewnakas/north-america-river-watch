@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02093000",
+  "key": "02093000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02093000",
+  "name": "NEW RIVER NEAR GUM BRANCH, NC",
+  "waterbody": "NEW RIVER NEAR GUM BRANCH, NC",
+  "state": "NC",
+  "latitude": 34.84916667,
+  "longitude": -77.5194444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUMN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gumn7",
+  "slug": "usgs-02093000",
+  "noaaForecastPath": "data/noaa-forecast/GUMN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

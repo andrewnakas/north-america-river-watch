@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04213508",
+  "key": "04213508",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04213508",
+  "name": "THATCHER BROOK AT GOWANDA NY",
+  "waterbody": "THATCHER BROOK AT GOWANDA NY",
+  "state": "NY",
+  "latitude": 42.45352778,
+  "longitude": -78.9415556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THAN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thatcher Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/than6",
+  "slug": "usgs-04213508",
+  "noaaForecastPath": "data/noaa-forecast/THAN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

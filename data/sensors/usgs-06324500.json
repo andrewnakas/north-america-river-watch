@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06324500",
+  "key": "06324500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06324500",
+  "name": "Powder River at Moorhead MT",
+  "waterbody": "Powder River at Moorhead MT",
+  "state": "MT",
+  "latitude": 45.0571972,
+  "longitude": -105.8783778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MHDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Powder River (WY-MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mhdm8",
+  "slug": "usgs-06324500",
+  "noaaForecastPath": "data/noaa-forecast/MHDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

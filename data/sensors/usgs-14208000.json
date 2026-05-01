@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14208000",
+  "key": "14208000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14208000",
+  "name": "CLACKAMAS RIVER AT BIG BOTTOM, OR",
+  "waterbody": "CLACKAMAS RIVER AT BIG BOTTOM, OR",
+  "state": "OR",
+  "latitude": 45.0170833,
+  "longitude": -121.9235278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14208000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

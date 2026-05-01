@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0248018020",
+  "key": "0248018020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0248018020",
+  "name": "ESCATAWPA RIVER AT I-10 NR ORANGE GROVE, MS",
+  "waterbody": "ESCATAWPA RIVER AT I-10 NR ORANGE GROVE, MS",
+  "state": "MS",
+  "latitude": 30.4586111,
+  "longitude": -88.45138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORAM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Escatawpa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oram6",
+  "slug": "usgs-0248018020",
+  "noaaForecastPath": "data/noaa-forecast/ORAM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

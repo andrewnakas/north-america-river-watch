@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03315850",
+  "key": "03315850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03315850",
+  "name": "GREEN RIVER AT ROCHESTER, KY",
+  "waterbody": "GREEN RIVER AT ROCHESTER, KY",
+  "state": "KY",
+  "latitude": 37.21566667,
+  "longitude": -86.8935556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCHK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rchk2",
+  "slug": "usgs-03315850",
+  "noaaForecastPath": "data/noaa-forecast/RCHK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

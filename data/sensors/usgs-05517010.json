@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05517010",
+  "key": "05517010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05517010",
+  "name": "YELLOW RIVER NEAR BREMS, IN",
+  "waterbody": "YELLOW RIVER NEAR BREMS, IN",
+  "state": "IN",
+  "latitude": 41.30666667,
+  "longitude": -86.7375,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05517010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

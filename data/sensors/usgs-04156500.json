@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04156500",
+  "key": "04156500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04156500",
+  "name": "TITTABAWASSEE RIVER AT FREELAND, MI",
+  "waterbody": "TITTABAWASSEE RIVER AT FREELAND, MI",
+  "state": "MI",
+  "latitude": 43.52474877,
+  "longitude": -84.1252599,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04156500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

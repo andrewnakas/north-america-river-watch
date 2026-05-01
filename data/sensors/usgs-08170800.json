@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08170800",
+  "key": "08170800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08170800",
+  "name": "Blanco Rv at Crabapple Rd nr Blanco, TX",
+  "waterbody": "Blanco Rv at Crabapple Rd nr Blanco, TX",
+  "state": "TX",
+  "latitude": 30.10258333,
+  "longitude": -98.5106667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bapt2",
+  "slug": "usgs-08170800",
+  "noaaForecastPath": "data/noaa-forecast/BAPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

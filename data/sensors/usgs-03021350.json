@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03021350",
+  "key": "03021350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03021350",
+  "name": "French Creek near Wattsburg, PA",
+  "waterbody": "French Creek near Wattsburg, PA",
+  "state": "PA",
+  "latitude": 42.015332,
+  "longitude": -79.7825507,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wttp1",
+  "slug": "usgs-03021350",
+  "noaaForecastPath": "data/noaa-forecast/WTTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

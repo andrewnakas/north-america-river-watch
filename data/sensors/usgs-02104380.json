@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02104380",
+  "key": "02104380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02104380",
+  "name": "BEAVER CREEK AT CUMBERLAND, NC",
+  "waterbody": "BEAVER CREEK AT CUMBERLAND, NC",
+  "state": "NC",
+  "latitude": 35.00291944,
+  "longitude": -78.978575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvfn7",
+  "slug": "usgs-02104380",
+  "noaaForecastPath": "data/noaa-forecast/BVFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

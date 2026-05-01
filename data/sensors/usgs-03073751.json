@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03073751",
+  "key": "03073751",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03073751",
+  "name": "Monongahela R @ Maxwell L&D (lower pool) @ Maxwell",
+  "waterbody": "Monongahela R @ Maxwell L&D (lower pool) @ Maxwell",
+  "state": "PA",
+  "latitude": 39.9974111,
+  "longitude": -79.9589417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03073751",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03414100",
+  "key": "03414100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03414100",
+  "name": "CUMBERLAND RIVER AT BURKESVILLE, KY",
+  "waterbody": "CUMBERLAND RIVER AT BURKESVILLE, KY",
+  "state": "KY",
+  "latitude": 36.78674648,
+  "longitude": -85.3652223,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRKK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brkk2",
+  "slug": "usgs-03414100",
+  "noaaForecastPath": "data/noaa-forecast/BRKK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

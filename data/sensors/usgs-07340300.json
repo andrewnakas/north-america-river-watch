@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07340300",
+  "key": "07340300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07340300",
+  "name": "Cossatot River near Vandervoort, AR",
+  "waterbody": "Cossatot River near Vandervoort, AR",
+  "state": "AR",
+  "latitude": 34.38,
+  "longitude": -94.2363889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07340300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

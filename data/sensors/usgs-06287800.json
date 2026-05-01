@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06287800",
+  "key": "06287800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06287800",
+  "name": "Bighorn River at bridge, at St. Xavier, MT",
+  "waterbody": "Bighorn River at bridge, at St. Xavier, MT",
+  "state": "MT",
+  "latitude": 45.46075278,
+  "longitude": -107.7493283,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXVM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bighorn River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxvm8",
+  "slug": "usgs-06287800",
+  "noaaForecastPath": "data/noaa-forecast/SXVM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

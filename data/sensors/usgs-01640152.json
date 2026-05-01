@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01640152",
+  "key": "01640152",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01640152",
+  "name": "SAMS CREEK AT MCKINSTRYS MILL, MD",
+  "waterbody": "SAMS CREEK AT MCKINSTRYS MILL, MD",
+  "state": "MD",
+  "latitude": 39.53308056,
+  "longitude": -77.15888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01640152",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

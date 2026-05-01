@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12212430",
+  "key": "12212430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12212430",
+  "name": "UNNAMED TRIB TO BERTRAND CR NR H ST NR LYNDEN, WA",
+  "waterbody": "UNNAMED TRIB TO BERTRAND CR NR H ST NR LYNDEN, WA",
+  "state": "WA",
+  "latitude": 48.99812708,
+  "longitude": -122.5012597,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12212430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

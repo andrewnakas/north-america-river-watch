@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10311700",
+  "key": "10311700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10311700",
+  "name": "CARSON RV AT DAYTON, NV",
+  "waterbody": "CARSON RV AT DAYTON, NV",
+  "state": "NV",
+  "latitude": 39.23779444,
+  "longitude": -119.5878583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDYN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carson River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdyn2",
+  "slug": "usgs-10311700",
+  "noaaForecastPath": "data/noaa-forecast/CDYN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

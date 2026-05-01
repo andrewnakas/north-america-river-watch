@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02485700",
+  "key": "02485700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02485700",
+  "name": "HANGING MOSS CREEK NR JACKSON, MS",
+  "waterbody": "HANGING MOSS CREEK NR JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.365,
+  "longitude": -90.1447222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JHMM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hanging Moss Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jhmm6",
+  "slug": "usgs-02485700",
+  "noaaForecastPath": "data/noaa-forecast/JHMM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

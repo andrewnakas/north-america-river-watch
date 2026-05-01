@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12192700",
+  "key": "12192700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12192700",
+  "name": "THUNDER CREEK NEAR CONCRETE, WA",
+  "waterbody": "THUNDER CREEK NEAR CONCRETE, WA",
+  "state": "WA",
+  "latitude": 48.6020615,
+  "longitude": -121.705973,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12192700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

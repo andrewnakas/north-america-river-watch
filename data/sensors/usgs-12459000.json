@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12459000",
+  "key": "12459000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12459000",
+  "name": "WENATCHEE RIVER AT PESHASTIN, WA",
+  "waterbody": "WENATCHEE RIVER AT PESHASTIN, WA",
+  "state": "WA",
+  "latitude": 47.5831447,
+  "longitude": -120.6195014,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PESW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wenatchee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pesw1",
+  "slug": "usgs-12459000",
+  "noaaForecastPath": "data/noaa-forecast/PESW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

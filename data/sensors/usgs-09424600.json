@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09424600",
+  "key": "09424600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09424600",
+  "name": "LITTLE SYCAMORE WASH NEAR BAGDAD, AZ",
+  "waterbody": "LITTLE SYCAMORE WASH NEAR BAGDAD, AZ",
+  "state": "AZ",
+  "latitude": 34.54916667,
+  "longitude": -113.0577778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09424600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

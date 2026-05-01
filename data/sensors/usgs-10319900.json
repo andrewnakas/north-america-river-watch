@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10319900",
+  "key": "10319900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10319900",
+  "name": "S FK HUMBOLDT RV ABV TENMILE CK NR ELKO, NV",
+  "waterbody": "S FK HUMBOLDT RV ABV TENMILE CK NR ELKO, NV",
+  "state": "NV",
+  "latitude": 40.6274972,
+  "longitude": -115.7305222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFHN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Humboldt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfhn2",
+  "slug": "usgs-10319900",
+  "noaaForecastPath": "data/noaa-forecast/SFHN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

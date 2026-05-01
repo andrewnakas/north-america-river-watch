@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10350400",
+  "key": "10350400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10350400",
+  "name": "TRUCKEE RV BLW TRACY, NV",
+  "waterbody": "TRUCKEE RV BLW TRACY, NV",
+  "state": "NV",
+  "latitude": 39.5645,
+  "longitude": -119.5203778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10350400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50031000",
+  "key": "50031000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50031000",
+  "name": "RIO GRANDE DE MANATI AT HWY 155 NR MOROVIS, PR",
+  "waterbody": "RIO GRANDE DE MANATI AT HWY 155 NR MOROVIS, PR",
+  "state": "PR",
+  "latitude": 18.299444,
+  "longitude": -66.41,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MORP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Manati",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/morp4",
+  "slug": "usgs-50031000",
+  "noaaForecastPath": "data/noaa-forecast/MORP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

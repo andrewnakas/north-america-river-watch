@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10337500",
+  "key": "10337500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10337500",
+  "name": "TRUCKEE R A TAHOE CITY CA",
+  "waterbody": "TRUCKEE R A TAHOE CITY CA",
+  "state": "CA",
+  "latitude": 39.16627309,
+  "longitude": -120.1443373,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRTC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trtc1",
+  "slug": "usgs-10337500",
+  "noaaForecastPath": "data/noaa-forecast/TRTC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

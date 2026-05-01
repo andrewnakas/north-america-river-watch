@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05070000",
+  "key": "05070000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05070000",
+  "name": "RED RIVER OF THE NORTH NEAR THOMPSON, ND",
+  "waterbody": "RED RIVER OF THE NORTH NEAR THOMPSON, ND",
+  "state": "ND",
+  "latitude": 47.7588646,
+  "longitude": -96.9439684,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TPNN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River of the North",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tpnn8",
+  "slug": "usgs-05070000",
+  "noaaForecastPath": "data/noaa-forecast/TPNN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

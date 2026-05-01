@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05387500",
+  "key": "05387500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05387500",
+  "name": "Upper Iowa River at Decorah, IA",
+  "waterbody": "Upper Iowa River at Decorah, IA",
+  "state": "IA",
+  "latitude": 43.3048888,
+  "longitude": -91.7955429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEHI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upper Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dehi4",
+  "slug": "usgs-05387500",
+  "noaaForecastPath": "data/noaa-forecast/DEHI4.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

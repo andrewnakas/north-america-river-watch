@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01496200",
+  "key": "01496200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01496200",
+  "name": "PRINCIPIO CREEK NEAR PRINCIPIO FURNACE, MD",
+  "waterbody": "PRINCIPIO CREEK NEAR PRINCIPIO FURNACE, MD",
+  "state": "MD",
+  "latitude": 39.62622297,
+  "longitude": -76.0405037,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01496200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

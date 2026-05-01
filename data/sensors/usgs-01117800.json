@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01117800",
+  "key": "01117800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01117800",
+  "name": "WOOD RIVER NEAR ARCADIA, RI",
+  "waterbody": "WOOD RIVER NEAR ARCADIA, RI",
+  "state": "RI",
+  "latitude": 41.5739884,
+  "longitude": -71.72062318,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARCR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wood River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arcr1",
+  "slug": "usgs-01117800",
+  "noaaForecastPath": "data/noaa-forecast/ARCR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

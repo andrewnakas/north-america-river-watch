@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06599900",
+  "key": "06599900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06599900",
+  "name": "Perry Creek near Millnerville, IA",
+  "waterbody": "Perry Creek near Millnerville, IA",
+  "state": "IA",
+  "latitude": 42.6933333,
+  "longitude": -96.3703056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Perry Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcmi4",
+  "slug": "usgs-06599900",
+  "noaaForecastPath": "data/noaa-forecast/PCMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

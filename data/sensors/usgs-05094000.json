@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05094000",
+  "key": "05094000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05094000",
+  "name": "SOUTH BRANCH TWO RIVERS AT LAKE BRONSON, MN",
+  "waterbody": "SOUTH BRANCH TWO RIVERS AT LAKE BRONSON, MN",
+  "state": "MN",
+  "latitude": 48.7318196,
+  "longitude": -96.6669493,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKBM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Two Rivers River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkbm5",
+  "slug": "usgs-05094000",
+  "noaaForecastPath": "data/noaa-forecast/LKBM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

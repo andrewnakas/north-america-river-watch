@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02331000",
+  "key": "02331000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02331000",
+  "name": "CHATTAHOOCHEE RIVER NEAR LEAF, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER NEAR LEAF, GA",
+  "state": "GA",
+  "latitude": 34.5770833,
+  "longitude": -83.6360278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02331000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

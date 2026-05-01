@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11311300",
+  "key": "11311300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11311300",
+  "name": "TURNER CUT NR HOLT CA",
+  "waterbody": "TURNER CUT NR HOLT CA",
+  "state": "CA",
+  "latitude": 37.9925,
+  "longitude": -121.4538889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11311300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

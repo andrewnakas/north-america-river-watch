@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06403700",
+  "key": "06403700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06403700",
+  "name": "CHEYENNE RIVER AT RED SHIRT, SD",
+  "waterbody": "CHEYENNE RIVER AT RED SHIRT, SD",
+  "state": "SD",
+  "latitude": 43.6724058,
+  "longitude": -102.8921298,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chrs2",
+  "slug": "usgs-06403700",
+  "noaaForecastPath": "data/noaa-forecast/CHRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

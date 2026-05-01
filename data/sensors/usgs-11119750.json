@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11119750",
+  "key": "11119750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11119750",
+  "name": "MISSION C NR MISSION ST NR SANTA BARBARA CA",
+  "waterbody": "MISSION C NR MISSION ST NR SANTA BARBARA CA",
+  "state": "CA",
+  "latitude": 34.42662778,
+  "longitude": -119.7236694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mission Creek (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msec1",
+  "slug": "usgs-11119750",
+  "noaaForecastPath": "data/noaa-forecast/MSEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

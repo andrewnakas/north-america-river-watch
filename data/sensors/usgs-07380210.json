@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07380210",
+  "key": "07380210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380210",
+  "name": "Amite River Diversion south of Whitehall, LA",
+  "waterbody": "Amite River Diversion south of Whitehall, LA",
+  "state": "LA",
+  "latitude": 30.2268611,
+  "longitude": -90.6880556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07380210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

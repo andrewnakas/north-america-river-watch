@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04052600",
+  "key": "04052600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04052600",
+  "name": "DRIGGS RVR NR C3 POOL NR DIVER. DITCH NR SENEY, MI",
+  "waterbody": "DRIGGS RVR NR C3 POOL NR DIVER. DITCH NR SENEY, MI",
+  "state": "MI",
+  "latitude": 46.3160834,
+  "longitude": -86.1090347,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04052600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

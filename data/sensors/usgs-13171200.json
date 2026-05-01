@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13171200",
+  "key": "13171200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13171200",
+  "name": "GRAND VIEW IRR DIST CANAL NR GRAND VIEW ID",
+  "waterbody": "GRAND VIEW IRR DIST CANAL NR GRAND VIEW ID",
+  "state": "ID",
+  "latitude": 42.94305556,
+  "longitude": -115.9944444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13171200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

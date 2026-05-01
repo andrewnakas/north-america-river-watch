@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16260500",
+  "key": "16260500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16260500",
+  "name": "MAUNAWILI STREAM AT HWY 61 NR KAILUA, OAHU, HI",
+  "waterbody": "MAUNAWILI STREAM AT HWY 61 NR KAILUA, OAHU, HI",
+  "state": "HI",
+  "latitude": 21.37767778,
+  "longitude": -157.760586,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16260500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

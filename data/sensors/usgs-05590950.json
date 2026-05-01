@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05590950",
+  "key": "05590950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05590950",
+  "name": "KASKASKIA RIVER AT CHESTERVILLE, IL",
+  "waterbody": "KASKASKIA RIVER AT CHESTERVILLE, IL",
+  "state": "IL",
+  "latitude": 39.7028333,
+  "longitude": -88.38775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTVI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaskaskia River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctvi2",
+  "slug": "usgs-05590950",
+  "noaaForecastPath": "data/noaa-forecast/CTVI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

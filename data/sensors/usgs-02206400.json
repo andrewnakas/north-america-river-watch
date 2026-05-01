@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02206400",
+  "key": "02206400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02206400",
+  "name": "YELLOW RIVER NEAR LUXOMNI, GA",
+  "waterbody": "YELLOW RIVER NEAR LUXOMNI, GA",
+  "state": "GA",
+  "latitude": 33.8905833,
+  "longitude": -84.08438889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02206400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

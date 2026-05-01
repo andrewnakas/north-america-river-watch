@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07351900",
+  "key": "07351900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07351900",
+  "name": "Byu Dupont nr Robeline, LA",
+  "waterbody": "Byu Dupont nr Robeline, LA",
+  "state": "LA",
+  "latitude": 31.70434375,
+  "longitude": -93.3274038,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07351900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

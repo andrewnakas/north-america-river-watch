@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01594440",
+  "key": "01594440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594440",
+  "name": "PATUXENT RIVER NEAR BOWIE, MD",
+  "waterbody": "PATUXENT RIVER NEAR BOWIE, MD",
+  "state": "MD",
+  "latitude": 38.95591667,
+  "longitude": -76.6936944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOWM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patuxent River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bowm2",
+  "slug": "usgs-01594440",
+  "noaaForecastPath": "data/noaa-forecast/BOWM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

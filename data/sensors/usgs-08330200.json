@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330200",
+  "key": "08330200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330200",
+  "name": "SAN JOSE DRAIN AT WOODWARD RD AT ALBQ., NM",
+  "waterbody": "SAN JOSE DRAIN AT WOODWARD RD AT ALBQ., NM",
+  "state": "NM",
+  "latitude": 35.04888889,
+  "longitude": -106.6486111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

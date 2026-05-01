@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06297500",
+  "key": "06297500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06297500",
+  "name": "HIGHLINE DITCH NEAR DAYTON, WY",
+  "waterbody": "HIGHLINE DITCH NEAR DAYTON, WY",
+  "state": "WY",
+  "latitude": 44.85305556,
+  "longitude": -107.3047222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06297500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

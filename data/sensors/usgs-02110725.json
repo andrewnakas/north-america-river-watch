@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02110725",
+  "key": "02110725",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110725",
+  "name": "AIW AT HIGHWAY 544 AT SOCASTEE, SC",
+  "waterbody": "AIW AT HIGHWAY 544 AT SOCASTEE, SC",
+  "state": "SC",
+  "latitude": 33.68694444,
+  "longitude": -79.005,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atlantic Intracoastal Waterway",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/socs1",
+  "slug": "usgs-02110725",
+  "noaaForecastPath": "data/noaa-forecast/SOCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

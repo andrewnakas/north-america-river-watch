@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08057468",
+  "key": "08057468",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08057468",
+  "name": "Cottonwood Ck at E Beltline Rd nr Wilmer, TX",
+  "waterbody": "Cottonwood Ck at E Beltline Rd nr Wilmer, TX",
+  "state": "TX",
+  "latitude": 32.60478889,
+  "longitude": -96.64998889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08057468",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

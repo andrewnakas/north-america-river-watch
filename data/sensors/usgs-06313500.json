@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06313500",
+  "key": "06313500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06313500",
+  "name": "POWDER RIVER AT SUSSEX, WY",
+  "waterbody": "POWDER RIVER AT SUSSEX, WY",
+  "state": "WY",
+  "latitude": 43.6970861,
+  "longitude": -106.3061944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06313500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

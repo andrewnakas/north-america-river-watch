@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03520980",
+  "key": "03520980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03520980",
+  "name": "INDIAN CREEK TRIB ALONG RT 631 NR CEDAR BLUFF, VA",
+  "waterbody": "INDIAN CREEK TRIB ALONG RT 631 NR CEDAR BLUFF, VA",
+  "state": "VA",
+  "latitude": 37.09316977,
+  "longitude": -81.7367801,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03520980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

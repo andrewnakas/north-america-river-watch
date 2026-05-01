@@ -1,0 +1,19 @@
+{
+  "id": "usgs:421015121471800",
+  "key": "421015121471800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "421015121471800",
+  "name": "LOST RIVER DIVERSION CHANNEL NR KLAMATH RIVER, OR",
+  "waterbody": "LOST RIVER DIVERSION CHANNEL NR KLAMATH RIVER, OR",
+  "state": "OR",
+  "latitude": 42.1708333,
+  "longitude": -121.7883333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-421015121471800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

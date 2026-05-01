@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16060000",
+  "key": "16060000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16060000",
+  "name": "SF Wailua River nr Lihue, Kauai, HI",
+  "waterbody": "SF Wailua River nr Lihue, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.03669444,
+  "longitude": -159.3801667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSFH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wailua River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsfh1",
+  "slug": "usgs-16060000",
+  "noaaForecastPath": "data/noaa-forecast/WSFH1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

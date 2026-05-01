@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09306200",
+  "key": "09306200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09306200",
+  "name": "PICEANCE CREEK BL RYAN GULCH, NR RIO BLANCO, CO.",
+  "waterbody": "PICEANCE CREEK BL RYAN GULCH, NR RIO BLANCO, CO.",
+  "state": "CO",
+  "latitude": 39.921111,
+  "longitude": -108.296944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09306200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

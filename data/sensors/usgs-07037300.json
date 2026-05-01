@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07037300",
+  "key": "07037300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07037300",
+  "name": "Big Creek at Sam A Baker State Park, MO",
+  "waterbody": "Big Creek at Sam A Baker State Park, MO",
+  "state": "MO",
+  "latitude": 37.26027778,
+  "longitude": -90.5060278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SABM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek (MO)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sabm7",
+  "slug": "usgs-07037300",
+  "noaaForecastPath": "data/noaa-forecast/SABM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073802280",
+  "key": "073802280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073802280",
+  "name": "New River north of Sorrento, La",
+  "waterbody": "New River north of Sorrento, La",
+  "state": "LA",
+  "latitude": 30.215194,
+  "longitude": -90.819906,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River (SE LA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snrl1",
+  "slug": "usgs-073802280",
+  "noaaForecastPath": "data/noaa-forecast/SNRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

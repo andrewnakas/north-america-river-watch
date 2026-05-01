@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067900",
+  "key": "08067900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067900",
+  "name": "Lake Ck nr Conroe, TX",
+  "waterbody": "Lake Ck nr Conroe, TX",
+  "state": "TX",
+  "latitude": 30.25377778,
+  "longitude": -95.579,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

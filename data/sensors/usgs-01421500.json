@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01421500",
+  "key": "01421500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01421500",
+  "name": "EAST BRANCH DELAWARE RIVER AT HANCOCK NY",
+  "waterbody": "EAST BRANCH DELAWARE RIVER AT HANCOCK NY",
+  "state": "NY",
+  "latitude": 41.952167,
+  "longitude": -75.276694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HKCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Delaware",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hkcn6",
+  "slug": "usgs-01421500",
+  "noaaForecastPath": "data/noaa-forecast/HKCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

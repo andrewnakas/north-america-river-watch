@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05548163",
+  "key": "05548163",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05548163",
+  "name": "POWERS LAKE TRIBUTARY AT POWERS LAKE, WI",
+  "waterbody": "POWERS LAKE TRIBUTARY AT POWERS LAKE, WI",
+  "state": "WI",
+  "latitude": 42.55167559,
+  "longitude": -88.2883725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05548163",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07050690",
+  "key": "07050690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07050690",
+  "name": "Pearson Creek near Springfield, MO",
+  "waterbody": "Pearson Creek near Springfield, MO",
+  "state": "MO",
+  "latitude": 37.17794444,
+  "longitude": -93.1983889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PEAM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/peam7",
+  "slug": "usgs-07050690",
+  "noaaForecastPath": "data/noaa-forecast/PEAM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

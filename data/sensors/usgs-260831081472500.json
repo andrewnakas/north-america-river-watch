@@ -1,0 +1,22 @@
+{
+  "id": "usgs:260831081472500",
+  "key": "260831081472500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "260831081472500",
+  "name": "NAPLES BAY AT US 41 AT NAPLES FL",
+  "waterbody": "NAPLES BAY AT US 41 AT NAPLES FL",
+  "state": "FL",
+  "latitude": 26.14194444,
+  "longitude": -81.7902778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tide Station",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbnf1",
+  "slug": "usgs-260831081472500",
+  "noaaForecastPath": "data/noaa-forecast/NBNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.211Z"
+}

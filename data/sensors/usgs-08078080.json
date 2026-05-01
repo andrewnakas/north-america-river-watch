@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08078080",
+  "key": "08078080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08078080",
+  "name": "Bastrop Bayou at CR 288 nr Lake Jackson, TX",
+  "waterbody": "Bastrop Bayou at CR 288 nr Lake Jackson, TX",
+  "state": "TX",
+  "latitude": 29.0684861,
+  "longitude": -95.427175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08078080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

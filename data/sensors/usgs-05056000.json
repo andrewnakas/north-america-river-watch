@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056000",
+  "key": "05056000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056000",
+  "name": "SHEYENNE RIVER NEAR WARWICK, ND",
+  "waterbody": "SHEYENNE RIVER NEAR WARWICK, ND",
+  "state": "ND",
+  "latitude": 47.80552162,
+  "longitude": -98.71626056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRWN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrwn8",
+  "slug": "usgs-05056000",
+  "noaaForecastPath": "data/noaa-forecast/WRWN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

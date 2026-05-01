@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212467595",
+  "key": "0212467595",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212467595",
+  "name": "GOOSE CREEK AT SR1525 NR INDIAN TRAIL, NC",
+  "waterbody": "GOOSE CREEK AT SR1525 NR INDIAN TRAIL, NC",
+  "state": "NC",
+  "latitude": 35.125,
+  "longitude": -80.6027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/indn7",
+  "slug": "usgs-0212467595",
+  "noaaForecastPath": "data/noaa-forecast/INDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

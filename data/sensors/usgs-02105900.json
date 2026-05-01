@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02105900",
+  "key": "02105900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02105900",
+  "name": "HOOD CREEK NEAR LELAND, NC",
+  "waterbody": "HOOD CREEK NEAR LELAND, NC",
+  "state": "NC",
+  "latitude": 34.2786111,
+  "longitude": -78.1252778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LELN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hood Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/leln7",
+  "slug": "usgs-02105900",
+  "noaaForecastPath": "data/noaa-forecast/LELN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

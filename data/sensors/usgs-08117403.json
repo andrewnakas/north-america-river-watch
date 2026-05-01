@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08117403",
+  "key": "08117403",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117403",
+  "name": "West Bernard Ck at US 59 nr Hungerford, TX",
+  "waterbody": "West Bernard Ck at US 59 nr Hungerford, TX",
+  "state": "TX",
+  "latitude": 29.4009722,
+  "longitude": -96.0682917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08117403",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

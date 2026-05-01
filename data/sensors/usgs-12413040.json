@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12413040",
+  "key": "12413040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413040",
+  "name": "SF COEUR D ALENE R ABV DEADMAN GULCH NR MULLAN ID",
+  "waterbody": "SF COEUR D ALENE R ABV DEADMAN GULCH NR MULLAN ID",
+  "state": "ID",
+  "latitude": 47.4732641,
+  "longitude": -115.766547,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12413040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03040050",
+  "key": "03040050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03040050",
+  "name": "Trout Run at Portage, PA",
+  "waterbody": "Trout Run at Portage, PA",
+  "state": "PA",
+  "latitude": 40.38555556,
+  "longitude": -78.6758333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03040050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

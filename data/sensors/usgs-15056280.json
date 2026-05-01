@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15056280",
+  "key": "15056280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15056280",
+  "name": "UPPER CHILKOOT LK OUTLET NR HAINES AK",
+  "waterbody": "UPPER CHILKOOT LK OUTLET NR HAINES AK",
+  "state": "AK",
+  "latitude": 59.42403237,
+  "longitude": -135.66278735,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15056280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

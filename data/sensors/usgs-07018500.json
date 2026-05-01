@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07018500",
+  "key": "07018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07018500",
+  "name": "Big River at Byrnesville, MO",
+  "waterbody": "Big River at Byrnesville, MO",
+  "state": "MO",
+  "latitude": 38.3917222,
+  "longitude": -90.6378056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/byrm7",
+  "slug": "usgs-07018500",
+  "noaaForecastPath": "data/noaa-forecast/BYRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

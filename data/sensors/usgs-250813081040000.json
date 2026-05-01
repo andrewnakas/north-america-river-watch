@@ -1,0 +1,19 @@
+{
+  "id": "usgs:250813081040000",
+  "key": "250813081040000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "250813081040000",
+  "name": "EAST CAPE CANAL NEAR LAKE INGRAHAM, FL",
+  "waterbody": "EAST CAPE CANAL NEAR LAKE INGRAHAM, FL",
+  "state": "FL",
+  "latitude": 25.13694444,
+  "longitude": -81.0666667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-250813081040000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

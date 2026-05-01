@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06406700",
+  "key": "06406700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06406700",
+  "name": "SPRING CREEK AT OREVILLE, NEAR HILL CITY,SD",
+  "waterbody": "SPRING CREEK AT OREVILLE, NEAR HILL CITY,SD",
+  "state": "SD",
+  "latitude": 43.8662367,
+  "longitude": -103.6240667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TDFS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tdfs2",
+  "slug": "usgs-06406700",
+  "noaaForecastPath": "data/noaa-forecast/TDFS2.json",
+  "generatedAt": "2026-05-01T12:10:11.379Z"
+}

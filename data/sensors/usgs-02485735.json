@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02485735",
+  "key": "02485735",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02485735",
+  "name": "PEARL RIVER AT HWY 25 AT JACKSON, MS",
+  "waterbody": "PEARL RIVER AT HWY 25 AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.33153417,
+  "longitude": -90.1292532,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCFM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcfm6",
+  "slug": "usgs-02485735",
+  "noaaForecastPath": "data/noaa-forecast/HCFM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

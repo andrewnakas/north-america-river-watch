@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03228750",
+  "key": "03228750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03228750",
+  "name": "Alum Creek near Kilbourne OH",
+  "waterbody": "Alum Creek near Kilbourne OH",
+  "state": "OH",
+  "latitude": 40.35672806,
+  "longitude": -82.9215704,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alum Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/klbo1",
+  "slug": "usgs-03228750",
+  "noaaForecastPath": "data/noaa-forecast/KLBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

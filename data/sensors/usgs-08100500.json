@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08100500",
+  "key": "08100500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08100500",
+  "name": "Leon Rv at Gatesville, TX",
+  "waterbody": "Leon Rv at Gatesville, TX",
+  "state": "TX",
+  "latitude": 31.4347222,
+  "longitude": -97.7583333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GAST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gast2",
+  "slug": "usgs-08100500",
+  "noaaForecastPath": "data/noaa-forecast/GAST2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

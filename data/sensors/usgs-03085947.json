@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03085947",
+  "key": "03085947",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085947",
+  "name": "Lowries Run at Camp Horne near Emsworth, PA",
+  "waterbody": "Lowries Run at Camp Horne near Emsworth, PA",
+  "state": "PA",
+  "latitude": 40.52019444,
+  "longitude": -80.0869444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lowries Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrnp1",
+  "slug": "usgs-03085947",
+  "noaaForecastPath": "data/noaa-forecast/LRNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

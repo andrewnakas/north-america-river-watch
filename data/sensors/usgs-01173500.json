@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01173500",
+  "key": "01173500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01173500",
+  "name": "WARE RIVER AT GIBBS CROSSING, MA",
+  "waterbody": "WARE RIVER AT GIBBS CROSSING, MA",
+  "state": "MA",
+  "latitude": 42.2362038,
+  "longitude": -72.27258047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GIBM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gibm3",
+  "slug": "usgs-01173500",
+  "noaaForecastPath": "data/noaa-forecast/GIBM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

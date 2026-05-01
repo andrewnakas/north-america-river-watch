@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50083500",
+  "key": "50083500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50083500",
+  "name": "RIO GUAYANES NR YABUCOA, PR",
+  "waterbody": "RIO GUAYANES NR YABUCOA, PR",
+  "state": "PR",
+  "latitude": 18.058889,
+  "longitude": -65.901111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YBUP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Guayanes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ybup4",
+  "slug": "usgs-50083500",
+  "noaaForecastPath": "data/noaa-forecast/YBUP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07054502",
+  "key": "07054502",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07054502",
+  "name": "White River below Bull Shoals Dam at Bull Shoals",
+  "waterbody": "White River below Bull Shoals Dam at Bull Shoals",
+  "state": "AR",
+  "latitude": 36.3622222,
+  "longitude": -92.5863889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07054502",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

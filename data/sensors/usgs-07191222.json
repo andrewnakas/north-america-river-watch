@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07191222",
+  "key": "07191222",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07191222",
+  "name": "Beaty Creek near Jay, OK",
+  "waterbody": "Beaty Creek near Jay, OK",
+  "state": "OK",
+  "latitude": 36.35535924,
+  "longitude": -94.7763388,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JBCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaty Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jbco2",
+  "slug": "usgs-07191222",
+  "noaaForecastPath": "data/noaa-forecast/JBCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

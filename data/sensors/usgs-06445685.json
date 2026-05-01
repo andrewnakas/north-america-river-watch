@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06445685",
+  "key": "06445685",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06445685",
+  "name": "WHITE RIVER NEAR NE-SD STATE LINE",
+  "waterbody": "WHITE RIVER NEAR NE-SD STATE LINE",
+  "state": "SD",
+  "latitude": 43.013036,
+  "longitude": -102.8357327,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEBS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (NE-SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nebs2",
+  "slug": "usgs-06445685",
+  "noaaForecastPath": "data/noaa-forecast/NEBS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

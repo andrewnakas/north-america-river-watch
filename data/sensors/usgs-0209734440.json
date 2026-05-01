@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209734440",
+  "key": "0209734440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209734440",
+  "name": "BOLIN CREEK AT VILLAGE DRIVE AT CHAPEL HILL, NC",
+  "waterbody": "BOLIN CREEK AT VILLAGE DRIVE AT CHAPEL HILL, NC",
+  "state": "NC",
+  "latitude": 35.92230556,
+  "longitude": -79.066,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bolin Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bocn7",
+  "slug": "usgs-0209734440",
+  "noaaForecastPath": "data/noaa-forecast/BOCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01593500",
+  "key": "01593500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01593500",
+  "name": "LITTLE PATUXENT RIVER AT GUILFORD, MD",
+  "waterbody": "LITTLE PATUXENT RIVER AT GUILFORD, MD",
+  "state": "MD",
+  "latitude": 39.16775,
+  "longitude": -76.85125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMPM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Patuxent River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smpm2",
+  "slug": "usgs-01593500",
+  "noaaForecastPath": "data/noaa-forecast/SMPM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

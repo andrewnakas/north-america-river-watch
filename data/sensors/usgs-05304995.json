@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05304995",
+  "key": "05304995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05304995",
+  "name": "CHIPPEWA R. (HW) ABOVE COUNTY RD 13 NR WATSON, MN",
+  "waterbody": "CHIPPEWA R. (HW) ABOVE COUNTY RD 13 NR WATSON, MN",
+  "state": "MN",
+  "latitude": 45.022486,
+  "longitude": -95.790547,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAGM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Watson Sag Weir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sagm5",
+  "slug": "usgs-05304995",
+  "noaaForecastPath": "data/noaa-forecast/SAGM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

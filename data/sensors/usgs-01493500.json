@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01493500",
+  "key": "01493500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01493500",
+  "name": "MORGAN CREEK NEAR KENNEDYVILLE, MD",
+  "waterbody": "MORGAN CREEK NEAR KENNEDYVILLE, MD",
+  "state": "MD",
+  "latitude": 39.28002778,
+  "longitude": -76.0145556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01493500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

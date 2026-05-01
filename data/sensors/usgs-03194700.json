@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03194700",
+  "key": "03194700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03194700",
+  "name": "ELK RIVER BELOW WEBSTER SPRINGS, WV",
+  "waterbody": "ELK RIVER BELOW WEBSTER SPRINGS, WV",
+  "state": "WV",
+  "latitude": 38.59732627,
+  "longitude": -80.4903644,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFRW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfrw2",
+  "slug": "usgs-03194700",
+  "noaaForecastPath": "data/noaa-forecast/CFRW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

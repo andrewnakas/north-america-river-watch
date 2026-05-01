@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04142000",
+  "key": "04142000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04142000",
+  "name": "RIFLE RIVER NEAR STERLING, MI",
+  "waterbody": "RIFLE RIVER NEAR STERLING, MI",
+  "state": "MI",
+  "latitude": 44.0725203,
+  "longitude": -84.0199939,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rifle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/strm4",
+  "slug": "usgs-04142000",
+  "noaaForecastPath": "data/noaa-forecast/STRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

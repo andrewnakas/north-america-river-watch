@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02309415",
+  "key": "02309415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02309415",
+  "name": "CURLEW CREEK AT EVANS ROAD NEAR DUNEDIN FL",
+  "waterbody": "CURLEW CREEK AT EVANS ROAD NEAR DUNEDIN FL",
+  "state": "FL",
+  "latitude": 28.02335166,
+  "longitude": -82.7406565,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Curlew Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cckf1",
+  "slug": "usgs-02309415",
+  "noaaForecastPath": "data/noaa-forecast/CCKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

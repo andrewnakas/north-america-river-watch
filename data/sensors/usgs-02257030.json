@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02257030",
+  "key": "02257030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02257030",
+  "name": "FISHEATING LOCK AT S-131 NEAR LAKEPORT, FL",
+  "waterbody": "FISHEATING LOCK AT S-131 NEAR LAKEPORT, FL",
+  "state": "FL",
+  "latitude": 26.9783892,
+  "longitude": -81.089234,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02257030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

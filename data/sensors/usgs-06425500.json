@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06425500",
+  "key": "06425500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06425500",
+  "name": "ELK CREEK NEAR ELM SPRINGS,SD",
+  "waterbody": "ELK CREEK NEAR ELM SPRINGS,SD",
+  "state": "SD",
+  "latitude": 44.24831768,
+  "longitude": -102.5032217,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk Creek (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elcs2",
+  "slug": "usgs-06425500",
+  "noaaForecastPath": "data/noaa-forecast/ELCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

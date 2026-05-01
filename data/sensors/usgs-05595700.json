@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05595700",
+  "key": "05595700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595700",
+  "name": "BIG MUDDY RIVER NEAR MT. VERNON, IL",
+  "waterbody": "BIG MUDDY RIVER NEAR MT. VERNON, IL",
+  "state": "IL",
+  "latitude": 38.3097222,
+  "longitude": -88.9883333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Muddy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmmi2",
+  "slug": "usgs-05595700",
+  "noaaForecastPath": "data/noaa-forecast/BMMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

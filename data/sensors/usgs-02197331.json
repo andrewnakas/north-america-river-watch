@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02197331",
+  "key": "02197331",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197331",
+  "name": "H-008 AT SAVANNAH RIVER SITE, SC",
+  "waterbody": "H-008 AT SAVANNAH RIVER SITE, SC",
+  "state": "SC",
+  "latitude": 33.2818127,
+  "longitude": -81.645944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02197331",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

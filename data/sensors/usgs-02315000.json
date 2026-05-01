@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02315000",
+  "key": "02315000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02315000",
+  "name": "SUWANNEE R NR BENTON FLA",
+  "waterbody": "SUWANNEE R NR BENTON FLA",
+  "state": "FL",
+  "latitude": 30.5074414,
+  "longitude": -82.7162406,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwannee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbnf1",
+  "slug": "usgs-02315000",
+  "noaaForecastPath": "data/noaa-forecast/SBNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

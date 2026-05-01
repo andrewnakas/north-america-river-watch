@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09473000",
+  "key": "09473000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09473000",
+  "name": "ARAVAIPA CREEK NEAR MAMMOTH, AZ.",
+  "waterbody": "ARAVAIPA CREEK NEAR MAMMOTH, AZ.",
+  "state": "AZ",
+  "latitude": 32.84467778,
+  "longitude": -110.6292861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARVA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aravaipa Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arva3",
+  "slug": "usgs-09473000",
+  "noaaForecastPath": "data/noaa-forecast/ARVA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

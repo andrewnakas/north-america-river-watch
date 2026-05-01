@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09519500",
+  "key": "09519500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09519500",
+  "name": "GILA RIVER BELOW GILLESPIE DAM, AZ (FLOW BLW DAM)",
+  "waterbody": "GILA RIVER BELOW GILLESPIE DAM, AZ (FLOW BLW DAM)",
+  "state": "AZ",
+  "latitude": 33.22921044,
+  "longitude": -112.7673929,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09519500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

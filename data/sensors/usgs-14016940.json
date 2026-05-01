@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14016940",
+  "key": "14016940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14016940",
+  "name": "COPPEI CREEK AT MCCOWN ROAD NEAR WAITSBURG, WA",
+  "waterbody": "COPPEI CREEK AT MCCOWN ROAD NEAR WAITSBURG, WA",
+  "state": "WA",
+  "latitude": 46.22246389,
+  "longitude": -118.1290056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMWW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coppei Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmww1",
+  "slug": "usgs-14016940",
+  "noaaForecastPath": "data/noaa-forecast/CMWW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

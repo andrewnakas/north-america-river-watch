@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455143",
+  "key": "11455143",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455143",
+  "name": "LITTLE HOLLAND TRACT A NORTH BREACH NR COURTLAND C",
+  "waterbody": "LITTLE HOLLAND TRACT A NORTH BREACH NR COURTLAND C",
+  "state": "CA",
+  "latitude": 38.3354111,
+  "longitude": -121.658186,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455143",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

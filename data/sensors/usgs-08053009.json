@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08053009",
+  "key": "08053009",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08053009",
+  "name": "Indian Ck at FM 2281, Carrollton, TX",
+  "waterbody": "Indian Ck at FM 2281, Carrollton, TX",
+  "state": "TX",
+  "latitude": 33.02694444,
+  "longitude": -96.9172222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08053009",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

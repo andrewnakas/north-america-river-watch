@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03322190",
+  "key": "03322190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03322190",
+  "name": "OHIO RIVER AT HENDERSON, KY",
+  "waterbody": "OHIO RIVER AT HENDERSON, KY",
+  "state": "KY",
+  "latitude": 37.84559817,
+  "longitude": -87.5922359,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HENK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/henk2",
+  "slug": "usgs-03322190",
+  "noaaForecastPath": "data/noaa-forecast/HENK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

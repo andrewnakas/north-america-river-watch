@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05362000",
+  "key": "05362000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05362000",
+  "name": "JUMP RIVER AT SHELDON, WI",
+  "waterbody": "JUMP RIVER AT SHELDON, WI",
+  "state": "WI",
+  "latitude": 45.30803838,
+  "longitude": -90.9565247,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHEW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jump River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shew3",
+  "slug": "usgs-05362000",
+  "noaaForecastPath": "data/noaa-forecast/SHEW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

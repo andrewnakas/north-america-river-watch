@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08023050",
+  "key": "08023050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08023050",
+  "name": "Flat Fork Ck at SH 7 nr Center, TX",
+  "waterbody": "Flat Fork Ck at SH 7 nr Center, TX",
+  "state": "TX",
+  "latitude": 31.8806861,
+  "longitude": -94.0985528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08023050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

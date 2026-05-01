@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04097540",
+  "key": "04097540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04097540",
+  "name": "PRAIRIE RIVER NEAR NOTTAWA, MI",
+  "waterbody": "PRAIRIE RIVER NEAR NOTTAWA, MI",
+  "state": "MI",
+  "latitude": 41.88838304,
+  "longitude": -85.409428,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOTM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie River (MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/notm4",
+  "slug": "usgs-04097540",
+  "noaaForecastPath": "data/noaa-forecast/NOTM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

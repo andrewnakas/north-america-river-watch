@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50050900",
+  "key": "50050900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50050900",
+  "name": "RIO GRANDE DE LOIZA AT QUEBRADA ARENAS, PR",
+  "waterbody": "RIO GRANDE DE LOIZA AT QUEBRADA ARENAS, PR",
+  "state": "PR",
+  "latitude": 18.12,
+  "longitude": -65.988611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLLP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Loiza",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sllp4",
+  "slug": "usgs-50050900",
+  "noaaForecastPath": "data/noaa-forecast/SLLP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

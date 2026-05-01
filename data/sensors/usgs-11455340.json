@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455340",
+  "key": "11455340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455340",
+  "name": "CACHE SLOUGH A CHANNEL MARKER 49A NR RIO VISTA CA",
+  "waterbody": "CACHE SLOUGH A CHANNEL MARKER 49A NR RIO VISTA CA",
+  "state": "CA",
+  "latitude": 38.2333583,
+  "longitude": -121.675,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455340",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

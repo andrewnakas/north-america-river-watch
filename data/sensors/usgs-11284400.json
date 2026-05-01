@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11284400",
+  "key": "11284400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11284400",
+  "name": "BIG C AB WHITES GULCH NR GROVELAND CA",
+  "waterbody": "BIG C AB WHITES GULCH NR GROVELAND CA",
+  "state": "CA",
+  "latitude": 37.8418518,
+  "longitude": -120.1848757,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11284400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04153300",
+  "key": "04153300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04153300",
+  "name": "TITTABAWASSEE RIVER AT SANFORD, MI",
+  "waterbody": "TITTABAWASSEE RIVER AT SANFORD, MI",
+  "state": "MI",
+  "latitude": 43.6769719,
+  "longitude": -84.382499,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAFM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tittabawassee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/safm4",
+  "slug": "usgs-04153300",
+  "noaaForecastPath": "data/noaa-forecast/SAFM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

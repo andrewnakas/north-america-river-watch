@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09398500",
+  "key": "09398500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09398500",
+  "name": "CLEAR CREEK BELOW WILLOW CREEK, N WINSLOW, AZ.",
+  "waterbody": "CLEAR CREEK BELOW WILLOW CREEK, N WINSLOW, AZ.",
+  "state": "AZ",
+  "latitude": 34.66752554,
+  "longitude": -111.0076349,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09398500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

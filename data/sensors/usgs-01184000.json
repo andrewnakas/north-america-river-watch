@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01184000",
+  "key": "01184000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01184000",
+  "name": "CONNECTICUT RIVER AT THOMPSONVILLE, CT",
+  "waterbody": "CONNECTICUT RIVER AT THOMPSONVILLE, CT",
+  "state": "CT",
+  "latitude": 41.98720462,
+  "longitude": -72.60534826,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMVC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmvc3",
+  "slug": "usgs-01184000",
+  "noaaForecastPath": "data/noaa-forecast/TMVC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

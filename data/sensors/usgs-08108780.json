@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08108780",
+  "key": "08108780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08108780",
+  "name": "Little Brazos Rv at FM 485 nr Hearne, TX",
+  "waterbody": "Little Brazos Rv at FM 485 nr Hearne, TX",
+  "state": "TX",
+  "latitude": 30.87944444,
+  "longitude": -96.6402778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08108780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

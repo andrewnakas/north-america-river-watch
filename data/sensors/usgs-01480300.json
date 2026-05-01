@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01480300",
+  "key": "01480300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480300",
+  "name": "West Branch Brandywine Creek near Honey Brook, PA",
+  "waterbody": "West Branch Brandywine Creek near Honey Brook, PA",
+  "state": "PA",
+  "latitude": 40.07287916,
+  "longitude": -75.8607744,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Brandywine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnbp1",
+  "slug": "usgs-01480300",
+  "noaaForecastPath": "data/noaa-forecast/HNBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01617000",
+  "key": "01617000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01617000",
+  "name": "TUSCARORA CREEK ABOVE MARTINSBURG, WV",
+  "waterbody": "TUSCARORA CREEK ABOVE MARTINSBURG, WV",
+  "state": "WV",
+  "latitude": 39.46954296,
+  "longitude": -77.9713871,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TUSW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarora Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tusw2",
+  "slug": "usgs-01617000",
+  "noaaForecastPath": "data/noaa-forecast/TUSW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

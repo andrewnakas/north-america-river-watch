@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12017000",
+  "key": "12017000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12017000",
+  "name": "NORTH RIVER NEAR RAYMOND, WA",
+  "waterbody": "NORTH RIVER NEAR RAYMOND, WA",
+  "state": "WA",
+  "latitude": 46.8073184,
+  "longitude": -123.8507215,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12017000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

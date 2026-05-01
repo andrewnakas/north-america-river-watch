@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03315500",
+  "key": "03315500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03315500",
+  "name": "GREEN RIVER AT LOCK 4 AT WOODBURY, KY",
+  "waterbody": "GREEN RIVER AT LOCK 4 AT WOODBURY, KY",
+  "state": "KY",
+  "latitude": 37.18226814,
+  "longitude": -86.62998829,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDHK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdhk2",
+  "slug": "usgs-03315500",
+  "noaaForecastPath": "data/noaa-forecast/WDHK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08208000",
+  "key": "08208000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08208000",
+  "name": "Atascosa Rv at Whitsett, TX",
+  "waterbody": "Atascosa Rv at Whitsett, TX",
+  "state": "TX",
+  "latitude": 28.62220899,
+  "longitude": -98.2813988,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atascosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wttt2",
+  "slug": "usgs-08208000",
+  "noaaForecastPath": "data/noaa-forecast/WTTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

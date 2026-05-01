@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10309070",
+  "key": "10309070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10309070",
+  "name": "BUCKEYE CK NR MINDEN, NV",
+  "waterbody": "BUCKEYE CK NR MINDEN, NV",
+  "state": "NV",
+  "latitude": 38.98294766,
+  "longitude": -119.5740415,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10309070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

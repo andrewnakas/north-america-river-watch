@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03425000",
+  "key": "03425000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03425000",
+  "name": "CUMBERLAND RIVER AT CARTHAGE, TN",
+  "waterbody": "CUMBERLAND RIVER AT CARTHAGE, TN",
+  "state": "TN",
+  "latitude": 36.24810996,
+  "longitude": -85.95526519,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTHT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctht1",
+  "slug": "usgs-03425000",
+  "noaaForecastPath": "data/noaa-forecast/CTHT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

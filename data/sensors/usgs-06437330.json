@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06437330",
+  "key": "06437330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06437330",
+  "name": "VANOCKER CREEK NEAR STURGIS, SD",
+  "waterbody": "VANOCKER CREEK NEAR STURGIS, SD",
+  "state": "SD",
+  "latitude": 44.3777861,
+  "longitude": -103.507175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VNKS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vanocker Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vnks2",
+  "slug": "usgs-06437330",
+  "noaaForecastPath": "data/noaa-forecast/VNKS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

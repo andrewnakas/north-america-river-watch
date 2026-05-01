@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08405400",
+  "key": "08405400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08405400",
+  "name": "BLACK RIVER AT HARKEY CROSSING NR MALAGA, NM",
+  "waterbody": "BLACK RIVER AT HARKEY CROSSING NR MALAGA, NM",
+  "state": "NM",
+  "latitude": 32.2359472,
+  "longitude": -104.1966472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08405400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

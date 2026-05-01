@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02449838",
+  "key": "02449838",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02449838",
+  "name": "DUCK RIVER ABOVE HWY 278 NEAR BERLIN, AL",
+  "waterbody": "DUCK RIVER ABOVE HWY 278 NEAR BERLIN, AL",
+  "state": "AL",
+  "latitude": 34.1725,
+  "longitude": -86.69388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02449838",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

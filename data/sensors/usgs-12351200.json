@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12351200",
+  "key": "12351200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12351200",
+  "name": "Bitterroot River near Florence MT",
+  "waterbody": "Bitterroot River near Florence MT",
+  "state": "MT",
+  "latitude": 46.63308889,
+  "longitude": -114.0509583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12351200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

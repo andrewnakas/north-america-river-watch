@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536165",
+  "key": "05536165",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536165",
+  "name": "LITTLE CALUMET RIVER AT HIGHLAND, IN",
+  "waterbody": "LITTLE CALUMET RIVER AT HIGHLAND, IN",
+  "state": "IN",
+  "latitude": 41.5696556,
+  "longitude": -87.460983,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgli3",
+  "slug": "usgs-05536165",
+  "noaaForecastPath": "data/noaa-forecast/HGLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

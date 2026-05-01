@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50055170",
+  "key": "50055170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50055170",
+  "name": "RIO CAGUITAS NR CAGUAS, PR",
+  "waterbody": "RIO CAGUITAS NR CAGUAS, PR",
+  "state": "PR",
+  "latitude": 18.23106634,
+  "longitude": -66.0476655,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50055170",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

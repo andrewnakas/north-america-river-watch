@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06891500",
+  "key": "06891500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06891500",
+  "name": "WAKARUSA R NR LAWRENCE, KS",
+  "waterbody": "WAKARUSA R NR LAWRENCE, KS",
+  "state": "KS",
+  "latitude": 38.9113923,
+  "longitude": -95.261084,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAWK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wakarusa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lawk1",
+  "slug": "usgs-06891500",
+  "noaaForecastPath": "data/noaa-forecast/LAWK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

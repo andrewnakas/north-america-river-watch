@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06324970",
+  "key": "06324970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06324970",
+  "name": "LITTLE POWDER RIVER AB DRY CREEK, NEAR WESTON, WY",
+  "waterbody": "LITTLE POWDER RIVER AB DRY CREEK, NEAR WESTON, WY",
+  "state": "WY",
+  "latitude": 44.9268794,
+  "longitude": -105.3534087,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPTW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Powder River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lptw4",
+  "slug": "usgs-06324970",
+  "noaaForecastPath": "data/noaa-forecast/LPTW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

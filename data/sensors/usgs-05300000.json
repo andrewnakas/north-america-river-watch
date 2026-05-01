@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05300000",
+  "key": "05300000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05300000",
+  "name": "LAC QUI PARLE RIVER NEAR LAC QUI PARLE, MN",
+  "waterbody": "LAC QUI PARLE RIVER NEAR LAC QUI PARLE, MN",
+  "state": "MN",
+  "latitude": 44.995275,
+  "longitude": -95.919633,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LQPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lac Qui Parle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lqpm5",
+  "slug": "usgs-05300000",
+  "noaaForecastPath": "data/noaa-forecast/LQPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

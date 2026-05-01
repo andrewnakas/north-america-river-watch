@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01073319",
+  "key": "01073319",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01073319",
+  "name": "LAMPREY RIVER AT LANGFORD ROAD, AT RAYMOND, NH",
+  "waterbody": "LAMPREY RIVER AT LANGFORD ROAD, AT RAYMOND, NH",
+  "state": "NH",
+  "latitude": 43.04138889,
+  "longitude": -71.2016667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RAYN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lamprey River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rayn3",
+  "slug": "usgs-01073319",
+  "noaaForecastPath": "data/noaa-forecast/RAYN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05460400",
+  "key": "05460400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05460400",
+  "name": "Shell Rock River near Rockford, IA",
+  "waterbody": "Shell Rock River near Rockford, IA",
+  "state": "IA",
+  "latitude": 43.00538889,
+  "longitude": -92.9255833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKFI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shell Rock River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkfi4",
+  "slug": "usgs-05460400",
+  "noaaForecastPath": "data/noaa-forecast/RKFI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

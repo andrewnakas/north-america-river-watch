@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10312000",
+  "key": "10312000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10312000",
+  "name": "CARSON RV NR FORT CHURCHILL, NV",
+  "waterbody": "CARSON RV NR FORT CHURCHILL, NV",
+  "state": "NV",
+  "latitude": 39.29166667,
+  "longitude": -119.311111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftcn2",
+  "slug": "usgs-10312000",
+  "noaaForecastPath": "data/noaa-forecast/FTCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

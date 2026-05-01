@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01393890",
+  "key": "01393890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01393890",
+  "name": "East Branch Rahway River at Maplewood NJ",
+  "waterbody": "East Branch Rahway River at Maplewood NJ",
+  "state": "NJ",
+  "latitude": 40.7347222,
+  "longitude": -74.2705556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01393890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

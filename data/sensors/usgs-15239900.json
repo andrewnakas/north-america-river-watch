@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15239900",
+  "key": "15239900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15239900",
+  "name": "ANCHOR R NR ANCHOR POINT AK",
+  "waterbody": "ANCHOR R NR ANCHOR POINT AK",
+  "state": "AK",
+  "latitude": 59.7465994,
+  "longitude": -151.7552127,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APTA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Anchor River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/apta2",
+  "slug": "usgs-15239900",
+  "noaaForecastPath": "data/noaa-forecast/APTA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

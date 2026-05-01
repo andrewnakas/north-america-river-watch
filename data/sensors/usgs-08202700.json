@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08202700",
+  "key": "08202700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08202700",
+  "name": "Seco Ck at Rowe Rh nr D'Hanis, TX",
+  "waterbody": "Seco Ck at Rowe Rh nr D'Hanis, TX",
+  "state": "TX",
+  "latitude": 29.37078917,
+  "longitude": -99.2878185,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seco Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scrt2",
+  "slug": "usgs-08202700",
+  "noaaForecastPath": "data/noaa-forecast/SCRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

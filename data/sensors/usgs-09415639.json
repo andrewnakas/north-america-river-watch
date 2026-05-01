@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415639",
+  "key": "09415639",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415639",
+  "name": "ASH SPGS DIV AT ASH SPGS, NV",
+  "waterbody": "ASH SPGS DIV AT ASH SPGS, NV",
+  "state": "NV",
+  "latitude": 37.45982179,
+  "longitude": -115.1941025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415639",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

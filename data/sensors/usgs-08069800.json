@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08069800",
+  "key": "08069800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08069800",
+  "name": "E Fk San Jacinto Rv at SH 150 nr Coldspring, TX",
+  "waterbody": "E Fk San Jacinto Rv at SH 150 nr Coldspring, TX",
+  "state": "TX",
+  "latitude": 30.56694444,
+  "longitude": -95.1913889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08069800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16272200",
+  "key": "16272200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16272200",
+  "name": "Kamooalii Str blw Luluku Str nr Kaneohe, Oahu, HI",
+  "waterbody": "Kamooalii Str blw Luluku Str nr Kaneohe, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.39338889,
+  "longitude": -157.80375,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16272200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

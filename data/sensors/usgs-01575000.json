@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01575000",
+  "key": "01575000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01575000",
+  "name": "South Branch Codorus Creek near York, PA",
+  "waterbody": "South Branch Codorus Creek near York, PA",
+  "state": "PA",
+  "latitude": 39.9206548,
+  "longitude": -76.7488574,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YRKP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Central PA Dams  Indian Rock Dam on Codorus Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yrkp1",
+  "slug": "usgs-01575000",
+  "noaaForecastPath": "data/noaa-forecast/YRKP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

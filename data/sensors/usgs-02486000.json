@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02486000",
+  "key": "02486000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02486000",
+  "name": "PEARL RIVER AT JACKSON, MS",
+  "waterbody": "PEARL RIVER AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.28138889,
+  "longitude": -90.1788889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JACM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jacm6",
+  "slug": "usgs-02486000",
+  "noaaForecastPath": "data/noaa-forecast/JACM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

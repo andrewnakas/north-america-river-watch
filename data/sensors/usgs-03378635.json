@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03378635",
+  "key": "03378635",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03378635",
+  "name": "LITTLE WABASH RIVER NEAR EFFINGHAM, IL",
+  "waterbody": "LITTLE WABASH RIVER NEAR EFFINGHAM, IL",
+  "state": "IL",
+  "latitude": 39.10388889,
+  "longitude": -88.5944444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EFFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wabash River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/effi2",
+  "slug": "usgs-03378635",
+  "noaaForecastPath": "data/noaa-forecast/EFFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

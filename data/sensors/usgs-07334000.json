@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07334000",
+  "key": "07334000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07334000",
+  "name": "Muddy Boggy Creek near Farris, OK",
+  "waterbody": "Muddy Boggy Creek near Farris, OK",
+  "state": "OK",
+  "latitude": 34.27148539,
+  "longitude": -95.9122049,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRSO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Boggy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frso2",
+  "slug": "usgs-07334000",
+  "noaaForecastPath": "data/noaa-forecast/FRSO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

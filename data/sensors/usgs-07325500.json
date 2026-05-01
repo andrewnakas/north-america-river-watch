@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07325500",
+  "key": "07325500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07325500",
+  "name": "Washita River at Carnegie, OK",
+  "waterbody": "Washita River at Carnegie, OK",
+  "state": "OK",
+  "latitude": 35.11728108,
+  "longitude": -98.5639503,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAGO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washita River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cago2",
+  "slug": "usgs-07325500",
+  "noaaForecastPath": "data/noaa-forecast/CAGO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

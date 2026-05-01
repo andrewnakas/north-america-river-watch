@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14107000",
+  "key": "14107000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14107000",
+  "name": "KLICKITAT RIVER ABOVE WEST FORK NEAR GLENWOOD, WA",
+  "waterbody": "KLICKITAT RIVER ABOVE WEST FORK NEAR GLENWOOD, WA",
+  "state": "WA",
+  "latitude": 46.26480648,
+  "longitude": -121.2450474,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLCW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Klickitat River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/klcw1",
+  "slug": "usgs-14107000",
+  "noaaForecastPath": "data/noaa-forecast/KLCW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

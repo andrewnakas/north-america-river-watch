@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06605000",
+  "key": "06605000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06605000",
+  "name": "Ocheyedan River near Spencer, IA",
+  "waterbody": "Ocheyedan River near Spencer, IA",
+  "state": "IA",
+  "latitude": 43.12766667,
+  "longitude": -95.2104444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPOI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ocheyedan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spoi4",
+  "slug": "usgs-06605000",
+  "noaaForecastPath": "data/noaa-forecast/SPOI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

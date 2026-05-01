@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11451300",
+  "key": "11451300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11451300",
+  "name": "NF CACHE C NR CLEARLAKE OAKS CA",
+  "waterbody": "NF CACHE C NR CLEARLAKE OAKS CA",
+  "state": "CA",
+  "latitude": 39.07542006,
+  "longitude": -122.5341216,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCUC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Cache Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncuc1",
+  "slug": "usgs-11451300",
+  "noaaForecastPath": "data/noaa-forecast/NCUC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

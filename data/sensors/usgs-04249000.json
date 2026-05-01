@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04249000",
+  "key": "04249000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04249000",
+  "name": "OSWEGO RIVER AT LOCK 7, OSWEGO NY",
+  "waterbody": "OSWEGO RIVER AT LOCK 7, OSWEGO NY",
+  "state": "NY",
+  "latitude": 43.45138889,
+  "longitude": -76.50547222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSON6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oswego River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oson6",
+  "slug": "usgs-04249000",
+  "noaaForecastPath": "data/noaa-forecast/OSON6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

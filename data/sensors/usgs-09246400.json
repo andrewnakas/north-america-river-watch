@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09246400",
+  "key": "09246400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09246400",
+  "name": "ELKHEAD CREEK BELOW MAYNARD GULCH, NEAR CRAIG, CO",
+  "waterbody": "ELKHEAD CREEK BELOW MAYNARD GULCH, NEAR CRAIG, CO",
+  "state": "CO",
+  "latitude": 40.5447222,
+  "longitude": -107.3980556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09246400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08029520",
+  "key": "08029520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08029520",
+  "name": "Big Cow Ck at FM 1416 nr Call, TX",
+  "waterbody": "Big Cow Ck at FM 1416 nr Call, TX",
+  "state": "TX",
+  "latitude": 30.6050111,
+  "longitude": -93.7944833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NTCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Cow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ntct2",
+  "slug": "usgs-08029520",
+  "noaaForecastPath": "data/noaa-forecast/NTCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

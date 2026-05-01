@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05564250",
+  "key": "05564250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05564250",
+  "name": "MACKINAW RIVER NEAR LEXINGTON, IL",
+  "waterbody": "MACKINAW RIVER NEAR LEXINGTON, IL",
+  "state": "IL",
+  "latitude": 40.62869444,
+  "longitude": -88.7974167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05564250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

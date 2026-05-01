@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01467471",
+  "key": "01467471",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467471",
+  "name": "Schuylkill River ab Mill Creek at Port Carbon, PA",
+  "waterbody": "Schuylkill River ab Mill Creek at Port Carbon, PA",
+  "state": "PA",
+  "latitude": 40.6937472,
+  "longitude": -76.1647722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01467471",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

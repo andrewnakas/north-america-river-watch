@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12101500",
+  "key": "12101500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12101500",
+  "name": "PUYALLUP RIVER AT PUYALLUP, WA",
+  "waterbody": "PUYALLUP RIVER AT PUYALLUP, WA",
+  "state": "WA",
+  "latitude": 47.20843358,
+  "longitude": -122.3270652,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PUYW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Puyallup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/puyw1",
+  "slug": "usgs-12101500",
+  "noaaForecastPath": "data/noaa-forecast/PUYW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

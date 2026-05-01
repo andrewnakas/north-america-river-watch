@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02253000",
+  "key": "02253000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02253000",
+  "name": "MAIN CANAL AT VERO BEACH, FL",
+  "waterbody": "MAIN CANAL AT VERO BEACH, FL",
+  "state": "FL",
+  "latitude": 27.64780983,
+  "longitude": -80.405607,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02253000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

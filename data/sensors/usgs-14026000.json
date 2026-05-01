@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14026000",
+  "key": "14026000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14026000",
+  "name": "UMATILLA RIVER AT YOAKUM,OREG.",
+  "waterbody": "UMATILLA RIVER AT YOAKUM,OREG.",
+  "state": "OR",
+  "latitude": 45.67763069,
+  "longitude": -119.0344457,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YOKO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Umatilla River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yoko3",
+  "slug": "usgs-14026000",
+  "noaaForecastPath": "data/noaa-forecast/YOKO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

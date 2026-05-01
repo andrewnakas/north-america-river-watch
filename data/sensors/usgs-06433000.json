@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06433000",
+  "key": "06433000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06433000",
+  "name": "REDWATER RIVER ABOVE BELLE FOURCHE,SD",
+  "waterbody": "REDWATER RIVER ABOVE BELLE FOURCHE,SD",
+  "state": "SD",
+  "latitude": 44.66720665,
+  "longitude": -103.8393696,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RWRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwater River (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rwrs2",
+  "slug": "usgs-06433000",
+  "noaaForecastPath": "data/noaa-forecast/RWRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

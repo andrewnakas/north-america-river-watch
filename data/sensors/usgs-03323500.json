@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03323500",
+  "key": "03323500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03323500",
+  "name": "WABASH RIVER AT HUNTINGTON, IN",
+  "waterbody": "WABASH RIVER AT HUNTINGTON, IN",
+  "state": "IN",
+  "latitude": 40.85325,
+  "longitude": -85.4897778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnti3",
+  "slug": "usgs-03323500",
+  "noaaForecastPath": "data/noaa-forecast/HNTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

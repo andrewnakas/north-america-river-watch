@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01606500",
+  "key": "01606500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01606500",
+  "name": "SOUTH BRANCH POTOMAC RIVER NEAR PETERSBURG, WV",
+  "waterbody": "SOUTH BRANCH POTOMAC RIVER NEAR PETERSBURG, WV",
+  "state": "WV",
+  "latitude": 38.99122107,
+  "longitude": -79.17587059,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PETW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/petw2",
+  "slug": "usgs-01606500",
+  "noaaForecastPath": "data/noaa-forecast/PETW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

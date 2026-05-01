@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12035100",
+  "key": "12035100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12035100",
+  "name": "CHEHALIS RIVER NEAR MONTESANO, WA",
+  "waterbody": "CHEHALIS RIVER NEAR MONTESANO, WA",
+  "state": "WA",
+  "latitude": 46.96231778,
+  "longitude": -123.6046072,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMTW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chehalis River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmtw1",
+  "slug": "usgs-12035100",
+  "noaaForecastPath": "data/noaa-forecast/CMTW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

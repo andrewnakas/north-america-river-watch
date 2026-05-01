@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03363000",
+  "key": "03363000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03363000",
+  "name": "DRIFTWOOD RIVER NEAR EDINBURGH, IN",
+  "waterbody": "DRIFTWOOD RIVER NEAR EDINBURGH, IN",
+  "state": "IN",
+  "latitude": 39.3392074,
+  "longitude": -85.9863516,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DREI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Driftwood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drei3",
+  "slug": "usgs-03363000",
+  "noaaForecastPath": "data/noaa-forecast/DREI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

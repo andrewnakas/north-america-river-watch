@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08161950",
+  "key": "08161950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08161950",
+  "name": "LCRA Colorado Rv nr Glen Flora, TX",
+  "waterbody": "LCRA Colorado Rv nr Glen Flora, TX",
+  "state": "TX",
+  "latitude": 29.33613889,
+  "longitude": -96.1980556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08161950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

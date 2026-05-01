@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04177000",
+  "key": "04177000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04177000",
+  "name": "Ottawa River at University of Toledo, Toledo OH",
+  "waterbody": "Ottawa River at University of Toledo, Toledo OH",
+  "state": "OH",
+  "latitude": 41.65968056,
+  "longitude": -83.6125472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UTOO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ottawa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/utoo1",
+  "slug": "usgs-04177000",
+  "noaaForecastPath": "data/noaa-forecast/UTOO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

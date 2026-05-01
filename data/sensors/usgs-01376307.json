@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01376307",
+  "key": "01376307",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01376307",
+  "name": "HUDSON RIVER AT WATER GRANT STREET AT YONKERS NY",
+  "waterbody": "HUDSON RIVER AT WATER GRANT STREET AT YONKERS NY",
+  "state": "NY",
+  "latitude": 40.93625,
+  "longitude": -73.9043056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01376307",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01396091",
+  "key": "01396091",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01396091",
+  "name": "South Br Raritan River at Rt 46 at Budd Lake NJ",
+  "waterbody": "South Br Raritan River at Rt 46 at Budd Lake NJ",
+  "state": "NJ",
+  "latitude": 40.85944444,
+  "longitude": -74.7608333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01396091",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

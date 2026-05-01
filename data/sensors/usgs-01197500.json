@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01197500",
+  "key": "01197500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01197500",
+  "name": "HOUSATONIC RIVER NEAR GREAT BARRINGTON, MA",
+  "waterbody": "HOUSATONIC RIVER NEAR GREAT BARRINGTON, MA",
+  "state": "MA",
+  "latitude": 42.23191667,
+  "longitude": -73.3546667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTBM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Housatonic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gtbm3",
+  "slug": "usgs-01197500",
+  "noaaForecastPath": "data/noaa-forecast/GTBM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

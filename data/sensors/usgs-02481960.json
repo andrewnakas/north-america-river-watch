@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02481960",
+  "key": "02481960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02481960",
+  "name": "WOLF CREEK AT INDUSTRIAL DRIVE NR PEARL RIVER, MS",
+  "waterbody": "WOLF CREEK AT INDUSTRIAL DRIVE NR PEARL RIVER, MS",
+  "state": "MS",
+  "latitude": 32.78069444,
+  "longitude": -89.19825,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02481960",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

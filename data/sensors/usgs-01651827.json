@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01651827",
+  "key": "01651827",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01651827",
+  "name": "Anacostia River nr Buzzard Point at Washington, DC",
+  "waterbody": "Anacostia River nr Buzzard Point at Washington, DC",
+  "state": "DC",
+  "latitude": 38.86516667,
+  "longitude": -77.0103333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WASD2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washington Channel",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wasd2",
+  "slug": "usgs-01651827",
+  "noaaForecastPath": "data/noaa-forecast/WASD2.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

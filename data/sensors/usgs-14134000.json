@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14134000",
+  "key": "14134000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14134000",
+  "name": "SALMON RIVER NEAR GOVERNMENT CAMP, OREG.",
+  "waterbody": "SALMON RIVER NEAR GOVERNMENT CAMP, OREG.",
+  "state": "OR",
+  "latitude": 45.2665072,
+  "longitude": -121.7178547,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14134000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

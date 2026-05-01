@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15635000",
+  "key": "15635000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15635000",
+  "name": "ELDORADO C NR TELLER AK",
+  "waterbody": "ELDORADO C NR TELLER AK",
+  "state": "AK",
+  "latitude": 64.9578393,
+  "longitude": -166.2026442,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15635000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

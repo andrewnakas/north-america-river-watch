@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11289000",
+  "key": "11289000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11289000",
+  "name": "MODESTO CN NR LA GRANGE CA",
+  "waterbody": "MODESTO CN NR LA GRANGE CA",
+  "state": "CA",
+  "latitude": 37.67240817,
+  "longitude": -120.474881,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11289000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

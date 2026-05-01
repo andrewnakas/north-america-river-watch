@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04213394",
+  "key": "04213394",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04213394",
+  "name": "SILVER CREEK AT US ROUTE 20 AT SILVER CREEK NY",
+  "waterbody": "SILVER CREEK AT US ROUTE 20 AT SILVER CREEK NY",
+  "state": "NY",
+  "latitude": 42.54391667,
+  "longitude": -79.1646667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Silver Creek (NY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svrn6",
+  "slug": "usgs-04213394",
+  "noaaForecastPath": "data/noaa-forecast/SVRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

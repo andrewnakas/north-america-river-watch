@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08085500",
+  "key": "08085500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08085500",
+  "name": "Clear Fk Brazos Rv at Ft Griffin, TX",
+  "waterbody": "Clear Fk Brazos Rv at Ft Griffin, TX",
+  "state": "TX",
+  "latitude": 32.93297778,
+  "longitude": -99.2153889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abyt2",
+  "slug": "usgs-08085500",
+  "noaaForecastPath": "data/noaa-forecast/ABYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

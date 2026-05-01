@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10168150",
+  "key": "10168150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10168150",
+  "name": "BIG COTTONWOOD CR @ SILVER FORK NR BRIGHTON, UT",
+  "waterbody": "BIG COTTONWOOD CR @ SILVER FORK NR BRIGHTON, UT",
+  "state": "UT",
+  "latitude": 40.62939459,
+  "longitude": -111.6060339,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10168150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

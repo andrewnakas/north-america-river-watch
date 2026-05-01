@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08052780",
+  "key": "08052780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08052780",
+  "name": "Hickory Ck at Denton, TX",
+  "waterbody": "Hickory Ck at Denton, TX",
+  "state": "TX",
+  "latitude": 33.15178696,
+  "longitude": -97.1419573,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08052780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

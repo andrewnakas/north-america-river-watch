@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04100222",
+  "key": "04100222",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04100222",
+  "name": "NB ELKHART RIVER AT COSPERVILLE, IN",
+  "waterbody": "NB ELKHART RIVER AT COSPERVILLE, IN",
+  "state": "IN",
+  "latitude": 41.48168376,
+  "longitude": -85.4754999,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPEI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Elkhart River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpei3",
+  "slug": "usgs-04100222",
+  "noaaForecastPath": "data/noaa-forecast/CPEI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

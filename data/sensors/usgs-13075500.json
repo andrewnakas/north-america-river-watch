@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13075500",
+  "key": "13075500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13075500",
+  "name": "PORTNEUF RIVER AT POCATELLO ID",
+  "waterbody": "PORTNEUF RIVER AT POCATELLO ID",
+  "state": "ID",
+  "latitude": 42.87166667,
+  "longitude": -112.4680556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIHI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portneuf River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pihi1",
+  "slug": "usgs-13075500",
+  "noaaForecastPath": "data/noaa-forecast/PIHI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

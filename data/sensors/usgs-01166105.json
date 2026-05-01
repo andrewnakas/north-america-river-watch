@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01166105",
+  "key": "01166105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01166105",
+  "name": "WHETSTONE BROOK AT DEPOT RD AT WENDELL DEPOT, MA",
+  "waterbody": "WHETSTONE BROOK AT DEPOT RD AT WENDELL DEPOT, MA",
+  "state": "MA",
+  "latitude": 42.59425319,
+  "longitude": -72.3609187,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01166105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

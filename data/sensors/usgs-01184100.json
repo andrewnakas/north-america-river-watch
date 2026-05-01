@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01184100",
+  "key": "01184100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01184100",
+  "name": "STONY BROOK NEAR WEST SUFFIELD, CT",
+  "waterbody": "STONY BROOK NEAR WEST SUFFIELD, CT",
+  "state": "CT",
+  "latitude": 41.96083889,
+  "longitude": -72.71048611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01184100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

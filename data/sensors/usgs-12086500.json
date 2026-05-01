@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12086500",
+  "key": "12086500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12086500",
+  "name": "NISQUALLY RIVER AT LA GRANDE, WA",
+  "waterbody": "NISQUALLY RIVER AT LA GRANDE, WA",
+  "state": "WA",
+  "latitude": 46.83927048,
+  "longitude": -122.3292809,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12086500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

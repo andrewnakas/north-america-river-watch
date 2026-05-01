@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03298150",
+  "key": "03298150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298150",
+  "name": "CHENOWETH RUN AT GELHAUS LANE NEAR FERN CREEK, KY",
+  "waterbody": "CHENOWETH RUN AT GELHAUS LANE NEAR FERN CREEK, KY",
+  "state": "KY",
+  "latitude": 38.16006729,
+  "longitude": -85.5421797,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FNCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chenoweth Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fnck2",
+  "slug": "usgs-03298150",
+  "noaaForecastPath": "data/noaa-forecast/FNCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

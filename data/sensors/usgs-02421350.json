@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02421350",
+  "key": "02421350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02421350",
+  "name": "ALABAMA RIVER AT ROBERT F HENRY LOCK AND DAM",
+  "waterbody": "ALABAMA RIVER AT ROBERT F HENRY LOCK AND DAM",
+  "state": "AL",
+  "latitude": 32.32513829,
+  "longitude": -86.7847045,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02421350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

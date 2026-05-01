@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12452500",
+  "key": "12452500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12452500",
+  "name": "CHELAN RIVER AT CHELAN, WA",
+  "waterbody": "CHELAN RIVER AT CHELAN, WA",
+  "state": "WA",
+  "latitude": 47.83528716,
+  "longitude": -120.009638,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12452500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

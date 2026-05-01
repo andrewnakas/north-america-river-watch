@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03360600",
+  "key": "03360600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03360600",
+  "name": "SMOTHERS CREEK NR PLAINVILLE, IN",
+  "waterbody": "SMOTHERS CREEK NR PLAINVILLE, IN",
+  "state": "IN",
+  "latitude": 38.812,
+  "longitude": -87.1300833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCPI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smothers Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scpi3",
+  "slug": "usgs-03360600",
+  "noaaForecastPath": "data/noaa-forecast/SCPI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

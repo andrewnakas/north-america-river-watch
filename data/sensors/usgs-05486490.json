@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05486490",
+  "key": "05486490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05486490",
+  "name": "Middle River near Indianola, IA",
+  "waterbody": "Middle River near Indianola, IA",
+  "state": "IA",
+  "latitude": 41.4243611,
+  "longitude": -93.5873056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IDNI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/idni4",
+  "slug": "usgs-05486490",
+  "noaaForecastPath": "data/noaa-forecast/IDNI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

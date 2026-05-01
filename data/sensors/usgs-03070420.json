@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03070420",
+  "key": "03070420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03070420",
+  "name": "Stony Fork Tributary near Gibbon Glade, PA",
+  "waterbody": "Stony Fork Tributary near Gibbon Glade, PA",
+  "state": "PA",
+  "latitude": 39.76424306,
+  "longitude": -79.58698789,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03070420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

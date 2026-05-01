@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05483600",
+  "key": "05483600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05483600",
+  "name": "Middle Raccoon River at Panora, IA",
+  "waterbody": "Middle Raccoon River at Panora, IA",
+  "state": "IA",
+  "latitude": 41.68741667,
+  "longitude": -94.3710556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNLI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Panorama",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnli4",
+  "slug": "usgs-05483600",
+  "noaaForecastPath": "data/noaa-forecast/PNLI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

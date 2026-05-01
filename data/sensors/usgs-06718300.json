@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06718300",
+  "key": "06718300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06718300",
+  "name": "CLEAR CREEK ABV JOHNSON GULCH NR IDAHO SPRINGS, CO",
+  "waterbody": "CLEAR CREEK ABV JOHNSON GULCH NR IDAHO SPRINGS, CO",
+  "state": "CO",
+  "latitude": 39.7463768,
+  "longitude": -105.4361058,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06718300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

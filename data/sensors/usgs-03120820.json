@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03120820",
+  "key": "03120820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03120820",
+  "name": "Indian Fork at Dellroy OH",
+  "waterbody": "Indian Fork at Dellroy OH",
+  "state": "OH",
+  "latitude": 40.5536111,
+  "longitude": -81.1847222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03120820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

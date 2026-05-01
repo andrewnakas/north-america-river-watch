@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01577500",
+  "key": "01577500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01577500",
+  "name": "Muddy Creek at Castle Fin, PA",
+  "waterbody": "Muddy Creek at Castle Fin, PA",
+  "state": "PA",
+  "latitude": 39.77260378,
+  "longitude": -76.3157919,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek (PA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mucp1",
+  "slug": "usgs-01577500",
+  "noaaForecastPath": "data/noaa-forecast/MUCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

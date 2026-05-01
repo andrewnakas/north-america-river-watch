@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09332100",
+  "key": "09332100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09332100",
+  "name": "MUDDY CREEK BL I-70 NR EMERY, UTAH",
+  "waterbody": "MUDDY CREEK BL I-70 NR EMERY, UTAH",
+  "state": "UT",
+  "latitude": 38.8125833,
+  "longitude": -111.20025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09332100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

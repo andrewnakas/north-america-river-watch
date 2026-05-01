@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158827",
+  "key": "08158827",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158827",
+  "name": "Onion Ck at Twin Creeks Rd nr Manchaca, TX",
+  "waterbody": "Onion Ck at Twin Creeks Rd nr Manchaca, TX",
+  "state": "TX",
+  "latitude": 30.12632345,
+  "longitude": -97.8211161,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ONIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Onion Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/onit2",
+  "slug": "usgs-08158827",
+  "noaaForecastPath": "data/noaa-forecast/ONIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083400",
+  "key": "08083400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083400",
+  "name": "Little Elm Ck nr Abilene, TX",
+  "waterbody": "Little Elm Ck nr Abilene, TX",
+  "state": "TX",
+  "latitude": 32.39175278,
+  "longitude": -99.85301944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

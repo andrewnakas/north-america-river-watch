@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06891000",
+  "key": "06891000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06891000",
+  "name": "KANSAS R AT LECOMPTON, KS",
+  "waterbody": "KANSAS R AT LECOMPTON, KS",
+  "state": "KS",
+  "latitude": 39.05111157,
+  "longitude": -95.3863633,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCPK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcpk1",
+  "slug": "usgs-06891000",
+  "noaaForecastPath": "data/noaa-forecast/LCPK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

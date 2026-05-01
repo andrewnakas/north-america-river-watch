@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07074850",
+  "key": "07074850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07074850",
+  "name": "White River near Augusta, AR",
+  "waterbody": "White River near Augusta, AR",
+  "state": "AR",
+  "latitude": 35.29444444,
+  "longitude": -91.3941667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/auga4",
+  "slug": "usgs-07074850",
+  "noaaForecastPath": "data/noaa-forecast/AUGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

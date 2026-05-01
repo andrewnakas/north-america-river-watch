@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06132000",
+  "key": "06132000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06132000",
+  "name": "Missouri River below Fort Peck Dam MT",
+  "waterbody": "Missouri River below Fort Peck Dam MT",
+  "state": "MT",
+  "latitude": 48.044425,
+  "longitude": -106.3562583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06132000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

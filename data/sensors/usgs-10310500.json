@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10310500",
+  "key": "10310500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10310500",
+  "name": "CLEAR CK NR CARSON CITY, NV",
+  "waterbody": "CLEAR CK NR CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.11324216,
+  "longitude": -119.7982365,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10310500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

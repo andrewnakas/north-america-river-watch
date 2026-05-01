@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07342470",
+  "key": "07342470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07342470",
+  "name": "S Sulphur Rv at SH 11 nr Commerce, TX",
+  "waterbody": "S Sulphur Rv at SH 11 nr Commerce, TX",
+  "state": "TX",
+  "latitude": 33.21930278,
+  "longitude": -95.8621944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07342470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

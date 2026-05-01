@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13183000",
+  "key": "13183000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13183000",
+  "name": "OWYHEE RIVER BELOW OWYHEE DAM, OR",
+  "waterbody": "OWYHEE RIVER BELOW OWYHEE DAM, OR",
+  "state": "OR",
+  "latitude": 43.65444444,
+  "longitude": -117.2558333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWYO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Owyhee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owyo3",
+  "slug": "usgs-13183000",
+  "noaaForecastPath": "data/noaa-forecast/OWYO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

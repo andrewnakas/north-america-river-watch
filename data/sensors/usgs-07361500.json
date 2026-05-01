@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07361500",
+  "key": "07361500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07361500",
+  "name": "Antoine River at Antoine, AR",
+  "waterbody": "Antoine River at Antoine, AR",
+  "state": "AR",
+  "latitude": 34.03888889,
+  "longitude": -93.4180556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07361500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

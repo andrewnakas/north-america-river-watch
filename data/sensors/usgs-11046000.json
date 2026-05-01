@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11046000",
+  "key": "11046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046000",
+  "name": "SANTA MARGARITA R A YSIDORA CA",
+  "waterbody": "SANTA MARGARITA R A YSIDORA CA",
+  "state": "CA",
+  "latitude": 33.3111436,
+  "longitude": -117.3472604,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YDRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Margarita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ydrc1",
+  "slug": "usgs-11046000",
+  "noaaForecastPath": "data/noaa-forecast/YDRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

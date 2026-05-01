@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02211800",
+  "key": "02211800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02211800",
+  "name": "TOWALIGA RIVER AT GA 83 NEAR JULIETTE, GA",
+  "waterbody": "TOWALIGA RIVER AT GA 83 NEAR JULIETTE, GA",
+  "state": "GA",
+  "latitude": 33.115,
+  "longitude": -83.8702222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOWG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Towaliga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/towg1",
+  "slug": "usgs-02211800",
+  "noaaForecastPath": "data/noaa-forecast/TOWG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

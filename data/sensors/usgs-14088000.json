@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14088000",
+  "key": "14088000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14088000",
+  "name": "LAKE CREEK NEAR SISTERS,OREG.",
+  "waterbody": "LAKE CREEK NEAR SISTERS,OREG.",
+  "state": "OR",
+  "latitude": 44.42622805,
+  "longitude": -121.726166,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14088000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

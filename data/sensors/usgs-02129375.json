@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02129375",
+  "key": "02129375",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02129375",
+  "name": "PEE DEE RIVER ABOVE JONES CREEK NEAR CORDOVA, NC",
+  "waterbody": "PEE DEE RIVER ABOVE JONES CREEK NEAR CORDOVA, NC",
+  "state": "NC",
+  "latitude": 34.8662583,
+  "longitude": -79.878925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02129375",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

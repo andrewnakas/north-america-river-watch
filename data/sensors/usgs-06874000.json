@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06874000",
+  "key": "06874000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06874000",
+  "name": "SF SOLOMON R AT OSBORNE, KS",
+  "waterbody": "SF SOLOMON R AT OSBORNE, KS",
+  "state": "KS",
+  "latitude": 39.42778826,
+  "longitude": -98.6942395,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSBK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "S F Solomon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/osbk1",
+  "slug": "usgs-06874000",
+  "noaaForecastPath": "data/noaa-forecast/OSBK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

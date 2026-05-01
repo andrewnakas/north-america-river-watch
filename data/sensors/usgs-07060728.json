@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07060728",
+  "key": "07060728",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07060728",
+  "name": "White River at Allison, AR",
+  "waterbody": "White River at Allison, AR",
+  "state": "AR",
+  "latitude": 35.93916667,
+  "longitude": -92.1141667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALLA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alla4",
+  "slug": "usgs-07060728",
+  "noaaForecastPath": "data/noaa-forecast/ALLA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

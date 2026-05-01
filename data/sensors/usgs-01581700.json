@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581700",
+  "key": "01581700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581700",
+  "name": "WINTERS RUN NEAR BENSON, MD",
+  "waterbody": "WINTERS RUN NEAR BENSON, MD",
+  "state": "MD",
+  "latitude": 39.51994444,
+  "longitude": -76.37297222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BENM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winters Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/benm2",
+  "slug": "usgs-01581700",
+  "noaaForecastPath": "data/noaa-forecast/BENM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

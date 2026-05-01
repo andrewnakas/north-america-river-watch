@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02234324",
+  "key": "02234324",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02234324",
+  "name": "HOWELL CREEK NEAR SLAVIA, FL",
+  "waterbody": "HOWELL CREEK NEAR SLAVIA, FL",
+  "state": "FL",
+  "latitude": 28.64777587,
+  "longitude": -81.2645109,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCSF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Howell Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcsf1",
+  "slug": "usgs-02234324",
+  "noaaForecastPath": "data/noaa-forecast/HCSF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

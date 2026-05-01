@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10344505",
+  "key": "10344505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10344505",
+  "name": "TRUCKEE R A BOCA BRIDGE NR TRUCKEE CA",
+  "waterbody": "TRUCKEE R A BOCA BRIDGE NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.3851589,
+  "longitude": -120.0876722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10344505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

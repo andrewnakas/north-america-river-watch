@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01661050",
+  "key": "01661050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01661050",
+  "name": "St Clements Creek near Clements, MD",
+  "waterbody": "St Clements Creek near Clements, MD",
+  "state": "MD",
+  "latitude": 38.33330556,
+  "longitude": -76.725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLMM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Clement Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clmm2",
+  "slug": "usgs-01661050",
+  "noaaForecastPath": "data/noaa-forecast/CLMM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

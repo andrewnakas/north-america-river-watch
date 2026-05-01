@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04285800",
+  "key": "04285800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04285800",
+  "name": "NORTH BRANCH WINOOSKI RIVER AT MONTPELIER, VT",
+  "waterbody": "NORTH BRANCH WINOOSKI RIVER AT MONTPELIER, VT",
+  "state": "VT",
+  "latitude": 44.2608926,
+  "longitude": -72.5759425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNGV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Winooski River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lngv1",
+  "slug": "usgs-04285800",
+  "noaaForecastPath": "data/noaa-forecast/LNGV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

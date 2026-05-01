@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09359020",
+  "key": "09359020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09359020",
+  "name": "ANIMAS RIVER BELOW SILVERTON, CO",
+  "waterbody": "ANIMAS RIVER BELOW SILVERTON, CO",
+  "state": "CO",
+  "latitude": 37.788333,
+  "longitude": -107.668222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANBC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Animas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anbc2",
+  "slug": "usgs-09359020",
+  "noaaForecastPath": "data/noaa-forecast/ANBC2.json",
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

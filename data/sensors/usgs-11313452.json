@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11313452",
+  "key": "11313452",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11313452",
+  "name": "OLD R A FRANKS TRACT NR TERMINOUS CA",
+  "waterbody": "OLD R A FRANKS TRACT NR TERMINOUS CA",
+  "state": "CA",
+  "latitude": 38.0711111,
+  "longitude": -121.5788889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSJC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/osjc1",
+  "slug": "usgs-11313452",
+  "noaaForecastPath": "data/noaa-forecast/OSJC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

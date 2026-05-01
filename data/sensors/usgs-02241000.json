@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02241000",
+  "key": "02241000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02241000",
+  "name": "CAMPS CANAL NEAR ROCHELLE, FL",
+  "waterbody": "CAMPS CANAL NEAR ROCHELLE, FL",
+  "state": "FL",
+  "latitude": 29.57608027,
+  "longitude": -82.24982278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02241000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

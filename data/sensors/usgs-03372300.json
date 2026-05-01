@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03372300",
+  "key": "03372300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03372300",
+  "name": "STEPHENS CREEK NEAR BLOOMINGTON, IND.",
+  "waterbody": "STEPHENS CREEK NEAR BLOOMINGTON, IND.",
+  "state": "IN",
+  "latitude": 39.16365427,
+  "longitude": -86.41831,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03372300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

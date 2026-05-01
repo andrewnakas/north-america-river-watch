@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02483500",
+  "key": "02483500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02483500",
+  "name": "PEARL RIVER NR LENA, MS",
+  "waterbody": "PEARL RIVER NR LENA, MS",
+  "state": "MS",
+  "latitude": 32.6672222,
+  "longitude": -89.6461111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDHM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdhm6",
+  "slug": "usgs-02483500",
+  "noaaForecastPath": "data/noaa-forecast/GDHM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

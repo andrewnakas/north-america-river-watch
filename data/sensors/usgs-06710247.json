@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06710247",
+  "key": "06710247",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06710247",
+  "name": "SOUTH PLATTE RIVER BELOW UNION AVE, AT ENGLEWOOD,C",
+  "waterbody": "SOUTH PLATTE RIVER BELOW UNION AVE, AT ENGLEWOOD,C",
+  "state": "CO",
+  "latitude": 39.63248027,
+  "longitude": -105.01501425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENWC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/enwc2",
+  "slug": "usgs-06710247",
+  "noaaForecastPath": "data/noaa-forecast/ENWC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03339273",
+  "key": "03339273",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03339273",
+  "name": "SUGAR CREEK AT THORNTOWN, IN",
+  "waterbody": "SUGAR CREEK AT THORNTOWN, IN",
+  "state": "IN",
+  "latitude": 40.13919444,
+  "longitude": -86.6048056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar Creek (IN)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suti3",
+  "slug": "usgs-03339273",
+  "noaaForecastPath": "data/noaa-forecast/SUTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14303600",
+  "key": "14303600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14303600",
+  "name": "NESTUCCA RIVER NEAR BEAVER, OR",
+  "waterbody": "NESTUCCA RIVER NEAR BEAVER, OR",
+  "state": "OR",
+  "latitude": 45.26649446,
+  "longitude": -123.847061,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nestucca River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/beao3",
+  "slug": "usgs-14303600",
+  "noaaForecastPath": "data/noaa-forecast/BEAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

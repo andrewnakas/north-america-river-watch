@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09197000",
+  "key": "09197000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09197000",
+  "name": "PINE CREEK BELOW FREMONT LAKE, WY",
+  "waterbody": "PINE CREEK BELOW FREMONT LAKE, WY",
+  "state": "WY",
+  "latitude": 42.89491847,
+  "longitude": -109.8438085,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09197000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

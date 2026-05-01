@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11170450",
+  "key": "11170450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11170450",
+  "name": "COYOTE C BL COYOTE RANCH RD NR COYOTE CA",
+  "waterbody": "COYOTE C BL COYOTE RANCH RD NR COYOTE CA",
+  "state": "CA",
+  "latitude": 37.21805556,
+  "longitude": -121.7405556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCYC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coyote Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcyc1",
+  "slug": "usgs-11170450",
+  "noaaForecastPath": "data/noaa-forecast/HCYC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

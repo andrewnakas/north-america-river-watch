@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50093120",
+  "key": "50093120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50093120",
+  "name": "RIO GRANDE DE PATILLAS BLW LAGO PATILLAS, PR",
+  "waterbody": "RIO GRANDE DE PATILLAS BLW LAGO PATILLAS, PR",
+  "state": "PR",
+  "latitude": 18.016389,
+  "longitude": -66.023611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PASP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lago Patillas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pasp4",
+  "slug": "usgs-50093120",
+  "noaaForecastPath": "data/noaa-forecast/PASP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442661",
+  "key": "09442661",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442661",
+  "name": "ADAIR-LUNA DITCH NR. LUNA, NM",
+  "waterbody": "ADAIR-LUNA DITCH NR. LUNA, NM",
+  "state": "NM",
+  "latitude": 33.83416667,
+  "longitude": -108.9352778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442661",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

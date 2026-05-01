@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04182900",
+  "key": "04182900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04182900",
+  "name": "MAUMEE RIVER AT FORT WAYNE, IN",
+  "waterbody": "MAUMEE RIVER AT FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 41.0825206,
+  "longitude": -85.1152105,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTWI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maumee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftwi3",
+  "slug": "usgs-04182900",
+  "noaaForecastPath": "data/noaa-forecast/FTWI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

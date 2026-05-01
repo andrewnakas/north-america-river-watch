@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04216220",
+  "key": "04216220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04216220",
+  "name": "NIAGARA RIVER AT BLACK ROCK LOCK AT BUFFALO NY",
+  "waterbody": "NIAGARA RIVER AT BLACK ROCK LOCK AT BUFFALO NY",
+  "state": "NY",
+  "latitude": 42.9338333,
+  "longitude": -78.905,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04216220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

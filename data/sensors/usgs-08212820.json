@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08212820",
+  "key": "08212820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08212820",
+  "name": "Petronila Ck at FM 665 nr Driscoll, TX",
+  "waterbody": "Petronila Ck at FM 665 nr Driscoll, TX",
+  "state": "TX",
+  "latitude": 27.66525,
+  "longitude": -97.7022778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PETT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Petronila Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pett2",
+  "slug": "usgs-08212820",
+  "noaaForecastPath": "data/noaa-forecast/PETT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07048700",
+  "key": "07048700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07048700",
+  "name": "White River near Goshen, AR",
+  "waterbody": "White River near Goshen, AR",
+  "state": "AR",
+  "latitude": 36.1058333,
+  "longitude": -94.0111111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07048700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

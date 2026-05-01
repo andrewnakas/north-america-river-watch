@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05424095",
+  "key": "05424095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05424095",
+  "name": "RUBICON RIVER NEAR SLINGER, WI",
+  "waterbody": "RUBICON RIVER NEAR SLINGER, WI",
+  "state": "WI",
+  "latitude": 43.32139078,
+  "longitude": -88.3300962,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05424095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

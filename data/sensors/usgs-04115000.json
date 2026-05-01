@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04115000",
+  "key": "04115000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04115000",
+  "name": "MAPLE RIVER AT MAPLE RAPIDS, MI",
+  "waterbody": "MAPLE RIVER AT MAPLE RAPIDS, MI",
+  "state": "MI",
+  "latitude": 43.10975485,
+  "longitude": -84.6930521,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRPM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maple River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrpm4",
+  "slug": "usgs-04115000",
+  "noaaForecastPath": "data/noaa-forecast/MRPM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

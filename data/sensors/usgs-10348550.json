@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348550",
+  "key": "10348550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348550",
+  "name": "DAVIS CK AT DAVIS CK CMPGRD RD NR WASHOE CITY, NV",
+  "waterbody": "DAVIS CK AT DAVIS CK CMPGRD RD NR WASHOE CITY, NV",
+  "state": "NV",
+  "latitude": 39.3034222,
+  "longitude": -119.8281667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

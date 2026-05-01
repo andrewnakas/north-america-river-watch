@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04159130",
+  "key": "04159130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04159130",
+  "name": "ST. CLAIR RIVER AT PORT HURON, MI",
+  "waterbody": "ST. CLAIR RIVER AT PORT HURON, MI",
+  "state": "MI",
+  "latitude": 42.98697429,
+  "longitude": -82.4246369,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04159130",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415900",
+  "key": "09415900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415900",
+  "name": "MUDDY SPGS AT LDS FARM NR MOAPA, NV",
+  "waterbody": "MUDDY SPGS AT LDS FARM NR MOAPA, NV",
+  "state": "NV",
+  "latitude": 36.72163699,
+  "longitude": -114.7155502,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021765186",
+  "key": "021765186",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021765186",
+  "name": "TULLIFINNY RIVER BELOW I-95 NEAR RIDGELAND, SC",
+  "waterbody": "TULLIFINNY RIVER BELOW I-95 NEAR RIDGELAND, SC",
+  "state": "SC",
+  "latitude": 32.59966667,
+  "longitude": -80.9021667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLFS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tullifinny River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlfs1",
+  "slug": "usgs-021765186",
+  "noaaForecastPath": "data/noaa-forecast/TLFS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

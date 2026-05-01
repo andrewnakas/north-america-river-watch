@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05125000",
+  "key": "05125000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05125000",
+  "name": "SOUTH KAWISHIWI RIVER NEAR ELY, MN",
+  "waterbody": "SOUTH KAWISHIWI RIVER NEAR ELY, MN",
+  "state": "MN",
+  "latitude": 47.840058,
+  "longitude": -91.695358,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKRM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Kawishiwi River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skrm5",
+  "slug": "usgs-05125000",
+  "noaaForecastPath": "data/noaa-forecast/SKRM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

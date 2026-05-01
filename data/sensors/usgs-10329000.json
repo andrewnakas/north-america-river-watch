@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10329000",
+  "key": "10329000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10329000",
+  "name": "L HUMBOLDT RV NR PARADISE VALLEY, NV",
+  "waterbody": "L HUMBOLDT RV NR PARADISE VALLEY, NV",
+  "state": "NV",
+  "latitude": 41.4158222,
+  "longitude": -117.373511,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LHPN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Humboldt nr Paradise Valley",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lhpn2",
+  "slug": "usgs-10329000",
+  "noaaForecastPath": "data/noaa-forecast/LHPN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

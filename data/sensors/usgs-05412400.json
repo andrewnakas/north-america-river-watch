@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05412400",
+  "key": "05412400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05412400",
+  "name": "Volga River at Littleport, IA",
+  "waterbody": "Volga River at Littleport, IA",
+  "state": "IA",
+  "latitude": 42.7538753,
+  "longitude": -91.3690252,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLPI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Volga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlpi4",
+  "slug": "usgs-05412400",
+  "noaaForecastPath": "data/noaa-forecast/VLPI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

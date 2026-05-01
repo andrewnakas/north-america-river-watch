@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11073300",
+  "key": "11073300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11073300",
+  "name": "SAN ANTONIO C A RIVERSIDE DRIVE NR CHINO CA",
+  "waterbody": "SAN ANTONIO C A RIVERSIDE DRIVE NR CHINO CA",
+  "state": "CA",
+  "latitude": 34.01862319,
+  "longitude": -117.7306118,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11073300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

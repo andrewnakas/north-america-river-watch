@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03378550",
+  "key": "03378550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03378550",
+  "name": "BIG CREEK NEAR WADESVILLE, IN",
+  "waterbody": "BIG CREEK NEAR WADESVILLE, IN",
+  "state": "IN",
+  "latitude": 38.0831111,
+  "longitude": -87.76963889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WADI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek (IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wadi3",
+  "slug": "usgs-03378550",
+  "noaaForecastPath": "data/noaa-forecast/WADI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08022040",
+  "key": "08022040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08022040",
+  "name": "Sabine Rv nr Beckville, TX",
+  "waterbody": "Sabine Rv nr Beckville, TX",
+  "state": "TX",
+  "latitude": 32.32853333,
+  "longitude": -94.3538278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bekt2",
+  "slug": "usgs-08022040",
+  "noaaForecastPath": "data/noaa-forecast/BEKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

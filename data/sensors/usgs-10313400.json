@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10313400",
+  "key": "10313400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10313400",
+  "name": "MARYS RV BLW ORANGE BRG NR CHARLESTON, NV",
+  "waterbody": "MARYS RV BLW ORANGE BRG NR CHARLESTON, NV",
+  "state": "NV",
+  "latitude": 41.54991275,
+  "longitude": -115.3067288,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10313400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08066380",
+  "key": "08066380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08066380",
+  "name": "Big Ck at SH 150 nr Shepherd, TX",
+  "waterbody": "Big Ck at SH 150 nr Shepherd, TX",
+  "state": "TX",
+  "latitude": 30.50217778,
+  "longitude": -95.0312889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/beht2",
+  "slug": "usgs-08066380",
+  "noaaForecastPath": "data/noaa-forecast/BEHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.393Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01115110",
+  "key": "01115110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115110",
+  "name": "HUNTINGHOUSE BK AT ELMDALE RD AT N SCITUATE, RI",
+  "waterbody": "HUNTINGHOUSE BK AT ELMDALE RD AT N SCITUATE, RI",
+  "state": "RI",
+  "latitude": 41.8456548,
+  "longitude": -71.6095088,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01115110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

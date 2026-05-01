@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07239500",
+  "key": "07239500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07239500",
+  "name": "North Canadian River near El Reno, OK",
+  "waterbody": "North Canadian River near El Reno, OK",
+  "state": "OK",
+  "latitude": 35.56310656,
+  "longitude": -97.9575498,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELNO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elno2",
+  "slug": "usgs-07239500",
+  "noaaForecastPath": "data/noaa-forecast/ELNO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01500000",
+  "key": "01500000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01500000",
+  "name": "OULEOUT CREEK AT EAST SIDNEY NY",
+  "waterbody": "OULEOUT CREEK AT EAST SIDNEY NY",
+  "state": "NY",
+  "latitude": 42.33313889,
+  "longitude": -75.2343056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESIN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ouleout Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/esin6",
+  "slug": "usgs-01500000",
+  "noaaForecastPath": "data/noaa-forecast/ESIN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

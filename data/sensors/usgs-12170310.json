@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12170310",
+  "key": "12170310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12170310",
+  "name": "UNNAMED TRIBUTARY SKAGIT BAY CAMANO ISLAND, WA",
+  "waterbody": "UNNAMED TRIBUTARY SKAGIT BAY CAMANO ISLAND, WA",
+  "state": "WA",
+  "latitude": 48.2545441,
+  "longitude": -122.4623815,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12170310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

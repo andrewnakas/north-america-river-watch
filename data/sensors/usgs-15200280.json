@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15200280",
+  "key": "15200280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15200280",
+  "name": "GULKANA R AT SOURDOUGH AK",
+  "waterbody": "GULKANA R AT SOURDOUGH AK",
+  "state": "AK",
+  "latitude": 62.520833,
+  "longitude": -145.530833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRSA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gulkana River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grsa2",
+  "slug": "usgs-15200280",
+  "noaaForecastPath": "data/noaa-forecast/GRSA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04071765",
+  "key": "04071765",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04071765",
+  "name": "OCONTO RIVER NEAR OCONTO, WI",
+  "waterbody": "OCONTO RIVER NEAR OCONTO, WI",
+  "state": "WI",
+  "latitude": 44.86055556,
+  "longitude": -87.98388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OCTW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oconto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/octw3",
+  "slug": "usgs-04071765",
+  "noaaForecastPath": "data/noaa-forecast/OCTW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

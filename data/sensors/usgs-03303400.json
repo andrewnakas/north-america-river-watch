@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03303400",
+  "key": "03303400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03303400",
+  "name": "CROOKED CREEK NEAR SANTA CLAUS, IN",
+  "waterbody": "CROOKED CREEK NEAR SANTA CLAUS, IN",
+  "state": "IN",
+  "latitude": 38.11811374,
+  "longitude": -86.8899921,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03303400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

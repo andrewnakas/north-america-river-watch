@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03400800",
+  "key": "03400800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03400800",
+  "name": "MARTINS FORK NEAR SMITH, KY",
+  "waterbody": "MARTINS FORK NEAR SMITH, KY",
+  "state": "KY",
+  "latitude": 36.75230974,
+  "longitude": -83.2574012,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03400800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046325",
+  "key": "11046325",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046325",
+  "name": "SAN MATEO C A SAN MATEO RD NR SAN ONOFRE CA",
+  "waterbody": "SAN MATEO C A SAN MATEO RD NR SAN ONOFRE CA",
+  "state": "CA",
+  "latitude": 33.4193333,
+  "longitude": -117.5370556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046325",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

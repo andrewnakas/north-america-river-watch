@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02110802",
+  "key": "02110802",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110802",
+  "name": "WACCAMAW RIVER AT BUCKSPORT, SC",
+  "waterbody": "WACCAMAW RIVER AT BUCKSPORT, SC",
+  "state": "SC",
+  "latitude": 33.64905837,
+  "longitude": -79.09420639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waccamaw River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bucs1",
+  "slug": "usgs-02110802",
+  "noaaForecastPath": "data/noaa-forecast/BUCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

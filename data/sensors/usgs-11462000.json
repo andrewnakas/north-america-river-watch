@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11462000",
+  "key": "11462000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11462000",
+  "name": "EF RUSSIAN R NR UKIAH CA",
+  "waterbody": "EF RUSSIAN R NR UKIAH CA",
+  "state": "CA",
+  "latitude": 39.1973914,
+  "longitude": -123.1875046,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YTPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coyote Reservior  (Lake Mendocino)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ytpc1",
+  "slug": "usgs-11462000",
+  "noaaForecastPath": "data/noaa-forecast/YTPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03237900",
+  "key": "03237900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03237900",
+  "name": "CABIN CREEK NEAR TOLLESBORO, KY",
+  "waterbody": "CABIN CREEK NEAR TOLLESBORO, KY",
+  "state": "KY",
+  "latitude": 38.56785337,
+  "longitude": -83.5371357,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03237900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07241000",
+  "key": "07241000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07241000",
+  "name": "North Canadian River blw Lk Overholser nr OKC, OK",
+  "waterbody": "North Canadian River blw Lk Overholser nr OKC, OK",
+  "state": "OK",
+  "latitude": 35.47866848,
+  "longitude": -97.6633752,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OVRO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ovro2",
+  "slug": "usgs-07241000",
+  "noaaForecastPath": "data/noaa-forecast/OVRO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

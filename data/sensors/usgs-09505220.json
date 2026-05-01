@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09505220",
+  "key": "09505220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09505220",
+  "name": "ROCKY GULCH NR RIMROCK, AZ",
+  "waterbody": "ROCKY GULCH NR RIMROCK, AZ",
+  "state": "AZ",
+  "latitude": 34.7469655,
+  "longitude": -111.4945933,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09505220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

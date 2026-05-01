@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14236200",
+  "key": "14236200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14236200",
+  "name": "TILTON RIVER AB BEAR CANYON CREEK NEAR CINEBAR, WA",
+  "waterbody": "TILTON RIVER AB BEAR CANYON CREEK NEAR CINEBAR, WA",
+  "state": "WA",
+  "latitude": 46.5953843,
+  "longitude": -122.4595564,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TILW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tilton River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tilw1",
+  "slug": "usgs-14236200",
+  "noaaForecastPath": "data/noaa-forecast/TILW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

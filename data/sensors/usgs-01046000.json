@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01046000",
+  "key": "01046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01046000",
+  "name": "Austin Stream at Bingham, Maine",
+  "waterbody": "Austin Stream at Bingham, Maine",
+  "state": "ME",
+  "latitude": 45.0644444,
+  "longitude": -69.8805556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUSM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Austin Stream in Bingham ",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ausm1",
+  "slug": "usgs-01046000",
+  "noaaForecastPath": "data/noaa-forecast/AUSM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13140500",
+  "key": "13140500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13140500",
+  "name": "BIG WOOD RIVER AT GLENDALE BRIDGE NR BELLEVUE ID",
+  "waterbody": "BIG WOOD RIVER AT GLENDALE BRIDGE NR BELLEVUE ID",
+  "state": "ID",
+  "latitude": 43.4261111,
+  "longitude": -114.2608333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13140500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

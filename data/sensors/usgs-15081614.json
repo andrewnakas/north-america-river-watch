@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15081614",
+  "key": "15081614",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15081614",
+  "name": "HALFMILE C AB DIVERSION NR KLAWOCK AK",
+  "waterbody": "HALFMILE C AB DIVERSION NR KLAWOCK AK",
+  "state": "AK",
+  "latitude": 55.55687287,
+  "longitude": -133.0186197,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15081614",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

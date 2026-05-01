@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15215920",
+  "key": "15215920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15215920",
+  "name": "SHERIDAN R NR CORDOVA AK",
+  "waterbody": "SHERIDAN R NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.478611,
+  "longitude": -145.402222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDNA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheridan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdna2",
+  "slug": "usgs-15215920",
+  "noaaForecastPath": "data/noaa-forecast/SDNA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01212500",
+  "key": "01212500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01212500",
+  "name": "BYRAM RIVER AT PEMBERWICK, CT",
+  "waterbody": "BYRAM RIVER AT PEMBERWICK, CT",
+  "state": "CT",
+  "latitude": 41.02729722,
+  "longitude": -73.66175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01212500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

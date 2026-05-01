@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06665790",
+  "key": "06665790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06665790",
+  "name": "SYBILLE CREEK AB CANAL NO. 3, NEAR WHEATLAND, WY",
+  "waterbody": "SYBILLE CREEK AB CANAL NO. 3, NEAR WHEATLAND, WY",
+  "state": "WY",
+  "latitude": 41.91106537,
+  "longitude": -105.1272599,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMCW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sybille Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smcw4",
+  "slug": "usgs-06665790",
+  "noaaForecastPath": "data/noaa-forecast/SMCW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

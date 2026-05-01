@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01467005",
+  "key": "01467005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467005",
+  "name": "NB Rancocas C at Iron Works Park at Mount Holly NJ",
+  "waterbody": "NB Rancocas C at Iron Works Park at Mount Holly NJ",
+  "state": "NJ",
+  "latitude": 39.99305556,
+  "longitude": -74.78138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IWPN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Rancocas Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iwpn4",
+  "slug": "usgs-01467005",
+  "noaaForecastPath": "data/noaa-forecast/IWPN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

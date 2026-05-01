@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14377100",
+  "key": "14377100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14377100",
+  "name": "ILLINOIS RIVER NEAR KERBY, OR",
+  "waterbody": "ILLINOIS RIVER NEAR KERBY, OR",
+  "state": "OR",
+  "latitude": 42.23177936,
+  "longitude": -123.66368,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRBO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krbo3",
+  "slug": "usgs-14377100",
+  "noaaForecastPath": "data/noaa-forecast/KRBO3.json",
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

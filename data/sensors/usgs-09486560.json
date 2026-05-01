@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09486560",
+  "key": "09486560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486560",
+  "name": "LAS MORAS WASH (UPPER STATION) NEAR SASABE, AZ",
+  "waterbody": "LAS MORAS WASH (UPPER STATION) NEAR SASABE, AZ",
+  "state": "AZ",
+  "latitude": 31.679081,
+  "longitude": -111.611661,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09486560",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15281500",
+  "key": "15281500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15281500",
+  "name": "CAMP C NR SHEEP MT LODGE AK",
+  "waterbody": "CAMP C NR SHEEP MT LODGE AK",
+  "state": "AK",
+  "latitude": 61.83837366,
+  "longitude": -147.4108033,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15281500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

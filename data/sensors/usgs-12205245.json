@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12205245",
+  "key": "12205245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12205245",
+  "name": "GLACIER CREEK BELOW THOMPSON CREEK AT GLACIER, WA",
+  "waterbody": "GLACIER CREEK BELOW THOMPSON CREEK AT GLACIER, WA",
+  "state": "WA",
+  "latitude": 48.8793194,
+  "longitude": -121.9156194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12205245",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02059500",
+  "key": "02059500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02059500",
+  "name": "GOOSE CREEK NEAR HUDDLESTON, VA",
+  "waterbody": "GOOSE CREEK NEAR HUDDLESTON, VA",
+  "state": "VA",
+  "latitude": 37.1731995,
+  "longitude": -79.5203076,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdsv2",
+  "slug": "usgs-02059500",
+  "noaaForecastPath": "data/noaa-forecast/HDSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04232200",
+  "key": "04232200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04232200",
+  "name": "CATHARINE CR AT MONTOUR FALLS NY",
+  "waterbody": "CATHARINE CR AT MONTOUR FALLS NY",
+  "state": "NY",
+  "latitude": 42.32827778,
+  "longitude": -76.8439167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTEN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catharine Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cten6",
+  "slug": "usgs-04232200",
+  "noaaForecastPath": "data/noaa-forecast/CTEN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

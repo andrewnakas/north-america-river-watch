@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581590",
+  "key": "01581590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581590",
+  "name": "BYNUM RUN NEAR ABINGDON, MD",
+  "waterbody": "BYNUM RUN NEAR ABINGDON, MD",
+  "state": "MD",
+  "latitude": 39.47988889,
+  "longitude": -76.2804722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRAM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bynum Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bram2",
+  "slug": "usgs-01581590",
+  "noaaForecastPath": "data/noaa-forecast/BRAM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

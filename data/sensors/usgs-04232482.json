@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04232482",
+  "key": "04232482",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04232482",
+  "name": "KEUKA LAKE OUTLET AT DRESDEN NY",
+  "waterbody": "KEUKA LAKE OUTLET AT DRESDEN NY",
+  "state": "NY",
+  "latitude": 42.6803333,
+  "longitude": -76.95388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRDN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Keuka Outlet",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drdn6",
+  "slug": "usgs-04232482",
+  "noaaForecastPath": "data/noaa-forecast/DRDN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

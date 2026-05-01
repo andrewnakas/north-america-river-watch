@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13139510",
+  "key": "13139510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13139510",
+  "name": "BIG WOOD RIVER AT HAILEY ID TOTAL FLOW",
+  "waterbody": "BIG WOOD RIVER AT HAILEY ID TOTAL FLOW",
+  "state": "ID",
+  "latitude": 43.5172222,
+  "longitude": -114.3216667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13139510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

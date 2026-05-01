@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01491000",
+  "key": "01491000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01491000",
+  "name": "CHOPTANK RIVER NEAR GREENSBORO, MD",
+  "waterbody": "CHOPTANK RIVER NEAR GREENSBORO, MD",
+  "state": "MD",
+  "latitude": 38.99719444,
+  "longitude": -75.7858056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01491000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

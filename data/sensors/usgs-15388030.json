@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15388030",
+  "key": "15388030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15388030",
+  "name": "NATION R NR NATION AK",
+  "waterbody": "NATION R NR NATION AK",
+  "state": "AK",
+  "latitude": 65.23943139,
+  "longitude": -141.6551518,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15388030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09400568",
+  "key": "09400568",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09400568",
+  "name": "POLACCA WASH NEAR SECOND MESA, AZ",
+  "waterbody": "POLACCA WASH NEAR SECOND MESA, AZ",
+  "state": "AZ",
+  "latitude": 35.65480556,
+  "longitude": -110.563,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POLA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Polacca Wash",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pola3",
+  "slug": "usgs-09400568",
+  "noaaForecastPath": "data/noaa-forecast/POLA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

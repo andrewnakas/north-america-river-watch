@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08385522",
+  "key": "08385522",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08385522",
+  "name": "PECOS RIVER BELOW TAIBAN CREEK NEAR FORT SUMNER,NM",
+  "waterbody": "PECOS RIVER BELOW TAIBAN CREEK NEAR FORT SUMNER,NM",
+  "state": "NM",
+  "latitude": 34.3322222,
+  "longitude": -104.1811111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08385522",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

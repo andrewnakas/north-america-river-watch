@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08317950",
+  "key": "08317950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08317950",
+  "name": "GALISTEO CREEK BELOW GALISTEO DAM, NM",
+  "waterbody": "GALISTEO CREEK BELOW GALISTEO DAM, NM",
+  "state": "NM",
+  "latitude": 35.46465278,
+  "longitude": -106.2133889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RGCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Galisteo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rgcn5",
+  "slug": "usgs-08317950",
+  "noaaForecastPath": "data/noaa-forecast/RGCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

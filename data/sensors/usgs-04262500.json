@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04262500",
+  "key": "04262500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04262500",
+  "name": "WEST BRANCH OSWEGATCHIE RIVER NEAR HARRISVILLE NY",
+  "waterbody": "WEST BRANCH OSWEGATCHIE RIVER NEAR HARRISVILLE NY",
+  "state": "NY",
+  "latitude": 44.185667,
+  "longitude": -75.330389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HVLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Oswegatchie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hvln6",
+  "slug": "usgs-04262500",
+  "noaaForecastPath": "data/noaa-forecast/HVLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

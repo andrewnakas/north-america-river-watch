@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05457700",
+  "key": "05457700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05457700",
+  "name": "Cedar River at Charles City, IA",
+  "waterbody": "Cedar River at Charles City, IA",
+  "state": "IA",
+  "latitude": 43.06219444,
+  "longitude": -92.6738833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCYI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccyi4",
+  "slug": "usgs-05457700",
+  "noaaForecastPath": "data/noaa-forecast/CCYI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

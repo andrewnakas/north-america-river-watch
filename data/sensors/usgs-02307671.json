@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02307671",
+  "key": "02307671",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307671",
+  "name": "ALLIGATOR CR BELOW US HWY 19 AT CLEARWATER FL",
+  "waterbody": "ALLIGATOR CR BELOW US HWY 19 AT CLEARWATER FL",
+  "state": "FL",
+  "latitude": 27.97529783,
+  "longitude": -82.7273228,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02307671",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

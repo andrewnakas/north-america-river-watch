@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353000",
+  "key": "03353000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353000",
+  "name": "WHITE RIVER AT INDIANAPOLIS, IN",
+  "waterbody": "WHITE RIVER AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.73713889,
+  "longitude": -86.1696944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/indi3",
+  "slug": "usgs-03353000",
+  "noaaForecastPath": "data/noaa-forecast/INDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

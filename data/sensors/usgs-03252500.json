@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03252500",
+  "key": "03252500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03252500",
+  "name": "SOUTH FORK LICKING RIVER AT CYNTHIANA, KY",
+  "waterbody": "SOUTH FORK LICKING RIVER AT CYNTHIANA, KY",
+  "state": "KY",
+  "latitude": 38.390908,
+  "longitude": -84.3029905,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYNK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Licking River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cynk2",
+  "slug": "usgs-03252500",
+  "noaaForecastPath": "data/noaa-forecast/CYNK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

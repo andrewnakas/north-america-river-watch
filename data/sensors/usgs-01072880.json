@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01072880",
+  "key": "01072880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01072880",
+  "name": "COCHECO RIVER, AT SPAULDING TURNPIKE, AT DOVER, NH",
+  "waterbody": "COCHECO RIVER, AT SPAULDING TURNPIKE, AT DOVER, NH",
+  "state": "NH",
+  "latitude": 43.20591748,
+  "longitude": -70.8958928,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01072880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

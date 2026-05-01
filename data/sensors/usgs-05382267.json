@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05382267",
+  "key": "05382267",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05382267",
+  "name": "LA CROSSE RIVER @ CNTY TRUNK HIGHWY BB NR TOMAH,WI",
+  "waterbody": "LA CROSSE RIVER @ CNTY TRUNK HIGHWY BB NR TOMAH,WI",
+  "state": "WI",
+  "latitude": 44.00027778,
+  "longitude": -90.7244444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LFMW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "La Crosse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lfmw3",
+  "slug": "usgs-05382267",
+  "noaaForecastPath": "data/noaa-forecast/LFMW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

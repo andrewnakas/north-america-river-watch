@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01091000",
+  "key": "01091000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01091000",
+  "name": "SOUTH BRANCH PISCATAQUOG RIVER NEAR GOFFSTOWN, NH",
+  "waterbody": "SOUTH BRANCH PISCATAQUOG RIVER NEAR GOFFSTOWN, NH",
+  "state": "NH",
+  "latitude": 43.01480519,
+  "longitude": -71.64146129,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBPN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Piscataquog River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbpn3",
+  "slug": "usgs-01091000",
+  "noaaForecastPath": "data/noaa-forecast/SBPN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

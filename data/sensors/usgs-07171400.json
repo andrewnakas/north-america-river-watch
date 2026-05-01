@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07171400",
+  "key": "07171400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07171400",
+  "name": "Verdigris River near Oologah, OK",
+  "waterbody": "Verdigris River near Oologah, OK",
+  "state": "OK",
+  "latitude": 36.42065028,
+  "longitude": -95.6844255,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OOLO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eastern Oklahoma Lakes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oolo2",
+  "slug": "usgs-07171400",
+  "noaaForecastPath": "data/noaa-forecast/OOLO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

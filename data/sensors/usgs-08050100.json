@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08050100",
+  "key": "08050100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08050100",
+  "name": "Mountain Ck at Grand Prairie, TX",
+  "waterbody": "Mountain Ck at Grand Prairie, TX",
+  "state": "TX",
+  "latitude": 32.7498611,
+  "longitude": -96.9261111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08050100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

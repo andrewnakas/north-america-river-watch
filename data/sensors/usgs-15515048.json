@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15515048",
+  "key": "15515048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15515048",
+  "name": "MARGUERITE C 3.6 MI AB EMMA C NR HEALY AK",
+  "waterbody": "MARGUERITE C 3.6 MI AB EMMA C NR HEALY AK",
+  "state": "AK",
+  "latitude": 63.97388889,
+  "longitude": -148.76111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marguerite Creek 3.6 miles",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrca2",
+  "slug": "usgs-15515048",
+  "noaaForecastPath": "data/noaa-forecast/MRCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

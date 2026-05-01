@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08062700",
+  "key": "08062700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08062700",
+  "name": "Trinity Rv at Trinidad, TX",
+  "waterbody": "Trinity Rv at Trinidad, TX",
+  "state": "TX",
+  "latitude": 32.14765255,
+  "longitude": -96.1024708,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TDDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tddt2",
+  "slug": "usgs-08062700",
+  "noaaForecastPath": "data/noaa-forecast/TDDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07188000",
+  "key": "07188000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07188000",
+  "name": "Spring River near Quapaw, OK",
+  "waterbody": "Spring River near Quapaw, OK",
+  "state": "OK",
+  "latitude": 36.93451148,
+  "longitude": -94.7471711,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QUAO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/quao2",
+  "slug": "usgs-07188000",
+  "noaaForecastPath": "data/noaa-forecast/QUAO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

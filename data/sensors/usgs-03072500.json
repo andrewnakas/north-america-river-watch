@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03072500",
+  "key": "03072500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03072500",
+  "name": "Monongahela River at Greensboro, PA",
+  "waterbody": "Monongahela River at Greensboro, PA",
+  "state": "PA",
+  "latitude": 39.7875775,
+  "longitude": -79.9236677,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03072500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

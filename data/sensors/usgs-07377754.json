@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07377754",
+  "key": "07377754",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07377754",
+  "name": "Comite River near Baker, LA",
+  "waterbody": "Comite River near Baker, LA",
+  "state": "LA",
+  "latitude": 30.59629809,
+  "longitude": -91.0942722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAKL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Comite River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bakl1",
+  "slug": "usgs-07377754",
+  "noaaForecastPath": "data/noaa-forecast/BAKL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

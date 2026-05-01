@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16069000",
+  "key": "16069000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16069000",
+  "name": "Wailua Ditch nr Kapaa, Kauai, HI",
+  "waterbody": "Wailua Ditch nr Kapaa, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.07296944,
+  "longitude": -159.3982972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16069000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

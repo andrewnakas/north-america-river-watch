@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08108250",
+  "key": "08108250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08108250",
+  "name": "Big Elm Ck at SH 77 nr Cameron, TX",
+  "waterbody": "Big Elm Ck at SH 77 nr Cameron, TX",
+  "state": "TX",
+  "latitude": 30.90324377,
+  "longitude": -96.9791531,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08108250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

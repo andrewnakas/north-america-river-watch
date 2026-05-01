@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01374505",
+  "key": "01374505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374505",
+  "name": "EAST BRANCH CROTON RIVER AT BREWSTER NY",
+  "waterbody": "EAST BRANCH CROTON RIVER AT BREWSTER NY",
+  "state": "NY",
+  "latitude": 41.3945833,
+  "longitude": -73.6074722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01374505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

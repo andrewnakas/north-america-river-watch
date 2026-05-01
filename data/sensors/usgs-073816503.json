@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073816503",
+  "key": "073816503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073816503",
+  "name": "Bayou Penchant S of Morgan City, LA",
+  "waterbody": "Bayou Penchant S of Morgan City, LA",
+  "state": "LA",
+  "latitude": 29.58555556,
+  "longitude": -91.1552778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BPNL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Penchant",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bpnl1",
+  "slug": "usgs-073816503",
+  "noaaForecastPath": "data/noaa-forecast/BPNL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

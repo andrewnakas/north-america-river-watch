@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455136",
+  "key": "11455136",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455136",
+  "name": "SACRAMENTO R DEEP WATER SHIP CHANNEL NR CLARKSBURG",
+  "waterbody": "SACRAMENTO R DEEP WATER SHIP CHANNEL NR CLARKSBURG",
+  "state": "CA",
+  "latitude": 38.40444444,
+  "longitude": -121.6145556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455136",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

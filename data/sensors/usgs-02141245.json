@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02141245",
+  "key": "02141245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02141245",
+  "name": "LOWER CREEK NR SR1501 NEAR MORGANTON, NC",
+  "waterbody": "LOWER CREEK NR SR1501 NEAR MORGANTON, NC",
+  "state": "NC",
+  "latitude": 35.8254078,
+  "longitude": -81.6359306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02141245",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

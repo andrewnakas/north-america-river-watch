@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08393300",
+  "key": "08393300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08393300",
+  "name": "ROCKY ARROYO BLW ROCKY DAM, NM",
+  "waterbody": "ROCKY ARROYO BLW ROCKY DAM, NM",
+  "state": "NM",
+  "latitude": 33.26621246,
+  "longitude": -104.7021947,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08393300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

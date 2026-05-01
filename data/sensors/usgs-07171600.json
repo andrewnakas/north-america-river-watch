@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07171600",
+  "key": "07171600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07171600",
+  "name": "CANEY R NR CEDAR VALE, KS",
+  "waterbody": "CANEY R NR CEDAR VALE, KS",
+  "state": "KS",
+  "latitude": 37.11031534,
+  "longitude": -96.489455,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07171600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

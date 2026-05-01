@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07258000",
+  "key": "07258000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07258000",
+  "name": "Arkansas River at Dardanelle, AR",
+  "waterbody": "Arkansas River at Dardanelle, AR",
+  "state": "AR",
+  "latitude": 35.2261111,
+  "longitude": -93.1494444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DARA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dara4",
+  "slug": "usgs-07258000",
+  "noaaForecastPath": "data/noaa-forecast/DARA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

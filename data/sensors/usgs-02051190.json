@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02051190",
+  "key": "02051190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02051190",
+  "name": "MEHERRIN RIVER AT RT 637 NEAR SOUTH HILL, VA",
+  "waterbody": "MEHERRIN RIVER AT RT 637 NEAR SOUTH HILL, VA",
+  "state": "VA",
+  "latitude": 36.78694444,
+  "longitude": -78.1175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOHV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meherrin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sohv2",
+  "slug": "usgs-02051190",
+  "noaaForecastPath": "data/noaa-forecast/SOHV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

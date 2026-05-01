@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08167200",
+  "key": "08167200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08167200",
+  "name": "Guadalupe Rv at FM 474 nr Bergheim, TX",
+  "waterbody": "Guadalupe Rv at FM 474 nr Bergheim, TX",
+  "state": "TX",
+  "latitude": 29.89358333,
+  "longitude": -98.6698333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gubt2",
+  "slug": "usgs-08167200",
+  "noaaForecastPath": "data/noaa-forecast/GUBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

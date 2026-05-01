@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12323250",
+  "key": "12323250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12323250",
+  "name": "Silver Bow Cr bl Blacktail Cr, at Butte, MT",
+  "waterbody": "Silver Bow Cr bl Blacktail Cr, at Butte, MT",
+  "state": "MT",
+  "latitude": 45.99916667,
+  "longitude": -112.5773222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12323250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

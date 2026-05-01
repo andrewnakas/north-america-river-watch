@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01484938",
+  "key": "01484938",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01484938",
+  "name": "STARLING CREEK AT PORT OF SAXIS AT SAXIS, VA",
+  "waterbody": "STARLING CREEK AT PORT OF SAXIS AT SAXIS, VA",
+  "state": "VA",
+  "latitude": 37.918828,
+  "longitude": -75.727539,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAXV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chesapeake Bay",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saxv2",
+  "slug": "usgs-01484938",
+  "noaaForecastPath": "data/noaa-forecast/SAXV2.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

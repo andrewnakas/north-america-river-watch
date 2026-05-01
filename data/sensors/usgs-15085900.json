@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15085900",
+  "key": "15085900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15085900",
+  "name": "WOLF LK OUTLET NR HOLLIS AK",
+  "waterbody": "WOLF LK OUTLET NR HOLLIS AK",
+  "state": "AK",
+  "latitude": 55.5304722,
+  "longitude": -132.5972134,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15085900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

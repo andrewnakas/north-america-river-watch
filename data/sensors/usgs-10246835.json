@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10246835",
+  "key": "10246835",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10246835",
+  "name": "BIG WARM SPGS NR DUCKWATER, NV",
+  "waterbody": "BIG WARM SPGS NR DUCKWATER, NV",
+  "state": "NV",
+  "latitude": 38.95019444,
+  "longitude": -115.7032778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWSN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Warm Spring nr Duckwater",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwsn2",
+  "slug": "usgs-10246835",
+  "noaaForecastPath": "data/noaa-forecast/BWSN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:130875048",
+  "key": "130875048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "130875048",
+  "name": "LOWER MILNER POWER PLANT PIPE 1 AT MILNER ID",
+  "waterbody": "LOWER MILNER POWER PLANT PIPE 1 AT MILNER ID",
+  "state": "ID",
+  "latitude": 42.52463396,
+  "longitude": -114.0303054,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLPI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlpi1",
+  "slug": "usgs-130875048",
+  "noaaForecastPath": "data/noaa-forecast/MLPI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

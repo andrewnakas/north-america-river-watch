@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01203000",
+  "key": "01203000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01203000",
+  "name": "SHEPAUG R NR ROXBURY, CT",
+  "waterbody": "SHEPAUG R NR ROXBURY, CT",
+  "state": "CT",
+  "latitude": 41.54971147,
+  "longitude": -73.32981952,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01203000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

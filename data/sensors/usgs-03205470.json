@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03205470",
+  "key": "03205470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03205470",
+  "name": "Symmes Creek at Aid OH",
+  "waterbody": "Symmes Creek at Aid OH",
+  "state": "OH",
+  "latitude": 38.59619126,
+  "longitude": -82.495157,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AIDO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Symmes Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aido1",
+  "slug": "usgs-03205470",
+  "noaaForecastPath": "data/noaa-forecast/AIDO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

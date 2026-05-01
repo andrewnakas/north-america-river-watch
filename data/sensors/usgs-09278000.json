@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09278000",
+  "key": "09278000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09278000",
+  "name": "SOUTH FORK ROCK CREEK NEAR HANNA,UTAH",
+  "waterbody": "SOUTH FORK ROCK CREEK NEAR HANNA,UTAH",
+  "state": "UT",
+  "latitude": 40.54827849,
+  "longitude": -110.69433,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09278000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04218601",
+  "key": "04218601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04218601",
+  "name": "ERIE (BARGE) C ABV HALLS WASTE WEIR AT LOCKPORT NY",
+  "waterbody": "ERIE (BARGE) C ABV HALLS WASTE WEIR AT LOCKPORT NY",
+  "state": "NY",
+  "latitude": 43.17469444,
+  "longitude": -78.6890556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCPN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Erie Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcpn6",
+  "slug": "usgs-04218601",
+  "noaaForecastPath": "data/noaa-forecast/LCPN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

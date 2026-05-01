@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06413620",
+  "key": "06413620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06413620",
+  "name": "SOUTH CANYON NEAR RAPID CITY,SD",
+  "waterbody": "SOUTH CANYON NEAR RAPID CITY,SD",
+  "state": "SD",
+  "latitude": 44.09276526,
+  "longitude": -103.3274068,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECHS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Canyon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/echs2",
+  "slug": "usgs-06413620",
+  "noaaForecastPath": "data/noaa-forecast/ECHS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

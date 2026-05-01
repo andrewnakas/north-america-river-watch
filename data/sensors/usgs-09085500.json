@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09085500",
+  "key": "09085500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09085500",
+  "name": "CANYON CREEK NEAR NEW CASTLE, CO.",
+  "waterbody": "CANYON CREEK NEAR NEW CASTLE, CO.",
+  "state": "CO",
+  "latitude": 39.5745361,
+  "longitude": -107.447925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09085500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

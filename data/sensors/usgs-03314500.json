@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03314500",
+  "key": "03314500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03314500",
+  "name": "BARREN RIVER AT BOWLING GREEN, KY",
+  "waterbody": "BARREN RIVER AT BOWLING GREEN, KY",
+  "state": "KY",
+  "latitude": 37.0028201,
+  "longitude": -86.432768,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWGK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barren River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwgk2",
+  "slug": "usgs-03314500",
+  "noaaForecastPath": "data/noaa-forecast/BWGK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

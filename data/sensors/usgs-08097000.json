@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08097000",
+  "key": "08097000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08097000",
+  "name": "Cow Bayou at FM 2643 nr Mooreville, TX",
+  "waterbody": "Cow Bayou at FM 2643 nr Mooreville, TX",
+  "state": "TX",
+  "latitude": 31.3127111,
+  "longitude": -97.1384222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08097000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01203600",
+  "key": "01203600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01203600",
+  "name": "NONEWAUG RIVER AT MINORTOWN, CT",
+  "waterbody": "NONEWAUG RIVER AT MINORTOWN, CT",
+  "state": "CT",
+  "latitude": 41.57630278,
+  "longitude": -73.17711944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01203600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

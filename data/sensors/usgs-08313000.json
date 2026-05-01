@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08313000",
+  "key": "08313000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313000",
+  "name": "RIO GRANDE AT OTOWI BRIDGE, NM",
+  "waterbody": "RIO GRANDE AT OTOWI BRIDGE, NM",
+  "state": "NM",
+  "latitude": 35.8745,
+  "longitude": -106.1424444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OTWN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/otwn5",
+  "slug": "usgs-08313000",
+  "noaaForecastPath": "data/noaa-forecast/OTWN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

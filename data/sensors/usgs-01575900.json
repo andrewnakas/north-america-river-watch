@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01575900",
+  "key": "01575900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01575900",
+  "name": "Chiques Creek near Marietta, PA",
+  "waterbody": "Chiques Creek near Marietta, PA",
+  "state": "PA",
+  "latitude": 40.0628745,
+  "longitude": -76.5155214,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCMP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chiques Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccmp1",
+  "slug": "usgs-01575900",
+  "noaaForecastPath": "data/noaa-forecast/CCMP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

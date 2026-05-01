@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08227000",
+  "key": "08227000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08227000",
+  "name": "SAGUACHE CREEK NEAR SAGUACHE, CO",
+  "waterbody": "SAGUACHE CREEK NEAR SAGUACHE, CO",
+  "state": "CO",
+  "latitude": 38.16333294,
+  "longitude": -106.290583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCKC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saguache Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sckc2",
+  "slug": "usgs-08227000",
+  "noaaForecastPath": "data/noaa-forecast/SCKC2.json",
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

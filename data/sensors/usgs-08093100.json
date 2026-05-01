@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08093100",
+  "key": "08093100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08093100",
+  "name": "Brazos Rv nr Aquilla, TX",
+  "waterbody": "Brazos Rv nr Aquilla, TX",
+  "state": "TX",
+  "latitude": 31.8123822,
+  "longitude": -97.2977882,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AQLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aqlt2",
+  "slug": "usgs-08093100",
+  "noaaForecastPath": "data/noaa-forecast/AQLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

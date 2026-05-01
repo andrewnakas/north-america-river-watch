@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09386300",
+  "key": "09386300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09386300",
+  "name": "LITTLE COLORADO RVR BLW ZION RES. NR ST JOHNS, AZ",
+  "waterbody": "LITTLE COLORADO RVR BLW ZION RES. NR ST JOHNS, AZ",
+  "state": "AZ",
+  "latitude": 34.6047544,
+  "longitude": -109.4892735,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09386300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

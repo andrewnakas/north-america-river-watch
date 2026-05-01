@@ -1,0 +1,22 @@
+{
+  "id": "usgs:373218076474400",
+  "key": "373218076474400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "373218076474400",
+  "name": "WEST POINT CREEK AT ROUTE 33 AT WEST POINT, VA",
+  "waterbody": "WEST POINT CREEK AT ROUTE 33 AT WEST POINT, VA",
+  "state": "VA",
+  "latitude": 37.538225,
+  "longitude": -76.7955306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSPV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "York River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wspv2",
+  "slug": "usgs-373218076474400",
+  "noaaForecastPath": "data/noaa-forecast/WSPV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

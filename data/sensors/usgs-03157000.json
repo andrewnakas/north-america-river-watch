@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03157000",
+  "key": "03157000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03157000",
+  "name": "Clear Creek near Rockbridge OH",
+  "waterbody": "Clear Creek near Rockbridge OH",
+  "state": "OH",
+  "latitude": 39.5883982,
+  "longitude": -82.5784946,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkbo1",
+  "slug": "usgs-03157000",
+  "noaaForecastPath": "data/noaa-forecast/RKBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

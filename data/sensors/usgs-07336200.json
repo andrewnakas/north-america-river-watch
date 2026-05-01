@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07336200",
+  "key": "07336200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07336200",
+  "name": "Kiamichi River near Antlers, OK",
+  "waterbody": "Kiamichi River near Antlers, OK",
+  "state": "OK",
+  "latitude": 34.24871203,
+  "longitude": -95.6052475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kiamichi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anto2",
+  "slug": "usgs-07336200",
+  "noaaForecastPath": "data/noaa-forecast/ANTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

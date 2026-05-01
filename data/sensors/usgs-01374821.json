@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01374821",
+  "key": "01374821",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374821",
+  "name": "TITICUS RIVER AT PURDYS STATION NY",
+  "waterbody": "TITICUS RIVER AT PURDYS STATION NY",
+  "state": "NY",
+  "latitude": 41.3271111,
+  "longitude": -73.65563889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01374821",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03036500",
+  "key": "03036500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03036500",
+  "name": "Allegheny River at Kittanning, PA",
+  "waterbody": "Allegheny River at Kittanning, PA",
+  "state": "PA",
+  "latitude": 40.82034197,
+  "longitude": -79.531434,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KTTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kttp1",
+  "slug": "usgs-03036500",
+  "noaaForecastPath": "data/noaa-forecast/KTTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

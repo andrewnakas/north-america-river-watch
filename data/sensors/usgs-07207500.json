@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07207500",
+  "key": "07207500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07207500",
+  "name": "PONIL CREEK NEAR CIMARRON, NM",
+  "waterbody": "PONIL CREEK NEAR CIMARRON, NM",
+  "state": "NM",
+  "latitude": 36.57369444,
+  "longitude": -104.9468056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07207500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

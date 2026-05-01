@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11123500",
+  "key": "11123500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11123500",
+  "name": "SANTA YNEZ R BL LOS LAURLS CYN NR SNTA YNEZ CA",
+  "waterbody": "SANTA YNEZ R BL LOS LAURLS CYN NR SNTA YNEZ CA",
+  "state": "CA",
+  "latitude": 34.54359399,
+  "longitude": -119.864827,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLYC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Ynez River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llyc1",
+  "slug": "usgs-11123500",
+  "noaaForecastPath": "data/noaa-forecast/LLYC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

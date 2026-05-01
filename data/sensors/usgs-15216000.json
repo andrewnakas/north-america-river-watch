@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15216000",
+  "key": "15216000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15216000",
+  "name": "POWER C NR CORDOVA AK",
+  "waterbody": "POWER C NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.58671395,
+  "longitude": -145.62013984,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15216000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

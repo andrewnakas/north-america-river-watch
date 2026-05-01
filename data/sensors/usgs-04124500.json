@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04124500",
+  "key": "04124500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04124500",
+  "name": "EAST BRANCH PINE RIVER NEAR TUSTIN, MI",
+  "waterbody": "EAST BRANCH PINE RIVER NEAR TUSTIN, MI",
+  "state": "MI",
+  "latitude": 44.102511,
+  "longitude": -85.5172766,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04124500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

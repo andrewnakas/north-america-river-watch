@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09486510",
+  "key": "09486510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486510",
+  "name": "SANTA CRUZ RIVER NR. RILLITO, AZ.",
+  "waterbody": "SANTA CRUZ RIVER NR. RILLITO, AZ.",
+  "state": "AZ",
+  "latitude": 32.40507247,
+  "longitude": -111.1528808,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09486510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

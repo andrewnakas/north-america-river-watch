@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05542500",
+  "key": "05542500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05542500",
+  "name": "ILLINOIS RIVER AT MORRIS, IL",
+  "waterbody": "ILLINOIS RIVER AT MORRIS, IL",
+  "state": "IL",
+  "latitude": 41.3545833,
+  "longitude": -88.4285,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MORI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mori2",
+  "slug": "usgs-05542500",
+  "noaaForecastPath": "data/noaa-forecast/MORI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

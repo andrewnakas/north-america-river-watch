@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15278000",
+  "key": "15278000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15278000",
+  "name": "EKLUTNA LK NR PALMER AK",
+  "waterbody": "EKLUTNA LK NR PALMER AK",
+  "state": "AK",
+  "latitude": 61.4102917,
+  "longitude": -149.1244357,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EKLA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eklutna Lake",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ekla2",
+  "slug": "usgs-15278000",
+  "noaaForecastPath": "data/noaa-forecast/EKLA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08087300",
+  "key": "08087300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08087300",
+  "name": "Clear Fk Brazos Rv at Eliasville, TX",
+  "waterbody": "Clear Fk Brazos Rv at Eliasville, TX",
+  "state": "TX",
+  "latitude": 32.96068333,
+  "longitude": -98.7667694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08087300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

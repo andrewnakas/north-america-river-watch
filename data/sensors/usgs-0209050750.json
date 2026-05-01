@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209050750",
+  "key": "0209050750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209050750",
+  "name": "HOMINY SWAMP AT FOREST HILLS ROAD NEAR WILSON, NC",
+  "waterbody": "HOMINY SWAMP AT FOREST HILLS ROAD NEAR WILSON, NC",
+  "state": "NC",
+  "latitude": 35.7422222,
+  "longitude": -77.9519444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSNN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hominy Swamp",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsnn7",
+  "slug": "usgs-0209050750",
+  "noaaForecastPath": "data/noaa-forecast/WSNN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

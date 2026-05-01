@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01109090",
+  "key": "01109090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109090",
+  "name": "RATTLESNAKE BROOK NEAR ASSONET, MA",
+  "waterbody": "RATTLESNAKE BROOK NEAR ASSONET, MA",
+  "state": "MA",
+  "latitude": 41.7767686,
+  "longitude": -71.0892105,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01109090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

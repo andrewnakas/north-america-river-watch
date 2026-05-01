@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10215900",
+  "key": "10215900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10215900",
+  "name": "MANTI CREEK BLW DUGWAY CREEK, NR MANTI, UT",
+  "waterbody": "MANTI CREEK BLW DUGWAY CREEK, NR MANTI, UT",
+  "state": "UT",
+  "latitude": 39.25912877,
+  "longitude": -111.579916,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10215900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

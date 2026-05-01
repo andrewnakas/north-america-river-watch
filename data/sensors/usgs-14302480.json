@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14302480",
+  "key": "14302480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14302480",
+  "name": "TRASK RIVER ABOVE CEDAR CREEK, NEAR TILLAMOOK, OR",
+  "waterbody": "TRASK RIVER ABOVE CEDAR CREEK, NEAR TILLAMOOK, OR",
+  "state": "OR",
+  "latitude": 45.4462181,
+  "longitude": -123.7103974,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trask River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trao3",
+  "slug": "usgs-14302480",
+  "noaaForecastPath": "data/noaa-forecast/TRAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12438900",
+  "key": "12438900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12438900",
+  "name": "NINEMILE CREEK NEAR OROVILLE, WA",
+  "waterbody": "NINEMILE CREEK NEAR OROVILLE, WA",
+  "state": "WA",
+  "latitude": 48.9698886,
+  "longitude": -119.4056188,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12438900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

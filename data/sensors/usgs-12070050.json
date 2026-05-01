@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12070050",
+  "key": "12070050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12070050",
+  "name": "JOHNSON CREEK NEAR POULSBO, WA",
+  "waterbody": "JOHNSON CREEK NEAR POULSBO, WA",
+  "state": "WA",
+  "latitude": 47.73315,
+  "longitude": -122.6629276,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12070050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

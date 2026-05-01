@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07331600",
+  "key": "07331600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07331600",
+  "name": "Red Rv at Denison Dam nr Denison, TX",
+  "waterbody": "Red Rv at Denison Dam nr Denison, TX",
+  "state": "TX",
+  "latitude": 33.81899124,
+  "longitude": -96.5633264,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DSTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dstt2",
+  "slug": "usgs-07331600",
+  "noaaForecastPath": "data/noaa-forecast/DSTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07077380",
+  "key": "07077380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07077380",
+  "name": "Cache River at Egypt, AR",
+  "waterbody": "Cache River at Egypt, AR",
+  "state": "AR",
+  "latitude": 35.8575,
+  "longitude": -90.9330556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EGPA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cache River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/egpa4",
+  "slug": "usgs-07077380",
+  "noaaForecastPath": "data/noaa-forecast/EGPA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

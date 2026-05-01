@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178861",
+  "key": "08178861",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178861",
+  "name": "N Prong Medina Rv at Brewington Ck nr Medina, TX",
+  "waterbody": "N Prong Medina Rv at Brewington Ck nr Medina, TX",
+  "state": "TX",
+  "latitude": 29.87533333,
+  "longitude": -99.3488333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NPBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Prong Medina River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/npbt2",
+  "slug": "usgs-08178861",
+  "noaaForecastPath": "data/noaa-forecast/NPBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

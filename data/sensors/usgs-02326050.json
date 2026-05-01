@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02326050",
+  "key": "02326050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326050",
+  "name": "ECONFINA RV AT ECONFINA RV STATE PARK NR PERRY, FL",
+  "waterbody": "ECONFINA RV AT ECONFINA RV STATE PARK NR PERRY, FL",
+  "state": "FL",
+  "latitude": 30.06811667,
+  "longitude": -83.8987028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EFSF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Econfina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/efsf1",
+  "slug": "usgs-02326050",
+  "noaaForecastPath": "data/noaa-forecast/EFSF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

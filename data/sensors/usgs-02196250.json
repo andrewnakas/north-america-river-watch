@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02196250",
+  "key": "02196250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02196250",
+  "name": "HORN CREEK NR COLLIERS EDGEFIELD , SC",
+  "waterbody": "HORN CREEK NR COLLIERS EDGEFIELD , SC",
+  "state": "SC",
+  "latitude": 33.71541793,
+  "longitude": -81.9395656,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02196250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

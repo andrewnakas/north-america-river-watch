@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07144795",
+  "key": "07144795",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144795",
+  "name": "NF NINNESCAH R AT CHENEY DAM, KS",
+  "waterbody": "NF NINNESCAH R AT CHENEY DAM, KS",
+  "state": "KS",
+  "latitude": 37.72140097,
+  "longitude": -97.7944956,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHNK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ninnescah River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chnk1",
+  "slug": "usgs-07144795",
+  "noaaForecastPath": "data/noaa-forecast/CHNK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

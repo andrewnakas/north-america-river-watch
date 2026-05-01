@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07174618",
+  "key": "07174618",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07174618",
+  "name": "Sand Creek Below Little Rock Creek near Okesa, OK",
+  "waterbody": "Sand Creek Below Little Rock Creek near Okesa, OK",
+  "state": "OK",
+  "latitude": 36.73277778,
+  "longitude": -96.08,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKEO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sand Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okeo2",
+  "slug": "usgs-07174618",
+  "noaaForecastPath": "data/noaa-forecast/OKEO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

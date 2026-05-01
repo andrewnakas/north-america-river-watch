@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03120500",
+  "key": "03120500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03120500",
+  "name": "McGuire Creek near Leesville OH",
+  "waterbody": "McGuire Creek near Leesville OH",
+  "state": "OH",
+  "latitude": 40.47034258,
+  "longitude": -81.196493,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvlo1",
+  "slug": "usgs-03120500",
+  "noaaForecastPath": "data/noaa-forecast/LVLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

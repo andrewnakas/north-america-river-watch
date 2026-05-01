@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08136500",
+  "key": "08136500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08136500",
+  "name": "Concho Rv at Paint Rock, TX",
+  "waterbody": "Concho Rv at Paint Rock, TX",
+  "state": "TX",
+  "latitude": 31.5159908,
+  "longitude": -99.9195226,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Concho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prkt2",
+  "slug": "usgs-08136500",
+  "noaaForecastPath": "data/noaa-forecast/PRKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

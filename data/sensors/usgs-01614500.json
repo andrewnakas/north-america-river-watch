@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01614500",
+  "key": "01614500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01614500",
+  "name": "CONOCOCHEAGUE CREEK AT FAIRVIEW, MD",
+  "waterbody": "CONOCOCHEAGUE CREEK AT FAIRVIEW, MD",
+  "state": "MD",
+  "latitude": 39.716389,
+  "longitude": -77.824778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FAVM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conococheague Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/favm2",
+  "slug": "usgs-01614500",
+  "noaaForecastPath": "data/noaa-forecast/FAVM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12199000",
+  "key": "12199000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12199000",
+  "name": "SKAGIT RIVER NEAR SEDRO WOOLLEY, WA",
+  "waterbody": "SKAGIT RIVER NEAR SEDRO WOOLLEY, WA",
+  "state": "WA",
+  "latitude": 48.4839962,
+  "longitude": -122.2432123,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12199000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

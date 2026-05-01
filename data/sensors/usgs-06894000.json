@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06894000",
+  "key": "06894000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06894000",
+  "name": "Little Blue River near Lake City, MO",
+  "waterbody": "Little Blue River near Lake City, MO",
+  "state": "MO",
+  "latitude": 39.1005609,
+  "longitude": -94.3005038,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Blue River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkcm7",
+  "slug": "usgs-06894000",
+  "noaaForecastPath": "data/noaa-forecast/LKCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

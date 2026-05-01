@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05418110",
+  "key": "05418110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05418110",
+  "name": "NF Maquoketa River below Bear Cr at Dyersville, IA",
+  "waterbody": "NF Maquoketa River below Bear Cr at Dyersville, IA",
+  "state": "IA",
+  "latitude": 42.4703333,
+  "longitude": -91.1245556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DYRI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Maquoketa River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dyri4",
+  "slug": "usgs-05418110",
+  "noaaForecastPath": "data/noaa-forecast/DYRI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

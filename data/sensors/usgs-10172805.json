@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10172805",
+  "key": "10172805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10172805",
+  "name": "NORTH WILLOW CREEK NR GRANTSVILLE, UTAH",
+  "waterbody": "NORTH WILLOW CREEK NR GRANTSVILLE, UTAH",
+  "state": "UT",
+  "latitude": 40.5327197,
+  "longitude": -112.5727364,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10172805",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

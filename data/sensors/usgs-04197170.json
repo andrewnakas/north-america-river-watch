@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04197170",
+  "key": "04197170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04197170",
+  "name": "Rock Creek at Tiffin OH",
+  "waterbody": "Rock Creek at Tiffin OH",
+  "state": "OH",
+  "latitude": 41.1136659,
+  "longitude": -83.1682521,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROCO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/roco1",
+  "slug": "usgs-04197170",
+  "noaaForecastPath": "data/noaa-forecast/ROCO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

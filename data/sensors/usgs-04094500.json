@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04094500",
+  "key": "04094500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04094500",
+  "name": "SALT CREEK NEAR MCCOOL, IND.",
+  "waterbody": "SALT CREEK NEAR MCCOOL, IND.",
+  "state": "IN",
+  "latitude": 41.59668316,
+  "longitude": -87.1444447,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04094500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

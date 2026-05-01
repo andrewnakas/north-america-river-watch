@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08079510",
+  "key": "08079510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08079510",
+  "name": "N Fk DMF Brazos Rv at Loop 289 nr Lubbock, TX",
+  "waterbody": "N Fk DMF Brazos Rv at Loop 289 nr Lubbock, TX",
+  "state": "TX",
+  "latitude": 33.55477778,
+  "longitude": -101.7881389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lset2",
+  "slug": "usgs-08079510",
+  "noaaForecastPath": "data/noaa-forecast/LSET2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

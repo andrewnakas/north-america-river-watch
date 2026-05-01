@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07241513",
+  "key": "07241513",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07241513",
+  "name": "Soldier Creek S of SE 15th st. Boone Township, OK",
+  "waterbody": "Soldier Creek S of SE 15th st. Boone Township, OK",
+  "state": "OK",
+  "latitude": 35.44689444,
+  "longitude": -97.3732667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Soldier Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msco2",
+  "slug": "usgs-07241513",
+  "noaaForecastPath": "data/noaa-forecast/MSCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

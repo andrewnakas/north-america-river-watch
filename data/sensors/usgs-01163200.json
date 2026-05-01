@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01163200",
+  "key": "01163200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01163200",
+  "name": "OTTER RIVER AT OTTER RIVER, MA",
+  "waterbody": "OTTER RIVER AT OTTER RIVER, MA",
+  "state": "MA",
+  "latitude": 42.58842124,
+  "longitude": -72.04091198,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OTRM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Otter River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/otrm3",
+  "slug": "usgs-01163200",
+  "noaaForecastPath": "data/noaa-forecast/OTRM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

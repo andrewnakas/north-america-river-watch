@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09457000",
+  "key": "09457000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09457000",
+  "name": "SAN SIMON RIVER NEAR SOLOMON, ARIZ.",
+  "waterbody": "SAN SIMON RIVER NEAR SOLOMON, ARIZ.",
+  "state": "AZ",
+  "latitude": 32.8017604,
+  "longitude": -109.639262,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09457000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

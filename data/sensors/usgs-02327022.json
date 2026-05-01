@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02327022",
+  "key": "02327022",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02327022",
+  "name": "WAKULLA RIVER NEAR CRAWFORDVILLE, FL",
+  "waterbody": "WAKULLA RIVER NEAR CRAWFORDVILLE, FL",
+  "state": "FL",
+  "latitude": 30.21384593,
+  "longitude": -84.26158318,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wakulla River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkrf1",
+  "slug": "usgs-02327022",
+  "noaaForecastPath": "data/noaa-forecast/WKRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

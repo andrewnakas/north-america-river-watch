@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05455010",
+  "key": "05455010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05455010",
+  "name": "South Branch Ralston Creek at Iowa City, IA",
+  "waterbody": "South Branch Ralston Creek at Iowa City, IA",
+  "state": "IA",
+  "latitude": 41.65140556,
+  "longitude": -91.5076639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IACI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Ralston Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iaci4",
+  "slug": "usgs-05455010",
+  "noaaForecastPath": "data/noaa-forecast/IACI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

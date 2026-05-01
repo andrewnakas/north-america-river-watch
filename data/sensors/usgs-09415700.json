@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415700",
+  "key": "09415700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415700",
+  "name": "WHITE RV ABV UPPER PAHRANAGAT LK NR ALAMO, NV",
+  "waterbody": "WHITE RV ABV UPPER PAHRANAGAT LK NR ALAMO, NV",
+  "state": "NV",
+  "latitude": 37.31162837,
+  "longitude": -115.132515,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02452505",
+  "key": "02452505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02452505",
+  "name": "SIPSEY FORK AT SIPSEY, ALA",
+  "waterbody": "SIPSEY FORK AT SIPSEY, ALA",
+  "state": "AL",
+  "latitude": 33.8212521,
+  "longitude": -87.07027574,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02452505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

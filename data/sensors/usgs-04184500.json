@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04184500",
+  "key": "04184500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04184500",
+  "name": "Bean Creek at Powers OH",
+  "waterbody": "Bean Creek at Powers OH",
+  "state": "OH",
+  "latitude": 41.6594951,
+  "longitude": -84.2491148,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCRO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bean Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcro1",
+  "slug": "usgs-04184500",
+  "noaaForecastPath": "data/noaa-forecast/BCRO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

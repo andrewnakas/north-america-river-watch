@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07144300",
+  "key": "07144300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144300",
+  "name": "ARKANSAS R AT WICHITA, KS",
+  "waterbody": "ARKANSAS R AT WICHITA, KS",
+  "state": "KS",
+  "latitude": 37.6433222,
+  "longitude": -97.3351944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07144300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

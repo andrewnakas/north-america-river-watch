@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04278300",
+  "key": "04278300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04278300",
+  "name": "NORTHWEST BAY BROOK NEAR BOLTON LANDING NY",
+  "waterbody": "NORTHWEST BAY BROOK NEAR BOLTON LANDING NY",
+  "state": "NY",
+  "latitude": 43.6633333,
+  "longitude": -73.6033333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04278300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

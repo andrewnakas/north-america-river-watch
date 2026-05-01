@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02160000",
+  "key": "02160000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02160000",
+  "name": "FAIRFOREST CREEK NEAR UNION, SC",
+  "waterbody": "FAIRFOREST CREEK NEAR UNION, SC",
+  "state": "SC",
+  "latitude": 34.6818333,
+  "longitude": -81.6863611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02160000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

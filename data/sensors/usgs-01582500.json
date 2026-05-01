@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01582500",
+  "key": "01582500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01582500",
+  "name": "GUNPOWDER FALLS AT GLENCOE, MD",
+  "waterbody": "GUNPOWDER FALLS AT GLENCOE, MD",
+  "state": "MD",
+  "latitude": 39.54969444,
+  "longitude": -76.6361111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCEM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gunpowder Falls",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcem2",
+  "slug": "usgs-01582500",
+  "noaaForecastPath": "data/noaa-forecast/GCEM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

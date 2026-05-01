@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12304500",
+  "key": "12304500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12304500",
+  "name": "Yaak River near Troy MT",
+  "waterbody": "Yaak River near Troy MT",
+  "state": "MT",
+  "latitude": 48.5617222,
+  "longitude": -115.9701583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRYM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yaak River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trym8",
+  "slug": "usgs-12304500",
+  "noaaForecastPath": "data/noaa-forecast/TRYM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

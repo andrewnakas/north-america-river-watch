@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581649",
+  "key": "01581649",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581649",
+  "name": "JAMES RUN NEAR BELCAMP, MD",
+  "waterbody": "JAMES RUN NEAR BELCAMP, MD",
+  "state": "MD",
+  "latitude": 39.49219444,
+  "longitude": -76.25911111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLCM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blcm2",
+  "slug": "usgs-01581649",
+  "noaaForecastPath": "data/noaa-forecast/BLCM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

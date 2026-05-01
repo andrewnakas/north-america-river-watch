@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03062224",
+  "key": "03062224",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062224",
+  "name": "MONONGAHELA R AT OPEKISKA LOCK & DAM (UPPER), WV",
+  "waterbody": "MONONGAHELA R AT OPEKISKA LOCK & DAM (UPPER), WV",
+  "state": "WV",
+  "latitude": 39.563972,
+  "longitude": -80.05118159,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03062224",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

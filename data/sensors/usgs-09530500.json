@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09530500",
+  "key": "09530500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09530500",
+  "name": "DRAIN 8-B NEAR WINTERHAVEN, CA",
+  "waterbody": "DRAIN 8-B NEAR WINTERHAVEN, CA",
+  "state": "CA",
+  "latitude": 32.74688889,
+  "longitude": -114.6940806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09530500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

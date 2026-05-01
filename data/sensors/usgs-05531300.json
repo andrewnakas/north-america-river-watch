@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05531300",
+  "key": "05531300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05531300",
+  "name": "SALT CREEK AT ELMHURST, IL",
+  "waterbody": "SALT CREEK AT ELMHURST, IL",
+  "state": "IL",
+  "latitude": 41.88616667,
+  "longitude": -87.9595556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMQI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/emqi2",
+  "slug": "usgs-05531300",
+  "noaaForecastPath": "data/noaa-forecast/EMQI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

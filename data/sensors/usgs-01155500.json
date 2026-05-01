@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01155500",
+  "key": "01155500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01155500",
+  "name": "WEST RIVER AT JAMAICA, VT",
+  "waterbody": "WEST RIVER AT JAMAICA, VT",
+  "state": "VT",
+  "latitude": 43.1089665,
+  "longitude": -72.775374,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01155500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

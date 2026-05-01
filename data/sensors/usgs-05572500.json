@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05572500",
+  "key": "05572500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05572500",
+  "name": "SANGAMON RIVER NEAR OAKLEY, IL",
+  "waterbody": "SANGAMON RIVER NEAR OAKLEY, IL",
+  "state": "IL",
+  "latitude": 39.91864444,
+  "longitude": -88.8031306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05572500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

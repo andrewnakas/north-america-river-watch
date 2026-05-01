@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02214590",
+  "key": "02214590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02214590",
+  "name": "BIG INDIAN CREEK AT US 341, NEAR CLINCHFIELD, GA",
+  "waterbody": "BIG INDIAN CREEK AT US 341, NEAR CLINCHFIELD, GA",
+  "state": "GA",
+  "latitude": 32.42669444,
+  "longitude": -83.6443056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLFG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Indian Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clfg1",
+  "slug": "usgs-02214590",
+  "noaaForecastPath": "data/noaa-forecast/CLFG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

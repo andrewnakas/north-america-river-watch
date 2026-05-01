@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02220788",
+  "key": "02220788",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02220788",
+  "name": "LITTLE RIVER AT NEWBORN RD NEAR NEWBORN, GA",
+  "waterbody": "LITTLE RIVER AT NEWBORN RD NEAR NEWBORN, GA",
+  "state": "GA",
+  "latitude": 33.5563611,
+  "longitude": -83.6665278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWBG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwbg1",
+  "slug": "usgs-02220788",
+  "noaaForecastPath": "data/noaa-forecast/NWBG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0317155123",
+  "key": "0317155123",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0317155123",
+  "name": "SINKING CREEK AT COVERED BRIDGE LN NR NEWPORT, VA",
+  "waterbody": "SINKING CREEK AT COVERED BRIDGE LN NR NEWPORT, VA",
+  "state": "VA",
+  "latitude": 37.311,
+  "longitude": -80.51694444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0317155123",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

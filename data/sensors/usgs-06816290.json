@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06816290",
+  "key": "06816290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06816290",
+  "name": "West Nodaway River at Massena, IA",
+  "waterbody": "West Nodaway River at Massena, IA",
+  "state": "IA",
+  "latitude": 41.2455425,
+  "longitude": -94.757755,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAAI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Nodaway River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/maai4",
+  "slug": "usgs-06816290",
+  "noaaForecastPath": "data/noaa-forecast/MAAI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

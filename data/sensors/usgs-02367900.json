@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02367900",
+  "key": "02367900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02367900",
+  "name": "YELLOW RIVER NR OAK GROVE, FLA.",
+  "waterbody": "YELLOW RIVER NR OAK GROVE, FLA.",
+  "state": "FL",
+  "latitude": 30.92518288,
+  "longitude": -86.5593967,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okgf1",
+  "slug": "usgs-02367900",
+  "noaaForecastPath": "data/noaa-forecast/OKGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

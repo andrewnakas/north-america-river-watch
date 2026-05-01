@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08099382",
+  "key": "08099382",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08099382",
+  "name": "Copperas Ck at FM 2247 nr Comanche, TX",
+  "waterbody": "Copperas Ck at FM 2247 nr Comanche, TX",
+  "state": "TX",
+  "latitude": 32.04902778,
+  "longitude": -98.6460556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08099382",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

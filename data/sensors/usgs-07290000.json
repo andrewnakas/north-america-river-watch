@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07290000",
+  "key": "07290000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07290000",
+  "name": "BIG BLACK RIVER NR BOVINA, MS",
+  "waterbody": "BIG BLACK RIVER NR BOVINA, MS",
+  "state": "MS",
+  "latitude": 32.34777778,
+  "longitude": -90.6969444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOVM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bovm6",
+  "slug": "usgs-07290000",
+  "noaaForecastPath": "data/noaa-forecast/BOVM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

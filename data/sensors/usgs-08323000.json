@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08323000",
+  "key": "08323000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08323000",
+  "name": "RIO GUADALUPE AT BOX CANYON NEAR JEMEZ, NM",
+  "waterbody": "RIO GUADALUPE AT BOX CANYON NEAR JEMEZ, NM",
+  "state": "NM",
+  "latitude": 35.7311362,
+  "longitude": -106.7628146,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08323000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

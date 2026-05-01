@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146750",
+  "key": "02146750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146750",
+  "name": "MCALPINE CR BELOW MCMULLEN CR NR PINEVILLE, NC",
+  "waterbody": "MCALPINE CR BELOW MCMULLEN CR NR PINEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.0664972,
+  "longitude": -80.86985,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "McAlpine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcpn7",
+  "slug": "usgs-02146750",
+  "noaaForecastPath": "data/noaa-forecast/MCPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

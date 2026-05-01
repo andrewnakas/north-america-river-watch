@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465963",
+  "key": "01465963",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465963",
+  "name": "Ong Run at Trenton Rd near Browns Mills NJ",
+  "waterbody": "Ong Run at Trenton Rd near Browns Mills NJ",
+  "state": "NJ",
+  "latitude": 39.98769444,
+  "longitude": -74.5926944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465963",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

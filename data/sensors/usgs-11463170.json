@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11463170",
+  "key": "11463170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11463170",
+  "name": "BIG SULPHUR C A G RESORT NR CLOVERDALE CA",
+  "waterbody": "BIG SULPHUR C A G RESORT NR CLOVERDALE CA",
+  "state": "CA",
+  "latitude": 38.79764466,
+  "longitude": -122.8024578,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDAC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sulphur Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdac1",
+  "slug": "usgs-11463170",
+  "noaaForecastPath": "data/noaa-forecast/CDAC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

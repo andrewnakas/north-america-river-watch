@@ -1,0 +1,19 @@
+{
+  "id": "usgs:381504121404001",
+  "key": "381504121404001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "381504121404001",
+  "name": "LIBERTY ISLAND NR PROSPECT ISLAND NR RIO VISTA CA",
+  "waterbody": "LIBERTY ISLAND NR PROSPECT ISLAND NR RIO VISTA CA",
+  "state": "CA",
+  "latitude": 38.2511111,
+  "longitude": -121.6777778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-381504121404001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12170400",
+  "key": "12170400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12170400",
+  "name": "CULTUS CREEK NEAR MAXWELTON, WA",
+  "waterbody": "CULTUS CREEK NEAR MAXWELTON, WA",
+  "state": "WA",
+  "latitude": 47.9348167,
+  "longitude": -122.4012513,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12170400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

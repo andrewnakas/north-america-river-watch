@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05551700",
+  "key": "05551700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05551700",
+  "name": "BLACKBERRY CREEK NEAR YORKVILLE, IL",
+  "waterbody": "BLACKBERRY CREEK NEAR YORKVILLE, IL",
+  "state": "IL",
+  "latitude": 41.6718722,
+  "longitude": -88.4414861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YRKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackberry Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yrki2",
+  "slug": "usgs-05551700",
+  "noaaForecastPath": "data/noaa-forecast/YRKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12345510",
+  "key": "12345510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12345510",
+  "name": "Rock Cr bl canal diversion, near Darby, MT",
+  "waterbody": "Rock Cr bl canal diversion, near Darby, MT",
+  "state": "MT",
+  "latitude": 46.06861389,
+  "longitude": -114.21799167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12345510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

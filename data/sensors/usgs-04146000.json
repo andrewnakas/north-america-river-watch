@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04146000",
+  "key": "04146000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04146000",
+  "name": "FARMERS CREEK NEAR LAPEER, MI",
+  "waterbody": "FARMERS CREEK NEAR LAPEER, MI",
+  "state": "MI",
+  "latitude": 43.0447494,
+  "longitude": -83.33716779,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04146000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

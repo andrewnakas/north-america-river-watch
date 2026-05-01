@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05443000",
+  "key": "05443000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05443000",
+  "name": "ROCK RIVER ABOVE SINNISSIPPI DAM AT ROCK FALLS, IL",
+  "waterbody": "ROCK RIVER ABOVE SINNISSIPPI DAM AT ROCK FALLS, IL",
+  "state": "IL",
+  "latitude": 41.787175,
+  "longitude": -89.677075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05443000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

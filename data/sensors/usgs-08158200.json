@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158200",
+  "key": "08158200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158200",
+  "name": "Walnut Ck at Dessau Rd, Austin, TX",
+  "waterbody": "Walnut Ck at Dessau Rd, Austin, TX",
+  "state": "TX",
+  "latitude": 30.375205,
+  "longitude": -97.6605601,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WADT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wadt2",
+  "slug": "usgs-08158200",
+  "noaaForecastPath": "data/noaa-forecast/WADT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04247055",
+  "key": "04247055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04247055",
+  "name": "OSWEGO RIVER NEAR PHOENIX NY",
+  "waterbody": "OSWEGO RIVER NEAR PHOENIX NY",
+  "state": "NY",
+  "latitude": 43.21116667,
+  "longitude": -76.2871111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHXN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oswego River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phxn6",
+  "slug": "usgs-04247055",
+  "noaaForecastPath": "data/noaa-forecast/PHXN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04282500",
+  "key": "04282500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282500",
+  "name": "OTTER CREEK AT MIDDLEBURY, VT",
+  "waterbody": "OTTER CREEK AT MIDDLEBURY, VT",
+  "state": "VT",
+  "latitude": 44.01314317,
+  "longitude": -73.1680182,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDBV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Otter Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdbv1",
+  "slug": "usgs-04282500",
+  "noaaForecastPath": "data/noaa-forecast/MDBV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

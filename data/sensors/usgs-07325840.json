@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07325840",
+  "key": "07325840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07325840",
+  "name": "Lake Creek near Sickles, OK",
+  "waterbody": "Lake Creek near Sickles, OK",
+  "state": "OK",
+  "latitude": 35.39172078,
+  "longitude": -98.5178418,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlco2",
+  "slug": "usgs-07325840",
+  "noaaForecastPath": "data/noaa-forecast/HLCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

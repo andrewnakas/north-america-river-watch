@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03022540",
+  "key": "03022540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03022540",
+  "name": "Woodcock Creek at Blooming Valley, PA",
+  "waterbody": "Woodcock Creek at Blooming Valley, PA",
+  "state": "PA",
+  "latitude": 41.6906115,
+  "longitude": -80.04811219,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Woodcock Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvlp1",
+  "slug": "usgs-03022540",
+  "noaaForecastPath": "data/noaa-forecast/BVLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

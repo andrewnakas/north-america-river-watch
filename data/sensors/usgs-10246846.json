@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10246846",
+  "key": "10246846",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10246846",
+  "name": "L CURRANT CK NR CURRANT, NV",
+  "waterbody": "L CURRANT CK NR CURRANT, NV",
+  "state": "NV",
+  "latitude": 38.84715919,
+  "longitude": -115.367526,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCTN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lower Current Creek nr Currant",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lctn2",
+  "slug": "usgs-10246846",
+  "noaaForecastPath": "data/noaa-forecast/LCTN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

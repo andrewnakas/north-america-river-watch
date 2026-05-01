@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02355350",
+  "key": "02355350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02355350",
+  "name": "ICHAWAYNOCHAWAY CREEK BELOW NEWTON, GA",
+  "waterbody": "ICHAWAYNOCHAWAY CREEK BELOW NEWTON, GA",
+  "state": "GA",
+  "latitude": 31.21680556,
+  "longitude": -84.4701667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ICHG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ichawaynochaway Creek",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ichg1",
+  "slug": "usgs-02355350",
+  "noaaForecastPath": "data/noaa-forecast/ICHG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

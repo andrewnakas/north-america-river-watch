@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01049320",
+  "key": "01049320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01049320",
+  "name": "Kennebec River at Calumet Bridge at Augusta, Maine",
+  "waterbody": "Kennebec River at Calumet Bridge at Augusta, Maine",
+  "state": "ME",
+  "latitude": 44.3186111,
+  "longitude": -69.7716667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASTM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kennebec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/astm1",
+  "slug": "usgs-01049320",
+  "noaaForecastPath": "data/noaa-forecast/ASTM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

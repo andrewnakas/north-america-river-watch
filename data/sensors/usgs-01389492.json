@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01389492",
+  "key": "01389492",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01389492",
+  "name": "Passaic River abv Beatties Dam at Little Falls NJ",
+  "waterbody": "Passaic River abv Beatties Dam at Little Falls NJ",
+  "state": "NJ",
+  "latitude": 40.88444444,
+  "longitude": -74.23444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BETN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Passaic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/betn4",
+  "slug": "usgs-01389492",
+  "noaaForecastPath": "data/noaa-forecast/BETN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11048553",
+  "key": "11048553",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11048553",
+  "name": "SAND CYN C A IRVINE CA",
+  "waterbody": "SAND CYN C A IRVINE CA",
+  "state": "CA",
+  "latitude": 33.65724307,
+  "longitude": -117.8275553,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11048553",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

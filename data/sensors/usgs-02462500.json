@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02462500",
+  "key": "02462500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02462500",
+  "name": "BLACK WARRIOR R AT BANKHEAD L&D NEAR BESSEMER AL",
+  "waterbody": "BLACK WARRIOR R AT BANKHEAD L&D NEAR BESSEMER AL",
+  "state": "AL",
+  "latitude": 33.4584457,
+  "longitude": -87.3541677,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02462500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

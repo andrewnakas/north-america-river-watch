@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50038100",
+  "key": "50038100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50038100",
+  "name": "RIO GRANDE DE MANATI AT HWY 2 NR MANATI, PR",
+  "waterbody": "RIO GRANDE DE MANATI AT HWY 2 NR MANATI, PR",
+  "state": "PR",
+  "latitude": 18.428972,
+  "longitude": -66.5264747,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50038100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08152900",
+  "key": "08152900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08152900",
+  "name": "Pedernales Rv nr Fredericksburg, TX",
+  "waterbody": "Pedernales Rv nr Fredericksburg, TX",
+  "state": "TX",
+  "latitude": 30.22048584,
+  "longitude": -98.8697812,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pedernales River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frbt2",
+  "slug": "usgs-08152900",
+  "noaaForecastPath": "data/noaa-forecast/FRBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

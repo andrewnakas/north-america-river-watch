@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01531000",
+  "key": "01531000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01531000",
+  "name": "CHEMUNG RIVER AT CHEMUNG NY",
+  "waterbody": "CHEMUNG RIVER AT CHEMUNG NY",
+  "state": "NY",
+  "latitude": 42.00244444,
+  "longitude": -76.63488889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chemung River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmgn6",
+  "slug": "usgs-01531000",
+  "noaaForecastPath": "data/noaa-forecast/CMGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

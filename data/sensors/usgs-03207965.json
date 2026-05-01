@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03207965",
+  "key": "03207965",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03207965",
+  "name": "GRAPEVINE CREEK NEAR PHYLLIS, KY",
+  "waterbody": "GRAPEVINE CREEK NEAR PHYLLIS, KY",
+  "state": "KY",
+  "latitude": 37.43260479,
+  "longitude": -82.3537563,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHYK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grapevine Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phyk2",
+  "slug": "usgs-03207965",
+  "noaaForecastPath": "data/noaa-forecast/PHYK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

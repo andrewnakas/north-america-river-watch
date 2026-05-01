@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07311700",
+  "key": "07311700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07311700",
+  "name": "N Wichita Rv nr Truscott, TX",
+  "waterbody": "N Wichita Rv nr Truscott, TX",
+  "state": "TX",
+  "latitude": 33.82064216,
+  "longitude": -99.7864822,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trst2",
+  "slug": "usgs-07311700",
+  "noaaForecastPath": "data/noaa-forecast/TRST2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

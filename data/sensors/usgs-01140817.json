@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01140817",
+  "key": "01140817",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01140817",
+  "name": "ELIZABETH MINE DISCHARGE NR S STRAFFORD, VT",
+  "waterbody": "ELIZABETH MINE DISCHARGE NR S STRAFFORD, VT",
+  "state": "VT",
+  "latitude": 43.83590197,
+  "longitude": -72.3359268,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01140817",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

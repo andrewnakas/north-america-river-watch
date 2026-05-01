@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02228070",
+  "key": "02228070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02228070",
+  "name": "SATILLA RIVER AT US 17, AT WOODBINE, GA",
+  "waterbody": "SATILLA RIVER AT US 17, AT WOODBINE, GA",
+  "state": "GA",
+  "latitude": 30.97488889,
+  "longitude": -81.7268611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRWG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Satilla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srwg1",
+  "slug": "usgs-02228070",
+  "noaaForecastPath": "data/noaa-forecast/SRWG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

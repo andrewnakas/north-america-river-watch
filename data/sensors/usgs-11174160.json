@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11174160",
+  "key": "11174160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11174160",
+  "name": "ALAMEDA C A SUNOL WATER TEMPLE A SUNOL CA",
+  "waterbody": "ALAMEDA C A SUNOL WATER TEMPLE A SUNOL CA",
+  "state": "CA",
+  "latitude": 37.58362778,
+  "longitude": -121.8852917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sinbad Creek - Sunol Glen Elementary",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxsc1",
+  "slug": "usgs-11174160",
+  "noaaForecastPath": "data/noaa-forecast/SXSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10258000",
+  "key": "10258000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10258000",
+  "name": "TAHQUITZ C NR PALM SPRINGS CA",
+  "waterbody": "TAHQUITZ C NR PALM SPRINGS CA",
+  "state": "CA",
+  "latitude": 33.80502575,
+  "longitude": -116.5591784,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10258000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

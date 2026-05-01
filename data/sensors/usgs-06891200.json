@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06891200",
+  "key": "06891200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06891200",
+  "name": "WAKARUSA R AT WAKARUSA, KS",
+  "waterbody": "WAKARUSA R AT WAKARUSA, KS",
+  "state": "KS",
+  "latitude": 38.88166667,
+  "longitude": -95.6969444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRWK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wakarusa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrwk1",
+  "slug": "usgs-06891200",
+  "noaaForecastPath": "data/noaa-forecast/WRWK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

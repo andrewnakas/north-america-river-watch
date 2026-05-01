@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09526900",
+  "key": "09526900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09526900",
+  "name": "PILOT KNOB POWERPLANT INLET DIVERSION FROM AAC, CA",
+  "waterbody": "PILOT KNOB POWERPLANT INLET DIVERSION FROM AAC, CA",
+  "state": "CA",
+  "latitude": 32.7378472,
+  "longitude": -114.714686,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09526900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

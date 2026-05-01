@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06211000",
+  "key": "06211000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06211000",
+  "name": "Red Lodge Cr ab Cooney Re nr Boyd MT",
+  "waterbody": "Red Lodge Cr ab Cooney Re nr Boyd MT",
+  "state": "MT",
+  "latitude": 45.43785,
+  "longitude": -109.2533111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Lodge Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bydm8",
+  "slug": "usgs-06211000",
+  "noaaForecastPath": "data/noaa-forecast/BYDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

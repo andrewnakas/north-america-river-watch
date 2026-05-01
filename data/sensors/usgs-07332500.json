@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07332500",
+  "key": "07332500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332500",
+  "name": "Blue River near Blue, OK",
+  "waterbody": "Blue River near Blue, OK",
+  "state": "OK",
+  "latitude": 33.99704088,
+  "longitude": -96.2410985,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLUO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bluo2",
+  "slug": "usgs-07332500",
+  "noaaForecastPath": "data/noaa-forecast/BLUO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

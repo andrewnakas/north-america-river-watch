@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610793",
+  "key": "06610793",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610793",
+  "name": "West Papillion Creek at Papillion, Nebr.",
+  "waterbody": "West Papillion Creek at Papillion, Nebr.",
+  "state": "NE",
+  "latitude": 41.15598611,
+  "longitude": -96.04283333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PWBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pwbn1",
+  "slug": "usgs-06610793",
+  "noaaForecastPath": "data/noaa-forecast/PWBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

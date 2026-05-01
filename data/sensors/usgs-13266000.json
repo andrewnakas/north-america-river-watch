@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13266000",
+  "key": "13266000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13266000",
+  "name": "WEISER RIVER NR WEISER ID",
+  "waterbody": "WEISER RIVER NR WEISER ID",
+  "state": "ID",
+  "latitude": 44.27,
+  "longitude": -116.7722222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSRI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Weiser River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsri1",
+  "slug": "usgs-13266000",
+  "noaaForecastPath": "data/noaa-forecast/WSRI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

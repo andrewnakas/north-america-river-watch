@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02047500",
+  "key": "02047500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02047500",
+  "name": "BLACKWATER RIVER NEAR DENDRON, VA",
+  "waterbody": "BLACKWATER RIVER NEAR DENDRON, VA",
+  "state": "VA",
+  "latitude": 37.0251499,
+  "longitude": -76.8746824,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNDV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackwater River (VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dndv2",
+  "slug": "usgs-02047500",
+  "noaaForecastPath": "data/noaa-forecast/DNDV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

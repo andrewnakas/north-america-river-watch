@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03466208",
+  "key": "03466208",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03466208",
+  "name": "BIG LIMESTONE CREEK NEAR LIMESTONE, TN",
+  "waterbody": "BIG LIMESTONE CREEK NEAR LIMESTONE, TN",
+  "state": "TN",
+  "latitude": 36.20592158,
+  "longitude": -82.65041619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LIMT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Limestone Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/limt1",
+  "slug": "usgs-03466208",
+  "noaaForecastPath": "data/noaa-forecast/LIMT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

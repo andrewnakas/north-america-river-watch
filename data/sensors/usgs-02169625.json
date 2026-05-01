@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02169625",
+  "key": "02169625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169625",
+  "name": "CONGAREE RIVER AT CONGAREE NP NEAR GADSDEN, SC",
+  "waterbody": "CONGAREE RIVER AT CONGAREE NP NEAR GADSDEN, SC",
+  "state": "SC",
+  "latitude": 33.81071,
+  "longitude": -80.8670348,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GADS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Congaree River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gads1",
+  "slug": "usgs-02169625",
+  "noaaForecastPath": "data/noaa-forecast/GADS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16720000",
+  "key": "16720000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16720000",
+  "name": "Kawainui Stream nr Kamuela, HI",
+  "waterbody": "Kawainui Stream nr Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.08533333,
+  "longitude": -155.6811667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KWSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kawainui Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kwsh1",
+  "slug": "usgs-16720000",
+  "noaaForecastPath": "data/noaa-forecast/KWSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299410",
+  "key": "02299410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299410",
+  "name": "BIG SLOUGH CANAL NEAR MYAKKA CITY FL",
+  "waterbody": "BIG SLOUGH CANAL NEAR MYAKKA CITY FL",
+  "state": "FL",
+  "latitude": 27.1933843,
+  "longitude": -82.1442558,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Slough Canal Near Myakka City",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bigf1",
+  "slug": "usgs-02299410",
+  "noaaForecastPath": "data/noaa-forecast/BIGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

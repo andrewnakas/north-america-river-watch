@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06155500",
+  "key": "06155500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06155500",
+  "name": "Milk River at Malta MT",
+  "waterbody": "Milk River at Malta MT",
+  "state": "MT",
+  "latitude": 48.3621944,
+  "longitude": -107.876375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MALM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Milk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/malm8",
+  "slug": "usgs-06155500",
+  "noaaForecastPath": "data/noaa-forecast/MALM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

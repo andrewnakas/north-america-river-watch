@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05401556",
+  "key": "05401556",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05401556",
+  "name": "BIG ROCHE A CRI CREEK @ STATE HWY 21 NR ARKDALE,WI",
+  "waterbody": "BIG ROCHE A CRI CREEK @ STATE HWY 21 NR ARKDALE,WI",
+  "state": "WI",
+  "latitude": 44.0308333,
+  "longitude": -89.8877778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05401556",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

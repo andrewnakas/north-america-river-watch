@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02127318",
+  "key": "02127318",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02127318",
+  "name": "BROWN CREEK NR PINKSTON, NC",
+  "waterbody": "BROWN CREEK NR PINKSTON, NC",
+  "state": "NC",
+  "latitude": 35.06792909,
+  "longitude": -80.09811489,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02127318",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

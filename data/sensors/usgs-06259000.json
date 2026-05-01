@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06259000",
+  "key": "06259000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06259000",
+  "name": "WIND RIVER BELOW BOYSEN RESERVOIR, WY",
+  "waterbody": "WIND RIVER BELOW BOYSEN RESERVOIR, WY",
+  "state": "WY",
+  "latitude": 43.4249254,
+  "longitude": -108.1790398,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wind River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwbw4",
+  "slug": "usgs-06259000",
+  "noaaForecastPath": "data/noaa-forecast/WWBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

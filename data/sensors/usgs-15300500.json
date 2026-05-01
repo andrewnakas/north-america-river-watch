@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15300500",
+  "key": "15300500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15300500",
+  "name": "KVICHAK R AT IGIUGIG AK",
+  "waterbody": "KVICHAK R AT IGIUGIG AK",
+  "state": "AK",
+  "latitude": 59.328889,
+  "longitude": -155.899167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KIGA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kvichak River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kiga2",
+  "slug": "usgs-15300500",
+  "noaaForecastPath": "data/noaa-forecast/KIGA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05516665",
+  "key": "05516665",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05516665",
+  "name": "YELLOW RIVER NEAR OAK GROVE, IN",
+  "waterbody": "YELLOW RIVER NEAR OAK GROVE, IN",
+  "state": "IN",
+  "latitude": 41.27138889,
+  "longitude": -86.4666667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OGRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ogri3",
+  "slug": "usgs-05516665",
+  "noaaForecastPath": "data/noaa-forecast/OGRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

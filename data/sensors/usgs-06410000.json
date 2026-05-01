@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06410000",
+  "key": "06410000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06410000",
+  "name": "CASTLE CREEK BELOW DEERFIELD DAM SD",
+  "waterbody": "CASTLE CREEK BELOW DEERFIELD DAM SD",
+  "state": "SD",
+  "latitude": 44.02914848,
+  "longitude": -103.7818652,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRFS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deerfield Reservoir",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drfs2",
+  "slug": "usgs-06410000",
+  "noaaForecastPath": "data/noaa-forecast/DRFS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

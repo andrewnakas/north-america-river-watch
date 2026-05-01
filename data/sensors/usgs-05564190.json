@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05564190",
+  "key": "05564190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05564190",
+  "name": "MACKINAW RIVER AT 3400E NEAR COLFAX, IL",
+  "waterbody": "MACKINAW RIVER AT 3400E NEAR COLFAX, IL",
+  "state": "IL",
+  "latitude": 40.5573333,
+  "longitude": -88.6103056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05564190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

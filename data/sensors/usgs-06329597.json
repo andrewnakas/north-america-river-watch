@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06329597",
+  "key": "06329597",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06329597",
+  "name": "CHARBONNEAU CREEK NR CHARBONNEAU, ND",
+  "waterbody": "CHARBONNEAU CREEK NR CHARBONNEAU, ND",
+  "state": "ND",
+  "latitude": 47.85085328,
+  "longitude": -103.7940907,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06329597",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

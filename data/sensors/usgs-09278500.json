@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09278500",
+  "key": "09278500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09278500",
+  "name": "ROCK CREEK NEAR HANNA, UTAH",
+  "waterbody": "ROCK CREEK NEAR HANNA, UTAH",
+  "state": "UT",
+  "latitude": 40.545501,
+  "longitude": -110.656274,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09278500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

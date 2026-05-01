@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12331100",
+  "key": "12331100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12331100",
+  "name": "Flint Cr bl Douglas Cr nr Hall MT",
+  "waterbody": "Flint Cr bl Douglas Cr nr Hall MT",
+  "state": "MT",
+  "latitude": 46.55011389,
+  "longitude": -113.2147528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12331100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05471050",
+  "key": "05471050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05471050",
+  "name": "South Skunk River at Colfax, IA",
+  "waterbody": "South Skunk River at Colfax, IA",
+  "state": "IA",
+  "latitude": 41.68180556,
+  "longitude": -93.2468333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFXI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Skunk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfxi4",
+  "slug": "usgs-05471050",
+  "noaaForecastPath": "data/noaa-forecast/CFXI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

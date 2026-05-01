@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415590",
+  "key": "09415590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415590",
+  "name": "209 S05 E60 10 1 CRYSTAL SPGS NR HIKO, NV",
+  "waterbody": "209 S05 E60 10 1 CRYSTAL SPGS NR HIKO, NV",
+  "state": "NV",
+  "latitude": 37.5319043,
+  "longitude": -115.2325215,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

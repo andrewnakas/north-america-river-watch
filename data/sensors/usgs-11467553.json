@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11467553",
+  "key": "11467553",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11467553",
+  "name": "NF GUALALA R AB SF GUALALA R NR GUALALA CA",
+  "waterbody": "NF GUALALA R AB SF GUALALA R NR GUALALA CA",
+  "state": "CA",
+  "latitude": 38.78986049,
+  "longitude": -123.5094204,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GAAC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N. Fork Gualala River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gaac1",
+  "slug": "usgs-11467553",
+  "noaaForecastPath": "data/noaa-forecast/GAAC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

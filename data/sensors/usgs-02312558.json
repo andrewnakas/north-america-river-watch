@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312558",
+  "key": "02312558",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312558",
+  "name": "WITHLACOOCHEE RIVER AT NOBLETON, FL",
+  "waterbody": "WITHLACOOCHEE RIVER AT NOBLETON, FL",
+  "state": "FL",
+  "latitude": 28.644167,
+  "longitude": -82.257222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOBF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nobf1",
+  "slug": "usgs-02312558",
+  "noaaForecastPath": "data/noaa-forecast/NOBF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

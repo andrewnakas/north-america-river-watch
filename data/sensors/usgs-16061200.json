@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16061200",
+  "key": "16061200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16061200",
+  "name": "N. Wailua Ditch blw Waikoko Str nr Lihue, Kauai, H",
+  "waterbody": "N. Wailua Ditch blw Waikoko Str nr Lihue, Kauai, H",
+  "state": "HI",
+  "latitude": 22.05630833,
+  "longitude": -159.4638556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16061200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13249500",
+  "key": "13249500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13249500",
+  "name": "PAYETTE RIVER NR EMMETT ID",
+  "waterbody": "PAYETTE RIVER NR EMMETT ID",
+  "state": "ID",
+  "latitude": 43.93055556,
+  "longitude": -116.4427778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMMI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Payette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/emmi1",
+  "slug": "usgs-13249500",
+  "noaaForecastPath": "data/noaa-forecast/EMMI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

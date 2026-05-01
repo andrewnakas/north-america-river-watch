@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09086970",
+  "key": "09086970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09086970",
+  "name": "EAST ELK CREEK AB BOILER CREEK NR NEW CASTLE, CO",
+  "waterbody": "EAST ELK CREEK AB BOILER CREEK NR NEW CASTLE, CO",
+  "state": "CO",
+  "latitude": 39.6680364,
+  "longitude": -107.5250561,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09086970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

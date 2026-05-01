@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05542000",
+  "key": "05542000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05542000",
+  "name": "MAZON RIVER NEAR COAL CITY, IL",
+  "waterbody": "MAZON RIVER NEAR COAL CITY, IL",
+  "state": "IL",
+  "latitude": 41.28619444,
+  "longitude": -88.3598611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mazon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coli2",
+  "slug": "usgs-05542000",
+  "noaaForecastPath": "data/noaa-forecast/COLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

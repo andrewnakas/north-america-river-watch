@@ -1,0 +1,19 @@
+{
+  "id": "usgs:442810068480101",
+  "key": "442810068480101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "442810068480101",
+  "name": "Penobscot River at Fort Point, Maine",
+  "waterbody": "Penobscot River at Fort Point, Maine",
+  "state": "ME",
+  "latitude": 44.4693222,
+  "longitude": -68.8001917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-442810068480101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0425040001",
+  "key": "0425040001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0425040001",
+  "name": "TROUT BROOK UPSTREAM OF CR-48 AT CENTERVILLE NY",
+  "waterbody": "TROUT BROOK UPSTREAM OF CR-48 AT CENTERVILLE NY",
+  "state": "NY",
+  "latitude": 43.5469722,
+  "longitude": -76.0426944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0425040001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

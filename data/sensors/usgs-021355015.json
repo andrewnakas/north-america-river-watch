@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021355015",
+  "key": "021355015",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021355015",
+  "name": "TEARCOAT BRANCH AT I-95 NEAR MANNING, SC",
+  "waterbody": "TEARCOAT BRANCH AT I-95 NEAR MANNING, SC",
+  "state": "SC",
+  "latitude": 33.81302778,
+  "longitude": -80.1516111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TBGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tearcoat Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tbgs1",
+  "slug": "usgs-021355015",
+  "noaaForecastPath": "data/noaa-forecast/TBGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

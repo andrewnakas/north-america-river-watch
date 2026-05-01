@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09470500",
+  "key": "09470500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09470500",
+  "name": "SAN PEDRO RIVER AT PALOMINAS, AZ.",
+  "waterbody": "SAN PEDRO RIVER AT PALOMINAS, AZ.",
+  "state": "AZ",
+  "latitude": 31.3801309,
+  "longitude": -110.1112093,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPPA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Pedro River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sppa3",
+  "slug": "usgs-09470500",
+  "noaaForecastPath": "data/noaa-forecast/SPPA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

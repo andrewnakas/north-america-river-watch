@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08354900",
+  "key": "08354900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08354900",
+  "name": "RIO GRANDE FLOODWAY AT SAN ACACIA, NM",
+  "waterbody": "RIO GRANDE FLOODWAY AT SAN ACACIA, NM",
+  "state": "NM",
+  "latitude": 34.25638889,
+  "longitude": -106.8908333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNAN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snan5",
+  "slug": "usgs-08354900",
+  "noaaForecastPath": "data/noaa-forecast/SNAN5.json",
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

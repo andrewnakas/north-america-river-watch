@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07105000",
+  "key": "07105000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07105000",
+  "name": "BEAR CREEK NEAR COLORADO SPRINGS, CO",
+  "waterbody": "BEAR CREEK NEAR COLORADO SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.82249078,
+  "longitude": -104.888586,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07105000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

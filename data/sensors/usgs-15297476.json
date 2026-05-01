@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15297476",
+  "key": "15297476",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15297476",
+  "name": "RED CLOUD R AT ANTON LARSEN BAY NR KODIAK AK",
+  "waterbody": "RED CLOUD R AT ANTON LARSEN BAY NR KODIAK AK",
+  "state": "AK",
+  "latitude": 57.8175,
+  "longitude": -152.623889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Cloud River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdca2",
+  "slug": "usgs-15297476",
+  "noaaForecastPath": "data/noaa-forecast/RDCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

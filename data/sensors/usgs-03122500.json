@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03122500",
+  "key": "03122500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03122500",
+  "name": "Tuscarawas River below Dover Dam near Dover OH",
+  "waterbody": "Tuscarawas River below Dover Dam near Dover OH",
+  "state": "OH",
+  "latitude": 40.5297862,
+  "longitude": -81.4298369,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DVLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dvlo1",
+  "slug": "usgs-03122500",
+  "noaaForecastPath": "data/noaa-forecast/DVLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

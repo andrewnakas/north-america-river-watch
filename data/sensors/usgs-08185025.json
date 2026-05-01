@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08185025",
+  "key": "08185025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08185025",
+  "name": "Randolph AFB West Drain nr Schertz, TX",
+  "waterbody": "Randolph AFB West Drain nr Schertz, TX",
+  "state": "TX",
+  "latitude": 29.54166667,
+  "longitude": -98.26288611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08185025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

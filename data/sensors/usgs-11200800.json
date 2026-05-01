@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11200800",
+  "key": "11200800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11200800",
+  "name": "DEER C NR FOUNTAIN SPRINGS CA",
+  "waterbody": "DEER C NR FOUNTAIN SPRINGS CA",
+  "state": "CA",
+  "latitude": 35.9416243,
+  "longitude": -118.8228716,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DKCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deer Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dkcc1",
+  "slug": "usgs-11200800",
+  "noaaForecastPath": "data/noaa-forecast/DKCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

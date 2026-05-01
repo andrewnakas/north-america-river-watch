@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05502300",
+  "key": "05502300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05502300",
+  "name": "North Fork Salt River at Hagers Grove, MO",
+  "waterbody": "North Fork Salt River at Hagers Grove, MO",
+  "state": "MO",
+  "latitude": 39.82988889,
+  "longitude": -92.2304444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Salt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgzm7",
+  "slug": "usgs-05502300",
+  "noaaForecastPath": "data/noaa-forecast/HGZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01528000",
+  "key": "01528000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01528000",
+  "name": "FIVEMILE CREEK NEAR KANONA NY",
+  "waterbody": "FIVEMILE CREEK NEAR KANONA NY",
+  "state": "NY",
+  "latitude": 42.3883333,
+  "longitude": -77.35777778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01528000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

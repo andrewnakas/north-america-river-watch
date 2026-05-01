@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08117500",
+  "key": "08117500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117500",
+  "name": "San Bernard Rv nr Boling, TX",
+  "waterbody": "San Bernard Rv nr Boling, TX",
+  "state": "TX",
+  "latitude": 29.31357967,
+  "longitude": -95.8938421,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Bernard River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bolt2",
+  "slug": "usgs-08117500",
+  "noaaForecastPath": "data/noaa-forecast/BOLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

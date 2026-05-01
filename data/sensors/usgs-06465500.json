@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06465500",
+  "key": "06465500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06465500",
+  "name": "Niobrara River near Verdel, Nebr.",
+  "waterbody": "Niobrara River near Verdel, Nebr.",
+  "state": "NE",
+  "latitude": 42.73979444,
+  "longitude": -98.22286111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VRDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Niobrara River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vrdn1",
+  "slug": "usgs-06465500",
+  "noaaForecastPath": "data/noaa-forecast/VRDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

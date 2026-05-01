@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11469000",
+  "key": "11469000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11469000",
+  "name": "MATTOLE R NR PETROLIA CA",
+  "waterbody": "MATTOLE R NR PETROLIA CA",
+  "state": "CA",
+  "latitude": 40.31316145,
+  "longitude": -124.2833536,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTOC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mattole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtoc1",
+  "slug": "usgs-11469000",
+  "noaaForecastPath": "data/noaa-forecast/MTOC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

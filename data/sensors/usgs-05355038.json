@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05355038",
+  "key": "05355038",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05355038",
+  "name": "CHUB CREEK AT CO. HWY. 47 ABOVE RANDOLPH, MN",
+  "waterbody": "CHUB CREEK AT CO. HWY. 47 ABOVE RANDOLPH, MN",
+  "state": "MN",
+  "latitude": 44.52888889,
+  "longitude": -93.0725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RANM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chub Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ranm5",
+  "slug": "usgs-05355038",
+  "noaaForecastPath": "data/noaa-forecast/RANM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

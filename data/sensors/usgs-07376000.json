@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07376000",
+  "key": "07376000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07376000",
+  "name": "Tickfaw River at Holden, LA",
+  "waterbody": "Tickfaw River at Holden, LA",
+  "state": "LA",
+  "latitude": 30.5038016,
+  "longitude": -90.6773163,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOLL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tickfaw River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/holl1",
+  "slug": "usgs-07376000",
+  "noaaForecastPath": "data/noaa-forecast/HOLL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

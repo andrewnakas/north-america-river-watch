@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06914950",
+  "key": "06914950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06914950",
+  "name": "BIG BULL C NR EDGERTON, KS",
+  "waterbody": "BIG BULL C NR EDGERTON, KS",
+  "state": "KS",
+  "latitude": 38.75334168,
+  "longitude": -94.977188,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06914950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

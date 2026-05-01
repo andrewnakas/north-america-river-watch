@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14159130",
+  "key": "14159130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14159130",
+  "name": "SF MCKENZIE RIVER ABV ROARING R NR COUGAR DAM, OR",
+  "waterbody": "SF MCKENZIE RIVER ABV ROARING R NR COUGAR DAM, OR",
+  "state": "OR",
+  "latitude": 43.95702778,
+  "longitude": -122.085,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14159130",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

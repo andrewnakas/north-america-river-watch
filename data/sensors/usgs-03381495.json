@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03381495",
+  "key": "03381495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03381495",
+  "name": "LITTLE WABASH RIVER AT MAIN ST AT CARMI, IL",
+  "waterbody": "LITTLE WABASH RIVER AT MAIN ST AT CARMI, IL",
+  "state": "IL",
+  "latitude": 38.0922222,
+  "longitude": -88.1561111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CARI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wabash River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cari2",
+  "slug": "usgs-03381495",
+  "noaaForecastPath": "data/noaa-forecast/CARI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

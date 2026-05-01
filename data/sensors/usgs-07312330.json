@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07312330",
+  "key": "07312330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07312330",
+  "name": "Wichita Rv at FM 368 nr Iowa Park, TX",
+  "waterbody": "Wichita Rv at FM 368 nr Iowa Park, TX",
+  "state": "TX",
+  "latitude": 33.89694444,
+  "longitude": -98.7072222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IPWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ipwt2",
+  "slug": "usgs-07312330",
+  "noaaForecastPath": "data/noaa-forecast/IPWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

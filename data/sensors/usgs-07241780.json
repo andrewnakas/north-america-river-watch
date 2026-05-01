@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07241780",
+  "key": "07241780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07241780",
+  "name": "Squirrel Creek at Shawnee, OK",
+  "waterbody": "Squirrel Creek at Shawnee, OK",
+  "state": "OK",
+  "latitude": 35.30416667,
+  "longitude": -96.9122222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSQO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Squirrel Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssqo2",
+  "slug": "usgs-07241780",
+  "noaaForecastPath": "data/noaa-forecast/SSQO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01018500",
+  "key": "01018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01018500",
+  "name": "St. Croix River at Vanceboro, Maine",
+  "waterbody": "St. Croix River at Vanceboro, Maine",
+  "state": "ME",
+  "latitude": 45.5683333,
+  "longitude": -67.4283333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VBOM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Croix River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vbom1",
+  "slug": "usgs-01018500",
+  "noaaForecastPath": "data/noaa-forecast/VBOM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

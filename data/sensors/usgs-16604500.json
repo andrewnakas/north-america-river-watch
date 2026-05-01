@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16604500",
+  "key": "16604500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16604500",
+  "name": "Wailuku River at Kepaniwai Park, Maui, HI",
+  "waterbody": "Wailuku River at Kepaniwai Park, Maui, HI",
+  "state": "HI",
+  "latitude": 20.88238889,
+  "longitude": -156.5392778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IAOH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wailuku River (Maui)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iaoh1",
+  "slug": "usgs-16604500",
+  "noaaForecastPath": "data/noaa-forecast/IAOH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

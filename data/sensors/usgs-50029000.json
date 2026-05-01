@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50029000",
+  "key": "50029000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50029000",
+  "name": "RIO GRANDE DE ARECIBO AT CENTRAL CAMBALACHE, PR",
+  "waterbody": "RIO GRANDE DE ARECIBO AT CENTRAL CAMBALACHE, PR",
+  "state": "PR",
+  "latitude": 18.4535347,
+  "longitude": -66.7020721,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50029000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

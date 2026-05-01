@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08405200",
+  "key": "08405200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08405200",
+  "name": "PECOS RIVER BELOW DARK CANYON AT CARLSBAD, NM",
+  "waterbody": "PECOS RIVER BELOW DARK CANYON AT CARLSBAD, NM",
+  "state": "NM",
+  "latitude": 32.409275,
+  "longitude": -104.2149722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPDN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 2 miles E of Carlsbad",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpdn5",
+  "slug": "usgs-08405200",
+  "noaaForecastPath": "data/noaa-forecast/CPDN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

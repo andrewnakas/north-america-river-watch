@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08156910",
+  "key": "08156910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08156910",
+  "name": "Waller Ck at Koenig Lane, Austin, TX",
+  "waterbody": "Waller Ck at Koenig Lane, Austin, TX",
+  "state": "TX",
+  "latitude": 30.32277778,
+  "longitude": -97.7227778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waller Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlct2",
+  "slug": "usgs-08156910",
+  "noaaForecastPath": "data/noaa-forecast/WLCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

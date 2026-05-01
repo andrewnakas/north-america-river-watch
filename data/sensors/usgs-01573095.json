@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01573095",
+  "key": "01573095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573095",
+  "name": "Bachman Run at Annville, PA",
+  "waterbody": "Bachman Run at Annville, PA",
+  "state": "PA",
+  "latitude": 40.3162028,
+  "longitude": -76.5158,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01573095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01096000",
+  "key": "01096000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01096000",
+  "name": "SQUANNACOOK RIVER NEAR WEST GROTON, MA",
+  "waterbody": "SQUANNACOOK RIVER NEAR WEST GROTON, MA",
+  "state": "MA",
+  "latitude": 42.63425619,
+  "longitude": -71.6578479,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WGTM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Squannacook River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wgtm3",
+  "slug": "usgs-01096000",
+  "noaaForecastPath": "data/noaa-forecast/WGTM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

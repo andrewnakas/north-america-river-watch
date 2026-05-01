@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01022210",
+  "key": "01022210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01022210",
+  "name": "Pleasant River above Colonel Brk nr Crebo Flat, ME",
+  "waterbody": "Pleasant River above Colonel Brk nr Crebo Flat, ME",
+  "state": "ME",
+  "latitude": 44.7825,
+  "longitude": -67.9230556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01022210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

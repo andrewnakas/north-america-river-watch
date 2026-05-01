@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10311300",
+  "key": "10311300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10311300",
+  "name": "EAGLE VALLEY CK AT CARSON CITY, NV",
+  "waterbody": "EAGLE VALLEY CK AT CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.165275,
+  "longitude": -119.722225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVYN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle Valley Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evyn2",
+  "slug": "usgs-10311300",
+  "noaaForecastPath": "data/noaa-forecast/EVYN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

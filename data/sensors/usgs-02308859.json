@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02308859",
+  "key": "02308859",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02308859",
+  "name": "CROSS BAYOU CN AT ULMERTON RD AT PINELLAS PARK FL",
+  "waterbody": "CROSS BAYOU CN AT ULMERTON RD AT PINELLAS PARK FL",
+  "state": "FL",
+  "latitude": 27.893797,
+  "longitude": -82.7106,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CUCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cross Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cucf1",
+  "slug": "usgs-02308859",
+  "noaaForecastPath": "data/noaa-forecast/CUCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04108660",
+  "key": "04108660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04108660",
+  "name": "KALAMAZOO RIVER AT NEW RICHMOND, MI",
+  "waterbody": "KALAMAZOO RIVER AT NEW RICHMOND, MI",
+  "state": "MI",
+  "latitude": 42.65085976,
+  "longitude": -86.106703,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kalamazoo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcmm4",
+  "slug": "usgs-04108660",
+  "noaaForecastPath": "data/noaa-forecast/RCMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

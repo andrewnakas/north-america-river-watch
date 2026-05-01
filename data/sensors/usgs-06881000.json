@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06881000",
+  "key": "06881000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06881000",
+  "name": "Big Blue River near Crete, Nebr.",
+  "waterbody": "Big Blue River near Crete, Nebr.",
+  "state": "NE",
+  "latitude": 40.59658056,
+  "longitude": -96.96085833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRTN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crtn1",
+  "slug": "usgs-06881000",
+  "noaaForecastPath": "data/noaa-forecast/CRTN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

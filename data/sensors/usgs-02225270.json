@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02225270",
+  "key": "02225270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02225270",
+  "name": "OHOOPEE RIVER AT GA 297, NEAR SWAINSBORO, GA",
+  "waterbody": "OHOOPEE RIVER AT GA 297, NEAR SWAINSBORO, GA",
+  "state": "GA",
+  "latitude": 32.4406111,
+  "longitude": -82.38188889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWOG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohoopee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swog1",
+  "slug": "usgs-02225270",
+  "noaaForecastPath": "data/noaa-forecast/SWOG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

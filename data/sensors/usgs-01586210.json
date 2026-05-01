@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01586210",
+  "key": "01586210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01586210",
+  "name": "BEAVER RUN NEAR FINKSBURG, MD",
+  "waterbody": "BEAVER RUN NEAR FINKSBURG, MD",
+  "state": "MD",
+  "latitude": 39.48944444,
+  "longitude": -76.90294444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FNKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fnkm2",
+  "slug": "usgs-01586210",
+  "noaaForecastPath": "data/noaa-forecast/FNKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

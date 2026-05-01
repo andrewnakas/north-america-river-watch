@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13046000",
+  "key": "13046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13046000",
+  "name": "HENRYS FORK NR ASHTON ID",
+  "waterbody": "HENRYS FORK NR ASHTON ID",
+  "state": "ID",
+  "latitude": 44.0697222,
+  "longitude": -111.5105556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HFAI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Henrys Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hfai1",
+  "slug": "usgs-13046000",
+  "noaaForecastPath": "data/noaa-forecast/HFAI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

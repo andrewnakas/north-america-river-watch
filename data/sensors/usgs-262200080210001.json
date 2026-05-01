@@ -1,0 +1,19 @@
+{
+  "id": "usgs:262200080210001",
+  "key": "262200080210001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "262200080210001",
+  "name": "HILLSBORO CA AT S-10-C NR DEERFIELD BCH., FL",
+  "waterbody": "HILLSBORO CA AT S-10-C NR DEERFIELD BCH., FL",
+  "state": "FL",
+  "latitude": 26.37125,
+  "longitude": -80.3509167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-262200080210001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

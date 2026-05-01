@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15284000",
+  "key": "15284000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15284000",
+  "name": "MATANUSKA R AT PALMER AK",
+  "waterbody": "MATANUSKA R AT PALMER AK",
+  "state": "AK",
+  "latitude": 61.60862507,
+  "longitude": -149.0730639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MATA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Matanuska River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mata2",
+  "slug": "usgs-15284000",
+  "noaaForecastPath": "data/noaa-forecast/MATA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

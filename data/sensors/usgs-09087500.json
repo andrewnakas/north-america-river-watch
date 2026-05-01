@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09087500",
+  "key": "09087500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09087500",
+  "name": "ELK CREEK AT NEW CASTLE, CO.",
+  "waterbody": "ELK CREEK AT NEW CASTLE, CO.",
+  "state": "CO",
+  "latitude": 39.5737972,
+  "longitude": -107.5399333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09087500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

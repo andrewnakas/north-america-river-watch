@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13174500",
+  "key": "13174500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13174500",
+  "name": "OWYHEE RV NR GOLD CK, NV",
+  "waterbody": "OWYHEE RV NR GOLD CK, NV",
+  "state": "NV",
+  "latitude": 41.68879428,
+  "longitude": -115.8448067,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDHN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Owyhee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdhn2",
+  "slug": "usgs-13174500",
+  "noaaForecastPath": "data/noaa-forecast/WDHN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

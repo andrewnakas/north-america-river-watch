@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01434498",
+  "key": "01434498",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434498",
+  "name": "WEST BRANCH NEVERSINK RIVER AT CLARYVILLE NY",
+  "waterbody": "WEST BRANCH NEVERSINK RIVER AT CLARYVILLE NY",
+  "state": "NY",
+  "latitude": 41.92041667,
+  "longitude": -74.57438889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01434498",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

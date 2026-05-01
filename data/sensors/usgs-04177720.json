@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04177720",
+  "key": "04177720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04177720",
+  "name": "FISH CREEK AT HAMILTON, IN",
+  "waterbody": "FISH CREEK AT HAMILTON, IN",
+  "state": "IN",
+  "latitude": 41.53223855,
+  "longitude": -84.9035363,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northern Indiana Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmli3",
+  "slug": "usgs-04177720",
+  "noaaForecastPath": "data/noaa-forecast/HMLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

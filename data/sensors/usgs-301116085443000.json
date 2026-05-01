@@ -1,0 +1,19 @@
+{
+  "id": "usgs:301116085443000",
+  "key": "301116085443000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "301116085443000",
+  "name": "ST ANDREWS BAY NEAR PANAMA CITY, FL",
+  "waterbody": "ST ANDREWS BAY NEAR PANAMA CITY, FL",
+  "state": "FL",
+  "latitude": 30.18783333,
+  "longitude": -85.7416667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-301116085443000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

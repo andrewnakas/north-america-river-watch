@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08401500",
+  "key": "08401500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08401500",
+  "name": "PECOS RIVER BELOW BRANTLEY DAM NEAR CARLSBAD, NM",
+  "waterbody": "PECOS RIVER BELOW BRANTLEY DAM NEAR CARLSBAD, NM",
+  "state": "NM",
+  "latitude": 32.54318889,
+  "longitude": -104.3711,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSBN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/psbn5",
+  "slug": "usgs-08401500",
+  "noaaForecastPath": "data/noaa-forecast/PSBN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13066000",
+  "key": "13066000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13066000",
+  "name": "BLACKFOOT RIVER NR SHELLEY ID",
+  "waterbody": "BLACKFOOT RIVER NR SHELLEY ID",
+  "state": "ID",
+  "latitude": 43.26277778,
+  "longitude": -112.0477778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHLI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackfoot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shli1",
+  "slug": "usgs-13066000",
+  "noaaForecastPath": "data/noaa-forecast/SHLI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

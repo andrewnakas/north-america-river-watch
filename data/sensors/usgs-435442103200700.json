@@ -1,0 +1,19 @@
+{
+  "id": "usgs:435442103200700",
+  "key": "435442103200700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "435442103200700",
+  "name": "PRECIP AT DEADMAN GULCH NR HAYWARD, SD",
+  "waterbody": "PRECIP AT DEADMAN GULCH NR HAYWARD, SD",
+  "state": "SD",
+  "latitude": 43.9116553,
+  "longitude": -103.3357432,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-435442103200700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

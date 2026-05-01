@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14332000",
+  "key": "14332000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14332000",
+  "name": "SOUTH FORK ROGUE RIVER NEAR PROSPECT, OR",
+  "waterbody": "SOUTH FORK ROGUE RIVER NEAR PROSPECT, OR",
+  "state": "OR",
+  "latitude": 42.70638889,
+  "longitude": -122.388611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14332000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

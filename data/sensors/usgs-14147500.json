@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14147500",
+  "key": "14147500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14147500",
+  "name": "N FK OF M FK WILLAMETTE R NR OAKRIDGE, OR",
+  "waterbody": "N FK OF M FK WILLAMETTE R NR OAKRIDGE, OR",
+  "state": "OR",
+  "latitude": 43.7567902,
+  "longitude": -122.5053292,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMFO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Fk of Middle Fk Willamette River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmfo3",
+  "slug": "usgs-14147500",
+  "noaaForecastPath": "data/noaa-forecast/NMFO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

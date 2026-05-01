@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06917630",
+  "key": "06917630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06917630",
+  "name": "East Drywood Creek at Prairie State Park",
+  "waterbody": "East Drywood Creek at Prairie State Park",
+  "state": "MO",
+  "latitude": 37.5353611,
+  "longitude": -94.5580833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWEM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Drywood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwem7",
+  "slug": "usgs-06917630",
+  "noaaForecastPath": "data/noaa-forecast/DWEM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

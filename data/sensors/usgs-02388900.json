@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02388900",
+  "key": "02388900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02388900",
+  "name": "ETOWAH RIVER NEAR DAHLONEGA, GA",
+  "waterbody": "ETOWAH RIVER NEAR DAHLONEGA, GA",
+  "state": "GA",
+  "latitude": 34.51555556,
+  "longitude": -84.0602778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02388900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

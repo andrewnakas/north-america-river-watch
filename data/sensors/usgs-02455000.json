@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02455000",
+  "key": "02455000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02455000",
+  "name": "LOCUST FORK NEAR CLEVELAND, AL.",
+  "waterbody": "LOCUST FORK NEAR CLEVELAND, AL.",
+  "state": "AL",
+  "latitude": 34.02454235,
+  "longitude": -86.5741573,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLEA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Locust Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clea1",
+  "slug": "usgs-02455000",
+  "noaaForecastPath": "data/noaa-forecast/CLEA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

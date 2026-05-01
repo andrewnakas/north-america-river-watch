@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06720480",
+  "key": "06720480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06720480",
+  "name": "FIRST CR AB 96TH AVE, AT ROCKY MTN ARSENAL, CO",
+  "waterbody": "FIRST CR AB 96TH AVE, AT ROCKY MTN ARSENAL, CO",
+  "state": "CO",
+  "latitude": 39.86748564,
+  "longitude": -104.8321963,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06720480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16415000",
+  "key": "16415000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16415000",
+  "name": "EF Kawela Gulch nr Kamalo, Molokai, HI",
+  "waterbody": "EF Kawela Gulch nr Kamalo, Molokai, HI",
+  "state": "HI",
+  "latitude": 21.1096361,
+  "longitude": -156.9033278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16415000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

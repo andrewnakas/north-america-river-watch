@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04220045",
+  "key": "04220045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04220045",
+  "name": "OAK ORCHARD CREEK NEAR SHELBY NY",
+  "waterbody": "OAK ORCHARD CREEK NEAR SHELBY NY",
+  "state": "NY",
+  "latitude": 43.17430556,
+  "longitude": -78.38638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Orchard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbyn6",
+  "slug": "usgs-04220045",
+  "noaaForecastPath": "data/noaa-forecast/SBYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

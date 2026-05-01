@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01104683",
+  "key": "01104683",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104683",
+  "name": "MUDDY RIVER AT BROOKLINE, MA",
+  "waterbody": "MUDDY RIVER AT BROOKLINE, MA",
+  "state": "MA",
+  "latitude": 42.33719509,
+  "longitude": -71.11113,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUDM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mudm3",
+  "slug": "usgs-01104683",
+  "noaaForecastPath": "data/noaa-forecast/MUDM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

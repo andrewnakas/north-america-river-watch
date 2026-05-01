@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04071000",
+  "key": "04071000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04071000",
+  "name": "OCONTO RIVER NEAR GILLETT, WI",
+  "waterbody": "OCONTO RIVER NEAR GILLETT, WI",
+  "state": "WI",
+  "latitude": 44.865,
+  "longitude": -88.3,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GILW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oconto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gilw3",
+  "slug": "usgs-04071000",
+  "noaaForecastPath": "data/noaa-forecast/GILW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

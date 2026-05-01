@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04118105",
+  "key": "04118105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04118105",
+  "name": "GRAND RIVER AT ADA, MI",
+  "waterbody": "GRAND RIVER AT ADA, MI",
+  "state": "MI",
+  "latitude": 42.9569741,
+  "longitude": -85.4775228,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADAM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adam4",
+  "slug": "usgs-04118105",
+  "noaaForecastPath": "data/noaa-forecast/ADAM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

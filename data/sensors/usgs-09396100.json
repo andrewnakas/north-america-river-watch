@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09396100",
+  "key": "09396100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09396100",
+  "name": "PUERCO RIVER NEAR CHAMBERS, AZ",
+  "waterbody": "PUERCO RIVER NEAR CHAMBERS, AZ",
+  "state": "AZ",
+  "latitude": 35.18224625,
+  "longitude": -109.4470509,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PUCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Puerco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/puca3",
+  "slug": "usgs-09396100",
+  "noaaForecastPath": "data/noaa-forecast/PUCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

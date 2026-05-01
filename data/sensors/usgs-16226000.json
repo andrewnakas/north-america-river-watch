@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16226000",
+  "key": "16226000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16226000",
+  "name": "N. Halawa Str nr Aiea, Oahu, HI",
+  "waterbody": "N. Halawa Str nr Aiea, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.39295833,
+  "longitude": -157.8908639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16226000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

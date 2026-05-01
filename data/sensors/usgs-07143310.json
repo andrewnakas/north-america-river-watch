@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07143310",
+  "key": "07143310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07143310",
+  "name": "COW C NR HUTCHINSON, KS",
+  "waterbody": "COW C NR HUTCHINSON, KS",
+  "state": "KS",
+  "latitude": 38.14417747,
+  "longitude": -98.0078315,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htck1",
+  "slug": "usgs-07143310",
+  "noaaForecastPath": "data/noaa-forecast/HTCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

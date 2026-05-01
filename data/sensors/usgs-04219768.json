@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04219768",
+  "key": "04219768",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04219768",
+  "name": "EIGHTEENMILE CREEK AT BURT NY",
+  "waterbody": "EIGHTEENMILE CREEK AT BURT NY",
+  "state": "NY",
+  "latitude": 43.31380556,
+  "longitude": -78.7154167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BURN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eighteenmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/burn6",
+  "slug": "usgs-04219768",
+  "noaaForecastPath": "data/noaa-forecast/BURN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

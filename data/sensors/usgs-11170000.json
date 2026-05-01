@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11170000",
+  "key": "11170000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11170000",
+  "name": "COYOTE C NR MADRONE CA",
+  "waterbody": "COYOTE C NR MADRONE CA",
+  "state": "CA",
+  "latitude": 37.1682416,
+  "longitude": -121.6496271,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "XCMC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coyote Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/xcmc1",
+  "slug": "usgs-11170000",
+  "noaaForecastPath": "data/noaa-forecast/XCMC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

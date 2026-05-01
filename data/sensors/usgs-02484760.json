@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02484760",
+  "key": "02484760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02484760",
+  "name": "FANNEGUSHA CREEK NR SAND HILL, MS",
+  "waterbody": "FANNEGUSHA CREEK NR SAND HILL, MS",
+  "state": "MS",
+  "latitude": 32.50555556,
+  "longitude": -89.8127778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FNGM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fannegusha Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fngm6",
+  "slug": "usgs-02484760",
+  "noaaForecastPath": "data/noaa-forecast/FNGM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

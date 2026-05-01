@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01466100",
+  "key": "01466100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466100",
+  "name": "Mount Misery Brook at Upton NJ",
+  "waterbody": "Mount Misery Brook at Upton NJ",
+  "state": "NJ",
+  "latitude": 39.92888889,
+  "longitude": -74.5311111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01466100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

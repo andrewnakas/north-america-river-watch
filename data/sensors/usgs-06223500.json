@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06223500",
+  "key": "06223500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06223500",
+  "name": "WILLOW CREEK NEAR CROWHEART, WY",
+  "waterbody": "WILLOW CREEK NEAR CROWHEART, WY",
+  "state": "WY",
+  "latitude": 43.28329036,
+  "longitude": -109.186244,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06223500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

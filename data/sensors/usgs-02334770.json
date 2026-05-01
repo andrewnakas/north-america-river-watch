@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02334770",
+  "key": "02334770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02334770",
+  "name": "IVY CREEK AT THOMPSON MILL ROAD, NEAR BUFORD, GA",
+  "waterbody": "IVY CREEK AT THOMPSON MILL ROAD, NEAR BUFORD, GA",
+  "state": "GA",
+  "latitude": 34.1108333,
+  "longitude": -83.9505556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IVYG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ivy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ivyg1",
+  "slug": "usgs-02334770",
+  "noaaForecastPath": "data/noaa-forecast/IVYG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

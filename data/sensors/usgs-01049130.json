@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01049130",
+  "key": "01049130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01049130",
+  "name": "JOHNSON BROOK AT SOUTH ALBION,ME",
+  "waterbody": "JOHNSON BROOK AT SOUTH ALBION,ME",
+  "state": "ME",
+  "latitude": 44.49818889,
+  "longitude": -69.4861306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01049130",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

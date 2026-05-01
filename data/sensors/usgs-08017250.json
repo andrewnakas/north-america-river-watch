@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08017250",
+  "key": "08017250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08017250",
+  "name": "W Caddo Ck at IH 30 nr Caddo Mills, TX",
+  "waterbody": "W Caddo Ck at IH 30 nr Caddo Mills, TX",
+  "state": "TX",
+  "latitude": 33.01427778,
+  "longitude": -96.2125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08017250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209722970",
+  "key": "0209722970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209722970",
+  "name": "SANDY CREEK AT CORNWALLIS RD NEAR DURHAM, NC",
+  "waterbody": "SANDY CREEK AT CORNWALLIS RD NEAR DURHAM, NC",
+  "state": "NC",
+  "latitude": 35.9832222,
+  "longitude": -78.9568056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandy Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scrn7",
+  "slug": "usgs-0209722970",
+  "noaaForecastPath": "data/noaa-forecast/SCRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

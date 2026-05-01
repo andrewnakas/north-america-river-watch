@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05200510",
+  "key": "05200510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05200510",
+  "name": "MISSISSIPPI RIVER NEAR BEMIDJI, MN",
+  "waterbody": "MISSISSIPPI RIVER NEAR BEMIDJI, MN",
+  "state": "MN",
+  "latitude": 47.4830885,
+  "longitude": -94.7283075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEMM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bemm5",
+  "slug": "usgs-05200510",
+  "noaaForecastPath": "data/noaa-forecast/BEMM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

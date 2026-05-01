@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08418010",
+  "key": "08418010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08418010",
+  "name": "PECOS RIVER NR BARSTOW, TX",
+  "waterbody": "PECOS RIVER NR BARSTOW, TX",
+  "state": "TX",
+  "latitude": 31.54707644,
+  "longitude": -103.496008,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08418010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

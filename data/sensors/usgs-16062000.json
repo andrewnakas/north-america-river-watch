@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16062000",
+  "key": "16062000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16062000",
+  "name": "Stable Storm Ditch nr Lihue, Kauai, HI",
+  "waterbody": "Stable Storm Ditch nr Lihue, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.06602778,
+  "longitude": -159.4432972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16062000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07067000",
+  "key": "07067000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07067000",
+  "name": "Current River at Van Buren, MO",
+  "waterbody": "Current River at Van Buren, MO",
+  "state": "MO",
+  "latitude": 36.99138889,
+  "longitude": -91.0135,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VNBM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Current River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vnbm7",
+  "slug": "usgs-07067000",
+  "noaaForecastPath": "data/noaa-forecast/VNBM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

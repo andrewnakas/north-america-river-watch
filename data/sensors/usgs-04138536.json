@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04138536",
+  "key": "04138536",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04138536",
+  "name": "AU GRES RIVER AT S MACKINAW RD NR AU GRES, MI",
+  "waterbody": "AU GRES RIVER AT S MACKINAW RD NR AU GRES, MI",
+  "state": "MI",
+  "latitude": 44.080225,
+  "longitude": -83.6858611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AGSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Au Gres River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/agsm4",
+  "slug": "usgs-04138536",
+  "noaaForecastPath": "data/noaa-forecast/AGSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

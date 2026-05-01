@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09413000",
+  "key": "09413000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09413000",
+  "name": "SANTA CLARA RIVER AT ST. GEORGE, UT",
+  "waterbody": "SANTA CLARA RIVER AT ST. GEORGE, UT",
+  "state": "UT",
+  "latitude": 37.07525867,
+  "longitude": -113.5930125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRSU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Clara River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srsu1",
+  "slug": "usgs-09413000",
+  "noaaForecastPath": "data/noaa-forecast/SRSU1.json",
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

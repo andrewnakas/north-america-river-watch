@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09379910",
+  "key": "09379910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09379910",
+  "name": "COLORADO RIVER BELOW GLEN CANYON DAM, AZ",
+  "waterbody": "COLORADO RIVER BELOW GLEN CANYON DAM, AZ",
+  "state": "AZ",
+  "latitude": 36.921655,
+  "longitude": -111.4834913,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09379910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

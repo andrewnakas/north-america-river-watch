@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208734210",
+  "key": "0208734210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208734210",
+  "name": "WALNUT CREEK AT TRAILWOOD DRIVE AT RALEIGH, NC",
+  "waterbody": "WALNUT CREEK AT TRAILWOOD DRIVE AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.76838889,
+  "longitude": -78.691,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trln7",
+  "slug": "usgs-0208734210",
+  "noaaForecastPath": "data/noaa-forecast/TRLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

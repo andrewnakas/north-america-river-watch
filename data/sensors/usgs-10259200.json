@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10259200",
+  "key": "10259200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10259200",
+  "name": "DEEP C NR PALM DESERT CA",
+  "waterbody": "DEEP C NR PALM DESERT CA",
+  "state": "CA",
+  "latitude": 33.63113647,
+  "longitude": -116.3922342,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep Creek (CA DEPC1)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/depc1",
+  "slug": "usgs-10259200",
+  "noaaForecastPath": "data/noaa-forecast/DEPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

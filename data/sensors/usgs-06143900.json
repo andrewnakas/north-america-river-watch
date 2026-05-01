@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06143900",
+  "key": "06143900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06143900",
+  "name": "Redrock Coulee near Chinook, MT",
+  "waterbody": "Redrock Coulee near Chinook, MT",
+  "state": "MT",
+  "latitude": 48.65396111,
+  "longitude": -109.53047778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06143900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

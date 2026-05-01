@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09528200",
+  "key": "09528200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09528200",
+  "name": "COCOPAH DIVERSION FROM WEST MAIN CANAL NR SOMERTON",
+  "waterbody": "COCOPAH DIVERSION FROM WEST MAIN CANAL NR SOMERTON",
+  "state": "AZ",
+  "latitude": 32.61833333,
+  "longitude": -114.7616667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09528200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04157005",
+  "key": "04157005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04157005",
+  "name": "SAGINAW RIVER AT HOLLAND AVENUE AT SAGINAW, MI",
+  "waterbody": "SAGINAW RIVER AT HOLLAND AVENUE AT SAGINAW, MI",
+  "state": "MI",
+  "latitude": 43.4219699,
+  "longitude": -83.951918,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saginaw River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sagm4",
+  "slug": "usgs-04157005",
+  "noaaForecastPath": "data/noaa-forecast/SAGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

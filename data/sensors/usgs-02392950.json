@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02392950",
+  "key": "02392950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02392950",
+  "name": "NOONDAY CREEK AT HAWKINS STORE RD, NR WOODSTOCK,GA",
+  "waterbody": "NOONDAY CREEK AT HAWKINS STORE RD, NR WOODSTOCK,GA",
+  "state": "GA",
+  "latitude": 34.0565833,
+  "longitude": -84.5362778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NDYG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Noonday Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ndyg1",
+  "slug": "usgs-02392950",
+  "noaaForecastPath": "data/noaa-forecast/NDYG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

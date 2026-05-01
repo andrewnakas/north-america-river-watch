@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15565447",
+  "key": "15565447",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15565447",
+  "name": "YUKON R AT PILOT STATION AK",
+  "waterbody": "YUKON R AT PILOT STATION AK",
+  "state": "AK",
+  "latitude": 61.934444,
+  "longitude": -162.880556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YPSA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yukon River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ypsa2",
+  "slug": "usgs-15565447",
+  "noaaForecastPath": "data/noaa-forecast/YPSA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04074950",
+  "key": "04074950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04074950",
+  "name": "WOLF RIVER AT LANGLADE, WI",
+  "waterbody": "WOLF RIVER AT LANGLADE, WI",
+  "state": "WI",
+  "latitude": 45.18997026,
+  "longitude": -88.7334398,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGLW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lglw3",
+  "slug": "usgs-04074950",
+  "noaaForecastPath": "data/noaa-forecast/LGLW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

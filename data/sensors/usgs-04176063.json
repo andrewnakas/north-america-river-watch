@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04176063",
+  "key": "04176063",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04176063",
+  "name": "NILE DITCH AT ARNOLD HWY NR JASPER, MI",
+  "waterbody": "NILE DITCH AT ARNOLD HWY NR JASPER, MI",
+  "state": "MI",
+  "latitude": 41.7776111,
+  "longitude": -84.03688889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04176063",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04093250",
+  "key": "04093250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04093250",
+  "name": "LITTLE CALUMET RIVER NEAR LAKE STATION, IN",
+  "waterbody": "LITTLE CALUMET RIVER NEAR LAKE STATION, IN",
+  "state": "IN",
+  "latitude": 41.5725,
+  "longitude": -87.2994444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAKI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/laki3",
+  "slug": "usgs-04093250",
+  "noaaForecastPath": "data/noaa-forecast/LAKI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

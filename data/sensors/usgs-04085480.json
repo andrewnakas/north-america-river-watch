@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04085480",
+  "key": "04085480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085480",
+  "name": "SHEBOYGAN RIVER NEAR FOND DU LAC, WI",
+  "waterbody": "SHEBOYGAN RIVER NEAR FOND DU LAC, WI",
+  "state": "WI",
+  "latitude": 43.8091588,
+  "longitude": -88.2512122,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04085480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

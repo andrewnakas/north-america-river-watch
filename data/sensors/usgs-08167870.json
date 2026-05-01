@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08167870",
+  "key": "08167870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08167870",
+  "name": "Bear Ck at FM 2722 nr Sattler, TX",
+  "waterbody": "Bear Ck at FM 2722 nr Sattler, TX",
+  "state": "TX",
+  "latitude": 29.8085,
+  "longitude": -98.2302806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/best2",
+  "slug": "usgs-08167870",
+  "noaaForecastPath": "data/noaa-forecast/BEST2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

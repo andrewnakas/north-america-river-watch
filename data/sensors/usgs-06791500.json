@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06791500",
+  "key": "06791500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06791500",
+  "name": "CEDAR RIVER NEAR SPALDING, NE",
+  "waterbody": "CEDAR RIVER NEAR SPALDING, NE",
+  "state": "NE",
+  "latitude": 41.71138889,
+  "longitude": -98.4469444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spdn1",
+  "slug": "usgs-06791500",
+  "noaaForecastPath": "data/noaa-forecast/SPDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06281400",
+  "key": "06281400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06281400",
+  "name": "DIAMOND CREEK NR MOUTH, NR CODY, WY",
+  "waterbody": "DIAMOND CREEK NR MOUTH, NR CODY, WY",
+  "state": "WY",
+  "latitude": 44.45574716,
+  "longitude": -109.1388055,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06281400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

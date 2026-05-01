@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03237250",
+  "key": "03237250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03237250",
+  "name": "KINNICONICK CREEK NEAR TANNERY, KY",
+  "waterbody": "KINNICONICK CREEK NEAR TANNERY, KY",
+  "state": "KY",
+  "latitude": 38.5434109,
+  "longitude": -83.2246249,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03237250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

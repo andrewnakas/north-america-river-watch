@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14151000",
+  "key": "14151000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14151000",
+  "name": "FALL CREEK BLW WINBERRY CREEK, NEAR FALL CREEK, OR",
+  "waterbody": "FALL CREEK BLW WINBERRY CREEK, NEAR FALL CREEK, OR",
+  "state": "OR",
+  "latitude": 43.94429299,
+  "longitude": -122.774794,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FALO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/falo3",
+  "slug": "usgs-14151000",
+  "noaaForecastPath": "data/noaa-forecast/FALO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

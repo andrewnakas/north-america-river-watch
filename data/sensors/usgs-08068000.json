@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068000",
+  "key": "08068000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068000",
+  "name": "W Fk San Jacinto Rv nr Conroe, TX",
+  "waterbody": "W Fk San Jacinto Rv nr Conroe, TX",
+  "state": "TX",
+  "latitude": 30.24465738,
+  "longitude": -95.4571616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork San Jacinto River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cfkt2",
+  "slug": "usgs-08068000",
+  "noaaForecastPath": "data/noaa-forecast/CFKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

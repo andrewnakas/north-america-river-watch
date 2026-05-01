@@ -1,0 +1,22 @@
+{
+  "id": "usgs:431748089433002",
+  "key": "431748089433002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "431748089433002",
+  "name": "WISCONSIN RIVER AT MP-4",
+  "waterbody": "WISCONSIN RIVER AT MP-4",
+  "state": "WI",
+  "latitude": 43.29666667,
+  "longitude": -89.725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdsw3",
+  "slug": "usgs-431748089433002",
+  "noaaForecastPath": "data/noaa-forecast/PDSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

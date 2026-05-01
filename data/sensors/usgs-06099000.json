@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06099000",
+  "key": "06099000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06099000",
+  "name": "Cut Bank Creek at Cut Bank MT",
+  "waterbody": "Cut Bank Creek at Cut Bank MT",
+  "state": "MT",
+  "latitude": 48.63340278,
+  "longitude": -112.3464806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBKM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cut Bank Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbkm8",
+  "slug": "usgs-06099000",
+  "noaaForecastPath": "data/noaa-forecast/CBKM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10301900",
+  "key": "10301900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301900",
+  "name": "CANAL 2 AT END OF LINED DITCH BLW SCHURZ, NV",
+  "waterbody": "CANAL 2 AT END OF LINED DITCH BLW SCHURZ, NV",
+  "state": "NV",
+  "latitude": 38.88880888,
+  "longitude": -118.7551427,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10301900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

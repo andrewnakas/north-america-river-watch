@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01396800",
+  "key": "01396800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01396800",
+  "name": "Spruce Run at Clinton NJ",
+  "waterbody": "Spruce Run at Clinton NJ",
+  "state": "NJ",
+  "latitude": 40.64,
+  "longitude": -74.91555556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRRN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spruce Run Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srrn4",
+  "slug": "usgs-01396800",
+  "noaaForecastPath": "data/noaa-forecast/SRRN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01165000",
+  "key": "01165000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01165000",
+  "name": "EAST BRANCH TULLY RIVER NEAR ATHOL, MA",
+  "waterbody": "EAST BRANCH TULLY RIVER NEAR ATHOL, MA",
+  "state": "MA",
+  "latitude": 42.64203054,
+  "longitude": -72.2250832,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01165000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

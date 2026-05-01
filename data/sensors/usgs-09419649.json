@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419649",
+  "key": "09419649",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419649",
+  "name": "NORTH LAS VEGAS DETENT BSN OUTLET AT CRAIG RD",
+  "waterbody": "NORTH LAS VEGAS DETENT BSN OUTLET AT CRAIG RD",
+  "state": "NV",
+  "latitude": 36.23969159,
+  "longitude": -115.111947,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419649",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

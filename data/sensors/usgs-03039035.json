@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03039035",
+  "key": "03039035",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03039035",
+  "name": "Allegheny River at Lock & Dam 6 at Clinton, PA",
+  "waterbody": "Allegheny River at Lock & Dam 6 at Clinton, PA",
+  "state": "PA",
+  "latitude": 40.71666667,
+  "longitude": -79.5811111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clnp1",
+  "slug": "usgs-03039035",
+  "noaaForecastPath": "data/noaa-forecast/CLNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

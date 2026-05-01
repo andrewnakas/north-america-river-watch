@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01382270",
+  "key": "01382270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01382270",
+  "name": "Pequannock River at NJ Route 23 at Newfoundland NJ",
+  "waterbody": "Pequannock River at NJ Route 23 at Newfoundland NJ",
+  "state": "NJ",
+  "latitude": 41.05305556,
+  "longitude": -74.45138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01382270",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

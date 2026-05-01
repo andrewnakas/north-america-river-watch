@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14142800",
+  "key": "14142800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14142800",
+  "name": "BEAVER CREEK AT TROUTDALE, OR",
+  "waterbody": "BEAVER CREEK AT TROUTDALE, OR",
+  "state": "OR",
+  "latitude": 45.5194444,
+  "longitude": -122.3892778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcto3",
+  "slug": "usgs-14142800",
+  "noaaForecastPath": "data/noaa-forecast/BCTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

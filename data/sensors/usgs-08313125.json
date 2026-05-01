@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313125",
+  "key": "08313125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313125",
+  "name": "SANDIA CANYON AT NM HWY 4 NR WHITE ROCK, NM",
+  "waterbody": "SANDIA CANYON AT NM HWY 4 NR WHITE ROCK, NM",
+  "state": "NM",
+  "latitude": 35.85891396,
+  "longitude": -106.2264148,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313125",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

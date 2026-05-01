@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03185000",
+  "key": "03185000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03185000",
+  "name": "PINEY CREEK AT RALEIGH, WV",
+  "waterbody": "PINEY CREEK AT RALEIGH, WV",
+  "state": "WV",
+  "latitude": 37.7606708,
+  "longitude": -81.1623212,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCRW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piney Creek (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcrw2",
+  "slug": "usgs-03185000",
+  "noaaForecastPath": "data/noaa-forecast/PCRW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

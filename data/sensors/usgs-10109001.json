@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10109001",
+  "key": "10109001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10109001",
+  "name": "COM F LOGAN R AB ST D AND CACHE HL CAN NR LOGAN UT",
+  "waterbody": "COM F LOGAN R AB ST D AND CACHE HL CAN NR LOGAN UT",
+  "state": "UT",
+  "latitude": 41.74437546,
+  "longitude": -111.7843867,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10109001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

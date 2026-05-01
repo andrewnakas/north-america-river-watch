@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05276005",
+  "key": "05276005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05276005",
+  "name": "NORTH FORK CROW RIVER ABOVE PAYNESVILLE, MN",
+  "waterbody": "NORTH FORK CROW RIVER ABOVE PAYNESVILLE, MN",
+  "state": "MN",
+  "latitude": 45.3771864,
+  "longitude": -94.7836175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05276005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

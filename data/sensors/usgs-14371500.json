@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14371500",
+  "key": "14371500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14371500",
+  "name": "GRAVE CREEK AT PEASE BRIDGE,NEAR PLACER,OREG.",
+  "waterbody": "GRAVE CREEK AT PEASE BRIDGE,NEAR PLACER,OREG.",
+  "state": "OR",
+  "latitude": 42.6415096,
+  "longitude": -123.2122809,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14371500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

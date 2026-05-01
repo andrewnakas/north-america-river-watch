@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07380500",
+  "key": "07380500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380500",
+  "name": "Bayou Lafourche at Napoleonville, LA",
+  "waterbody": "Bayou Lafourche at Napoleonville, LA",
+  "state": "LA",
+  "latitude": 29.9415,
+  "longitude": -91.0232222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07380500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

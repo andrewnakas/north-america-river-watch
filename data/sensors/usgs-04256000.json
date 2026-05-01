@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04256000",
+  "key": "04256000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04256000",
+  "name": "INDEPENDENCE RIVER AT DONNATTSBURG NY",
+  "waterbody": "INDEPENDENCE RIVER AT DONNATTSBURG NY",
+  "state": "NY",
+  "latitude": 43.74680556,
+  "longitude": -75.3334444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Independence River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnnn6",
+  "slug": "usgs-04256000",
+  "noaaForecastPath": "data/noaa-forecast/DNNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

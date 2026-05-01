@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07105600",
+  "key": "07105600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07105600",
+  "name": "SAND CREEK ABOVE MOUTH AT COLORADO SPRINGS, CO",
+  "waterbody": "SAND CREEK ABOVE MOUTH AT COLORADO SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.788333,
+  "longitude": -104.773333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07105600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

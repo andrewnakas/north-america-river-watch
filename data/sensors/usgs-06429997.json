@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06429997",
+  "key": "06429997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06429997",
+  "name": "MURRAY DITCH ABV HEADGATE AT WY-SD STATE LINE",
+  "waterbody": "MURRAY DITCH ABV HEADGATE AT WY-SD STATE LINE",
+  "state": "SD",
+  "latitude": 44.5763739,
+  "longitude": -104.0560453,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06429997",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

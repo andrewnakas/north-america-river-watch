@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07325850",
+  "key": "07325850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07325850",
+  "name": "Lake Creek near Eakly, OK",
+  "waterbody": "Lake Creek near Eakly, OK",
+  "state": "OK",
+  "latitude": 35.29088918,
+  "longitude": -98.5292287,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EKCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ekco2",
+  "slug": "usgs-07325850",
+  "noaaForecastPath": "data/noaa-forecast/EKCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

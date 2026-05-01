@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06403850",
+  "key": "06403850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06403850",
+  "name": "GRIZZLY BEAR CREEK NEAR KEYSTONE,SD",
+  "waterbody": "GRIZZLY BEAR CREEK NEAR KEYSTONE,SD",
+  "state": "SD",
+  "latitude": 43.8780433,
+  "longitude": -103.4376907,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNKS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grizzly Bear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnks2",
+  "slug": "usgs-06403850",
+  "noaaForecastPath": "data/noaa-forecast/GNKS2.json",
+  "generatedAt": "2026-05-01T12:10:11.377Z"
+}

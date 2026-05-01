@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10322800",
+  "key": "10322800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322800",
+  "name": "PINE CK AT MODARELLI MINE RD NR HAY RANCH, NV",
+  "waterbody": "PINE CK AT MODARELLI MINE RD NR HAY RANCH, NV",
+  "state": "NV",
+  "latitude": 40.38125,
+  "longitude": -116.1251389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCKN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pckn2",
+  "slug": "usgs-10322800",
+  "noaaForecastPath": "data/noaa-forecast/PCKN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

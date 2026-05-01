@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02467000",
+  "key": "02467000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02467000",
+  "name": "TOMBIGBEE R AT DEMOPOLIS L&D NEAR COATOPA, AL.",
+  "waterbody": "TOMBIGBEE R AT DEMOPOLIS L&D NEAR COATOPA, AL.",
+  "state": "AL",
+  "latitude": 32.51958077,
+  "longitude": -87.8783476,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02467000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

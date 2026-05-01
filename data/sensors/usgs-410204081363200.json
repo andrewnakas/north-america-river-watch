@@ -1,0 +1,22 @@
+{
+  "id": "usgs:410204081363200",
+  "key": "410204081363200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "410204081363200",
+  "name": "Wolf Creek at Barber Road near Barberton OH",
+  "waterbody": "Wolf Creek at Barber Road near Barberton OH",
+  "state": "OH",
+  "latitude": 41.03444444,
+  "longitude": -81.60888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWFO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek (Summit)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwfo1",
+  "slug": "usgs-410204081363200",
+  "noaaForecastPath": "data/noaa-forecast/BWFO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

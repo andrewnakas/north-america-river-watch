@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251330",
+  "key": "10251330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251330",
+  "name": "AMARGOSA RV ABV CHINA RANCH WASH NR TECOPA, CA",
+  "waterbody": "AMARGOSA RV ABV CHINA RANCH WASH NR TECOPA, CA",
+  "state": "CA",
+  "latitude": 35.79052778,
+  "longitude": -116.2076389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

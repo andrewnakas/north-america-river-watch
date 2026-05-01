@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11242400",
+  "key": "11242400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11242400",
+  "name": "NF WILLOW C NR SUGAR PINE CA",
+  "waterbody": "NF WILLOW C NR SUGAR PINE CA",
+  "state": "CA",
+  "latitude": 37.3977195,
+  "longitude": -119.5662563,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11242400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

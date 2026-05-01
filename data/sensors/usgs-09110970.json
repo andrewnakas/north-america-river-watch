@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09110970",
+  "key": "09110970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09110970",
+  "name": "COAL CREEK ABOVE ELK CREEK NEAR CRESTED BUTTE, CO",
+  "waterbody": "COAL CREEK ABOVE ELK CREEK NEAR CRESTED BUTTE, CO",
+  "state": "CO",
+  "latitude": 38.85566667,
+  "longitude": -107.0729167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09110970",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

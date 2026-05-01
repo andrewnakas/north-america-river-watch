@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07241506",
+  "key": "07241506",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07241506",
+  "name": "Crutcho Creek at SE 29th st. at Boone Township, OK",
+  "waterbody": "Crutcho Creek at SE 29th st. at Boone Township, OK",
+  "state": "OK",
+  "latitude": 35.435025,
+  "longitude": -97.417222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MWCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crutcho Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mwco2",
+  "slug": "usgs-07241506",
+  "noaaForecastPath": "data/noaa-forecast/MWCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

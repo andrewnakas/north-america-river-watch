@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06741510",
+  "key": "06741510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06741510",
+  "name": "BIG THOMPSON RIVER AT LOVELAND, CO.",
+  "waterbody": "BIG THOMPSON RIVER AT LOVELAND, CO.",
+  "state": "CO",
+  "latitude": 40.378739,
+  "longitude": -105.060817,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Thompson River (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btlc2",
+  "slug": "usgs-06741510",
+  "noaaForecastPath": "data/noaa-forecast/BTLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

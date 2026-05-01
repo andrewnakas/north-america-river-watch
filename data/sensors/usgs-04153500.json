@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04153500",
+  "key": "04153500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04153500",
+  "name": "SALT RIVER NEAR NORTH BRADLEY, MI",
+  "waterbody": "SALT RIVER NEAR NORTH BRADLEY, MI",
+  "state": "MI",
+  "latitude": 43.70305707,
+  "longitude": -84.47101865,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbrm4",
+  "slug": "usgs-04153500",
+  "noaaForecastPath": "data/noaa-forecast/NBRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

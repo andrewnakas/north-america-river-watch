@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01396500",
+  "key": "01396500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01396500",
+  "name": "South Branch Raritan River near High Bridge NJ",
+  "waterbody": "South Branch Raritan River near High Bridge NJ",
+  "state": "NJ",
+  "latitude": 40.67777778,
+  "longitude": -74.8791667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBRN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Raritan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbrn4",
+  "slug": "usgs-01396500",
+  "noaaForecastPath": "data/noaa-forecast/HBRN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

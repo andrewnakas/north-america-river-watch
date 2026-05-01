@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07348000",
+  "key": "07348000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07348000",
+  "name": "Twelvemile Bayou near Dixie, LA",
+  "waterbody": "Twelvemile Bayou near Dixie, LA",
+  "state": "LA",
+  "latitude": 32.6459805,
+  "longitude": -93.8779585,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07348000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

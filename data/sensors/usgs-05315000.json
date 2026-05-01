@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05315000",
+  "key": "05315000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05315000",
+  "name": "REDWOOD RIVER NEAR MARSHALL, MN",
+  "waterbody": "REDWOOD RIVER NEAR MARSHALL, MN",
+  "state": "MN",
+  "latitude": 44.430156,
+  "longitude": -95.82945,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSHM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mshm5",
+  "slug": "usgs-05315000",
+  "noaaForecastPath": "data/noaa-forecast/MSHM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

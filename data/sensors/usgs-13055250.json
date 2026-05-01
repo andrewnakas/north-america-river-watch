@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13055250",
+  "key": "13055250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13055250",
+  "name": "NF TETON RIVER NR SUGAR CITY ID",
+  "waterbody": "NF TETON RIVER NR SUGAR CITY ID",
+  "state": "ID",
+  "latitude": 43.8875,
+  "longitude": -111.7577778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFTI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Teton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfti1",
+  "slug": "usgs-13055250",
+  "noaaForecastPath": "data/noaa-forecast/NFTI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

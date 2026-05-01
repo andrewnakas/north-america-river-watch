@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05561500",
+  "key": "05561500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05561500",
+  "name": "FONDULAC CREEK NEAR EAST PEORIA, IL",
+  "waterbody": "FONDULAC CREEK NEAR EAST PEORIA, IL",
+  "state": "IL",
+  "latitude": 40.6770833,
+  "longitude": -89.53125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FDCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fondulac Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fdci2",
+  "slug": "usgs-05561500",
+  "noaaForecastPath": "data/noaa-forecast/FDCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

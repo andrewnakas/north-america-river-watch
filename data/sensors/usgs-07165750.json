@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07165750",
+  "key": "07165750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07165750",
+  "name": "VERDIGRIS R NR VIRGIL, KS",
+  "waterbody": "VERDIGRIS R NR VIRGIL, KS",
+  "state": "KS",
+  "latitude": 37.98237778,
+  "longitude": -96.0230028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07165750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

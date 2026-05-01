@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03121500",
+  "key": "03121500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03121500",
+  "name": "Indian Fork bl Atwood Dam near New Cumberland OH",
+  "waterbody": "Indian Fork bl Atwood Dam near New Cumberland OH",
+  "state": "OH",
+  "latitude": 40.52534188,
+  "longitude": -81.2881642,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atlo1",
+  "slug": "usgs-03121500",
+  "noaaForecastPath": "data/noaa-forecast/ATLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

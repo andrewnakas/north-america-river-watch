@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14157500",
+  "key": "14157500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14157500",
+  "name": "COAST FORK WILLAMETTE RIVER NEAR GOSHEN, OR",
+  "waterbody": "COAST FORK WILLAMETTE RIVER NEAR GOSHEN, OR",
+  "state": "OR",
+  "latitude": 43.98040324,
+  "longitude": -122.96647,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GOSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coast Fork Willamette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/goso3",
+  "slug": "usgs-14157500",
+  "noaaForecastPath": "data/noaa-forecast/GOSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

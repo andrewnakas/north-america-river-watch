@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09400000",
+  "key": "09400000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09400000",
+  "name": "LITTLE COLORADO RIVER NEAR WINSLOW ARIZ",
+  "waterbody": "LITTLE COLORADO RIVER NEAR WINSLOW ARIZ",
+  "state": "AZ",
+  "latitude": 35.0027994,
+  "longitude": -110.6506887,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09400000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

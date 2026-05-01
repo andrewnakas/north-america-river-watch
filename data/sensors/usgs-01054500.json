@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01054500",
+  "key": "01054500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01054500",
+  "name": "Androscoggin River at Rumford, Maine",
+  "waterbody": "Androscoggin River at Rumford, Maine",
+  "state": "ME",
+  "latitude": 44.5519444,
+  "longitude": -70.5441667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RMFM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Androscoggin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rmfm1",
+  "slug": "usgs-01054500",
+  "noaaForecastPath": "data/noaa-forecast/RMFM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

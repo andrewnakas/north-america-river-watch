@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02153525",
+  "key": "02153525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02153525",
+  "name": "BROAD RIVER BELOW CHEROKEE FALLS,SC",
+  "waterbody": "BROAD RIVER BELOW CHEROKEE FALLS,SC",
+  "state": "SC",
+  "latitude": 35.05194444,
+  "longitude": -81.5258333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02153525",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

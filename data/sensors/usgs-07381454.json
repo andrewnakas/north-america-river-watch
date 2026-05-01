@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07381454",
+  "key": "07381454",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381454",
+  "name": "Belle River at Hwy 70 near Pierre Part, LA",
+  "waterbody": "Belle River at Hwy 70 near Pierre Part, LA",
+  "state": "LA",
+  "latitude": 29.9091111,
+  "longitude": -91.2158333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPAL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Belle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ppal1",
+  "slug": "usgs-07381454",
+  "noaaForecastPath": "data/noaa-forecast/PPAL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

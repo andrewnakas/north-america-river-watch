@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03343400",
+  "key": "03343400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03343400",
+  "name": "EMBARRAS RIVER NEAR CAMARGO, IL",
+  "waterbody": "EMBARRAS RIVER NEAR CAMARGO, IL",
+  "state": "IL",
+  "latitude": 39.79163889,
+  "longitude": -88.1857778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Embarras River (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmgi2",
+  "slug": "usgs-03343400",
+  "noaaForecastPath": "data/noaa-forecast/CMGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

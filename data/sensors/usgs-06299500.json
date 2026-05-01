@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06299500",
+  "key": "06299500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06299500",
+  "name": "WOLF CREEK AT WOLF, WY",
+  "waterbody": "WOLF CREEK AT WOLF, WY",
+  "state": "WY",
+  "latitude": 44.77242459,
+  "longitude": -107.2343027,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLFW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlfw4",
+  "slug": "usgs-06299500",
+  "noaaForecastPath": "data/noaa-forecast/WLFW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

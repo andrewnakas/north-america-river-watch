@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01396001",
+  "key": "01396001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01396001",
+  "name": "Robinsons Branch at Maple Ave at Rahway NJ",
+  "waterbody": "Robinsons Branch at Maple Ave at Rahway NJ",
+  "state": "NJ",
+  "latitude": 40.6072222,
+  "longitude": -74.2941667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01396001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

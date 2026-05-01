@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07052152",
+  "key": "07052152",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07052152",
+  "name": "Wilson Creek near Brookline, MO",
+  "waterbody": "Wilson Creek near Brookline, MO",
+  "state": "MO",
+  "latitude": 37.14713889,
+  "longitude": -93.3754722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCMM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wilson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcmm7",
+  "slug": "usgs-07052152",
+  "noaaForecastPath": "data/noaa-forecast/WCMM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

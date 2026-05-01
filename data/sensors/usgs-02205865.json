@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02205865",
+  "key": "02205865",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02205865",
+  "name": "SWEETWATER CREEK AT CLUB DRIVE NEAR LILBURN, GA",
+  "waterbody": "SWEETWATER CREEK AT CLUB DRIVE NEAR LILBURN, GA",
+  "state": "GA",
+  "latitude": 33.9411111,
+  "longitude": -84.1077778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STWG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek (E ATL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stwg1",
+  "slug": "usgs-02205865",
+  "noaaForecastPath": "data/noaa-forecast/STWG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

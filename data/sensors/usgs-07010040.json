@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010040",
+  "key": "07010040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010040",
+  "name": "Denny Creek at Ladue, MO",
+  "waterbody": "Denny Creek at Ladue, MO",
+  "state": "MO",
+  "latitude": 38.64305278,
+  "longitude": -90.4034639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

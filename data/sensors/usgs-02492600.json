@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02492600",
+  "key": "02492600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02492600",
+  "name": "Pearl River at Pearl River, LA",
+  "waterbody": "Pearl River at Pearl River, LA",
+  "state": "LA",
+  "latitude": 30.385193,
+  "longitude": -89.7367304,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PERL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/perl1",
+  "slug": "usgs-02492600",
+  "noaaForecastPath": "data/noaa-forecast/PERL1.json",
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

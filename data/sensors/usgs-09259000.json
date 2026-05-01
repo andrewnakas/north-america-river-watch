@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09259000",
+  "key": "09259000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09259000",
+  "name": "MUDDY CREEK NEAR BAGGS, WY",
+  "waterbody": "MUDDY CREEK NEAR BAGGS, WY",
+  "state": "WY",
+  "latitude": 41.0469088,
+  "longitude": -107.6509026,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsbw4",
+  "slug": "usgs-09259000",
+  "noaaForecastPath": "data/noaa-forecast/LSBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

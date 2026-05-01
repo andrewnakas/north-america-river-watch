@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15291500",
+  "key": "15291500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15291500",
+  "name": "SUSITNA R NR CANTWELL AK",
+  "waterbody": "SUSITNA R NR CANTWELL AK",
+  "state": "AK",
+  "latitude": 62.6981532,
+  "longitude": -147.5472168,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15291500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

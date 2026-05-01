@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02335580",
+  "key": "02335580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335580",
+  "name": "BIG CREEK AT GA 9, NEAR CUMMING, GA",
+  "waterbody": "BIG CREEK AT GA 9, NEAR CUMMING, GA",
+  "state": "GA",
+  "latitude": 34.15591667,
+  "longitude": -84.2187222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmgg1",
+  "slug": "usgs-02335580",
+  "noaaForecastPath": "data/noaa-forecast/CMGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

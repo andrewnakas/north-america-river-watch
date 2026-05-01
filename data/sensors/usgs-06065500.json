@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06065500",
+  "key": "06065500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06065500",
+  "name": "Missouri River bl Hauser Dam near Helena MT",
+  "waterbody": "Missouri River bl Hauser Dam near Helena MT",
+  "state": "MT",
+  "latitude": 46.76619167,
+  "longitude": -111.8887944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HASM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hasm8",
+  "slug": "usgs-06065500",
+  "noaaForecastPath": "data/noaa-forecast/HASM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

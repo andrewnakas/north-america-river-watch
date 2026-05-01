@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15275100",
+  "key": "15275100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15275100",
+  "name": "CHESTER C AT ARCTIC BOULEVARD AT ANCHORAGE AK",
+  "waterbody": "CHESTER C AT ARCTIC BOULEVARD AT ANCHORAGE AK",
+  "state": "AK",
+  "latitude": 61.205278,
+  "longitude": -149.895278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chester Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chra2",
+  "slug": "usgs-15275100",
+  "noaaForecastPath": "data/noaa-forecast/CHRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

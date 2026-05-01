@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05133500",
+  "key": "05133500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05133500",
+  "name": "RAINY RIVER AT MANITOU RAPIDS, MN",
+  "waterbody": "RAINY RIVER AT MANITOU RAPIDS, MN",
+  "state": "MN",
+  "latitude": 48.63442818,
+  "longitude": -93.91331106,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNUM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rainy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnum5",
+  "slug": "usgs-05133500",
+  "noaaForecastPath": "data/noaa-forecast/MNUM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

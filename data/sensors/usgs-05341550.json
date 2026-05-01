@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05341550",
+  "key": "05341550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05341550",
+  "name": "ST. CROIX RIVER AT STILLWATER, MN",
+  "waterbody": "ST. CROIX RIVER AT STILLWATER, MN",
+  "state": "MN",
+  "latitude": 45.056725,
+  "longitude": -92.802469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STLM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Croix River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stlm5",
+  "slug": "usgs-05341550",
+  "noaaForecastPath": "data/noaa-forecast/STLM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06467600",
+  "key": "06467600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06467600",
+  "name": "JAMES RIVER NEAR MANFRED, ND",
+  "waterbody": "JAMES RIVER NEAR MANFRED, ND",
+  "state": "ND",
+  "latitude": 47.646056,
+  "longitude": -99.829528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06467600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

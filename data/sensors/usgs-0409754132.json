@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0409754132",
+  "key": "0409754132",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0409754132",
+  "name": "SPRING CREEK AT RAMBADT ROAD NEAR CENTREVILLE, MI",
+  "waterbody": "SPRING CREEK AT RAMBADT ROAD NEAR CENTREVILLE, MI",
+  "state": "MI",
+  "latitude": 41.9431051,
+  "longitude": -85.4880439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTVM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctvm4",
+  "slug": "usgs-0409754132",
+  "noaaForecastPath": "data/noaa-forecast/CTVM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

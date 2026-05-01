@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05593020",
+  "key": "05593020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05593020",
+  "name": "KASKASKIA RIVER NEAR POSEY, IL",
+  "waterbody": "KASKASKIA RIVER NEAR POSEY, IL",
+  "state": "IL",
+  "latitude": 38.53638889,
+  "longitude": -89.3816667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05593020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

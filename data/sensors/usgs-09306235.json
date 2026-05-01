@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09306235",
+  "key": "09306235",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09306235",
+  "name": "CORRAL GULCH BELOW WATER GULCH, NR RANGELY, CO.",
+  "waterbody": "CORRAL GULCH BELOW WATER GULCH, NR RANGELY, CO.",
+  "state": "CO",
+  "latitude": 39.90608459,
+  "longitude": -108.5328739,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09306235",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

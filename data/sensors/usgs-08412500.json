@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08412500",
+  "key": "08412500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08412500",
+  "name": "Pecos Rv nr Orla, TX",
+  "waterbody": "Pecos Rv nr Orla, TX",
+  "state": "TX",
+  "latitude": 31.87264499,
+  "longitude": -103.8315949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 6 miles NE of Orla",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orlt2",
+  "slug": "usgs-08412500",
+  "noaaForecastPath": "data/noaa-forecast/ORLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

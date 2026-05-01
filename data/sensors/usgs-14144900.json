@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14144900",
+  "key": "14144900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14144900",
+  "name": "HILLS CR AB HILLS CR RES, NR OAKRIDGE, OR",
+  "waterbody": "HILLS CR AB HILLS CR RES, NR OAKRIDGE, OR",
+  "state": "OR",
+  "latitude": 43.6804006,
+  "longitude": -122.3705999,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14144900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

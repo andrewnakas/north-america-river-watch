@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50027250",
+  "key": "50027250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50027250",
+  "name": "RIO GDE. DE ARECIBO BLW LAGO DOS BOCAS NR FLORIDA",
+  "waterbody": "RIO GDE. DE ARECIBO BLW LAGO DOS BOCAS NR FLORIDA",
+  "state": "PR",
+  "latitude": 18.34522789,
+  "longitude": -66.6668406,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARGP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lago Dos Bocas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/argp4",
+  "slug": "usgs-50027250",
+  "noaaForecastPath": "data/noaa-forecast/ARGP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

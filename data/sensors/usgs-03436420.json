@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03436420",
+  "key": "03436420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03436420",
+  "name": "PINEY FORK AT FORT CAMPBELL, KY-TN",
+  "waterbody": "PINEY FORK AT FORT CAMPBELL, KY-TN",
+  "state": "TN",
+  "latitude": 36.61643719,
+  "longitude": -87.51417869,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03436420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

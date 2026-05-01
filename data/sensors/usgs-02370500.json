@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02370500",
+  "key": "02370500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02370500",
+  "name": "BIG COLDWATER CREEK NR MILTON, FLA.",
+  "waterbody": "BIG COLDWATER CREEK NR MILTON, FLA.",
+  "state": "FL",
+  "latitude": 30.70852375,
+  "longitude": -86.972186,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Coldwater Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlnf1",
+  "slug": "usgs-02370500",
+  "noaaForecastPath": "data/noaa-forecast/MLNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

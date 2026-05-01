@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04086305",
+  "key": "04086305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086305",
+  "name": "BATAVIA CREEK AT STATE HIGHWAY 28 AT BATAVIA, WI",
+  "waterbody": "BATAVIA CREEK AT STATE HIGHWAY 28 AT BATAVIA, WI",
+  "state": "WI",
+  "latitude": 43.59055226,
+  "longitude": -88.0506495,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04086305",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

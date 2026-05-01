@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13275300",
+  "key": "13275300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13275300",
+  "name": "POWDER RIVER NR SUMPTER OR",
+  "waterbody": "POWDER RIVER NR SUMPTER OR",
+  "state": "OR",
+  "latitude": 44.67210015,
+  "longitude": -117.995495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Powder River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phlo3",
+  "slug": "usgs-13275300",
+  "noaaForecastPath": "data/noaa-forecast/PHLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329882",
+  "key": "08329882",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329882",
+  "name": "PINO ARROYO AT JEFFERSON ST. AT ALBUQUERQUE, NM",
+  "waterbody": "PINO ARROYO AT JEFFERSON ST. AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.15944444,
+  "longitude": -106.5975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329882",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

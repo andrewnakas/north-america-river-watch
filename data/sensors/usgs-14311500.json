@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14311500",
+  "key": "14311500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14311500",
+  "name": "LOOKINGGLASS CREEK AT BROCKWAY, OR",
+  "waterbody": "LOOKINGGLASS CREEK AT BROCKWAY, OR",
+  "state": "OR",
+  "latitude": 43.13039347,
+  "longitude": -123.4650748,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14311500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

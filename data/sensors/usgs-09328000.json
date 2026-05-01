@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09328000",
+  "key": "09328000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09328000",
+  "name": "SAN RAFAEL RIVER NEAR CASTLE DALE, UTAH",
+  "waterbody": "SAN RAFAEL RIVER NEAR CASTLE DALE, UTAH",
+  "state": "UT",
+  "latitude": 39.1382333,
+  "longitude": -110.89065,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09328000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

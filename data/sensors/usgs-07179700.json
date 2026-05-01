@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07179700",
+  "key": "07179700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179700",
+  "name": "ROCK C NR DUNLAP, KS",
+  "waterbody": "ROCK C NR DUNLAP, KS",
+  "state": "KS",
+  "latitude": 38.61055556,
+  "longitude": -96.3702778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07179700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

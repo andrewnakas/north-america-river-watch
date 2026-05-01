@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09038500",
+  "key": "09038500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09038500",
+  "name": "WILLIAMS FORK BELOW WILLIAMS FORK RESERVOIR, CO",
+  "waterbody": "WILLIAMS FORK BELOW WILLIAMS FORK RESERVOIR, CO",
+  "state": "CO",
+  "latitude": 40.03592778,
+  "longitude": -106.2050139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williams Fork (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfrc2",
+  "slug": "usgs-09038500",
+  "noaaForecastPath": "data/noaa-forecast/WFRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

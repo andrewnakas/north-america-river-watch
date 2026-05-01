@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02458148",
+  "key": "02458148",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02458148",
+  "name": "VILLAGE CREEK AT 86TH ST NORTH AT ROEBUCK, AL.",
+  "waterbody": "VILLAGE CREEK AT 86TH ST NORTH AT ROEBUCK, AL.",
+  "state": "AL",
+  "latitude": 33.5770483,
+  "longitude": -86.7188778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VGRA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Village Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vgra1",
+  "slug": "usgs-02458148",
+  "noaaForecastPath": "data/noaa-forecast/VGRA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

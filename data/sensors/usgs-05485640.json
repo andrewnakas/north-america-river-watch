@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05485640",
+  "key": "05485640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05485640",
+  "name": "Fourmile Creek at Des Moines, IA",
+  "waterbody": "Fourmile Creek at Des Moines, IA",
+  "state": "IA",
+  "latitude": 41.61380556,
+  "longitude": -93.5455278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DFMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fourmile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dfmi4",
+  "slug": "usgs-05485640",
+  "noaaForecastPath": "data/noaa-forecast/DFMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

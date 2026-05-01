@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06164615",
+  "key": "06164615",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06164615",
+  "name": "Little Warm C at Reservation Bndry nr Zortman MT",
+  "waterbody": "Little Warm C at Reservation Bndry nr Zortman MT",
+  "state": "MT",
+  "latitude": 47.9730333,
+  "longitude": -108.3628667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06164615",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

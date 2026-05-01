@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01029200",
+  "key": "01029200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01029200",
+  "name": "Seboeis River near Shin Pond, Maine",
+  "waterbody": "Seboeis River near Shin Pond, Maine",
+  "state": "ME",
+  "latitude": 46.14305556,
+  "longitude": -68.6336111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBSM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seboeis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbsm1",
+  "slug": "usgs-01029200",
+  "noaaForecastPath": "data/noaa-forecast/SBSM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

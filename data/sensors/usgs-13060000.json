@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13060000",
+  "key": "13060000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13060000",
+  "name": "SNAKE RIVER NR SHELLEY ID",
+  "waterbody": "SNAKE RIVER NR SHELLEY ID",
+  "state": "ID",
+  "latitude": 43.41305556,
+  "longitude": -112.135,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHYI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shyi1",
+  "slug": "usgs-13060000",
+  "noaaForecastPath": "data/noaa-forecast/SHYI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

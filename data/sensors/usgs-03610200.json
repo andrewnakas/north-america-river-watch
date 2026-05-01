@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03610200",
+  "key": "03610200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03610200",
+  "name": "CLARKS RIVER AT ALMO, KY",
+  "waterbody": "CLARKS RIVER AT ALMO, KY",
+  "state": "KY",
+  "latitude": 36.6917217,
+  "longitude": -88.273647,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMOK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clarks River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amok2",
+  "slug": "usgs-03610200",
+  "noaaForecastPath": "data/noaa-forecast/AMOK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

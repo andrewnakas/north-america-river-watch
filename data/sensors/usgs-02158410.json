@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02158410",
+  "key": "02158410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02158410",
+  "name": "SOUTH TYGER RIVER BELOW LYMAN, SC",
+  "waterbody": "SOUTH TYGER RIVER BELOW LYMAN, SC",
+  "state": "SC",
+  "latitude": 34.9037308,
+  "longitude": -82.118164,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02158410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

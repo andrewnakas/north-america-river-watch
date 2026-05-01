@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01388500",
+  "key": "01388500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01388500",
+  "name": "Pompton River at Pompton Plains NJ",
+  "waterbody": "Pompton River at Pompton Plains NJ",
+  "state": "NJ",
+  "latitude": 40.9697222,
+  "longitude": -74.2819444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPPN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pompton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pppn4",
+  "slug": "usgs-01388500",
+  "noaaForecastPath": "data/noaa-forecast/PPPN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

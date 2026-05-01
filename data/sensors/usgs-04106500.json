@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04106500",
+  "key": "04106500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04106500",
+  "name": "PORTAGE CREEK AT KALAMAZOO, MI",
+  "waterbody": "PORTAGE CREEK AT KALAMAZOO, MI",
+  "state": "MI",
+  "latitude": 42.2742075,
+  "longitude": -85.5763942,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCKM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portage Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pckm4",
+  "slug": "usgs-04106500",
+  "noaaForecastPath": "data/noaa-forecast/PCKM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104430",
+  "key": "01104430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104430",
+  "name": "HOBBS BK BELOW CAMBRIDGE RES NR KENDALL GREEN, MA",
+  "waterbody": "HOBBS BK BELOW CAMBRIDGE RES NR KENDALL GREEN, MA",
+  "state": "MA",
+  "latitude": 42.3981512,
+  "longitude": -71.2733903,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08474115",
+  "key": "08474115",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08474115",
+  "name": "Resaca del Rancho Viejo, Brownsville, TX",
+  "waterbody": "Resaca del Rancho Viejo, Brownsville, TX",
+  "state": "TX",
+  "latitude": 25.95733333,
+  "longitude": -97.4215,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08474115",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

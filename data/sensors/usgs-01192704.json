@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01192704",
+  "key": "01192704",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01192704",
+  "name": "MATTABESSET RIVER AT ROUTE 372 AT EAST BERLIN",
+  "waterbody": "MATTABESSET RIVER AT ROUTE 372 AT EAST BERLIN",
+  "state": "CT",
+  "latitude": 41.60815451,
+  "longitude": -72.71509531,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01192704",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

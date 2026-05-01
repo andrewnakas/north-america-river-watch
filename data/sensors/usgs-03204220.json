@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03204220",
+  "key": "03204220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03204220",
+  "name": "Mud River at Mud, WV",
+  "waterbody": "Mud River at Mud, WV",
+  "state": "WV",
+  "latitude": 38.09444444,
+  "longitude": -81.9783333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03204220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

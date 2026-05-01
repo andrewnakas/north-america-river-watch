@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06354480",
+  "key": "06354480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06354480",
+  "name": "SOUTH BRANCH BEAVER CREEK NEAR ZEELAND, ND",
+  "waterbody": "SOUTH BRANCH BEAVER CREEK NEAR ZEELAND, ND",
+  "state": "ND",
+  "latitude": 46.11388889,
+  "longitude": -99.8369444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06354480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

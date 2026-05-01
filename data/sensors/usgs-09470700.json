@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09470700",
+  "key": "09470700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09470700",
+  "name": "BANNING CREEK NEAR BISBEE, AZ",
+  "waterbody": "BANNING CREEK NEAR BISBEE, AZ",
+  "state": "AZ",
+  "latitude": 31.50345,
+  "longitude": -110.0056694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09470700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

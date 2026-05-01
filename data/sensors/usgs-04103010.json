@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04103010",
+  "key": "04103010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04103010",
+  "name": "KALAMAZOO RIVER NEAR MARENGO, MI",
+  "waterbody": "KALAMAZOO RIVER NEAR MARENGO, MI",
+  "state": "MI",
+  "latitude": 42.26170826,
+  "longitude": -84.8558115,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04103010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

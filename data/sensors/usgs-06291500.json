@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06291500",
+  "key": "06291500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06291500",
+  "name": "Lodge Grass Cr ab Willow Cr diversion, nr Wyola MT",
+  "waterbody": "Lodge Grass Cr ab Willow Cr diversion, nr Wyola MT",
+  "state": "MT",
+  "latitude": 45.12775,
+  "longitude": -107.601917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lodge Grass Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgcm8",
+  "slug": "usgs-06291500",
+  "noaaForecastPath": "data/noaa-forecast/LGCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

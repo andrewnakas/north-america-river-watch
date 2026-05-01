@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11532500",
+  "key": "11532500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11532500",
+  "name": "SMITH R NR CRESCENT CITY CA",
+  "waterbody": "SMITH R NR CRESCENT CITY CA",
+  "state": "CA",
+  "latitude": 41.7914769,
+  "longitude": -124.0761515,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CREC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crec1",
+  "slug": "usgs-11532500",
+  "noaaForecastPath": "data/noaa-forecast/CREC1.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

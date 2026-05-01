@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13094000",
+  "key": "13094000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13094000",
+  "name": "SNAKE RIVER NR BUHL ID",
+  "waterbody": "SNAKE RIVER NR BUHL ID",
+  "state": "ID",
+  "latitude": 42.6658333,
+  "longitude": -114.7122222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUHI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/buhi1",
+  "slug": "usgs-13094000",
+  "noaaForecastPath": "data/noaa-forecast/BUHI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

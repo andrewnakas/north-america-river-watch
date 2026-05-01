@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12121815",
+  "key": "12121815",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12121815",
+  "name": "PINE LAKE CREEK AT B.N. RR NEAR ISSAQUAH, WA",
+  "waterbody": "PINE LAKE CREEK AT B.N. RR NEAR ISSAQUAH, WA",
+  "state": "WA",
+  "latitude": 47.60204457,
+  "longitude": -122.0792879,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12121815",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

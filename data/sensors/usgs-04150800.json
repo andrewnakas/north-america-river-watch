@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04150800",
+  "key": "04150800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04150800",
+  "name": "CASS RIVER AT WAHJAMEGA, MI",
+  "waterbody": "CASS RIVER AT WAHJAMEGA, MI",
+  "state": "MI",
+  "latitude": 43.45057745,
+  "longitude": -83.4413428,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAHM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cass River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wahm4",
+  "slug": "usgs-04150800",
+  "noaaForecastPath": "data/noaa-forecast/WAHM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

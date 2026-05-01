@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03036150",
+  "key": "03036150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03036150",
+  "name": "Allegheny River at Lock & Dam 8 nr Templeton, PA",
+  "waterbody": "Allegheny River at Lock & Dam 8 nr Templeton, PA",
+  "state": "PA",
+  "latitude": 40.89444444,
+  "longitude": -79.47638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mosp1",
+  "slug": "usgs-03036150",
+  "noaaForecastPath": "data/noaa-forecast/MOSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

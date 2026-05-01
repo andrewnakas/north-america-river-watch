@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08456310",
+  "key": "08456310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08456310",
+  "name": "Las Moras Spgs Dws of pool at Brackettville,TX",
+  "waterbody": "Las Moras Spgs Dws of pool at Brackettville,TX",
+  "state": "TX",
+  "latitude": 29.30791667,
+  "longitude": -100.4192222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Las Moras Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lspt2",
+  "slug": "usgs-08456310",
+  "noaaForecastPath": "data/noaa-forecast/LSPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

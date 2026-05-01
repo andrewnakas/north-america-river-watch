@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01516350",
+  "key": "01516350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01516350",
+  "name": "Tioga River near Mansfield, PA",
+  "waterbody": "Tioga River near Mansfield, PA",
+  "state": "PA",
+  "latitude": 41.7970183,
+  "longitude": -77.0802457,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tioga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfdp1",
+  "slug": "usgs-01516350",
+  "noaaForecastPath": "data/noaa-forecast/MFDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

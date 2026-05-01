@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05082625",
+  "key": "05082625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05082625",
+  "name": "TURTLE RIVER AT TURTLE R STATE PARK NR ARVILLA, ND",
+  "waterbody": "TURTLE RIVER AT TURTLE R STATE PARK NR ARVILLA, ND",
+  "state": "ND",
+  "latitude": 47.9319336,
+  "longitude": -97.5145305,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turtle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltrn8",
+  "slug": "usgs-05082625",
+  "noaaForecastPath": "data/noaa-forecast/LTRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

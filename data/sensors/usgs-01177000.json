@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01177000",
+  "key": "01177000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01177000",
+  "name": "CHICOPEE RIVER AT INDIAN ORCHARD, MA",
+  "waterbody": "CHICOPEE RIVER AT INDIAN ORCHARD, MA",
+  "state": "MA",
+  "latitude": 42.16064906,
+  "longitude": -72.5139756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INDM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chicopee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/indm3",
+  "slug": "usgs-01177000",
+  "noaaForecastPath": "data/noaa-forecast/INDM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103755",
+  "key": "07103755",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103755",
+  "name": "MONUMENT CREEK BELOW MONUMENT LAKE NR MONUMENT, CO",
+  "waterbody": "MONUMENT CREEK BELOW MONUMENT LAKE NR MONUMENT, CO",
+  "state": "CO",
+  "latitude": 39.0875,
+  "longitude": -104.8791667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103755",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

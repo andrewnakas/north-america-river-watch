@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03576500",
+  "key": "03576500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03576500",
+  "name": "FLINT CREEK NEAR FALKVILLE AL",
+  "waterbody": "FLINT CREEK NEAR FALKVILLE AL",
+  "state": "AL",
+  "latitude": 34.373184,
+  "longitude": -86.9336049,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03576500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

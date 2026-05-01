@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15407500",
+  "key": "15407500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15407500",
+  "name": "HARRISON C NR CENTRAL AK",
+  "waterbody": "HARRISON C NR CENTRAL AK",
+  "state": "AK",
+  "latitude": 65.37879011,
+  "longitude": -144.83521269,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15407500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

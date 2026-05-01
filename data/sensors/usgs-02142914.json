@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02142914",
+  "key": "02142914",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02142914",
+  "name": "GUM BRANCH NEAR THRIFT, NC",
+  "waterbody": "GUM BRANCH NEAR THRIFT, NC",
+  "state": "NC",
+  "latitude": 35.29944444,
+  "longitude": -80.94638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gum Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbrn7",
+  "slug": "usgs-02142914",
+  "noaaForecastPath": "data/noaa-forecast/GBRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

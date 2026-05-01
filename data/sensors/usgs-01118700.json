@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01118700",
+  "key": "01118700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01118700",
+  "name": "WHITFORD BK AT OLD MYSTIC,CT.",
+  "waterbody": "WHITFORD BK AT OLD MYSTIC,CT.",
+  "state": "CT",
+  "latitude": 41.39470723,
+  "longitude": -71.96060963,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01118700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

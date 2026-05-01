@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01563200",
+  "key": "01563200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01563200",
+  "name": "Rays Br Juniata R bl Rays Dam nr Huntingdon, PA",
+  "waterbody": "Rays Br Juniata R bl Rays Dam nr Huntingdon, PA",
+  "state": "PA",
+  "latitude": 40.42896398,
+  "longitude": -77.9911135,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RTBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raystown Branch Juniata River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rtbp1",
+  "slug": "usgs-01563200",
+  "noaaForecastPath": "data/noaa-forecast/RTBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

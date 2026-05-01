@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07343356",
+  "key": "07343356",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07343356",
+  "name": "Cuthand Ck at FM 910 nr Cuthand, TX",
+  "waterbody": "Cuthand Ck at FM 910 nr Cuthand, TX",
+  "state": "TX",
+  "latitude": 33.49888889,
+  "longitude": -95.0513889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuthand Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctct2",
+  "slug": "usgs-07343356",
+  "noaaForecastPath": "data/noaa-forecast/CTCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

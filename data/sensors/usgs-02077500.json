@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02077500",
+  "key": "02077500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02077500",
+  "name": "HYCO RIVER NEAR DENNISTON, VA",
+  "waterbody": "HYCO RIVER NEAR DENNISTON, VA",
+  "state": "VA",
+  "latitude": 36.58791749,
+  "longitude": -78.8986204,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02077500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

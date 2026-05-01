@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03274000",
+  "key": "03274000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03274000",
+  "name": "Great Miami River at Hamilton OH",
+  "waterbody": "Great Miami River at Hamilton OH",
+  "state": "OH",
+  "latitude": 39.3911674,
+  "longitude": -84.572169,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hamo1",
+  "slug": "usgs-03274000",
+  "noaaForecastPath": "data/noaa-forecast/HAMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

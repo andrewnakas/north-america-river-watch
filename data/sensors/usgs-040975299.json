@@ -1,0 +1,22 @@
+{
+  "id": "usgs:040975299",
+  "key": "040975299",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "040975299",
+  "name": "PRAIRIE RIVER AT US 12 NEAR BURR OAK, MI",
+  "waterbody": "PRAIRIE RIVER AT US 12 NEAR BURR OAK, MI",
+  "state": "MI",
+  "latitude": 41.83638889,
+  "longitude": -85.2708333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PROM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie River (MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prom4",
+  "slug": "usgs-040975299",
+  "noaaForecastPath": "data/noaa-forecast/PROM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

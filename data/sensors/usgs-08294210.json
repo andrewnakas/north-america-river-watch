@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08294210",
+  "key": "08294210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08294210",
+  "name": "RIO NAMBE BELOW NAMBE FALLS DAM NEAR NAMBE, NM",
+  "waterbody": "RIO NAMBE BELOW NAMBE FALLS DAM NEAR NAMBE, NM",
+  "state": "NM",
+  "latitude": 35.8461111,
+  "longitude": -105.9097222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBFN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Nambe",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbfn5",
+  "slug": "usgs-08294210",
+  "noaaForecastPath": "data/noaa-forecast/NBFN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

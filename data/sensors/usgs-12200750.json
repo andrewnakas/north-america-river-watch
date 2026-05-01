@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12200750",
+  "key": "12200750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12200750",
+  "name": "UNNAMED TRIBUTARY TROUT LAKE SAN JUAN ISLAND, WA",
+  "waterbody": "UNNAMED TRIBUTARY TROUT LAKE SAN JUAN ISLAND, WA",
+  "state": "WA",
+  "latitude": 48.53537609,
+  "longitude": -123.1318506,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12200750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

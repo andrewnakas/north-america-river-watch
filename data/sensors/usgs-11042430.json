@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11042430",
+  "key": "11042430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11042430",
+  "name": "CAHUILLA C TRIB A ANZA CA",
+  "waterbody": "CAHUILLA C TRIB A ANZA CA",
+  "state": "CA",
+  "latitude": 33.55515,
+  "longitude": -116.6879722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11042430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

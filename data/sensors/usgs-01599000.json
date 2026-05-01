@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01599000",
+  "key": "01599000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01599000",
+  "name": "GEORGES CREEK AT FRANKLIN, MD",
+  "waterbody": "GEORGES CREEK AT FRANKLIN, MD",
+  "state": "MD",
+  "latitude": 39.50091389,
+  "longitude": -79.04881944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Georges Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wstm2",
+  "slug": "usgs-01599000",
+  "noaaForecastPath": "data/noaa-forecast/WSTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

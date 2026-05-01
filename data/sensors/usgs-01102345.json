@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01102345",
+  "key": "01102345",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01102345",
+  "name": "SAUGUS RIVER AT SAUGUS IRONWORKS AT SAUGUS, MA",
+  "waterbody": "SAUGUS RIVER AT SAUGUS IRONWORKS AT SAUGUS, MA",
+  "state": "MA",
+  "latitude": 42.46941579,
+  "longitude": -71.0069588,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01102345",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

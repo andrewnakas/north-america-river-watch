@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02126000",
+  "key": "02126000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02126000",
+  "name": "ROCKY RIVER NEAR NORWOOD, NC",
+  "waterbody": "ROCKY RIVER NEAR NORWOOD, NC",
+  "state": "NC",
+  "latitude": 35.1569972,
+  "longitude": -80.1657722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRWN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky River NC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrwn7",
+  "slug": "usgs-02126000",
+  "noaaForecastPath": "data/noaa-forecast/NRWN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

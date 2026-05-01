@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12369000",
+  "key": "12369000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12369000",
+  "name": "Flathead River near Bigfork MT",
+  "waterbody": "Flathead River near Bigfork MT",
+  "state": "MT",
+  "latitude": 48.092325,
+  "longitude": -114.1153694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12369000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

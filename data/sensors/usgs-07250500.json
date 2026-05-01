@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07250500",
+  "key": "07250500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07250500",
+  "name": "AR River at Van Buren, AR",
+  "waterbody": "AR River at Van Buren, AR",
+  "state": "AR",
+  "latitude": 35.43085,
+  "longitude": -94.3565139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VBUA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vbua4",
+  "slug": "usgs-07250500",
+  "noaaForecastPath": "data/noaa-forecast/VBUA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

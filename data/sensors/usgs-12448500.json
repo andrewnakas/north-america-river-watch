@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12448500",
+  "key": "12448500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12448500",
+  "name": "METHOW RIVER AT WINTHROP, WA",
+  "waterbody": "METHOW RIVER AT WINTHROP, WA",
+  "state": "WA",
+  "latitude": 48.4734787,
+  "longitude": -120.1773063,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTHW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Methow River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wthw1",
+  "slug": "usgs-12448500",
+  "noaaForecastPath": "data/noaa-forecast/WTHW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

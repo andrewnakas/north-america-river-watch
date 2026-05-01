@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08053430",
+  "key": "08053430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08053430",
+  "name": "Denton Ck at CR 2513 nr Decatur, TX",
+  "waterbody": "Denton Ck at CR 2513 nr Decatur, TX",
+  "state": "TX",
+  "latitude": 33.27791667,
+  "longitude": -97.4170417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08053430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

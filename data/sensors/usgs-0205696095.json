@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0205696095",
+  "key": "0205696095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0205696095",
+  "name": "BLACKWATER RIVER BELOW MAPLE BRANCH NR REDWOOD, VA",
+  "waterbody": "BLACKWATER RIVER BELOW MAPLE BRANCH NR REDWOOD, VA",
+  "state": "VA",
+  "latitude": 37.0558333,
+  "longitude": -79.8254722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0205696095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

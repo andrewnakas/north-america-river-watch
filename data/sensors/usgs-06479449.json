@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479449",
+  "key": "06479449",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479449",
+  "name": "LAKE KAMPESKA AT WATER PLANT AT WATERTOWN, SD",
+  "waterbody": "LAKE KAMPESKA AT WATER PLANT AT WATERTOWN, SD",
+  "state": "SD",
+  "latitude": 44.91724198,
+  "longitude": -97.1874365,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KMPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Kampeska",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kmps2",
+  "slug": "usgs-06479449",
+  "noaaForecastPath": "data/noaa-forecast/KMPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

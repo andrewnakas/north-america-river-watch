@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06904500",
+  "key": "06904500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06904500",
+  "name": "Chariton River at Novinger, MO",
+  "waterbody": "Chariton River at Novinger, MO",
+  "state": "MO",
+  "latitude": 40.2343333,
+  "longitude": -92.6863889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NVZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chariton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nvzm7",
+  "slug": "usgs-06904500",
+  "noaaForecastPath": "data/noaa-forecast/NVZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

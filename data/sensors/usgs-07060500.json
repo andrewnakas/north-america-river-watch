@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07060500",
+  "key": "07060500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07060500",
+  "name": "White River at Calico Rock, AR",
+  "waterbody": "White River at Calico Rock, AR",
+  "state": "AR",
+  "latitude": 36.11666667,
+  "longitude": -92.1430556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLRA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clra4",
+  "slug": "usgs-07060500",
+  "noaaForecastPath": "data/noaa-forecast/CLRA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05320500",
+  "key": "05320500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05320500",
+  "name": "LE SUEUR RIVER NEAR RAPIDAN, MN",
+  "waterbody": "LE SUEUR RIVER NEAR RAPIDAN, MN",
+  "state": "MN",
+  "latitude": 44.11760477,
+  "longitude": -94.0502846,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RPDM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Le Sueur River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rpdm5",
+  "slug": "usgs-05320500",
+  "noaaForecastPath": "data/noaa-forecast/RPDM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

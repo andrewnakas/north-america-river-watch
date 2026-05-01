@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06892950",
+  "key": "06892950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06892950",
+  "name": "KANSAS R AT KANSAS CITY, KS",
+  "waterbody": "KANSAS R AT KANSAS CITY, KS",
+  "state": "KS",
+  "latitude": 39.0900045,
+  "longitude": -94.6091232,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCKK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kckk1",
+  "slug": "usgs-06892950",
+  "noaaForecastPath": "data/noaa-forecast/KCKK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

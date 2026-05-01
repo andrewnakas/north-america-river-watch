@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07068000",
+  "key": "07068000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07068000",
+  "name": "Current River at Doniphan, MO",
+  "waterbody": "Current River at Doniphan, MO",
+  "state": "MO",
+  "latitude": 36.6215,
+  "longitude": -90.8463889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Current River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnzm7",
+  "slug": "usgs-07068000",
+  "noaaForecastPath": "data/noaa-forecast/DNZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

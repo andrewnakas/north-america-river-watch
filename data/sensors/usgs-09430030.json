@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09430030",
+  "key": "09430030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09430030",
+  "name": "GILA RIVER NR GILA HOT SPRINGS, NM",
+  "waterbody": "GILA RIVER NR GILA HOT SPRINGS, NM",
+  "state": "NM",
+  "latitude": 33.1797222,
+  "longitude": -108.2062778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EFGN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gila River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/efgn5",
+  "slug": "usgs-09430030",
+  "noaaForecastPath": "data/noaa-forecast/EFGN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

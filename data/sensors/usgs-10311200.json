@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10311200",
+  "key": "10311200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10311200",
+  "name": "ASH CYN CK NR CARSON CITY, NV",
+  "waterbody": "ASH CYN CK NR CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.17629816,
+  "longitude": -119.805738,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10311200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

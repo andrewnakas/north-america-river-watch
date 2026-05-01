@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03579040",
+  "key": "03579040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03579040",
+  "name": "SPRING CR OFF SPRING CR ROAD AT AEDC NR MANCHESTER",
+  "waterbody": "SPRING CR OFF SPRING CR ROAD AT AEDC NR MANCHESTER",
+  "state": "TN",
+  "latitude": 35.3044974,
+  "longitude": -86.1201725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03579040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

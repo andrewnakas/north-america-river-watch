@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01397000",
+  "key": "01397000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01397000",
+  "name": "South Branch Raritan River at Stanton NJ",
+  "waterbody": "South Branch Raritan River at Stanton NJ",
+  "state": "NJ",
+  "latitude": 40.57222222,
+  "longitude": -74.86805556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Raritan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sttn4",
+  "slug": "usgs-01397000",
+  "noaaForecastPath": "data/noaa-forecast/STTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

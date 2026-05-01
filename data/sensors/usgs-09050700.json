@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09050700",
+  "key": "09050700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09050700",
+  "name": "BLUE RIVER BELOW DILLON, CO.",
+  "waterbody": "BLUE RIVER BELOW DILLON, CO.",
+  "state": "CO",
+  "latitude": 39.625556,
+  "longitude": -106.065833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blrc2",
+  "slug": "usgs-09050700",
+  "noaaForecastPath": "data/noaa-forecast/BLRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

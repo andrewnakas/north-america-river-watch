@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11477000",
+  "key": "11477000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11477000",
+  "name": "EEL R A SCOTIA CA",
+  "waterbody": "EEL R A SCOTIA CA",
+  "state": "CA",
+  "latitude": 40.49149394,
+  "longitude": -124.0997407,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCOC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eel River (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scoc1",
+  "slug": "usgs-11477000",
+  "noaaForecastPath": "data/noaa-forecast/SCOC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

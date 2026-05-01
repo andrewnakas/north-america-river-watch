@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06868200",
+  "key": "06868200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06868200",
+  "name": "SALINE R AT WILSON DAM, KS",
+  "waterbody": "SALINE R AT WILSON DAM, KS",
+  "state": "KS",
+  "latitude": 38.9747332,
+  "longitude": -98.4903429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLSK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlsk1",
+  "slug": "usgs-06868200",
+  "noaaForecastPath": "data/noaa-forecast/WLSK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

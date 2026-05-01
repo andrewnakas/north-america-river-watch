@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05473400",
+  "key": "05473400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05473400",
+  "name": "Cedar Creek near Oakland Mills, IA",
+  "waterbody": "Cedar Creek near Oakland Mills, IA",
+  "state": "IA",
+  "latitude": 40.92530278,
+  "longitude": -91.6742167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (IA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okmi4",
+  "slug": "usgs-05473400",
+  "noaaForecastPath": "data/noaa-forecast/OKMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

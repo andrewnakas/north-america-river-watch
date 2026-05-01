@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09066310",
+  "key": "09066310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09066310",
+  "name": "GORE CREEK, LOWER STATION, AT VAIL, COLORADO",
+  "waterbody": "GORE CREEK, LOWER STATION, AT VAIL, COLORADO",
+  "state": "CO",
+  "latitude": 39.6410971,
+  "longitude": -106.3941959,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09066310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

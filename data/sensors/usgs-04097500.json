@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04097500",
+  "key": "04097500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04097500",
+  "name": "ST. JOSEPH RIVER AT THREE RIVERS, MI",
+  "waterbody": "ST. JOSEPH RIVER AT THREE RIVERS, MI",
+  "state": "MI",
+  "latitude": 41.94032575,
+  "longitude": -85.6327707,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRVM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (MI/IN)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trvm4",
+  "slug": "usgs-04097500",
+  "noaaForecastPath": "data/noaa-forecast/TRVM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

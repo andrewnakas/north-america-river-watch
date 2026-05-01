@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01603000",
+  "key": "01603000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01603000",
+  "name": "NORTH BRANCH POTOMAC RIVER NEAR CUMBERLAND, MD",
+  "waterbody": "NORTH BRANCH POTOMAC RIVER NEAR CUMBERLAND, MD",
+  "state": "MD",
+  "latitude": 39.621806,
+  "longitude": -78.773417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBEM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbem2",
+  "slug": "usgs-01603000",
+  "noaaForecastPath": "data/noaa-forecast/CBEM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

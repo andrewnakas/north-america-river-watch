@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06026420",
+  "key": "06026420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06026420",
+  "name": "Big Hole R bl Hamilton Ditch nr Twin Bridges, MT",
+  "waterbody": "Big Hole R bl Hamilton Ditch nr Twin Bridges, MT",
+  "state": "MT",
+  "latitude": 45.5500222,
+  "longitude": -112.360675,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thdm8",
+  "slug": "usgs-06026420",
+  "noaaForecastPath": "data/noaa-forecast/THDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

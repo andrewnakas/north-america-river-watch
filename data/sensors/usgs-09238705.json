@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09238705",
+  "key": "09238705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09238705",
+  "name": "LONG LAKE INLET NEAR BUFFALO PASS, CO.",
+  "waterbody": "LONG LAKE INLET NEAR BUFFALO PASS, CO.",
+  "state": "CO",
+  "latitude": 40.47359,
+  "longitude": -106.6800438,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09238705",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

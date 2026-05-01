@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05560500",
+  "key": "05560500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05560500",
+  "name": "FARM CREEK AT FARMDALE, IL",
+  "waterbody": "FARM CREEK AT FARMDALE, IL",
+  "state": "IL",
+  "latitude": 40.66738889,
+  "longitude": -89.5038944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Farm Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmdi2",
+  "slug": "usgs-05560500",
+  "noaaForecastPath": "data/noaa-forecast/FMDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

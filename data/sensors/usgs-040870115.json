@@ -1,0 +1,19 @@
+{
+  "id": "usgs:040870115",
+  "key": "040870115",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "040870115",
+  "name": "MILWAUKEE RIVER D/S E CHERRY ST AT MILWAUKEE, WI",
+  "waterbody": "MILWAUKEE RIVER D/S E CHERRY ST AT MILWAUKEE, WI",
+  "state": "WI",
+  "latitude": 43.04769444,
+  "longitude": -87.91263889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-040870115",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

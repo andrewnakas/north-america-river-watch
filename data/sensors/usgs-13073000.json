@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13073000",
+  "key": "13073000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13073000",
+  "name": "PORTNEUF RIVER AT TOPAZ ID",
+  "waterbody": "PORTNEUF RIVER AT TOPAZ ID",
+  "state": "ID",
+  "latitude": 42.6247222,
+  "longitude": -112.0880556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOPI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portneuf River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/topi1",
+  "slug": "usgs-13073000",
+  "noaaForecastPath": "data/noaa-forecast/TOPI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

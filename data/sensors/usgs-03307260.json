@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03307260",
+  "key": "03307260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03307260",
+  "name": "LITTLE PITMAN CREEK NEAR CAMPBELLSVILLE, KY",
+  "waterbody": "LITTLE PITMAN CREEK NEAR CAMPBELLSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.3472854,
+  "longitude": -85.3902414,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03307260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

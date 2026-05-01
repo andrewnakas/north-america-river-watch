@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103792",
+  "key": "07103792",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103792",
+  "name": "RESERVOIR NO. 1 SPILLWAY AT HUSTED RD AT USAFA, CO",
+  "waterbody": "RESERVOIR NO. 1 SPILLWAY AT HUSTED RD AT USAFA, CO",
+  "state": "CO",
+  "latitude": 39.0012333,
+  "longitude": -104.8340111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103792",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

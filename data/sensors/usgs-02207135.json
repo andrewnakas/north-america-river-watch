@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02207135",
+  "key": "02207135",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02207135",
+  "name": "LITTLE STONE MTN CR NEAR STONE MOUNTAIN, GA",
+  "waterbody": "LITTLE STONE MTN CR NEAR STONE MOUNTAIN, GA",
+  "state": "GA",
+  "latitude": 33.83041667,
+  "longitude": -84.1393333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSMG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Stone Mountain Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsmg1",
+  "slug": "usgs-02207135",
+  "noaaForecastPath": "data/noaa-forecast/LSMG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

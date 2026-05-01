@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05545133",
+  "key": "05545133",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05545133",
+  "name": "BIRCHES CREEK AT LACKEY LANE NEAR LAKE GENEVA, WI",
+  "waterbody": "BIRCHES CREEK AT LACKEY LANE NEAR LAKE GENEVA, WI",
+  "state": "WI",
+  "latitude": 42.5600171,
+  "longitude": -88.4875986,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05545133",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

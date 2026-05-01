@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50085100",
+  "key": "50085100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50085100",
+  "name": "RIO GUAYANES AT CENTRAL ROIG, PR",
+  "waterbody": "RIO GUAYANES AT CENTRAL ROIG, PR",
+  "state": "PR",
+  "latitude": 18.066389,
+  "longitude": -65.874167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCRP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Guayanes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcrp4",
+  "slug": "usgs-50085100",
+  "noaaForecastPath": "data/noaa-forecast/GCRP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

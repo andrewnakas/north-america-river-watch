@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01451500",
+  "key": "01451500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01451500",
+  "name": "Little Lehigh Creek near Allentown, PA",
+  "waterbody": "Little Lehigh Creek near Allentown, PA",
+  "state": "PA",
+  "latitude": 40.5823197,
+  "longitude": -75.48296088,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Lehigh Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/allp1",
+  "slug": "usgs-01451500",
+  "noaaForecastPath": "data/noaa-forecast/ALLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01672500",
+  "key": "01672500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01672500",
+  "name": "SOUTH ANNA RIVER NEAR ASHLAND, VA",
+  "waterbody": "SOUTH ANNA RIVER NEAR ASHLAND, VA",
+  "state": "VA",
+  "latitude": 37.796809,
+  "longitude": -77.5488744,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AHLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Anna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ahlv2",
+  "slug": "usgs-01672500",
+  "noaaForecastPath": "data/noaa-forecast/AHLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

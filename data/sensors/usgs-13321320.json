@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13321320",
+  "key": "13321320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13321320",
+  "name": "LADD CANYON ABV LADD CREEK, NR HOT LAKE, OR",
+  "waterbody": "LADD CANYON ABV LADD CREEK, NR HOT LAKE, OR",
+  "state": "OR",
+  "latitude": 45.2073611,
+  "longitude": -118.0205,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13321320",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

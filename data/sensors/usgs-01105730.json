@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105730",
+  "key": "01105730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105730",
+  "name": "INDIAN HEAD RIVER AT HANOVER, MA",
+  "waterbody": "INDIAN HEAD RIVER AT HANOVER, MA",
+  "state": "MA",
+  "latitude": 42.100529,
+  "longitude": -70.8225115,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INHM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Head River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/inhm3",
+  "slug": "usgs-01105730",
+  "noaaForecastPath": "data/noaa-forecast/INHM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

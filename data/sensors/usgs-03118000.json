@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03118000",
+  "key": "03118000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03118000",
+  "name": "Middle Branch Nimishillen Creek at Canton OH",
+  "waterbody": "Middle Branch Nimishillen Creek at Canton OH",
+  "state": "OH",
+  "latitude": 40.84144709,
+  "longitude": -81.3537229,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Branch Nimishillen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctno1",
+  "slug": "usgs-03118000",
+  "noaaForecastPath": "data/noaa-forecast/CTNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

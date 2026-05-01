@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05420100",
+  "key": "05420100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05420100",
+  "name": "PLUM RIVER AT SAVANNA, IL",
+  "waterbody": "PLUM RIVER AT SAVANNA, IL",
+  "state": "IL",
+  "latitude": 42.09805556,
+  "longitude": -90.1266667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05420100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

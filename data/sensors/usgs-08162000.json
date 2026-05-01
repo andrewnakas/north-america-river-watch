@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08162000",
+  "key": "08162000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08162000",
+  "name": "Colorado Rv at Wharton, TX",
+  "waterbody": "Colorado Rv at Wharton, TX",
+  "state": "TX",
+  "latitude": 29.30913668,
+  "longitude": -96.1038482,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/what2",
+  "slug": "usgs-08162000",
+  "noaaForecastPath": "data/noaa-forecast/WHAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

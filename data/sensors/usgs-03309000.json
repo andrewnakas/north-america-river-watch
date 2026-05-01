@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03309000",
+  "key": "03309000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03309000",
+  "name": "GREEN RIVER AT MAMMOTH CAVE, KY",
+  "waterbody": "GREEN RIVER AT MAMMOTH CAVE, KY",
+  "state": "KY",
+  "latitude": 37.18004845,
+  "longitude": -86.1124757,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MMCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mmck2",
+  "slug": "usgs-03309000",
+  "noaaForecastPath": "data/noaa-forecast/MMCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

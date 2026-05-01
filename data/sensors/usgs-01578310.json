@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01578310",
+  "key": "01578310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01578310",
+  "name": "SUSQUEHANNA RIVER AT CONOWINGO, MD",
+  "waterbody": "SUSQUEHANNA RIVER AT CONOWINGO, MD",
+  "state": "MD",
+  "latitude": 39.65788889,
+  "longitude": -76.17444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNWM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnwm2",
+  "slug": "usgs-01578310",
+  "noaaForecastPath": "data/noaa-forecast/CNWM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

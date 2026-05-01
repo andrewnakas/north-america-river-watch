@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12046260",
+  "key": "12046260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12046260",
+  "name": "ELWHA RIVER AT DIVERSION NEAR PORT ANGELES, WA",
+  "waterbody": "ELWHA RIVER AT DIVERSION NEAR PORT ANGELES, WA",
+  "state": "WA",
+  "latitude": 48.1120338,
+  "longitude": -123.5521342,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12046260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

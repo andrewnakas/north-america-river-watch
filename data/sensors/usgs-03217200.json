@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03217200",
+  "key": "03217200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03217200",
+  "name": "OHIO RIVER AT PORTSMOUTH, OH",
+  "waterbody": "OHIO RIVER AT PORTSMOUTH, OH",
+  "state": "OH",
+  "latitude": 38.7291024,
+  "longitude": -82.9968392,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PORO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/poro1",
+  "slug": "usgs-03217200",
+  "noaaForecastPath": "data/noaa-forecast/PORO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06652800",
+  "key": "06652800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06652800",
+  "name": "NORTH PLATTE RIVER BELOW GLENDO RESERVOIR, WY",
+  "waterbody": "NORTH PLATTE RIVER BELOW GLENDO RESERVOIR, WY",
+  "state": "WY",
+  "latitude": 42.45689505,
+  "longitude": -104.9478148,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06652800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03302300",
+  "key": "03302300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302300",
+  "name": "LITTLE INDIAN CREEK NEAR GALENA, IN",
+  "waterbody": "LITTLE INDIAN CREEK NEAR GALENA, IN",
+  "state": "IN",
+  "latitude": 38.32199936,
+  "longitude": -85.9313503,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03302300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

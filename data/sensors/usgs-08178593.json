@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08178593",
+  "key": "08178593",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178593",
+  "name": "Salado Ck at Blanco Rd, San Antonio, TX",
+  "waterbody": "Salado Ck at Blanco Rd, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.5638611,
+  "longitude": -98.5196667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08178593",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

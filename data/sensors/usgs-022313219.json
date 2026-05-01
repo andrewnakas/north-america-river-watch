@@ -1,0 +1,19 @@
+{
+  "id": "usgs:022313219",
+  "key": "022313219",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "022313219",
+  "name": "S-253 WEIR UPSTREAM NEAR FORT DRUM, FL",
+  "waterbody": "S-253 WEIR UPSTREAM NEAR FORT DRUM, FL",
+  "state": "FL",
+  "latitude": 27.5909972,
+  "longitude": -80.6790194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-022313219",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

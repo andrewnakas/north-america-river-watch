@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12036400",
+  "key": "12036400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12036400",
+  "name": "SCHAFER CREEK NEAR GRISDALE, WA",
+  "waterbody": "SCHAFER CREEK NEAR GRISDALE, WA",
+  "state": "WA",
+  "latitude": 47.20425777,
+  "longitude": -123.6151652,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12036400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

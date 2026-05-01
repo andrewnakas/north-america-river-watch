@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07221000",
+  "key": "07221000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07221000",
+  "name": "MORA RIVER NR SHOEMAKER, NM",
+  "waterbody": "MORA RIVER NR SHOEMAKER, NM",
+  "state": "NM",
+  "latitude": 35.8003243,
+  "longitude": -104.7833122,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07221000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

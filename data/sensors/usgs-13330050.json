@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13330050",
+  "key": "13330050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13330050",
+  "name": "LOSTINE RIVER AT CAUDLE LANE AT LOSTINE, OR",
+  "waterbody": "LOSTINE RIVER AT CAUDLE LANE AT LOSTINE, OR",
+  "state": "OR",
+  "latitude": 45.4893135,
+  "longitude": -117.4365705,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13330050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

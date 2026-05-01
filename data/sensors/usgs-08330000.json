@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08330000",
+  "key": "08330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330000",
+  "name": "RIO GRANDE AT ALBUQUERQUE, NM",
+  "waterbody": "RIO GRANDE AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.08916667,
+  "longitude": -106.6806944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABQN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abqn5",
+  "slug": "usgs-08330000",
+  "noaaForecastPath": "data/noaa-forecast/ABQN5.json",
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

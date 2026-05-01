@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313252",
+  "key": "08313252",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313252",
+  "name": "WATER CYN ABV NM HWY 501 NR LOS ALAMOS, NM",
+  "waterbody": "WATER CYN ABV NM HWY 501 NR LOS ALAMOS, NM",
+  "state": "NM",
+  "latitude": 35.83641356,
+  "longitude": -106.3633624,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313252",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

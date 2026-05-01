@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05592100",
+  "key": "05592100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05592100",
+  "name": "KASKASKIA RIVER NEAR COWDEN, IL",
+  "waterbody": "KASKASKIA RIVER NEAR COWDEN, IL",
+  "state": "IL",
+  "latitude": 39.2298611,
+  "longitude": -88.8418333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaskaskia River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwdi2",
+  "slug": "usgs-05592100",
+  "noaaForecastPath": "data/noaa-forecast/CWDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

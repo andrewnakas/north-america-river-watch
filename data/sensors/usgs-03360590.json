@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03360590",
+  "key": "03360590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03360590",
+  "name": "EPSOM LATERAL NEAR PLAINVILLE, IN",
+  "waterbody": "EPSOM LATERAL NEAR PLAINVILLE, IN",
+  "state": "IN",
+  "latitude": 38.81241667,
+  "longitude": -87.07888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03360590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

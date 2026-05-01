@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12083000",
+  "key": "12083000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12083000",
+  "name": "MINERAL CREEK NEAR MINERAL, WA",
+  "waterbody": "MINERAL CREEK NEAR MINERAL, WA",
+  "state": "WA",
+  "latitude": 46.74424068,
+  "longitude": -122.144529,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12083000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

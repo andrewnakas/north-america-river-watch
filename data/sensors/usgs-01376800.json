@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01376800",
+  "key": "01376800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01376800",
+  "name": "HACKENSACK RIVER AT WEST NYACK NY",
+  "waterbody": "HACKENSACK RIVER AT WEST NYACK NY",
+  "state": "NY",
+  "latitude": 41.095528,
+  "longitude": -73.964028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hackensack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnyn6",
+  "slug": "usgs-01376800",
+  "noaaForecastPath": "data/noaa-forecast/WNYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

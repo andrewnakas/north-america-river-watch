@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11022200",
+  "key": "11022200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11022200",
+  "name": "LOS COCHES C NR LAKESIDE CA",
+  "waterbody": "LOS COCHES C NR LAKESIDE CA",
+  "state": "CA",
+  "latitude": 32.83616156,
+  "longitude": -116.9003035,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11022200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

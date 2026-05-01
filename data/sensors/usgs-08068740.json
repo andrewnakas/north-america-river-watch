@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08068740",
+  "key": "08068740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068740",
+  "name": "Cypress Ck at House-Hahl Rd nr Cypress, TX",
+  "waterbody": "Cypress Ck at House-Hahl Rd nr Cypress, TX",
+  "state": "TX",
+  "latitude": 29.959112,
+  "longitude": -95.7177249,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08068740",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

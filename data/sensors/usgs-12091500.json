@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12091500",
+  "key": "12091500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12091500",
+  "name": "CHAMBERS CREEK BL LEACH CREEK NEAR STEILACOOM, WA",
+  "waterbody": "CHAMBERS CREEK BL LEACH CREEK NEAR STEILACOOM, WA",
+  "state": "WA",
+  "latitude": 47.1975694,
+  "longitude": -122.5287173,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12091500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05427530",
+  "key": "05427530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05427530",
+  "name": "ROCK RIVER AT NEWVILLE, WI",
+  "waterbody": "ROCK RIVER AT NEWVILLE, WI",
+  "state": "WI",
+  "latitude": 42.83,
+  "longitude": -89.0213889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NVEW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nvew3",
+  "slug": "usgs-05427530",
+  "noaaForecastPath": "data/noaa-forecast/NVEW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

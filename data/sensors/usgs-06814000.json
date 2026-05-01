@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06814000",
+  "key": "06814000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06814000",
+  "name": "TURKEY C NR SENECA, KS",
+  "waterbody": "TURKEY C NR SENECA, KS",
+  "state": "KS",
+  "latitude": 39.9477773,
+  "longitude": -96.1086149,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey Creek (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snck1",
+  "slug": "usgs-06814000",
+  "noaaForecastPath": "data/noaa-forecast/SNCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

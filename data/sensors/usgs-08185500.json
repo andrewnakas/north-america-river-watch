@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08185500",
+  "key": "08185500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08185500",
+  "name": "Cibolo Ck at Sutherland Springs, TX",
+  "waterbody": "Cibolo Ck at Sutherland Springs, TX",
+  "state": "TX",
+  "latitude": 29.2797222,
+  "longitude": -98.0533333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cibolo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/supt2",
+  "slug": "usgs-08185500",
+  "noaaForecastPath": "data/noaa-forecast/SUPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

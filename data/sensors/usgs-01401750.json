@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01401750",
+  "key": "01401750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01401750",
+  "name": "Millstone River at Griggstown NJ",
+  "waterbody": "Millstone River at Griggstown NJ",
+  "state": "NJ",
+  "latitude": 40.44,
+  "longitude": -74.6175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTNN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Millstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gtnn4",
+  "slug": "usgs-01401750",
+  "noaaForecastPath": "data/noaa-forecast/GTNN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

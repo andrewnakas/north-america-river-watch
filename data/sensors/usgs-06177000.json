@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06177000",
+  "key": "06177000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06177000",
+  "name": "Missouri River near Wolf Point MT",
+  "waterbody": "Missouri River near Wolf Point MT",
+  "state": "MT",
+  "latitude": 48.067325,
+  "longitude": -105.5330972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPTM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wptm8",
+  "slug": "usgs-06177000",
+  "noaaForecastPath": "data/noaa-forecast/WPTM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

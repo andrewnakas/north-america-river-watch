@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01594963",
+  "key": "01594963",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594963",
+  "name": "NYDEGGER RUN NEAR GORMAN, MD",
+  "waterbody": "NYDEGGER RUN NEAR GORMAN, MD",
+  "state": "MD",
+  "latitude": 39.29752778,
+  "longitude": -79.3501667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01594963",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

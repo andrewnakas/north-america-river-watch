@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08102850",
+  "key": "08102850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08102850",
+  "name": "Lampasas Rv at US-281 nr Adamsville, TX",
+  "waterbody": "Lampasas Rv at US-281 nr Adamsville, TX",
+  "state": "TX",
+  "latitude": 31.29350556,
+  "longitude": -98.1692306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08102850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

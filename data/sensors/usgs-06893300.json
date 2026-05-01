@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893300",
+  "key": "06893300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893300",
+  "name": "INDIAN C AT OVERLAND PARK, KS",
+  "waterbody": "INDIAN C AT OVERLAND PARK, KS",
+  "state": "KS",
+  "latitude": 38.9405621,
+  "longitude": -94.6713469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OPDK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/opdk1",
+  "slug": "usgs-06893300",
+  "noaaForecastPath": "data/noaa-forecast/OPDK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

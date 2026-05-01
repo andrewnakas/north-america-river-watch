@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08048508",
+  "key": "08048508",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08048508",
+  "name": "W Fk Trinity Rv at E Northside Dr, Ft Worth, TX",
+  "waterbody": "W Fk Trinity Rv at E Northside Dr, Ft Worth, TX",
+  "state": "TX",
+  "latitude": 32.78316667,
+  "longitude": -97.3278056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08048508",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

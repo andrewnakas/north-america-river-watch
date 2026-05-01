@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03183000",
+  "key": "03183000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03183000",
+  "name": "SECOND CREEK NEAR SECOND CREEK, WV",
+  "waterbody": "SECOND CREEK NEAR SECOND CREEK, WV",
+  "state": "WV",
+  "latitude": 37.6845833,
+  "longitude": -80.4561111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03183000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

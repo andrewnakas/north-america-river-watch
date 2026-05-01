@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15242000",
+  "key": "15242000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15242000",
+  "name": "KASILOF R NR KASILOF AK",
+  "waterbody": "KASILOF R NR KASILOF AK",
+  "state": "AK",
+  "latitude": 60.318056,
+  "longitude": -151.259722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KSFA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kasilof River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ksfa2",
+  "slug": "usgs-15242000",
+  "noaaForecastPath": "data/noaa-forecast/KSFA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

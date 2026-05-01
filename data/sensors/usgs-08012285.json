@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08012285",
+  "key": "08012285",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08012285",
+  "name": "BAYOU QUEUE DE TORTUE NEAR INDIAN BAYOU,LA.",
+  "waterbody": "BAYOU QUEUE DE TORTUE NEAR INDIAN BAYOU,LA.",
+  "state": "LA",
+  "latitude": 30.11464928,
+  "longitude": -92.3237414,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08012285",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

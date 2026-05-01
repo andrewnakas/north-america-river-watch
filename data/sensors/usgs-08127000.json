@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08127000",
+  "key": "08127000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08127000",
+  "name": "Elm Ck at Ballinger, TX",
+  "waterbody": "Elm Ck at Ballinger, TX",
+  "state": "TX",
+  "latitude": 31.74931697,
+  "longitude": -99.9478636,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elm Creek (Colorado Basin WCTX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bamt2",
+  "slug": "usgs-08127000",
+  "noaaForecastPath": "data/noaa-forecast/BAMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

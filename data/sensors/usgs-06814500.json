@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06814500",
+  "key": "06814500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06814500",
+  "name": "North Fork Big Nemaha River at Humboldt, Nebr.",
+  "waterbody": "North Fork Big Nemaha River at Humboldt, Nebr.",
+  "state": "NE",
+  "latitude": 40.156669,
+  "longitude": -95.944808,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Big Nemaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbln1",
+  "slug": "usgs-06814500",
+  "noaaForecastPath": "data/noaa-forecast/HBLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

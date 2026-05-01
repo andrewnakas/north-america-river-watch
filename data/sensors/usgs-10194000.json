@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10194000",
+  "key": "10194000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10194000",
+  "name": "SEVIER RIVER ABOVE CLEAR CREEK, NEAR SEVIER, UT",
+  "waterbody": "SEVIER RIVER ABOVE CLEAR CREEK, NEAR SEVIER, UT",
+  "state": "UT",
+  "latitude": 38.5721952,
+  "longitude": -112.2582608,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10194000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

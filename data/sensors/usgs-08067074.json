@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067074",
+  "key": "08067074",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067074",
+  "name": "CWA Canal at Thompson Rd nr Baytown, TX",
+  "waterbody": "CWA Canal at Thompson Rd nr Baytown, TX",
+  "state": "TX",
+  "latitude": 29.80674444,
+  "longitude": -95.0323972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067074",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.393Z"
+}

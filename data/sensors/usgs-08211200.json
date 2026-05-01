@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08211200",
+  "key": "08211200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08211200",
+  "name": "Nueces Rv at Bluntzer, TX",
+  "waterbody": "Nueces Rv at Bluntzer, TX",
+  "state": "TX",
+  "latitude": 27.93779594,
+  "longitude": -97.7758308,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbvt2",
+  "slug": "usgs-08211200",
+  "noaaForecastPath": "data/noaa-forecast/CBVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

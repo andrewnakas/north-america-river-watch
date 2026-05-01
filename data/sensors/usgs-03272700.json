@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03272700",
+  "key": "03272700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03272700",
+  "name": "Sevenmile Creek at Camden OH",
+  "waterbody": "Sevenmile Creek at Camden OH",
+  "state": "OH",
+  "latitude": 39.629203,
+  "longitude": -84.6443633,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMDO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sevenmile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmdo1",
+  "slug": "usgs-03272700",
+  "noaaForecastPath": "data/noaa-forecast/CMDO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

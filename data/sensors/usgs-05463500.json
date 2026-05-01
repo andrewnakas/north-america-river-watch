@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05463500",
+  "key": "05463500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05463500",
+  "name": "Black Hawk Creek at Hudson, IA",
+  "waterbody": "Black Hawk Creek at Hudson, IA",
+  "state": "IA",
+  "latitude": 42.40776389,
+  "longitude": -92.4632472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HUDI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Hawk Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hudi4",
+  "slug": "usgs-05463500",
+  "noaaForecastPath": "data/noaa-forecast/HUDI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

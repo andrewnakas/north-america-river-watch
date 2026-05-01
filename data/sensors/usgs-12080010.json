@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12080010",
+  "key": "12080010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12080010",
+  "name": "DESCHUTES RIVER AT E ST BRIDGE AT TUMWATER, WA",
+  "waterbody": "DESCHUTES RIVER AT E ST BRIDGE AT TUMWATER, WA",
+  "state": "WA",
+  "latitude": 47.01173227,
+  "longitude": -122.9031686,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12080010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

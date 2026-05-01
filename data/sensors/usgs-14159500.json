@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14159500",
+  "key": "14159500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14159500",
+  "name": "SOUTH FORK MCKENZIE RIVER NEAR RAINBOW, OR",
+  "waterbody": "SOUTH FORK MCKENZIE RIVER NEAR RAINBOW, OR",
+  "state": "OR",
+  "latitude": 44.13595817,
+  "longitude": -122.248391,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CGRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork McKenzie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cgro3",
+  "slug": "usgs-14159500",
+  "noaaForecastPath": "data/noaa-forecast/CGRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

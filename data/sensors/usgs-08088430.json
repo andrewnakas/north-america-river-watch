@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08088430",
+  "key": "08088430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08088430",
+  "name": "Rock Ck at Rock Ck Rd nr Bryson, TX",
+  "waterbody": "Rock Ck at Rock Ck Rd nr Bryson, TX",
+  "state": "TX",
+  "latitude": 33.04351667,
+  "longitude": -98.4084083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08088430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

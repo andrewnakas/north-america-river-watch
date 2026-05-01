@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08048970",
+  "key": "08048970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08048970",
+  "name": "Village Ck at Everman, TX",
+  "waterbody": "Village Ck at Everman, TX",
+  "state": "TX",
+  "latitude": 32.60346909,
+  "longitude": -97.2650142,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Village Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ermt2",
+  "slug": "usgs-08048970",
+  "noaaForecastPath": "data/noaa-forecast/ERMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

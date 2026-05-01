@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03111215",
+  "key": "03111215",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03111215",
+  "name": "Bonar Creek near Claysville, PA",
+  "waterbody": "Bonar Creek near Claysville, PA",
+  "state": "PA",
+  "latitude": 40.0973611,
+  "longitude": -80.4514167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03111215",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

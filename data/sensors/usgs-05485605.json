@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05485605",
+  "key": "05485605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05485605",
+  "name": "Fourmile Creek near Ankeny, IA DS1",
+  "waterbody": "Fourmile Creek near Ankeny, IA DS1",
+  "state": "IA",
+  "latitude": 41.7173333,
+  "longitude": -93.5696111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANKI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fourmile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anki4",
+  "slug": "usgs-05485605",
+  "noaaForecastPath": "data/noaa-forecast/ANKI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

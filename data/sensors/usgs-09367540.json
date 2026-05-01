@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09367540",
+  "key": "09367540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09367540",
+  "name": "SAN JUAN R NR FRUITLAND, NM",
+  "waterbody": "SAN JUAN R NR FRUITLAND, NM",
+  "state": "NM",
+  "latitude": 36.740278,
+  "longitude": -108.4025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09367540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

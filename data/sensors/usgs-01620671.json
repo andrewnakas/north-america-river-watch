@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01620671",
+  "key": "01620671",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01620671",
+  "name": "THORNY BRANCH NEAR MOUNT SOLON, VA",
+  "waterbody": "THORNY BRANCH NEAR MOUNT SOLON, VA",
+  "state": "VA",
+  "latitude": 38.38775,
+  "longitude": -79.0817222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01620671",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

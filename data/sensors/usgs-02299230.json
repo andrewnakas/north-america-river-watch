@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299230",
+  "key": "02299230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299230",
+  "name": "MYAKKA RIVER AT NORTH PORT CHARLOTTE FL",
+  "waterbody": "MYAKKA RIVER AT NORTH PORT CHARLOTTE FL",
+  "state": "FL",
+  "latitude": 27.04519625,
+  "longitude": -82.2930655,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tide Gauge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrnf1",
+  "slug": "usgs-02299230",
+  "noaaForecastPath": "data/noaa-forecast/MRNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

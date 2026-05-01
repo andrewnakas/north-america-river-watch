@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05390680",
+  "key": "05390680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05390680",
+  "name": "MUSKELLUNGE CR-MUSKELLUNGE L OTL-NR EAGLE RIVER,WI",
+  "waterbody": "MUSKELLUNGE CR-MUSKELLUNGE L OTL-NR EAGLE RIVER,WI",
+  "state": "WI",
+  "latitude": 45.95166667,
+  "longitude": -89.39,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05390680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

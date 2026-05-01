@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08090550",
+  "key": "08090550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08090550",
+  "name": "Palo Pinto Ck at Water Plant Rd nr Santo, TX",
+  "waterbody": "Palo Pinto Ck at Water Plant Rd nr Santo, TX",
+  "state": "TX",
+  "latitude": 32.6537472,
+  "longitude": -98.1294028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08090550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

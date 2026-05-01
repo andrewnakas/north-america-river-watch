@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09496000",
+  "key": "09496000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09496000",
+  "name": "CORDUROY CREEK NEAR MOUTH NEAR SHOW LOW, AZ",
+  "waterbody": "CORDUROY CREEK NEAR MOUTH NEAR SHOW LOW, AZ",
+  "state": "AZ",
+  "latitude": 34.01838007,
+  "longitude": -110.242331,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09496000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02217615",
+  "key": "02217615",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02217615",
+  "name": "NORTH OCONEE R AT WOODBRIDGE RD, NEAR COMMERCE, GA",
+  "waterbody": "NORTH OCONEE R AT WOODBRIDGE RD, NEAR COMMERCE, GA",
+  "state": "GA",
+  "latitude": 34.20027778,
+  "longitude": -83.5158333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Oconee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmrg1",
+  "slug": "usgs-02217615",
+  "noaaForecastPath": "data/noaa-forecast/CMRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

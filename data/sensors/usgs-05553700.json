@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05553700",
+  "key": "05553700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05553700",
+  "name": "ILLINOIS RIVER AT STARVED ROCK, IL",
+  "waterbody": "ILLINOIS RIVER AT STARVED ROCK, IL",
+  "state": "IL",
+  "latitude": 41.3247564,
+  "longitude": -88.9839693,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srdi2",
+  "slug": "usgs-05553700",
+  "noaaForecastPath": "data/noaa-forecast/SRDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

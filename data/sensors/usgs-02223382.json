@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02223382",
+  "key": "02223382",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02223382",
+  "name": "OCONEE RIVER NEAR DUBLIN, GA",
+  "waterbody": "OCONEE RIVER NEAR DUBLIN, GA",
+  "state": "GA",
+  "latitude": 32.69488308,
+  "longitude": -82.9387549,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02223382",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

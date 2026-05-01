@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05400220",
+  "key": "05400220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05400220",
+  "name": "LITTLE EAU PLEINE RIVER NEAR ROZELLVILLE, WI",
+  "waterbody": "LITTLE EAU PLEINE RIVER NEAR ROZELLVILLE, WI",
+  "state": "WI",
+  "latitude": 44.71302778,
+  "longitude": -89.9255556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05400220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

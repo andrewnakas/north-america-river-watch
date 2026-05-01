@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15565400",
+  "key": "15565400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15565400",
+  "name": "ANVIK R NR ANVIK AK",
+  "waterbody": "ANVIK R NR ANVIK AK",
+  "state": "AK",
+  "latitude": 62.7887211,
+  "longitude": -160.699352,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15565400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

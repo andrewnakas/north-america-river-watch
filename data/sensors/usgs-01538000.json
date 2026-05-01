@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01538000",
+  "key": "01538000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01538000",
+  "name": "Wapwallopen Creek near Wapwallopen, PA",
+  "waterbody": "Wapwallopen Creek near Wapwallopen, PA",
+  "state": "PA",
+  "latitude": 41.0594483,
+  "longitude": -76.0938016,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAPP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wapwallopen Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wapp1",
+  "slug": "usgs-01538000",
+  "noaaForecastPath": "data/noaa-forecast/WAPP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

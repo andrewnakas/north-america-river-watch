@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03207800",
+  "key": "03207800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03207800",
+  "name": "LEVISA FORK AT BIG ROCK, VA",
+  "waterbody": "LEVISA FORK AT BIG ROCK, VA",
+  "state": "VA",
+  "latitude": 37.35371995,
+  "longitude": -82.1956935,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIGV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Levisa Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bigv2",
+  "slug": "usgs-03207800",
+  "noaaForecastPath": "data/noaa-forecast/BIGV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

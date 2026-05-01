@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01674000",
+  "key": "01674000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01674000",
+  "name": "MATTAPONI RIVER NEAR BOWLING GREEN, VA",
+  "waterbody": "MATTAPONI RIVER NEAR BOWLING GREEN, VA",
+  "state": "VA",
+  "latitude": 38.061801,
+  "longitude": -77.3858142,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mattaponi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwlv2",
+  "slug": "usgs-01674000",
+  "noaaForecastPath": "data/noaa-forecast/BWLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

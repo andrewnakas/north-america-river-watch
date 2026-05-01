@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021731105",
+  "key": "021731105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021731105",
+  "name": "CHINQUAPIN CREEK NEAR MONETTA, SC",
+  "waterbody": "CHINQUAPIN CREEK NEAR MONETTA, SC",
+  "state": "SC",
+  "latitude": 33.82541667,
+  "longitude": -81.5221667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCMS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chinquapin Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccms1",
+  "slug": "usgs-021731105",
+  "noaaForecastPath": "data/noaa-forecast/CCMS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

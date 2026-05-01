@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06772898",
+  "key": "06772898",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06772898",
+  "name": "Silver Creek, at Mile 4 near Silver Creek, Nebr.",
+  "waterbody": "Silver Creek, at Mile 4 near Silver Creek, Nebr.",
+  "state": "NE",
+  "latitude": 41.29734722,
+  "longitude": -97.71403056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SILN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Silver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/siln1",
+  "slug": "usgs-06772898",
+  "noaaForecastPath": "data/noaa-forecast/SILN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

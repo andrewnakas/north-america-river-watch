@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09073721",
+  "key": "09073721",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09073721",
+  "name": "HUNTER CREEK CONDUIT BYPASS NEAR ASPEN, CO",
+  "waterbody": "HUNTER CREEK CONDUIT BYPASS NEAR ASPEN, CO",
+  "state": "CO",
+  "latitude": 39.20756944,
+  "longitude": -106.6803917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09073721",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

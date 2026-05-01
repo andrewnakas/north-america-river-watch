@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01482170",
+  "key": "01482170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01482170",
+  "name": "DELAWARE RIVER AT NEW CASTLE, DE",
+  "waterbody": "DELAWARE RIVER AT NEW CASTLE, DE",
+  "state": "DE",
+  "latitude": 39.65138889,
+  "longitude": -75.5868611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01482170",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03448050",
+  "key": "03448050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03448050",
+  "name": "FRENCH BROAD RIVER BELOW I-26 NEAR BENT CREEK, NC",
+  "waterbody": "FRENCH BROAD RIVER BELOW I-26 NEAR BENT CREEK, NC",
+  "state": "NC",
+  "latitude": 35.51222222,
+  "longitude": -82.57722222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03448050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

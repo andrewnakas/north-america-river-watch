@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08049565",
+  "key": "08049565",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08049565",
+  "name": "Trigg Br at DFW Airport nr Euless, TX",
+  "waterbody": "Trigg Br at DFW Airport nr Euless, TX",
+  "state": "TX",
+  "latitude": 32.86734948,
+  "longitude": -97.039175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08049565",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

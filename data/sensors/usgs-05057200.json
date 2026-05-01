@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05057200",
+  "key": "05057200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05057200",
+  "name": "BALDHILL CREEK NR DAZEY, ND",
+  "waterbody": "BALDHILL CREEK NR DAZEY, ND",
+  "state": "ND",
+  "latitude": 47.2291562,
+  "longitude": -98.1248189,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DBCN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Baldhill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dbcn8",
+  "slug": "usgs-05057200",
+  "noaaForecastPath": "data/noaa-forecast/DBCN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

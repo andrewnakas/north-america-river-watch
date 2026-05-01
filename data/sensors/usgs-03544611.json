@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03544611",
+  "key": "03544611",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03544611",
+  "name": "Little Richland Creek at 16th AVE at Dayton, TN",
+  "waterbody": "Little Richland Creek at 16th AVE at Dayton, TN",
+  "state": "TN",
+  "latitude": 35.507475,
+  "longitude": -85.000925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03544611",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

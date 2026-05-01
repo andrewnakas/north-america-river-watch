@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01017000",
+  "key": "01017000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01017000",
+  "name": "Aroostook River at Washburn, Maine",
+  "waterbody": "Aroostook River at Washburn, Maine",
+  "state": "ME",
+  "latitude": 46.7772222,
+  "longitude": -68.1572222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSHM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aroostook River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wshm1",
+  "slug": "usgs-01017000",
+  "noaaForecastPath": "data/noaa-forecast/WSHM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

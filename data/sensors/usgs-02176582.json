@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02176582",
+  "key": "02176582",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02176582",
+  "name": "SKULL CREEK NEAR HILTON HEAD, SC",
+  "waterbody": "SKULL CREEK NEAR HILTON HEAD, SC",
+  "state": "SC",
+  "latitude": 32.26525,
+  "longitude": -80.73813889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skull Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfcs1",
+  "slug": "usgs-02176582",
+  "noaaForecastPath": "data/noaa-forecast/BFCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

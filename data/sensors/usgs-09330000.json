@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09330000",
+  "key": "09330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09330000",
+  "name": "FREMONT RIVER NEAR BICKNELL, UT",
+  "waterbody": "FREMONT RIVER NEAR BICKNELL, UT",
+  "state": "UT",
+  "latitude": 38.3069248,
+  "longitude": -111.5187917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FREU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fremont River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/freu1",
+  "slug": "usgs-09330000",
+  "noaaForecastPath": "data/noaa-forecast/FREU1.json",
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

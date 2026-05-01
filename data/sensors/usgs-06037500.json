@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06037500",
+  "key": "06037500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06037500",
+  "name": "Madison River near West Yellowstone, MT",
+  "waterbody": "Madison River near West Yellowstone, MT",
+  "state": "MT",
+  "latitude": 44.6570722,
+  "longitude": -111.0679639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDSM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Madison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdsm8",
+  "slug": "usgs-06037500",
+  "noaaForecastPath": "data/noaa-forecast/MDSM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

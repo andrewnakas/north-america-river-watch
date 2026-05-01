@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12059500",
+  "key": "12059500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12059500",
+  "name": "NORTH FORK SKOKOMISH RIVER NEAR POTLATCH, WA",
+  "waterbody": "NORTH FORK SKOKOMISH RIVER NEAR POTLATCH, WA",
+  "state": "WA",
+  "latitude": 47.32978387,
+  "longitude": -123.243186,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSPW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Skokomish River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nspw1",
+  "slug": "usgs-12059500",
+  "noaaForecastPath": "data/noaa-forecast/NSPW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

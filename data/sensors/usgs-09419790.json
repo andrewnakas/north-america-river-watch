@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419790",
+  "key": "09419790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419790",
+  "name": "LV WASH BLW LAKE LAS VEGAS BLW HENDERSON, NV",
+  "waterbody": "LV WASH BLW LAKE LAS VEGAS BLW HENDERSON, NV",
+  "state": "NV",
+  "latitude": 36.12053144,
+  "longitude": -114.91027,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419790",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

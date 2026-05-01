@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04227500",
+  "key": "04227500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04227500",
+  "name": "GENESEE RIVER NEAR MOUNT MORRIS NY",
+  "waterbody": "GENESEE RIVER NEAR MOUNT MORRIS NY",
+  "state": "NY",
+  "latitude": 42.76666667,
+  "longitude": -77.83888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JONN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Genesee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jonn6",
+  "slug": "usgs-04227500",
+  "noaaForecastPath": "data/noaa-forecast/JONN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

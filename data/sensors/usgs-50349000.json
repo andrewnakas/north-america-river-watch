@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50349000",
+  "key": "50349000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50349000",
+  "name": "GUT 10 NR ALTONA, ST. CROIX USVI",
+  "waterbody": "GUT 10 NR ALTONA, ST. CROIX USVI",
+  "state": "VI",
+  "latitude": 17.73136253,
+  "longitude": -64.6912535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50349000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

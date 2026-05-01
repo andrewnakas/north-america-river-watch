@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03509000",
+  "key": "03509000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03509000",
+  "name": "SCOTT CREEK ABOVE SYLVA, NC",
+  "waterbody": "SCOTT CREEK ABOVE SYLVA, NC",
+  "state": "NC",
+  "latitude": 35.38398906,
+  "longitude": -83.2140353,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03509000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

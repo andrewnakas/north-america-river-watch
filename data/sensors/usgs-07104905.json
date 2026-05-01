@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07104905",
+  "key": "07104905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07104905",
+  "name": "MONUMENT CREEK AT BIJOU ST. AT COLO. SPRINGS, CO",
+  "waterbody": "MONUMENT CREEK AT BIJOU ST. AT COLO. SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.837222,
+  "longitude": -104.828889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07104905",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

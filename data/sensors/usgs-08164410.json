@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08164410",
+  "key": "08164410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164410",
+  "name": "W Sandy Ck at FM 2437 nr Sheridan, TX",
+  "waterbody": "W Sandy Ck at FM 2437 nr Sheridan, TX",
+  "state": "TX",
+  "latitude": 29.45140278,
+  "longitude": -96.6736056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08164410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

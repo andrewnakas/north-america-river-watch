@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05474000",
+  "key": "05474000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05474000",
+  "name": "Skunk River at Augusta, IA",
+  "waterbody": "Skunk River at Augusta, IA",
+  "state": "IA",
+  "latitude": 40.75365,
+  "longitude": -91.2770889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AGSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skunk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/agsi4",
+  "slug": "usgs-05474000",
+  "noaaForecastPath": "data/noaa-forecast/AGSI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

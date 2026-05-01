@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01067950",
+  "key": "01067950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01067950",
+  "name": "Kennebunk River near Kennebunk, Maine",
+  "waterbody": "Kennebunk River near Kennebunk, Maine",
+  "state": "ME",
+  "latitude": 43.4322222,
+  "longitude": -70.5533333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01067950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

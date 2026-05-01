@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03010747",
+  "key": "03010747",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03010747",
+  "name": "ISCHUA CR AT ISCHUA VALLEY CC NR FRANKLINVILLE NY",
+  "waterbody": "ISCHUA CR AT ISCHUA VALLEY CC NR FRANKLINVILLE NY",
+  "state": "NY",
+  "latitude": 42.35572222,
+  "longitude": -78.45405556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ISCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ischua Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iscn6",
+  "slug": "usgs-03010747",
+  "noaaForecastPath": "data/noaa-forecast/ISCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

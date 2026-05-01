@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02251500",
+  "key": "02251500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02251500",
+  "name": "NORTH PRONG SAINT SEBASTIAN RIVER NEAR MICCO, FL",
+  "waterbody": "NORTH PRONG SAINT SEBASTIAN RIVER NEAR MICCO, FL",
+  "state": "FL",
+  "latitude": 27.85613569,
+  "longitude": -80.52422,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MICF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saint Sebastian River North Prong",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/micf1",
+  "slug": "usgs-02251500",
+  "noaaForecastPath": "data/noaa-forecast/MICF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06800800",
+  "key": "06800800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06800800",
+  "name": "Elkhorn River at Q St Bridge near Venice, Nebr.",
+  "waterbody": "Elkhorn River at Q St Bridge near Venice, Nebr.",
+  "state": "NE",
+  "latitude": 41.20471746,
+  "longitude": -96.2964138,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06800800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

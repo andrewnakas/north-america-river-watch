@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03287500",
+  "key": "03287500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03287500",
+  "name": "KENTUCKY RIVER AT LOCK 4 AT FRANKFORT, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 4 AT FRANKFORT, KY",
+  "state": "KY",
+  "latitude": 38.2113333,
+  "longitude": -84.8741111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FFTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fftk2",
+  "slug": "usgs-03287500",
+  "noaaForecastPath": "data/noaa-forecast/FFTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:372750122012701",
+  "key": "372750122012701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "372750122012701",
+  "name": "COYOTE C NR ALVISO CA",
+  "waterbody": "COYOTE C NR ALVISO CA",
+  "state": "CA",
+  "latitude": 37.46385278,
+  "longitude": -122.0241556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RYAC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Francisco Bay  Coyote Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ryac1",
+  "slug": "usgs-372750122012701",
+  "noaaForecastPath": "data/noaa-forecast/RYAC1.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10133980",
+  "key": "10133980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10133980",
+  "name": "EAST CANYON CREEK AB EAST CYN RES NR MORGAN, UTAH",
+  "waterbody": "EAST CANYON CREEK AB EAST CYN RES NR MORGAN, UTAH",
+  "state": "UT",
+  "latitude": 40.8695861,
+  "longitude": -111.5866222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10133980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

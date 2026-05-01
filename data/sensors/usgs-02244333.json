@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02244333",
+  "key": "02244333",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02244333",
+  "name": "HAW CREEK AB RUSSELLS LANDING NR ST JOHNS PARK FL",
+  "waterbody": "HAW CREEK AB RUSSELLS LANDING NR ST JOHNS PARK FL",
+  "state": "FL",
+  "latitude": 29.39469798,
+  "longitude": -81.3711787,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Haw Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rlgf1",
+  "slug": "usgs-02244333",
+  "noaaForecastPath": "data/noaa-forecast/RLGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

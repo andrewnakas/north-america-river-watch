@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06342500",
+  "key": "06342500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06342500",
+  "name": "MISSOURI RIVER AT BISMARCK, ND",
+  "waterbody": "MISSOURI RIVER AT BISMARCK, ND",
+  "state": "ND",
+  "latitude": 46.81416667,
+  "longitude": -100.8213889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIWN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/biwn8",
+  "slug": "usgs-06342500",
+  "noaaForecastPath": "data/noaa-forecast/BIWN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

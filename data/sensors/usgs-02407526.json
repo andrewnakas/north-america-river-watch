@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02407526",
+  "key": "02407526",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02407526",
+  "name": "COOSA RIVER AT GASTON STEAM PLANT NR WILSONVILLE",
+  "waterbody": "COOSA RIVER AT GASTON STEAM PLANT NR WILSONVILLE",
+  "state": "AL",
+  "latitude": 33.24122519,
+  "longitude": -86.4583132,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GASA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gasa1",
+  "slug": "usgs-02407526",
+  "noaaForecastPath": "data/noaa-forecast/GASA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

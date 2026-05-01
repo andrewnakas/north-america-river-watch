@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07195000",
+  "key": "07195000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07195000",
+  "name": "Osage Creek near Elm Springs, AR",
+  "waterbody": "Osage Creek near Elm Springs, AR",
+  "state": "AR",
+  "latitude": 36.22194444,
+  "longitude": -94.2883333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELMA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Osage Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elma4",
+  "slug": "usgs-07195000",
+  "noaaForecastPath": "data/noaa-forecast/ELMA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

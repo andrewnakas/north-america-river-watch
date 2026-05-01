@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50294000",
+  "key": "50294000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50294000",
+  "name": "FISH BAY GUT AT FISH BAY, ST. JOHN USVI",
+  "waterbody": "FISH BAY GUT AT FISH BAY, ST. JOHN USVI",
+  "state": "VI",
+  "latitude": 18.32634339,
+  "longitude": -64.7640264,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50294000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

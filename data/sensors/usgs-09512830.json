@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09512830",
+  "key": "09512830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512830",
+  "name": "BOULDER CREEK NR ROCK SPRINGS AZ.",
+  "waterbody": "BOULDER CREEK NR ROCK SPRINGS AZ.",
+  "state": "AZ",
+  "latitude": 33.9986449,
+  "longitude": -112.2165508,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09512830",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

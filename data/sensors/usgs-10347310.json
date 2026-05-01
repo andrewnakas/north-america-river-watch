@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10347310",
+  "key": "10347310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10347310",
+  "name": "DOG CK AT VERDI, NV",
+  "waterbody": "DOG CK AT VERDI, NV",
+  "state": "NV",
+  "latitude": 39.5243537,
+  "longitude": -119.9954782,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOGN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dog Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dogn2",
+  "slug": "usgs-10347310",
+  "noaaForecastPath": "data/noaa-forecast/DOGN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03448000",
+  "key": "03448000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03448000",
+  "name": "FRENCH BROAD RIVER AT BENT CREEK, NC",
+  "waterbody": "FRENCH BROAD RIVER AT BENT CREEK, NC",
+  "state": "NC",
+  "latitude": 35.50205666,
+  "longitude": -82.5923464,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03448000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03047000",
+  "key": "03047000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03047000",
+  "name": "Loyalhanna Creek at Loyalhanna Dam, PA",
+  "waterbody": "Loyalhanna Creek at Loyalhanna Dam, PA",
+  "state": "PA",
+  "latitude": 40.45888889,
+  "longitude": -79.4494444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loyalhanna Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sltp1",
+  "slug": "usgs-03047000",
+  "noaaForecastPath": "data/noaa-forecast/SLTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

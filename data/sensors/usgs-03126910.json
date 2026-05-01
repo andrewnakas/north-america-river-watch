@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03126910",
+  "key": "03126910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03126910",
+  "name": "Brushy Fork near Tippecanoe OH",
+  "waterbody": "Brushy Fork near Tippecanoe OH",
+  "state": "OH",
+  "latitude": 40.2661111,
+  "longitude": -81.2841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLKO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clko1",
+  "slug": "usgs-03126910",
+  "noaaForecastPath": "data/noaa-forecast/CLKO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

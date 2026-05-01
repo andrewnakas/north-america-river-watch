@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02341725",
+  "key": "02341725",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02341725",
+  "name": "PINE KNOT CREEK NEAR EELBEECK, GA",
+  "waterbody": "PINE KNOT CREEK NEAR EELBEECK, GA",
+  "state": "GA",
+  "latitude": 32.4393099,
+  "longitude": -84.7332603,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02341725",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

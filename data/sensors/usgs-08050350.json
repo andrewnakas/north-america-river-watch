@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08050350",
+  "key": "08050350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08050350",
+  "name": "Elm Fk Trinity Rv at FM 1198 nr Myra, TX",
+  "waterbody": "Elm Fk Trinity Rv at FM 1198 nr Myra, TX",
+  "state": "TX",
+  "latitude": 33.601,
+  "longitude": -97.3258333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08050350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05427085",
+  "key": "05427085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05427085",
+  "name": "ROCK RIVER AT FORT ATKINSON, WI",
+  "waterbody": "ROCK RIVER AT FORT ATKINSON, WI",
+  "state": "WI",
+  "latitude": 42.9289722,
+  "longitude": -88.8395278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FATW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fatw3",
+  "slug": "usgs-05427085",
+  "noaaForecastPath": "data/noaa-forecast/FATW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

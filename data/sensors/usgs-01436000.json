@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01436000",
+  "key": "01436000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01436000",
+  "name": "NEVERSINK RIVER AT NEVERSINK NY",
+  "waterbody": "NEVERSINK RIVER AT NEVERSINK NY",
+  "state": "NY",
+  "latitude": 41.82030556,
+  "longitude": -74.63552778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NVXN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neversink River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nvxn6",
+  "slug": "usgs-01436000",
+  "noaaForecastPath": "data/noaa-forecast/NVXN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

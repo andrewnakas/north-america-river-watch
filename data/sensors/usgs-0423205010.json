@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0423205010",
+  "key": "0423205010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0423205010",
+  "name": "IRONDEQUOIT CR ABOVE BLOSSOM RD NEAR ROCHESTER NY",
+  "waterbody": "IRONDEQUOIT CR ABOVE BLOSSOM RD NEAR ROCHESTER NY",
+  "state": "NY",
+  "latitude": 43.144833,
+  "longitude": -77.511972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRON6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Irondequoit Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iron6",
+  "slug": "usgs-0423205010",
+  "noaaForecastPath": "data/noaa-forecast/IRON6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

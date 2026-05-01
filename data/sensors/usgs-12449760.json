@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12449760",
+  "key": "12449760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12449760",
+  "name": "METHOW RIVER AT CARLTON, WA",
+  "waterbody": "METHOW RIVER AT CARLTON, WA",
+  "state": "WA",
+  "latitude": 48.2362554,
+  "longitude": -120.1131347,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12449760",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

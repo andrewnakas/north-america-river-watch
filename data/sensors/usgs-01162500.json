@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01162500",
+  "key": "01162500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01162500",
+  "name": "PRIEST BROOK NEAR WINCHENDON, MA",
+  "waterbody": "PRIEST BROOK NEAR WINCHENDON, MA",
+  "state": "MA",
+  "latitude": 42.6825859,
+  "longitude": -72.1150812,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WINM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Priest Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/winm3",
+  "slug": "usgs-01162500",
+  "noaaForecastPath": "data/noaa-forecast/WINM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

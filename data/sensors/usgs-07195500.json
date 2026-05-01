@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07195500",
+  "key": "07195500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07195500",
+  "name": "Illinois River near Watts, OK",
+  "waterbody": "Illinois River near Watts, OK",
+  "state": "OK",
+  "latitude": 36.13008185,
+  "longitude": -94.5721645,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River (AR OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtto2",
+  "slug": "usgs-07195500",
+  "noaaForecastPath": "data/noaa-forecast/WTTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

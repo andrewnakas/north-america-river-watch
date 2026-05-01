@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07156900",
+  "key": "07156900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07156900",
+  "name": "Cimarron River near Forgan, OK",
+  "waterbody": "Cimarron River near Forgan, OK",
+  "state": "KS",
+  "latitude": 37.0111372,
+  "longitude": -100.4918171,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRGO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cimarron River (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frgo2",
+  "slug": "usgs-07156900",
+  "noaaForecastPath": "data/noaa-forecast/FRGO2.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

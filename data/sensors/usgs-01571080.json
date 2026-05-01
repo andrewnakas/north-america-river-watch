@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01571080",
+  "key": "01571080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01571080",
+  "name": "Paxton Cr at Herr St at Harrisburg, PA",
+  "waterbody": "Paxton Cr at Herr St at Harrisburg, PA",
+  "state": "PA",
+  "latitude": 40.27188889,
+  "longitude": -76.8786111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PXNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paxton Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pxnp1",
+  "slug": "usgs-01571080",
+  "noaaForecastPath": "data/noaa-forecast/PXNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15269500",
+  "key": "15269500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15269500",
+  "name": "GRANITE C NR PORTAGE AK",
+  "waterbody": "GRANITE C NR PORTAGE AK",
+  "state": "AK",
+  "latitude": 60.7272095,
+  "longitude": -149.2854779,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15269500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09430820",
+  "key": "09430820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09430820",
+  "name": "FORT WEST DITCH NEAR GILA, NM",
+  "waterbody": "FORT WEST DITCH NEAR GILA, NM",
+  "state": "NM",
+  "latitude": 33.01555556,
+  "longitude": -108.5433333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09430820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

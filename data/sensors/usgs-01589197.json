@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589197",
+  "key": "01589197",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589197",
+  "name": "GWYNNS FALLS NEAR DELIGHT, MD",
+  "waterbody": "GWYNNS FALLS NEAR DELIGHT, MD",
+  "state": "MD",
+  "latitude": 39.44294444,
+  "longitude": -76.7834167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DELM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gwynns Falls",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/delm2",
+  "slug": "usgs-01589197",
+  "noaaForecastPath": "data/noaa-forecast/DELM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

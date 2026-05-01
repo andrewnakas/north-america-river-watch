@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08385500",
+  "key": "08385500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08385500",
+  "name": "PECOS RIVER NEAR FORT SUMNER, NM",
+  "waterbody": "PECOS RIVER NEAR FORT SUMNER, NM",
+  "state": "NM",
+  "latitude": 34.4786776,
+  "longitude": -104.2724756,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08385500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

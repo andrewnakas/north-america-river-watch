@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02492343",
+  "key": "02492343",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02492343",
+  "name": "EAST HOBOLOCHITTO CREEK NR CAESAR, MS",
+  "waterbody": "EAST HOBOLOCHITTO CREEK NR CAESAR, MS",
+  "state": "MS",
+  "latitude": 30.57416667,
+  "longitude": -89.5947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CREM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Hobolochitto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crem6",
+  "slug": "usgs-02492343",
+  "noaaForecastPath": "data/noaa-forecast/CREM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

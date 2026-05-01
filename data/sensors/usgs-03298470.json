@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03298470",
+  "key": "03298470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298470",
+  "name": "FLOYDS FORK NEAR SHEPHERDSVILLE, KY",
+  "waterbody": "FLOYDS FORK NEAR SHEPHERDSVILLE, KY",
+  "state": "KY",
+  "latitude": 38.0033983,
+  "longitude": -85.68218,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03298470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03072000",
+  "key": "03072000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03072000",
+  "name": "Dunkard Creek at Shannopin, PA",
+  "waterbody": "Dunkard Creek at Shannopin, PA",
+  "state": "PA",
+  "latitude": 39.7592449,
+  "longitude": -79.9706152,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNPP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dunkard Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snpp1",
+  "slug": "usgs-03072000",
+  "noaaForecastPath": "data/noaa-forecast/SNPP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

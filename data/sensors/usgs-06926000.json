@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06926000",
+  "key": "06926000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06926000",
+  "name": "Osage River near Bagnell, MO",
+  "waterbody": "Osage River near Bagnell, MO",
+  "state": "MO",
+  "latitude": 38.1907222,
+  "longitude": -92.6071389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKBM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Osage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkbm7",
+  "slug": "usgs-06926000",
+  "noaaForecastPath": "data/noaa-forecast/LKBM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

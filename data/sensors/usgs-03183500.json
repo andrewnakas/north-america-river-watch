@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03183500",
+  "key": "03183500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03183500",
+  "name": "GREENBRIER RIVER AT ALDERSON, WV",
+  "waterbody": "GREENBRIER RIVER AT ALDERSON, WV",
+  "state": "WV",
+  "latitude": 37.7242874,
+  "longitude": -80.641468,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALDW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greenbrier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aldw2",
+  "slug": "usgs-03183500",
+  "noaaForecastPath": "data/noaa-forecast/ALDW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01656100",
+  "key": "01656100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01656100",
+  "name": "CEDAR RUN NEAR ADEN, VA",
+  "waterbody": "CEDAR RUN NEAR ADEN, VA",
+  "state": "VA",
+  "latitude": 38.6162316,
+  "longitude": -77.5541545,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADEV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adev2",
+  "slug": "usgs-01656100",
+  "noaaForecastPath": "data/noaa-forecast/ADEV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

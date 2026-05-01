@@ -1,0 +1,22 @@
+{
+  "id": "usgs:411402080492400",
+  "key": "411402080492400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "411402080492400",
+  "name": "Mahoning River near U.S. Route 422 at Warren OH",
+  "waterbody": "Mahoning River near U.S. Route 422 at Warren OH",
+  "state": "OH",
+  "latitude": 41.23388889,
+  "longitude": -80.8233333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mahoning River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrno1",
+  "slug": "usgs-411402080492400",
+  "noaaForecastPath": "data/noaa-forecast/WRNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

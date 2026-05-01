@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12150800",
+  "key": "12150800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12150800",
+  "name": "SNOHOMISH RIVER NEAR MONROE, WA",
+  "waterbody": "SNOHOMISH RIVER NEAR MONROE, WA",
+  "state": "WA",
+  "latitude": 47.830932,
+  "longitude": -122.048459,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MROW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snohomish River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrow1",
+  "slug": "usgs-12150800",
+  "noaaForecastPath": "data/noaa-forecast/MROW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

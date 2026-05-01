@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03127500",
+  "key": "03127500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03127500",
+  "name": "Stillwater Creek at Uhrichsville OH",
+  "waterbody": "Stillwater Creek at Uhrichsville OH",
+  "state": "OH",
+  "latitude": 40.3861774,
+  "longitude": -81.3470554,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "URVO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwater Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/urvo1",
+  "slug": "usgs-03127500",
+  "noaaForecastPath": "data/noaa-forecast/URVO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

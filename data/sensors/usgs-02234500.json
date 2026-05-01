@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02234500",
+  "key": "02234500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02234500",
+  "name": "ST. JOHNS RIVER NEAR SANFORD, FL",
+  "waterbody": "ST. JOHNS RIVER NEAR SANFORD, FL",
+  "state": "FL",
+  "latitude": 28.83804694,
+  "longitude": -81.3242323,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNFF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Johns River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snff1",
+  "slug": "usgs-02234500",
+  "noaaForecastPath": "data/noaa-forecast/SNFF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12322000",
+  "key": "12322000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12322000",
+  "name": "KOOTENAI RIVER AT PORTHILL ID",
+  "waterbody": "KOOTENAI RIVER AT PORTHILL ID",
+  "state": "ID",
+  "latitude": 48.99638889,
+  "longitude": -116.5075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PORI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kootenai River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pori1",
+  "slug": "usgs-12322000",
+  "noaaForecastPath": "data/noaa-forecast/PORI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

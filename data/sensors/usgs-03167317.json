@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03167317",
+  "key": "03167317",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03167317",
+  "name": "GREASY CREEK NR INDIAN VALLEY, VA",
+  "waterbody": "GREASY CREEK NR INDIAN VALLEY, VA",
+  "state": "VA",
+  "latitude": 36.87956111,
+  "longitude": -80.57928056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FGIV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greasy Creek Near Indian Valley",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fgiv2",
+  "slug": "usgs-03167317",
+  "noaaForecastPath": "data/noaa-forecast/FGIV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

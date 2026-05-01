@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06845200",
+  "key": "06845200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06845200",
+  "name": "SAPPA CREEK NEAR BEAVER CITY, NEBR.",
+  "waterbody": "SAPPA CREEK NEAR BEAVER CITY, NEBR.",
+  "state": "NE",
+  "latitude": 40.04583999,
+  "longitude": -99.8904005,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVSN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sappa Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvsn1",
+  "slug": "usgs-06845200",
+  "noaaForecastPath": "data/noaa-forecast/BVSN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

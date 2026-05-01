@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10167499",
+  "key": "10167499",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10167499",
+  "name": "LITTLE COTTONWOOD CREEK (CHANNEL) NEAR SLC, UT",
+  "waterbody": "LITTLE COTTONWOOD CREEK (CHANNEL) NEAR SLC, UT",
+  "state": "UT",
+  "latitude": 40.5777263,
+  "longitude": -111.7979877,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCTU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cottonwood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lctu1",
+  "slug": "usgs-10167499",
+  "noaaForecastPath": "data/noaa-forecast/LCTU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

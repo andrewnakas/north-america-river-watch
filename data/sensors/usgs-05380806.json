@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05380806",
+  "key": "05380806",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05380806",
+  "name": "BLACK RIVER AT MEDFORD, WI",
+  "waterbody": "BLACK RIVER AT MEDFORD, WI",
+  "state": "WI",
+  "latitude": 45.1358171,
+  "longitude": -90.3459472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05380806",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

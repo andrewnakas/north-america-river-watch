@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02115360",
+  "key": "02115360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02115360",
+  "name": "YADKIN RIVER AT ENON, NC",
+  "waterbody": "YADKIN RIVER AT ENON, NC",
+  "state": "NC",
+  "latitude": 36.1328861,
+  "longitude": -80.445275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENNN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yadkin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ennn7",
+  "slug": "usgs-02115360",
+  "noaaForecastPath": "data/noaa-forecast/ENNN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

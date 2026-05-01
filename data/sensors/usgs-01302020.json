@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01302020",
+  "key": "01302020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01302020",
+  "name": "BRONX RIVER AT NY BOTANICAL GARDEN AT BRONX NY",
+  "waterbody": "BRONX RIVER AT NY BOTANICAL GARDEN AT BRONX NY",
+  "state": "NY",
+  "latitude": 40.86230556,
+  "longitude": -73.87438889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bronx River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbgn6",
+  "slug": "usgs-01302020",
+  "noaaForecastPath": "data/noaa-forecast/BBGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

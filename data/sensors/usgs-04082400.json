@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04082400",
+  "key": "04082400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04082400",
+  "name": "FOX RIVER AT OSHKOSH, WI",
+  "waterbody": "FOX RIVER AT OSHKOSH, WI",
+  "state": "WI",
+  "latitude": 44.01361209,
+  "longitude": -88.5408823,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River (North)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ossw3",
+  "slug": "usgs-04082400",
+  "noaaForecastPath": "data/noaa-forecast/OSSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

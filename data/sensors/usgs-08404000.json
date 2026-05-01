@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08404000",
+  "key": "08404000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08404000",
+  "name": "PECOS RIVER BELOW AVALON DAM, NM",
+  "waterbody": "PECOS RIVER BELOW AVALON DAM, NM",
+  "state": "NM",
+  "latitude": 32.48085556,
+  "longitude": -104.2629806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBAN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pban5",
+  "slug": "usgs-08404000",
+  "noaaForecastPath": "data/noaa-forecast/PBAN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

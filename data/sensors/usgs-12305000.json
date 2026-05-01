@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12305000",
+  "key": "12305000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12305000",
+  "name": "KOOTENAI RIVER AT LEONIA, ID",
+  "waterbody": "KOOTENAI RIVER AT LEONIA, ID",
+  "state": "ID",
+  "latitude": 48.6168833,
+  "longitude": -116.0491944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEOI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kootenai River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/leoi1",
+  "slug": "usgs-12305000",
+  "noaaForecastPath": "data/noaa-forecast/LEOI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

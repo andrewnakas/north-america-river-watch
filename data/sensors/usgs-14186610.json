@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14186610",
+  "key": "14186610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14186610",
+  "name": "FOSTER DAM TAILWATER AT FOSTER, OR",
+  "waterbody": "FOSTER DAM TAILWATER AT FOSTER, OR",
+  "state": "OR",
+  "latitude": 44.41479444,
+  "longitude": -122.6713556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/foso3",
+  "slug": "usgs-14186610",
+  "noaaForecastPath": "data/noaa-forecast/FOSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

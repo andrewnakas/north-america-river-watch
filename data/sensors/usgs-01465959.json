@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465959",
+  "key": "01465959",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465959",
+  "name": "Jacks Run at Range Rd near Hanover Furnace NJ",
+  "waterbody": "Jacks Run at Range Rd near Hanover Furnace NJ",
+  "state": "NJ",
+  "latitude": 39.99205556,
+  "longitude": -74.56975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465959",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

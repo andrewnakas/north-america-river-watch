@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02135500",
+  "key": "02135500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02135500",
+  "name": "BLACK RIVER NEAR GABLE, SC",
+  "waterbody": "BLACK RIVER NEAR GABLE, SC",
+  "state": "SC",
+  "latitude": 33.9001594,
+  "longitude": -80.16507629,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02135500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021474095",
+  "key": "021474095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021474095",
+  "name": "GREAT FALLS RESERVOIR TAILRACE BL GREAT FALLS, SC",
+  "waterbody": "GREAT FALLS RESERVOIR TAILRACE BL GREAT FALLS, SC",
+  "state": "SC",
+  "latitude": 34.55801667,
+  "longitude": -80.8935,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTFS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gtfs1",
+  "slug": "usgs-021474095",
+  "noaaForecastPath": "data/noaa-forecast/GTFS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

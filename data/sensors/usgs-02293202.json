@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02293202",
+  "key": "02293202",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02293202",
+  "name": "CALOOSAHATCHEE RIVER AT FORT MYERS FL",
+  "waterbody": "CALOOSAHATCHEE RIVER AT FORT MYERS FL",
+  "state": "FL",
+  "latitude": 26.65105844,
+  "longitude": -81.86898558,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tide Gauge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmrf1",
+  "slug": "usgs-02293202",
+  "noaaForecastPath": "data/noaa-forecast/FMRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

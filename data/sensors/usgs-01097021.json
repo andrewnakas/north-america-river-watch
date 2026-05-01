@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01097021",
+  "key": "01097021",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01097021",
+  "name": "ASSABET RIVER, US MAYNARD WASTEWATER TREATMENT PLT",
+  "waterbody": "ASSABET RIVER, US MAYNARD WASTEWATER TREATMENT PLT",
+  "state": "MA",
+  "latitude": 42.43821667,
+  "longitude": -71.44323889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01097021",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

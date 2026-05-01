@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12062502",
+  "key": "12062502",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12062502",
+  "name": "PURDY CREEK AT HWY101 NEAR UNION, WA",
+  "waterbody": "PURDY CREEK AT HWY101 NEAR UNION, WA",
+  "state": "WA",
+  "latitude": 47.30325278,
+  "longitude": -123.1801944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12062502",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

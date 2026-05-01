@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03308500",
+  "key": "03308500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03308500",
+  "name": "GREEN RIVER AT MUNFORDVILLE, KY",
+  "waterbody": "GREEN RIVER AT MUNFORDVILLE, KY",
+  "state": "KY",
+  "latitude": 37.26944444,
+  "longitude": -85.8880556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfvk2",
+  "slug": "usgs-03308500",
+  "noaaForecastPath": "data/noaa-forecast/MFVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

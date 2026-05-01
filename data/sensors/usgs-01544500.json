@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01544500",
+  "key": "01544500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01544500",
+  "name": "Kettle Creek at Cross Fork, PA",
+  "waterbody": "Kettle Creek at Cross Fork, PA",
+  "state": "PA",
+  "latitude": 41.47583829,
+  "longitude": -77.82580078,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRFP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kettle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crfp1",
+  "slug": "usgs-01544500",
+  "noaaForecastPath": "data/noaa-forecast/CRFP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12098700",
+  "key": "12098700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12098700",
+  "name": "WHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA",
+  "waterbody": "WHITE RIVER AT HEADWORKS AB FLUME NR BUCKLEY, WA",
+  "state": "WA",
+  "latitude": 47.169824,
+  "longitude": -122.0026114,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12098700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

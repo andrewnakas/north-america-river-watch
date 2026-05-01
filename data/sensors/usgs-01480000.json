@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01480000",
+  "key": "01480000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480000",
+  "name": "RED CLAY CREEK AT WOODDALE, DE",
+  "waterbody": "RED CLAY CREEK AT WOODDALE, DE",
+  "state": "DE",
+  "latitude": 39.76280556,
+  "longitude": -75.6365,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCCD1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Clay Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rccd1",
+  "slug": "usgs-01480000",
+  "noaaForecastPath": "data/noaa-forecast/RCCD1.json",
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

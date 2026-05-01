@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14018500",
+  "key": "14018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14018500",
+  "name": "WALLA WALLA RIVER NEAR TOUCHET, WA",
+  "waterbody": "WALLA WALLA RIVER NEAR TOUCHET, WA",
+  "state": "WA",
+  "latitude": 46.02760945,
+  "longitude": -118.7296888,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCHW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walla Walla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tchw1",
+  "slug": "usgs-14018500",
+  "noaaForecastPath": "data/noaa-forecast/TCHW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10015900",
+  "key": "10015900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10015900",
+  "name": "SULPHUR CREEK BL RESERVOIR, NR EVANSTON, WY",
+  "waterbody": "SULPHUR CREEK BL RESERVOIR, NR EVANSTON, WY",
+  "state": "WY",
+  "latitude": 41.15605839,
+  "longitude": -110.8351757,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10015900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

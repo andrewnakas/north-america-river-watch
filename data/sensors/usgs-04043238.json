@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04043238",
+  "key": "04043238",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043238",
+  "name": "SALMON TROUT RIVER NEAR BIG BAY, MI",
+  "waterbody": "SALMON TROUT RIVER NEAR BIG BAY, MI",
+  "state": "MI",
+  "latitude": 46.78214818,
+  "longitude": -87.8776299,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04043238",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

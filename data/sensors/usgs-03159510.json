@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03159510",
+  "key": "03159510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03159510",
+  "name": "Hocking River below Athens OH",
+  "waterbody": "Hocking River below Athens OH",
+  "state": "OH",
+  "latitude": 39.32757375,
+  "longitude": -82.0048635,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03159510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

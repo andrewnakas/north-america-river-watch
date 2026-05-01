@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105046",
+  "key": "08105046",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105046",
+  "name": "Berry Ck at FM 970 nr Florence, TX",
+  "waterbody": "Berry Ck at FM 970 nr Florence, TX",
+  "state": "TX",
+  "latitude": 30.8106,
+  "longitude": -97.826,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Berry Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmft2",
+  "slug": "usgs-08105046",
+  "noaaForecastPath": "data/noaa-forecast/FMFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

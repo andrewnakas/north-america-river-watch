@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04157550",
+  "key": "04157550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04157550",
+  "name": "SEBEWAING RIVER AT CENTER ST AT SEBEWAING, MI",
+  "waterbody": "SEBEWAING RIVER AT CENTER ST AT SEBEWAING, MI",
+  "state": "MI",
+  "latitude": 43.733175,
+  "longitude": -83.4511667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04157550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

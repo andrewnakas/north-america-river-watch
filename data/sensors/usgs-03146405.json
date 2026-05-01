@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03146405",
+  "key": "03146405",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03146405",
+  "name": "North Fork Licking River at Ohio Street, Newark OH",
+  "waterbody": "North Fork Licking River at Ohio Street, Newark OH",
+  "state": "OH",
+  "latitude": 40.05388889,
+  "longitude": -82.3922222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NKOO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Licking River (OH)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nkoo1",
+  "slug": "usgs-03146405",
+  "noaaForecastPath": "data/noaa-forecast/NKOO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

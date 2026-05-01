@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08172400",
+  "key": "08172400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08172400",
+  "name": "Plum Ck at Lockhart, TX",
+  "waterbody": "Plum Ck at Lockhart, TX",
+  "state": "TX",
+  "latitude": 29.92299765,
+  "longitude": -97.679191,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Plum Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcpt2",
+  "slug": "usgs-08172400",
+  "noaaForecastPath": "data/noaa-forecast/LCPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

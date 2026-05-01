@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02483001",
+  "key": "02483001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02483001",
+  "name": "SOUTH CANAL TUSCOLAMETA CREEK NR WALNUT GROVE, MS",
+  "waterbody": "SOUTH CANAL TUSCOLAMETA CREEK NR WALNUT GROVE, MS",
+  "state": "MS",
+  "latitude": 32.5736111,
+  "longitude": -89.4686111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02483001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

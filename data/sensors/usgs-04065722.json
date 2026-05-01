@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04065722",
+  "key": "04065722",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04065722",
+  "name": "MENOMINEE RIVER NEAR VULCAN, MI",
+  "waterbody": "MENOMINEE RIVER NEAR VULCAN, MI",
+  "state": "MI",
+  "latitude": 45.7366265,
+  "longitude": -87.86345709,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menominee River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlcm4",
+  "slug": "usgs-04065722",
+  "noaaForecastPath": "data/noaa-forecast/VLCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

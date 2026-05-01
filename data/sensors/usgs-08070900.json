@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08070900",
+  "key": "08070900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08070900",
+  "name": "Peach Ck nr Cleveland, TX",
+  "waterbody": "Peach Ck nr Cleveland, TX",
+  "state": "TX",
+  "latitude": 30.3271611,
+  "longitude": -95.22665,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08070900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

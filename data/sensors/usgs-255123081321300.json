@@ -1,0 +1,19 @@
+{
+  "id": "usgs:255123081321300",
+  "key": "255123081321300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "255123081321300",
+  "name": "FAKA UNION BOUNDARY AT CHANNEL MARKER 6 FL",
+  "waterbody": "FAKA UNION BOUNDARY AT CHANNEL MARKER 6 FL",
+  "state": "FL",
+  "latitude": 25.8565,
+  "longitude": -81.5370556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-255123081321300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.211Z"
+}

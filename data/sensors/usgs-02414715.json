@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02414715",
+  "key": "02414715",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02414715",
+  "name": "TALLAPOOSA RIVER NR NEW SITE, AL.(HORSESHOE BEND)",
+  "waterbody": "TALLAPOOSA RIVER NR NEW SITE, AL.(HORSESHOE BEND)",
+  "state": "AL",
+  "latitude": 32.97738315,
+  "longitude": -85.7396804,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBPA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tallapoosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbpa1",
+  "slug": "usgs-02414715",
+  "noaaForecastPath": "data/noaa-forecast/HBPA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

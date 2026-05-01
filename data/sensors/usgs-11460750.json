@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11460750",
+  "key": "11460750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11460750",
+  "name": "WALKER C NR MARSHALL CA",
+  "waterbody": "WALKER C NR MARSHALL CA",
+  "state": "CA",
+  "latitude": 38.1757531,
+  "longitude": -122.8183254,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walker Creek (Marin)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkec1",
+  "slug": "usgs-11460750",
+  "noaaForecastPath": "data/noaa-forecast/WKEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

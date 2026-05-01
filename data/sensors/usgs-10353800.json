@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10353800",
+  "key": "10353800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10353800",
+  "name": "SMOKE CK BLW RESERVOIR NR SMOKE CK, NV",
+  "waterbody": "SMOKE CK BLW RESERVOIR NR SMOKE CK, NV",
+  "state": "NV",
+  "latitude": 40.5090688,
+  "longitude": -119.8743705,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10353800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

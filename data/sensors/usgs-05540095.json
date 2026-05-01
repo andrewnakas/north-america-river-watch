@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05540095",
+  "key": "05540095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540095",
+  "name": "WEST BRANCH DU PAGE RIVER NEAR WARRENVILLE, IL",
+  "waterbody": "WEST BRANCH DU PAGE RIVER NEAR WARRENVILLE, IL",
+  "state": "IL",
+  "latitude": 41.8175,
+  "longitude": -88.17138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRNI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Du Page River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrni2",
+  "slug": "usgs-05540095",
+  "noaaForecastPath": "data/noaa-forecast/WRNI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

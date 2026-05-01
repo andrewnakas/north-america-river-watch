@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01095220",
+  "key": "01095220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01095220",
+  "name": "STILLWATER RIVER NEAR STERLING, MA",
+  "waterbody": "STILLWATER RIVER NEAR STERLING, MA",
+  "state": "MA",
+  "latitude": 42.41080875,
+  "longitude": -71.7911516,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STEM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwater River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stem3",
+  "slug": "usgs-01095220",
+  "noaaForecastPath": "data/noaa-forecast/STEM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

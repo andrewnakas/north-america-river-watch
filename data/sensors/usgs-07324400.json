@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07324400",
+  "key": "07324400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07324400",
+  "name": "Washita River near Foss, OK",
+  "waterbody": "Washita River near Foss, OK",
+  "state": "OK",
+  "latitude": 35.5389379,
+  "longitude": -99.1698128,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FOSO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/foso2",
+  "slug": "usgs-07324400",
+  "noaaForecastPath": "data/noaa-forecast/FOSO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

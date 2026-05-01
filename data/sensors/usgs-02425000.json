@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02425000",
+  "key": "02425000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02425000",
+  "name": "CAHABA RIVER NEAR MARION JUNCTION AL",
+  "waterbody": "CAHABA RIVER NEAR MARION JUNCTION AL",
+  "state": "AL",
+  "latitude": 32.4440634,
+  "longitude": -87.180279,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNJA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cahaba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnja1",
+  "slug": "usgs-02425000",
+  "noaaForecastPath": "data/noaa-forecast/MNJA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

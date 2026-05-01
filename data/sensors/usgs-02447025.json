@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02447025",
+  "key": "02447025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02447025",
+  "name": "TOMBIGBEE R AT HEFLIN L&D NR GAINESVILLE, AL",
+  "waterbody": "TOMBIGBEE R AT HEFLIN L&D NR GAINESVILLE, AL",
+  "state": "AL",
+  "latitude": 32.8481856,
+  "longitude": -88.1561363,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02447025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

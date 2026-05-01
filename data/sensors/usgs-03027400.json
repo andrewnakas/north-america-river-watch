@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03027400",
+  "key": "03027400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03027400",
+  "name": "Weir 1 at East Branch Clarion River Dam, PA",
+  "waterbody": "Weir 1 at East Branch Clarion River Dam, PA",
+  "state": "PA",
+  "latitude": 41.55444444,
+  "longitude": -78.5952778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03027400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

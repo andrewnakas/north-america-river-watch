@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02369000",
+  "key": "02369000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02369000",
+  "name": "SHOAL RIVER NR CRESTVIEW, FLA.",
+  "waterbody": "SHOAL RIVER NR CRESTVIEW, FLA.",
+  "state": "FL",
+  "latitude": 30.69741268,
+  "longitude": -86.570786,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRVF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoal River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crvf1",
+  "slug": "usgs-02369000",
+  "noaaForecastPath": "data/noaa-forecast/CRVF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

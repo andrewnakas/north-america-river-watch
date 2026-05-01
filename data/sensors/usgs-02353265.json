@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02353265",
+  "key": "02353265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02353265",
+  "name": "ICHAWAYNOCHAWAY CREEK AT GA 37, NEAR MORGAN, GA",
+  "waterbody": "ICHAWAYNOCHAWAY CREEK AT GA 37, NEAR MORGAN, GA",
+  "state": "GA",
+  "latitude": 31.52694444,
+  "longitude": -84.5827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ichawaynochaway Creek",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgng1",
+  "slug": "usgs-02353265",
+  "noaaForecastPath": "data/noaa-forecast/MGNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

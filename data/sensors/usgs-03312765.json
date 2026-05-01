@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03312765",
+  "key": "03312765",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03312765",
+  "name": "BEAVER CREEK AT HWY 31 E NEAR GLASGOW, KY",
+  "waterbody": "BEAVER CREEK AT HWY 31 E NEAR GLASGOW, KY",
+  "state": "KY",
+  "latitude": 37.03477317,
+  "longitude": -85.9035871,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03312765",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

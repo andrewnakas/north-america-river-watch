@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08189718",
+  "key": "08189718",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08189718",
+  "name": "Chiltipin Ck at US 77 nr Sinton, TX",
+  "waterbody": "Chiltipin Ck at US 77 nr Sinton, TX",
+  "state": "TX",
+  "latitude": 28.04569167,
+  "longitude": -97.525175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08189718",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

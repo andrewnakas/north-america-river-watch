@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06809210",
+  "key": "06809210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06809210",
+  "name": "East Nishnabotna River near Atlantic, IA",
+  "waterbody": "East Nishnabotna River near Atlantic, IA",
+  "state": "IA",
+  "latitude": 41.346,
+  "longitude": -95.0768611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Nishnabotna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atci4",
+  "slug": "usgs-06809210",
+  "noaaForecastPath": "data/noaa-forecast/ATCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

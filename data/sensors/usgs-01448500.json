@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01448500",
+  "key": "01448500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01448500",
+  "name": "Dilldown Creek near Long Pond, PA",
+  "waterbody": "Dilldown Creek near Long Pond, PA",
+  "state": "PA",
+  "latitude": 41.0356434,
+  "longitude": -75.5432431,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01448500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

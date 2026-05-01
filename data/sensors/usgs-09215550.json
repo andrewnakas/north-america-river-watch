@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09215550",
+  "key": "09215550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09215550",
+  "name": "BIG SANDY RIVER BELOW FARSON, WY",
+  "waterbody": "BIG SANDY RIVER BELOW FARSON, WY",
+  "state": "WY",
+  "latitude": 42.073261,
+  "longitude": -109.4793429,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09215550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

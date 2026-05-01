@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12170315",
+  "key": "12170315",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12170315",
+  "name": "UNNAMED TRIBUTARY SKAGIT BAY NEAR OAK HARBOR, WA",
+  "waterbody": "UNNAMED TRIBUTARY SKAGIT BAY NEAR OAK HARBOR, WA",
+  "state": "WA",
+  "latitude": 48.33260146,
+  "longitude": -122.5426649,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12170315",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

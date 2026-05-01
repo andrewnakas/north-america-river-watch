@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06918250",
+  "key": "06918250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06918250",
+  "name": "Osage River at Taberville, MO",
+  "waterbody": "Osage River at Taberville, MO",
+  "state": "MO",
+  "latitude": 38.00388889,
+  "longitude": -93.9947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TBVM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Osage River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tbvm7",
+  "slug": "usgs-06918250",
+  "noaaForecastPath": "data/noaa-forecast/TBVM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

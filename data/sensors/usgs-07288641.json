@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07288641",
+  "key": "07288641",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288641",
+  "name": "BOGUE PHALIA NR SKENE, MS",
+  "waterbody": "BOGUE PHALIA NR SKENE, MS",
+  "state": "MS",
+  "latitude": 33.7036111,
+  "longitude": -90.8747222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07288641",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

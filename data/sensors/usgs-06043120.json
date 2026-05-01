@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06043120",
+  "key": "06043120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06043120",
+  "name": "Gallatin River above Deer Creek, near Big Sky, MT",
+  "waterbody": "Gallatin River above Deer Creek, near Big Sky, MT",
+  "state": "MT",
+  "latitude": 45.29727778,
+  "longitude": -111.2113917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBSM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gallatin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbsm8",
+  "slug": "usgs-06043120",
+  "noaaForecastPath": "data/noaa-forecast/GBSM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

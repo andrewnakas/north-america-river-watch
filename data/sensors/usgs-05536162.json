@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536162",
+  "key": "05536162",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536162",
+  "name": "PLUM CREEK NEAR CRETE, IL",
+  "waterbody": "PLUM CREEK NEAR CRETE, IL",
+  "state": "IL",
+  "latitude": 41.43569444,
+  "longitude": -87.5715833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Plum Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpci2",
+  "slug": "usgs-05536162",
+  "noaaForecastPath": "data/noaa-forecast/CPCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

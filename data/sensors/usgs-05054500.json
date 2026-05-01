@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05054500",
+  "key": "05054500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05054500",
+  "name": "SHEYENNE RIVER ABOVE HARVEY, ND",
+  "waterbody": "SHEYENNE RIVER ABOVE HARVEY, ND",
+  "state": "ND",
+  "latitude": 47.7027775,
+  "longitude": -99.9490145,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HVYN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hvyn8",
+  "slug": "usgs-05054500",
+  "noaaForecastPath": "data/noaa-forecast/HVYN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

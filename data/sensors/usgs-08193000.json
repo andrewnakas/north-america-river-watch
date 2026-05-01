@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08193000",
+  "key": "08193000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08193000",
+  "name": "Nueces Rv nr Asherton, TX",
+  "waterbody": "Nueces Rv nr Asherton, TX",
+  "state": "TX",
+  "latitude": 28.50026313,
+  "longitude": -99.6819935,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asrt2",
+  "slug": "usgs-08193000",
+  "noaaForecastPath": "data/noaa-forecast/ASRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

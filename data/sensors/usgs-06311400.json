@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06311400",
+  "key": "06311400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06311400",
+  "name": "NF POWDER RIVER BELOW PASS CREEK, NR MAYOWORTH, WY",
+  "waterbody": "NF POWDER RIVER BELOW PASS CREEK, NR MAYOWORTH, WY",
+  "state": "WY",
+  "latitude": 43.911357,
+  "longitude": -106.8894999,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCMW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Powder River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcmw4",
+  "slug": "usgs-06311400",
+  "noaaForecastPath": "data/noaa-forecast/PCMW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

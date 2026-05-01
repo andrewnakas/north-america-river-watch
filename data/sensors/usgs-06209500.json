@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06209500",
+  "key": "06209500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06209500",
+  "name": "Rock Creek near Red Lodge MT",
+  "waterbody": "Rock Creek near Red Lodge MT",
+  "state": "MT",
+  "latitude": 45.0861472,
+  "longitude": -109.3291889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROKM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek (South Central MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rokm8",
+  "slug": "usgs-06209500",
+  "noaaForecastPath": "data/noaa-forecast/ROKM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

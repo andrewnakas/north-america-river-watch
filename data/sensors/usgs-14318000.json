@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14318000",
+  "key": "14318000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14318000",
+  "name": "LITTLE RIVER AT PEEL, OR",
+  "waterbody": "LITTLE RIVER AT PEEL, OR",
+  "state": "OR",
+  "latitude": 43.2526179,
+  "longitude": -123.0261716,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14318000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

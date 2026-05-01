@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02226000",
+  "key": "02226000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02226000",
+  "name": "ALTAMAHA RIVER AT DOCTORTOWN, GA",
+  "waterbody": "ALTAMAHA RIVER AT DOCTORTOWN, GA",
+  "state": "GA",
+  "latitude": 31.65466667,
+  "longitude": -81.8275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Altamaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dctg1",
+  "slug": "usgs-02226000",
+  "noaaForecastPath": "data/noaa-forecast/DCTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

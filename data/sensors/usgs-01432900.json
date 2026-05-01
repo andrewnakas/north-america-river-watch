@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01432900",
+  "key": "01432900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01432900",
+  "name": "MONGAUP RIVER AT MONGAUP VALLEY NY",
+  "waterbody": "MONGAUP RIVER AT MONGAUP VALLEY NY",
+  "state": "NY",
+  "latitude": 41.668389,
+  "longitude": -74.780472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGPN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mongaup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgpn6",
+  "slug": "usgs-01432900",
+  "noaaForecastPath": "data/noaa-forecast/MGPN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

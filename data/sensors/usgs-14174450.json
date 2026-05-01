@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14174450",
+  "key": "14174450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14174450",
+  "name": "NORTH SANTIAM RIVER NR MARION FORKS, OR",
+  "waterbody": "NORTH SANTIAM RIVER NR MARION FORKS, OR",
+  "state": "OR",
+  "latitude": 44.5990833,
+  "longitude": -121.966,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14174450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

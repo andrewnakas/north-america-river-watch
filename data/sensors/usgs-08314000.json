@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08314000",
+  "key": "08314000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08314000",
+  "name": "SILE MAIN CANAL (AT HEAD) AT COCHITI, NM",
+  "waterbody": "SILE MAIN CANAL (AT HEAD) AT COCHITI, NM",
+  "state": "NM",
+  "latitude": 35.6195,
+  "longitude": -106.3246944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08314000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

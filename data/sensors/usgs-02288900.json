@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02288900",
+  "key": "02288900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02288900",
+  "name": "TAMIAMI CANAL OUTLETS, 40-MILE BEND TO MONROE, FL",
+  "waterbody": "TAMIAMI CANAL OUTLETS, 40-MILE BEND TO MONROE, FL",
+  "state": "FL",
+  "latitude": 25.8517636,
+  "longitude": -80.9803842,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02288900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

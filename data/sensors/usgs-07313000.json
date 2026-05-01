@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07313000",
+  "key": "07313000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07313000",
+  "name": "Little Beaver Creek near Duncan, OK",
+  "waterbody": "Little Beaver Creek near Duncan, OK",
+  "state": "OK",
+  "latitude": 34.49313567,
+  "longitude": -98.1142068,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLBO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Beaver Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlbo2",
+  "slug": "usgs-07313000",
+  "noaaForecastPath": "data/noaa-forecast/DLBO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12039518",
+  "key": "12039518",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039518",
+  "name": "QUINAULT RIVER (2B) NEAR TAHOLAH, WA",
+  "waterbody": "QUINAULT RIVER (2B) NEAR TAHOLAH, WA",
+  "state": "WA",
+  "latitude": 47.33215278,
+  "longitude": -124.2510778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12039518",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

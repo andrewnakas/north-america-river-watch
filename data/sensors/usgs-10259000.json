@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10259000",
+  "key": "10259000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10259000",
+  "name": "ANDREAS C NR PALM SPRINGS CA",
+  "waterbody": "ANDREAS C NR PALM SPRINGS CA",
+  "state": "CA",
+  "latitude": 33.76002698,
+  "longitude": -116.550011,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10259000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

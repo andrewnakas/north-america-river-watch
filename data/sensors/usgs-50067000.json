@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50067000",
+  "key": "50067000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50067000",
+  "name": "RIO SABANA AT SABANA, PR",
+  "waterbody": "RIO SABANA AT SABANA, PR",
+  "state": "PR",
+  "latitude": 18.330961,
+  "longitude": -65.731011,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Sabana",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssap4",
+  "slug": "usgs-50067000",
+  "noaaForecastPath": "data/noaa-forecast/SSAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

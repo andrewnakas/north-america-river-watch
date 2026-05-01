@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01651003",
+  "key": "01651003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01651003",
+  "name": "NORTHWEST BRANCH ANACOSTIA RIVER AT BRENTWOOD, MD",
+  "waterbody": "NORTHWEST BRANCH ANACOSTIA RIVER AT BRENTWOOD, MD",
+  "state": "MD",
+  "latitude": 38.9489722,
+  "longitude": -76.9562222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBAM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northwest Branch Anacostia River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbam2",
+  "slug": "usgs-01651003",
+  "noaaForecastPath": "data/noaa-forecast/NBAM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

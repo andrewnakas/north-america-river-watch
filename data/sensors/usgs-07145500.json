@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07145500",
+  "key": "07145500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07145500",
+  "name": "NINNESCAH R NR PECK, KS",
+  "waterbody": "NINNESCAH R NR PECK, KS",
+  "state": "KS",
+  "latitude": 37.45696389,
+  "longitude": -97.4235556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PECK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ninnescah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/peck1",
+  "slug": "usgs-07145500",
+  "noaaForecastPath": "data/noaa-forecast/PECK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

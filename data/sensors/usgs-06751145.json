@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06751145",
+  "key": "06751145",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06751145",
+  "name": "N FK CACHE LA POUDRE R ABV HALLIGAN RES NR VA DALE",
+  "waterbody": "N FK CACHE LA POUDRE R ABV HALLIGAN RES NR VA DALE",
+  "state": "CO",
+  "latitude": 40.8945833,
+  "longitude": -105.3672222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06751145",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

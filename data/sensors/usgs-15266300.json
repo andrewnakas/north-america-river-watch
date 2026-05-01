@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15266300",
+  "key": "15266300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15266300",
+  "name": "KENAI R AT SOLDOTNA AK",
+  "waterbody": "KENAI R AT SOLDOTNA AK",
+  "state": "AK",
+  "latitude": 60.4775,
+  "longitude": -151.079444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kenai River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxra2",
+  "slug": "usgs-15266300",
+  "noaaForecastPath": "data/noaa-forecast/SXRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

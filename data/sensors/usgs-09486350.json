@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09486350",
+  "key": "09486350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486350",
+  "name": "CANADA DEL ORO BLW INA ROAD, NEAR TUCSON, AZ.",
+  "waterbody": "CANADA DEL ORO BLW INA ROAD, NEAR TUCSON, AZ.",
+  "state": "AZ",
+  "latitude": 32.33621,
+  "longitude": -111.0420746,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDOA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canada del Oro Wash",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdoa3",
+  "slug": "usgs-09486350",
+  "noaaForecastPath": "data/noaa-forecast/CDOA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

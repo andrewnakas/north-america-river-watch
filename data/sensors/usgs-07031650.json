@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07031650",
+  "key": "07031650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07031650",
+  "name": "WOLF RIVER AT GERMANTOWN, TN",
+  "waterbody": "WOLF RIVER AT GERMANTOWN, TN",
+  "state": "TN",
+  "latitude": 35.1164879,
+  "longitude": -89.8014706,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GERT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gert1",
+  "slug": "usgs-07031650",
+  "noaaForecastPath": "data/noaa-forecast/GERT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

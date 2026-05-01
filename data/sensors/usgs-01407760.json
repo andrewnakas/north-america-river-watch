@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01407760",
+  "key": "01407760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01407760",
+  "name": "Jumping Brook near Neptune City NJ",
+  "waterbody": "Jumping Brook near Neptune City NJ",
+  "state": "NJ",
+  "latitude": 40.20333333,
+  "longitude": -74.06583333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NTTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jumping Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nttn4",
+  "slug": "usgs-01407760",
+  "noaaForecastPath": "data/noaa-forecast/NTTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

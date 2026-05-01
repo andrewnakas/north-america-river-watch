@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01095375",
+  "key": "01095375",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01095375",
+  "name": "QUINAPOXET RIVER AT CANADA MILLS NEAR HOLDEN, MA",
+  "waterbody": "QUINAPOXET RIVER AT CANADA MILLS NEAR HOLDEN, MA",
+  "state": "MA",
+  "latitude": 42.37286967,
+  "longitude": -71.8281279,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOLM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quinapoxet River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/holm3",
+  "slug": "usgs-01095375",
+  "noaaForecastPath": "data/noaa-forecast/HOLM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

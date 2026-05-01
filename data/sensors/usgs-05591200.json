@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05591200",
+  "key": "05591200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05591200",
+  "name": "KASKASKIA RIVER AT COOKS MILLS, IL",
+  "waterbody": "KASKASKIA RIVER AT COOKS MILLS, IL",
+  "state": "IL",
+  "latitude": 39.5834722,
+  "longitude": -88.4138056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaskaskia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coki2",
+  "slug": "usgs-05591200",
+  "noaaForecastPath": "data/noaa-forecast/COKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

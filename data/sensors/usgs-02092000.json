@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02092000",
+  "key": "02092000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02092000",
+  "name": "SWIFT CREEK NEAR VANCEBORO, NC",
+  "waterbody": "SWIFT CREEK NEAR VANCEBORO, NC",
+  "state": "NC",
+  "latitude": 35.34516225,
+  "longitude": -77.1955108,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02092000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

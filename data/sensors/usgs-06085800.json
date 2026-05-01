@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06085800",
+  "key": "06085800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06085800",
+  "name": "Sun River at Simms MT",
+  "waterbody": "Sun River at Simms MT",
+  "state": "MT",
+  "latitude": 47.50162778,
+  "longitude": -111.9319139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sun River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssrm8",
+  "slug": "usgs-06085800",
+  "noaaForecastPath": "data/noaa-forecast/SSRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

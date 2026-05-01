@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04268800",
+  "key": "04268800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04268800",
+  "name": "WEST BRANCH ST. REGIS RIVER NEAR PARISHVILLE NY",
+  "waterbody": "WEST BRANCH ST. REGIS RIVER NEAR PARISHVILLE NY",
+  "state": "NY",
+  "latitude": 44.59875,
+  "longitude": -74.7372222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PARN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch of the St. Regis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/parn6",
+  "slug": "usgs-04268800",
+  "noaaForecastPath": "data/noaa-forecast/PARN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

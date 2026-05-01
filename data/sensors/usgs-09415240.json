@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415240",
+  "key": "09415240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415240",
+  "name": "VIRGIN RV NR OVERTON, NV",
+  "waterbody": "VIRGIN RV NR OVERTON, NV",
+  "state": "NV",
+  "latitude": 36.5830311,
+  "longitude": -114.3249746,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

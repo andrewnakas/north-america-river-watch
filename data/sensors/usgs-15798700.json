@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15798700",
+  "key": "15798700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15798700",
+  "name": "NUNAVAK C NR BARROW AK",
+  "waterbody": "NUNAVAK C NR BARROW AK",
+  "state": "AK",
+  "latitude": 71.25930339,
+  "longitude": -156.7859722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15798700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

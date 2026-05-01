@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11390000",
+  "key": "11390000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11390000",
+  "name": "BUTTE C NR CHICO CA",
+  "waterbody": "BUTTE C NR CHICO CA",
+  "state": "CA",
+  "latitude": 39.72599524,
+  "longitude": -121.7088643,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Butte Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkcc1",
+  "slug": "usgs-11390000",
+  "noaaForecastPath": "data/noaa-forecast/BKCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

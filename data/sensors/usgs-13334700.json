@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13334700",
+  "key": "13334700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13334700",
+  "name": "ASOTIN CREEK BELOW KEARNEY GULCH NEAR ASOTIN, WA",
+  "waterbody": "ASOTIN CREEK BELOW KEARNEY GULCH NEAR ASOTIN, WA",
+  "state": "WA",
+  "latitude": 46.3262691,
+  "longitude": -117.1526605,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AGCW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Asotin Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/agcw1",
+  "slug": "usgs-13334700",
+  "noaaForecastPath": "data/noaa-forecast/AGCW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

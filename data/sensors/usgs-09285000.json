@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09285000",
+  "key": "09285000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09285000",
+  "name": "STRAWBERRY RIVER NEAR SOLDIER SPRINGS, UT",
+  "waterbody": "STRAWBERRY RIVER NEAR SOLDIER SPRINGS, UT",
+  "state": "UT",
+  "latitude": 40.13328794,
+  "longitude": -111.024887,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09285000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

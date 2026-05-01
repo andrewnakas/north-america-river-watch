@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01399190",
+  "key": "01399190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01399190",
+  "name": "Lamington (Black) River at Succasunna NJ",
+  "waterbody": "Lamington (Black) River at Succasunna NJ",
+  "state": "NJ",
+  "latitude": 40.85055556,
+  "longitude": -74.6341667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01399190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

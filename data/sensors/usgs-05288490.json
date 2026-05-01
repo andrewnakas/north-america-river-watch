@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05288490",
+  "key": "05288490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05288490",
+  "name": "COON CREEK AT VALE STREET IN COON RAPIDS, MN",
+  "waterbody": "COON CREEK AT VALE STREET IN COON RAPIDS, MN",
+  "state": "MN",
+  "latitude": 45.1463961,
+  "longitude": -93.2918287,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05288490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

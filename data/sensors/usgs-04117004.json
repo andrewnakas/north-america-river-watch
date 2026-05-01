@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04117004",
+  "key": "04117004",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04117004",
+  "name": "QUAKER BROOK AT STATE HWY M-66 NEAR NASHVILLE, MI",
+  "waterbody": "QUAKER BROOK AT STATE HWY M-66 NEAR NASHVILLE, MI",
+  "state": "MI",
+  "latitude": 42.5672584,
+  "longitude": -85.0949975,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QBNM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quaker Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qbnm4",
+  "slug": "usgs-04117004",
+  "noaaForecastPath": "data/noaa-forecast/QBNM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

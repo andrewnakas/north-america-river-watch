@@ -1,0 +1,19 @@
+{
+  "id": "usgs:262337080074800",
+  "key": "262337080074800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "262337080074800",
+  "name": "E-3 CA AT NW 51ST IN BOCA RATON FL",
+  "waterbody": "E-3 CA AT NW 51ST IN BOCA RATON FL",
+  "state": "FL",
+  "latitude": 26.39198333,
+  "longitude": -80.1296333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-262337080074800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

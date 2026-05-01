@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10245910",
+  "key": "10245910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245910",
+  "name": "MOSQUITO CK NR BELMONT, NV",
+  "waterbody": "MOSQUITO CK NR BELMONT, NV",
+  "state": "NV",
+  "latitude": 38.80604275,
+  "longitude": -116.6795196,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10245910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

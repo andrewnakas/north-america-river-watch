@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06336600",
+  "key": "06336600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06336600",
+  "name": "BEAVER CREEK NR TROTTERS, ND",
+  "waterbody": "BEAVER CREEK NR TROTTERS, ND",
+  "state": "ND",
+  "latitude": 47.16307028,
+  "longitude": -103.9927057,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRTN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (SW  ND)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trtn8",
+  "slug": "usgs-06336600",
+  "noaaForecastPath": "data/noaa-forecast/TRTN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

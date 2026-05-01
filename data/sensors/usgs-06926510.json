@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06926510",
+  "key": "06926510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06926510",
+  "name": "Osage River below St. Thomas, MO",
+  "waterbody": "Osage River below St. Thomas, MO",
+  "state": "MO",
+  "latitude": 38.42144444,
+  "longitude": -92.20825,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STTM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Osage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sttm7",
+  "slug": "usgs-06926510",
+  "noaaForecastPath": "data/noaa-forecast/STTM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

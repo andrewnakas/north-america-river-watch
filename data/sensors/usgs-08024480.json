@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08024480",
+  "key": "08024480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08024480",
+  "name": "Palo Gaucho Bayou at FM 2784 nr Milam, TX",
+  "waterbody": "Palo Gaucho Bayou at FM 2784 nr Milam, TX",
+  "state": "TX",
+  "latitude": 31.39508333,
+  "longitude": -93.8946944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08024480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

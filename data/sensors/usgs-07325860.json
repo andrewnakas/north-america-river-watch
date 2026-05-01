@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07325860",
+  "key": "07325860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07325860",
+  "name": "Willow Creek near Albert, OK",
+  "waterbody": "Willow Creek near Albert, OK",
+  "state": "OK",
+  "latitude": 35.23339066,
+  "longitude": -98.4661702,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AWCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/awco2",
+  "slug": "usgs-07325860",
+  "noaaForecastPath": "data/noaa-forecast/AWCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

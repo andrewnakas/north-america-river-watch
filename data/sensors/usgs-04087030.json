@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04087030",
+  "key": "04087030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087030",
+  "name": "MENOMONEE RIVER AT MENOMONEE FALLS, WI",
+  "waterbody": "MENOMONEE RIVER AT MENOMONEE FALLS, WI",
+  "state": "WI",
+  "latitude": 43.17277778,
+  "longitude": -88.10388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menomonee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfsw3",
+  "slug": "usgs-04087030",
+  "noaaForecastPath": "data/noaa-forecast/MFSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

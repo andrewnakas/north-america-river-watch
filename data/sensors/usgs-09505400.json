@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09505400",
+  "key": "09505400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09505400",
+  "name": "BEAVER CREEK NR LAKE MONTEZUMA, AZ",
+  "waterbody": "BEAVER CREEK NR LAKE MONTEZUMA, AZ",
+  "state": "AZ",
+  "latitude": 34.615,
+  "longitude": -111.8372222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09505400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

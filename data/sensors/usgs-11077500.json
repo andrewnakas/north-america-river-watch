@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11077500",
+  "key": "11077500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11077500",
+  "name": "SANTIAGO C A SANTA ANA CA",
+  "waterbody": "SANTIAGO C A SANTA ANA CA",
+  "state": "CA",
+  "latitude": 33.77029518,
+  "longitude": -117.8844902,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11077500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

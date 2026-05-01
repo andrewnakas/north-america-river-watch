@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13076100",
+  "key": "13076100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13076100",
+  "name": "RATTLESNAKE CREEK NR POCATELLO ID",
+  "waterbody": "RATTLESNAKE CREEK NR POCATELLO ID",
+  "state": "ID",
+  "latitude": 42.7010246,
+  "longitude": -112.5585929,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13076100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

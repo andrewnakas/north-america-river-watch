@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11176400",
+  "key": "11176400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11176400",
+  "name": "ARROYO VALLE BL LANG CYN NR LIVERMORE CA",
+  "waterbody": "ARROYO VALLE BL LANG CYN NR LIVERMORE CA",
+  "state": "CA",
+  "latitude": 37.56132196,
+  "longitude": -121.6838389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YLEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arroyo Valle",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ylec1",
+  "slug": "usgs-11176400",
+  "noaaForecastPath": "data/noaa-forecast/YLEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

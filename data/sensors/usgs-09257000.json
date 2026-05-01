@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09257000",
+  "key": "09257000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09257000",
+  "name": "LITTLE SNAKE RIVER NEAR DIXON, WY",
+  "waterbody": "LITTLE SNAKE RIVER NEAR DIXON, WY",
+  "state": "WY",
+  "latitude": 41.02852778,
+  "longitude": -107.5488611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSDW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsdw4",
+  "slug": "usgs-09257000",
+  "noaaForecastPath": "data/noaa-forecast/LSDW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02203873",
+  "key": "02203873",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02203873",
+  "name": "COBBS CREEK AT RAINBOW DR, NEAR DECATUR, GA",
+  "waterbody": "COBBS CREEK AT RAINBOW DR, NEAR DECATUR, GA",
+  "state": "GA",
+  "latitude": 33.70941667,
+  "longitude": -84.2391667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COBG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cobbs Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cobg1",
+  "slug": "usgs-02203873",
+  "noaaForecastPath": "data/noaa-forecast/COBG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

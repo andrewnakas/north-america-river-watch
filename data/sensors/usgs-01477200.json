@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01477200",
+  "key": "01477200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01477200",
+  "name": "Delaware River at Marcus Hook, PA",
+  "waterbody": "Delaware River at Marcus Hook, PA",
+  "state": "PA",
+  "latitude": 39.8119184,
+  "longitude": -75.40913769,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrcp1",
+  "slug": "usgs-01477200",
+  "noaaForecastPath": "data/noaa-forecast/MRCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

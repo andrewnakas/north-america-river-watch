@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01472104",
+  "key": "01472104",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01472104",
+  "name": "Schuylkill River at Vincent Dam at Linfield, PA",
+  "waterbody": "Schuylkill River at Vincent Dam at Linfield, PA",
+  "state": "PA",
+  "latitude": 40.20621166,
+  "longitude": -75.5654631,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01472104",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

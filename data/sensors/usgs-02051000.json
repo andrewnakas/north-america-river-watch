@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02051000",
+  "key": "02051000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02051000",
+  "name": "NORTH MEHERRIN RIVER NEAR LUNENBURG, VA",
+  "waterbody": "NORTH MEHERRIN RIVER NEAR LUNENBURG, VA",
+  "state": "VA",
+  "latitude": 36.9973738,
+  "longitude": -78.3497182,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNBV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Meherrin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnbv2",
+  "slug": "usgs-02051000",
+  "noaaForecastPath": "data/noaa-forecast/LNBV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08044500",
+  "key": "08044500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08044500",
+  "name": "W Fk Trinity Rv nr Boyd, TX",
+  "waterbody": "W Fk Trinity Rv nr Boyd, TX",
+  "state": "TX",
+  "latitude": 33.08539917,
+  "longitude": -97.558636,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boyt2",
+  "slug": "usgs-08044500",
+  "noaaForecastPath": "data/noaa-forecast/BOYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

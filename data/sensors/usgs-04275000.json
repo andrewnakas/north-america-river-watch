@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04275000",
+  "key": "04275000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04275000",
+  "name": "EAST BRANCH AUSABLE RIVER AT AU SABLE FORKS NY",
+  "waterbody": "EAST BRANCH AUSABLE RIVER AT AU SABLE FORKS NY",
+  "state": "NY",
+  "latitude": 44.438222,
+  "longitude": -73.681,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASFN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch of the Ausable River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asfn6",
+  "slug": "usgs-04275000",
+  "noaaForecastPath": "data/noaa-forecast/ASFN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

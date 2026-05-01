@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09485700",
+  "key": "09485700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09485700",
+  "name": "RILLITO CREEK AT DODGE BOULEVARD, AT TUCSON, AZ",
+  "waterbody": "RILLITO CREEK AT DODGE BOULEVARD, AT TUCSON, AZ",
+  "state": "AZ",
+  "latitude": 32.27149027,
+  "longitude": -110.91457064,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RILA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rillito Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rila3",
+  "slug": "usgs-09485700",
+  "noaaForecastPath": "data/noaa-forecast/RILA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

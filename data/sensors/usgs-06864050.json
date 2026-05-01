@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06864050",
+  "key": "06864050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06864050",
+  "name": "SMOKY HILL R NR BUNKER HILL, KS",
+  "waterbody": "SMOKY HILL R NR BUNKER HILL, KS",
+  "state": "KS",
+  "latitude": 38.79390014,
+  "longitude": -98.781192,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06864050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

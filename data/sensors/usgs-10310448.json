@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10310448",
+  "key": "10310448",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10310448",
+  "name": "AMBROSETTI POND OUTLET NR GENOA, NV",
+  "waterbody": "AMBROSETTI POND OUTLET NR GENOA, NV",
+  "state": "NV",
+  "latitude": 39.04213046,
+  "longitude": -119.7843458,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10310448",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

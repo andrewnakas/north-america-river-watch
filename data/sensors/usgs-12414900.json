@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12414900",
+  "key": "12414900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12414900",
+  "name": "ST MARIES RIVER NR SANTA, ID",
+  "waterbody": "ST MARIES RIVER NR SANTA, ID",
+  "state": "ID",
+  "latitude": 47.1761111,
+  "longitude": -116.4933333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SATI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Maries River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sati1",
+  "slug": "usgs-12414900",
+  "noaaForecastPath": "data/noaa-forecast/SATI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

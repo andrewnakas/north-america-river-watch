@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09402500",
+  "key": "09402500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09402500",
+  "name": "COLORADO RIVER NEAR GRAND CANYON, AZ",
+  "waterbody": "COLORADO RIVER NEAR GRAND CANYON, AZ",
+  "state": "AZ",
+  "latitude": 36.10137176,
+  "longitude": -112.0862795,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CGCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cgca3",
+  "slug": "usgs-09402500",
+  "noaaForecastPath": "data/noaa-forecast/CGCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

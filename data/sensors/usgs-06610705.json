@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610705",
+  "key": "06610705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610705",
+  "name": "Big Papillion Creek near Blair, Nebr.",
+  "waterbody": "Big Papillion Creek near Blair, Nebr.",
+  "state": "NE",
+  "latitude": 41.50902222,
+  "longitude": -96.20993889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blbn1",
+  "slug": "usgs-06610705",
+  "noaaForecastPath": "data/noaa-forecast/BLBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

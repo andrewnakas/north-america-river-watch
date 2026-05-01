@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0242354650",
+  "key": "0242354650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0242354650",
+  "name": "CAHABA VALLEY CR AT INDIAN TRAIL RD NR INDIAN SPRS",
+  "waterbody": "CAHABA VALLEY CR AT INDIAN TRAIL RD NR INDIAN SPRS",
+  "state": "AL",
+  "latitude": 33.3449441,
+  "longitude": -86.7594183,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CISA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cahaba Valley Creek Indian Springs",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cisa1",
+  "slug": "usgs-0242354650",
+  "noaaForecastPath": "data/noaa-forecast/CISA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

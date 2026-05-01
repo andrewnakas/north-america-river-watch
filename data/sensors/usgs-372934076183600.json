@@ -1,0 +1,22 @@
+{
+  "id": "usgs:372934076183600",
+  "key": "372934076183600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "372934076183600",
+  "name": "WHARF CREEK AT MOUTH NEAR HUDGINS, VA",
+  "waterbody": "WHARF CREEK AT MOUTH NEAR HUDGINS, VA",
+  "state": "VA",
+  "latitude": 37.49277778,
+  "longitude": -76.31,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCKV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piankatank River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wckv2",
+  "slug": "usgs-372934076183600",
+  "noaaForecastPath": "data/noaa-forecast/WCKV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07288500",
+  "key": "07288500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288500",
+  "name": "BIG SUNFLOWER RIVER AT SUNFLOWER, MS",
+  "waterbody": "BIG SUNFLOWER RIVER AT SUNFLOWER, MS",
+  "state": "MS",
+  "latitude": 33.5473557,
+  "longitude": -90.5431579,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUNM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sunflower River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sunm6",
+  "slug": "usgs-07288500",
+  "noaaForecastPath": "data/noaa-forecast/SUNM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

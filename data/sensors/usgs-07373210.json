@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07373210",
+  "key": "07373210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07373210",
+  "name": "Flagon Bayou NE of Libuse, LA",
+  "waterbody": "Flagon Bayou NE of Libuse, LA",
+  "state": "LA",
+  "latitude": 31.38408333,
+  "longitude": -92.2969722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07373210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

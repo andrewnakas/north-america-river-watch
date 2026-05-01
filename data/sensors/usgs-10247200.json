@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10247200",
+  "key": "10247200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10247200",
+  "name": "BIG CK NR WARM SPGS, NV",
+  "waterbody": "BIG CK NR WARM SPGS, NV",
+  "state": "NV",
+  "latitude": 38.18688086,
+  "longitude": -115.755869,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10247200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

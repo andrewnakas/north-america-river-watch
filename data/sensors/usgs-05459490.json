@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05459490",
+  "key": "05459490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05459490",
+  "name": "Spring Creek near Mason City, IA",
+  "waterbody": "Spring Creek near Mason City, IA",
+  "state": "IA",
+  "latitude": 43.21329319,
+  "longitude": -93.2107594,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MASI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/masi4",
+  "slug": "usgs-05459490",
+  "noaaForecastPath": "data/noaa-forecast/MASI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

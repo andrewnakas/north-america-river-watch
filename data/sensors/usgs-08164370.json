@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08164370",
+  "key": "08164370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164370",
+  "name": "Navidad Rv at Morales, TX",
+  "waterbody": "Navidad Rv at Morales, TX",
+  "state": "TX",
+  "latitude": 29.1355328,
+  "longitude": -96.7444227,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navidad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrat2",
+  "slug": "usgs-08164370",
+  "noaaForecastPath": "data/noaa-forecast/MRAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

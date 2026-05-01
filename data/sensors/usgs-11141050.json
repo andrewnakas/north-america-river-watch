@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11141050",
+  "key": "11141050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11141050",
+  "name": "ORCUTT C NR ORCUTT CA",
+  "waterbody": "ORCUTT C NR ORCUTT CA",
+  "state": "CA",
+  "latitude": 34.8835806,
+  "longitude": -120.4948469,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11141050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

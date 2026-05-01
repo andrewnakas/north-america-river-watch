@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02299450",
+  "key": "02299450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299450",
+  "name": "BIG SLOUGH AT TROPICAIRE BLVD NEAR NORTH PORT FL",
+  "waterbody": "BIG SLOUGH AT TROPICAIRE BLVD NEAR NORTH PORT FL",
+  "state": "FL",
+  "latitude": 27.11163889,
+  "longitude": -82.2048417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02299450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

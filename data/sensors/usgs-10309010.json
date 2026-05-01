@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10309010",
+  "key": "10309010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10309010",
+  "name": "E FK CARSON RV NR DRESSLERVILLE, NV",
+  "waterbody": "E FK CARSON RV NR DRESSLERVILLE, NV",
+  "state": "NV",
+  "latitude": 38.88013889,
+  "longitude": -119.6918056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10309010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

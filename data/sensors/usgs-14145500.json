@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14145500",
+  "key": "14145500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14145500",
+  "name": "MF WILLAMETTE RIVER ABV SALT CRK, NEAR OAKRIDGE,OR",
+  "waterbody": "MF WILLAMETTE RIVER ABV SALT CRK, NEAR OAKRIDGE,OR",
+  "state": "OR",
+  "latitude": 43.72095655,
+  "longitude": -122.4378256,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "MID FORK WILLAMETTE R BELOW HILLS CREEK DAM NEAR OAKRIDGE",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfso3",
+  "slug": "usgs-14145500",
+  "noaaForecastPath": "data/noaa-forecast/MFSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

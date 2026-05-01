@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01669520",
+  "key": "01669520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01669520",
+  "name": "DRAGON SWAMP AT MASCOT, VA",
+  "waterbody": "DRAGON SWAMP AT MASCOT, VA",
+  "state": "VA",
+  "latitude": 37.6337529,
+  "longitude": -76.6963468,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DGSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dragon Swamp",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dgsv2",
+  "slug": "usgs-01669520",
+  "noaaForecastPath": "data/noaa-forecast/DGSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

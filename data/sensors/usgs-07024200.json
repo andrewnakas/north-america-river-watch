@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07024200",
+  "key": "07024200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07024200",
+  "name": "CROOKED CREEK NEAR HUNTINGDON, TN",
+  "waterbody": "CROOKED CREEK NEAR HUNTINGDON, TN",
+  "state": "TN",
+  "latitude": 36.06453779,
+  "longitude": -88.40476155,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07024200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

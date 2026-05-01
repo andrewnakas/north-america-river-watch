@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02335777",
+  "key": "02335777",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335777",
+  "name": "CHATTAHOOCHEE R 0.27 MI US WILLEO CR, ROSWELL, GA",
+  "waterbody": "CHATTAHOOCHEE R 0.27 MI US WILLEO CR, ROSWELL, GA",
+  "state": "GA",
+  "latitude": 33.99666667,
+  "longitude": -84.3844444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02335777",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

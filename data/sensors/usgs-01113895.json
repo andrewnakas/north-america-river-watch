@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01113895",
+  "key": "01113895",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01113895",
+  "name": "BLACKSTONE R AT ROOSEVELT ST AT PAWTUCKET RI",
+  "waterbody": "BLACKSTONE R AT ROOSEVELT ST AT PAWTUCKET RI",
+  "state": "RI",
+  "latitude": 41.8884331,
+  "longitude": -71.38144467,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAWR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackstone River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pawr1",
+  "slug": "usgs-01113895",
+  "noaaForecastPath": "data/noaa-forecast/PAWR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

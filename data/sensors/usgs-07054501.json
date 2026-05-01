@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07054501",
+  "key": "07054501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07054501",
+  "name": "White River at Bull Shoals Dam near Flippin",
+  "waterbody": "White River at Bull Shoals Dam near Flippin",
+  "state": "AR",
+  "latitude": 36.365,
+  "longitude": -92.575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsga4",
+  "slug": "usgs-07054501",
+  "noaaForecastPath": "data/noaa-forecast/BSGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

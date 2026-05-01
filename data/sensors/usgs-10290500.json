@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10290500",
+  "key": "10290500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10290500",
+  "name": "ROBINSON CK AT TWIN LKS OUTLET NR BRIDGEPORT, CA",
+  "waterbody": "ROBINSON CK AT TWIN LKS OUTLET NR BRIDGEPORT, CA",
+  "state": "CA",
+  "latitude": 38.17214225,
+  "longitude": -119.3246032,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Robinson Creek (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbnc1",
+  "slug": "usgs-10290500",
+  "noaaForecastPath": "data/noaa-forecast/RBNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

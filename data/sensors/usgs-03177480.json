@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03177480",
+  "key": "03177480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03177480",
+  "name": "INDIAN CREEK AT RED SULPHUR SPRINGS, WV",
+  "waterbody": "INDIAN CREEK AT RED SULPHUR SPRINGS, WV",
+  "state": "WV",
+  "latitude": 37.52925,
+  "longitude": -80.7701944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INCW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/incw2",
+  "slug": "usgs-03177480",
+  "noaaForecastPath": "data/noaa-forecast/INCW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05530990",
+  "key": "05530990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05530990",
+  "name": "SALT CREEK AT ROLLING MEADOWS, IL",
+  "waterbody": "SALT CREEK AT ROLLING MEADOWS, IL",
+  "state": "IL",
+  "latitude": 42.06039167,
+  "longitude": -88.0166583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/roli2",
+  "slug": "usgs-05530990",
+  "noaaForecastPath": "data/noaa-forecast/ROLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

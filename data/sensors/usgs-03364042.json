@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03364042",
+  "key": "03364042",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03364042",
+  "name": "HAW CREEK AT HOPE, IN",
+  "waterbody": "HAW CREEK AT HOPE, IN",
+  "state": "IN",
+  "latitude": 39.30393,
+  "longitude": -85.774678,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCHI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Haw Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hchi3",
+  "slug": "usgs-03364042",
+  "noaaForecastPath": "data/noaa-forecast/HCHI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

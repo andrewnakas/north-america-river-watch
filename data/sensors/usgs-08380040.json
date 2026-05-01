@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08380040",
+  "key": "08380040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08380040",
+  "name": "GALLINAS CREEK AT OAK FLAT NR GALLINAS, NM",
+  "waterbody": "GALLINAS CREEK AT OAK FLAT NR GALLINAS, NM",
+  "state": "NM",
+  "latitude": 35.7030111,
+  "longitude": -105.4306694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08380040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

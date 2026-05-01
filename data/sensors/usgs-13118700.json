@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13118700",
+  "key": "13118700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13118700",
+  "name": "LITTLE LOST RIVER BL WET CREEK NR HOWE ID",
+  "waterbody": "LITTLE LOST RIVER BL WET CREEK NR HOWE ID",
+  "state": "ID",
+  "latitude": 44.1386111,
+  "longitude": -113.2452778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLRI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Lost River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llri1",
+  "slug": "usgs-13118700",
+  "noaaForecastPath": "data/noaa-forecast/LLRI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

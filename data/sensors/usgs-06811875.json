@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06811875",
+  "key": "06811875",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06811875",
+  "name": "Snake Creek near Yorktown, IA",
+  "waterbody": "Snake Creek near Yorktown, IA",
+  "state": "IA",
+  "latitude": 40.74249256,
+  "longitude": -95.1297039,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKYI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skyi4",
+  "slug": "usgs-06811875",
+  "noaaForecastPath": "data/noaa-forecast/SKYI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

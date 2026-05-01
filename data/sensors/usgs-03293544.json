@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03293544",
+  "key": "03293544",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03293544",
+  "name": "OHIO RIVER AT BIG FOUR BRIDGE AT LOUISVILLE, KY",
+  "waterbody": "OHIO RIVER AT BIG FOUR BRIDGE AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.2656623,
+  "longitude": -85.7390624,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03293544",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

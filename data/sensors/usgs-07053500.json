@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07053500",
+  "key": "07053500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07053500",
+  "name": "White River near Branson, MO",
+  "waterbody": "White River near Branson, MO",
+  "state": "MO",
+  "latitude": 36.597563,
+  "longitude": -93.2951829,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07053500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07028500",
+  "key": "07028500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07028500",
+  "name": "NORTH FORK FORKED DEER RIVER AT TRENTON, TN",
+  "waterbody": "NORTH FORK FORKED DEER RIVER AT TRENTON, TN",
+  "state": "TN",
+  "latitude": 35.9803459,
+  "longitude": -88.9264535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07028500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

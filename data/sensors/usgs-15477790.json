@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15477790",
+  "key": "15477790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15477790",
+  "name": "CENTRAL C NR BIG DELTA AK",
+  "waterbody": "CENTRAL C NR BIG DELTA AK",
+  "state": "AK",
+  "latitude": 64.3765652,
+  "longitude": -144.9454017,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15477790",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

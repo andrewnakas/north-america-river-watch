@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02290709",
+  "key": "02290709",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02290709",
+  "name": "10B BLACK CREEK CANAL AT OLD CUTLER RD NR GOULDS",
+  "waterbody": "10B BLACK CREEK CANAL AT OLD CUTLER RD NR GOULDS",
+  "state": "FL",
+  "latitude": 25.55986111,
+  "longitude": -80.35955556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02290709",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

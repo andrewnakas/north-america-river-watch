@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03085100",
+  "key": "03085100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085100",
+  "name": "Streets Run at Hays, PA",
+  "waterbody": "Streets Run at Hays, PA",
+  "state": "PA",
+  "latitude": 40.3866111,
+  "longitude": -79.9323611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03085100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

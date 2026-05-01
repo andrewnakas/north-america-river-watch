@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803080",
+  "key": "06803080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803080",
+  "name": "Salt Creek at Pioneers Boulevard at Lincoln, Nebr.",
+  "waterbody": "Salt Creek at Pioneers Boulevard at Lincoln, Nebr.",
+  "state": "NE",
+  "latitude": 40.77011944,
+  "longitude": -96.71880278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUSN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lusn1",
+  "slug": "usgs-06803080",
+  "noaaForecastPath": "data/noaa-forecast/LUSN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02145268",
+  "key": "02145268",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02145268",
+  "name": "DUHARTS CREEK AT SR 2439 NEAR CRAMERTON, NC",
+  "waterbody": "DUHARTS CREEK AT SR 2439 NEAR CRAMERTON, NC",
+  "state": "NC",
+  "latitude": 35.2475,
+  "longitude": -81.0976722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02145268",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

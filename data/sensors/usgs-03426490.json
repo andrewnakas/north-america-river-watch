@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03426490",
+  "key": "03426490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03426490",
+  "name": "CUMBERLAND RIVER AT EDENWOLD, TN",
+  "waterbody": "CUMBERLAND RIVER AT EDENWOLD, TN",
+  "state": "TN",
+  "latitude": 36.2875,
+  "longitude": -86.6883333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDWT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edwt1",
+  "slug": "usgs-03426490",
+  "noaaForecastPath": "data/noaa-forecast/EDWT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

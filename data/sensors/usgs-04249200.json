@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04249200",
+  "key": "04249200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04249200",
+  "name": "NORTH BRANCH SALMON RIVER AT REDFIELD NY",
+  "waterbody": "NORTH BRANCH SALMON RIVER AT REDFIELD NY",
+  "state": "NY",
+  "latitude": 43.5423611,
+  "longitude": -75.8139722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "REDN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/redn6",
+  "slug": "usgs-04249200",
+  "noaaForecastPath": "data/noaa-forecast/REDN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

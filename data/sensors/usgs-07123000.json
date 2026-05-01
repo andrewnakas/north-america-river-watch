@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07123000",
+  "key": "07123000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07123000",
+  "name": "ARKANSAS RIVER AT LA JUNTA, CO",
+  "waterbody": "ARKANSAS RIVER AT LA JUNTA, CO",
+  "state": "CO",
+  "latitude": 37.99055556,
+  "longitude": -103.5319444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LXHC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lxhc2",
+  "slug": "usgs-07123000",
+  "noaaForecastPath": "data/noaa-forecast/LXHC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

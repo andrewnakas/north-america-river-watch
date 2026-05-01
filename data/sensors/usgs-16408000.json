@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16408000",
+  "key": "16408000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16408000",
+  "name": "Waikolu Str blw pipe nr Kalaupapa, Molokai, HI",
+  "waterbody": "Waikolu Str blw pipe nr Kalaupapa, Molokai, HI",
+  "state": "HI",
+  "latitude": 21.159325,
+  "longitude": -156.9288889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16408000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

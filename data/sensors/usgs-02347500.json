@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02347500",
+  "key": "02347500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02347500",
+  "name": "FLINT RIVER AT US 19, NEAR CARSONVILLE, GA",
+  "waterbody": "FLINT RIVER AT US 19, NEAR CARSONVILLE, GA",
+  "state": "GA",
+  "latitude": 32.72219444,
+  "longitude": -84.2324167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLUG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clug1",
+  "slug": "usgs-02347500",
+  "noaaForecastPath": "data/noaa-forecast/CLUG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01650500",
+  "key": "01650500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01650500",
+  "name": "Northwest Branch Anacostia River nr Colesville, MD",
+  "waterbody": "Northwest Branch Anacostia River nr Colesville, MD",
+  "state": "MD",
+  "latitude": 39.06552778,
+  "longitude": -77.02936111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLAM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northwest Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clam2",
+  "slug": "usgs-01650500",
+  "noaaForecastPath": "data/noaa-forecast/CLAM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06347030",
+  "key": "06347030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06347030",
+  "name": "HEART RIVER NR CARSON, ND",
+  "waterbody": "HEART RIVER NR CARSON, ND",
+  "state": "ND",
+  "latitude": 46.5591944,
+  "longitude": -101.5560278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06347030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

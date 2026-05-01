@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03083500",
+  "key": "03083500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03083500",
+  "name": "Youghiogheny River at Sutersville, PA",
+  "waterbody": "Youghiogheny River at Sutersville, PA",
+  "state": "PA",
+  "latitude": 40.2402222,
+  "longitude": -79.8066944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Youghiogheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stsp1",
+  "slug": "usgs-03083500",
+  "noaaForecastPath": "data/noaa-forecast/STSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

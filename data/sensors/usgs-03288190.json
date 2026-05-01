@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03288190",
+  "key": "03288190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03288190",
+  "name": "TRIB TO CANE RUN CR AT NEWTOWN PK NR LEXINGTON, KY",
+  "waterbody": "TRIB TO CANE RUN CR AT NEWTOWN PK NR LEXINGTON, KY",
+  "state": "KY",
+  "latitude": 38.1136111,
+  "longitude": -84.4827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLPK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cane Run Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlpk2",
+  "slug": "usgs-03288190",
+  "noaaForecastPath": "data/noaa-forecast/DLPK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

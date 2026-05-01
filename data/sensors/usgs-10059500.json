@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10059500",
+  "key": "10059500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10059500",
+  "name": "BEAR LAKE OUTLET CANAL NR PARIS ID",
+  "waterbody": "BEAR LAKE OUTLET CANAL NR PARIS ID",
+  "state": "ID",
+  "latitude": 42.2165949,
+  "longitude": -111.3438159,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10059500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

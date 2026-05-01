@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04166700",
+  "key": "04166700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04166700",
+  "name": "JOHNSON CREEK AT 7 MILE RD AT NORTHVILLE, MI",
+  "waterbody": "JOHNSON CREEK AT 7 MILE RD AT NORTHVILLE, MI",
+  "state": "MI",
+  "latitude": 42.42584134,
+  "longitude": -83.48098697,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04166700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

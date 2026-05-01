@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03363900",
+  "key": "03363900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03363900",
+  "name": "FLATROCK RIVER AT COLUMBUS, IN",
+  "waterbody": "FLATROCK RIVER AT COLUMBUS, IN",
+  "state": "IN",
+  "latitude": 39.23504208,
+  "longitude": -85.9266275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flatrock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flci3",
+  "slug": "usgs-03363900",
+  "noaaForecastPath": "data/noaa-forecast/FLCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

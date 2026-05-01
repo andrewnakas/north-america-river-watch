@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02218900",
+  "key": "02218900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02218900",
+  "name": "APALACHEE RIVER AT SNOWS MILL RD, NR BISHOP, GA",
+  "waterbody": "APALACHEE RIVER AT SNOWS MILL RD, NR BISHOP, GA",
+  "state": "GA",
+  "latitude": 33.84063889,
+  "longitude": -83.55828889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHPG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apalachee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhpg1",
+  "slug": "usgs-02218900",
+  "noaaForecastPath": "data/noaa-forecast/BHPG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

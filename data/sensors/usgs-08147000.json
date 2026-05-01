@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08147000",
+  "key": "08147000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08147000",
+  "name": "Colorado Rv nr San Saba, TX",
+  "waterbody": "Colorado Rv nr San Saba, TX",
+  "state": "TX",
+  "latitude": 31.21794515,
+  "longitude": -98.564484,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snbt2",
+  "slug": "usgs-08147000",
+  "noaaForecastPath": "data/noaa-forecast/SNBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11167800",
+  "key": "11167800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11167800",
+  "name": "GUADALUPE R AB ALMADEN EXPRESSWAY A SAN JOSE CA",
+  "waterbody": "GUADALUPE R AB ALMADEN EXPRESSWAY A SAN JOSE CA",
+  "state": "CA",
+  "latitude": 37.28077615,
+  "longitude": -121.8796764,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gudc1",
+  "slug": "usgs-11167800",
+  "noaaForecastPath": "data/noaa-forecast/GUDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

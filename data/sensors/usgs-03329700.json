@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03329700",
+  "key": "03329700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03329700",
+  "name": "DEER CREEK NEAR DELPHI, IN",
+  "waterbody": "DEER CREEK NEAR DELPHI, IN",
+  "state": "IN",
+  "latitude": 40.5903039,
+  "longitude": -86.6213718,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deer Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcdi3",
+  "slug": "usgs-03329700",
+  "noaaForecastPath": "data/noaa-forecast/DCDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

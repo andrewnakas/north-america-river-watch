@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04040260",
+  "key": "04040260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04040260",
+  "name": "GRATIOT RIVER AT 5 MILE POINT ROAD NEAR AHMEEK, MI",
+  "waterbody": "GRATIOT RIVER AT 5 MILE POINT ROAD NEAR AHMEEK, MI",
+  "state": "MI",
+  "latitude": 47.3226993,
+  "longitude": -88.4053895,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04040260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

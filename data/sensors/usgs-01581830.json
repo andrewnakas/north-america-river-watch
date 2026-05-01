@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581830",
+  "key": "01581830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581830",
+  "name": "GRAVE RUN NEAR BECKLEYSVILLE, MD",
+  "waterbody": "GRAVE RUN NEAR BECKLEYSVILLE, MD",
+  "state": "MD",
+  "latitude": 39.65480556,
+  "longitude": -76.78091667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKYM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grave Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkym2",
+  "slug": "usgs-01581830",
+  "noaaForecastPath": "data/noaa-forecast/BKYM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

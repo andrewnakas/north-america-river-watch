@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03538270",
+  "key": "03538270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03538270",
+  "name": "BEAR C AT ST HWY 95 NR OAK RIDGE, TN",
+  "waterbody": "BEAR C AT ST HWY 95 NR OAK RIDGE, TN",
+  "state": "TN",
+  "latitude": 35.9372995,
+  "longitude": -84.33936969,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03538270",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

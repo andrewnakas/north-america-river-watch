@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16216000",
+  "key": "16216000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16216000",
+  "name": "Waiawa Str nr Pearl City, Oahu, HI",
+  "waterbody": "Waiawa Str nr Pearl City, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.39569444,
+  "longitude": -157.9783056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16216000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

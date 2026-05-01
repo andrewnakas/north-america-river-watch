@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11431800",
+  "key": "11431800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11431800",
+  "name": "PILOT C AB STUMPY MEADOWS RES CA",
+  "waterbody": "PILOT C AB STUMPY MEADOWS RES CA",
+  "state": "CA",
+  "latitude": 38.8946257,
+  "longitude": -120.5682585,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11431800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12426000",
+  "key": "12426000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12426000",
+  "name": "SPOKANE RIVER BELOW NINE MILE DAM AT SPOKANE, WA",
+  "waterbody": "SPOKANE RIVER BELOW NINE MILE DAM AT SPOKANE, WA",
+  "state": "WA",
+  "latitude": 47.78044505,
+  "longitude": -117.5455016,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12426000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

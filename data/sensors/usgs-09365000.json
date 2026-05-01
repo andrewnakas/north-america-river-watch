@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09365000",
+  "key": "09365000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09365000",
+  "name": "SAN JUAN RIVER AT FARMINGTON, NM",
+  "waterbody": "SAN JUAN RIVER AT FARMINGTON, NM",
+  "state": "NM",
+  "latitude": 36.72301667,
+  "longitude": -108.2255889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRMN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Juan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frmn5",
+  "slug": "usgs-09365000",
+  "noaaForecastPath": "data/noaa-forecast/FRMN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

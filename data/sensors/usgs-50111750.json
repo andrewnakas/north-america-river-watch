@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50111750",
+  "key": "50111750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50111750",
+  "name": "RIO JACAGUAS BLW QUEBRADA GUANABANA, PR",
+  "waterbody": "RIO JACAGUAS BLW QUEBRADA GUANABANA, PR",
+  "state": "PR",
+  "latitude": 18.0294081,
+  "longitude": -66.5073944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50111750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

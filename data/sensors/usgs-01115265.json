@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01115265",
+  "key": "01115265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115265",
+  "name": "HEMLOCK BROOK AT KING ROAD NR FOSTER, RI",
+  "waterbody": "HEMLOCK BROOK AT KING ROAD NR FOSTER, RI",
+  "state": "RI",
+  "latitude": 41.7906548,
+  "longitude": -71.6986785,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01115265",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

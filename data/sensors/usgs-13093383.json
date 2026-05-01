@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13093383",
+  "key": "13093383",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13093383",
+  "name": "SNAKE RIVER AT PIGEON COVE NR TWIN FALLS, ID",
+  "waterbody": "SNAKE RIVER AT PIGEON COVE NR TWIN FALLS, ID",
+  "state": "ID",
+  "latitude": 42.6518222,
+  "longitude": -114.6287528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRPI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srpi1",
+  "slug": "usgs-13093383",
+  "noaaForecastPath": "data/noaa-forecast/SRPI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05599500",
+  "key": "05599500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05599500",
+  "name": "BIG MUDDY RIVER AT MURPHYSBORO, IL",
+  "waterbody": "BIG MUDDY RIVER AT MURPHYSBORO, IL",
+  "state": "IL",
+  "latitude": 37.74805556,
+  "longitude": -89.3466667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05599500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07147800",
+  "key": "07147800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07147800",
+  "name": "WALNUT R AT WINFIELD, KS",
+  "waterbody": "WALNUT R AT WINFIELD, KS",
+  "state": "KS",
+  "latitude": 37.22440278,
+  "longitude": -96.9956889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFDK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfdk1",
+  "slug": "usgs-07147800",
+  "noaaForecastPath": "data/noaa-forecast/WFDK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

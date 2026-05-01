@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07222500",
+  "key": "07222500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07222500",
+  "name": "CONCHAS RIVER AT VARIADERO, NM",
+  "waterbody": "CONCHAS RIVER AT VARIADERO, NM",
+  "state": "NM",
+  "latitude": 35.40282567,
+  "longitude": -104.4435938,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07222500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

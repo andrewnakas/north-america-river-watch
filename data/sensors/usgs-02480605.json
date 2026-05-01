@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02480605",
+  "key": "02480605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02480605",
+  "name": "TCHOUTACABOUFFA RIVER AT CEDAR LAKE, MS",
+  "waterbody": "TCHOUTACABOUFFA RIVER AT CEDAR LAKE, MS",
+  "state": "MS",
+  "latitude": 30.4596418,
+  "longitude": -88.9391993,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02480605",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

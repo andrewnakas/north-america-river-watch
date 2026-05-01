@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03216500",
+  "key": "03216500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03216500",
+  "name": "LITTLE SANDY RIVER AT GRAYSON, KY",
+  "waterbody": "LITTLE SANDY RIVER AT GRAYSON, KY",
+  "state": "KY",
+  "latitude": 38.3300813,
+  "longitude": -82.9393353,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYNK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sandy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gynk2",
+  "slug": "usgs-03216500",
+  "noaaForecastPath": "data/noaa-forecast/GYNK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

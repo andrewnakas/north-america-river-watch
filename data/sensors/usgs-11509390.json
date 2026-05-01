@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11509390",
+  "key": "11509390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11509390",
+  "name": "KLAMATH RIVER BELOW KENO DAM, AT KENO, OR",
+  "waterbody": "KLAMATH RIVER BELOW KENO DAM, AT KENO, OR",
+  "state": "OR",
+  "latitude": 42.1324361,
+  "longitude": -121.948336,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11509390",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11472180",
+  "key": "11472180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11472180",
+  "name": "OUTLET C NR WILLITS CA",
+  "waterbody": "OUTLET C NR WILLITS CA",
+  "state": "CA",
+  "latitude": 39.42044444,
+  "longitude": -123.3406667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11472180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03376300",
+  "key": "03376300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03376300",
+  "name": "PATOKA RIVER AT WINSLOW, IN",
+  "waterbody": "PATOKA RIVER AT WINSLOW, IN",
+  "state": "IN",
+  "latitude": 38.3803275,
+  "longitude": -87.21667529,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNSI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patoka River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnsi3",
+  "slug": "usgs-03376300",
+  "noaaForecastPath": "data/noaa-forecast/WNSI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

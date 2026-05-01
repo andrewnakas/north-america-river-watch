@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03276500",
+  "key": "03276500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03276500",
+  "name": "WHITEWATER RIVER AT BROOKVILLE, IN",
+  "waterbody": "WHITEWATER RIVER AT BROOKVILLE, IN",
+  "state": "IN",
+  "latitude": 39.4074722,
+  "longitude": -85.01288889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRKI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brki3",
+  "slug": "usgs-03276500",
+  "noaaForecastPath": "data/noaa-forecast/BRKI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01403540",
+  "key": "01403540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01403540",
+  "name": "Stony Brook at Watchung NJ",
+  "waterbody": "Stony Brook at Watchung NJ",
+  "state": "NJ",
+  "latitude": 40.63638889,
+  "longitude": -74.45138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTCN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtcn4",
+  "slug": "usgs-01403540",
+  "noaaForecastPath": "data/noaa-forecast/WTCN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

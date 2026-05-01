@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08163880",
+  "key": "08163880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08163880",
+  "name": "Chicolette Ck at US 77 nr Yoakum, TX",
+  "waterbody": "Chicolette Ck at US 77 nr Yoakum, TX",
+  "state": "TX",
+  "latitude": 29.09466667,
+  "longitude": -96.9872333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08163880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

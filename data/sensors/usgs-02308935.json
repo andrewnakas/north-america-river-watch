@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02308935",
+  "key": "02308935",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02308935",
+  "name": "SAINT JOE CREEK AT PINELLAS PARK FL",
+  "waterbody": "SAINT JOE CREEK AT PINELLAS PARK FL",
+  "state": "FL",
+  "latitude": 27.81419235,
+  "longitude": -82.6956554,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02308935",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

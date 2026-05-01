@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03112500",
+  "key": "03112500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03112500",
+  "name": "OHIO RIVER AT WHEELING, WV",
+  "waterbody": "OHIO RIVER AT WHEELING, WV",
+  "state": "WV",
+  "latitude": 40.0572949,
+  "longitude": -80.7284154,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLGW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlgw2",
+  "slug": "usgs-03112500",
+  "noaaForecastPath": "data/noaa-forecast/WLGW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13027500",
+  "key": "13027500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13027500",
+  "name": "SALT RIVER ABOVE RESERVOIR, NEAR ETNA, WY",
+  "waterbody": "SALT RIVER ABOVE RESERVOIR, NEAR ETNA, WY",
+  "state": "WY",
+  "latitude": 43.0797222,
+  "longitude": -111.0372222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SALW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River (WY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/salw4",
+  "slug": "usgs-13027500",
+  "noaaForecastPath": "data/noaa-forecast/SALW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

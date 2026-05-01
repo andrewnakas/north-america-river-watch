@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02320700",
+  "key": "02320700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02320700",
+  "name": "SANTA FE RIVER NEAR GRAHAM, FLA.",
+  "waterbody": "SANTA FE RIVER NEAR GRAHAM, FLA.",
+  "state": "FL",
+  "latitude": 29.84635394,
+  "longitude": -82.2195493,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Fe River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grmf1",
+  "slug": "usgs-02320700",
+  "noaaForecastPath": "data/noaa-forecast/GRMF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

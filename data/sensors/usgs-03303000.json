@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03303000",
+  "key": "03303000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03303000",
+  "name": "BLUE RIVER NEAR WHITE CLOUD, IN",
+  "waterbody": "BLUE RIVER NEAR WHITE CLOUD, IN",
+  "state": "IN",
+  "latitude": 38.23447298,
+  "longitude": -86.22713759,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whci3",
+  "slug": "usgs-03303000",
+  "noaaForecastPath": "data/noaa-forecast/WHCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

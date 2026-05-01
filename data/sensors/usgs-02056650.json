@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02056650",
+  "key": "02056650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02056650",
+  "name": "BACK CREEK NEAR DUNDEE, VA",
+  "waterbody": "BACK CREEK NEAR DUNDEE, VA",
+  "state": "VA",
+  "latitude": 37.22763879,
+  "longitude": -79.8680915,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCKV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Back Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bckv2",
+  "slug": "usgs-02056650",
+  "noaaForecastPath": "data/noaa-forecast/BCKV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

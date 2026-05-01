@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06893910",
+  "key": "06893910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893910",
+  "name": "Little Blue River at 39th St. in Independence, MO",
+  "waterbody": "Little Blue River at 39th St. in Independence, MO",
+  "state": "MO",
+  "latitude": 39.04722814,
+  "longitude": -94.3377272,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06893910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

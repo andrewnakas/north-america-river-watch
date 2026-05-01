@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03361500",
+  "key": "03361500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03361500",
+  "name": "BIG BLUE RIVER AT SHELBYVILLE, IN",
+  "waterbody": "BIG BLUE RIVER AT SHELBYVILLE, IN",
+  "state": "IN",
+  "latitude": 39.52925,
+  "longitude": -85.7775278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBVI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Blue River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbvi3",
+  "slug": "usgs-03361500",
+  "noaaForecastPath": "data/noaa-forecast/SBVI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

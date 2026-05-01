@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01661977",
+  "key": "01661977",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01661977",
+  "name": "CARTER RUN AT ROUTE 681 NEAR JEFFERSONTON, VA",
+  "waterbody": "CARTER RUN AT ROUTE 681 NEAR JEFFERSONTON, VA",
+  "state": "VA",
+  "latitude": 38.7244722,
+  "longitude": -77.9105278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01661977",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

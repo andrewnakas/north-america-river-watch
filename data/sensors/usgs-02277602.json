@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02277602",
+  "key": "02277602",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02277602",
+  "name": "LOXAHATCHEE RIVER DWS LAINHART DAM NR JUPITER FL",
+  "waterbody": "LOXAHATCHEE RIVER DWS LAINHART DAM NR JUPITER FL",
+  "state": "FL",
+  "latitude": 26.93927778,
+  "longitude": -80.17488889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02277602",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05569500",
+  "key": "05569500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05569500",
+  "name": "SPOON RIVER AT LONDON MILLS, IL",
+  "waterbody": "SPOON RIVER AT LONDON MILLS, IL",
+  "state": "IL",
+  "latitude": 40.7077222,
+  "longitude": -90.2797778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spoon River (W-IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnmi2",
+  "slug": "usgs-05569500",
+  "noaaForecastPath": "data/noaa-forecast/LNMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

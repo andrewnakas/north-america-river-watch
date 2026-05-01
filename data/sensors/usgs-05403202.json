@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05403202",
+  "key": "05403202",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05403202",
+  "name": "WISCONSIN R BELOW CASTLE ROCK DAM NR MAUSTON, WI",
+  "waterbody": "WISCONSIN R BELOW CASTLE ROCK DAM NR MAUSTON, WI",
+  "state": "WI",
+  "latitude": 43.85613889,
+  "longitude": -89.949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRMW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrmw3",
+  "slug": "usgs-05403202",
+  "noaaForecastPath": "data/noaa-forecast/WRMW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

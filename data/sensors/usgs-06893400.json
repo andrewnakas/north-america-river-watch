@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06893400",
+  "key": "06893400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893400",
+  "name": "Indian Creek at 103rd St in Kansas City, MO",
+  "waterbody": "Indian Creek at 103rd St in Kansas City, MO",
+  "state": "MO",
+  "latitude": 38.9419722,
+  "longitude": -94.6045,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06893400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

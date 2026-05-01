@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419745",
+  "key": "09419745",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419745",
+  "name": "C-1 CHANNEL ABV MOUTH NR HENDERSON, NV",
+  "waterbody": "C-1 CHANNEL ABV MOUTH NR HENDERSON, NV",
+  "state": "NV",
+  "latitude": 36.085,
+  "longitude": -114.9683333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419745",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

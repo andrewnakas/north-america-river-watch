@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12113350",
+  "key": "12113350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12113350",
+  "name": "GREEN RIVER AT TUKWILA, WA",
+  "waterbody": "GREEN RIVER AT TUKWILA, WA",
+  "state": "WA",
+  "latitude": 47.46509966,
+  "longitude": -122.2484554,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TUKW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (WA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tukw1",
+  "slug": "usgs-12113350",
+  "noaaForecastPath": "data/noaa-forecast/TUKW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

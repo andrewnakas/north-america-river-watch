@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12208000",
+  "key": "12208000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12208000",
+  "name": "MF NOOKSACK RIVER NEAR DEMING, WA",
+  "waterbody": "MF NOOKSACK RIVER NEAR DEMING, WA",
+  "state": "WA",
+  "latitude": 48.7792828,
+  "longitude": -122.1065434,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFNW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Nooksack River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfnw1",
+  "slug": "usgs-12208000",
+  "noaaForecastPath": "data/noaa-forecast/MFNW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

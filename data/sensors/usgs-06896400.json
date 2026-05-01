@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06896400",
+  "key": "06896400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06896400",
+  "name": "East Fork Grand River at Albany, MO",
+  "waterbody": "East Fork Grand River at Albany, MO",
+  "state": "MO",
+  "latitude": 40.2486111,
+  "longitude": -94.3602778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06896400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

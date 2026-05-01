@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08238350",
+  "key": "08238350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08238350",
+  "name": "YELLOW WARBLER RES INFLOW NEAR ANTONIO, CO.",
+  "waterbody": "YELLOW WARBLER RES INFLOW NEAR ANTONIO, CO.",
+  "state": "CO",
+  "latitude": 37.10001096,
+  "longitude": -106.112803,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08238350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

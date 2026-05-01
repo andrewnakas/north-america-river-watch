@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06917380",
+  "key": "06917380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06917380",
+  "name": "MARMATON R NR MARMATON, KS",
+  "waterbody": "MARMATON R NR MARMATON, KS",
+  "state": "KS",
+  "latitude": 37.81754116,
+  "longitude": -94.7919095,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06917380",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

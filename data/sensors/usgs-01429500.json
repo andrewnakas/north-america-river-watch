@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01429500",
+  "key": "01429500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01429500",
+  "name": "Dyberry Creek near Honesdale, PA",
+  "waterbody": "Dyberry Creek near Honesdale, PA",
+  "state": "PA",
+  "latitude": 41.6072181,
+  "longitude": -75.26710469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JDWP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dyberry Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jdwp1",
+  "slug": "usgs-01429500",
+  "noaaForecastPath": "data/noaa-forecast/JDWP1.json",
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

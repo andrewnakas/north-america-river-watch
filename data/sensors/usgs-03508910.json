@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03508910",
+  "key": "03508910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03508910",
+  "name": "SCOTT CREEK AT WILLITS-OCHRE HILL, NC",
+  "waterbody": "SCOTT CREEK AT WILLITS-OCHRE HILL, NC",
+  "state": "NC",
+  "latitude": 35.39760097,
+  "longitude": -83.1293091,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03508910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08211000",
+  "key": "08211000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08211000",
+  "name": "Nueces Rv nr Mathis, TX",
+  "waterbody": "Nueces Rv nr Mathis, TX",
+  "state": "TX",
+  "latitude": 28.03834719,
+  "longitude": -97.8602769,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtht2",
+  "slug": "usgs-08211000",
+  "noaaForecastPath": "data/noaa-forecast/MTHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

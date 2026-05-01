@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03287590",
+  "key": "03287590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03287590",
+  "name": "N ELKHORN CR AT WINCHESTER RD NR LEXINGTON, KY",
+  "waterbody": "N ELKHORN CR AT WINCHESTER RD NR LEXINGTON, KY",
+  "state": "KY",
+  "latitude": 38.04006944,
+  "longitude": -84.4111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELPK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Elkhorn Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elpk2",
+  "slug": "usgs-03287590",
+  "noaaForecastPath": "data/noaa-forecast/ELPK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

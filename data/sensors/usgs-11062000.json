@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11062000",
+  "key": "11062000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11062000",
+  "name": "LYTLE C NR FONTANA CA",
+  "waterbody": "LYTLE C NR FONTANA CA",
+  "state": "CA",
+  "latitude": 34.21184444,
+  "longitude": -117.4578667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11062000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

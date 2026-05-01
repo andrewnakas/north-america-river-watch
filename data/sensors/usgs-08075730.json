@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08075730",
+  "key": "08075730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08075730",
+  "name": "Vince Bayou at Pasadena, TX",
+  "waterbody": "Vince Bayou at Pasadena, TX",
+  "state": "TX",
+  "latitude": 29.69467363,
+  "longitude": -95.216323,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08075730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

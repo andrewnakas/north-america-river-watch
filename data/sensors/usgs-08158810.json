@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158810",
+  "key": "08158810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158810",
+  "name": "Bear Ck bl FM 1826 nr Driftwood, TX",
+  "waterbody": "Bear Ck bl FM 1826 nr Driftwood, TX",
+  "state": "TX",
+  "latitude": 30.15548749,
+  "longitude": -97.9400076,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcdt2",
+  "slug": "usgs-08158810",
+  "noaaForecastPath": "data/noaa-forecast/BCDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

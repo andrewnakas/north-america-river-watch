@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01606000",
+  "key": "01606000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01606000",
+  "name": "N F SOUTH BRANCH POTOMAC RIVER AT CABINS, WV",
+  "waterbody": "N F SOUTH BRANCH POTOMAC RIVER AT CABINS, WV",
+  "state": "WV",
+  "latitude": 38.9845546,
+  "longitude": -79.2336508,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CABW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork South Branch Potomac River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cabw2",
+  "slug": "usgs-01606000",
+  "noaaForecastPath": "data/noaa-forecast/CABW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02097314",
+  "key": "02097314",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02097314",
+  "name": "NEW HOPE CREEK NEAR BLANDS, NC",
+  "waterbody": "NEW HOPE CREEK NEAR BLANDS, NC",
+  "state": "NC",
+  "latitude": 35.885,
+  "longitude": -78.9652778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "New Hope Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhcn7",
+  "slug": "usgs-02097314",
+  "noaaForecastPath": "data/noaa-forecast/NHCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

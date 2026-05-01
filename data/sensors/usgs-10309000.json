@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10309000",
+  "key": "10309000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10309000",
+  "name": "E FK CARSON RV NR GARDNERVILLE, NV",
+  "waterbody": "E FK CARSON RV NR GARDNERVILLE, NV",
+  "state": "NV",
+  "latitude": 38.84519444,
+  "longitude": -119.7060833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRDN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Carson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grdn2",
+  "slug": "usgs-10309000",
+  "noaaForecastPath": "data/noaa-forecast/GRDN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02343805",
+  "key": "02343805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02343805",
+  "name": "CHATTAHOOCHEE RIVER AT MILE 46 NEAR COLUMBIA, ALA",
+  "waterbody": "CHATTAHOOCHEE RIVER AT MILE 46 NEAR COLUMBIA, ALA",
+  "state": "GA",
+  "latitude": 31.24908333,
+  "longitude": -85.1066111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COLA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cola1",
+  "slug": "usgs-02343805",
+  "noaaForecastPath": "data/noaa-forecast/COLA1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

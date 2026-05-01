@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11043000",
+  "key": "11043000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11043000",
+  "name": "MURRIETA C A TEMECULA CA",
+  "waterbody": "MURRIETA C A TEMECULA CA",
+  "state": "CA",
+  "latitude": 33.47975066,
+  "longitude": -117.1439203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUTC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Murrieta Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mutc1",
+  "slug": "usgs-11043000",
+  "noaaForecastPath": "data/noaa-forecast/MUTC1.json",
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50233000",
+  "key": "50233000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50233000",
+  "name": "QUEBRADA PILON AT COLONIA PUERTO REAL, VIEQUES PR",
+  "waterbody": "QUEBRADA PILON AT COLONIA PUERTO REAL, VIEQUES PR",
+  "state": "PR",
+  "latitude": 18.10829732,
+  "longitude": -65.48043679,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50233000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

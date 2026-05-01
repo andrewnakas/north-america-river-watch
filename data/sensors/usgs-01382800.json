@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01382800",
+  "key": "01382800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01382800",
+  "name": "Pequannock River at Riverdale NJ",
+  "waterbody": "Pequannock River at Riverdale NJ",
+  "state": "NJ",
+  "latitude": 40.9986111,
+  "longitude": -74.2980556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDLN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pequannock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdln4",
+  "slug": "usgs-01382800",
+  "noaaForecastPath": "data/noaa-forecast/RDLN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

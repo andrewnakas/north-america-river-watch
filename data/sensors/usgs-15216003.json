@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15216003",
+  "key": "15216003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15216003",
+  "name": "MIDDLE ARM EYAK LK TR NR CORDOVA AK",
+  "waterbody": "MIDDLE ARM EYAK LK TR NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.55754652,
+  "longitude": -145.63097155,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15216003",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

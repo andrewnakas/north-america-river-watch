@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08282300",
+  "key": "08282300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08282300",
+  "name": "RIO BRAZOS AT FISHTAIL ROAD NR TIERRA AMARILLA, NM",
+  "waterbody": "RIO BRAZOS AT FISHTAIL ROAD NR TIERRA AMARILLA, NM",
+  "state": "NM",
+  "latitude": 36.7379333,
+  "longitude": -106.4707722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08282300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

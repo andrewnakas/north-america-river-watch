@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03318800",
+  "key": "03318800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03318800",
+  "name": "CANEY CREEK NEAR HORSE BRANCH, KY",
+  "waterbody": "CANEY CREEK NEAR HORSE BRANCH, KY",
+  "state": "KY",
+  "latitude": 37.4639398,
+  "longitude": -86.6555419,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HSBK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Caney Creek (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hsbk2",
+  "slug": "usgs-03318800",
+  "noaaForecastPath": "data/noaa-forecast/HSBK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

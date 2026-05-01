@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05549400",
+  "key": "05549400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05549400",
+  "name": "FOX RIVER AT MILLER BRIDGE NEAR MCHENRY, IL",
+  "waterbody": "FOX RIVER AT MILLER BRIDGE NEAR MCHENRY, IL",
+  "state": "IL",
+  "latitude": 42.323333,
+  "longitude": -88.251667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05549400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

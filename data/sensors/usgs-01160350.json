@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01160350",
+  "key": "01160350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01160350",
+  "name": "ASHUELOT RIVER AT WEST SWANZEY, NH",
+  "waterbody": "ASHUELOT RIVER AT WEST SWANZEY, NH",
+  "state": "NH",
+  "latitude": 42.87147076,
+  "longitude": -72.3281415,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWAN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashuelot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swan3",
+  "slug": "usgs-01160350",
+  "noaaForecastPath": "data/noaa-forecast/SWAN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

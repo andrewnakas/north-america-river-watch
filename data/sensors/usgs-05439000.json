@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05439000",
+  "key": "05439000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05439000",
+  "name": "SOUTH BRANCH KISHWAUKEE RIVER AT DEKALB, IL",
+  "waterbody": "SOUTH BRANCH KISHWAUKEE RIVER AT DEKALB, IL",
+  "state": "IL",
+  "latitude": 41.9311111,
+  "longitude": -88.7597222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Kishwaukee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/deki2",
+  "slug": "usgs-05439000",
+  "noaaForecastPath": "data/noaa-forecast/DEKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

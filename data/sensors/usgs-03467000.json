@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03467000",
+  "key": "03467000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03467000",
+  "name": "LICK CREEK AT MOHAWK, TN",
+  "waterbody": "LICK CREEK AT MOHAWK, TN",
+  "state": "TN",
+  "latitude": 36.2014865,
+  "longitude": -83.0476601,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03467000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05059600",
+  "key": "05059600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05059600",
+  "name": "MAPLE RIVER NR HOPE, ND",
+  "waterbody": "MAPLE RIVER NR HOPE, ND",
+  "state": "ND",
+  "latitude": 47.32498855,
+  "longitude": -97.7906537,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOBN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maple River (ND)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bobn8",
+  "slug": "usgs-05059600",
+  "noaaForecastPath": "data/noaa-forecast/BOBN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

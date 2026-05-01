@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10245970",
+  "key": "10245970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245970",
+  "name": "ROBERTS CK NR EUREKA, NV",
+  "waterbody": "ROBERTS CK NR EUREKA, NV",
+  "state": "NV",
+  "latitude": 39.78977778,
+  "longitude": -116.3009444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCKN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roberts Creek nr Eureka",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rckn2",
+  "slug": "usgs-10245970",
+  "noaaForecastPath": "data/noaa-forecast/RCKN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

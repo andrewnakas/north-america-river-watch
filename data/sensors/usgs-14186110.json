@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14186110",
+  "key": "14186110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14186110",
+  "name": "GREEN PETER DAM TAILWATER NEAR FOSTER, OR",
+  "waterbody": "GREEN PETER DAM TAILWATER NEAR FOSTER, OR",
+  "state": "OR",
+  "latitude": 44.4492944,
+  "longitude": -122.5496667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GPRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quartzville Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gpro3",
+  "slug": "usgs-14186110",
+  "noaaForecastPath": "data/noaa-forecast/GPRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02266026",
+  "key": "02266026",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266026",
+  "name": "10B REEDY CREEK BELOW S-46 NR VINELAND FLA",
+  "waterbody": "10B REEDY CREEK BELOW S-46 NR VINELAND FLA",
+  "state": "FL",
+  "latitude": 28.40417345,
+  "longitude": -81.61146309,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02266026",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

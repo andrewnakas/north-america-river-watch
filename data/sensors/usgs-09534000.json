@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09534000",
+  "key": "09534000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09534000",
+  "name": "YUMA MAIN DRAIN ABOVE ARIZONA-SONORA BOUNDARY",
+  "waterbody": "YUMA MAIN DRAIN ABOVE ARIZONA-SONORA BOUNDARY",
+  "state": "AZ",
+  "latitude": 32.48758333,
+  "longitude": -114.7896667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09534000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

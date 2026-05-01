@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02197000",
+  "key": "02197000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02197000",
+  "name": "SAVANNAH RIVER AT AUGUSTA, GA",
+  "waterbody": "SAVANNAH RIVER AT AUGUSTA, GA",
+  "state": "GA",
+  "latitude": 33.37252778,
+  "longitude": -81.9420833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Savannah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/augg1",
+  "slug": "usgs-02197000",
+  "noaaForecastPath": "data/noaa-forecast/AUGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

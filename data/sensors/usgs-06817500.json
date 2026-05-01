@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06817500",
+  "key": "06817500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06817500",
+  "name": "Nodaway River near Burlington Junction, MO",
+  "waterbody": "Nodaway River near Burlington Junction, MO",
+  "state": "MO",
+  "latitude": 40.44491667,
+  "longitude": -95.0903056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRLM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nodaway River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brlm7",
+  "slug": "usgs-06817500",
+  "noaaForecastPath": "data/noaa-forecast/BRLM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

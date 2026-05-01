@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01118010",
+  "key": "01118010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01118010",
+  "name": "PAWCATUCK RIVER AT BURDICKVILLE, RI",
+  "waterbody": "PAWCATUCK RIVER AT BURDICKVILLE, RI",
+  "state": "RI",
+  "latitude": 41.4162111,
+  "longitude": -71.7289551,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01118010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

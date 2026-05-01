@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01376520",
+  "key": "01376520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01376520",
+  "name": "HUDSON RIVER AT PIER 25 AT NEW YORK NY",
+  "waterbody": "HUDSON RIVER AT PIER 25 AT NEW YORK NY",
+  "state": "NY",
+  "latitude": 40.72152778,
+  "longitude": -74.0156111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01376520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05540130",
+  "key": "05540130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540130",
+  "name": "WEST BRANCH DU PAGE RIVER NEAR NAPERVILLE, IL",
+  "waterbody": "WEST BRANCH DU PAGE RIVER NEAR NAPERVILLE, IL",
+  "state": "IL",
+  "latitude": 41.7202583,
+  "longitude": -88.1319333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Du Page River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nawi2",
+  "slug": "usgs-05540130",
+  "noaaForecastPath": "data/noaa-forecast/NAWI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

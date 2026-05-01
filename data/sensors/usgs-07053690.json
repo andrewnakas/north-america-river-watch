@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07053690",
+  "key": "07053690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07053690",
+  "name": "Turkey Creek near Hollister, MO",
+  "waterbody": "Turkey Creek near Hollister, MO",
+  "state": "MO",
+  "latitude": 36.58277778,
+  "longitude": -93.2102778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCKM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey Creek (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tckm7",
+  "slug": "usgs-07053690",
+  "noaaForecastPath": "data/noaa-forecast/TCKM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

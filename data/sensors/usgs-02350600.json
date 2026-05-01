@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02350600",
+  "key": "02350600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02350600",
+  "name": "KINCHAFOONEE CREEK AT PRESTON, GA",
+  "waterbody": "KINCHAFOONEE CREEK AT PRESTON, GA",
+  "state": "GA",
+  "latitude": 32.0525,
+  "longitude": -84.5483333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRSG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kinchafoonee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prsg1",
+  "slug": "usgs-02350600",
+  "noaaForecastPath": "data/noaa-forecast/PRSG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

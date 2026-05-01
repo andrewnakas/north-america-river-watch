@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01547200",
+  "key": "01547200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01547200",
+  "name": "Bald Eagle Creek bl Spring Creek at Milesburg, PA",
+  "waterbody": "Bald Eagle Creek bl Spring Creek at Milesburg, PA",
+  "state": "PA",
+  "latitude": 40.943116,
+  "longitude": -77.78639109,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bald Eagle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msbp1",
+  "slug": "usgs-01547200",
+  "noaaForecastPath": "data/noaa-forecast/MSBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

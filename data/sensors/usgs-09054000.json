@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09054000",
+  "key": "09054000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09054000",
+  "name": "BLACK CREEK BELOW BLACK LAKE, NEAR DILLON, CO.",
+  "waterbody": "BLACK CREEK BELOW BLACK LAKE, NEAR DILLON, CO.",
+  "state": "CO",
+  "latitude": 39.7991522,
+  "longitude": -106.2683604,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09054000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05270700",
+  "key": "05270700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05270700",
+  "name": "MISSISSIPPI RIVER AT ST. CLOUD, MN",
+  "waterbody": "MISSISSIPPI RIVER AT ST. CLOUD, MN",
+  "state": "MN",
+  "latitude": 45.547239,
+  "longitude": -94.145662,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCOM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scom5",
+  "slug": "usgs-05270700",
+  "noaaForecastPath": "data/noaa-forecast/SCOM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

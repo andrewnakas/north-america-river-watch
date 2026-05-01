@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09255200",
+  "key": "09255200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09255200",
+  "name": "Little Snake River ab Savery Cr, nr Savery, WY",
+  "waterbody": "Little Snake River ab Savery Cr, nr Savery, WY",
+  "state": "WY",
+  "latitude": 41.01674167,
+  "longitude": -107.4402583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lssw4",
+  "slug": "usgs-09255200",
+  "noaaForecastPath": "data/noaa-forecast/LSSW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

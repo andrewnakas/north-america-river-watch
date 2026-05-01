@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08315480",
+  "key": "08315480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08315480",
+  "name": "SANTA FE RIVER ABOVE MCCLURE RES, NR SANTA FE, NM",
+  "waterbody": "SANTA FE RIVER ABOVE MCCLURE RES, NR SANTA FE, NM",
+  "state": "NM",
+  "latitude": 35.68891667,
+  "longitude": -105.8228333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08315480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

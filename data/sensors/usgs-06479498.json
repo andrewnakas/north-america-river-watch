@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479498",
+  "key": "06479498",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479498",
+  "name": "SOUTH BRANCH TRIB MUD CREEK NR RAUVILLE, SD",
+  "waterbody": "SOUTH BRANCH TRIB MUD CREEK NR RAUVILLE, SD",
+  "state": "SD",
+  "latitude": 44.95302009,
+  "longitude": -97.1067403,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVLS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Tributary Mud Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvls2",
+  "slug": "usgs-06479498",
+  "noaaForecastPath": "data/noaa-forecast/RVLS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

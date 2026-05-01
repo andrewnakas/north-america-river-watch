@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13132520",
+  "key": "13132520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13132520",
+  "name": "BIG LOST RIVER BL INL DIV NEAR ARCO ID",
+  "waterbody": "BIG LOST RIVER BL INL DIV NEAR ARCO ID",
+  "state": "ID",
+  "latitude": 43.5158333,
+  "longitude": -113.0819444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLOI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Lost River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bloi1",
+  "slug": "usgs-13132520",
+  "noaaForecastPath": "data/noaa-forecast/BLOI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

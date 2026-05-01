@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01152010",
+  "key": "01152010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01152010",
+  "name": "SUGAR RIVER 0.2 MI BELOW NH 11, AT SUNAPEE, NH",
+  "waterbody": "SUGAR RIVER 0.2 MI BELOW NH 11, AT SUNAPEE, NH",
+  "state": "NH",
+  "latitude": 43.3864634,
+  "longitude": -72.0911969,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCFN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scfn3",
+  "slug": "usgs-01152010",
+  "noaaForecastPath": "data/noaa-forecast/SCFN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02090504",
+  "key": "02090504",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02090504",
+  "name": "CONTENTNEA CREEK NR BLACK CREEK, NC",
+  "waterbody": "CONTENTNEA CREEK NR BLACK CREEK, NC",
+  "state": "NC",
+  "latitude": 35.66849178,
+  "longitude": -77.90887268,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTBN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Contentnea Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctbn7",
+  "slug": "usgs-02090504",
+  "noaaForecastPath": "data/noaa-forecast/CTBN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

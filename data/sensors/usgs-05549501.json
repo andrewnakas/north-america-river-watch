@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05549501",
+  "key": "05549501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05549501",
+  "name": "FOX RIVER (TAILWATER) NEAR MCHENRY, IL",
+  "waterbody": "FOX RIVER (TAILWATER) NEAR MCHENRY, IL",
+  "state": "IL",
+  "latitude": 42.3091889,
+  "longitude": -88.2514745,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MHYI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "moderate",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mhyi2",
+  "slug": "usgs-05549501",
+  "noaaForecastPath": "data/noaa-forecast/MHYI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

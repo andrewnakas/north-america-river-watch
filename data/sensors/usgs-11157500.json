@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11157500",
+  "key": "11157500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11157500",
+  "name": "TRES PINOS C NR TRES PINOS CA",
+  "waterbody": "TRES PINOS C NR TRES PINOS CA",
+  "state": "CA",
+  "latitude": 36.765753,
+  "longitude": -121.2996128,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TESC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tres Pinos Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tesc1",
+  "slug": "usgs-11157500",
+  "noaaForecastPath": "data/noaa-forecast/TESC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

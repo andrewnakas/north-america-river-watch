@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08020450",
+  "key": "08020450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08020450",
+  "name": "Sabine Rv abv Longview, TX",
+  "waterbody": "Sabine Rv abv Longview, TX",
+  "state": "TX",
+  "latitude": 32.47987044,
+  "longitude": -94.80438,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08020450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

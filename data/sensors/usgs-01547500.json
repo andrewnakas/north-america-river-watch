@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01547500",
+  "key": "01547500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01547500",
+  "name": "Bald Eagle Creek at Blanchard, PA",
+  "waterbody": "Bald Eagle Creek at Blanchard, PA",
+  "state": "PA",
+  "latitude": 41.05173127,
+  "longitude": -77.6044379,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SYDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Central PA Dams  Sayers Dam on Bald Eagle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sydp1",
+  "slug": "usgs-01547500",
+  "noaaForecastPath": "data/noaa-forecast/SYDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

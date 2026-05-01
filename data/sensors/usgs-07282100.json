@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07282100",
+  "key": "07282100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07282100",
+  "name": "TOPASHAW CREEK CANAL NR CALHOUN CITY, MS",
+  "waterbody": "TOPASHAW CREEK CANAL NR CALHOUN CITY, MS",
+  "state": "MS",
+  "latitude": 33.8147222,
+  "longitude": -89.3458333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07282100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

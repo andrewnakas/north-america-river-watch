@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06447230",
+  "key": "06447230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06447230",
+  "name": "BLACK PIPE CREEK NEAR BELVIDERE, SD",
+  "waterbody": "BLACK PIPE CREEK NEAR BELVIDERE, SD",
+  "state": "SD",
+  "latitude": 43.75527266,
+  "longitude": -101.2279205,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackpipe Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pips2",
+  "slug": "usgs-06447230",
+  "noaaForecastPath": "data/noaa-forecast/PIPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

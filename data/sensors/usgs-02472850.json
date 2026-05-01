@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02472850",
+  "key": "02472850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02472850",
+  "name": "OKATOMA CREEK AT SANFORD, MS",
+  "waterbody": "OKATOMA CREEK AT SANFORD, MS",
+  "state": "MS",
+  "latitude": 31.48916667,
+  "longitude": -89.4333333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKCM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Okatoma Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okcm6",
+  "slug": "usgs-02472850",
+  "noaaForecastPath": "data/noaa-forecast/OKCM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

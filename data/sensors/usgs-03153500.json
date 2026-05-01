@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03153500",
+  "key": "03153500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03153500",
+  "name": "LITTLE KANAWHA RIVER AT GRANTSVILLE, WV",
+  "waterbody": "LITTLE KANAWHA RIVER AT GRANTSVILLE, WV",
+  "state": "WV",
+  "latitude": 38.9217307,
+  "longitude": -81.0947567,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRTW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Kanawha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grtw2",
+  "slug": "usgs-03153500",
+  "noaaForecastPath": "data/noaa-forecast/GRTW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

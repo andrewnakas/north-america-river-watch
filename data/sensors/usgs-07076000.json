@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07076000",
+  "key": "07076000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07076000",
+  "name": "Little Red River near Heber Springs",
+  "waterbody": "Little Red River near Heber Springs",
+  "state": "AR",
+  "latitude": 35.5172222,
+  "longitude": -91.9972222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRRA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grra4",
+  "slug": "usgs-07076000",
+  "noaaForecastPath": "data/noaa-forecast/GRRA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

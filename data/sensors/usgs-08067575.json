@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067575",
+  "key": "08067575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067575",
+  "name": "Caney Ck at FM 1375 nr Richards, TX",
+  "waterbody": "Caney Ck at FM 1375 nr Richards, TX",
+  "state": "TX",
+  "latitude": 30.52829167,
+  "longitude": -95.6793306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067575",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04111000",
+  "key": "04111000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04111000",
+  "name": "GRAND RIVER NEAR EATON RAPIDS, MI",
+  "waterbody": "GRAND RIVER NEAR EATON RAPIDS, MI",
+  "state": "MI",
+  "latitude": 42.5347305,
+  "longitude": -84.62297,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EATM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eatm4",
+  "slug": "usgs-04111000",
+  "noaaForecastPath": "data/noaa-forecast/EATM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

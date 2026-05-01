@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10250800",
+  "key": "10250800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10250800",
+  "name": "DARWIN WASH NR DARWIN CA",
+  "waterbody": "DARWIN WASH NR DARWIN CA",
+  "state": "CA",
+  "latitude": 36.3207222,
+  "longitude": -117.5225278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10250800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

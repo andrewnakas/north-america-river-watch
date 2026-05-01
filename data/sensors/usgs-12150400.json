@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12150400",
+  "key": "12150400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12150400",
+  "name": "SNOQUALMIE RIVER AT DUVALL, WA",
+  "waterbody": "SNOQUALMIE RIVER AT DUVALL, WA",
+  "state": "WA",
+  "latitude": 47.74315509,
+  "longitude": -121.9879004,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12150400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

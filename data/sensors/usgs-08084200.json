@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08084200",
+  "key": "08084200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08084200",
+  "name": "Clear Fk Brazos Rv at Lueders, TX",
+  "waterbody": "Clear Fk Brazos Rv at Lueders, TX",
+  "state": "TX",
+  "latitude": 32.795,
+  "longitude": -99.6056944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08084200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310752",
+  "key": "02310752",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310752",
+  "name": "SALT RIVER NEAR CRYSTAL RIVER FL",
+  "waterbody": "SALT RIVER NEAR CRYSTAL RIVER FL",
+  "state": "FL",
+  "latitude": 28.90155556,
+  "longitude": -82.64580556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYTF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tide Gauge",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cytf1",
+  "slug": "usgs-02310752",
+  "noaaForecastPath": "data/noaa-forecast/CYTF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03414000",
+  "key": "03414000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03414000",
+  "name": "CUMBERLAND RIVER NEAR ROWENA, KY",
+  "waterbody": "CUMBERLAND RIVER NEAR ROWENA, KY",
+  "state": "KY",
+  "latitude": 36.88395484,
+  "longitude": -85.1394008,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03414000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

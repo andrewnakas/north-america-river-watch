@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06601200",
+  "key": "06601200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06601200",
+  "name": "Missouri River at Decatur, NE",
+  "waterbody": "Missouri River at Decatur, NE",
+  "state": "IA",
+  "latitude": 42.0078333,
+  "longitude": -96.2429167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06601200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

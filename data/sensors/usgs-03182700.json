@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03182700",
+  "key": "03182700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03182700",
+  "name": "ANTHONY CREEK NEAR ANTHONY, WV",
+  "waterbody": "ANTHONY CREEK NEAR ANTHONY, WV",
+  "state": "WV",
+  "latitude": 37.9086111,
+  "longitude": -80.28988889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANYW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Anthony Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anyw2",
+  "slug": "usgs-03182700",
+  "noaaForecastPath": "data/noaa-forecast/ANYW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

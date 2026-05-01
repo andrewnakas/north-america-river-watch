@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03332555",
+  "key": "03332555",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03332555",
+  "name": "TIPPECANOE RIVER AT NORWAY, IN",
+  "waterbody": "TIPPECANOE RIVER AT NORWAY, IN",
+  "state": "IN",
+  "latitude": 40.77863889,
+  "longitude": -86.75888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWYI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tippecanoe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwyi3",
+  "slug": "usgs-03332555",
+  "noaaForecastPath": "data/noaa-forecast/NWYI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

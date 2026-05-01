@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100693",
+  "key": "01100693",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100693",
+  "name": "MERRIMACK R 0.3 MILES U.S.RT 125 AT HAVERHILL,MA",
+  "waterbody": "MERRIMACK R 0.3 MILES U.S.RT 125 AT HAVERHILL,MA",
+  "state": "MA",
+  "latitude": 42.77277778,
+  "longitude": -71.0830556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100693",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

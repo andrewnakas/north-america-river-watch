@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10312275",
+  "key": "10312275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10312275",
+  "name": "CARSON RV AT TARZYN RD NR FALLON, NV",
+  "waterbody": "CARSON RV AT TARZYN RD NR FALLON, NV",
+  "state": "NV",
+  "latitude": 39.55880594,
+  "longitude": -118.7259842,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRZN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trzn2",
+  "slug": "usgs-10312275",
+  "noaaForecastPath": "data/noaa-forecast/TRZN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

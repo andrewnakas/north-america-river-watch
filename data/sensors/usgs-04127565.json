@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04127565",
+  "key": "04127565",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04127565",
+  "name": "INTERMEDIATE RIVER AT STATE HWY-88 AT BELLAIRE, MI",
+  "waterbody": "INTERMEDIATE RIVER AT STATE HWY-88 AT BELLAIRE, MI",
+  "state": "MI",
+  "latitude": 44.9783378,
+  "longitude": -85.2100616,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04127565",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

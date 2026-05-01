@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07381440",
+  "key": "07381440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381440",
+  "name": "Bayou Grosse Tete at Rosedale, LA",
+  "waterbody": "Bayou Grosse Tete at Rosedale, LA",
+  "state": "LA",
+  "latitude": 30.44269394,
+  "longitude": -91.4517765,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07381440",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

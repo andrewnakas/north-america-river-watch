@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10324500",
+  "key": "10324500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10324500",
+  "name": "ROCK CK NR BATTLE MOUNTAIN, NV",
+  "waterbody": "ROCK CK NR BATTLE MOUNTAIN, NV",
+  "state": "NV",
+  "latitude": 40.83040556,
+  "longitude": -116.5883417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rocn2",
+  "slug": "usgs-10324500",
+  "noaaForecastPath": "data/noaa-forecast/ROCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

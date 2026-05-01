@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06917000",
+  "key": "06917000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06917000",
+  "name": "L OSAGE R AT FULTON, KS",
+  "waterbody": "L OSAGE R AT FULTON, KS",
+  "state": "KS",
+  "latitude": 38.00892428,
+  "longitude": -94.7041264,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTNK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Osage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftnk1",
+  "slug": "usgs-06917000",
+  "noaaForecastPath": "data/noaa-forecast/FTNK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

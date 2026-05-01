@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0208721290",
+  "key": "0208721290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208721290",
+  "name": "PERRY CREEK TRIBUTARY AT NEUSE, NC",
+  "waterbody": "PERRY CREEK TRIBUTARY AT NEUSE, NC",
+  "state": "NC",
+  "latitude": 35.8965394,
+  "longitude": -78.5791687,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0208721290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

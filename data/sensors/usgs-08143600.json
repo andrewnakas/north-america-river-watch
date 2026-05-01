@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08143600",
+  "key": "08143600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08143600",
+  "name": "Pecan Bayou nr Mullin, TX",
+  "waterbody": "Pecan Bayou nr Mullin, TX",
+  "state": "TX",
+  "latitude": 31.5173861,
+  "longitude": -98.740603,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecan Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlit2",
+  "slug": "usgs-08143600",
+  "noaaForecastPath": "data/noaa-forecast/MLIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06786000",
+  "key": "06786000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06786000",
+  "name": "North Loup River at Taylor, Nebr.",
+  "waterbody": "North Loup River at Taylor, Nebr.",
+  "state": "NE",
+  "latitude": 41.776933,
+  "longitude": -99.379703,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tyln1",
+  "slug": "usgs-06786000",
+  "noaaForecastPath": "data/noaa-forecast/TYLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05294000",
+  "key": "05294000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05294000",
+  "name": "POMME DE TERRE RIVER AT APPLETON, MN",
+  "waterbody": "POMME DE TERRE RIVER AT APPLETON, MN",
+  "state": "MN",
+  "latitude": 45.2034288,
+  "longitude": -96.0195791,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "APPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pomme De Terre River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/appm5",
+  "slug": "usgs-05294000",
+  "noaaForecastPath": "data/noaa-forecast/APPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

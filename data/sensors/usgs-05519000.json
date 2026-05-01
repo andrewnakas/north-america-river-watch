@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05519000",
+  "key": "05519000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05519000",
+  "name": "SINGLETON DITCH AT SCHNEIDER, IN",
+  "waterbody": "SINGLETON DITCH AT SCHNEIDER, IN",
+  "state": "IN",
+  "latitude": 41.21224217,
+  "longitude": -87.44834369,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05519000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

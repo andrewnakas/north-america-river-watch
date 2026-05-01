@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04240010",
+  "key": "04240010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04240010",
+  "name": "ONONDAGA CREEK AT SPENCER STREET, SYRACUSE NY",
+  "waterbody": "ONONDAGA CREEK AT SPENCER STREET, SYRACUSE NY",
+  "state": "NY",
+  "latitude": 43.05744444,
+  "longitude": -76.162,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ONCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Onondaga Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oncn6",
+  "slug": "usgs-04240010",
+  "noaaForecastPath": "data/noaa-forecast/ONCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

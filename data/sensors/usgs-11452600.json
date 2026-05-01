@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11452600",
+  "key": "11452600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11452600",
+  "name": "CACHE C INFLOW TO SETTLING BASIN NR YOLO CA",
+  "waterbody": "CACHE C INFLOW TO SETTLING BASIN NR YOLO CA",
+  "state": "CA",
+  "latitude": 38.72601499,
+  "longitude": -121.7299631,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11452600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

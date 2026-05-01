@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07382500",
+  "key": "07382500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07382500",
+  "name": "Bayou Courtableau at Washington, LA",
+  "waterbody": "Bayou Courtableau at Washington, LA",
+  "state": "LA",
+  "latitude": 30.61825175,
+  "longitude": -92.0556741,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSHL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Courtableau",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wshl1",
+  "slug": "usgs-07382500",
+  "noaaForecastPath": "data/noaa-forecast/WSHL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

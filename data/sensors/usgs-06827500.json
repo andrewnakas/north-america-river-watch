@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06827500",
+  "key": "06827500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06827500",
+  "name": "South Fork Republican River near Benkelman, Nebr.",
+  "waterbody": "South Fork Republican River near Benkelman, Nebr.",
+  "state": "NE",
+  "latitude": 40.00986667,
+  "longitude": -101.54238056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEKN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "S. Fork Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bekn1",
+  "slug": "usgs-06827500",
+  "noaaForecastPath": "data/noaa-forecast/BEKN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

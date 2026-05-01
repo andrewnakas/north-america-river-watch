@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0318989690",
+  "key": "0318989690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0318989690",
+  "name": "SEWELL CREEK AB LTL SEWELL CREEK AT RAINELLE, WV",
+  "waterbody": "SEWELL CREEK AB LTL SEWELL CREEK AT RAINELLE, WV",
+  "state": "WV",
+  "latitude": 37.9695833,
+  "longitude": -80.7686944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RANW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sewell Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ranw2",
+  "slug": "usgs-0318989690",
+  "noaaForecastPath": "data/noaa-forecast/RANW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

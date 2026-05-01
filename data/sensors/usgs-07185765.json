@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07185765",
+  "key": "07185765",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07185765",
+  "name": "Spring River at Carthage, MO",
+  "waterbody": "Spring River at Carthage, MO",
+  "state": "MO",
+  "latitude": 37.18863889,
+  "longitude": -94.3259167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHTM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring River ",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chtm7",
+  "slug": "usgs-07185765",
+  "noaaForecastPath": "data/noaa-forecast/CHTM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01011000",
+  "key": "01011000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01011000",
+  "name": "Allagash River near Allagash, Maine",
+  "waterbody": "Allagash River near Allagash, Maine",
+  "state": "ME",
+  "latitude": 47.0697222,
+  "longitude": -69.0794444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALLM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allagash River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/allm1",
+  "slug": "usgs-01011000",
+  "noaaForecastPath": "data/noaa-forecast/ALLM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02160700",
+  "key": "02160700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02160700",
+  "name": "ENOREE RIVER AT WHITMIRE, SC",
+  "waterbody": "ENOREE RIVER AT WHITMIRE, SC",
+  "state": "SC",
+  "latitude": 34.5093039,
+  "longitude": -81.5981594,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHMS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Enoree River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whms1",
+  "slug": "usgs-02160700",
+  "noaaForecastPath": "data/noaa-forecast/WHMS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

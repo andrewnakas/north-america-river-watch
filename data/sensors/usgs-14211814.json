@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14211814",
+  "key": "14211814",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14211814",
+  "name": "FAIRVIEW CREEK AT GLISAN ST NEAR GRESHAM, OR",
+  "waterbody": "FAIRVIEW CREEK AT GLISAN ST NEAR GRESHAM, OR",
+  "state": "OR",
+  "latitude": 45.52761968,
+  "longitude": -122.4487024,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FAIO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fairview Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/faio3",
+  "slug": "usgs-14211814",
+  "noaaForecastPath": "data/noaa-forecast/FAIO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

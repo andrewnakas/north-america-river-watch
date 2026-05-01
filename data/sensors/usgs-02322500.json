@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02322500",
+  "key": "02322500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02322500",
+  "name": "SANTA FE RIVER NEAR FORT WHITE, FLA.",
+  "waterbody": "SANTA FE RIVER NEAR FORT WHITE, FLA.",
+  "state": "FL",
+  "latitude": 29.84884769,
+  "longitude": -82.7151204,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FWHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Fe River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fwhf1",
+  "slug": "usgs-02322500",
+  "noaaForecastPath": "data/noaa-forecast/FWHF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

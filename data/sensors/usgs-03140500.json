@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03140500",
+  "key": "03140500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03140500",
+  "name": "Muskingum River near Coshocton OH",
+  "waterbody": "Muskingum River near Coshocton OH",
+  "state": "OH",
+  "latitude": 40.24840465,
+  "longitude": -81.872909,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSHO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muskingum River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csho1",
+  "slug": "usgs-03140500",
+  "noaaForecastPath": "data/noaa-forecast/CSHO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

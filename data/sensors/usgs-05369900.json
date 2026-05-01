@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05369900",
+  "key": "05369900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05369900",
+  "name": "EAU GALLE RIVER NEAR WOODVILLE, WI",
+  "waterbody": "EAU GALLE RIVER NEAR WOODVILLE, WI",
+  "state": "WI",
+  "latitude": 44.9049651,
+  "longitude": -92.2643532,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05369900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

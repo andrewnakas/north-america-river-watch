@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02266200",
+  "key": "02266200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266200",
+  "name": "WHITTENHORSE CREEK NEAR VINELAND, FL",
+  "waterbody": "WHITTENHORSE CREEK NEAR VINELAND, FL",
+  "state": "FL",
+  "latitude": 28.38500749,
+  "longitude": -81.6164632,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02266200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

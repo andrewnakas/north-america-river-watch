@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10174500",
+  "key": "10174500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10174500",
+  "name": "SEVIER RIVER AT HATCH, UT",
+  "waterbody": "SEVIER RIVER AT HATCH, UT",
+  "state": "UT",
+  "latitude": 37.65109086,
+  "longitude": -112.4302069,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HATU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sevier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hatu1",
+  "slug": "usgs-10174500",
+  "noaaForecastPath": "data/noaa-forecast/HATU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

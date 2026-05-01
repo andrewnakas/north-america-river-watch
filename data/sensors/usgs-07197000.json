@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07197000",
+  "key": "07197000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07197000",
+  "name": "Baron Fork at Eldon, OK",
+  "waterbody": "Baron Fork at Eldon, OK",
+  "state": "OK",
+  "latitude": 35.9216222,
+  "longitude": -94.8372472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELDO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Baron Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eldo2",
+  "slug": "usgs-07197000",
+  "noaaForecastPath": "data/noaa-forecast/ELDO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50295500",
+  "key": "50295500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50295500",
+  "name": "CRUZ BAY GUT AT CRUZ BAY, ST. JOHN USVI",
+  "waterbody": "CRUZ BAY GUT AT CRUZ BAY, ST. JOHN USVI",
+  "state": "VI",
+  "latitude": 18.33162084,
+  "longitude": -64.7895828,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50295500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

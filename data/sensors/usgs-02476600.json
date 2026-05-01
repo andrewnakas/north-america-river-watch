@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02476600",
+  "key": "02476600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02476600",
+  "name": "OKATIBBEE CREEK AT ARUNDEL, MS",
+  "waterbody": "OKATIBBEE CREEK AT ARUNDEL, MS",
+  "state": "MS",
+  "latitude": 32.29833333,
+  "longitude": -88.7536111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OARM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Okatibbee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oarm6",
+  "slug": "usgs-02476600",
+  "noaaForecastPath": "data/noaa-forecast/OARM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

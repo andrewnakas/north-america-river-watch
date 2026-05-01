@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02223000",
+  "key": "02223000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02223000",
+  "name": "OCONEE RIVER AT MILLEDGEVILLE, GA",
+  "waterbody": "OCONEE RIVER AT MILLEDGEVILLE, GA",
+  "state": "GA",
+  "latitude": 33.09016667,
+  "longitude": -83.2147778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oconee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlgg1",
+  "slug": "usgs-02223000",
+  "noaaForecastPath": "data/noaa-forecast/MLGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

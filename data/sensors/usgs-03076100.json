@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03076100",
+  "key": "03076100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03076100",
+  "name": "YOUGHIOGHENY RIVER NEAR MCHENRY, MD",
+  "waterbody": "YOUGHIOGHENY RIVER NEAR MCHENRY, MD",
+  "state": "MD",
+  "latitude": 39.52580556,
+  "longitude": -79.41075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOYM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Youghiogheny River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hoym2",
+  "slug": "usgs-03076100",
+  "noaaForecastPath": "data/noaa-forecast/HOYM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03532000",
+  "key": "03532000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03532000",
+  "name": "POWELL RIVER NEAR ARTHUR, TN",
+  "waterbody": "POWELL RIVER NEAR ARTHUR, TN",
+  "state": "TN",
+  "latitude": 36.5425219,
+  "longitude": -83.6300294,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARTT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Powell River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/artt1",
+  "slug": "usgs-03532000",
+  "noaaForecastPath": "data/noaa-forecast/ARTT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02330400",
+  "key": "02330400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02330400",
+  "name": "NEW RIVER NEAR SUMATRA, FLA",
+  "waterbody": "NEW RIVER NEAR SUMATRA, FLA",
+  "state": "FL",
+  "latitude": 30.03624444,
+  "longitude": -84.8433,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNWF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snwf1",
+  "slug": "usgs-02330400",
+  "noaaForecastPath": "data/noaa-forecast/SNWF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

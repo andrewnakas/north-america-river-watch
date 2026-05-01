@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11162630",
+  "key": "11162630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11162630",
+  "name": "PILARCITOS C A HALF MOON BAY CA",
+  "waterbody": "PILARCITOS C A HALF MOON BAY CA",
+  "state": "CA",
+  "latitude": 37.46656205,
+  "longitude": -122.4340958,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pilarcitos Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmnc1",
+  "slug": "usgs-11162630",
+  "noaaForecastPath": "data/noaa-forecast/HMNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

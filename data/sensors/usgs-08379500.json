@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08379500",
+  "key": "08379500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08379500",
+  "name": "PECOS RIVER NEAR ANTON CHICO, NM",
+  "waterbody": "PECOS RIVER NEAR ANTON CHICO, NM",
+  "state": "NM",
+  "latitude": 35.17866944,
+  "longitude": -105.1088028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atcn5",
+  "slug": "usgs-08379500",
+  "noaaForecastPath": "data/noaa-forecast/ATCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

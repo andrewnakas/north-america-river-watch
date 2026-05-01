@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313225",
+  "key": "08313225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313225",
+  "name": "CANADA DEL BUEY ABOVE WHITE ROCK, NM",
+  "waterbody": "CANADA DEL BUEY ABOVE WHITE ROCK, NM",
+  "state": "NM",
+  "latitude": 35.8353032,
+  "longitude": -106.2419706,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313225",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04242500",
+  "key": "04242500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04242500",
+  "name": "EAST BRANCH FISH CREEK AT TABERG NY",
+  "waterbody": "EAST BRANCH FISH CREEK AT TABERG NY",
+  "state": "NY",
+  "latitude": 43.3007222,
+  "longitude": -75.62288889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TABN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Fish Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tabn6",
+  "slug": "usgs-04242500",
+  "noaaForecastPath": "data/noaa-forecast/TABN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

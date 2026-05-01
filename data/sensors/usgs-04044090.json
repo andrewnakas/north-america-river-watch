@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04044090",
+  "key": "04044090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04044090",
+  "name": "WHETSTONE BROOK AT ALTAMONT ST AT MARQUETTE, MI",
+  "waterbody": "WHETSTONE BROOK AT ALTAMONT ST AT MARQUETTE, MI",
+  "state": "MI",
+  "latitude": 46.53882217,
+  "longitude": -87.4040279,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whetstone Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbmm4",
+  "slug": "usgs-04044090",
+  "noaaForecastPath": "data/noaa-forecast/WBMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

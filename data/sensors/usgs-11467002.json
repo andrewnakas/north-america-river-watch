@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11467002",
+  "key": "11467002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11467002",
+  "name": "RUSSIAN R A JOHNSONS BEACH A GUERNEVILLE CA",
+  "waterbody": "RUSSIAN R A JOHNSONS BEACH A GUERNEVILLE CA",
+  "state": "CA",
+  "latitude": 38.49935758,
+  "longitude": -122.9983325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/guec1",
+  "slug": "usgs-11467002",
+  "noaaForecastPath": "data/noaa-forecast/GUEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

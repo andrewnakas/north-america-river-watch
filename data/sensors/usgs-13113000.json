@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13113000",
+  "key": "13113000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13113000",
+  "name": "BEAVER CREEK AT SPENCER ID",
+  "waterbody": "BEAVER CREEK AT SPENCER ID",
+  "state": "ID",
+  "latitude": 44.35527778,
+  "longitude": -112.18,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13113000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

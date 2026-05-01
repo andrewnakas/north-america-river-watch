@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01615000",
+  "key": "01615000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01615000",
+  "name": "OPEQUON CREEK NEAR BERRYVILLE, VA",
+  "waterbody": "OPEQUON CREEK NEAR BERRYVILLE, VA",
+  "state": "VA",
+  "latitude": 39.1747222,
+  "longitude": -78.0783333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYVV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Opequon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/byvv2",
+  "slug": "usgs-01615000",
+  "noaaForecastPath": "data/noaa-forecast/BYVV2.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

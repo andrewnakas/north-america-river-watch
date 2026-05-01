@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299482",
+  "key": "02299482",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299482",
+  "name": "COCOPLUM WATERWAY AT NORTH PORT FL",
+  "waterbody": "COCOPLUM WATERWAY AT NORTH PORT FL",
+  "state": "FL",
+  "latitude": 27.0456111,
+  "longitude": -82.2353333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWEF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cocoplum Waterway Near North Port",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwef1",
+  "slug": "usgs-02299482",
+  "noaaForecastPath": "data/noaa-forecast/NWEF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

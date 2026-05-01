@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02326512",
+  "key": "02326512",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326512",
+  "name": "AUCILLA RIVER NR SCANLON, FLA.",
+  "waterbody": "AUCILLA RIVER NR SCANLON, FLA.",
+  "state": "FL",
+  "latitude": 30.23131776,
+  "longitude": -83.918772,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02326512",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

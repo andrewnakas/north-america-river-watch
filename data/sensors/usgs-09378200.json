@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09378200",
+  "key": "09378200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09378200",
+  "name": "MONTEZUMA CREEK AT GOLF COURSE AT MONTICELLO, UT",
+  "waterbody": "MONTEZUMA CREEK AT GOLF COURSE AT MONTICELLO, UT",
+  "state": "UT",
+  "latitude": 37.86054967,
+  "longitude": -109.3423393,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09378200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

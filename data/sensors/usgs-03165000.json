@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03165000",
+  "key": "03165000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03165000",
+  "name": "CHESTNUT CREEK AT GALAX, VA",
+  "waterbody": "CHESTNUT CREEK AT GALAX, VA",
+  "state": "VA",
+  "latitude": 36.6459613,
+  "longitude": -80.9192444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCKV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chestnut Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cckv2",
+  "slug": "usgs-03165000",
+  "noaaForecastPath": "data/noaa-forecast/CCKV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

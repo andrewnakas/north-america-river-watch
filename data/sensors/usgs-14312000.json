@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14312000",
+  "key": "14312000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14312000",
+  "name": "SOUTH UMPQUA RIVER NEAR BROCKWAY, OR",
+  "waterbody": "SOUTH UMPQUA RIVER NEAR BROCKWAY, OR",
+  "state": "OR",
+  "latitude": 43.13317169,
+  "longitude": -123.3984053,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Umpqua River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsno3",
+  "slug": "usgs-14312000",
+  "noaaForecastPath": "data/noaa-forecast/WSNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

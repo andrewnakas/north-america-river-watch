@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01403535",
+  "key": "01403535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01403535",
+  "name": "East Br Stony Brook at Best Lake at Watchung NJ",
+  "waterbody": "East Br Stony Brook at Best Lake at Watchung NJ",
+  "state": "NJ",
+  "latitude": 40.64,
+  "longitude": -74.44777778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01403535",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

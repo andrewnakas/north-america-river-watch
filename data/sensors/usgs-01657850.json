@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01657850",
+  "key": "01657850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01657850",
+  "name": "NEABSCO CREEK AT DALE CITY, VA",
+  "waterbody": "NEABSCO CREEK AT DALE CITY, VA",
+  "state": "VA",
+  "latitude": 38.64539567,
+  "longitude": -77.3469287,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01657850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

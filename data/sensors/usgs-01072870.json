@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01072870",
+  "key": "01072870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01072870",
+  "name": "ISINGLASS R AT ROCHESTER NECK RD, NR DOVER, NH",
+  "waterbody": "ISINGLASS R AT ROCHESTER NECK RD, NR DOVER, NH",
+  "state": "NH",
+  "latitude": 43.23480487,
+  "longitude": -70.9564507,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ISIN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Isinglass River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/isin3",
+  "slug": "usgs-01072870",
+  "noaaForecastPath": "data/noaa-forecast/ISIN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

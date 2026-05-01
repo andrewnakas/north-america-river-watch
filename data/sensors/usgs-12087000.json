@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12087000",
+  "key": "12087000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12087000",
+  "name": "MASHEL RIVER NEAR LA GRANDE, WA",
+  "waterbody": "MASHEL RIVER NEAR LA GRANDE, WA",
+  "state": "WA",
+  "latitude": 46.85673885,
+  "longitude": -122.3025917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12087000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

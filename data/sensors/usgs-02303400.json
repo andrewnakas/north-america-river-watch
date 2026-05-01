@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02303400",
+  "key": "02303400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02303400",
+  "name": "CYPRESS CREEK NEAR SAN ANTONIO FL",
+  "waterbody": "CYPRESS CREEK NEAR SAN ANTONIO FL",
+  "state": "FL",
+  "latitude": 28.32388889,
+  "longitude": -82.3836111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSAF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csaf1",
+  "slug": "usgs-02303400",
+  "noaaForecastPath": "data/noaa-forecast/CSAF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

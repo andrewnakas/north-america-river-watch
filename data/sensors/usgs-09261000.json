@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09261000",
+  "key": "09261000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09261000",
+  "name": "GREEN RIVER NEAR JENSEN, UT",
+  "waterbody": "GREEN RIVER NEAR JENSEN, UT",
+  "state": "UT",
+  "latitude": 40.40871944,
+  "longitude": -109.23523611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JESU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jesu1",
+  "slug": "usgs-09261000",
+  "noaaForecastPath": "data/noaa-forecast/JESU1.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03171597",
+  "key": "03171597",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03171597",
+  "name": "LITTLE STONY CREEK AB ARCHER TRAIL NR PEMBROKE, VA",
+  "waterbody": "LITTLE STONY CREEK AB ARCHER TRAIL NR PEMBROKE, VA",
+  "state": "VA",
+  "latitude": 37.34316667,
+  "longitude": -80.61955556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03171597",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

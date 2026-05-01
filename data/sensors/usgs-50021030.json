@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50021030",
+  "key": "50021030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50021030",
+  "name": "RIO PELLEJAS ABV CENTRAL PELLEJAS, PR",
+  "waterbody": "RIO PELLEJAS ABV CENTRAL PELLEJAS, PR",
+  "state": "PR",
+  "latitude": 18.20273457,
+  "longitude": -66.7032296,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50021030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

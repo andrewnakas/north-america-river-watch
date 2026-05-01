@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046090",
+  "key": "11046090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046090",
+  "name": "LAS FLORES C A LAS PULGAS CYN NR OCEANSIDE CA",
+  "waterbody": "LAS FLORES C A LAS PULGAS CYN NR OCEANSIDE CA",
+  "state": "CA",
+  "latitude": 33.31864303,
+  "longitude": -117.4378185,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12113344",
+  "key": "12113344",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12113344",
+  "name": "GREEN RIVER AT 200TH STREET AT KENT, WA",
+  "waterbody": "GREEN RIVER AT 200TH STREET AT KENT, WA",
+  "state": "WA",
+  "latitude": 47.4228775,
+  "longitude": -122.2653999,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRKW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (WA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grkw1",
+  "slug": "usgs-12113344",
+  "noaaForecastPath": "data/noaa-forecast/GRKW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

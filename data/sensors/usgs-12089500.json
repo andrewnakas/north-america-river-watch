@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12089500",
+  "key": "12089500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12089500",
+  "name": "NISQUALLY RIVER AT MCKENNA, WA",
+  "waterbody": "NISQUALLY RIVER AT MCKENNA, WA",
+  "state": "WA",
+  "latitude": 46.93340268,
+  "longitude": -122.5609345,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKNW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nisqually River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mknw1",
+  "slug": "usgs-12089500",
+  "noaaForecastPath": "data/noaa-forecast/MKNW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

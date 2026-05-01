@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05507600",
+  "key": "05507600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05507600",
+  "name": "Lick Creek at Perry, MO",
+  "waterbody": "Lick Creek at Perry, MO",
+  "state": "MO",
+  "latitude": 39.43138889,
+  "longitude": -91.6766667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05507600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

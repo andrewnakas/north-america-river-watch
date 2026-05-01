@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03319885",
+  "key": "03319885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03319885",
+  "name": "GREEN RIVER AT LIVERMORE, KY",
+  "waterbody": "GREEN RIVER AT LIVERMORE, KY",
+  "state": "KY",
+  "latitude": 37.48560237,
+  "longitude": -87.1363854,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVMK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvmk2",
+  "slug": "usgs-03319885",
+  "noaaForecastPath": "data/noaa-forecast/LVMK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

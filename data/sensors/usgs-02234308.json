@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02234308",
+  "key": "02234308",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02234308",
+  "name": "HOWELL CREEK NEAR ALTAMONTE SPRINGS, FL",
+  "waterbody": "HOWELL CREEK NEAR ALTAMONTE SPRINGS, FL",
+  "state": "FL",
+  "latitude": 28.6315,
+  "longitude": -81.32463889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HWAF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Howell Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hwaf1",
+  "slug": "usgs-02234308",
+  "noaaForecastPath": "data/noaa-forecast/HWAF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

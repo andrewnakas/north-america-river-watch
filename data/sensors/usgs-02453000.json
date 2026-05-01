@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02453000",
+  "key": "02453000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02453000",
+  "name": "BLACKWATER CREEK NEAR MANCHESTER AL",
+  "waterbody": "BLACKWATER CREEK NEAR MANCHESTER AL",
+  "state": "AL",
+  "latitude": 33.90843985,
+  "longitude": -87.2569514,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCHA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackwater Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcha1",
+  "slug": "usgs-02453000",
+  "noaaForecastPath": "data/noaa-forecast/MCHA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

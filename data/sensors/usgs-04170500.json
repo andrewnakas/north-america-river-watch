@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04170500",
+  "key": "04170500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04170500",
+  "name": "HURON RIVER NEAR NEW HUDSON, MI",
+  "waterbody": "HURON RIVER NEAR NEW HUDSON, MI",
+  "state": "MI",
+  "latitude": 42.512811,
+  "longitude": -83.6763294,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHHM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Huron River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhhm4",
+  "slug": "usgs-04170500",
+  "noaaForecastPath": "data/noaa-forecast/NHHM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

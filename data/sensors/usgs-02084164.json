@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02084164",
+  "key": "02084164",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02084164",
+  "name": "JUNIPER BRANCH AT SR1766 NR SIMPSON, NC",
+  "waterbody": "JUNIPER BRANCH AT SR1766 NR SIMPSON, NC",
+  "state": "NC",
+  "latitude": 35.5654399,
+  "longitude": -77.24496069,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02084164",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

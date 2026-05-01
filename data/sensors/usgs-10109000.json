@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10109000",
+  "key": "10109000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10109000",
+  "name": "LOGAN RIVER ABOVE STATE DAM, NEAR LOGAN, UT",
+  "waterbody": "LOGAN RIVER ABOVE STATE DAM, NEAR LOGAN, UT",
+  "state": "UT",
+  "latitude": 41.74355,
+  "longitude": -111.7839806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGNU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Logan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgnu1",
+  "slug": "usgs-10109000",
+  "noaaForecastPath": "data/noaa-forecast/LGNU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

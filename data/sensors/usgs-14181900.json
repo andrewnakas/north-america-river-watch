@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14181900",
+  "key": "14181900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14181900",
+  "name": "LITTLE N SANTIAM RIVER ABV EVANS CR, AT ELKHORN,OR",
+  "waterbody": "LITTLE N SANTIAM RIVER ABV EVANS CR, AT ELKHORN,OR",
+  "state": "OR",
+  "latitude": 44.83580278,
+  "longitude": -122.35495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNEO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little N. Santiam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lneo3",
+  "slug": "usgs-14181900",
+  "noaaForecastPath": "data/noaa-forecast/LNEO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

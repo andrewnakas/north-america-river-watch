@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08091250",
+  "key": "08091250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08091250",
+  "name": "Paluxy Rv at FM 2870 nr Bluff Dale, TX",
+  "waterbody": "Paluxy Rv at FM 2870 nr Bluff Dale, TX",
+  "state": "TX",
+  "latitude": 32.3022111,
+  "longitude": -97.9596278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08091250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

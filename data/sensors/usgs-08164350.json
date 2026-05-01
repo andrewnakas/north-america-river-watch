@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08164350",
+  "key": "08164350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164350",
+  "name": "Navidad Rv nr Speaks, TX",
+  "waterbody": "Navidad Rv nr Speaks, TX",
+  "state": "TX",
+  "latitude": 29.321914,
+  "longitude": -96.7091425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navidad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spat2",
+  "slug": "usgs-08164350",
+  "noaaForecastPath": "data/noaa-forecast/SPAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178800",
+  "key": "08178800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178800",
+  "name": "Salado Ck at Loop 13, San Antonio, TX",
+  "waterbody": "Salado Ck at Loop 13, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.35717994,
+  "longitude": -98.412821,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SACT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salado Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sact2",
+  "slug": "usgs-08178800",
+  "noaaForecastPath": "data/noaa-forecast/SACT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

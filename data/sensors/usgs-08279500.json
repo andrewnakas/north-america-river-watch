@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08279500",
+  "key": "08279500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08279500",
+  "name": "RIO GRANDE AT EMBUDO, NM",
+  "waterbody": "RIO GRANDE AT EMBUDO, NM",
+  "state": "NM",
+  "latitude": 36.20555556,
+  "longitude": -105.9639722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMBN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/embn5",
+  "slug": "usgs-08279500",
+  "noaaForecastPath": "data/noaa-forecast/EMBN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

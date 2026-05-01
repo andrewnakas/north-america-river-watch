@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04208504",
+  "key": "04208504",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208504",
+  "name": "Cuyahoga River near Newburgh Heights OH",
+  "waterbody": "Cuyahoga River near Newburgh Heights OH",
+  "state": "OH",
+  "latitude": 41.46251334,
+  "longitude": -81.68092877,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04208504",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

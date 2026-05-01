@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01579550",
+  "key": "01579550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01579550",
+  "name": "SUSQUEHANNA RIVER NEAR DARLINGTON, MD",
+  "waterbody": "SUSQUEHANNA RIVER NEAR DARLINGTON, MD",
+  "state": "MD",
+  "latitude": 39.62605556,
+  "longitude": -76.15775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01579550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

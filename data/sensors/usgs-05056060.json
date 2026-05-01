@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056060",
+  "key": "05056060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056060",
+  "name": "MAUVAIS COULEE TRIB NO. 3 NEAR CANDO, ND",
+  "waterbody": "MAUVAIS COULEE TRIB NO. 3 NEAR CANDO, ND",
+  "state": "ND",
+  "latitude": 48.45746658,
+  "longitude": -99.22434024,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCTN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mauvais Coulee Tributary No. 3",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mctn8",
+  "slug": "usgs-05056060",
+  "noaaForecastPath": "data/noaa-forecast/MCTN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

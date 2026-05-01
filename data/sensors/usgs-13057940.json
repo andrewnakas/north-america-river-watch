@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13057940",
+  "key": "13057940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13057940",
+  "name": "WILLOW CREEK BL TEX CREEK NR RIRIE ID",
+  "waterbody": "WILLOW CREEK BL TEX CREEK NR RIRIE ID",
+  "state": "ID",
+  "latitude": 43.44194444,
+  "longitude": -111.7283333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTXI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek (Eastern ID)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtxi1",
+  "slug": "usgs-13057940",
+  "noaaForecastPath": "data/noaa-forecast/WTXI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

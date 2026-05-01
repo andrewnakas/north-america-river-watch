@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09367500",
+  "key": "09367500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09367500",
+  "name": "LA PLATA RIVER NEAR FARMINGTON, NM",
+  "waterbody": "LA PLATA RIVER NEAR FARMINGTON, NM",
+  "state": "NM",
+  "latitude": 36.737575,
+  "longitude": -108.2503361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPFN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "La Plata River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lpfn5",
+  "slug": "usgs-09367500",
+  "noaaForecastPath": "data/noaa-forecast/LPFN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

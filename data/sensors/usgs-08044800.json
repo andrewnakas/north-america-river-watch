@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08044800",
+  "key": "08044800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08044800",
+  "name": "Walnut Ck at Reno, TX",
+  "waterbody": "Walnut Ck at Reno, TX",
+  "state": "TX",
+  "latitude": 32.94568035,
+  "longitude": -97.5830798,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08044800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

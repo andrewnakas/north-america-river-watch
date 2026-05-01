@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01172500",
+  "key": "01172500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01172500",
+  "name": "WARE RIVER NEAR BARRE, MA",
+  "waterbody": "WARE RIVER NEAR BARRE, MA",
+  "state": "MA",
+  "latitude": 42.42509025,
+  "longitude": -72.0245212,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01172500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

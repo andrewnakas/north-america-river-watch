@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08386505",
+  "key": "08386505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08386505",
+  "name": "RIO RUIDOSO AT RUIDOSO, NM",
+  "waterbody": "RIO RUIDOSO AT RUIDOSO, NM",
+  "state": "NM",
+  "latitude": 33.33653056,
+  "longitude": -105.7263083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08386505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

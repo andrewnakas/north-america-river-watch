@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03141700",
+  "key": "03141700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03141700",
+  "name": "Wills Creek at Derwent OH",
+  "waterbody": "Wills Creek at Derwent OH",
+  "state": "OH",
+  "latitude": 39.91923887,
+  "longitude": -81.53123339,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWTO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wills Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwto1",
+  "slug": "usgs-03141700",
+  "noaaForecastPath": "data/noaa-forecast/DWTO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

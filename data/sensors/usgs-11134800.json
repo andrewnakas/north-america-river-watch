@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11134800",
+  "key": "11134800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11134800",
+  "name": "MIGUELITO C A LOMPOC CA",
+  "waterbody": "MIGUELITO C A LOMPOC CA",
+  "state": "CA",
+  "latitude": 34.6316501,
+  "longitude": -120.4648857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11134800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

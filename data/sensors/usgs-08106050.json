@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08106050",
+  "key": "08106050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08106050",
+  "name": "Brushy Ck at FM 619 nr Taylor, TX",
+  "waterbody": "Brushy Ck at FM 619 nr Taylor, TX",
+  "state": "TX",
+  "latitude": 30.51958333,
+  "longitude": -97.3384472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bktt2",
+  "slug": "usgs-08106050",
+  "noaaForecastPath": "data/noaa-forecast/BKTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09404900",
+  "key": "09404900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404900",
+  "name": "EAST FORK VIRGIN RIVER NEAR SPRINGDALE, UT",
+  "waterbody": "EAST FORK VIRGIN RIVER NEAR SPRINGDALE, UT",
+  "state": "UT",
+  "latitude": 37.16414955,
+  "longitude": -112.9585499,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09404900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

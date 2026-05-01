@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01632073",
+  "key": "01632073",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01632073",
+  "name": "WEST FORK LINVILLE CREEK NR HARRISONBURG, VA",
+  "waterbody": "WEST FORK LINVILLE CREEK NR HARRISONBURG, VA",
+  "state": "VA",
+  "latitude": 38.52238889,
+  "longitude": -78.8848056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01632073",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01482100",
+  "key": "01482100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01482100",
+  "name": "DELAWARE RIVER AT DEL MEM BRIDGE AT WILMINGTON DE",
+  "waterbody": "DELAWARE RIVER AT DEL MEM BRIDGE AT WILMINGTON DE",
+  "state": "DE",
+  "latitude": 39.68927997,
+  "longitude": -75.521588,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01482100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

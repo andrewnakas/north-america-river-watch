@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212430293",
+  "key": "0212430293",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212430293",
+  "name": "REEDY CREEK BELOW I-485 NR PINE RIDGE, NC",
+  "waterbody": "REEDY CREEK BELOW I-485 NR PINE RIDGE, NC",
+  "state": "NC",
+  "latitude": 35.2586111,
+  "longitude": -80.6627778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reedy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdcn7",
+  "slug": "usgs-0212430293",
+  "noaaForecastPath": "data/noaa-forecast/RDCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

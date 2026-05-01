@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08358300",
+  "key": "08358300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08358300",
+  "name": "RIO GRANDE CONVEYANCE CHANNEL AT SAN MARCIAL, NM",
+  "waterbody": "RIO GRANDE CONVEYANCE CHANNEL AT SAN MARCIAL, NM",
+  "state": "NM",
+  "latitude": 33.68766667,
+  "longitude": -106.9926111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08358300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

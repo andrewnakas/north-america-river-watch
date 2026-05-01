@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05288475",
+  "key": "05288475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05288475",
+  "name": "COON CREEK AT 131 STREET IN COON RAPIDS, MN",
+  "waterbody": "COON CREEK AT 131 STREET IN COON RAPIDS, MN",
+  "state": "MN",
+  "latitude": 45.20829845,
+  "longitude": -93.334119,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05288475",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

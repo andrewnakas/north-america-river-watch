@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07063000",
+  "key": "07063000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07063000",
+  "name": "Black River at Poplar Bluff, MO",
+  "waterbody": "Black River at Poplar Bluff, MO",
+  "state": "MO",
+  "latitude": 36.75975,
+  "longitude": -90.3878333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPBM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ppbm7",
+  "slug": "usgs-07063000",
+  "noaaForecastPath": "data/noaa-forecast/PPBM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

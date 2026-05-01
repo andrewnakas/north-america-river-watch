@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312300",
+  "key": "02312300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312300",
+  "name": "WITHLACOOCHEE RIVER AT RITAL FL",
+  "waterbody": "WITHLACOOCHEE RIVER AT RITAL FL",
+  "state": "FL",
+  "latitude": 28.5211073,
+  "longitude": -82.209253,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RITF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ritf1",
+  "slug": "usgs-02312300",
+  "noaaForecastPath": "data/noaa-forecast/RITF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

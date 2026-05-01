@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08210400",
+  "key": "08210400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08210400",
+  "name": "Lagarto Ck nr George West, TX",
+  "waterbody": "Lagarto Ck nr George West, TX",
+  "state": "TX",
+  "latitude": 28.05973533,
+  "longitude": -98.0969482,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GWLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lagarto Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gwlt2",
+  "slug": "usgs-08210400",
+  "noaaForecastPath": "data/noaa-forecast/GWLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

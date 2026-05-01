@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09428508",
+  "key": "09428508",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09428508",
+  "name": "UPPER MAIN DRAIN NEAR POSTON, AZ",
+  "waterbody": "UPPER MAIN DRAIN NEAR POSTON, AZ",
+  "state": "AZ",
+  "latitude": 34.0233504,
+  "longitude": -114.4124542,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09428508",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

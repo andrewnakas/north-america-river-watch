@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01487000",
+  "key": "01487000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01487000",
+  "name": "NANTICOKE RIVER NEAR BRIDGEVILLE, DE",
+  "waterbody": "NANTICOKE RIVER NEAR BRIDGEVILLE, DE",
+  "state": "DE",
+  "latitude": 38.728333,
+  "longitude": -75.561861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGLD1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nanticoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgld1",
+  "slug": "usgs-01487000",
+  "noaaForecastPath": "data/noaa-forecast/BGLD1.json",
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

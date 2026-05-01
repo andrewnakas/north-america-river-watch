@@ -1,0 +1,19 @@
+{
+  "id": "usgs:411607084241200",
+  "key": "411607084241200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "411607084241200",
+  "name": "Inflow to wetland nr Winn Rd nr Defiance OH",
+  "waterbody": "Inflow to wetland nr Winn Rd nr Defiance OH",
+  "state": "OH",
+  "latitude": 41.2686111,
+  "longitude": -84.4033333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-411607084241200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

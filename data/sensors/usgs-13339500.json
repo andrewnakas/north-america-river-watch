@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13339500",
+  "key": "13339500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13339500",
+  "name": "LOLO CREEK NR GREER ID",
+  "waterbody": "LOLO CREEK NR GREER ID",
+  "state": "ID",
+  "latitude": 46.37166667,
+  "longitude": -116.1625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13339500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05421760",
+  "key": "05421760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05421760",
+  "name": "Wapsipinicon River at Oxford Mills, IA",
+  "waterbody": "Wapsipinicon River at Oxford Mills, IA",
+  "state": "IA",
+  "latitude": 41.97194444,
+  "longitude": -90.96,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OXJI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wapsipinicon River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oxji4",
+  "slug": "usgs-05421760",
+  "noaaForecastPath": "data/noaa-forecast/OXJI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

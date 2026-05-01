@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02297155",
+  "key": "02297155",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02297155",
+  "name": "HORSE CREEK NEAR MYAKKA HEAD FL",
+  "waterbody": "HORSE CREEK NEAR MYAKKA HEAD FL",
+  "state": "FL",
+  "latitude": 27.4872613,
+  "longitude": -82.0234197,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HORF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Horse Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/horf1",
+  "slug": "usgs-02297155",
+  "noaaForecastPath": "data/noaa-forecast/HORF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

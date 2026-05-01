@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06482000",
+  "key": "06482000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06482000",
+  "name": "BIG SIOUX RIVER AT SIOUX FALLS SD",
+  "waterbody": "BIG SIOUX RIVER AT SIOUX FALLS SD",
+  "state": "SD",
+  "latitude": 43.5010864,
+  "longitude": -96.748384,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAVS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wavs2",
+  "slug": "usgs-06482000",
+  "noaaForecastPath": "data/noaa-forecast/WAVS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

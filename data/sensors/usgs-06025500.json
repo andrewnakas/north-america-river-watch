@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06025500",
+  "key": "06025500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06025500",
+  "name": "Big Hole River near Melrose MT",
+  "waterbody": "Big Hole River near Melrose MT",
+  "state": "MT",
+  "latitude": 45.52658056,
+  "longitude": -112.701725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hole River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlrm8",
+  "slug": "usgs-06025500",
+  "noaaForecastPath": "data/noaa-forecast/MLRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

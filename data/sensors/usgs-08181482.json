@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08181482",
+  "key": "08181482",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08181482",
+  "name": "Indian Ck at Medina Base Rd, San Antonio, TX",
+  "waterbody": "Indian Ck at Medina Base Rd, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.36695,
+  "longitude": -98.62656944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08181482",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

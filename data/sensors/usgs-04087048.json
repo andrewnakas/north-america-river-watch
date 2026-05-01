@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04087048",
+  "key": "04087048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087048",
+  "name": "LITTLE MENOMONEE CREEK @ GRANVILLE RD NR MEQUON,WI",
+  "waterbody": "LITTLE MENOMONEE CREEK @ GRANVILLE RD NR MEQUON,WI",
+  "state": "WI",
+  "latitude": 43.2186111,
+  "longitude": -88.0433333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04087048",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

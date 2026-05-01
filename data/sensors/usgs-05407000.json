@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05407000",
+  "key": "05407000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05407000",
+  "name": "WISCONSIN RIVER AT MUSCODA, WI",
+  "waterbody": "WISCONSIN RIVER AT MUSCODA, WI",
+  "state": "WI",
+  "latitude": 43.19805556,
+  "longitude": -90.4433333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/musw3",
+  "slug": "usgs-05407000",
+  "noaaForecastPath": "data/noaa-forecast/MUSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

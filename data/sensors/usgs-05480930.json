@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05480930",
+  "key": "05480930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05480930",
+  "name": "White Fox Creek at Clarion, IA",
+  "waterbody": "White Fox Creek at Clarion, IA",
+  "state": "IA",
+  "latitude": 42.73191657,
+  "longitude": -93.7074355,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWFI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Fox Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwfi4",
+  "slug": "usgs-05480930",
+  "noaaForecastPath": "data/noaa-forecast/CWFI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

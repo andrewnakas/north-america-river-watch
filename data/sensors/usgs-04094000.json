@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04094000",
+  "key": "04094000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04094000",
+  "name": "LITTLE CALUMET RIVER AT PORTER, IN",
+  "waterbody": "LITTLE CALUMET RIVER AT PORTER, IN",
+  "state": "IN",
+  "latitude": 41.62223849,
+  "longitude": -87.0874428,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Arm Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prti3",
+  "slug": "usgs-04094000",
+  "noaaForecastPath": "data/noaa-forecast/PRTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

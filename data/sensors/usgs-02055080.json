@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02055080",
+  "key": "02055080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02055080",
+  "name": "ROANOKE RIVER AT THIRTEENTH ST BR AT ROANOKE, VA",
+  "waterbody": "ROANOKE RIVER AT THIRTEENTH ST BR AT ROANOKE, VA",
+  "state": "VA",
+  "latitude": 37.264194,
+  "longitude": -79.915444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02055080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

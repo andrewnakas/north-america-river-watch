@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208923",
+  "key": "04208923",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208923",
+  "name": "Unnamed tributary to Chagrin R at Pepper Pike OH",
+  "waterbody": "Unnamed tributary to Chagrin R at Pepper Pike OH",
+  "state": "OH",
+  "latitude": 41.4711111,
+  "longitude": -81.4383333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPKO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unknown Tributary to Chagrin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ppko1",
+  "slug": "usgs-04208923",
+  "noaaForecastPath": "data/noaa-forecast/PPKO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

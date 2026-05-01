@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05464695",
+  "key": "05464695",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05464695",
+  "name": "Indian Creek at Marion, IA",
+  "waterbody": "Indian Creek at Marion, IA",
+  "state": "IA",
+  "latitude": 42.03094444,
+  "longitude": -91.6118611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRNI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek (Eastern IA)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrni4",
+  "slug": "usgs-05464695",
+  "noaaForecastPath": "data/noaa-forecast/MRNI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

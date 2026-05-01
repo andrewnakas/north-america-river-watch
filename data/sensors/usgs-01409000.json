@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01409000",
+  "key": "01409000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01409000",
+  "name": "Cedar Creek at Lanoka Harbor NJ",
+  "waterbody": "Cedar Creek at Lanoka Harbor NJ",
+  "state": "NJ",
+  "latitude": 39.8675,
+  "longitude": -74.1691667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01409000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

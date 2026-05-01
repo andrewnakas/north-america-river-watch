@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09203000",
+  "key": "09203000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09203000",
+  "name": "EAST FORK RIVER NEAR BIG SANDY, WY",
+  "waterbody": "EAST FORK RIVER NEAR BIG SANDY, WY",
+  "state": "WY",
+  "latitude": 42.6725,
+  "longitude": -109.4216667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09203000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

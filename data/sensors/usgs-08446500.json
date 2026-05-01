@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08446500",
+  "key": "08446500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08446500",
+  "name": "Pecos Rv nr Girvin, TX",
+  "waterbody": "Pecos Rv nr Girvin, TX",
+  "state": "TX",
+  "latitude": 31.11320329,
+  "longitude": -102.4176419,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GIVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 3 miles NNW of Girvin",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/givt2",
+  "slug": "usgs-08446500",
+  "noaaForecastPath": "data/noaa-forecast/GIVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

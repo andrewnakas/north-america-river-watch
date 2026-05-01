@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09430500",
+  "key": "09430500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09430500",
+  "name": "GILA RIVER NEAR GILA, NM",
+  "waterbody": "GILA RIVER NEAR GILA, NM",
+  "state": "NM",
+  "latitude": 33.06150278,
+  "longitude": -108.5373861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GILN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gila River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/giln5",
+  "slug": "usgs-09430500",
+  "noaaForecastPath": "data/noaa-forecast/GILN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02450250",
+  "key": "02450250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02450250",
+  "name": "SIPSEY FORK NEAR GRAYSON AL",
+  "waterbody": "SIPSEY FORK NEAR GRAYSON AL",
+  "state": "AL",
+  "latitude": 34.28537757,
+  "longitude": -87.3989084,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRAA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sipsey Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/graa1",
+  "slug": "usgs-02450250",
+  "noaaForecastPath": "data/noaa-forecast/GRAA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

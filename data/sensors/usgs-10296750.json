@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10296750",
+  "key": "10296750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10296750",
+  "name": "TOPAZ CANAL BLW DIV W WALKER RVR NR TOPAZ, CA",
+  "waterbody": "TOPAZ CANAL BLW DIV W WALKER RVR NR TOPAZ, CA",
+  "state": "CA",
+  "latitude": 38.63666667,
+  "longitude": -119.5075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10296750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

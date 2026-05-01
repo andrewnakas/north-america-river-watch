@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04086200",
+  "key": "04086200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086200",
+  "name": "EAST BRANCH MILWAUKEE RIVER AT NEW FANE, WI",
+  "waterbody": "EAST BRANCH MILWAUKEE RIVER AT NEW FANE, WI",
+  "state": "WI",
+  "latitude": 43.55027436,
+  "longitude": -88.1884293,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04086200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

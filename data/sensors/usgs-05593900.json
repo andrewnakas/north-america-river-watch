@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05593900",
+  "key": "05593900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05593900",
+  "name": "EAST FORK SHOAL CREEK NEAR COFFEEN, IL",
+  "waterbody": "EAST FORK SHOAL CREEK NEAR COFFEEN, IL",
+  "state": "IL",
+  "latitude": 39.14891667,
+  "longitude": -89.3524722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05593900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

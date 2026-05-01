@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11189500",
+  "key": "11189500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11189500",
+  "name": "SF KERN R NR ONYX CA",
+  "waterbody": "SF KERN R NR ONYX CA",
+  "state": "CA",
+  "latitude": 35.7374672,
+  "longitude": -118.1736856,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Kern River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skrc1",
+  "slug": "usgs-11189500",
+  "noaaForecastPath": "data/noaa-forecast/SKRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

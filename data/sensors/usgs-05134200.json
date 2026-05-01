@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05134200",
+  "key": "05134200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05134200",
+  "name": "RAPID RIVER NEAR BAUDETTE, MN",
+  "waterbody": "RAPID RIVER NEAR BAUDETTE, MN",
+  "state": "MN",
+  "latitude": 48.5367595,
+  "longitude": -94.5611403,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRRM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brrm5",
+  "slug": "usgs-05134200",
+  "noaaForecastPath": "data/noaa-forecast/BRRM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

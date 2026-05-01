@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02158408",
+  "key": "02158408",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02158408",
+  "name": "SOUTH TYGER RIVER BELOW DUNCAN, SC",
+  "waterbody": "SOUTH TYGER RIVER BELOW DUNCAN, SC",
+  "state": "SC",
+  "latitude": 34.92095239,
+  "longitude": -82.130109,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02158408",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

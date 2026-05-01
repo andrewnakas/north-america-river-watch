@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02335870",
+  "key": "02335870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335870",
+  "name": "SOPE CREEK NEAR MARIETTA, GA",
+  "waterbody": "SOPE CREEK NEAR MARIETTA, GA",
+  "state": "GA",
+  "latitude": 33.95388889,
+  "longitude": -84.4433333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MARG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sope Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/marg1",
+  "slug": "usgs-02335870",
+  "noaaForecastPath": "data/noaa-forecast/MARG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

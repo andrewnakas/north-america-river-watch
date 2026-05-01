@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01317000",
+  "key": "01317000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01317000",
+  "name": "SCHROON RIVER AT RIVERBANK NY",
+  "waterbody": "SCHROON RIVER AT RIVERBANK NY",
+  "state": "NY",
+  "latitude": 43.60952778,
+  "longitude": -73.7375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schroon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvrn6",
+  "slug": "usgs-01317000",
+  "noaaForecastPath": "data/noaa-forecast/RVRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07375280",
+  "key": "07375280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07375280",
+  "name": "TANGIPAHOA RIVER AT OSYKA, MS",
+  "waterbody": "TANGIPAHOA RIVER AT OSYKA, MS",
+  "state": "MS",
+  "latitude": 31.0122222,
+  "longitude": -90.4611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSYM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tangipahoa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/osym6",
+  "slug": "usgs-07375280",
+  "noaaForecastPath": "data/noaa-forecast/OSYM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

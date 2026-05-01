@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08042468",
+  "key": "08042468",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08042468",
+  "name": "Willow Marsh Bayou at US 90 nr Beaumont, TX",
+  "waterbody": "Willow Marsh Bayou at US 90 nr Beaumont, TX",
+  "state": "TX",
+  "latitude": 30.0638111,
+  "longitude": -94.2177444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08042468",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

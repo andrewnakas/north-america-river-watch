@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09268500",
+  "key": "09268500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09268500",
+  "name": "NORTH FORK OF DRY FORK NEAR DRY FORK, UTAH",
+  "waterbody": "NORTH FORK OF DRY FORK NEAR DRY FORK, UTAH",
+  "state": "UT",
+  "latitude": 40.6427334,
+  "longitude": -109.810982,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09268500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

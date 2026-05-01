@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02295637",
+  "key": "02295637",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02295637",
+  "name": "PEACE RIVER AT US 17 AT ZOLFO SPRINGS, FL",
+  "waterbody": "PEACE RIVER AT US 17 AT ZOLFO SPRINGS, FL",
+  "state": "FL",
+  "latitude": 27.50451944,
+  "longitude": -81.8001722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZFSF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peace River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zfsf1",
+  "slug": "usgs-02295637",
+  "noaaForecastPath": "data/noaa-forecast/ZFSF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

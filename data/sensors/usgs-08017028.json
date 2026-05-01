@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08017028",
+  "key": "08017028",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08017028",
+  "name": "West Fork Calcasieu River at Moss Bluff, LA",
+  "waterbody": "West Fork Calcasieu River at Moss Bluff, LA",
+  "state": "LA",
+  "latitude": 30.29666667,
+  "longitude": -93.2488333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calcasieu River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcrl1",
+  "slug": "usgs-08017028",
+  "noaaForecastPath": "data/noaa-forecast/LCRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

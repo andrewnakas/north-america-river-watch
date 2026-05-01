@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04233300",
+  "key": "04233300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04233300",
+  "name": "SIXMILE CREEK AT BETHEL GROVE NY",
+  "waterbody": "SIXMILE CREEK AT BETHEL GROVE NY",
+  "state": "NY",
+  "latitude": 42.40263889,
+  "longitude": -76.4355833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXMN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sixmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxmn6",
+  "slug": "usgs-04233300",
+  "noaaForecastPath": "data/noaa-forecast/SXMN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

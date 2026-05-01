@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06797500",
+  "key": "06797500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06797500",
+  "name": "Elkhorn River at Ewing, Nebr.",
+  "waterbody": "Elkhorn River at Ewing, Nebr.",
+  "state": "NE",
+  "latitude": 42.268583,
+  "longitude": -98.339556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWIN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhorn River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewin1",
+  "slug": "usgs-06797500",
+  "noaaForecastPath": "data/noaa-forecast/EWIN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

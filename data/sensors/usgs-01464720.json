@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01464720",
+  "key": "01464720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01464720",
+  "name": "NB Neshaminy Creek at Chalfont, PA",
+  "waterbody": "NB Neshaminy Creek at Chalfont, PA",
+  "state": "PA",
+  "latitude": 40.28816188,
+  "longitude": -75.20378458,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01464720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

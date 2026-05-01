@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06889140",
+  "key": "06889140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889140",
+  "name": "SOLDIER C NR SOLDIER, KS",
+  "waterbody": "SOLDIER C NR SOLDIER, KS",
+  "state": "KS",
+  "latitude": 39.5658287,
+  "longitude": -95.962771,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06889140",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

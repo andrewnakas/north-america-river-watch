@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03353551",
+  "key": "03353551",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353551",
+  "name": "LITTLE EAGLE CREEK AT 52ND ST. AT INDIANAPOLIS, IN",
+  "waterbody": "LITTLE EAGLE CREEK AT 52ND ST. AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.8458678,
+  "longitude": -86.248582,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03353551",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13075910",
+  "key": "13075910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13075910",
+  "name": "PORTNEUF RIVER NR TYHEE ID",
+  "waterbody": "PORTNEUF RIVER NR TYHEE ID",
+  "state": "ID",
+  "latitude": 42.9447222,
+  "longitude": -112.5444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTYI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portneuf River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptyi1",
+  "slug": "usgs-13075910",
+  "noaaForecastPath": "data/noaa-forecast/PTYI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

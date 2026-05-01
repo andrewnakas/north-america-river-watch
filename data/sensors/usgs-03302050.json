@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03302050",
+  "key": "03302050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302050",
+  "name": "BRIER CREEK AT PENDELTON ROAD NEAR LOUISVILLE, KY",
+  "waterbody": "BRIER CREEK AT PENDELTON ROAD NEAR LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.04693096,
+  "longitude": -85.8572681,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03302050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

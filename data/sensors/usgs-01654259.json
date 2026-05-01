@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01654259",
+  "key": "01654259",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01654259",
+  "name": "LONG BRANCH NR TABARD TRAIL NR FAIRFAX, VA",
+  "waterbody": "LONG BRANCH NR TABARD TRAIL NR FAIRFAX, VA",
+  "state": "VA",
+  "latitude": 38.8176111,
+  "longitude": -77.2566556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01654259",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

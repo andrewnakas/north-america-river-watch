@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50059050",
+  "key": "50059050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50059050",
+  "name": "RIO GRANDE DE LOIZA BLW LOIZA DAMSITE, PR",
+  "waterbody": "RIO GRANDE DE LOIZA BLW LOIZA DAMSITE, PR",
+  "state": "PR",
+  "latitude": 18.342269,
+  "longitude": -66.005975,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRUP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Loiza",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trup4",
+  "slug": "usgs-50059050",
+  "noaaForecastPath": "data/noaa-forecast/TRUP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204289985",
+  "key": "0204289985",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204289985",
+  "name": "HAMPTON RIVER AT ROUTE 351 AT HAMPTON, VA",
+  "waterbody": "HAMPTON RIVER AT ROUTE 351 AT HAMPTON, VA",
+  "state": "VA",
+  "latitude": 37.03238889,
+  "longitude": -76.33675,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMNV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hampton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmnv2",
+  "slug": "usgs-0204289985",
+  "noaaForecastPath": "data/noaa-forecast/HMNV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

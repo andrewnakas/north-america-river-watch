@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01353900",
+  "key": "01353900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01353900",
+  "name": "SCHOHARIE CREEK AT MILL POINT NEAR FORT HUNTER NY",
+  "waterbody": "SCHOHARIE CREEK AT MILL POINT NEAR FORT HUNTER NY",
+  "state": "NY",
+  "latitude": 42.8875,
+  "longitude": -74.2781944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01353900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

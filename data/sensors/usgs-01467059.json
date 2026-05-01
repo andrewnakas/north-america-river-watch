@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01467059",
+  "key": "01467059",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467059",
+  "name": "Delaware River at Riverton NJ",
+  "waterbody": "Delaware River at Riverton NJ",
+  "state": "NJ",
+  "latitude": 40.01513889,
+  "longitude": -75.01769444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01467059",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

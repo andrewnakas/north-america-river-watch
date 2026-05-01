@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05454090",
+  "key": "05454090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05454090",
+  "name": "Muddy Creek at Coralville, IA",
+  "waterbody": "Muddy Creek at Coralville, IA",
+  "state": "IA",
+  "latitude": 41.7,
+  "longitude": -91.5627778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek (IA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmci4",
+  "slug": "usgs-05454090",
+  "noaaForecastPath": "data/noaa-forecast/CMCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

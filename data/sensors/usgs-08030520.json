@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08030520",
+  "key": "08030520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08030520",
+  "name": "Sabine Rv at Intl Paper nr Orange, TX",
+  "waterbody": "Sabine Rv at Intl Paper nr Orange, TX",
+  "state": "TX",
+  "latitude": 30.19985278,
+  "longitude": -93.7184194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sipt2",
+  "slug": "usgs-08030520",
+  "noaaForecastPath": "data/noaa-forecast/SIPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

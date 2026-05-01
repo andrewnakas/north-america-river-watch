@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06204070",
+  "key": "06204070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06204070",
+  "name": "W Rosebud Cr at Emerald Lk Campground nr Roscoe",
+  "waterbody": "W Rosebud Cr at Emerald Lk Campground nr Roscoe",
+  "state": "MT",
+  "latitude": 45.25438735,
+  "longitude": -109.6998945,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WREM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Rosebud Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrem8",
+  "slug": "usgs-06204070",
+  "noaaForecastPath": "data/noaa-forecast/WREM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

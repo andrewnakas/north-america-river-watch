@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07364203",
+  "key": "07364203",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07364203",
+  "name": "Bayou Bartholomew NW of Jones, LA",
+  "waterbody": "Bayou Bartholomew NW of Jones, LA",
+  "state": "LA",
+  "latitude": 32.9847222,
+  "longitude": -91.6986111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07364203",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

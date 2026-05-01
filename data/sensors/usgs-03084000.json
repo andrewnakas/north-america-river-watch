@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03084000",
+  "key": "03084000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03084000",
+  "name": "Abers Creek near Murrysville, PA",
+  "waterbody": "Abers Creek near Murrysville, PA",
+  "state": "PA",
+  "latitude": 40.45034589,
+  "longitude": -79.7136566,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03084000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

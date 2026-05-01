@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16854500",
+  "key": "16854500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16854500",
+  "name": "Ugum River above Talofofo Falls, nr Talofofo, Guam",
+  "waterbody": "Ugum River above Talofofo Falls, nr Talofofo, Guam",
+  "state": "GU",
+  "latitude": 13.32241667,
+  "longitude": 144.7361389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16854500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

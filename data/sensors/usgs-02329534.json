@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02329534",
+  "key": "02329534",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02329534",
+  "name": "QUINCY CREEK AT STATE HWY 267 AT QUINCY, FLA.",
+  "waterbody": "QUINCY CREEK AT STATE HWY 267 AT QUINCY, FLA.",
+  "state": "FL",
+  "latitude": 30.60019458,
+  "longitude": -84.5804676,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QCCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quincy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qccf1",
+  "slug": "usgs-02329534",
+  "noaaForecastPath": "data/noaa-forecast/QCCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

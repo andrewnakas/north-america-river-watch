@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01581752",
+  "key": "01581752",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01581752",
+  "name": "PLUMTREE RUN NEAR BEL AIR, MD",
+  "waterbody": "PLUMTREE RUN NEAR BEL AIR, MD",
+  "state": "MD",
+  "latitude": 39.49627778,
+  "longitude": -76.34744444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Plumtree Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptrm2",
+  "slug": "usgs-01581752",
+  "noaaForecastPath": "data/noaa-forecast/PTRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

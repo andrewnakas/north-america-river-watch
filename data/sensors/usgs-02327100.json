@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02327100",
+  "key": "02327100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02327100",
+  "name": "SOPCHOPPY RIVER NR SOPCHOPPY, FLA.",
+  "waterbody": "SOPCHOPPY RIVER NR SOPCHOPPY, FLA.",
+  "state": "FL",
+  "latitude": 30.12936856,
+  "longitude": -84.4943482,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sopchoppy River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sopf1",
+  "slug": "usgs-02327100",
+  "noaaForecastPath": "data/noaa-forecast/SOPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

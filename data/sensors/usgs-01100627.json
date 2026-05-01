@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01100627",
+  "key": "01100627",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100627",
+  "name": "SHAWSHEEN RIVER AT BALMORAL STREET AT ANDOVER, MA",
+  "waterbody": "SHAWSHEEN RIVER AT BALMORAL STREET AT ANDOVER, MA",
+  "state": "MA",
+  "latitude": 42.6714806,
+  "longitude": -71.1492239,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANDM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shawsheen River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/andm3",
+  "slug": "usgs-01100627",
+  "noaaForecastPath": "data/noaa-forecast/ANDM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

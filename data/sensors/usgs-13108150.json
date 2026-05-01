@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13108150",
+  "key": "13108150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13108150",
+  "name": "SALMON FALLS CREEK NR HAGERMAN ID",
+  "waterbody": "SALMON FALLS CREEK NR HAGERMAN ID",
+  "state": "ID",
+  "latitude": 42.69638889,
+  "longitude": -114.8552778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAGI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon Falls Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hagi1",
+  "slug": "usgs-13108150",
+  "noaaForecastPath": "data/noaa-forecast/HAGI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

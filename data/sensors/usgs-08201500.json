@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08201500",
+  "key": "08201500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08201500",
+  "name": "Seco Ck at Miller Rh nr Utopia, TX",
+  "waterbody": "Seco Ck at Miller Rh nr Utopia, TX",
+  "state": "TX",
+  "latitude": 29.573284,
+  "longitude": -99.4030997,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seco Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssmt2",
+  "slug": "usgs-08201500",
+  "noaaForecastPath": "data/noaa-forecast/SSMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

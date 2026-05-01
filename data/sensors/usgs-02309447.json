@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02309447",
+  "key": "02309447",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02309447",
+  "name": "BEE BRANCH NEAR PALM HARBOR FL",
+  "waterbody": "BEE BRANCH NEAR PALM HARBOR FL",
+  "state": "FL",
+  "latitude": 28.07112778,
+  "longitude": -82.7636611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHBF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bee Branch Near Palm Harbor",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phbf1",
+  "slug": "usgs-02309447",
+  "noaaForecastPath": "data/noaa-forecast/PHBF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

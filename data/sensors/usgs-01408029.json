@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01408029",
+  "key": "01408029",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01408029",
+  "name": "Manasquan River near Allenwood NJ",
+  "waterbody": "Manasquan River near Allenwood NJ",
+  "state": "NJ",
+  "latitude": 40.14666667,
+  "longitude": -74.12222222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALLN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manasquan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alln4",
+  "slug": "usgs-01408029",
+  "noaaForecastPath": "data/noaa-forecast/ALLN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

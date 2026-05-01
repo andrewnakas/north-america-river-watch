@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01331500",
+  "key": "01331500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01331500",
+  "name": "HOOSIC RIVER AT ADAMS, MA",
+  "waterbody": "HOOSIC RIVER AT ADAMS, MA",
+  "state": "MA",
+  "latitude": 42.61109077,
+  "longitude": -73.12397168,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01331500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07178000",
+  "key": "07178000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07178000",
+  "name": "Bird Creek near Owasso, OK",
+  "waterbody": "Bird Creek near Owasso, OK",
+  "state": "OK",
+  "latitude": 36.24870534,
+  "longitude": -95.867213,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWSO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bird Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owso2",
+  "slug": "usgs-07178000",
+  "noaaForecastPath": "data/noaa-forecast/OWSO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

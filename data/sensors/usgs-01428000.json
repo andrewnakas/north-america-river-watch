@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01428000",
+  "key": "01428000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01428000",
+  "name": "TENMILE RIVER AT TUSTEN NY",
+  "waterbody": "TENMILE RIVER AT TUSTEN NY",
+  "state": "NY",
+  "latitude": 41.56377778,
+  "longitude": -75.01438889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01428000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:103225055",
+  "key": "103225055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "103225055",
+  "name": "WILLOW CK AT ALLISON RANCH NR GARDEN GATE PASS, NV",
+  "waterbody": "WILLOW CK AT ALLISON RANCH NR GARDEN GATE PASS, NV",
+  "state": "NV",
+  "latitude": 40.171,
+  "longitude": -116.4866944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WILN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wiln2",
+  "slug": "usgs-103225055",
+  "noaaForecastPath": "data/noaa-forecast/WILN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

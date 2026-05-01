@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06888350",
+  "key": "06888350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06888350",
+  "name": "KANSAS R NR BELVUE, KS",
+  "waterbody": "KANSAS R NR BELVUE, KS",
+  "state": "KS",
+  "latitude": 39.19305265,
+  "longitude": -96.1474945,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVUK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvuk1",
+  "slug": "usgs-06888350",
+  "noaaForecastPath": "data/noaa-forecast/BVUK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

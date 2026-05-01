@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03041500",
+  "key": "03041500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03041500",
+  "name": "Conemaugh River at Seward, PA",
+  "waterbody": "Conemaugh River at Seward, PA",
+  "state": "PA",
+  "latitude": 40.4192377,
+  "longitude": -79.0261404,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conemaugh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swdp1",
+  "slug": "usgs-03041500",
+  "noaaForecastPath": "data/noaa-forecast/SWDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

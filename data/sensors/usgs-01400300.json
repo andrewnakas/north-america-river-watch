@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01400300",
+  "key": "01400300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01400300",
+  "name": "Peters Brook near Raritan NJ",
+  "waterbody": "Peters Brook near Raritan NJ",
+  "state": "NJ",
+  "latitude": 40.593611,
+  "longitude": -74.630278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01400300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

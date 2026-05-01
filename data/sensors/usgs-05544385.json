@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05544385",
+  "key": "05544385",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05544385",
+  "name": "MUSKEGO (BIG MUSKEGO) LAKE OUTLET NR WIND LAKE, WI",
+  "waterbody": "MUSKEGO (BIG MUSKEGO) LAKE OUTLET NR WIND LAKE, WI",
+  "state": "WI",
+  "latitude": 42.8525,
+  "longitude": -88.1305556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05544385",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

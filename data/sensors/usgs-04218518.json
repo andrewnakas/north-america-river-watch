@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04218518",
+  "key": "04218518",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04218518",
+  "name": "ELLICOTT CREEK BELOW WILLIAMSVILLE NY",
+  "waterbody": "ELLICOTT CREEK BELOW WILLIAMSVILLE NY",
+  "state": "NY",
+  "latitude": 42.97794444,
+  "longitude": -78.7636944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WILN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ellicott Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wiln6",
+  "slug": "usgs-04218518",
+  "noaaForecastPath": "data/noaa-forecast/WILN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

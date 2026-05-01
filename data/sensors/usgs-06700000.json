@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06700000",
+  "key": "06700000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06700000",
+  "name": "SOUTH PLATTE RIVER ABOVE CHEESMAN LAKE, CO.",
+  "waterbody": "SOUTH PLATTE RIVER ABOVE CHEESMAN LAKE, CO.",
+  "state": "CO",
+  "latitude": 39.162778,
+  "longitude": -105.309722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06700000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

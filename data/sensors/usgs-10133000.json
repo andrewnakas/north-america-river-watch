@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10133000",
+  "key": "10133000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10133000",
+  "name": "LOST CREEK AT DEVILS SLIDE, UTAH",
+  "waterbody": "LOST CREEK AT DEVILS SLIDE, UTAH",
+  "state": "UT",
+  "latitude": 41.06063889,
+  "longitude": -111.53455556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10133000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

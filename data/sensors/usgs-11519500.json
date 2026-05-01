@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11519500",
+  "key": "11519500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11519500",
+  "name": "SCOTT R NR FORT JONES CA",
+  "waterbody": "SCOTT R NR FORT JONES CA",
+  "state": "CA",
+  "latitude": 41.64065587,
+  "longitude": -123.0150092,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTJC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scott River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftjc1",
+  "slug": "usgs-11519500",
+  "noaaForecastPath": "data/noaa-forecast/FTJC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08177300",
+  "key": "08177300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08177300",
+  "name": "Perdido Ck at FM 622 nr Fannin, TX",
+  "waterbody": "Perdido Ck at FM 622 nr Fannin, TX",
+  "state": "TX",
+  "latitude": 28.7516564,
+  "longitude": -97.3172142,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PEDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Perdido Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pedt2",
+  "slug": "usgs-08177300",
+  "noaaForecastPath": "data/noaa-forecast/PEDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

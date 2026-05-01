@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11511990",
+  "key": "11511990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11511990",
+  "name": "KLAMATH R AB FALL C NR COPCO CA",
+  "waterbody": "KLAMATH R AB FALL C NR COPCO CA",
+  "state": "CA",
+  "latitude": 41.973,
+  "longitude": -122.3648222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11511990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

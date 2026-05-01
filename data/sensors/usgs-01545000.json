@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01545000",
+  "key": "01545000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01545000",
+  "name": "Kettle Creek near Westport, PA",
+  "waterbody": "Kettle Creek near Westport, PA",
+  "state": "PA",
+  "latitude": 41.31945098,
+  "longitude": -77.8738587,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WESP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kettle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wesp1",
+  "slug": "usgs-01545000",
+  "noaaForecastPath": "data/noaa-forecast/WESP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522900",
+  "key": "09522900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522900",
+  "name": "UNIT B CANAL NEAR YUMA, AZ",
+  "waterbody": "UNIT B CANAL NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.6180361,
+  "longitude": -114.6304306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

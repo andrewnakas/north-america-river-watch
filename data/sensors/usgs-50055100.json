@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50055100",
+  "key": "50055100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50055100",
+  "name": "RIO CAGUITAS NR AGUAS BUENAS, PR",
+  "waterbody": "RIO CAGUITAS NR AGUAS BUENAS, PR",
+  "state": "PR",
+  "latitude": 18.24467709,
+  "longitude": -66.0932218,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50055100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

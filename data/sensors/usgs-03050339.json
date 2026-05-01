@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03050339",
+  "key": "03050339",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03050339",
+  "name": "TYGART VALLEY RIVER BYPASS CHANNEL NEAR ELKINS, WV",
+  "waterbody": "TYGART VALLEY RIVER BYPASS CHANNEL NEAR ELKINS, WV",
+  "state": "WV",
+  "latitude": 38.91915278,
+  "longitude": -79.8760472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03050339",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

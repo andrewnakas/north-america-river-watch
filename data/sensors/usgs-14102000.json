@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14102000",
+  "key": "14102000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14102000",
+  "name": "DESCHUTES RIVER AT SHERARS BRIDGE, OR",
+  "waterbody": "DESCHUTES RIVER AT SHERARS BRIDGE, OR",
+  "state": "OR",
+  "latitude": 45.26102778,
+  "longitude": -121.03636111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14102000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

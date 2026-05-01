@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08175000",
+  "key": "08175000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08175000",
+  "name": "Sandies Ck nr Westhoff, TX",
+  "waterbody": "Sandies Ck nr Westhoff, TX",
+  "state": "TX",
+  "latitude": 29.2152475,
+  "longitude": -97.4494353,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandies Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whot2",
+  "slug": "usgs-08175000",
+  "noaaForecastPath": "data/noaa-forecast/WHOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

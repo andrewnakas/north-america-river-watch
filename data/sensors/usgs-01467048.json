@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01467048",
+  "key": "01467048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467048",
+  "name": "Pennypack Cr at Lower Rhawn St Bdg, Phila., PA",
+  "waterbody": "Pennypack Cr at Lower Rhawn St Bdg, Phila., PA",
+  "state": "PA",
+  "latitude": 40.0500115,
+  "longitude": -75.0326619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pennypack Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pllp1",
+  "slug": "usgs-01467048",
+  "noaaForecastPath": "data/noaa-forecast/PLLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

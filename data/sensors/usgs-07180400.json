@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07180400",
+  "key": "07180400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07180400",
+  "name": "COTTONWOOD R NR FLORENCE, KS",
+  "waterbody": "COTTONWOOD R NR FLORENCE, KS",
+  "state": "KS",
+  "latitude": 38.2361285,
+  "longitude": -96.8772436,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLRK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cottonwood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flrk1",
+  "slug": "usgs-07180400",
+  "noaaForecastPath": "data/noaa-forecast/FLRK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

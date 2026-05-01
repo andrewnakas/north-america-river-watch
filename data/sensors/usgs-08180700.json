@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08180700",
+  "key": "08180700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180700",
+  "name": "Medina Rv nr Macdona, TX",
+  "waterbody": "Medina Rv nr Macdona, TX",
+  "state": "TX",
+  "latitude": 29.33495798,
+  "longitude": -98.689744,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MMDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medina River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mmdt2",
+  "slug": "usgs-08180700",
+  "noaaForecastPath": "data/noaa-forecast/MMDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

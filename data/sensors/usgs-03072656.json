@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03072656",
+  "key": "03072656",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03072656",
+  "name": "Monongahela River (lower pool) near Masontown, PA",
+  "waterbody": "Monongahela River (lower pool) near Masontown, PA",
+  "state": "PA",
+  "latitude": 39.82638889,
+  "longitude": -79.9208333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03072656",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

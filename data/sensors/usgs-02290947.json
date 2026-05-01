@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02290947",
+  "key": "02290947",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02290947",
+  "name": "SWEETWATER STRAND AT LOOP RD. NR MONROE STATION FL",
+  "waterbody": "SWEETWATER STRAND AT LOOP RD. NR MONROE STATION FL",
+  "state": "FL",
+  "latitude": 25.7885722,
+  "longitude": -81.0999222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02290947",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

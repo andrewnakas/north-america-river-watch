@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05075000",
+  "key": "05075000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05075000",
+  "name": "RED LAKE RIVER AT HIGH LANDING NR GOODRIDGE, MN",
+  "waterbody": "RED LAKE RIVER AT HIGH LANDING NR GOODRIDGE, MN",
+  "state": "MN",
+  "latitude": 48.048638,
+  "longitude": -95.808499,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HIGM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Lake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/higm5",
+  "slug": "usgs-05075000",
+  "noaaForecastPath": "data/noaa-forecast/HIGM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01315081",
+  "key": "01315081",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01315081",
+  "name": "INDIAN RIVER BLW LAKE ABANAKEE NR INDIAN LAKE NY",
+  "waterbody": "INDIAN RIVER BLW LAKE ABANAKEE NR INDIAN LAKE NY",
+  "state": "NY",
+  "latitude": 43.7987222,
+  "longitude": -74.22952778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01315081",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

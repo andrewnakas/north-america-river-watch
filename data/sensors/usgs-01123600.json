@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01123600",
+  "key": "01123600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01123600",
+  "name": "QUINEBAUG R BL WESTVILLE DAM NR SOUTHBRIDGE, MA",
+  "waterbody": "QUINEBAUG R BL WESTVILLE DAM NR SOUTHBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.08261944,
+  "longitude": -72.0583806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01123600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

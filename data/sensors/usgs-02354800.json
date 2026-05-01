@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02354800",
+  "key": "02354800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02354800",
+  "name": "ICHAWAYNOCHAWAY CREEK NEAR ELMODEL, GA",
+  "waterbody": "ICHAWAYNOCHAWAY CREEK NEAR ELMODEL, GA",
+  "state": "GA",
+  "latitude": 31.29366667,
+  "longitude": -84.4885556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMOG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ichawaynochaway Creek",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/emog1",
+  "slug": "usgs-02354800",
+  "noaaForecastPath": "data/noaa-forecast/EMOG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

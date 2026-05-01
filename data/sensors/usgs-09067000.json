@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09067000",
+  "key": "09067000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09067000",
+  "name": "BEAVER CREEK AT AVON, CO",
+  "waterbody": "BEAVER CREEK AT AVON, CO",
+  "state": "CO",
+  "latitude": 39.62970826,
+  "longitude": -106.5228096,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09067000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

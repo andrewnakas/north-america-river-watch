@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02290930",
+  "key": "02290930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02290930",
+  "name": "TURNER RIVER NR CHOKOLOSKEE ISLAND, FL",
+  "waterbody": "TURNER RIVER NR CHOKOLOSKEE ISLAND, FL",
+  "state": "FL",
+  "latitude": 25.8286111,
+  "longitude": -81.3416667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TURF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turner River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/turf1",
+  "slug": "usgs-02290930",
+  "noaaForecastPath": "data/noaa-forecast/TURF1.json",
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362354",
+  "key": "01362354",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362354",
+  "name": "WARNER CR BLW SILVER HOLLOW NOTCH NR EDGEWOOD NY",
+  "waterbody": "WARNER CR BLW SILVER HOLLOW NOTCH NR EDGEWOOD NY",
+  "state": "NY",
+  "latitude": 42.1203611,
+  "longitude": -74.2118333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362354",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

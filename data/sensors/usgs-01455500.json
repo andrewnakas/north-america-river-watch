@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01455500",
+  "key": "01455500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01455500",
+  "name": "Musconetcong River at outlet of Lake Hopatcong NJ",
+  "waterbody": "Musconetcong River at outlet of Lake Hopatcong NJ",
+  "state": "NJ",
+  "latitude": 40.9172222,
+  "longitude": -74.6655556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNDN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Hopatcong",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lndn4",
+  "slug": "usgs-01455500",
+  "noaaForecastPath": "data/noaa-forecast/LNDN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10396000",
+  "key": "10396000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10396000",
+  "name": "DONNER UND BLITZEN RIVER NR FRENCHGLEN OR",
+  "waterbody": "DONNER UND BLITZEN RIVER NR FRENCHGLEN OR",
+  "state": "OR",
+  "latitude": 42.7908333,
+  "longitude": -118.8675,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DONO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Donner und Blitzen River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dono3",
+  "slug": "usgs-10396000",
+  "noaaForecastPath": "data/noaa-forecast/DONO3.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

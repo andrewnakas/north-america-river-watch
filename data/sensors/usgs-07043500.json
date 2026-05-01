@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07043500",
+  "key": "07043500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07043500",
+  "name": "Little River Ditch No. 1 near Morehouse, MO",
+  "waterbody": "Little River Ditch No. 1 near Morehouse, MO",
+  "state": "MO",
+  "latitude": 36.83452778,
+  "longitude": -89.7300556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River Ditch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrdm7",
+  "slug": "usgs-07043500",
+  "noaaForecastPath": "data/noaa-forecast/LRDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

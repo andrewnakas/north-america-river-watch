@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03226800",
+  "key": "03226800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03226800",
+  "name": "Olentangy River near Worthington OH",
+  "waterbody": "Olentangy River near Worthington OH",
+  "state": "OH",
+  "latitude": 40.110341,
+  "longitude": -83.0318515,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRTO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Olentangy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrto1",
+  "slug": "usgs-03226800",
+  "noaaForecastPath": "data/noaa-forecast/WRTO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

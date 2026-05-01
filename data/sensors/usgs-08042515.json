@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08042515",
+  "key": "08042515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08042515",
+  "name": "Rhodair Gully at US 69 nr Nederland, TX",
+  "waterbody": "Rhodair Gully at US 69 nr Nederland, TX",
+  "state": "TX",
+  "latitude": 29.98205833,
+  "longitude": -94.0295611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RGBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rhodair Gully",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rgbt2",
+  "slug": "usgs-08042515",
+  "noaaForecastPath": "data/noaa-forecast/RGBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

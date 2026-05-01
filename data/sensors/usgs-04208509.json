@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208509",
+  "key": "04208509",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208509",
+  "name": "Cuyahoga River at Rivergate Park at Cleveland OH",
+  "waterbody": "Cuyahoga River at Rivergate Park at Cleveland OH",
+  "state": "OH",
+  "latitude": 41.4897222,
+  "longitude": -81.7036111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDTO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuyahoga River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdto1",
+  "slug": "usgs-04208509",
+  "noaaForecastPath": "data/noaa-forecast/CDTO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

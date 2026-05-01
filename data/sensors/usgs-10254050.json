@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10254050",
+  "key": "10254050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10254050",
+  "name": "SALT C NR MECCA",
+  "waterbody": "SALT C NR MECCA",
+  "state": "CA",
+  "latitude": 33.44698439,
+  "longitude": -115.8433229,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10254050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

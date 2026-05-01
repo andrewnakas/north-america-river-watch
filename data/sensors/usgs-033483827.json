@@ -1,0 +1,22 @@
+{
+  "id": "usgs:033483827",
+  "key": "033483827",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "033483827",
+  "name": "BIG DUCK CREEK AT 14TH STREET PARK AT ELWOOD, IN",
+  "waterbody": "BIG DUCK CREEK AT 14TH STREET PARK AT ELWOOD, IN",
+  "state": "IN",
+  "latitude": 40.2811111,
+  "longitude": -85.8424722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Duck Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdci3",
+  "slug": "usgs-033483827",
+  "noaaForecastPath": "data/noaa-forecast/BDCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

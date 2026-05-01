@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12115700",
+  "key": "12115700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12115700",
+  "name": "BOULDER CREEK NEAR CEDAR FALLS, WA",
+  "waterbody": "BOULDER CREEK NEAR CEDAR FALLS, WA",
+  "state": "WA",
+  "latitude": 47.36621625,
+  "longitude": -121.6928821,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12115700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

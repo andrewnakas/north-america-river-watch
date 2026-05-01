@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08162580",
+  "key": "08162580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08162580",
+  "name": "Juanita Ck at SH 71 nr Midfield, TX",
+  "waterbody": "Juanita Ck at SH 71 nr Midfield, TX",
+  "state": "TX",
+  "latitude": 28.97359167,
+  "longitude": -96.2085194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JUAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Juanita Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/juat2",
+  "slug": "usgs-08162580",
+  "noaaForecastPath": "data/noaa-forecast/JUAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

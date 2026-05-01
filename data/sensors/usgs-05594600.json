@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05594600",
+  "key": "05594600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05594600",
+  "name": "SILVER CREEK AT ROUTE 161 NR MASCOUTAH, IL",
+  "waterbody": "SILVER CREEK AT ROUTE 161 NR MASCOUTAH, IL",
+  "state": "IL",
+  "latitude": 38.52544444,
+  "longitude": -89.8245472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTHI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Silver Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mthi2",
+  "slug": "usgs-05594600",
+  "noaaForecastPath": "data/noaa-forecast/MTHI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

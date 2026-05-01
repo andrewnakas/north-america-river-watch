@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05448400",
+  "key": "05448400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05448400",
+  "name": "West Main Drainage Ditch 1 and 2 near Britt, IA",
+  "waterbody": "West Main Drainage Ditch 1 and 2 near Britt, IA",
+  "state": "IA",
+  "latitude": 43.1024617,
+  "longitude": -93.7846643,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTDI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Main Drainage Ditch 1 and 2",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btdi4",
+  "slug": "usgs-05448400",
+  "noaaForecastPath": "data/noaa-forecast/BTDI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

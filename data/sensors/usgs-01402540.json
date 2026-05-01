@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01402540",
+  "key": "01402540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01402540",
+  "name": "Millstone River at Weston NJ",
+  "waterbody": "Millstone River at Weston NJ",
+  "state": "NJ",
+  "latitude": 40.52972222,
+  "longitude": -74.58833333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WETN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Millstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wetn4",
+  "slug": "usgs-01402540",
+  "noaaForecastPath": "data/noaa-forecast/WETN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

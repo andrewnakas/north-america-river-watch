@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03285000",
+  "key": "03285000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03285000",
+  "name": "DIX RIVER NEAR DANVILLE, KY",
+  "waterbody": "DIX RIVER NEAR DANVILLE, KY",
+  "state": "KY",
+  "latitude": 37.6420234,
+  "longitude": -84.6607768,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dix River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnvk2",
+  "slug": "usgs-03285000",
+  "noaaForecastPath": "data/noaa-forecast/DNVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

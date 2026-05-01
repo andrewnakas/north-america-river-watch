@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01350480",
+  "key": "01350480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01350480",
+  "name": "LITTLE SCHOHARIE CREEK NEAR MIDDLEBURGH NY",
+  "waterbody": "LITTLE SCHOHARIE CREEK NEAR MIDDLEBURGH NY",
+  "state": "NY",
+  "latitude": 42.58127778,
+  "longitude": -74.3174444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSMN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Schoharie Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsmn6",
+  "slug": "usgs-01350480",
+  "noaaForecastPath": "data/noaa-forecast/LSMN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

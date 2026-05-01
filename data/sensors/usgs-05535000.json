@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05535000",
+  "key": "05535000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05535000",
+  "name": "SKOKIE RIVER AT LAKE FOREST, IL",
+  "waterbody": "SKOKIE RIVER AT LAKE FOREST, IL",
+  "state": "IL",
+  "latitude": 42.2325,
+  "longitude": -87.8452778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skokie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lafi2",
+  "slug": "usgs-05535000",
+  "noaaForecastPath": "data/noaa-forecast/LAFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03485500",
+  "key": "03485500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03485500",
+  "name": "DOE RIVER AT ELIZABETHTON, TN",
+  "waterbody": "DOE RIVER AT ELIZABETHTON, TN",
+  "state": "TN",
+  "latitude": 36.34452955,
+  "longitude": -82.2101245,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOET1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Doe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/doet1",
+  "slug": "usgs-03485500",
+  "noaaForecastPath": "data/noaa-forecast/DOET1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

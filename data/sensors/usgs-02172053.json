@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02172053",
+  "key": "02172053",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172053",
+  "name": "COOPER R AT MOBAY NR N CHARLESTON, SC",
+  "waterbody": "COOPER R AT MOBAY NR N CHARLESTON, SC",
+  "state": "SC",
+  "latitude": 32.9835058,
+  "longitude": -79.9228612,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02172053",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.364Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50098500",
+  "key": "50098500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50098500",
+  "name": "QUEBRADA SECA NR GUAYAMA, PR",
+  "waterbody": "QUEBRADA SECA NR GUAYAMA, PR",
+  "state": "PR",
+  "latitude": 17.99440973,
+  "longitude": -66.2054448,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50098500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

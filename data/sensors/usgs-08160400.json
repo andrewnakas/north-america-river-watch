@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08160400",
+  "key": "08160400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08160400",
+  "name": "Colorado Rv abv La Grange, TX",
+  "waterbody": "Colorado Rv abv La Grange, TX",
+  "state": "TX",
+  "latitude": 29.9124474,
+  "longitude": -96.9038699,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgrt2",
+  "slug": "usgs-08160400",
+  "noaaForecastPath": "data/noaa-forecast/LGRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06446500",
+  "key": "06446500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06446500",
+  "name": "WHITE RIVER NEAR INTERIOR,SD",
+  "waterbody": "WHITE RIVER NEAR INTERIOR,SD",
+  "state": "SD",
+  "latitude": 43.69388346,
+  "longitude": -101.9326516,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (NE-SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irrs2",
+  "slug": "usgs-06446500",
+  "noaaForecastPath": "data/noaa-forecast/IRRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

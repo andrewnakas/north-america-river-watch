@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03084698",
+  "key": "03084698",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03084698",
+  "name": "Turtle Creek at Wilmerding, PA",
+  "waterbody": "Turtle Creek at Wilmerding, PA",
+  "state": "PA",
+  "latitude": 40.39423566,
+  "longitude": -79.8058805,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turtle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrdp1",
+  "slug": "usgs-03084698",
+  "noaaForecastPath": "data/noaa-forecast/WRDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

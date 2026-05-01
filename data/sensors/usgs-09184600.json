@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09184600",
+  "key": "09184600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09184600",
+  "name": "PACK CREEK AT PACK CREEK ROAD BRIDGE NEAR MOAB, UT",
+  "waterbody": "PACK CREEK AT PACK CREEK ROAD BRIDGE NEAR MOAB, UT",
+  "state": "UT",
+  "latitude": 38.445528,
+  "longitude": -109.383667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09184600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02480002",
+  "key": "02480002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02480002",
+  "name": "HAMILTON CREEK AT SNOW ROAD NEAR SEMMES, AL.",
+  "waterbody": "HAMILTON CREEK AT SNOW ROAD NEAR SEMMES, AL.",
+  "state": "AL",
+  "latitude": 30.72605413,
+  "longitude": -88.2764221,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMSA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hamilton Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smsa1",
+  "slug": "usgs-02480002",
+  "noaaForecastPath": "data/noaa-forecast/SMSA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

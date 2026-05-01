@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06602020",
+  "key": "06602020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06602020",
+  "name": "West Fork Ditch at Hornick, IA",
+  "waterbody": "West Fork Ditch at Hornick, IA",
+  "state": "IA",
+  "latitude": 42.22705556,
+  "longitude": -96.07783333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOKI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Ditch",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hoki4",
+  "slug": "usgs-06602020",
+  "noaaForecastPath": "data/noaa-forecast/HOKI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

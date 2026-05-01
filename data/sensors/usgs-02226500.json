@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02226500",
+  "key": "02226500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02226500",
+  "name": "SATILLA RIVER NEAR WAYCROSS, GA",
+  "waterbody": "SATILLA RIVER NEAR WAYCROSS, GA",
+  "state": "GA",
+  "latitude": 31.23844444,
+  "longitude": -82.3228333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AYSG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Satilla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aysg1",
+  "slug": "usgs-02226500",
+  "noaaForecastPath": "data/noaa-forecast/AYSG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

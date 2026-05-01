@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09495000",
+  "key": "09495000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09495000",
+  "name": "FORESTDALE CR DIV FROM SHOW LOW CR NR SHOW LOW, AZ",
+  "waterbody": "FORESTDALE CR DIV FROM SHOW LOW CR NR SHOW LOW, AZ",
+  "state": "AZ",
+  "latitude": 34.1778208,
+  "longitude": -110.0162198,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09495000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04126740",
+  "key": "04126740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04126740",
+  "name": "PLATTE RIVER AT HONOR, MI",
+  "waterbody": "PLATTE RIVER AT HONOR, MI",
+  "state": "MI",
+  "latitude": 44.6680551,
+  "longitude": -86.0348123,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HONM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte River (N Lower MI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/honm4",
+  "slug": "usgs-04126740",
+  "noaaForecastPath": "data/noaa-forecast/HONM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

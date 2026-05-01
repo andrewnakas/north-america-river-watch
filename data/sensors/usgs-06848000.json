@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06848000",
+  "key": "06848000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06848000",
+  "name": "PRAIRIE DOG C AT NORTON, KS",
+  "waterbody": "PRAIRIE DOG C AT NORTON, KS",
+  "state": "KS",
+  "latitude": 39.81000548,
+  "longitude": -99.9220683,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NTDK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Dog Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ntdk1",
+  "slug": "usgs-06848000",
+  "noaaForecastPath": "data/noaa-forecast/NTDK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

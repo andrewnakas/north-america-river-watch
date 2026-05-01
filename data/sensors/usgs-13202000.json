@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13202000",
+  "key": "13202000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13202000",
+  "name": "BOISE RIVER NR BOISE ID",
+  "waterbody": "BOISE RIVER NR BOISE ID",
+  "state": "ID",
+  "latitude": 43.52766907,
+  "longitude": -116.0595539,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boise River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/luci1",
+  "slug": "usgs-13202000",
+  "noaaForecastPath": "data/noaa-forecast/LUCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

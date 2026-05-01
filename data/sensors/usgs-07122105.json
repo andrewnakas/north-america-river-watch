@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07122105",
+  "key": "07122105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07122105",
+  "name": "FORT LYON CANAL NEAR CORNELIA, CO",
+  "waterbody": "FORT LYON CANAL NEAR CORNELIA, CO",
+  "state": "CO",
+  "latitude": 38.10695065,
+  "longitude": -103.2490973,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07122105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

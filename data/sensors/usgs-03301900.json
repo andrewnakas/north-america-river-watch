@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03301900",
+  "key": "03301900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03301900",
+  "name": "FERN CREEK AT OLD BARDSTOWN RD AT LOUISVILLE, KY",
+  "waterbody": "FERN CREEK AT OLD BARDSTOWN RD AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.1756242,
+  "longitude": -85.615237,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03301900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

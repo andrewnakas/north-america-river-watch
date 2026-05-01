@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04040000",
+  "key": "04040000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04040000",
+  "name": "ONTONAGON RIVER NEAR ROCKLAND, MI",
+  "waterbody": "ONTONAGON RIVER NEAR ROCKLAND, MI",
+  "state": "MI",
+  "latitude": 46.7207742,
+  "longitude": -89.207086,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKLM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ontonagon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rklm4",
+  "slug": "usgs-04040000",
+  "noaaForecastPath": "data/noaa-forecast/RKLM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

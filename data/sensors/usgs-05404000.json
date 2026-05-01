@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05404000",
+  "key": "05404000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05404000",
+  "name": "WISCONSIN RIVER NEAR WISCONSIN DELLS, WI",
+  "waterbody": "WISCONSIN RIVER NEAR WISCONSIN DELLS, WI",
+  "state": "WI",
+  "latitude": 43.605,
+  "longitude": -89.7566667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDEW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdew3",
+  "slug": "usgs-05404000",
+  "noaaForecastPath": "data/noaa-forecast/WDEW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02234344",
+  "key": "02234344",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02234344",
+  "name": "HOWELL CREEK AT STATE HWY 434 NEAR OVIEDO, FL",
+  "waterbody": "HOWELL CREEK AT STATE HWY 434 NEAR OVIEDO, FL",
+  "state": "FL",
+  "latitude": 28.68999664,
+  "longitude": -81.2475656,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOWF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Howell Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/howf1",
+  "slug": "usgs-02234344",
+  "noaaForecastPath": "data/noaa-forecast/HOWF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

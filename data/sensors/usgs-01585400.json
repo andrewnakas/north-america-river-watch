@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01585400",
+  "key": "01585400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585400",
+  "name": "BRIEN RUN AT STEMMERS RUN, MD",
+  "waterbody": "BRIEN RUN AT STEMMERS RUN, MD",
+  "state": "MD",
+  "latitude": 39.33371865,
+  "longitude": -76.47274,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01585400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

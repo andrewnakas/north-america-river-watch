@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03302849",
+  "key": "03302849",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302849",
+  "name": "WHISKEY RUN AT MARENGO, IN",
+  "waterbody": "WHISKEY RUN AT MARENGO, IN",
+  "state": "IN",
+  "latitude": 38.37560979,
+  "longitude": -86.3446969,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGOI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whiskey Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgoi3",
+  "slug": "usgs-03302849",
+  "noaaForecastPath": "data/noaa-forecast/MGOI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

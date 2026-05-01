@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16088000",
+  "key": "16088000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16088000",
+  "name": "Anahola Ditch abv Kaneha Res nr Kealia, Kauai, HI",
+  "waterbody": "Anahola Ditch abv Kaneha Res nr Kealia, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.13296667,
+  "longitude": -159.3716278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16088000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

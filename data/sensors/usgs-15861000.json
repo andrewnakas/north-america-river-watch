@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15861000",
+  "key": "15861000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15861000",
+  "name": "JUDY C NR NUIQSUT AK",
+  "waterbody": "JUDY C NR NUIQSUT AK",
+  "state": "AK",
+  "latitude": 70.2201986,
+  "longitude": -151.8378484,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JDYA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Judy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jdya2",
+  "slug": "usgs-15861000",
+  "noaaForecastPath": "data/noaa-forecast/JDYA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

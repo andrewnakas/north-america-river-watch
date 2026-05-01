@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07030500",
+  "key": "07030500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07030500",
+  "name": "WOLF RIVER AT ROSSVILLE, TN",
+  "waterbody": "WOLF RIVER AT ROSSVILLE, TN",
+  "state": "TN",
+  "latitude": 35.05425748,
+  "longitude": -89.5411896,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROST1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolf River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rost1",
+  "slug": "usgs-07030500",
+  "noaaForecastPath": "data/noaa-forecast/ROST1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06720255",
+  "key": "06720255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06720255",
+  "name": "UVALDA INTERCEPT BL 56TH AV AT ROCKY MTN ARS, CO",
+  "waterbody": "UVALDA INTERCEPT BL 56TH AV AT ROCKY MTN ARS, CO",
+  "state": "CO",
+  "latitude": 39.79943105,
+  "longitude": -104.8363636,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06720255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

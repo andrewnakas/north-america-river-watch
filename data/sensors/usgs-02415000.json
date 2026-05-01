@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02415000",
+  "key": "02415000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02415000",
+  "name": "HILLABEE CREEK NEAR HACKNEYVILLE AL",
+  "waterbody": "HILLABEE CREEK NEAR HACKNEYVILLE AL",
+  "state": "AL",
+  "latitude": 33.06539786,
+  "longitude": -85.8780186,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02415000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

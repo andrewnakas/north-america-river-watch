@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01187800",
+  "key": "01187800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01187800",
+  "name": "NEPAUG R NR NEPAUG, CT.",
+  "waterbody": "NEPAUG R NR NEPAUG, CT.",
+  "state": "CT",
+  "latitude": 41.82054091,
+  "longitude": -72.97008363,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01187800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

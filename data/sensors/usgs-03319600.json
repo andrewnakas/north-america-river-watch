@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03319600",
+  "key": "03319600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03319600",
+  "name": "ROUGH RIVER AT HARTFORD, KY",
+  "waterbody": "ROUGH RIVER AT HARTFORD, KY",
+  "state": "KY",
+  "latitude": 37.45310356,
+  "longitude": -86.9108263,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03319600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

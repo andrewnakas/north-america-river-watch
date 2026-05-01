@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02376293",
+  "key": "02376293",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02376293",
+  "name": "BRUSHY CREEK NEAR BRATT, FL",
+  "waterbody": "BRUSHY CREEK NEAR BRATT, FL",
+  "state": "FL",
+  "latitude": 30.97851588,
+  "longitude": -87.5280384,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Creek (AL)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bycf1",
+  "slug": "usgs-02376293",
+  "noaaForecastPath": "data/noaa-forecast/BYCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

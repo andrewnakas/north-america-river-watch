@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03524000",
+  "key": "03524000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03524000",
+  "name": "CLINCH RIVER AT CLEVELAND, VA",
+  "waterbody": "CLINCH RIVER AT CLEVELAND, VA",
+  "state": "VA",
+  "latitude": 36.9448295,
+  "longitude": -82.1548569,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLVV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clinch River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clvv2",
+  "slug": "usgs-03524000",
+  "noaaForecastPath": "data/noaa-forecast/CLVV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

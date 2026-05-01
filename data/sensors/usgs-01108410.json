@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01108410",
+  "key": "01108410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01108410",
+  "name": "MILL RIVER AT SPRING STREET AT TAUNTON, MA",
+  "waterbody": "MILL RIVER AT SPRING STREET AT TAUNTON, MA",
+  "state": "MA",
+  "latitude": 41.89969865,
+  "longitude": -71.0894663,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TNMM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tnmm3",
+  "slug": "usgs-01108410",
+  "noaaForecastPath": "data/noaa-forecast/TNMM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

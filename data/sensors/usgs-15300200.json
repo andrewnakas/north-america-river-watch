@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15300200",
+  "key": "15300200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15300200",
+  "name": "ROADHOUSE C NR ILIAMNA AK",
+  "waterbody": "ROADHOUSE C NR ILIAMNA AK",
+  "state": "AK",
+  "latitude": 59.75653898,
+  "longitude": -154.8491212,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDHA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roadhouse Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdha2",
+  "slug": "usgs-15300200",
+  "noaaForecastPath": "data/noaa-forecast/RDHA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

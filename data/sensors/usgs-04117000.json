@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04117000",
+  "key": "04117000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04117000",
+  "name": "QUAKER BROOK NEAR NASHVILLE, MI",
+  "waterbody": "QUAKER BROOK NEAR NASHVILLE, MI",
+  "state": "MI",
+  "latitude": 42.565833,
+  "longitude": -85.093611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04117000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

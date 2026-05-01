@@ -1,0 +1,19 @@
+{
+  "id": "usgs:395835107380401",
+  "key": "395835107380401",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "395835107380401",
+  "name": "NORTH FORK WHITE RIVER BELOW BUFORD, CO",
+  "waterbody": "NORTH FORK WHITE RIVER BELOW BUFORD, CO",
+  "state": "CO",
+  "latitude": 39.9765,
+  "longitude": -107.6344611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-395835107380401",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

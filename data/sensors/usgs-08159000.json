@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08159000",
+  "key": "08159000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08159000",
+  "name": "Onion Ck at US Hwy 183, Austin, TX",
+  "waterbody": "Onion Ck at US Hwy 183, Austin, TX",
+  "state": "TX",
+  "latitude": 30.17798987,
+  "longitude": -97.6886138,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Onion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atit2",
+  "slug": "usgs-08159000",
+  "noaaForecastPath": "data/noaa-forecast/ATIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08100950",
+  "key": "08100950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08100950",
+  "name": "Cowhouse Ck at FM 1783 nr Purmela, TX",
+  "waterbody": "Cowhouse Ck at FM 1783 nr Purmela, TX",
+  "state": "TX",
+  "latitude": 31.3778361,
+  "longitude": -97.9173472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08100950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

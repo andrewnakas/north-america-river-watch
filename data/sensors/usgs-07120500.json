@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07120500",
+  "key": "07120500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07120500",
+  "name": "ARKANSAS RIVER NEAR ROCKY FORD, CO.",
+  "waterbody": "ARKANSAS RIVER NEAR ROCKY FORD, CO.",
+  "state": "CO",
+  "latitude": 38.06528559,
+  "longitude": -103.6860593,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arcc2",
+  "slug": "usgs-07120500",
+  "noaaForecastPath": "data/noaa-forecast/ARCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

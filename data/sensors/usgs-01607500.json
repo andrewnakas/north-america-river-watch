@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01607500",
+  "key": "01607500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01607500",
+  "name": "S F SOUTH BRANCH POTOMAC RIVER AT BRANDYWINE, WV",
+  "waterbody": "S F SOUTH BRANCH POTOMAC RIVER AT BRANDYWINE, WV",
+  "state": "WV",
+  "latitude": 38.63150665,
+  "longitude": -79.2436497,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRYW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork South Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bryw2",
+  "slug": "usgs-01607500",
+  "noaaForecastPath": "data/noaa-forecast/BRYW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

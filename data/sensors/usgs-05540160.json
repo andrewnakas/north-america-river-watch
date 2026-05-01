@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05540160",
+  "key": "05540160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540160",
+  "name": "EAST BRANCH DU PAGE RIVER NEAR DOWNERS GROVE, IL",
+  "waterbody": "EAST BRANCH DU PAGE RIVER NEAR DOWNERS GROVE, IL",
+  "state": "IL",
+  "latitude": 41.83166667,
+  "longitude": -88.0477778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEBI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Du Page River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/debi2",
+  "slug": "usgs-05540160",
+  "noaaForecastPath": "data/noaa-forecast/DEBI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

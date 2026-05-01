@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05401050",
+  "key": "05401050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05401050",
+  "name": "TENMILE CREEK NEAR NEKOOSA, WI",
+  "waterbody": "TENMILE CREEK NEAR NEKOOSA, WI",
+  "state": "WI",
+  "latitude": 44.2625,
+  "longitude": -89.8102778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KOOW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenmile Creek (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/koow3",
+  "slug": "usgs-05401050",
+  "noaaForecastPath": "data/noaa-forecast/KOOW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

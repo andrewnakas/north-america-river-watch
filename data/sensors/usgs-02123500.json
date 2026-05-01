@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02123500",
+  "key": "02123500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02123500",
+  "name": "UWHARRIE RIVER NEAR ELDORADO, NC",
+  "waterbody": "UWHARRIE RIVER NEAR ELDORADO, NC",
+  "state": "NC",
+  "latitude": 35.43147778,
+  "longitude": -80.01663889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02123500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05289985",
+  "key": "05289985",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05289985",
+  "name": "BIG COULEE CR NEAR PEEVER,SD",
+  "waterbody": "BIG COULEE CR NEAR PEEVER,SD",
+  "state": "SD",
+  "latitude": 45.4874332,
+  "longitude": -96.9584379,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coulee Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcps2",
+  "slug": "usgs-05289985",
+  "noaaForecastPath": "data/noaa-forecast/BCPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

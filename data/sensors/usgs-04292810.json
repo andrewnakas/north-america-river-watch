@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04292810",
+  "key": "04292810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04292810",
+  "name": "JEWETT BROOK AT VT 38, NEAR ST. ALBANS, VT",
+  "waterbody": "JEWETT BROOK AT VT 38, NEAR ST. ALBANS, VT",
+  "state": "VT",
+  "latitude": 44.8561111,
+  "longitude": -73.1508333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JWTV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jewett Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jwtv1",
+  "slug": "usgs-04292810",
+  "noaaForecastPath": "data/noaa-forecast/JWTV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

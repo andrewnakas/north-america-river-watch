@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01350032",
+  "key": "01350032",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01350032",
+  "name": "TOAD HOLLOW BROOK NEAR GRAND GORGE NY",
+  "waterbody": "TOAD HOLLOW BROOK NEAR GRAND GORGE NY",
+  "state": "NY",
+  "latitude": 42.3325833,
+  "longitude": -74.4936667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01350032",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

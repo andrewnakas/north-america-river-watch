@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01014000",
+  "key": "01014000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01014000",
+  "name": "St. John River below Fish R, nr Fort Kent, Maine",
+  "waterbody": "St. John River below Fish R, nr Fort Kent, Maine",
+  "state": "ME",
+  "latitude": 47.2833333,
+  "longitude": -68.58527778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTKM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. John River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftkm1",
+  "slug": "usgs-01014000",
+  "noaaForecastPath": "data/noaa-forecast/FTKM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

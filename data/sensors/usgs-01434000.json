@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01434000",
+  "key": "01434000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434000",
+  "name": "DELAWARE RIVER AT PORT JERVIS NY",
+  "waterbody": "DELAWARE RIVER AT PORT JERVIS NY",
+  "state": "PA",
+  "latitude": 41.3705833,
+  "longitude": -74.69713889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTMP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtmp1",
+  "slug": "usgs-01434000",
+  "noaaForecastPath": "data/noaa-forecast/MTMP1.json",
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

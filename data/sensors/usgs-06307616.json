@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06307616",
+  "key": "06307616",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06307616",
+  "name": "Tongue R at Birney Day School Br nr Birney MT",
+  "waterbody": "Tongue R at Birney Day School Br nr Birney MT",
+  "state": "MT",
+  "latitude": 45.41160556,
+  "longitude": -106.4573528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNYM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnym8",
+  "slug": "usgs-06307616",
+  "noaaForecastPath": "data/noaa-forecast/BNYM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

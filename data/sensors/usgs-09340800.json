@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09340800",
+  "key": "09340800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09340800",
+  "name": "W FK SAN JUAN R AT W FK CAMPGR NR PAGOSA SPR, CO",
+  "waterbody": "W FK SAN JUAN R AT W FK CAMPGR NR PAGOSA SPR, CO",
+  "state": "CO",
+  "latitude": 37.45028475,
+  "longitude": -106.9117089,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09340800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

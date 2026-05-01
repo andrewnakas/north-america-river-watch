@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06753990",
+  "key": "06753990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06753990",
+  "name": "LONETREE CREEK NEAR GREELEY, CO.",
+  "waterbody": "LONETREE CREEK NEAR GREELEY, CO.",
+  "state": "CO",
+  "latitude": 40.4424808,
+  "longitude": -104.5888487,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06753990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

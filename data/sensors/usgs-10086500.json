@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10086500",
+  "key": "10086500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10086500",
+  "name": "BEAR RIVER BL UPL TAILRACE AT ONEIDA ID",
+  "waterbody": "BEAR RIVER BL UPL TAILRACE AT ONEIDA ID",
+  "state": "ID",
+  "latitude": 42.26657737,
+  "longitude": -111.7519153,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10086500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

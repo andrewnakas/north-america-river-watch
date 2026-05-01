@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09171240",
+  "key": "09171240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09171240",
+  "name": "LAKE FORK SAN MIGUEL RV ABV TROUT LAKE NR OPHIR CO",
+  "waterbody": "LAKE FORK SAN MIGUEL RV ABV TROUT LAKE NR OPHIR CO",
+  "state": "CO",
+  "latitude": 37.8178333,
+  "longitude": -107.8791111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09171240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

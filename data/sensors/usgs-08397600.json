@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08397600",
+  "key": "08397600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08397600",
+  "name": "RIO PENASCO NEAR DUNKEN, NM",
+  "waterbody": "RIO PENASCO NEAR DUNKEN, NM",
+  "state": "NM",
+  "latitude": 32.88152778,
+  "longitude": -105.1780556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08397600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06114700",
+  "key": "06114700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06114700",
+  "name": "Judith River nr mouth, nr Winifred MT",
+  "waterbody": "Judith River nr mouth, nr Winifred MT",
+  "state": "MT",
+  "latitude": 47.6651583,
+  "longitude": -109.6520139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JDRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Judith River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jdrm8",
+  "slug": "usgs-06114700",
+  "noaaForecastPath": "data/noaa-forecast/JDRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

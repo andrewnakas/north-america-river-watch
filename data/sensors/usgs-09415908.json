@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415908",
+  "key": "09415908",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415908",
+  "name": "PEDERSON E SPGS NR MOAPA, NV",
+  "waterbody": "PEDERSON E SPGS NR MOAPA, NV",
+  "state": "NV",
+  "latitude": 36.70936389,
+  "longitude": -114.7157139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415908",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

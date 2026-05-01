@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03380000",
+  "key": "03380000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03380000",
+  "name": "LITTLE WABASH RIVER NEAR GOLDEN GATE, IL",
+  "waterbody": "LITTLE WABASH RIVER NEAR GOLDEN GATE, IL",
+  "state": "IL",
+  "latitude": 38.37194444,
+  "longitude": -88.2330556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03380000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

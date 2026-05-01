@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02275625",
+  "key": "02275625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02275625",
+  "name": "NUBBIN SLOUGH NEAR OKEECHOBEE, FL",
+  "waterbody": "NUBBIN SLOUGH NEAR OKEECHOBEE, FL",
+  "state": "FL",
+  "latitude": 27.20560294,
+  "longitude": -80.7428363,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02275625",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

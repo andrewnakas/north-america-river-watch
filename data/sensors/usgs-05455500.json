@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05455500",
+  "key": "05455500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05455500",
+  "name": "English River at Kalona, IA",
+  "waterbody": "English River at Kalona, IA",
+  "state": "IA",
+  "latitude": 41.4697387,
+  "longitude": -91.7146129,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KALI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "English River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kali4",
+  "slug": "usgs-05455500",
+  "noaaForecastPath": "data/noaa-forecast/KALI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

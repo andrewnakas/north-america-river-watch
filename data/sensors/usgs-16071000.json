@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16071000",
+  "key": "16071000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16071000",
+  "name": "NF Wailua River nr Kapaa, Kauai, HI",
+  "waterbody": "NF Wailua River nr Kapaa, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.04916667,
+  "longitude": -159.37,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16071000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

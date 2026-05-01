@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04101800",
+  "key": "04101800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101800",
+  "name": "DOWAGIAC RIVER AT SUMNERVILLE, MI",
+  "waterbody": "DOWAGIAC RIVER AT SUMNERVILLE, MI",
+  "state": "MI",
+  "latitude": 41.9133797,
+  "longitude": -86.2130676,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dowagiac River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snmm4",
+  "slug": "usgs-04101800",
+  "noaaForecastPath": "data/noaa-forecast/SNMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

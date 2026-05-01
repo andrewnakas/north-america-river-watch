@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08197970",
+  "key": "08197970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08197970",
+  "name": "Sabinal Rv at Utopia, TX",
+  "waterbody": "Sabinal Rv at Utopia, TX",
+  "state": "TX",
+  "latitude": 29.61226667,
+  "longitude": -99.5294833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabinal River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbut2",
+  "slug": "usgs-08197970",
+  "noaaForecastPath": "data/noaa-forecast/SBUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

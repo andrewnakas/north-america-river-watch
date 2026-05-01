@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14162500",
+  "key": "14162500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14162500",
+  "name": "MCKENZIE RIVER NEAR VIDA, OR",
+  "waterbody": "MCKENZIE RIVER NEAR VIDA, OR",
+  "state": "OR",
+  "latitude": 44.1248487,
+  "longitude": -122.47062,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VIDO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKenzie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vido3",
+  "slug": "usgs-14162500",
+  "noaaForecastPath": "data/noaa-forecast/VIDO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

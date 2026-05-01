@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06349070",
+  "key": "06349070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349070",
+  "name": "MISSOURI RIVER BELOW MANDAN, ND",
+  "waterbody": "MISSOURI RIVER BELOW MANDAN, ND",
+  "state": "ND",
+  "latitude": 46.75,
+  "longitude": -100.8386111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MMRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mmrn8",
+  "slug": "usgs-06349070",
+  "noaaForecastPath": "data/noaa-forecast/MMRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

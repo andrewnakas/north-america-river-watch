@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02461192",
+  "key": "02461192",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02461192",
+  "name": "VALLEY CREEK AT AVE W NEAR ENSLEY, AL",
+  "waterbody": "VALLEY CREEK AT AVE W NEAR ENSLEY, AL",
+  "state": "AL",
+  "latitude": 33.4926111,
+  "longitude": -86.8721722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VAWA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Valley Creek (AL-2)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vawa1",
+  "slug": "usgs-02461192",
+  "noaaForecastPath": "data/noaa-forecast/VAWA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

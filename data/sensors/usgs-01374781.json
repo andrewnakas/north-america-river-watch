@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01374781",
+  "key": "01374781",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374781",
+  "name": "TITICUS RIVER BELOW JUNE ROAD AT SALEM CENTER NY",
+  "waterbody": "TITICUS RIVER BELOW JUNE ROAD AT SALEM CENTER NY",
+  "state": "NY",
+  "latitude": 41.3273611,
+  "longitude": -73.5914722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01374781",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

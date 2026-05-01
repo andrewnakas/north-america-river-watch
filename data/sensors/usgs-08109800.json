@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08109800",
+  "key": "08109800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08109800",
+  "name": "E Yegua Ck nr Dime Box, TX",
+  "waterbody": "E Yegua Ck nr Dime Box, TX",
+  "state": "TX",
+  "latitude": 30.40743105,
+  "longitude": -96.8174791,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Yegua Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/deyt2",
+  "slug": "usgs-08109800",
+  "noaaForecastPath": "data/noaa-forecast/DEYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

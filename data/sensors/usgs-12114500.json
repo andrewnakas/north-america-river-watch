@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12114500",
+  "key": "12114500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12114500",
+  "name": "CEDAR RIVER BELOW BEAR CREEK NEAR CEDAR FALLS, WA",
+  "waterbody": "CEDAR RIVER BELOW BEAR CREEK NEAR CEDAR FALLS, WA",
+  "state": "WA",
+  "latitude": 47.34202406,
+  "longitude": -121.5489688,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12114500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803000",
+  "key": "06803000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803000",
+  "name": "Salt Creek at Roca, Nebr.",
+  "waterbody": "Salt Creek at Roca, Nebr.",
+  "state": "NE",
+  "latitude": 40.657725,
+  "longitude": -96.665469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rocn1",
+  "slug": "usgs-06803000",
+  "noaaForecastPath": "data/noaa-forecast/ROCN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

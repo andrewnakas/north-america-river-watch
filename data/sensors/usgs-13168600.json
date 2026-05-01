@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13168600",
+  "key": "13168600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13168600",
+  "name": "HOT SPRINGS DITCH BL HEADING NR BRUNEAU ID",
+  "waterbody": "HOT SPRINGS DITCH BL HEADING NR BRUNEAU ID",
+  "state": "ID",
+  "latitude": 42.77666667,
+  "longitude": -115.7177778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13168600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

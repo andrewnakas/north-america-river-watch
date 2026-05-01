@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07144680",
+  "key": "07144680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144680",
+  "name": "GOOSE C NR ARLINGTON, KS",
+  "waterbody": "GOOSE C NR ARLINGTON, KS",
+  "state": "KS",
+  "latitude": 37.82383718,
+  "longitude": -98.1947032,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07144680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

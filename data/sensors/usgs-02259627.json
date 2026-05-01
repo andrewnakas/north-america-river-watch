@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02259627",
+  "key": "02259627",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02259627",
+  "name": "BUCKHEAD LOCK AT S-127 NR OKEECHOBEE, FL",
+  "waterbody": "BUCKHEAD LOCK AT S-127 NR OKEECHOBEE, FL",
+  "state": "FL",
+  "latitude": 27.12199467,
+  "longitude": -80.8953402,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02259627",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

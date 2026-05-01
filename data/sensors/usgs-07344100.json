@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07344100",
+  "key": "07344100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07344100",
+  "name": "Anderson Ck at Hwy 98 nr Simms, TX",
+  "waterbody": "Anderson Ck at Hwy 98 nr Simms, TX",
+  "state": "TX",
+  "latitude": 33.38444444,
+  "longitude": -94.4980556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07344100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

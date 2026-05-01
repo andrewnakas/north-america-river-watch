@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05467000",
+  "key": "05467000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05467000",
+  "name": "POPE CREEK NEAR KEITHSBURG, IL",
+  "waterbody": "POPE CREEK NEAR KEITHSBURG, IL",
+  "state": "IL",
+  "latitude": 41.1289222,
+  "longitude": -90.9193083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pope Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcki2",
+  "slug": "usgs-05467000",
+  "noaaForecastPath": "data/noaa-forecast/PCKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

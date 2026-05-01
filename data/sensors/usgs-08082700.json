@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08082700",
+  "key": "08082700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08082700",
+  "name": "Millers Ck nr Munday, TX",
+  "waterbody": "Millers Ck nr Munday, TX",
+  "state": "TX",
+  "latitude": 33.32926607,
+  "longitude": -99.4650825,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08082700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

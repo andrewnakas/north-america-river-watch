@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03330241",
+  "key": "03330241",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03330241",
+  "name": "TIPPECANOE RIVER AT NORTH WEBSTER, IN",
+  "waterbody": "TIPPECANOE RIVER AT NORTH WEBSTER, IN",
+  "state": "IN",
+  "latitude": 41.31638889,
+  "longitude": -85.6922222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tippecanoe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwti3",
+  "slug": "usgs-03330241",
+  "noaaForecastPath": "data/noaa-forecast/NWTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

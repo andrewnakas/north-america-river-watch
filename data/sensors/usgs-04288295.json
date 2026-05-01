@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04288295",
+  "key": "04288295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04288295",
+  "name": "LITTLE RIVER NEAR STOWE, VT",
+  "waterbody": "LITTLE RIVER NEAR STOWE, VT",
+  "state": "VT",
+  "latitude": 44.4425,
+  "longitude": -72.7244444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOSV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (Vermont)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mosv1",
+  "slug": "usgs-04288295",
+  "noaaForecastPath": "data/noaa-forecast/MOSV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

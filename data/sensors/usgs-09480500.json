@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09480500",
+  "key": "09480500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09480500",
+  "name": "SANTA CRUZ RIVER NEAR NOGALES, AZ.",
+  "waterbody": "SANTA CRUZ RIVER NEAR NOGALES, AZ.",
+  "state": "AZ",
+  "latitude": 31.34457256,
+  "longitude": -110.8515066,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCNA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Cruz River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scna3",
+  "slug": "usgs-09480500",
+  "noaaForecastPath": "data/noaa-forecast/SCNA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

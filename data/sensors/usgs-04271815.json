@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04271815",
+  "key": "04271815",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04271815",
+  "name": "LITTLE CHAZY RIVER NEAR CHAZY NY",
+  "waterbody": "LITTLE CHAZY RIVER NEAR CHAZY NY",
+  "state": "NY",
+  "latitude": 44.90197222,
+  "longitude": -73.41491667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHZN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Chazy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chzn6",
+  "slug": "usgs-04271815",
+  "noaaForecastPath": "data/noaa-forecast/CHZN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04099000",
+  "key": "04099000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04099000",
+  "name": "ST. JOSEPH RIVER AT MOTTVILLE, MI",
+  "waterbody": "ST. JOSEPH RIVER AT MOTTVILLE, MI",
+  "state": "MI",
+  "latitude": 41.80088279,
+  "longitude": -85.7561047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOTM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (MI/IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/motm4",
+  "slug": "usgs-04099000",
+  "noaaForecastPath": "data/noaa-forecast/MOTM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

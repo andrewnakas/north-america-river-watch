@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02165000",
+  "key": "02165000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02165000",
+  "name": "REEDY RIVER NEAR WARE SHOALS, S. C.",
+  "waterbody": "REEDY RIVER NEAR WARE SHOALS, S. C.",
+  "state": "SC",
+  "latitude": 34.4173425,
+  "longitude": -82.15149998,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02165000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

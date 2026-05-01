@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02102907",
+  "key": "02102907",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02102907",
+  "name": "LITTLE RIVER NEAR MOUNT PLEASANT, NC",
+  "waterbody": "LITTLE RIVER NEAR MOUNT PLEASANT, NC",
+  "state": "NC",
+  "latitude": 35.1924083,
+  "longitude": -79.1839556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmpn7",
+  "slug": "usgs-02102907",
+  "noaaForecastPath": "data/noaa-forecast/LMPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

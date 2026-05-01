@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03298550",
+  "key": "03298550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298550",
+  "name": "LONG LICK AT CLERMONT, KY",
+  "waterbody": "LONG LICK AT CLERMONT, KY",
+  "state": "KY",
+  "latitude": 37.92784138,
+  "longitude": -85.6535688,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03298550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07289350",
+  "key": "07289350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07289350",
+  "name": "BIG BLACK RIVER AT WEST, MS",
+  "waterbody": "BIG BLACK RIVER AT WEST, MS",
+  "state": "MS",
+  "latitude": 33.19444444,
+  "longitude": -89.7711111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSTM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wstm6",
+  "slug": "usgs-07289350",
+  "noaaForecastPath": "data/noaa-forecast/WSTM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

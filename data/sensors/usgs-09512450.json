@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09512450",
+  "key": "09512450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512450",
+  "name": "AGUA FRIA RIVER NEAR HUMBOLDT, AZ",
+  "waterbody": "AGUA FRIA RIVER NEAR HUMBOLDT, AZ",
+  "state": "AZ",
+  "latitude": 34.48527778,
+  "longitude": -112.2375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AFHA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Agua Fria River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/afha3",
+  "slug": "usgs-09512450",
+  "noaaForecastPath": "data/noaa-forecast/AFHA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

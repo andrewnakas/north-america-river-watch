@@ -1,0 +1,22 @@
+{
+  "id": "usgs:023312495",
+  "key": "023312495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023312495",
+  "name": "SOQUE RIVER AT GA 197, NEAR CLARKESVILLE, GA",
+  "waterbody": "SOQUE RIVER AT GA 197, NEAR CLARKESVILLE, GA",
+  "state": "GA",
+  "latitude": 34.6186111,
+  "longitude": -83.52888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSQG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Soque River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csqg1",
+  "slug": "usgs-023312495",
+  "noaaForecastPath": "data/noaa-forecast/CSQG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

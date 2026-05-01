@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01362500",
+  "key": "01362500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362500",
+  "name": "ESOPUS CREEK AT COLDBROOK NY",
+  "waterbody": "ESOPUS CREEK AT COLDBROOK NY",
+  "state": "NY",
+  "latitude": 42.0144722,
+  "longitude": -74.2701944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Esopus Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtrn6",
+  "slug": "usgs-01362500",
+  "noaaForecastPath": "data/noaa-forecast/MTRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

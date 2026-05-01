@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01405400",
+  "key": "01405400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01405400",
+  "name": "Manalapan Brook at Spotswood NJ",
+  "waterbody": "Manalapan Brook at Spotswood NJ",
+  "state": "NJ",
+  "latitude": 40.38944444,
+  "longitude": -74.39055556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manalapan Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sptn4",
+  "slug": "usgs-01405400",
+  "noaaForecastPath": "data/noaa-forecast/SPTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

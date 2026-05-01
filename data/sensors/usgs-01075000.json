@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01075000",
+  "key": "01075000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01075000",
+  "name": "PEMIGEWASSET RIVER AT WOODSTOCK, NH",
+  "waterbody": "PEMIGEWASSET RIVER AT WOODSTOCK, NH",
+  "state": "NH",
+  "latitude": 43.9761792,
+  "longitude": -71.6795244,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOON3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pemigewasset River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/woon3",
+  "slug": "usgs-01075000",
+  "noaaForecastPath": "data/noaa-forecast/WOON3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

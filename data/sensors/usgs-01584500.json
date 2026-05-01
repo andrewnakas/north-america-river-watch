@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01584500",
+  "key": "01584500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01584500",
+  "name": "LITTLE GUNPOWDER FALLS AT LAUREL BROOK, MD",
+  "waterbody": "LITTLE GUNPOWDER FALLS AT LAUREL BROOK, MD",
+  "state": "MD",
+  "latitude": 39.50536111,
+  "longitude": -76.43177778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBFM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Gunpowder Falls",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbfm2",
+  "slug": "usgs-01584500",
+  "noaaForecastPath": "data/noaa-forecast/LBFM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

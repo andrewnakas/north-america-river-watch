@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01413398",
+  "key": "01413398",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01413398",
+  "name": "BUSH KILL NEAR ARKVILLE NY",
+  "waterbody": "BUSH KILL NEAR ARKVILLE NY",
+  "state": "NY",
+  "latitude": 42.15069444,
+  "longitude": -74.60138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKAN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bush Kill",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkan6",
+  "slug": "usgs-01413398",
+  "noaaForecastPath": "data/noaa-forecast/BKAN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

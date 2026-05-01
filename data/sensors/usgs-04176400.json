@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04176400",
+  "key": "04176400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04176400",
+  "name": "SALINE RIVER NEAR SALINE, MI",
+  "waterbody": "SALINE RIVER NEAR SALINE, MI",
+  "state": "MI",
+  "latitude": 42.13031915,
+  "longitude": -83.7757737,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SALM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/salm4",
+  "slug": "usgs-04176400",
+  "noaaForecastPath": "data/noaa-forecast/SALM4.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

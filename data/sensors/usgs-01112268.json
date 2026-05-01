@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01112268",
+  "key": "01112268",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01112268",
+  "name": "MILL RIVER AT HARRIS PD OUTLET AT WOONSOCKET RI",
+  "waterbody": "MILL RIVER AT HARRIS PD OUTLET AT WOONSOCKET RI",
+  "state": "RI",
+  "latitude": 42.01593146,
+  "longitude": -71.5072837,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01112268",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01586000",
+  "key": "01586000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01586000",
+  "name": "NORTH BRANCH PATAPSCO RIVER AT CEDARHURST, MD",
+  "waterbody": "NORTH BRANCH PATAPSCO RIVER AT CEDARHURST, MD",
+  "state": "MD",
+  "latitude": 39.503,
+  "longitude": -76.88438889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDHM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Patapsco River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdhm2",
+  "slug": "usgs-01586000",
+  "noaaForecastPath": "data/noaa-forecast/CDHM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

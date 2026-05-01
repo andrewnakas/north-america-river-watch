@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07346080",
+  "key": "07346080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07346080",
+  "name": "Big Cypress Ck abv SH 43 nr Karnack, TX",
+  "waterbody": "Big Cypress Ck abv SH 43 nr Karnack, TX",
+  "state": "TX",
+  "latitude": 32.7386111,
+  "longitude": -94.2325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Cypress Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgkt2",
+  "slug": "usgs-07346080",
+  "noaaForecastPath": "data/noaa-forecast/BGKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

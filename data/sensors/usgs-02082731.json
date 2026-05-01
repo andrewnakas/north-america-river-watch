@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02082731",
+  "key": "02082731",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02082731",
+  "name": "DEVILS CRADLE CREEK AT SR1412 NEAR ALERT, NC",
+  "waterbody": "DEVILS CRADLE CREEK AT SR1412 NEAR ALERT, NC",
+  "state": "NC",
+  "latitude": 36.2009825,
+  "longitude": -78.2383267,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02082731",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

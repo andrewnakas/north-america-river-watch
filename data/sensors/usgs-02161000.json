@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02161000",
+  "key": "02161000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02161000",
+  "name": "BROAD RIVER AT ALSTON, SC",
+  "waterbody": "BROAD RIVER AT ALSTON, SC",
+  "state": "SC",
+  "latitude": 34.24320335,
+  "longitude": -81.319541,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALTS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broad River in NC/SC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alts1",
+  "slug": "usgs-02161000",
+  "noaaForecastPath": "data/noaa-forecast/ALTS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

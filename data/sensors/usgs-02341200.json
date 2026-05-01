@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02341200",
+  "key": "02341200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02341200",
+  "name": "OSSAHATCHEE CREEK NEAR HAMILTON, GA",
+  "waterbody": "OSSAHATCHEE CREEK NEAR HAMILTON, GA",
+  "state": "GA",
+  "latitude": 32.68846848,
+  "longitude": -84.8565972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02341200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

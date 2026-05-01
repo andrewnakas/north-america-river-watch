@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03161000",
+  "key": "03161000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03161000",
+  "name": "SOUTH FORK NEW RIVER NEAR JEFFERSON, NC",
+  "waterbody": "SOUTH FORK NEW RIVER NEAR JEFFERSON, NC",
+  "state": "NC",
+  "latitude": 36.3933333,
+  "longitude": -81.4069444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JFRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork New River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jfrn7",
+  "slug": "usgs-03161000",
+  "noaaForecastPath": "data/noaa-forecast/JFRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

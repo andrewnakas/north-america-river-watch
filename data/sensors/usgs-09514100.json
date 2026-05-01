@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09514100",
+  "key": "09514100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09514100",
+  "name": "GILA RIVER AT ESTRELLA PARKWAY, NEAR GOODYEAR, AZ",
+  "waterbody": "GILA RIVER AT ESTRELLA PARKWAY, NEAR GOODYEAR, AZ",
+  "state": "AZ",
+  "latitude": 33.3875427,
+  "longitude": -112.3923808,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09514100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

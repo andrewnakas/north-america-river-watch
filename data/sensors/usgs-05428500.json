@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05428500",
+  "key": "05428500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05428500",
+  "name": "YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI",
+  "waterbody": "YAHARA RIVER AT EAST MAIN STREET AT MADISON, WI",
+  "state": "WI",
+  "latitude": 43.08944444,
+  "longitude": -89.3608333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDAW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yahara River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdaw3",
+  "slug": "usgs-05428500",
+  "noaaForecastPath": "data/noaa-forecast/MDAW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

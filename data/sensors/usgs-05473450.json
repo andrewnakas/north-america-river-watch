@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05473450",
+  "key": "05473450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05473450",
+  "name": "Big Creek North of Mount Pleasant, IA",
+  "waterbody": "Big Creek North of Mount Pleasant, IA",
+  "state": "IA",
+  "latitude": 41.0069727,
+  "longitude": -91.5515497,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek (IA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbci4",
+  "slug": "usgs-05473450",
+  "noaaForecastPath": "data/noaa-forecast/MBCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

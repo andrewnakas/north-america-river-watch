@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03286200",
+  "key": "03286200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03286200",
+  "name": "DIX RIVER AT DIX DAM NEAR BURGIN, KY",
+  "waterbody": "DIX RIVER AT DIX DAM NEAR BURGIN, KY",
+  "state": "KY",
+  "latitude": 37.7931339,
+  "longitude": -84.7060566,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DIXK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dix River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dixk2",
+  "slug": "usgs-03286200",
+  "noaaForecastPath": "data/noaa-forecast/DIXK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

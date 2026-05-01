@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09146020",
+  "key": "09146020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09146020",
+  "name": "UNCOMPAHGRE RIVER NEAR OURAY, CO",
+  "waterbody": "UNCOMPAHGRE RIVER NEAR OURAY, CO",
+  "state": "CO",
+  "latitude": 38.04332665,
+  "longitude": -107.6831154,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09146020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

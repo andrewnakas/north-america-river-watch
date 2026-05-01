@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03333700",
+  "key": "03333700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03333700",
+  "name": "WILDCAT CREEK AT KOKOMO, IN",
+  "waterbody": "WILDCAT CREEK AT KOKOMO, IN",
+  "state": "IN",
+  "latitude": 40.47516667,
+  "longitude": -86.1600528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKKI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wildcat Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okki3",
+  "slug": "usgs-03333700",
+  "noaaForecastPath": "data/noaa-forecast/OKKI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

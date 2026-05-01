@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11122010",
+  "key": "11122010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11122010",
+  "name": "GIBRALTAR DAM RELEASE WEIR A GIBRALTAR DAM CA",
+  "waterbody": "GIBRALTAR DAM RELEASE WEIR A GIBRALTAR DAM CA",
+  "state": "CA",
+  "latitude": 34.52415139,
+  "longitude": -119.6873223,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11122010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

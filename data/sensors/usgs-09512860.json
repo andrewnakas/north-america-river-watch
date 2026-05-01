@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09512860",
+  "key": "09512860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09512860",
+  "name": "HUMBUG CREEK, NEAR CASTLE HOT SPRINGS, AZ",
+  "waterbody": "HUMBUG CREEK, NEAR CASTLE HOT SPRINGS, AZ",
+  "state": "AZ",
+  "latitude": 33.96725579,
+  "longitude": -112.2934977,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09512860",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

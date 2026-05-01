@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299472",
+  "key": "02299472",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299472",
+  "name": "BIG SLOUGH AT WEST PRICE BLVD NEAR NORTH PORT FL",
+  "waterbody": "BIG SLOUGH AT WEST PRICE BLVD NEAR NORTH PORT FL",
+  "state": "FL",
+  "latitude": 27.06933333,
+  "longitude": -82.2203333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NPRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Slough Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nprf1",
+  "slug": "usgs-02299472",
+  "noaaForecastPath": "data/noaa-forecast/NPRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

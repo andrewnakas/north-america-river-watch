@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12116500",
+  "key": "12116500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12116500",
+  "name": "CEDAR RIVER AT CEDAR FALLS, WA",
+  "waterbody": "CEDAR RIVER AT CEDAR FALLS, WA",
+  "state": "WA",
+  "latitude": 47.4170215,
+  "longitude": -121.7920335,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12116500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

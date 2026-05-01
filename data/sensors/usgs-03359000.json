@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03359000",
+  "key": "03359000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03359000",
+  "name": "MILL CREEK NEAR MANHATTAN, IN",
+  "waterbody": "MILL CREEK NEAR MANHATTAN, IN",
+  "state": "IN",
+  "latitude": 39.487539,
+  "longitude": -86.9247153,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MANI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (IN)",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mani3",
+  "slug": "usgs-03359000",
+  "noaaForecastPath": "data/noaa-forecast/MANI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

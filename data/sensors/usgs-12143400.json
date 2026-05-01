@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12143400",
+  "key": "12143400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12143400",
+  "name": "SF SNOQUALMIE RIVER AB ALICE CREEK NEAR GARCIA, WA",
+  "waterbody": "SF SNOQUALMIE RIVER AB ALICE CREEK NEAR GARCIA, WA",
+  "state": "WA",
+  "latitude": 47.4151086,
+  "longitude": -121.5873213,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GARW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Snoqualmie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/garw1",
+  "slug": "usgs-12143400",
+  "noaaForecastPath": "data/noaa-forecast/GARW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

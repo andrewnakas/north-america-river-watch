@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06278500",
+  "key": "06278500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06278500",
+  "name": "SHELL CREEK NEAR SHELL, WY",
+  "waterbody": "SHELL CREEK NEAR SHELL, WY",
+  "state": "WY",
+  "latitude": 44.56492245,
+  "longitude": -107.712927,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHEW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shell Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shew4",
+  "slug": "usgs-06278500",
+  "noaaForecastPath": "data/noaa-forecast/SHEW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

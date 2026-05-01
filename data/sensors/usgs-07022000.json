@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07022000",
+  "key": "07022000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07022000",
+  "name": "Mississippi River at Thebes, IL",
+  "waterbody": "Mississippi River at Thebes, IL",
+  "state": "IL",
+  "latitude": 37.22025,
+  "longitude": -89.4631667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THBI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thbi2",
+  "slug": "usgs-07022000",
+  "noaaForecastPath": "data/noaa-forecast/THBI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

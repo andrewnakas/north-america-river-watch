@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12424000",
+  "key": "12424000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12424000",
+  "name": "Hangman Creek at Spokane, WA",
+  "waterbody": "Hangman Creek at Spokane, WA",
+  "state": "WA",
+  "latitude": 47.6526688,
+  "longitude": -117.449658,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAGW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hangman/Latah Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hagw1",
+  "slug": "usgs-12424000",
+  "noaaForecastPath": "data/noaa-forecast/HAGW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

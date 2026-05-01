@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02147000",
+  "key": "02147000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02147000",
+  "name": "CATAWBA RIVER NEAR CATAWBA, SC",
+  "waterbody": "CATAWBA RIVER NEAR CATAWBA, SC",
+  "state": "SC",
+  "latitude": 34.8526464,
+  "longitude": -80.8681286,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02147000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

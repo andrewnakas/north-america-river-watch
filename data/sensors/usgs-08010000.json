@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08010000",
+  "key": "08010000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08010000",
+  "name": "Bayou Des Cannes near Eunice, LA",
+  "waterbody": "Bayou Des Cannes near Eunice, LA",
+  "state": "LA",
+  "latitude": 30.48288889,
+  "longitude": -92.4906944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Des Cannes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdcl1",
+  "slug": "usgs-08010000",
+  "noaaForecastPath": "data/noaa-forecast/BDCL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

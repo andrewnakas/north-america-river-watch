@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336910",
+  "key": "02336910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336910",
+  "name": "SWEETWATER CR 0.05 MI US RR BRIDGE AT AUSTELL, GA",
+  "waterbody": "SWEETWATER CR 0.05 MI US RR BRIDGE AT AUSTELL, GA",
+  "state": "GA",
+  "latitude": 33.81777778,
+  "longitude": -84.65,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NATG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/natg1",
+  "slug": "usgs-02336910",
+  "noaaForecastPath": "data/noaa-forecast/NATG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

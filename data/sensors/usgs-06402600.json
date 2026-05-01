@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06402600",
+  "key": "06402600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06402600",
+  "name": "CHEYENNE RIVER NEAR BUFFALO GAP SD",
+  "waterbody": "CHEYENNE RIVER NEAR BUFFALO GAP SD",
+  "state": "SD",
+  "latitude": 43.5019636,
+  "longitude": -103.0744103,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFGS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfgs2",
+  "slug": "usgs-06402600",
+  "noaaForecastPath": "data/noaa-forecast/BFGS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

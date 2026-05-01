@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06364300",
+  "key": "06364300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06364300",
+  "name": "PORCUPINE CREEK NEAR TECKLA, WY",
+  "waterbody": "PORCUPINE CREEK NEAR TECKLA, WY",
+  "state": "WY",
+  "latitude": 43.57802568,
+  "longitude": -105.3391513,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06364300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

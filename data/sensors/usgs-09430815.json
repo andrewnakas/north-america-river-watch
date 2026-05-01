@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09430815",
+  "key": "09430815",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09430815",
+  "name": "UPPER GILA DITCH NEAR GILA, NM",
+  "waterbody": "UPPER GILA DITCH NEAR GILA, NM",
+  "state": "NM",
+  "latitude": 33.02194444,
+  "longitude": -108.5422222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09430815",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

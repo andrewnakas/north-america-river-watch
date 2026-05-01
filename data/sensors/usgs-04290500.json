@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04290500",
+  "key": "04290500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04290500",
+  "name": "WINOOSKI RIVER NEAR ESSEX JUNCTION, VT",
+  "waterbody": "WINOOSKI RIVER NEAR ESSEX JUNCTION, VT",
+  "state": "VT",
+  "latitude": 44.47893867,
+  "longitude": -73.1387381,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESSV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winooski River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/essv1",
+  "slug": "usgs-04290500",
+  "noaaForecastPath": "data/noaa-forecast/ESSV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

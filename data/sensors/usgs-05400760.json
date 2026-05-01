@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05400760",
+  "key": "05400760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05400760",
+  "name": "WISCONSIN RIVER AT WISCONSIN RAPIDS, WI",
+  "waterbody": "WISCONSIN RIVER AT WISCONSIN RAPIDS, WI",
+  "state": "WI",
+  "latitude": 44.3921593,
+  "longitude": -89.8271246,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WIRW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wirw3",
+  "slug": "usgs-05400760",
+  "noaaForecastPath": "data/noaa-forecast/WIRW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15564860",
+  "key": "15564860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15564860",
+  "name": "YUKON R AT GALENA AK",
+  "waterbody": "YUKON R AT GALENA AK",
+  "state": "AK",
+  "latitude": 64.7369001,
+  "longitude": -156.89431429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yukon River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gyra2",
+  "slug": "usgs-15564860",
+  "noaaForecastPath": "data/noaa-forecast/GYRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

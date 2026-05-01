@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05411600",
+  "key": "05411600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05411600",
+  "name": "Turkey River at Spillville, IA",
+  "waterbody": "Turkey River at Spillville, IA",
+  "state": "IA",
+  "latitude": 43.20727778,
+  "longitude": -91.9503333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPLI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spli4",
+  "slug": "usgs-05411600",
+  "noaaForecastPath": "data/noaa-forecast/SPLI4.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

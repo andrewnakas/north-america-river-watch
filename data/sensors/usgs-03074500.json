@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03074500",
+  "key": "03074500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03074500",
+  "name": "Redstone Creek at Waltersburg, PA",
+  "waterbody": "Redstone Creek at Waltersburg, PA",
+  "state": "PA",
+  "latitude": 39.9800758,
+  "longitude": -79.7642085,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redstone Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wltp1",
+  "slug": "usgs-03074500",
+  "noaaForecastPath": "data/noaa-forecast/WLTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

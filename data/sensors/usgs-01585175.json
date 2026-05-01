@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01585175",
+  "key": "01585175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585175",
+  "name": "Unnamed Ditch on Wilson Pt Rd at Middle River, MD",
+  "waterbody": "Unnamed Ditch on Wilson Pt Rd at Middle River, MD",
+  "state": "MD",
+  "latitude": 39.33227778,
+  "longitude": -76.42777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unnamed Tributary",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wprm2",
+  "slug": "usgs-01585175",
+  "noaaForecastPath": "data/noaa-forecast/WPRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

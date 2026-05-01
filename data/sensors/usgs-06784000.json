@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06784000",
+  "key": "06784000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06784000",
+  "name": "South Loup River at Saint Michael, Nebr.",
+  "waterbody": "South Loup River at Saint Michael, Nebr.",
+  "state": "NE",
+  "latitude": 41.032328,
+  "longitude": -98.740456,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMIN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smin1",
+  "slug": "usgs-06784000",
+  "noaaForecastPath": "data/noaa-forecast/SMIN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

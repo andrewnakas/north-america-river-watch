@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06301485",
+  "key": "06301485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06301485",
+  "name": "LOST LAKE CREEK NEAR BIG HORN, WY",
+  "waterbody": "LOST LAKE CREEK NEAR BIG HORN, WY",
+  "state": "WY",
+  "latitude": 44.60357725,
+  "longitude": -107.3242426,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06301485",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

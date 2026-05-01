@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02400350",
+  "key": "02400350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02400350",
+  "name": "COOSA RIVER AT HOKES BLUFF, AL",
+  "waterbody": "COOSA RIVER AT HOKES BLUFF, AL",
+  "state": "AL",
+  "latitude": 34.04013889,
+  "longitude": -85.8668083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02400350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

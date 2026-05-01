@@ -1,0 +1,19 @@
+{
+  "id": "usgs:010965985",
+  "key": "010965985",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "010965985",
+  "name": "MERRIMACK RIVER NR AIKEN STREET BRIDGE, LOWELL, MA",
+  "waterbody": "MERRIMACK RIVER NR AIKEN STREET BRIDGE, LOWELL, MA",
+  "state": "MA",
+  "latitude": 42.65344444,
+  "longitude": -71.31388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-010965985",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

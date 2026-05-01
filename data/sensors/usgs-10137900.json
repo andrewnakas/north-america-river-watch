@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10137900",
+  "key": "10137900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10137900",
+  "name": "SPRING CREEK AT HUNTSVILLE, UTAH",
+  "waterbody": "SPRING CREEK AT HUNTSVILLE, UTAH",
+  "state": "UT",
+  "latitude": 41.2652188,
+  "longitude": -111.766049,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10137900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

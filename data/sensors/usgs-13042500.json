@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13042500",
+  "key": "13042500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13042500",
+  "name": "HENRYS FORK NR ISLAND PARK ID",
+  "waterbody": "HENRYS FORK NR ISLAND PARK ID",
+  "state": "ID",
+  "latitude": 44.41666667,
+  "longitude": -111.3947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ISLI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Henrys Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/isli1",
+  "slug": "usgs-13042500",
+  "noaaForecastPath": "data/noaa-forecast/ISLI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

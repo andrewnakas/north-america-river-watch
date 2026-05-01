@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10316500",
+  "key": "10316500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10316500",
+  "name": "LAMOILLE CK NR LAMOILLE, NV",
+  "waterbody": "LAMOILLE CK NR LAMOILLE, NV",
+  "state": "NV",
+  "latitude": 40.69076057,
+  "longitude": -115.477003,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCLN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lamoille Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcln2",
+  "slug": "usgs-10316500",
+  "noaaForecastPath": "data/noaa-forecast/LCLN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

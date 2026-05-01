@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08154700",
+  "key": "08154700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08154700",
+  "name": "Bull Ck at Loop 360 nr Austin, TX",
+  "waterbody": "Bull Ck at Loop 360 nr Austin, TX",
+  "state": "TX",
+  "latitude": 30.37214825,
+  "longitude": -97.7847301,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bull Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abut2",
+  "slug": "usgs-08154700",
+  "noaaForecastPath": "data/noaa-forecast/ABUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

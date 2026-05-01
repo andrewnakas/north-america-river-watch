@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05551330",
+  "key": "05551330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05551330",
+  "name": "MILL CREEK NEAR BATAVIA, IL",
+  "waterbody": "MILL CREEK NEAR BATAVIA, IL",
+  "state": "IL",
+  "latitude": 41.8458333,
+  "longitude": -88.3491667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmci2",
+  "slug": "usgs-05551330",
+  "noaaForecastPath": "data/noaa-forecast/BMCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146285",
+  "key": "02146285",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146285",
+  "name": "STEWART CREEK AT WEST MOREHEAD ST AT CHARLOTTE, NC",
+  "waterbody": "STEWART CREEK AT WEST MOREHEAD ST AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.2283333,
+  "longitude": -80.8691667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMON7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stewart Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smon7",
+  "slug": "usgs-02146285",
+  "noaaForecastPath": "data/noaa-forecast/SMON7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

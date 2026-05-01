@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09479350",
+  "key": "09479350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09479350",
+  "name": "GILA RIVER NEAR MARICOPA, AZ.",
+  "waterbody": "GILA RIVER NEAR MARICOPA, AZ.",
+  "state": "AZ",
+  "latitude": 33.168661,
+  "longitude": -112.0073648,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRMA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gila River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grma3",
+  "slug": "usgs-09479350",
+  "noaaForecastPath": "data/noaa-forecast/GRMA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

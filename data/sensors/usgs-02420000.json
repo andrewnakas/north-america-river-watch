@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02420000",
+  "key": "02420000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02420000",
+  "name": "ALABAMA RIVER NEAR MONTGOMERY, AL.",
+  "waterbody": "ALABAMA RIVER NEAR MONTGOMERY, AL.",
+  "state": "AL",
+  "latitude": 32.41152597,
+  "longitude": -86.40830579,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02420000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

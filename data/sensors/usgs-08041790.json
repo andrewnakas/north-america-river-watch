@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08041790",
+  "key": "08041790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08041790",
+  "name": "Neches Rv at Beaumont, TX",
+  "waterbody": "Neches Rv at Beaumont, TX",
+  "state": "TX",
+  "latitude": 30.09442778,
+  "longitude": -94.0909417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JYBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neches River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jybt2",
+  "slug": "usgs-08041790",
+  "noaaForecastPath": "data/noaa-forecast/JYBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

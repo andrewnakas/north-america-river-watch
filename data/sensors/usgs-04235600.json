@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04235600",
+  "key": "04235600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04235600",
+  "name": "SENECA RIVER (ERIE CANAL) NEAR PORT BYRON NY",
+  "waterbody": "SENECA RIVER (ERIE CANAL) NEAR PORT BYRON NY",
+  "state": "NY",
+  "latitude": 43.0786111,
+  "longitude": -76.6455556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seneca River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/byrn6",
+  "slug": "usgs-04235600",
+  "noaaForecastPath": "data/noaa-forecast/BYRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

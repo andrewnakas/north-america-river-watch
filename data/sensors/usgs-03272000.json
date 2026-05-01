@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03272000",
+  "key": "03272000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03272000",
+  "name": "Twin Creek near Germantown OH",
+  "waterbody": "Twin Creek near Germantown OH",
+  "state": "OH",
+  "latitude": 39.6378342,
+  "longitude": -84.403834,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GERO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twin Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gero1",
+  "slug": "usgs-03272000",
+  "noaaForecastPath": "data/noaa-forecast/GERO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

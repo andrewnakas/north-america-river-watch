@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13175100",
+  "key": "13175100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13175100",
+  "name": "OWYHEE RV NR MOUNTAIN CITY, NV",
+  "waterbody": "OWYHEE RV NR MOUNTAIN CITY, NV",
+  "state": "NV",
+  "latitude": 41.8604583,
+  "longitude": -115.9892597,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OMCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Owyhee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/omcn2",
+  "slug": "usgs-13175100",
+  "noaaForecastPath": "data/noaa-forecast/OMCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

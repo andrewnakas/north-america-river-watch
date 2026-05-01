@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01021470",
+  "key": "01021470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01021470",
+  "name": "Libby Brook near Northfield, Maine",
+  "waterbody": "Libby Brook near Northfield, Maine",
+  "state": "ME",
+  "latitude": 44.8008333,
+  "longitude": -67.725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LIBM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Libby Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/libm1",
+  "slug": "usgs-01021470",
+  "noaaForecastPath": "data/noaa-forecast/LIBM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

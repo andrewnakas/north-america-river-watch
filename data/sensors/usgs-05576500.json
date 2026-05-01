@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05576500",
+  "key": "05576500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576500",
+  "name": "SANGAMON RIVER AT RIVERTON, IL",
+  "waterbody": "SANGAMON RIVER AT RIVERTON, IL",
+  "state": "IL",
+  "latitude": 39.84312778,
+  "longitude": -89.5474778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVTI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sangamon River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvti2",
+  "slug": "usgs-05576500",
+  "noaaForecastPath": "data/noaa-forecast/RVTI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

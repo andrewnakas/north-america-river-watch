@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10301120",
+  "key": "10301120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301120",
+  "name": "WALKER RV AT MILLER LN NR YERINGTON, NV",
+  "waterbody": "WALKER RV AT MILLER LN NR YERINGTON, NV",
+  "state": "NV",
+  "latitude": 39.04827778,
+  "longitude": -119.1330556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WYWN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walker River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wywn2",
+  "slug": "usgs-10301120",
+  "noaaForecastPath": "data/noaa-forecast/WYWN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

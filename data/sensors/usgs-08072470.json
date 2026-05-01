@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08072470",
+  "key": "08072470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08072470",
+  "name": "Mason Ck at Prince Ck Court nr Houston, TX",
+  "waterbody": "Mason Ck at Prince Ck Court nr Houston, TX",
+  "state": "TX",
+  "latitude": 29.7677295,
+  "longitude": -95.7285594,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08072470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

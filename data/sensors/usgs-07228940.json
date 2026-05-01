@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07228940",
+  "key": "07228940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07228940",
+  "name": "Canadian River near Mustang, OK",
+  "waterbody": "Canadian River near Mustang, OK",
+  "state": "OK",
+  "latitude": 35.32416667,
+  "longitude": -97.7236111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TUCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tuco2",
+  "slug": "usgs-07228940",
+  "noaaForecastPath": "data/noaa-forecast/TUCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

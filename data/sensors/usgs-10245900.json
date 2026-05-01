@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10245900",
+  "key": "10245900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245900",
+  "name": "PINE CK NR BELMONT, NV",
+  "waterbody": "PINE CK NR BELMONT, NV",
+  "state": "NV",
+  "latitude": 38.79437557,
+  "longitude": -116.8545243,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10245900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

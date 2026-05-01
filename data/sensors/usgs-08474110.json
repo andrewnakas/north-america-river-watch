@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08474110",
+  "key": "08474110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08474110",
+  "name": "Cameron Co Ditch 1 at FM 802, Brownsville, TX",
+  "waterbody": "Cameron Co Ditch 1 at FM 802, Brownsville, TX",
+  "state": "TX",
+  "latitude": 25.94083333,
+  "longitude": -97.4256944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08474110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

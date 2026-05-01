@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07375050",
+  "key": "07375050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07375050",
+  "name": "Tchefuncte River near Covington, LA",
+  "waterbody": "Tchefuncte River near Covington, LA",
+  "state": "LA",
+  "latitude": 30.4941111,
+  "longitude": -90.1702222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CUSL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tchefuncte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cusl1",
+  "slug": "usgs-07375050",
+  "noaaForecastPath": "data/noaa-forecast/CUSL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

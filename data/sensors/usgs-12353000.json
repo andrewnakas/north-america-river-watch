@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12353000",
+  "key": "12353000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12353000",
+  "name": "Clark Fork below Missoula MT",
+  "waterbody": "Clark Fork below Missoula MT",
+  "state": "MT",
+  "latitude": 46.8686333,
+  "longitude": -114.1277472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BELM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clark Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/belm8",
+  "slug": "usgs-12353000",
+  "noaaForecastPath": "data/noaa-forecast/BELM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

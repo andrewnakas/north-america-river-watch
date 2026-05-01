@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08271000",
+  "key": "08271000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08271000",
+  "name": "RIO LUCERO NEAR ARROYO SECO, NM",
+  "waterbody": "RIO LUCERO NEAR ARROYO SECO, NM",
+  "state": "NM",
+  "latitude": 36.50828889,
+  "longitude": -105.5309639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08271000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02483890",
+  "key": "02483890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02483890",
+  "name": "YOCKANOOKANY RIVER TRIB NR MCCOOL, MS",
+  "waterbody": "YOCKANOOKANY RIVER TRIB NR MCCOOL, MS",
+  "state": "MS",
+  "latitude": 33.1686111,
+  "longitude": -89.4244444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02483890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07346070",
+  "key": "07346070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07346070",
+  "name": "Little Cypress Bayou nr Jefferson, TX",
+  "waterbody": "Little Cypress Bayou nr Jefferson, TX",
+  "state": "TX",
+  "latitude": 32.71291998,
+  "longitude": -94.3460265,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JFFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cypress Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jfft2",
+  "slug": "usgs-07346070",
+  "noaaForecastPath": "data/noaa-forecast/JFFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

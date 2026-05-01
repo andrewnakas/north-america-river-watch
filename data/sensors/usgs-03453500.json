@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03453500",
+  "key": "03453500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03453500",
+  "name": "FRENCH BROAD RIVER AT MARSHALL, NC",
+  "waterbody": "FRENCH BROAD RIVER AT MARSHALL, NC",
+  "state": "NC",
+  "latitude": 35.78638889,
+  "longitude": -82.6608333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MARN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Broad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/marn7",
+  "slug": "usgs-03453500",
+  "noaaForecastPath": "data/noaa-forecast/MARN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

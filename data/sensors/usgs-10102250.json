@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10102250",
+  "key": "10102250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10102250",
+  "name": "BEAR RIVER NEAR SMITHFIELD, UT",
+  "waterbody": "BEAR RIVER NEAR SMITHFIELD, UT",
+  "state": "UT",
+  "latitude": 41.84000833,
+  "longitude": -111.88158611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10102250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01518420",
+  "key": "01518420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01518420",
+  "name": "Crooked Cr bl Catlin Hollow at Middlebury Center",
+  "waterbody": "Crooked Cr bl Catlin Hollow at Middlebury Center",
+  "state": "PA",
+  "latitude": 41.8425002,
+  "longitude": -77.27328068,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbyp1",
+  "slug": "usgs-01518420",
+  "noaaForecastPath": "data/noaa-forecast/MBYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

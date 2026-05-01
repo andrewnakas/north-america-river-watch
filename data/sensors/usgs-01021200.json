@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01021200",
+  "key": "01021200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01021200",
+  "name": "Dennys River at Dennysville, Maine",
+  "waterbody": "Dennys River at Dennysville, Maine",
+  "state": "ME",
+  "latitude": 44.90138889,
+  "longitude": -67.2475,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01021200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

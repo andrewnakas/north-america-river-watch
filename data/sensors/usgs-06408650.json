@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06408650",
+  "key": "06408650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06408650",
+  "name": "CHEYENNE RIVER NEAR SCENIC, SD",
+  "waterbody": "CHEYENNE RIVER NEAR SCENIC, SD",
+  "state": "SD",
+  "latitude": 43.8980449,
+  "longitude": -102.6440611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scns2",
+  "slug": "usgs-06408650",
+  "noaaForecastPath": "data/noaa-forecast/SCNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

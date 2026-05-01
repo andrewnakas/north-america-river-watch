@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12091300",
+  "key": "12091300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12091300",
+  "name": "LEACH CREEK NEAR STEILACOOM, WA",
+  "waterbody": "LEACH CREEK NEAR STEILACOOM, WA",
+  "state": "WA",
+  "latitude": 47.1981538,
+  "longitude": -122.522625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12091300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

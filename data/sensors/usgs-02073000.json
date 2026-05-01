@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02073000",
+  "key": "02073000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02073000",
+  "name": "SMITH RIVER AT MARTINSVILLE, VA",
+  "waterbody": "SMITH RIVER AT MARTINSVILLE, VA",
+  "state": "VA",
+  "latitude": 36.6612486,
+  "longitude": -79.8805946,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMMV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smmv2",
+  "slug": "usgs-02073000",
+  "noaaForecastPath": "data/noaa-forecast/SMMV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03102500",
+  "key": "03102500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03102500",
+  "name": "Little Shenango River at Greenville, PA",
+  "waterbody": "Little Shenango River at Greenville, PA",
+  "state": "PA",
+  "latitude": 41.42199889,
+  "longitude": -80.376178,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Shenango River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnvp1",
+  "slug": "usgs-03102500",
+  "noaaForecastPath": "data/noaa-forecast/GNVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

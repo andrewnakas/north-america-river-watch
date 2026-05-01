@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12044900",
+  "key": "12044900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12044900",
+  "name": "ELWHA RIVER ABOVE LAKE MILLS NR PORT ANGELES, WA",
+  "waterbody": "ELWHA RIVER ABOVE LAKE MILLS NR PORT ANGELES, WA",
+  "state": "WA",
+  "latitude": 47.970089,
+  "longitude": -123.5907453,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12044900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

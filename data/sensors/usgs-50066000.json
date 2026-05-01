@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50066000",
+  "key": "50066000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50066000",
+  "name": "RIO MAMEYES AT MAMEYES, PR",
+  "waterbody": "RIO MAMEYES AT MAMEYES, PR",
+  "state": "PR",
+  "latitude": 18.37217253,
+  "longitude": -65.7634963,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50066000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14330000",
+  "key": "14330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14330000",
+  "name": "ROGUE RIVER BELOW PROSPECT, OR",
+  "waterbody": "ROGUE RIVER BELOW PROSPECT, OR",
+  "state": "OR",
+  "latitude": 42.72957187,
+  "longitude": -122.516147,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14330000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04026450",
+  "key": "04026450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04026450",
+  "name": "BAD RIVER NEAR MELLEN, WI",
+  "waterbody": "BAD RIVER NEAR MELLEN, WI",
+  "state": "WI",
+  "latitude": 46.27055556,
+  "longitude": -90.7072222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04026450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

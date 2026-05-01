@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07241800",
+  "key": "07241800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07241800",
+  "name": "North Canadian River at Shawnee, OK",
+  "waterbody": "North Canadian River at Shawnee, OK",
+  "state": "OK",
+  "latitude": 35.33312675,
+  "longitude": -96.8694661,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snco2",
+  "slug": "usgs-07241800",
+  "noaaForecastPath": "data/noaa-forecast/SNCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214297160",
+  "key": "0214297160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214297160",
+  "name": "BEAVERDAM CREEK AB WINDY GAP ROAD NR SHOPTON, NC",
+  "waterbody": "BEAVERDAM CREEK AB WINDY GAP ROAD NR SHOPTON, NC",
+  "state": "NC",
+  "latitude": 35.1697222,
+  "longitude": -80.9877778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaverdam Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvrn7",
+  "slug": "usgs-0214297160",
+  "noaaForecastPath": "data/noaa-forecast/BVRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

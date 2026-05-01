@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07312700",
+  "key": "07312700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07312700",
+  "name": "Wichita Rv nr Charlie, TX",
+  "waterbody": "Wichita Rv nr Charlie, TX",
+  "state": "TX",
+  "latitude": 34.0531504,
+  "longitude": -98.2967139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chwt2",
+  "slug": "usgs-07312700",
+  "noaaForecastPath": "data/noaa-forecast/CHWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

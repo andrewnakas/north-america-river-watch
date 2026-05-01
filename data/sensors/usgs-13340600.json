@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13340600",
+  "key": "13340600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13340600",
+  "name": "NF CLEARWATER RIVER NR CANYON RANGER STATION ID",
+  "waterbody": "NF CLEARWATER RIVER NR CANYON RANGER STATION ID",
+  "state": "ID",
+  "latitude": 46.84055556,
+  "longitude": -115.621111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13340600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

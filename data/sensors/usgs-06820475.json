@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06820475",
+  "key": "06820475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06820475",
+  "name": "Missouri River at Leavenworth, KS",
+  "waterbody": "Missouri River at Leavenworth, KS",
+  "state": "KS",
+  "latitude": 39.3269722,
+  "longitude": -94.9095,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEVK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/levk1",
+  "slug": "usgs-06820475",
+  "noaaForecastPath": "data/noaa-forecast/LEVK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

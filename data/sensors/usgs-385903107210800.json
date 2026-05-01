@@ -1,0 +1,22 @@
+{
+  "id": "usgs:385903107210800",
+  "key": "385903107210800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "385903107210800",
+  "name": "MUDDY CREEK ABOVE PAONIA RESERVOIR, CO",
+  "waterbody": "MUDDY CREEK ABOVE PAONIA RESERVOIR, CO",
+  "state": "CO",
+  "latitude": 38.9883611,
+  "longitude": -107.3484889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mccc2",
+  "slug": "usgs-385903107210800",
+  "noaaForecastPath": "data/noaa-forecast/MCCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

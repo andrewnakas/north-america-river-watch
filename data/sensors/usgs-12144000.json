@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12144000",
+  "key": "12144000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12144000",
+  "name": "SF SNOQUALMIE RIVER AT NORTH BEND, WA",
+  "waterbody": "SF SNOQUALMIE RIVER AT NORTH BEND, WA",
+  "state": "WA",
+  "latitude": 47.49288017,
+  "longitude": -121.7901109,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12144000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08401900",
+  "key": "08401900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08401900",
+  "name": "ROCKY ARROYO AT HWY BRD NR CARLSBAD, NM",
+  "waterbody": "ROCKY ARROYO AT HWY BRD NR CARLSBAD, NM",
+  "state": "NM",
+  "latitude": 32.50608056,
+  "longitude": -104.3749889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRBN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky Arroyo 7 miles S of Lakewood",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crbn5",
+  "slug": "usgs-08401900",
+  "noaaForecastPath": "data/noaa-forecast/CRBN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

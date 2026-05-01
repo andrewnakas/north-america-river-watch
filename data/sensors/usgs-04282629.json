@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04282629",
+  "key": "04282629",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282629",
+  "name": "LITTLE OTTER CK AT MONKTON RD, NR FERRISBURGH, VT",
+  "waterbody": "LITTLE OTTER CK AT MONKTON RD, NR FERRISBURGH, VT",
+  "state": "VT",
+  "latitude": 44.185725,
+  "longitude": -73.1848694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKTV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Otter Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mktv1",
+  "slug": "usgs-04282629",
+  "noaaForecastPath": "data/noaa-forecast/MKTV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

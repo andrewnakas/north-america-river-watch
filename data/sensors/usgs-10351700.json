@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10351700",
+  "key": "10351700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10351700",
+  "name": "TRUCKEE RV NR NIXON, NV",
+  "waterbody": "TRUCKEE RV NR NIXON, NV",
+  "state": "NV",
+  "latitude": 39.7773722,
+  "longitude": -119.3375222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NIXN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nixn2",
+  "slug": "usgs-10351700",
+  "noaaForecastPath": "data/noaa-forecast/NIXN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

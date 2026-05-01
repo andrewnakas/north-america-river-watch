@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146614",
+  "key": "02146614",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146614",
+  "name": "MCALPINE CR AT COLONY RD NEAR OLDE PROVIDENCE, NC",
+  "waterbody": "MCALPINE CR AT COLONY RD NEAR OLDE PROVIDENCE, NC",
+  "state": "NC",
+  "latitude": 35.1183333,
+  "longitude": -80.8066667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "McAlpine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mccn7",
+  "slug": "usgs-02146614",
+  "noaaForecastPath": "data/noaa-forecast/MCCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

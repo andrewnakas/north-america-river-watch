@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09349800",
+  "key": "09349800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09349800",
+  "name": "PIEDRA RIVER NEAR ARBOLES, CO.",
+  "waterbody": "PIEDRA RIVER NEAR ARBOLES, CO.",
+  "state": "CO",
+  "latitude": 37.08834204,
+  "longitude": -107.3978428,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIDC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piedra River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pidc2",
+  "slug": "usgs-09349800",
+  "noaaForecastPath": "data/noaa-forecast/PIDC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

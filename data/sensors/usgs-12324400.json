@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12324400",
+  "key": "12324400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12324400",
+  "name": "Clark Fork ab Little Blackfoot R nr Garrison MT",
+  "waterbody": "Clark Fork ab Little Blackfoot R nr Garrison MT",
+  "state": "MT",
+  "latitude": 46.5109111,
+  "longitude": -112.789686,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12324400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04212100",
+  "key": "04212100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04212100",
+  "name": "Grand River near Painesville OH",
+  "waterbody": "Grand River near Painesville OH",
+  "state": "OH",
+  "latitude": 41.7189339,
+  "longitude": -81.2278789,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNVO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnvo1",
+  "slug": "usgs-04212100",
+  "noaaForecastPath": "data/noaa-forecast/PNVO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16283200",
+  "key": "16283200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16283200",
+  "name": "Kahaluu Str nr Ahuimanu, Oahu, HI",
+  "waterbody": "Kahaluu Str nr Ahuimanu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.43872222,
+  "longitude": -157.843861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KUSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kahaluu Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kush1",
+  "slug": "usgs-16283200",
+  "noaaForecastPath": "data/noaa-forecast/KUSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

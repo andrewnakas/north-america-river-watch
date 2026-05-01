@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10333000",
+  "key": "10333000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10333000",
+  "name": "HUMBOLDT RV NR IMLAY, NV",
+  "waterbody": "HUMBOLDT RV NR IMLAY, NV",
+  "state": "NV",
+  "latitude": 40.6924048,
+  "longitude": -118.204312,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRIN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humboldt River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrin2",
+  "slug": "usgs-10333000",
+  "noaaForecastPath": "data/noaa-forecast/HRIN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08172000",
+  "key": "08172000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08172000",
+  "name": "San Marcos Rv at Luling, TX",
+  "waterbody": "San Marcos Rv at Luling, TX",
+  "state": "TX",
+  "latitude": 29.66633885,
+  "longitude": -97.6508561,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Marcos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llgt2",
+  "slug": "usgs-08172000",
+  "noaaForecastPath": "data/noaa-forecast/LLGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

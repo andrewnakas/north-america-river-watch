@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06167500",
+  "key": "06167500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06167500",
+  "name": "Beaver Creek near Hinsdale MT",
+  "waterbody": "Beaver Creek near Hinsdale MT",
+  "state": "MT",
+  "latitude": 48.4203111,
+  "longitude": -107.1711389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCHM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (MT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bchm8",
+  "slug": "usgs-06167500",
+  "noaaForecastPath": "data/noaa-forecast/BCHM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

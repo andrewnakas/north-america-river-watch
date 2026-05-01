@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02061000",
+  "key": "02061000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02061000",
+  "name": "BIG OTTER RIVER NEAR BEDFORD, VA",
+  "waterbody": "BIG OTTER RIVER NEAR BEDFORD, VA",
+  "state": "VA",
+  "latitude": 37.36403026,
+  "longitude": -79.41919689,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02061000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

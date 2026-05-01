@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14335072",
+  "key": "14335072",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14335072",
+  "name": "ROGUE R AT COLE M RIVERS F HATCHERY NR MCLEOD, OR",
+  "waterbody": "ROGUE R AT COLE M RIVERS F HATCHERY NR MCLEOD, OR",
+  "state": "OR",
+  "latitude": 42.6658333,
+  "longitude": -122.6863889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rogue River  Lost Creek Lake",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/loso3",
+  "slug": "usgs-14335072",
+  "noaaForecastPath": "data/noaa-forecast/LOSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

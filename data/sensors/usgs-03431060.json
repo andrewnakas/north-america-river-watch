@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03431060",
+  "key": "03431060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431060",
+  "name": "MILL CREEK AT THOMPSON LANE, NEAR WOODBINE, TN",
+  "waterbody": "MILL CREEK AT THOMPSON LANE, NEAR WOODBINE, TN",
+  "state": "TN",
+  "latitude": 36.11757476,
+  "longitude": -86.7190478,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBNT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbnt1",
+  "slug": "usgs-03431060",
+  "noaaForecastPath": "data/noaa-forecast/WBNT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

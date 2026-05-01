@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14365400",
+  "key": "14365400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14365400",
+  "name": "LITTLE APPLEGATE RIVER NEAR BUNCOM, OR",
+  "waterbody": "LITTLE APPLEGATE RIVER NEAR BUNCOM, OR",
+  "state": "OR",
+  "latitude": 42.1781813,
+  "longitude": -123.0030974,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14365400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

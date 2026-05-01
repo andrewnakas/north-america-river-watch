@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12147470",
+  "key": "12147470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12147470",
+  "name": "NF TOLT RIVER ABOVE YELLOW CREEK NR CARNATION, WA",
+  "waterbody": "NF TOLT RIVER ABOVE YELLOW CREEK NR CARNATION, WA",
+  "state": "WA",
+  "latitude": 47.7197222,
+  "longitude": -121.7431972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12147470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03184500",
+  "key": "03184500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03184500",
+  "name": "NEW RIVER AT HINTON, WV",
+  "waterbody": "NEW RIVER AT HINTON, WV",
+  "state": "WV",
+  "latitude": 37.6703969,
+  "longitude": -80.8925874,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HINW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hinw2",
+  "slug": "usgs-03184500",
+  "noaaForecastPath": "data/noaa-forecast/HINW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

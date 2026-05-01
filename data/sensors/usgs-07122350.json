@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07122350",
+  "key": "07122350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07122350",
+  "name": "FORT LYON CANAL NEAR BIG BEND, CO",
+  "waterbody": "FORT LYON CANAL NEAR BIG BEND, CO",
+  "state": "CO",
+  "latitude": 38.25806304,
+  "longitude": -102.7788079,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07122350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

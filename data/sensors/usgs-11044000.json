@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11044000",
+  "key": "11044000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11044000",
+  "name": "SANTA MARGARITA R NR TEMECULA CA",
+  "waterbody": "SANTA MARGARITA R NR TEMECULA CA",
+  "state": "CA",
+  "latitude": 33.4739175,
+  "longitude": -117.1422536,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMHC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Margarita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smhc1",
+  "slug": "usgs-11044000",
+  "noaaForecastPath": "data/noaa-forecast/SMHC1.json",
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

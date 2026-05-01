@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01029500",
+  "key": "01029500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01029500",
+  "name": "East Branch Penobscot River at Grindstone, Maine",
+  "waterbody": "East Branch Penobscot River at Grindstone, Maine",
+  "state": "ME",
+  "latitude": 45.73027778,
+  "longitude": -68.5894444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRNM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Penobscot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grnm1",
+  "slug": "usgs-01029500",
+  "noaaForecastPath": "data/noaa-forecast/GRNM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

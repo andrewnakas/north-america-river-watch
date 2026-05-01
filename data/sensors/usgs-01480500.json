@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01480500",
+  "key": "01480500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480500",
+  "name": "West Branch Brandywine Creek at Coatesville, PA",
+  "waterbody": "West Branch Brandywine Creek at Coatesville, PA",
+  "state": "PA",
+  "latitude": 39.98566144,
+  "longitude": -75.8274467,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Brandywine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cotp1",
+  "slug": "usgs-01480500",
+  "noaaForecastPath": "data/noaa-forecast/COTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

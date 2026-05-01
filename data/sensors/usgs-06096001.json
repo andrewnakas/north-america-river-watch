@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06096001",
+  "key": "06096001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06096001",
+  "name": "Birch Cr Main Canal at diversion, nr Dupuyer, MT",
+  "waterbody": "Birch Cr Main Canal at diversion, nr Dupuyer, MT",
+  "state": "MT",
+  "latitude": 48.25175,
+  "longitude": -112.6254444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06096001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

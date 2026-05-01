@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09378700",
+  "key": "09378700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09378700",
+  "name": "COTTONWOOD WASH NR BLANDING UTAH",
+  "waterbody": "COTTONWOOD WASH NR BLANDING UTAH",
+  "state": "UT",
+  "latitude": 37.5605543,
+  "longitude": -109.5787353,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09378700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

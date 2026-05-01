@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893000",
+  "key": "06893000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893000",
+  "name": "Missouri River at Kansas City, MO",
+  "waterbody": "Missouri River at Kansas City, MO",
+  "state": "MO",
+  "latitude": 39.1117222,
+  "longitude": -94.5881389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcdm7",
+  "slug": "usgs-06893000",
+  "noaaForecastPath": "data/noaa-forecast/KCDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

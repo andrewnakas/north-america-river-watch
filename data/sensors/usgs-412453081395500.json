@@ -1,0 +1,22 @@
+{
+  "id": "usgs:412453081395500",
+  "key": "412453081395500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412453081395500",
+  "name": "West Creek at Brooklyn Heights OH",
+  "waterbody": "West Creek at Brooklyn Heights OH",
+  "state": "OH",
+  "latitude": 41.4147222,
+  "longitude": -81.6652778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRCO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brco1",
+  "slug": "usgs-412453081395500",
+  "noaaForecastPath": "data/noaa-forecast/BRCO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

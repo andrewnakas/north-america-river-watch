@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50063800",
+  "key": "50063800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50063800",
+  "name": "RIO ESPIRITU SANTO NR RIO GRANDE, PR",
+  "waterbody": "RIO ESPIRITU SANTO NR RIO GRANDE, PR",
+  "state": "PR",
+  "latitude": 18.359908,
+  "longitude": -65.814,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VEDP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Espiritu Santo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vedp4",
+  "slug": "usgs-50063800",
+  "noaaForecastPath": "data/noaa-forecast/VEDP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

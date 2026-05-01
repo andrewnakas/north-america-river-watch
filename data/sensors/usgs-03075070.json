@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03075070",
+  "key": "03075070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03075070",
+  "name": "Monongahela River at Elizabeth, PA",
+  "waterbody": "Monongahela River at Elizabeth, PA",
+  "state": "PA",
+  "latitude": 40.26224454,
+  "longitude": -79.9011517,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELZP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monongahela River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elzp1",
+  "slug": "usgs-03075070",
+  "noaaForecastPath": "data/noaa-forecast/ELZP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

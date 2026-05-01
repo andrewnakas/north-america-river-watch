@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07175500",
+  "key": "07175500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07175500",
+  "name": "Caney River near Ramona, OK",
+  "waterbody": "Caney River near Ramona, OK",
+  "state": "OK",
+  "latitude": 36.5089816,
+  "longitude": -95.8419306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RAMO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Caney River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ramo2",
+  "slug": "usgs-07175500",
+  "noaaForecastPath": "data/noaa-forecast/RAMO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

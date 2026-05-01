@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251275",
+  "key": "10251275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251275",
+  "name": "CARSON SLOUGH AT ASH MEADOWS, NV",
+  "waterbody": "CARSON SLOUGH AT ASH MEADOWS, NV",
+  "state": "NV",
+  "latitude": 36.4252331,
+  "longitude": -116.364487,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251275",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

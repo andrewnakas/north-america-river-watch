@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05392083",
+  "key": "05392083",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05392083",
+  "name": "LINK CR(MINOCQUA THOROUGHFARE)@ STH 47 NR WOODRUFF",
+  "waterbody": "LINK CR(MINOCQUA THOROUGHFARE)@ STH 47 NR WOODRUFF",
+  "state": "WI",
+  "latitude": 45.87384176,
+  "longitude": -89.6643125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05392083",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

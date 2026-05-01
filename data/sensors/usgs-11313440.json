@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11313440",
+  "key": "11313440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11313440",
+  "name": "FALSE R NR OAKLEY CA",
+  "waterbody": "FALSE R NR OAKLEY CA",
+  "state": "CA",
+  "latitude": 38.0558333,
+  "longitude": -121.6669444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLQC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "False River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flqc1",
+  "slug": "usgs-11313440",
+  "noaaForecastPath": "data/noaa-forecast/FLQC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50043950",
+  "key": "50043950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50043950",
+  "name": "RIO ARROYATA AT HWY 7774 NR CIDRA, PR",
+  "waterbody": "RIO ARROYATA AT HWY 7774 NR CIDRA, PR",
+  "state": "PR",
+  "latitude": 18.19912374,
+  "longitude": -66.20905639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50043950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

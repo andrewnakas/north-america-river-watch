@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105880",
+  "key": "01105880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105880",
+  "name": "HERRING RIVER AT NORTH HARWICH, MA",
+  "waterbody": "HERRING RIVER AT NORTH HARWICH, MA",
+  "state": "MA",
+  "latitude": 41.70011074,
+  "longitude": -70.1069625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRWM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Herring River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrwm3",
+  "slug": "usgs-01105880",
+  "noaaForecastPath": "data/noaa-forecast/HRWM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

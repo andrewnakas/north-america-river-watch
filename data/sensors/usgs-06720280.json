@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06720280",
+  "key": "06720280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06720280",
+  "name": "PEORIA INTERCEPT BL 56TH AV, AT ROCKY MTN ARS, CO",
+  "waterbody": "PEORIA INTERCEPT BL 56TH AV, AT ROCKY MTN ARS, CO",
+  "state": "CO",
+  "latitude": 39.79887546,
+  "longitude": -104.8616424,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06720280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

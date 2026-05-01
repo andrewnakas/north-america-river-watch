@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01315000",
+  "key": "01315000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01315000",
+  "name": "INDIAN RIVER NEAR INDIAN LAKE NY",
+  "waterbody": "INDIAN RIVER NEAR INDIAN LAKE NY",
+  "state": "NY",
+  "latitude": 43.7565,
+  "longitude": -74.2670556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "INRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/inrn6",
+  "slug": "usgs-01315000",
+  "noaaForecastPath": "data/noaa-forecast/INRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

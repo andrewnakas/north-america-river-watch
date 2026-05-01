@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13290190",
+  "key": "13290190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13290190",
+  "name": "PINE CREEK NR OXBOW OR",
+  "waterbody": "PINE CREEK NR OXBOW OR",
+  "state": "OR",
+  "latitude": 44.9525,
+  "longitude": -116.8741667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCOO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Creek (East Oregon)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcoo3",
+  "slug": "usgs-13290190",
+  "noaaForecastPath": "data/noaa-forecast/PCOO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

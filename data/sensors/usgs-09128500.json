@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09128500",
+  "key": "09128500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09128500",
+  "name": "SMITH FORK NEAR CRAWFORD, CO.",
+  "waterbody": "SMITH FORK NEAR CRAWFORD, CO.",
+  "state": "CO",
+  "latitude": 38.72776785,
+  "longitude": -107.5067234,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09128500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

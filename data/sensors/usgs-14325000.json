@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14325000",
+  "key": "14325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14325000",
+  "name": "SOUTH FORK COQUILLE RIVER AT POWERS, OR",
+  "waterbody": "SOUTH FORK COQUILLE RIVER AT POWERS, OR",
+  "state": "OR",
+  "latitude": 42.89149904,
+  "longitude": -124.070652,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POWO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fk Coquille River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/powo3",
+  "slug": "usgs-14325000",
+  "noaaForecastPath": "data/noaa-forecast/POWO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02304510",
+  "key": "02304510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02304510",
+  "name": "HILLSBOROUGH RIVER AT ROWLETT PK DR NEAR TAMPA FL",
+  "waterbody": "HILLSBOROUGH RIVER AT ROWLETT PK DR NEAR TAMPA FL",
+  "state": "FL",
+  "latitude": 28.02200556,
+  "longitude": -82.43504167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hillsborough River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlrf1",
+  "slug": "usgs-02304510",
+  "noaaForecastPath": "data/noaa-forecast/HLRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

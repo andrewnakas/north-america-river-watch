@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01567500",
+  "key": "01567500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01567500",
+  "name": "Bixler Run near Loysville, PA",
+  "waterbody": "Bixler Run near Loysville, PA",
+  "state": "PA",
+  "latitude": 40.37091615,
+  "longitude": -77.402209,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bixler Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lyvp1",
+  "slug": "usgs-01567500",
+  "noaaForecastPath": "data/noaa-forecast/LYVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

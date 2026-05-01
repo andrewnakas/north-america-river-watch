@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12193400",
+  "key": "12193400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12193400",
+  "name": "BAKER RIVER AT HENRY THOMPSON BR AT CONCRETE, WA",
+  "waterbody": "BAKER RIVER AT HENRY THOMPSON BR AT CONCRETE, WA",
+  "state": "WA",
+  "latitude": 48.54039255,
+  "longitude": -121.7434734,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHAW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Baker River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shaw1",
+  "slug": "usgs-12193400",
+  "noaaForecastPath": "data/noaa-forecast/SHAW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

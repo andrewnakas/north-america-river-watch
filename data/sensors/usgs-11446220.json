@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11446220",
+  "key": "11446220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11446220",
+  "name": "AMERICAN R BL FOLSOM DAM NR FOLSOM CA",
+  "waterbody": "AMERICAN R BL FOLSOM DAM NR FOLSOM CA",
+  "state": "CA",
+  "latitude": 38.70452778,
+  "longitude": -121.164361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11446220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

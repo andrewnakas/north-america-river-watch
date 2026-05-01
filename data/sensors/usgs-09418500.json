@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09418500",
+  "key": "09418500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09418500",
+  "name": "MEADOW VALLEY WASH NR CALIENTE, NV",
+  "waterbody": "MEADOW VALLEY WASH NR CALIENTE, NV",
+  "state": "NV",
+  "latitude": 37.55837778,
+  "longitude": -114.5630556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVYN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meadow Valley Wash",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mvyn2",
+  "slug": "usgs-09418500",
+  "noaaForecastPath": "data/noaa-forecast/MVYN2.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

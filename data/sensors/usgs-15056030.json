@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15056030",
+  "key": "15056030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15056030",
+  "name": "KAKUHAN C NR HAINES AK",
+  "waterbody": "KAKUHAN C NR HAINES AK",
+  "state": "AK",
+  "latitude": 59.00514251,
+  "longitude": -135.18580253,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KKHA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kakuhan Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kkha2",
+  "slug": "usgs-15056030",
+  "noaaForecastPath": "data/noaa-forecast/KKHA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

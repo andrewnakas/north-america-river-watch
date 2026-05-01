@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02055379",
+  "key": "02055379",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02055379",
+  "name": "TINKER CREEK UPPER AT COLUMBIA ST AT ROANOKE, VA",
+  "waterbody": "TINKER CREEK UPPER AT COLUMBIA ST AT ROANOKE, VA",
+  "state": "VA",
+  "latitude": 37.314056,
+  "longitude": -79.932444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02055379",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

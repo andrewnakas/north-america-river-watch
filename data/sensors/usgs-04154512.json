@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04154512",
+  "key": "04154512",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04154512",
+  "name": "CHIPPEWA RIVER AT S HOMER RD NR MIDLAND",
+  "waterbody": "CHIPPEWA RIVER AT S HOMER RD NR MIDLAND",
+  "state": "MI",
+  "latitude": 43.6011083,
+  "longitude": -84.3305472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcrm4",
+  "slug": "usgs-04154512",
+  "noaaForecastPath": "data/noaa-forecast/MCRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

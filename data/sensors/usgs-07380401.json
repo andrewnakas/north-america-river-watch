@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380401",
+  "key": "07380401",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380401",
+  "name": "Bayou Lafourche SW of Donaldsonville, LA",
+  "waterbody": "Bayou Lafourche SW of Donaldsonville, LA",
+  "state": "LA",
+  "latitude": 30.09658793,
+  "longitude": -91.0059332,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFFL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Lafourche",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bffl1",
+  "slug": "usgs-07380401",
+  "noaaForecastPath": "data/noaa-forecast/BFFL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

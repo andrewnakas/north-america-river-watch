@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13215000",
+  "key": "13215000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13215000",
+  "name": "MALHEUR RIVER BEL WARMSPRINGS RES NR RIVERSIDE OR",
+  "waterbody": "MALHEUR RIVER BEL WARMSPRINGS RES NR RIVERSIDE OR",
+  "state": "OR",
+  "latitude": 43.57444444,
+  "longitude": -118.2097222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Southeast Oregon Reservoirs",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrmo3",
+  "slug": "usgs-13215000",
+  "noaaForecastPath": "data/noaa-forecast/WRMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

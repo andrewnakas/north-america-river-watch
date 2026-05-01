@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02321975",
+  "key": "02321975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02321975",
+  "name": "SANTA FE RIVER AT US HWY 441 NEAR HIGH SPRINGS,FL.",
+  "waterbody": "SANTA FE RIVER AT US HWY 441 NEAR HIGH SPRINGS,FL.",
+  "state": "FL",
+  "latitude": 29.8525,
+  "longitude": -82.608611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HSPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Fe River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hspf1",
+  "slug": "usgs-02321975",
+  "noaaForecastPath": "data/noaa-forecast/HSPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

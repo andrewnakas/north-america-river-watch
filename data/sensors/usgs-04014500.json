@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04014500",
+  "key": "04014500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04014500",
+  "name": "BAPTISM RIVER NEAR BEAVER BAY, MN",
+  "waterbody": "BAPTISM RIVER NEAR BEAVER BAY, MN",
+  "state": "MN",
+  "latitude": 47.33741728,
+  "longitude": -91.2007189,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Baptism River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bapm5",
+  "slug": "usgs-04014500",
+  "noaaForecastPath": "data/noaa-forecast/BAPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10348520",
+  "key": "10348520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348520",
+  "name": "OPHIR CK NR STEAMBOAT, NV",
+  "waterbody": "OPHIR CK NR STEAMBOAT, NV",
+  "state": "NV",
+  "latitude": 39.29082778,
+  "longitude": -119.8309167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OPCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ophir Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/opcn2",
+  "slug": "usgs-10348520",
+  "noaaForecastPath": "data/noaa-forecast/OPCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

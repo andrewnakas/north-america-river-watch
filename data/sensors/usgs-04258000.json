@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04258000",
+  "key": "04258000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04258000",
+  "name": "BEAVER RIVER AT CROGHAN NY",
+  "waterbody": "BEAVER RIVER AT CROGHAN NY",
+  "state": "NY",
+  "latitude": 43.89716667,
+  "longitude": -75.40427778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CGHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver River (NY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cghn6",
+  "slug": "usgs-04258000",
+  "noaaForecastPath": "data/noaa-forecast/CGHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

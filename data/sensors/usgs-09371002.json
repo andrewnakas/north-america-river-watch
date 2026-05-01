@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09371002",
+  "key": "09371002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09371002",
+  "name": "NAVAJO WASH NEAR TOWAOC, CO",
+  "waterbody": "NAVAJO WASH NEAR TOWAOC, CO",
+  "state": "CO",
+  "latitude": 37.2008278,
+  "longitude": -108.6978737,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09371002",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

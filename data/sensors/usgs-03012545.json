@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03012545",
+  "key": "03012545",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03012545",
+  "name": "Allegheny River below Kinzua Dam at Big Bend, PA",
+  "waterbody": "Allegheny River below Kinzua Dam at Big Bend, PA",
+  "state": "PA",
+  "latitude": 41.8386722,
+  "longitude": -79.004925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNZP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Central PA Dams  Kinzua Dam on Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knzp1",
+  "slug": "usgs-03012545",
+  "noaaForecastPath": "data/noaa-forecast/KNZP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

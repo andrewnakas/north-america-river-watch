@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09061600",
+  "key": "09061600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09061600",
+  "name": "EAST FORK EAGLE RIVER NEAR CLIMAX, CO",
+  "waterbody": "EAST FORK EAGLE RIVER NEAR CLIMAX, CO",
+  "state": "CO",
+  "latitude": 39.410278,
+  "longitude": -106.249167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09061600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

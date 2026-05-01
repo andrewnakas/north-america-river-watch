@@ -1,0 +1,19 @@
+{
+  "id": "usgs:034991109",
+  "key": "034991109",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "034991109",
+  "name": "STOCK CREEK AT MARTIN MILL RD NR KNOXVILLE",
+  "waterbody": "STOCK CREEK AT MARTIN MILL RD NR KNOXVILLE",
+  "state": "TN",
+  "latitude": 35.87819444,
+  "longitude": -83.89575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-034991109",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

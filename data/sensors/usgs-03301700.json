@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03301700",
+  "key": "03301700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03301700",
+  "name": "MILL CREEK NEAR FORT KNOX, KY",
+  "waterbody": "MILL CREEK NEAR FORT KNOX, KY",
+  "state": "KY",
+  "latitude": 37.88340164,
+  "longitude": -85.9144071,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03301700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02097280",
+  "key": "02097280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02097280",
+  "name": "THIRD FORK CR AT WOODCROFT PARKWAY NR BLANDS, NC",
+  "waterbody": "THIRD FORK CR AT WOODCROFT PARKWAY NR BLANDS, NC",
+  "state": "NC",
+  "latitude": 35.92263889,
+  "longitude": -78.9524167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TFRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Third Fork Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tfrn7",
+  "slug": "usgs-02097280",
+  "noaaForecastPath": "data/noaa-forecast/TFRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

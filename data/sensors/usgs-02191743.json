@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02191743",
+  "key": "02191743",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02191743",
+  "name": "SOUTH FORK BROAD RIVER AT CARLTON, GA",
+  "waterbody": "SOUTH FORK BROAD RIVER AT CARLTON, GA",
+  "state": "GA",
+  "latitude": 34.03150107,
+  "longitude": -83.0090326,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAOG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Broad River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/caog1",
+  "slug": "usgs-02191743",
+  "noaaForecastPath": "data/noaa-forecast/CAOG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

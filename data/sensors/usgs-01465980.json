@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465980",
+  "key": "01465980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465980",
+  "name": "NB Rancocas C at New Lisbon NJ",
+  "waterbody": "NB Rancocas C at New Lisbon NJ",
+  "state": "NJ",
+  "latitude": 39.96027778,
+  "longitude": -74.6291667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

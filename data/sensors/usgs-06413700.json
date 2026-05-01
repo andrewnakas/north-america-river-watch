@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06413700",
+  "key": "06413700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06413700",
+  "name": "RAPID CR AB WATER TREAT PLANT AT RAPID CITY SD",
+  "waterbody": "RAPID CR AB WATER TREAT PLANT AT RAPID CITY SD",
+  "state": "SD",
+  "latitude": 44.07471,
+  "longitude": -103.2599046,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06413700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

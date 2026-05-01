@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09041400",
+  "key": "09041400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09041400",
+  "name": "MUDDY CRK BLW WOLFORD MTN RESER. NR KREMMLING, CO",
+  "waterbody": "MUDDY CRK BLW WOLFORD MTN RESER. NR KREMMLING, CO",
+  "state": "CO",
+  "latitude": 40.108611,
+  "longitude": -106.413333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBWC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek (NC CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbwc2",
+  "slug": "usgs-09041400",
+  "noaaForecastPath": "data/noaa-forecast/MBWC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

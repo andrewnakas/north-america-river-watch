@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04073468",
+  "key": "04073468",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04073468",
+  "name": "GREEN LAKE INLET AT CT HIGHWAY A NR GREEN LAKE, WI",
+  "waterbody": "GREEN LAKE INLET AT CT HIGHWAY A NR GREEN LAKE, WI",
+  "state": "WI",
+  "latitude": 43.82444444,
+  "longitude": -88.9266667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04073468",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02147126",
+  "key": "02147126",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02147126",
+  "name": "WAXHAW CREEK AT SR1103 NEAR JACKSON, NC",
+  "waterbody": "WAXHAW CREEK AT SR1103 NEAR JACKSON, NC",
+  "state": "NC",
+  "latitude": 34.83694444,
+  "longitude": -80.7916667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02147126",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

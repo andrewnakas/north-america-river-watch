@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11355010",
+  "key": "11355010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11355010",
+  "name": "PIT R BL PIT NO 1 PH NR FALL RIVER MILLS CA",
+  "waterbody": "PIT R BL PIT NO 1 PH NR FALL RIVER MILLS CA",
+  "state": "CA",
+  "latitude": 40.9832178,
+  "longitude": -121.511927,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11355010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

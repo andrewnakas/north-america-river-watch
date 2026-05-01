@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07144100",
+  "key": "07144100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144100",
+  "name": "L ARKANSAS R NR SEDGWICK, KS",
+  "waterbody": "L ARKANSAS R NR SEDGWICK, KS",
+  "state": "KS",
+  "latitude": 37.88306739,
+  "longitude": -97.4244864,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEDK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sedk1",
+  "slug": "usgs-07144100",
+  "noaaForecastPath": "data/noaa-forecast/SEDK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05076000",
+  "key": "05076000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05076000",
+  "name": "THIEF RIVER NEAR THIEF RIVER FALLS, MN",
+  "waterbody": "THIEF RIVER NEAR THIEF RIVER FALLS, MN",
+  "state": "MN",
+  "latitude": 48.186179,
+  "longitude": -96.169948,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRRM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thief River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trrm5",
+  "slug": "usgs-05076000",
+  "noaaForecastPath": "data/noaa-forecast/TRRM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

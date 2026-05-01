@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50093115",
+  "key": "50093115",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50093115",
+  "name": "CANAL DE PATILLAS AT INTAKE 123, SALINAS PR",
+  "waterbody": "CANAL DE PATILLAS AT INTAKE 123, SALINAS PR",
+  "state": "PR",
+  "latitude": 17.985522,
+  "longitude": -66.288017,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50093115",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

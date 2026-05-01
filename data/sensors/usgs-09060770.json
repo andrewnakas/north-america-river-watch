@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09060770",
+  "key": "09060770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09060770",
+  "name": "ROCK CREEK AT MCCOY, CO.",
+  "waterbody": "ROCK CREEK AT MCCOY, CO.",
+  "state": "CO",
+  "latitude": 39.91394444,
+  "longitude": -106.7273056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcmc2",
+  "slug": "usgs-09060770",
+  "noaaForecastPath": "data/noaa-forecast/RCMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

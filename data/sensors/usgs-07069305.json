@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07069305",
+  "key": "07069305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07069305",
+  "name": "Spring River at Spring Street Bridge at Hardy, AR",
+  "waterbody": "Spring River at Spring Street Bridge at Hardy, AR",
+  "state": "AR",
+  "latitude": 36.3136111,
+  "longitude": -91.4827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDYA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring River (AR)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdya4",
+  "slug": "usgs-07069305",
+  "noaaForecastPath": "data/noaa-forecast/HDYA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

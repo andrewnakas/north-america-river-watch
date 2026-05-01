@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03500000",
+  "key": "03500000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03500000",
+  "name": "LITTLE TENNESSEE RIVER NEAR PRENTISS, NC",
+  "waterbody": "LITTLE TENNESSEE RIVER NEAR PRENTISS, NC",
+  "state": "NC",
+  "latitude": 35.15,
+  "longitude": -83.3797222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRTN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Tennessee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prtn7",
+  "slug": "usgs-03500000",
+  "noaaForecastPath": "data/noaa-forecast/PRTN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

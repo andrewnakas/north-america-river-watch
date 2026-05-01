@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02479000",
+  "key": "02479000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02479000",
+  "name": "PASCAGOULA RIVER AT MERRILL, MS",
+  "waterbody": "PASCAGOULA RIVER AT MERRILL, MS",
+  "state": "MS",
+  "latitude": 30.97805556,
+  "longitude": -88.7269444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRRM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pascagoula River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrrm6",
+  "slug": "usgs-02479000",
+  "noaaForecastPath": "data/noaa-forecast/MRRM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10341950",
+  "key": "10341950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10341950",
+  "name": "LITTLE TRUCKEE R BL DIV DAM NR SIERRAVILLE CA",
+  "waterbody": "LITTLE TRUCKEE R BL DIV DAM NR SIERRAVILLE CA",
+  "state": "CA",
+  "latitude": 39.4915443,
+  "longitude": -120.2926793,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10341950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

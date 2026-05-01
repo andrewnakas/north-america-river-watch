@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12445000",
+  "key": "12445000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12445000",
+  "name": "OKANOGAN RIVER NEAR TONASKET, WA",
+  "waterbody": "OKANOGAN RIVER NEAR TONASKET, WA",
+  "state": "WA",
+  "latitude": 48.632375,
+  "longitude": -119.4617229,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TONW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Okanogan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tonw1",
+  "slug": "usgs-12445000",
+  "noaaForecastPath": "data/noaa-forecast/TONW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

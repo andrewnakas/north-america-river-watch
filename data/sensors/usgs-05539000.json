@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05539000",
+  "key": "05539000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05539000",
+  "name": "HICKORY CREEK AT JOLIET, IL",
+  "waterbody": "HICKORY CREEK AT JOLIET, IL",
+  "state": "IL",
+  "latitude": 41.5147222,
+  "longitude": -88.0733333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JHCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hickory Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jhci2",
+  "slug": "usgs-05539000",
+  "noaaForecastPath": "data/noaa-forecast/JHCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

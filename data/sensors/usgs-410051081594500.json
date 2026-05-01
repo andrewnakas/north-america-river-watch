@@ -1,0 +1,22 @@
+{
+  "id": "usgs:410051081594500",
+  "key": "410051081594500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "410051081594500",
+  "name": "Little Killbuck Creek near Lodi OH",
+  "waterbody": "Little Killbuck Creek near Lodi OH",
+  "state": "OH",
+  "latitude": 41.01416667,
+  "longitude": -81.9958333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Killbuck Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lklo1",
+  "slug": "usgs-410051081594500",
+  "noaaForecastPath": "data/noaa-forecast/LKLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

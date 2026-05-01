@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08203450",
+  "key": "08203450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08203450",
+  "name": "Leona Rv at CR 429A nr Uvalde, TX",
+  "waterbody": "Leona Rv at CR 429A nr Uvalde, TX",
+  "state": "TX",
+  "latitude": 29.34527778,
+  "longitude": -99.7488889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leona River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrut2",
+  "slug": "usgs-08203450",
+  "noaaForecastPath": "data/noaa-forecast/LRUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

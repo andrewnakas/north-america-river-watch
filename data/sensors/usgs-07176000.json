@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07176000",
+  "key": "07176000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07176000",
+  "name": "Verdigris River near Claremore, OK",
+  "waterbody": "Verdigris River near Claremore, OK",
+  "state": "OK",
+  "latitude": 36.3075,
+  "longitude": -95.6997222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLRO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verdigris River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clro2",
+  "slug": "usgs-07176000",
+  "noaaForecastPath": "data/noaa-forecast/CLRO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

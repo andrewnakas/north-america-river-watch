@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06902000",
+  "key": "06902000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06902000",
+  "name": "Grand River near Sumner, MO",
+  "waterbody": "Grand River near Sumner, MO",
+  "state": "MO",
+  "latitude": 39.64002778,
+  "longitude": -93.2736944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snzm7",
+  "slug": "usgs-06902000",
+  "noaaForecastPath": "data/noaa-forecast/SNZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

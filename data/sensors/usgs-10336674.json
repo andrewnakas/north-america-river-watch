@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10336674",
+  "key": "10336674",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336674",
+  "name": "WARD C BL CONFLUENCE NR TAHOE CITY CA",
+  "waterbody": "WARD C BL CONFLUENCE NR TAHOE CITY CA",
+  "state": "CA",
+  "latitude": 39.14071738,
+  "longitude": -120.2121165,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10336674",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50214500",
+  "key": "50214500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50214500",
+  "name": "QUEBRADA RESACA NR MONTE RESACA, CULEBRA PR",
+  "waterbody": "QUEBRADA RESACA NR MONTE RESACA, CULEBRA PR",
+  "state": "PR",
+  "latitude": 18.3177337,
+  "longitude": -65.30238027,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50214500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

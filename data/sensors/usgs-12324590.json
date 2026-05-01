@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12324590",
+  "key": "12324590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12324590",
+  "name": "Little Blackfoot River near Garrison MT",
+  "waterbody": "Little Blackfoot River near Garrison MT",
+  "state": "MT",
+  "latitude": 46.5194833,
+  "longitude": -112.7931722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBFM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Blackfoot River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbfm8",
+  "slug": "usgs-12324590",
+  "noaaForecastPath": "data/noaa-forecast/LBFM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

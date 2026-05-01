@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04096400",
+  "key": "04096400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04096400",
+  "name": "ST. JOSEPH RIVER NEAR BURLINGTON, MI",
+  "waterbody": "ST. JOSEPH RIVER NEAR BURLINGTON, MI",
+  "state": "MI",
+  "latitude": 42.10310135,
+  "longitude": -85.0402524,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04096400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146381",
+  "key": "02146381",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146381",
+  "name": "SUGAR CREEK AT NC 51 NEAR PINEVILLE, NC",
+  "waterbody": "SUGAR CREEK AT NC 51 NEAR PINEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.0908333,
+  "longitude": -80.8994444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNVN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnvn7",
+  "slug": "usgs-02146381",
+  "noaaForecastPath": "data/noaa-forecast/PNVN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01403160",
+  "key": "01403160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01403160",
+  "name": "West Branch Middle Brook near Somerville NJ",
+  "waterbody": "West Branch Middle Brook near Somerville NJ",
+  "state": "NJ",
+  "latitude": 40.6075,
+  "longitude": -74.5858333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01403160",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03254480",
+  "key": "03254480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03254480",
+  "name": "CRUISES CREEK AT HWY 17 NR PINER, KY",
+  "waterbody": "CRUISES CREEK AT HWY 17 NR PINER, KY",
+  "state": "KY",
+  "latitude": 38.84444444,
+  "longitude": -84.5322222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03254480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12061620",
+  "key": "12061620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12061620",
+  "name": "SKOKOMISH RIVER BYPASS AT HWY101 NR POTLATCH, WA",
+  "waterbody": "SKOKOMISH RIVER BYPASS AT HWY101 NR POTLATCH, WA",
+  "state": "WA",
+  "latitude": 47.312725,
+  "longitude": -123.1752583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12061620",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

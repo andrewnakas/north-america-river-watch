@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01083000",
+  "key": "01083000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01083000",
+  "name": "NUBANUSIT BK BLW MACDOWELL DAM NR PETERBOROUGH NH",
+  "waterbody": "NUBANUSIT BK BLW MACDOWELL DAM NR PETERBOROUGH NH",
+  "state": "NH",
+  "latitude": 42.8928607,
+  "longitude": -71.9867469,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01083000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01591000",
+  "key": "01591000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01591000",
+  "name": "PATUXENT RIVER NEAR UNITY, MD",
+  "waterbody": "PATUXENT RIVER NEAR UNITY, MD",
+  "state": "MD",
+  "latitude": 39.23825,
+  "longitude": -77.0557222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRUM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patuxent River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prum2",
+  "slug": "usgs-01591000",
+  "noaaForecastPath": "data/noaa-forecast/PRUM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

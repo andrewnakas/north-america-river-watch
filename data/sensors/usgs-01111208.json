@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01111208",
+  "key": "01111208",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01111208",
+  "name": "WEST RIVER AT HECLA STREET NEAR UXBRIDGE, MA",
+  "waterbody": "WEST RIVER AT HECLA STREET NEAR UXBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.07055556,
+  "longitude": -71.6086111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01111208",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

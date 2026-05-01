@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05060500",
+  "key": "05060500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05060500",
+  "name": "RUSH RIVER AT AMENIA, ND",
+  "waterbody": "RUSH RIVER AT AMENIA, ND",
+  "state": "ND",
+  "latitude": 47.0166413,
+  "longitude": -97.214254,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMEN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rush River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amen8",
+  "slug": "usgs-05060500",
+  "noaaForecastPath": "data/noaa-forecast/AMEN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

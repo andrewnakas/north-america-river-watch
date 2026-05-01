@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09413900",
+  "key": "09413900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09413900",
+  "name": "BEAVER DAM WASH NEAR ENTERPRISE, UT",
+  "waterbody": "BEAVER DAM WASH NEAR ENTERPRISE, UT",
+  "state": "UT",
+  "latitude": 37.46996127,
+  "longitude": -114.0466483,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09413900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

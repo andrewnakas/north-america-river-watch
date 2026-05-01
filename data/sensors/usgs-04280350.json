@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04280350",
+  "key": "04280350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04280350",
+  "name": "METTAWEE RIVER NEAR PAWLET, VT",
+  "waterbody": "METTAWEE RIVER NEAR PAWLET, VT",
+  "state": "VT",
+  "latitude": 43.37053068,
+  "longitude": -73.2161911,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04280350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06485950",
+  "key": "06485950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06485950",
+  "name": "BIG SIOUX RIVER AT SIOUX CITY,  IA",
+  "waterbody": "BIG SIOUX RIVER AT SIOUX CITY,  IA",
+  "state": "IA",
+  "latitude": 42.52442814,
+  "longitude": -96.48050958,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxci4",
+  "slug": "usgs-06485950",
+  "noaaForecastPath": "data/noaa-forecast/SXCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01484100",
+  "key": "01484100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01484100",
+  "name": "BEAVERDAM BRANCH AT HOUSTON, DE",
+  "waterbody": "BEAVERDAM BRANCH AT HOUSTON, DE",
+  "state": "DE",
+  "latitude": 38.905778,
+  "longitude": -75.51275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01484100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

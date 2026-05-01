@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02291000",
+  "key": "02291000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02291000",
+  "name": "BARRON RIVER NR EVERGLADES, FLA.",
+  "waterbody": "BARRON RIVER NR EVERGLADES, FLA.",
+  "state": "FL",
+  "latitude": 25.95815178,
+  "longitude": -81.355078,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02291000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

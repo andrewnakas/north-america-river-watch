@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50100450",
+  "key": "50100450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50100450",
+  "name": "RIO MAJADA AT LA PLENA, PR",
+  "waterbody": "RIO MAJADA AT LA PLENA, PR",
+  "state": "PR",
+  "latitude": 18.044722,
+  "longitude": -66.2075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAMP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Majada",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/samp4",
+  "slug": "usgs-50100450",
+  "noaaForecastPath": "data/noaa-forecast/SAMP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

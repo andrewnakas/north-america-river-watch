@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05540091",
+  "key": "05540091",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540091",
+  "name": "SPRING BK AT FOREST PRESERVE NR WARRENVILLE, IL",
+  "waterbody": "SPRING BK AT FOREST PRESERVE NR WARRENVILLE, IL",
+  "state": "IL",
+  "latitude": 41.83527778,
+  "longitude": -88.1827778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05540091",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

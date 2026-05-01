@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212430653",
+  "key": "0212430653",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212430653",
+  "name": "MCKEE CREEK AT SR2804 NR WILGROVE, NC",
+  "waterbody": "MCKEE CREEK AT SR2804 NR WILGROVE, NC",
+  "state": "NC",
+  "latitude": 35.25388889,
+  "longitude": -80.6480556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mkcn7",
+  "slug": "usgs-0212430653",
+  "noaaForecastPath": "data/noaa-forecast/MKCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

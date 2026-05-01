@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03214500",
+  "key": "03214500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03214500",
+  "name": "TUG FORK AT KERMIT, WV",
+  "waterbody": "TUG FORK AT KERMIT, WV",
+  "state": "WV",
+  "latitude": 37.83731869,
+  "longitude": -82.4087578,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tug Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krmw2",
+  "slug": "usgs-03214500",
+  "noaaForecastPath": "data/noaa-forecast/KRMW2.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14191000",
+  "key": "14191000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14191000",
+  "name": "WILLAMETTE RIVER AT SALEM, OR",
+  "waterbody": "WILLAMETTE RIVER AT SALEM, OR",
+  "state": "OR",
+  "latitude": 44.9442863,
+  "longitude": -123.0428742,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willamette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slmo3",
+  "slug": "usgs-14191000",
+  "noaaForecastPath": "data/noaa-forecast/SLMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01525981",
+  "key": "01525981",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01525981",
+  "name": "TUSCARORA CREEK ABOVE SOUTH ADDISON NY",
+  "waterbody": "TUSCARORA CREEK ABOVE SOUTH ADDISON NY",
+  "state": "NY",
+  "latitude": 42.072667,
+  "longitude": -77.298861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarora Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adnn6",
+  "slug": "usgs-01525981",
+  "noaaForecastPath": "data/noaa-forecast/ADNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

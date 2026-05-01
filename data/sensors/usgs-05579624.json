@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05579624",
+  "key": "05579624",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05579624",
+  "name": "KICKAPOO CR TRIB NR LONGFIELD RD NR BLOOMINGTON,IL",
+  "waterbody": "KICKAPOO CR TRIB NR LONGFIELD RD NR BLOOMINGTON,IL",
+  "state": "IL",
+  "latitude": 40.4628611,
+  "longitude": -88.8771667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05579624",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

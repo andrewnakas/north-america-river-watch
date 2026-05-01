@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03054500",
+  "key": "03054500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03054500",
+  "name": "TYGART VALLEY RIVER AT PHILIPPI, WV",
+  "waterbody": "TYGART VALLEY RIVER AT PHILIPPI, WV",
+  "state": "WV",
+  "latitude": 39.15037545,
+  "longitude": -80.038691,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHIW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phiw2",
+  "slug": "usgs-03054500",
+  "noaaForecastPath": "data/noaa-forecast/PHIW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

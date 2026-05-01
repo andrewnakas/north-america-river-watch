@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09276700",
+  "key": "09276700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09276700",
+  "name": "DUCHESNE RIVER NEAR HANNA, UT",
+  "waterbody": "DUCHESNE RIVER NEAR HANNA, UT",
+  "state": "UT",
+  "latitude": 40.45798889,
+  "longitude": -110.82778611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09276700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09342500",
+  "key": "09342500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09342500",
+  "name": "SAN JUAN RIVER AT PAGOSA SPRINGS, CO",
+  "waterbody": "SAN JUAN RIVER AT PAGOSA SPRINGS, CO",
+  "state": "CO",
+  "latitude": 37.26552778,
+  "longitude": -107.011,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSPC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Juan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pspc2",
+  "slug": "usgs-09342500",
+  "noaaForecastPath": "data/noaa-forecast/PSPC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08383500",
+  "key": "08383500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08383500",
+  "name": "PECOS RIVER NEAR PUERTO DE LUNA, NM",
+  "waterbody": "PECOS RIVER NEAR PUERTO DE LUNA, NM",
+  "state": "NM",
+  "latitude": 34.7300833,
+  "longitude": -104.5249111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PUEN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/puen5",
+  "slug": "usgs-08383500",
+  "noaaForecastPath": "data/noaa-forecast/PUEN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

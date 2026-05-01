@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11126000",
+  "key": "11126000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11126000",
+  "name": "SANTA YNEZ R NR SANTA YNEZ CA",
+  "waterbody": "SANTA YNEZ R NR SANTA YNEZ CA",
+  "state": "CA",
+  "latitude": 34.58914745,
+  "longitude": -119.9887195,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11126000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

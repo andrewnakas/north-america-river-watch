@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09027100",
+  "key": "09027100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09027100",
+  "name": "FRASER RIVER AT TABERNASH, CO",
+  "waterbody": "FRASER RIVER AT TABERNASH, CO",
+  "state": "CO",
+  "latitude": 39.990333,
+  "longitude": -105.829778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09027100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

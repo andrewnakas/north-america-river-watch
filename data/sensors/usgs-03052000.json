@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03052000",
+  "key": "03052000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03052000",
+  "name": "MIDDLE FORK RIVER AT AUDRA, WV",
+  "waterbody": "MIDDLE FORK RIVER AT AUDRA, WV",
+  "state": "WV",
+  "latitude": 39.03954454,
+  "longitude": -80.0681352,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADRW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adrw2",
+  "slug": "usgs-03052000",
+  "noaaForecastPath": "data/noaa-forecast/ADRW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01673800",
+  "key": "01673800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01673800",
+  "name": "PO RIVER NEAR SPOTSYLVANIA, VA",
+  "waterbody": "PO RIVER NEAR SPOTSYLVANIA, VA",
+  "state": "VA",
+  "latitude": 38.1715215,
+  "longitude": -77.5947095,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPTV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Po River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sptv2",
+  "slug": "usgs-01673800",
+  "noaaForecastPath": "data/noaa-forecast/SPTV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

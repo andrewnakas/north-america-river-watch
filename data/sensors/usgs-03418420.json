@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03418420",
+  "key": "03418420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03418420",
+  "name": "CUMBERLAND RIVER BELOW CORDELL HULL DAM, TN",
+  "waterbody": "CUMBERLAND RIVER BELOW CORDELL HULL DAM, TN",
+  "state": "TN",
+  "latitude": 36.2867558,
+  "longitude": -85.94079609,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03418420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

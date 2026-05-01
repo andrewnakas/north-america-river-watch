@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09505200",
+  "key": "09505200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09505200",
+  "name": "WET BEAVER CREEK NEAR RIMROCK, AZ",
+  "waterbody": "WET BEAVER CREEK NEAR RIMROCK, AZ",
+  "state": "AZ",
+  "latitude": 34.67474409,
+  "longitude": -111.672094,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBVA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wet Beaver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbva3",
+  "slug": "usgs-09505200",
+  "noaaForecastPath": "data/noaa-forecast/WBVA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

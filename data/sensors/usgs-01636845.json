@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01636845",
+  "key": "01636845",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01636845",
+  "name": "LITTLE CATOCTIN CREEK NEAR ROSEMONT, MD",
+  "waterbody": "LITTLE CATOCTIN CREEK NEAR ROSEMONT, MD",
+  "state": "MD",
+  "latitude": 39.34125,
+  "longitude": -77.6340833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01636845",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

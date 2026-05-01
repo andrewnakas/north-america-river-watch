@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05496000",
+  "key": "05496000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05496000",
+  "name": "Wyaconda River above Canton, MO",
+  "waterbody": "Wyaconda River above Canton, MO",
+  "state": "MO",
+  "latitude": 40.1421111,
+  "longitude": -91.5656944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05496000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

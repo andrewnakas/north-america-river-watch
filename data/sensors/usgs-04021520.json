@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04021520",
+  "key": "04021520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04021520",
+  "name": "STONEY BROOK AT PINE DRIVE NEAR BROOKSTON, MN",
+  "waterbody": "STONEY BROOK AT PINE DRIVE NEAR BROOKSTON, MN",
+  "state": "MN",
+  "latitude": 46.780894,
+  "longitude": -92.637882,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKNM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stoney Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bknm5",
+  "slug": "usgs-04021520",
+  "noaaForecastPath": "data/noaa-forecast/BKNM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

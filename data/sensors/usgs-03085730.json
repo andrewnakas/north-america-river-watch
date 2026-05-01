@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03085730",
+  "key": "03085730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085730",
+  "name": "Ohio River at Emsworth Dam Upper Pool @ Emsworth",
+  "waterbody": "Ohio River at Emsworth Dam Upper Pool @ Emsworth",
+  "state": "PA",
+  "latitude": 40.50388889,
+  "longitude": -80.0855556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03085730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

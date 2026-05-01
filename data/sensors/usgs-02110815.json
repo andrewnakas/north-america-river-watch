@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02110815",
+  "key": "02110815",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110815",
+  "name": "WACCAMAW R NR HAGLEY LAND. NR PAWLEYS ISLAND, SC",
+  "waterbody": "WACCAMAW R NR HAGLEY LAND. NR PAWLEYS ISLAND, SC",
+  "state": "SC",
+  "latitude": 33.44461245,
+  "longitude": -79.1739341,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waccamaw River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hags1",
+  "slug": "usgs-02110815",
+  "noaaForecastPath": "data/noaa-forecast/HAGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

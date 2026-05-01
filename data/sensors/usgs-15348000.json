@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15348000",
+  "key": "15348000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15348000",
+  "name": "FORTYMILE R NR STEELE CREEK AK",
+  "waterbody": "FORTYMILE R NR STEELE CREEK AK",
+  "state": "AK",
+  "latitude": 64.3088137,
+  "longitude": -141.404467,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OBRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "O'Brien Creek",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/obra2",
+  "slug": "usgs-15348000",
+  "noaaForecastPath": "data/noaa-forecast/OBRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

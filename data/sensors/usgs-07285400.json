@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07285400",
+  "key": "07285400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07285400",
+  "name": "BATUPAN BOGUE AT GRENADA, MS",
+  "waterbody": "BATUPAN BOGUE AT GRENADA, MS",
+  "state": "MS",
+  "latitude": 33.77400485,
+  "longitude": -89.7875859,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07285400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

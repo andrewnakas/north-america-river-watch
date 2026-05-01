@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01472810",
+  "key": "01472810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01472810",
+  "name": "East Branch Perkiomen Creek near Schwenksville, PA",
+  "waterbody": "East Branch Perkiomen Creek near Schwenksville, PA",
+  "state": "PA",
+  "latitude": 40.2587137,
+  "longitude": -75.4287873,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Perkiomen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swvp1",
+  "slug": "usgs-01472810",
+  "noaaForecastPath": "data/noaa-forecast/SWVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

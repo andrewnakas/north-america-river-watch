@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05051300",
+  "key": "05051300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05051300",
+  "name": "BOIS DE SIOUX RIVER NEAR DORAN, MN",
+  "waterbody": "BOIS DE SIOUX RIVER NEAR DORAN, MN",
+  "state": "MN",
+  "latitude": 46.1525039,
+  "longitude": -96.5793428,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DORM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bois de Sioux River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dorm5",
+  "slug": "usgs-05051300",
+  "noaaForecastPath": "data/noaa-forecast/DORM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

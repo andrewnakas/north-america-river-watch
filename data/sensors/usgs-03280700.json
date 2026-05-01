@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03280700",
+  "key": "03280700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03280700",
+  "name": "CUTSHIN CREEK AT WOOTON, KY",
+  "waterbody": "CUTSHIN CREEK AT WOOTON, KY",
+  "state": "KY",
+  "latitude": 37.1650931,
+  "longitude": -83.3079564,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTNK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cutshin Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtnk2",
+  "slug": "usgs-03280700",
+  "noaaForecastPath": "data/noaa-forecast/WTNK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

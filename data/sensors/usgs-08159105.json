@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08159105",
+  "key": "08159105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08159105",
+  "name": "Eastern Trib to Dry Ck nr Del Valle, TX",
+  "waterbody": "Eastern Trib to Dry Ck nr Del Valle, TX",
+  "state": "TX",
+  "latitude": 30.17647778,
+  "longitude": -97.5869167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08159105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

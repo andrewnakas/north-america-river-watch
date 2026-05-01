@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09303500",
+  "key": "09303500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09303500",
+  "name": "SOUTH FORK WHITE RIVER NEAR BUFORD, CO.",
+  "waterbody": "SOUTH FORK WHITE RIVER NEAR BUFORD, CO.",
+  "state": "CO",
+  "latitude": 39.92162978,
+  "longitude": -107.5517612,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09303500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

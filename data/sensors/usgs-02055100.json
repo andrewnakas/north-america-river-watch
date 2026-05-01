@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02055100",
+  "key": "02055100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02055100",
+  "name": "TINKER CREEK NEAR DALEVILLE, VA",
+  "waterbody": "TINKER CREEK NEAR DALEVILLE, VA",
+  "state": "VA",
+  "latitude": 37.41763318,
+  "longitude": -79.9353193,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TIKV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Orchard Lake Outflow",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tikv2",
+  "slug": "usgs-02055100",
+  "noaaForecastPath": "data/noaa-forecast/TIKV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

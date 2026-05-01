@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01651000",
+  "key": "01651000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01651000",
+  "name": "NORTHWEST BR ANACOSTIA RIVER NR HYATTSVILLE, MD",
+  "waterbody": "NORTHWEST BR ANACOSTIA RIVER NR HYATTSVILLE, MD",
+  "state": "MD",
+  "latitude": 38.95255556,
+  "longitude": -76.96513889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01651000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

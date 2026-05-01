@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05578100",
+  "key": "05578100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05578100",
+  "name": "SALT CREEK NEAR FARMER CITY, IL",
+  "waterbody": "SALT CREEK NEAR FARMER CITY, IL",
+  "state": "IL",
+  "latitude": 40.22788889,
+  "longitude": -88.66056389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmci2",
+  "slug": "usgs-05578100",
+  "noaaForecastPath": "data/noaa-forecast/FMCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

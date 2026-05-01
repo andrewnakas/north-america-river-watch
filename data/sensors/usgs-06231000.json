@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06231000",
+  "key": "06231000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06231000",
+  "name": "Little Wind River above Arapahoe, WY",
+  "waterbody": "Little Wind River above Arapahoe, WY",
+  "state": "WY",
+  "latitude": 42.96023785,
+  "longitude": -108.498998,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06231000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

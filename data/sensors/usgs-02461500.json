@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02461500",
+  "key": "02461500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02461500",
+  "name": "VALLEY CREEK NEAR BESSEMER, AL",
+  "waterbody": "VALLEY CREEK NEAR BESSEMER, AL",
+  "state": "AL",
+  "latitude": 33.4192762,
+  "longitude": -86.9827711,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BESA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Valley Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/besa1",
+  "slug": "usgs-02461500",
+  "noaaForecastPath": "data/noaa-forecast/BESA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14369500",
+  "key": "14369500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14369500",
+  "name": "APPLEGATE RIVER NEAR WILDERVILLE, OR",
+  "waterbody": "APPLEGATE RIVER NEAR WILDERVILLE, OR",
+  "state": "OR",
+  "latitude": 42.3540058,
+  "longitude": -123.4067276,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARWO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Applegate River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arwo3",
+  "slug": "usgs-14369500",
+  "noaaForecastPath": "data/noaa-forecast/ARWO3.json",
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

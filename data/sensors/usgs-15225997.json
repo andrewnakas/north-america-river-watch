@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15225997",
+  "key": "15225997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15225997",
+  "name": "SOLOMON GULCH AT TOP OF FALLS NR VALDEZ AK",
+  "waterbody": "SOLOMON GULCH AT TOP OF FALLS NR VALDEZ AK",
+  "state": "AK",
+  "latitude": 61.079167,
+  "longitude": -146.303056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGLA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Solomon Gulch",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgla2",
+  "slug": "usgs-15225997",
+  "noaaForecastPath": "data/noaa-forecast/SGLA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

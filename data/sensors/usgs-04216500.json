@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04216500",
+  "key": "04216500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04216500",
+  "name": "LITTLE TONAWANDA CREEK AT LINDEN NY",
+  "waterbody": "LITTLE TONAWANDA CREEK AT LINDEN NY",
+  "state": "NY",
+  "latitude": 42.87694444,
+  "longitude": -78.1630556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04216500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

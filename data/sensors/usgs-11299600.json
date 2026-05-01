@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11299600",
+  "key": "11299600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11299600",
+  "name": "BLACK C NR COPPEROPOLIS CA",
+  "waterbody": "BLACK C NR COPPEROPOLIS CA",
+  "state": "CA",
+  "latitude": 37.96103615,
+  "longitude": -120.6152035,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11299600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03234300",
+  "key": "03234300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03234300",
+  "name": "Paint Creek at Chillicothe OH",
+  "waterbody": "Paint Creek at Chillicothe OH",
+  "state": "OH",
+  "latitude": 39.3203421,
+  "longitude": -82.9782349,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPCO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paint Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpco1",
+  "slug": "usgs-03234300",
+  "noaaForecastPath": "data/noaa-forecast/CPCO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

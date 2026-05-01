@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03284552",
+  "key": "03284552",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03284552",
+  "name": "WEST HICKMAN CR AT VETERANS PARK NR LEXINGTON, KY",
+  "waterbody": "WEST HICKMAN CR AT VETERANS PARK NR LEXINGTON, KY",
+  "state": "KY",
+  "latitude": 37.95777778,
+  "longitude": -84.5011111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VTPK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Hickman Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vtpk2",
+  "slug": "usgs-03284552",
+  "noaaForecastPath": "data/noaa-forecast/VTPK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

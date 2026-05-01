@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15239500",
+  "key": "15239500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15239500",
+  "name": "FRITZ C NR HOMER AK",
+  "waterbody": "FRITZ C NR HOMER AK",
+  "state": "AK",
+  "latitude": 59.7077277,
+  "longitude": -151.3451837,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15239500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

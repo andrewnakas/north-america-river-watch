@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08075770",
+  "key": "08075770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08075770",
+  "name": "Hunting Bayou at IH 610, Houston, TX",
+  "waterbody": "Hunting Bayou at IH 610, Houston, TX",
+  "state": "TX",
+  "latitude": 29.79328217,
+  "longitude": -95.2679907,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08075770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

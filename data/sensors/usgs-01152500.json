@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01152500",
+  "key": "01152500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01152500",
+  "name": "SUGAR RIVER AT WEST CLAREMONT, NH",
+  "waterbody": "SUGAR RIVER AT WEST CLAREMONT, NH",
+  "state": "NH",
+  "latitude": 43.38757327,
+  "longitude": -72.36203409,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCLN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar River (NH)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcln3",
+  "slug": "usgs-01152500",
+  "noaaForecastPath": "data/noaa-forecast/WCLN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01527500",
+  "key": "01527500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01527500",
+  "name": "COHOCTON RIVER AT AVOCA NY",
+  "waterbody": "COHOCTON RIVER AT AVOCA NY",
+  "state": "NY",
+  "latitude": 42.41105556,
+  "longitude": -77.4263611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01527500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02310525",
+  "key": "02310525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02310525",
+  "name": "WEEKI WACHEE RIVER NEAR BROOKSVILLE FL",
+  "waterbody": "WEEKI WACHEE RIVER NEAR BROOKSVILLE FL",
+  "state": "FL",
+  "latitude": 28.51888454,
+  "longitude": -82.5823215,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWBF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Weeki Wachee Springs Near Brooksville",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwbf1",
+  "slug": "usgs-02310525",
+  "noaaForecastPath": "data/noaa-forecast/WWBF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

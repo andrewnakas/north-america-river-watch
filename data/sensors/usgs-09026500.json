@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09026500",
+  "key": "09026500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09026500",
+  "name": "ST. LOUIS CREEK NEAR FRASER, CO.",
+  "waterbody": "ST. LOUIS CREEK NEAR FRASER, CO.",
+  "state": "CO",
+  "latitude": 39.91,
+  "longitude": -105.877778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLEC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Louis Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slec2",
+  "slug": "usgs-09026500",
+  "noaaForecastPath": "data/noaa-forecast/SLEC2.json",
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

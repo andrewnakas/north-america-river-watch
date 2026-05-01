@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336986",
+  "key": "02336986",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336986",
+  "name": "OLLEY CREEK AT CLAY ROAD, NEAR AUSTELL, GA",
+  "waterbody": "OLLEY CREEK AT CLAY ROAD, NEAR AUSTELL, GA",
+  "state": "GA",
+  "latitude": 33.83616667,
+  "longitude": -84.6314444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OLYG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Olley Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/olyg1",
+  "slug": "usgs-02336986",
+  "noaaForecastPath": "data/noaa-forecast/OLYG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

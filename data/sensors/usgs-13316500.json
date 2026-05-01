@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13316500",
+  "key": "13316500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13316500",
+  "name": "LITTLE SALMON RIVER AT RIGGINS ID",
+  "waterbody": "LITTLE SALMON RIVER AT RIGGINS ID",
+  "state": "ID",
+  "latitude": 45.41305556,
+  "longitude": -116.3252778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIGI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Salmon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rigi1",
+  "slug": "usgs-13316500",
+  "noaaForecastPath": "data/noaa-forecast/RIGI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

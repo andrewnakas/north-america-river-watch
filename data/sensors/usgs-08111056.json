@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08111056",
+  "key": "08111056",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111056",
+  "name": "Peach Ck at SH 6 nr Millican, TX",
+  "waterbody": "Peach Ck at SH 6 nr Millican, TX",
+  "state": "TX",
+  "latitude": 30.5124111,
+  "longitude": -96.2067,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08111056",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07178040",
+  "key": "07178040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07178040",
+  "name": "Mingo Creek at 46th Street North at Tulsa, OK",
+  "waterbody": "Mingo Creek at 46th Street North at Tulsa, OK",
+  "state": "OK",
+  "latitude": 36.22065047,
+  "longitude": -95.8586012,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07178040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

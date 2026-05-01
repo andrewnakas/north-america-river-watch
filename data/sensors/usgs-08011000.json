@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08011000",
+  "key": "08011000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08011000",
+  "name": "Byu Plaquemine Brule nr Crowley, LA",
+  "waterbody": "Byu Plaquemine Brule nr Crowley, LA",
+  "state": "LA",
+  "latitude": 30.23616667,
+  "longitude": -92.3964167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRWL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Plaquemine Brule",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crwl1",
+  "slug": "usgs-08011000",
+  "noaaForecastPath": "data/noaa-forecast/CRWL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

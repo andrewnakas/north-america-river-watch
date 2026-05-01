@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02300530",
+  "key": "02300530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300530",
+  "name": "CYPRESS CREEK NEAR WIMAUMA FL",
+  "waterbody": "CYPRESS CREEK NEAR WIMAUMA FL",
+  "state": "FL",
+  "latitude": 27.70780854,
+  "longitude": -82.3637038,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02300530",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

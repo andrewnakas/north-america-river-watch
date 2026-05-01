@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348200",
+  "key": "10348200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348200",
+  "name": "TRUCKEE RV NR SPARKS, NV",
+  "waterbody": "TRUCKEE RV NR SPARKS, NV",
+  "state": "NV",
+  "latitude": 39.51761667,
+  "longitude": -119.7416444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

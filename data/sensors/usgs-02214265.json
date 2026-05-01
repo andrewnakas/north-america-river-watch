@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02214265",
+  "key": "02214265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02214265",
+  "name": "OCMULGEE RIVER AT GA 96, NEAR BONAIRE, GA",
+  "waterbody": "OCMULGEE RIVER AT GA 96, NEAR BONAIRE, GA",
+  "state": "GA",
+  "latitude": 32.54261111,
+  "longitude": -83.53658333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02214265",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

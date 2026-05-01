@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214685800",
+  "key": "0214685800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214685800",
+  "name": "SIX MILE CREEK NEAR PINEVILLE, NC",
+  "waterbody": "SIX MILE CREEK NEAR PINEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.01035556,
+  "longitude": -80.8285417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIXN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sixmile Creek (NC)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sixn7",
+  "slug": "usgs-0214685800",
+  "noaaForecastPath": "data/noaa-forecast/SIXN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

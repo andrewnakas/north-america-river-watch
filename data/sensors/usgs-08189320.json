@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08189320",
+  "key": "08189320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08189320",
+  "name": "Medio Ck at SH 202 nr Beeville, TX",
+  "waterbody": "Medio Ck at SH 202 nr Beeville, TX",
+  "state": "TX",
+  "latitude": 28.381675,
+  "longitude": -97.5950167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08189320",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

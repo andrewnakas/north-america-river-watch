@@ -1,0 +1,19 @@
+{
+  "id": "usgs:301510081383500",
+  "key": "301510081383500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "301510081383500",
+  "name": "ST JOHNS RVR AT CHRISTOPHER PT NR JACKSONVILLE, FL",
+  "waterbody": "ST JOHNS RVR AT CHRISTOPHER PT NR JACKSONVILLE, FL",
+  "state": "FL",
+  "latitude": 30.25288889,
+  "longitude": -81.6431,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-301510081383500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

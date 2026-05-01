@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15055500",
+  "key": "15055500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15055500",
+  "name": "ANTLER R BL ANTLER LK NR AUKE BAY AK",
+  "waterbody": "ANTLER R BL ANTLER LK NR AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.85181328,
+  "longitude": -134.7104997,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AAKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Antler River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aaka2",
+  "slug": "usgs-15055500",
+  "noaaForecastPath": "data/noaa-forecast/AAKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

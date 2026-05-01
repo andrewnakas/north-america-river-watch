@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02207220",
+  "key": "02207220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02207220",
+  "name": "YELLOW RIVER AT PLEASANT HILL ROAD, NR LITHONIA,GA",
+  "waterbody": "YELLOW RIVER AT PLEASANT HILL ROAD, NR LITHONIA,GA",
+  "state": "GA",
+  "latitude": 33.7335833,
+  "longitude": -84.0615556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YLOG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ylog1",
+  "slug": "usgs-02207220",
+  "noaaForecastPath": "data/noaa-forecast/YLOG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05522500",
+  "key": "05522500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05522500",
+  "name": "IROQUOIS RIVER AT RENSSELAER, IN",
+  "waterbody": "IROQUOIS RIVER AT RENSSELAER, IN",
+  "state": "IN",
+  "latitude": 40.93335598,
+  "longitude": -87.1288886,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RZLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iroquois River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rzli3",
+  "slug": "usgs-05522500",
+  "noaaForecastPath": "data/noaa-forecast/RZLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

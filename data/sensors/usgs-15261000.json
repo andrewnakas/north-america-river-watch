@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15261000",
+  "key": "15261000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15261000",
+  "name": "COOPER C AT MOUTH NR COOPER LANDING AK",
+  "waterbody": "COOPER C AT MOUTH NR COOPER LANDING AK",
+  "state": "AK",
+  "latitude": 60.4799772,
+  "longitude": -149.8827247,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cooper Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coca2",
+  "slug": "usgs-15261000",
+  "noaaForecastPath": "data/noaa-forecast/COCA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08458993",
+  "key": "08458993",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08458993",
+  "name": "Zacate Ck at Jacaman Rd, Laredo, TX",
+  "waterbody": "Zacate Ck at Jacaman Rd, Laredo, TX",
+  "state": "TX",
+  "latitude": 27.56122778,
+  "longitude": -99.4711583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZAJT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Zacate Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zajt2",
+  "slug": "usgs-08458993",
+  "noaaForecastPath": "data/noaa-forecast/ZAJT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

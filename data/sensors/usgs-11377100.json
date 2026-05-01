@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11377100",
+  "key": "11377100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11377100",
+  "name": "SACRAMENTO R AB BEND BRIDGE NR RED BLUFF CA",
+  "waterbody": "SACRAMENTO R AB BEND BRIDGE NR RED BLUFF CA",
+  "state": "CA",
+  "latitude": 40.2884596,
+  "longitude": -122.1866312,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacramento River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdbc1",
+  "slug": "usgs-11377100",
+  "noaaForecastPath": "data/noaa-forecast/BDBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

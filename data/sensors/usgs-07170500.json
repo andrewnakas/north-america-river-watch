@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07170500",
+  "key": "07170500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07170500",
+  "name": "VERDIGRIS R AT INDEPENDENCE, KS",
+  "waterbody": "VERDIGRIS R AT INDEPENDENCE, KS",
+  "state": "KS",
+  "latitude": 37.22368014,
+  "longitude": -95.6777573,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IDPK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verdigris River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/idpk1",
+  "slug": "usgs-07170500",
+  "noaaForecastPath": "data/noaa-forecast/IDPK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

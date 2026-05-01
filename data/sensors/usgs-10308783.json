@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10308783",
+  "key": "10308783",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10308783",
+  "name": "LEVIATHAN C AB MINE NR MARKLEEVILLE CA",
+  "waterbody": "LEVIATHAN C AB MINE NR MARKLEEVILLE CA",
+  "state": "CA",
+  "latitude": 38.70128509,
+  "longitude": -119.6565398,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10308783",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13140700",
+  "key": "13140700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13140700",
+  "name": "BIG WOOD R AT WOOD RIVER RANCH NR BELLEVUE, ID",
+  "waterbody": "BIG WOOD R AT WOOD RIVER RANCH NR BELLEVUE, ID",
+  "state": "ID",
+  "latitude": 43.380125,
+  "longitude": -114.2761583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13140700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

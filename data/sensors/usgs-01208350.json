@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01208350",
+  "key": "01208350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01208350",
+  "name": "NAUGATUCK RIVER NEAR UNION CITY, CT",
+  "waterbody": "NAUGATUCK RIVER NEAR UNION CITY, CT",
+  "state": "CT",
+  "latitude": 41.51832177,
+  "longitude": -73.05342187,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01208350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

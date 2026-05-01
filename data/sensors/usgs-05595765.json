@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05595765",
+  "key": "05595765",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05595765",
+  "name": "BIG MUDDY SUBIMPOUNDMENT NEAR WALTONVILLE, IL",
+  "waterbody": "BIG MUDDY SUBIMPOUNDMENT NEAR WALTONVILLE, IL",
+  "state": "IL",
+  "latitude": 38.1761111,
+  "longitude": -89.0063889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSII2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Muddy River  Subimpoundment",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsii2",
+  "slug": "usgs-05595765",
+  "noaaForecastPath": "data/noaa-forecast/BSII2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

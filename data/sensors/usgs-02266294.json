@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02266294",
+  "key": "02266294",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266294",
+  "name": "10B LATERAL 405 BL S-405 NEAR VINELAND FLA",
+  "waterbody": "10B LATERAL 405 BL S-405 NEAR VINELAND FLA",
+  "state": "FL",
+  "latitude": 28.39459399,
+  "longitude": -81.5843974,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02266294",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

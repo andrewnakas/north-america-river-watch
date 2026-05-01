@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06600900",
+  "key": "06600900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06600900",
+  "name": "South Omaha Creek at Walthill, Nebr.",
+  "waterbody": "South Omaha Creek at Walthill, Nebr.",
+  "state": "NE",
+  "latitude": 42.14819167,
+  "longitude": -96.48358056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Omaha Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whln1",
+  "slug": "usgs-06600900",
+  "noaaForecastPath": "data/noaa-forecast/WHLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

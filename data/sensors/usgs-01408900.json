@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01408900",
+  "key": "01408900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01408900",
+  "name": "Cedar Creek at Western Blvd near Lanoka Harbor NJ",
+  "waterbody": "Cedar Creek at Western Blvd near Lanoka Harbor NJ",
+  "state": "NJ",
+  "latitude": 39.87916667,
+  "longitude": -74.1905556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01408900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

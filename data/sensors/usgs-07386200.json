@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07386200",
+  "key": "07386200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07386200",
+  "name": "Bayou Fusilier at weir near Arnaudville, LA",
+  "waterbody": "Bayou Fusilier at weir near Arnaudville, LA",
+  "state": "LA",
+  "latitude": 30.3988085,
+  "longitude": -91.9448397,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07386200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

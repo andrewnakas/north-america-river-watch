@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14207500",
+  "key": "14207500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14207500",
+  "name": "TUALATIN RIVER AT WEST LINN, OR",
+  "waterbody": "TUALATIN RIVER AT WEST LINN, OR",
+  "state": "OR",
+  "latitude": 45.35067559,
+  "longitude": -122.6762044,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tualatin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wslo3",
+  "slug": "usgs-14207500",
+  "noaaForecastPath": "data/noaa-forecast/WSLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

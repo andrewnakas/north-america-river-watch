@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07381695",
+  "key": "07381695",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381695",
+  "name": "GIWW AT CYPREMORT, LA",
+  "waterbody": "GIWW AT CYPREMORT, LA",
+  "state": "LA",
+  "latitude": 29.77104158,
+  "longitude": -91.8001183,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07381695",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

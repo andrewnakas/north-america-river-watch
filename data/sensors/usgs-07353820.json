@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07353820",
+  "key": "07353820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07353820",
+  "name": "Old River at Hwy 1 nr Natchitoches, LA",
+  "waterbody": "Old River at Hwy 1 nr Natchitoches, LA",
+  "state": "LA",
+  "latitude": 31.7284722,
+  "longitude": -93.1091944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07353820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

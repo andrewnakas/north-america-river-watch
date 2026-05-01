@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06154100",
+  "key": "06154100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06154100",
+  "name": "Milk River near Harlem MT",
+  "waterbody": "Milk River near Harlem MT",
+  "state": "MT",
+  "latitude": 48.48964167,
+  "longitude": -108.75895,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Milk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrlm8",
+  "slug": "usgs-06154100",
+  "noaaForecastPath": "data/noaa-forecast/HRLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

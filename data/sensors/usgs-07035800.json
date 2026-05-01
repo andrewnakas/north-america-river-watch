@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07035800",
+  "key": "07035800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07035800",
+  "name": "St. Francis River near Mill Creek, MO",
+  "waterbody": "St. Francis River near Mill Creek, MO",
+  "state": "MO",
+  "latitude": 37.50241667,
+  "longitude": -90.4578889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Francis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlcm7",
+  "slug": "usgs-07035800",
+  "noaaForecastPath": "data/noaa-forecast/MLCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

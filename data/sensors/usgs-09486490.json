@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09486490",
+  "key": "09486490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486490",
+  "name": "SANTA CRUZ RIVER AT INA RD NR TUCSON AZ",
+  "waterbody": "SANTA CRUZ RIVER AT INA RD NR TUCSON AZ",
+  "state": "AZ",
+  "latitude": 32.3381296,
+  "longitude": -111.0812106,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09486490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03245500",
+  "key": "03245500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03245500",
+  "name": "Little Miami River at Milford OH",
+  "waterbody": "Little Miami River at Milford OH",
+  "state": "OH",
+  "latitude": 39.17144887,
+  "longitude": -84.2979933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlgo1",
+  "slug": "usgs-03245500",
+  "noaaForecastPath": "data/noaa-forecast/MLGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

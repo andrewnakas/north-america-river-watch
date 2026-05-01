@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336240",
+  "key": "02336240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336240",
+  "name": "S.F. PEACHTREE CREEK JOHNSON RD, NEAR ATLANTA, GA",
+  "waterbody": "S.F. PEACHTREE CREEK JOHNSON RD, NEAR ATLANTA, GA",
+  "state": "GA",
+  "latitude": 33.8030833,
+  "longitude": -84.3406944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPJG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Peachtree Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spjg1",
+  "slug": "usgs-02336240",
+  "noaaForecastPath": "data/noaa-forecast/SPJG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

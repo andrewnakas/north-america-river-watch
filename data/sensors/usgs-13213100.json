@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13213100",
+  "key": "13213100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13213100",
+  "name": "SNAKE RIVER AT NYSSA OR",
+  "waterbody": "SNAKE RIVER AT NYSSA OR",
+  "state": "ID",
+  "latitude": 43.8761111,
+  "longitude": -116.9825,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNYI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snyi1",
+  "slug": "usgs-13213100",
+  "noaaForecastPath": "data/noaa-forecast/SNYI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

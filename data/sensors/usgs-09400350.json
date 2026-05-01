@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09400350",
+  "key": "09400350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09400350",
+  "name": "LITTLE COLORADO RIVER NEAR WINSLOW, AZ",
+  "waterbody": "LITTLE COLORADO RIVER NEAR WINSLOW, AZ",
+  "state": "AZ",
+  "latitude": 35.006725,
+  "longitude": -110.6542806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCWA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Colorado River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcwa3",
+  "slug": "usgs-09400350",
+  "noaaForecastPath": "data/noaa-forecast/LCWA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

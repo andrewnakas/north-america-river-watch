@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01082000",
+  "key": "01082000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01082000",
+  "name": "CONTOOCOOK RIVER AT PETERBOROUGH, NH",
+  "waterbody": "CONTOOCOOK RIVER AT PETERBOROUGH, NH",
+  "state": "NH",
+  "latitude": 42.8625837,
+  "longitude": -71.95924609,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTRN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Contoocook River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptrn3",
+  "slug": "usgs-01082000",
+  "noaaForecastPath": "data/noaa-forecast/PTRN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05501000",
+  "key": "05501000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05501000",
+  "name": "North River at Palmyra, MO",
+  "waterbody": "North River at Palmyra, MO",
+  "state": "MO",
+  "latitude": 39.817,
+  "longitude": -91.5460278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PALM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "North River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/palm7",
+  "slug": "usgs-05501000",
+  "noaaForecastPath": "data/noaa-forecast/PALM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

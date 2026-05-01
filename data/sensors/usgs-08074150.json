@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08074150",
+  "key": "08074150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08074150",
+  "name": "Cole Ck at Deihl Rd, Houston, TX",
+  "waterbody": "Cole Ck at Deihl Rd, Houston, TX",
+  "state": "TX",
+  "latitude": 29.8513369,
+  "longitude": -95.4879965,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08074150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

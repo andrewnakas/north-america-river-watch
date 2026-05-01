@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01380100",
+  "key": "01380100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01380100",
+  "name": "Beaver Brook at Rockaway NJ",
+  "waterbody": "Beaver Brook at Rockaway NJ",
+  "state": "NJ",
+  "latitude": 40.9022222,
+  "longitude": -74.50138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01380100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

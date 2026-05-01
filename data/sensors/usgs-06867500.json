@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06867500",
+  "key": "06867500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06867500",
+  "name": "PARADISE C NR PARADISE, KS",
+  "waterbody": "PARADISE C NR PARADISE, KS",
+  "state": "KS",
+  "latitude": 39.05919167,
+  "longitude": -98.8422917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDSK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paradise Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdsk1",
+  "slug": "usgs-06867500",
+  "noaaForecastPath": "data/noaa-forecast/PDSK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03535000",
+  "key": "03535000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03535000",
+  "name": "BULLRUN CREEK NEAR HALLS CROSSROADS, TN",
+  "waterbody": "BULLRUN CREEK NEAR HALLS CROSSROADS, TN",
+  "state": "TN",
+  "latitude": 36.11441319,
+  "longitude": -83.9881737,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRCT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bullrun Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brct1",
+  "slug": "usgs-03535000",
+  "noaaForecastPath": "data/noaa-forecast/BRCT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

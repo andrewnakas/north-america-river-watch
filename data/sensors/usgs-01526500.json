@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01526500",
+  "key": "01526500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01526500",
+  "name": "TIOGA RIVER NEAR ERWINS NY",
+  "waterbody": "TIOGA RIVER NEAR ERWINS NY",
+  "state": "NY",
+  "latitude": 42.12088889,
+  "longitude": -77.12905556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERWN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tioga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/erwn6",
+  "slug": "usgs-01526500",
+  "noaaForecastPath": "data/noaa-forecast/ERWN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

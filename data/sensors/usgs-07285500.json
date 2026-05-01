@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07285500",
+  "key": "07285500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07285500",
+  "name": "YALOBUSHA RIVER AT GRENADA, MS",
+  "waterbody": "YALOBUSHA RIVER AT GRENADA, MS",
+  "state": "MS",
+  "latitude": 33.78777778,
+  "longitude": -89.8097222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRYM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yalobusha River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grym6",
+  "slug": "usgs-07285500",
+  "noaaForecastPath": "data/noaa-forecast/GRYM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11461000",
+  "key": "11461000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11461000",
+  "name": "RUSSIAN R NR UKIAH CA",
+  "waterbody": "RUSSIAN R NR UKIAH CA",
+  "state": "CA",
+  "latitude": 39.1954471,
+  "longitude": -123.1950048,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UKAC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ukac1",
+  "slug": "usgs-11461000",
+  "noaaForecastPath": "data/noaa-forecast/UKAC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

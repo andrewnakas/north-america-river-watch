@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08382500",
+  "key": "08382500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08382500",
+  "name": "GALLINAS R NR COLONIAS, NM",
+  "waterbody": "GALLINAS R NR COLONIAS, NM",
+  "state": "NM",
+  "latitude": 35.1819611,
+  "longitude": -104.9002667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COLN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gallinas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coln5",
+  "slug": "usgs-08382500",
+  "noaaForecastPath": "data/noaa-forecast/COLN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

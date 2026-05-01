@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08334000",
+  "key": "08334000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08334000",
+  "name": "RIO PUERCO ABV ARROYO CHICO NR GUADALUPE, NM",
+  "waterbody": "RIO PUERCO ABV ARROYO CHICO NR GUADALUPE, NM",
+  "state": "NM",
+  "latitude": 35.60088889,
+  "longitude": -107.16661111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIPN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Puerco",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ripn5",
+  "slug": "usgs-08334000",
+  "noaaForecastPath": "data/noaa-forecast/RIPN5.json",
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

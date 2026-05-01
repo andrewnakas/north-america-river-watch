@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02291500",
+  "key": "02291500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02291500",
+  "name": "IMPERIAL RIVER NEAR BONITA SPRINGS, FL",
+  "waterbody": "IMPERIAL RIVER NEAR BONITA SPRINGS, FL",
+  "state": "FL",
+  "latitude": 26.33583333,
+  "longitude": -81.74938889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSIF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Imperial River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsif1",
+  "slug": "usgs-02291500",
+  "noaaForecastPath": "data/noaa-forecast/BSIF1.json",
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

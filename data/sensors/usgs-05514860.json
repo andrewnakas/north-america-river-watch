@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05514860",
+  "key": "05514860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05514860",
+  "name": "Dardenne Creek at Old Town St. Peters, MO",
+  "waterbody": "Dardenne Creek at Old Town St. Peters, MO",
+  "state": "MO",
+  "latitude": 38.80294444,
+  "longitude": -90.6282222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dardenne Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drcm7",
+  "slug": "usgs-05514860",
+  "noaaForecastPath": "data/noaa-forecast/DRCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

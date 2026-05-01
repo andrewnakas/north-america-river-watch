@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06164510",
+  "key": "06164510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06164510",
+  "name": "Milk River at Juneberg Bridge nr Saco MT",
+  "waterbody": "Milk River at Juneberg Bridge nr Saco MT",
+  "state": "MT",
+  "latitude": 48.50920278,
+  "longitude": -107.2187556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SACM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Milk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sacm8",
+  "slug": "usgs-06164510",
+  "noaaForecastPath": "data/noaa-forecast/SACM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

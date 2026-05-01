@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07288938",
+  "key": "07288938",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288938",
+  "name": "STEELE BAYOU FLOODGATE (LANDSIDE) NR REDWOOD, MS",
+  "waterbody": "STEELE BAYOU FLOODGATE (LANDSIDE) NR REDWOOD, MS",
+  "state": "MS",
+  "latitude": 32.45716667,
+  "longitude": -90.8903333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBSM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Steele Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbsm6",
+  "slug": "usgs-07288938",
+  "noaaForecastPath": "data/noaa-forecast/SBSM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

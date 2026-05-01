@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09386925",
+  "key": "09386925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09386925",
+  "name": "Y-UNIT DRAW AT STATE HWY 602 NR ZUNI, NM",
+  "waterbody": "Y-UNIT DRAW AT STATE HWY 602 NR ZUNI, NM",
+  "state": "NM",
+  "latitude": 35.16364209,
+  "longitude": -108.744249,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09386925",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

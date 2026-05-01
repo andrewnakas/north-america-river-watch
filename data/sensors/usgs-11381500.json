@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11381500",
+  "key": "11381500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11381500",
+  "name": "MILL C NR LOS MOLINOS CA",
+  "waterbody": "MILL C NR LOS MOLINOS CA",
+  "state": "CA",
+  "latitude": 40.0546022,
+  "longitude": -122.0241541,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLMC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlmc1",
+  "slug": "usgs-11381500",
+  "noaaForecastPath": "data/noaa-forecast/MLMC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

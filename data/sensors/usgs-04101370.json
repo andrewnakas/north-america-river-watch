@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04101370",
+  "key": "04101370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101370",
+  "name": "JUDY CREEK NEAR SOUTH BEND, IN",
+  "waterbody": "JUDY CREEK NEAR SOUTH BEND, IN",
+  "state": "IN",
+  "latitude": 41.72862637,
+  "longitude": -86.2627484,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Judy Creek(Northern IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jcri3",
+  "slug": "usgs-04101370",
+  "noaaForecastPath": "data/noaa-forecast/JCRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

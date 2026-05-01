@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08037050",
+  "key": "08037050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08037050",
+  "name": "Bayou Lanana at Nacogdoches, TX",
+  "waterbody": "Bayou Lanana at Nacogdoches, TX",
+  "state": "TX",
+  "latitude": 31.6176793,
+  "longitude": -94.6415983,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08037050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01386000",
+  "key": "01386000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01386000",
+  "name": "West Brook near Wanaque NJ",
+  "waterbody": "West Brook near Wanaque NJ",
+  "state": "NJ",
+  "latitude": 41.0736111,
+  "longitude": -74.3116667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01386000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

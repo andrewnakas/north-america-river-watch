@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11121000",
+  "key": "11121000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11121000",
+  "name": "SANTA YNEZ R A JAMESON LK NR MONTECITO CA",
+  "waterbody": "SANTA YNEZ R A JAMESON LK NR MONTECITO CA",
+  "state": "CA",
+  "latitude": 34.4922149,
+  "longitude": -119.507902,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11121000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

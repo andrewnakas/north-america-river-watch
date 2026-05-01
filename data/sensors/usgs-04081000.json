@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04081000",
+  "key": "04081000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04081000",
+  "name": "WAUPACA RIVER NEAR WAUPACA, WI",
+  "waterbody": "WAUPACA RIVER NEAR WAUPACA, WI",
+  "state": "WI",
+  "latitude": 44.32916667,
+  "longitude": -88.9958333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPCW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waupaca River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wpcw3",
+  "slug": "usgs-04081000",
+  "noaaForecastPath": "data/noaa-forecast/WPCW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

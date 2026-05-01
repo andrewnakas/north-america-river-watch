@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03085956",
+  "key": "03085956",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085956",
+  "name": "Montour Run at Scott Station near Imperial, PA",
+  "waterbody": "Montour Run at Scott Station near Imperial, PA",
+  "state": "PA",
+  "latitude": 40.4572222,
+  "longitude": -80.1844444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03085956",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

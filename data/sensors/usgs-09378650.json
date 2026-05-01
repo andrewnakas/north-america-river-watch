@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09378650",
+  "key": "09378650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09378650",
+  "name": "RECAPTURE CR BL JOHNSON CR NR BLANDING,UT.",
+  "waterbody": "RECAPTURE CR BL JOHNSON CR NR BLANDING,UT.",
+  "state": "UT",
+  "latitude": 37.6808299,
+  "longitude": -109.4626212,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09378650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

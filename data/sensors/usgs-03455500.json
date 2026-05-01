@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03455500",
+  "key": "03455500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03455500",
+  "name": "W F PIGEON R ABOVE LAKE LOGAN NR HAZELWOOD, NC",
+  "waterbody": "W F PIGEON R ABOVE LAKE LOGAN NR HAZELWOOD, NC",
+  "state": "NC",
+  "latitude": 35.3961111,
+  "longitude": -82.9375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLGN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llgn7",
+  "slug": "usgs-03455500",
+  "noaaForecastPath": "data/noaa-forecast/LLGN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

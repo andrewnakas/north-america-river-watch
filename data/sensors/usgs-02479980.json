@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02479980",
+  "key": "02479980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02479980",
+  "name": "CROOKED CREEK NEAR FAIRVIEW, AL.",
+  "waterbody": "CROOKED CREEK NEAR FAIRVIEW, AL.",
+  "state": "AL",
+  "latitude": 30.78018805,
+  "longitude": -88.3188979,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRVA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek (AL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frva1",
+  "slug": "usgs-02479980",
+  "noaaForecastPath": "data/noaa-forecast/FRVA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

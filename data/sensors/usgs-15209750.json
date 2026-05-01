@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15209750",
+  "key": "15209750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15209750",
+  "name": "BONANZA C NR MC CARTHY AK",
+  "waterbody": "BONANZA C NR MC CARTHY AK",
+  "state": "AK",
+  "latitude": 61.4937202,
+  "longitude": -142.88374427,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15209750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

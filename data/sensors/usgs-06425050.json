@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06425050",
+  "key": "06425050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06425050",
+  "name": "STAGEBARN CANYON CR ABV ELK CR NR SUMMERSET, SD",
+  "waterbody": "STAGEBARN CANYON CR ABV ELK CR NR SUMMERSET, SD",
+  "state": "SD",
+  "latitude": 44.22389444,
+  "longitude": -103.3641278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBSS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stagebarn Canyon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbss2",
+  "slug": "usgs-06425050",
+  "noaaForecastPath": "data/noaa-forecast/SBSS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

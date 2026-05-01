@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06258000",
+  "key": "06258000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06258000",
+  "name": "MUDDY CREEK NEAR SHOSHONI, WY",
+  "waterbody": "MUDDY CREEK NEAR SHOSHONI, WY",
+  "state": "WY",
+  "latitude": 43.2860368,
+  "longitude": -108.2757079,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/musw4",
+  "slug": "usgs-06258000",
+  "noaaForecastPath": "data/noaa-forecast/MUSW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

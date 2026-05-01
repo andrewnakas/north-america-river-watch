@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12411000",
+  "key": "12411000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12411000",
+  "name": "NF COEUR D ALENE R AB SHOSHONE CK NR PRICHARD ID",
+  "waterbody": "NF COEUR D ALENE R AB SHOSHONE CK NR PRICHARD ID",
+  "state": "ID",
+  "latitude": 47.7061111,
+  "longitude": -115.9791667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Coeur d'Alene River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prci1",
+  "slug": "usgs-12411000",
+  "noaaForecastPath": "data/noaa-forecast/PRCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

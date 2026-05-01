@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09381500",
+  "key": "09381500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09381500",
+  "name": "PARIA RIVER NEAR CANNONVILLE, UT",
+  "waterbody": "PARIA RIVER NEAR CANNONVILLE, UT",
+  "state": "UT",
+  "latitude": 37.48109556,
+  "longitude": -112.0215756,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09381500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

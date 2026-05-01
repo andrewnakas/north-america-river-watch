@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13063000",
+  "key": "13063000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13063000",
+  "name": "BLACKFOOT RIVER AB RESERVOIR NR HENRY ID",
+  "waterbody": "BLACKFOOT RIVER AB RESERVOIR NR HENRY ID",
+  "state": "ID",
+  "latitude": 42.81527778,
+  "longitude": -111.5066667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKHI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackfoot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkhi1",
+  "slug": "usgs-13063000",
+  "noaaForecastPath": "data/noaa-forecast/BKHI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

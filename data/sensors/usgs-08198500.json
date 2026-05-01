@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08198500",
+  "key": "08198500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08198500",
+  "name": "Sabinal Rv at Sabinal, TX",
+  "waterbody": "Sabinal Rv at Sabinal, TX",
+  "state": "TX",
+  "latitude": 29.31430556,
+  "longitude": -99.4804722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SABT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabinal River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sabt2",
+  "slug": "usgs-08198500",
+  "noaaForecastPath": "data/noaa-forecast/SABT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

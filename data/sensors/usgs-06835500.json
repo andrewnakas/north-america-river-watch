@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06835500",
+  "key": "06835500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06835500",
+  "name": "Frenchman Creek at Culbertson, Nebr.",
+  "waterbody": "Frenchman Creek at Culbertson, Nebr.",
+  "state": "NE",
+  "latitude": 40.23429167,
+  "longitude": -100.878075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CULN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frenchman Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/culn1",
+  "slug": "usgs-06835500",
+  "noaaForecastPath": "data/noaa-forecast/CULN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

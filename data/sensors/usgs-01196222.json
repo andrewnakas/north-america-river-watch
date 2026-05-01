@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01196222",
+  "key": "01196222",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01196222",
+  "name": "QUINNIPIAC R NR MERIDEN, CT",
+  "waterbody": "QUINNIPIAC R NR MERIDEN, CT",
+  "state": "CT",
+  "latitude": 41.52915422,
+  "longitude": -72.86341562,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01196222",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

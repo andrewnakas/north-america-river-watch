@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01479820",
+  "key": "01479820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01479820",
+  "name": "Red Clay Creek near Kennett Square, PA",
+  "waterbody": "Red Clay Creek near Kennett Square, PA",
+  "state": "PA",
+  "latitude": 39.81677739,
+  "longitude": -75.6916008,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Clay Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knsp1",
+  "slug": "usgs-01479820",
+  "noaaForecastPath": "data/noaa-forecast/KNSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05556500",
+  "key": "05556500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05556500",
+  "name": "BIG BUREAU CREEK AT PRINCETON, IL",
+  "waterbody": "BIG BUREAU CREEK AT PRINCETON, IL",
+  "state": "IL",
+  "latitude": 41.36740278,
+  "longitude": -89.4979611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PINI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Bureau Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pini2",
+  "slug": "usgs-05556500",
+  "noaaForecastPath": "data/noaa-forecast/PINI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

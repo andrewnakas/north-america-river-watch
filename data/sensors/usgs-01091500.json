@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01091500",
+  "key": "01091500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01091500",
+  "name": "PISCATAQUOG RIVER NEAR GOFFSTOWN, NH",
+  "waterbody": "PISCATAQUOG RIVER NEAR GOFFSTOWN, NH",
+  "state": "NH",
+  "latitude": 43.01675,
+  "longitude": -71.5506252,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GFFN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piscataquog River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gffn3",
+  "slug": "usgs-01091500",
+  "noaaForecastPath": "data/noaa-forecast/GFFN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

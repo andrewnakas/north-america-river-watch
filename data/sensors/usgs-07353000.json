@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07353000",
+  "key": "07353000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07353000",
+  "name": "Saline Byu nr Clarence, LA",
+  "waterbody": "Saline Byu nr Clarence, LA",
+  "state": "LA",
+  "latitude": 31.76805556,
+  "longitude": -92.9694444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07353000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

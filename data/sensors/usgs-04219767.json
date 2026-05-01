@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04219767",
+  "key": "04219767",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04219767",
+  "name": "EIGHTEENMILE CREEK AT NEWFANE NY",
+  "waterbody": "EIGHTEENMILE CREEK AT NEWFANE NY",
+  "state": "NY",
+  "latitude": 43.25255556,
+  "longitude": -78.6978611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFEN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eighteenmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfen6",
+  "slug": "usgs-04219767",
+  "noaaForecastPath": "data/noaa-forecast/NFEN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

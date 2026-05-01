@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11478500",
+  "key": "11478500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11478500",
+  "name": "VAN DUZEN R NR BRIDGEVILLE CA",
+  "waterbody": "VAN DUZEN R NR BRIDGEVILLE CA",
+  "state": "CA",
+  "latitude": 40.480385,
+  "longitude": -123.8908461,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Van Duzen River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brgc1",
+  "slug": "usgs-11478500",
+  "noaaForecastPath": "data/noaa-forecast/BRGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

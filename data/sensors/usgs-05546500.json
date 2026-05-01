@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05546500",
+  "key": "05546500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05546500",
+  "name": "FOX RIVER AT WILMOT, WI",
+  "waterbody": "FOX RIVER AT WILMOT, WI",
+  "state": "WI",
+  "latitude": 42.5116854,
+  "longitude": -88.1792545,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05546500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

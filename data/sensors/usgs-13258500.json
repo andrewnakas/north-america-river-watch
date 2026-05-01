@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13258500",
+  "key": "13258500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13258500",
+  "name": "WEISER RIVER NR CAMBRIDGE ID",
+  "waterbody": "WEISER RIVER NR CAMBRIDGE ID",
+  "state": "ID",
+  "latitude": 44.5794444,
+  "longitude": -116.6433333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAMI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Weiser River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cami1",
+  "slug": "usgs-13258500",
+  "noaaForecastPath": "data/noaa-forecast/CAMI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

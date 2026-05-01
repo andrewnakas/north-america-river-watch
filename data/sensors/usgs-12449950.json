@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12449950",
+  "key": "12449950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12449950",
+  "name": "METHOW RIVER NEAR PATEROS, WA",
+  "waterbody": "METHOW RIVER NEAR PATEROS, WA",
+  "state": "WA",
+  "latitude": 48.0773639,
+  "longitude": -119.9850723,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PATW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Methow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/patw1",
+  "slug": "usgs-12449950",
+  "noaaForecastPath": "data/noaa-forecast/PATW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

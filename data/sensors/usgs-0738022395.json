@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0738022395",
+  "key": "0738022395",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0738022395",
+  "name": "Black Bayou at Hwy 621 near Prairieville, LA",
+  "waterbody": "Black Bayou at Hwy 621 near Prairieville, LA",
+  "state": "LA",
+  "latitude": 30.26944444,
+  "longitude": -90.9169444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLBL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blbl1",
+  "slug": "usgs-0738022395",
+  "noaaForecastPath": "data/noaa-forecast/BLBL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

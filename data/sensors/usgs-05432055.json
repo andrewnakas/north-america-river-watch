@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05432055",
+  "key": "05432055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05432055",
+  "name": "LIVINGSTON BR PECATONICA RIVER NEAR LIVINGSTON, WI",
+  "waterbody": "LIVINGSTON BR PECATONICA RIVER NEAR LIVINGSTON, WI",
+  "state": "WI",
+  "latitude": 42.9002711,
+  "longitude": -90.3731813,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05432055",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

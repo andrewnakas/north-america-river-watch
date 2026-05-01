@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01198125",
+  "key": "01198125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01198125",
+  "name": "HOUSATONIC RIVER NEAR ASHLEY FALLS, MA",
+  "waterbody": "HOUSATONIC RIVER NEAR ASHLEY FALLS, MA",
+  "state": "MA",
+  "latitude": 42.07470689,
+  "longitude": -73.333427,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01198125",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

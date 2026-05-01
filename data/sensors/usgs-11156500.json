@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11156500",
+  "key": "11156500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11156500",
+  "name": "SAN BENITO R NR WILLOW CREEK SCHOOL CA",
+  "waterbody": "SAN BENITO R NR WILLOW CREEK SCHOOL CA",
+  "state": "CA",
+  "latitude": 36.61412778,
+  "longitude": -121.21136111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Benito River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/piic1",
+  "slug": "usgs-11156500",
+  "noaaForecastPath": "data/noaa-forecast/PIIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05341498",
+  "key": "05341498",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05341498",
+  "name": "APPLE RIVER ABOVE 05341499 AT PARK IN SOMERSET, WI",
+  "waterbody": "APPLE RIVER ABOVE 05341499 AT PARK IN SOMERSET, WI",
+  "state": "WI",
+  "latitude": 45.12856395,
+  "longitude": -92.67760432,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOMW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apple River (WI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/somw3",
+  "slug": "usgs-05341498",
+  "noaaForecastPath": "data/noaa-forecast/SOMW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

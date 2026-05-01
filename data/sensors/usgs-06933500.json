@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06933500",
+  "key": "06933500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06933500",
+  "name": "Gasconade River at Jerome, MO",
+  "waterbody": "Gasconade River at Jerome, MO",
+  "state": "MO",
+  "latitude": 37.92991667,
+  "longitude": -91.9773333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRMM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gasconade River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrmm7",
+  "slug": "usgs-06933500",
+  "noaaForecastPath": "data/noaa-forecast/JRMM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01127000",
+  "key": "01127000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01127000",
+  "name": "QUINEBAUG RIVER AT JEWETT CITY, CT",
+  "waterbody": "QUINEBAUG RIVER AT JEWETT CITY, CT",
+  "state": "CT",
+  "latitude": 41.59749167,
+  "longitude": -71.98409444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCYC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quinebaug River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jcyc3",
+  "slug": "usgs-01127000",
+  "noaaForecastPath": "data/noaa-forecast/JCYC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

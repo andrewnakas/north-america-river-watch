@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15297475",
+  "key": "15297475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15297475",
+  "name": "RED CLOUD R TR NR KODIAK AK",
+  "waterbody": "RED CLOUD R TR NR KODIAK AK",
+  "state": "AK",
+  "latitude": 57.81599849,
+  "longitude": -152.6242779,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCTA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Cloud River Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcta2",
+  "slug": "usgs-15297475",
+  "noaaForecastPath": "data/noaa-forecast/RCTA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

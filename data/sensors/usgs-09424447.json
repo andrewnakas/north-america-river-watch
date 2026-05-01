@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09424447",
+  "key": "09424447",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09424447",
+  "name": "BURRO CREEK AT OLD US 93 BRIDGE, NEAR BAGDAD, AZ",
+  "waterbody": "BURRO CREEK AT OLD US 93 BRIDGE, NEAR BAGDAD, AZ",
+  "state": "AZ",
+  "latitude": 34.5346222,
+  "longitude": -113.4540583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCBA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Burro Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcba3",
+  "slug": "usgs-09424447",
+  "noaaForecastPath": "data/noaa-forecast/BCBA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

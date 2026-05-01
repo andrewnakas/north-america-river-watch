@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06236100",
+  "key": "06236100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06236100",
+  "name": "WIND RIVER AB BOYSEN RESERVOIR, NR SHOSHONI, WY",
+  "waterbody": "WIND RIVER AB BOYSEN RESERVOIR, NR SHOSHONI, WY",
+  "state": "WY",
+  "latitude": 43.1289722,
+  "longitude": -108.2248333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WABW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wind River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wabw4",
+  "slug": "usgs-06236100",
+  "noaaForecastPath": "data/noaa-forecast/WABW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

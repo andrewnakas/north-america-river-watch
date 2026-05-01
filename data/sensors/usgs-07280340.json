@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07280340",
+  "key": "07280340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07280340",
+  "name": "SOUTH FORK TILLATOBA CREEK NR CHARLESTON, MS",
+  "waterbody": "SOUTH FORK TILLATOBA CREEK NR CHARLESTON, MS",
+  "state": "MS",
+  "latitude": 33.97844676,
+  "longitude": -89.9792558,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07280340",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

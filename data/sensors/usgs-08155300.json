@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08155300",
+  "key": "08155300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08155300",
+  "name": "Barton Ck at Loop 360, Austin, TX",
+  "waterbody": "Barton Ck at Loop 360, Austin, TX",
+  "state": "TX",
+  "latitude": 30.24465306,
+  "longitude": -97.8022283,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barton Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abtt2",
+  "slug": "usgs-08155300",
+  "noaaForecastPath": "data/noaa-forecast/ABTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

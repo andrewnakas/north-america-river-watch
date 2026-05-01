@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03400500",
+  "key": "03400500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03400500",
+  "name": "POOR FORK AT CUMBERLAND, KY",
+  "waterbody": "POOR FORK AT CUMBERLAND, KY",
+  "state": "KY",
+  "latitude": 36.97398059,
+  "longitude": -82.99294,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMBK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Poor Fork Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmbk2",
+  "slug": "usgs-03400500",
+  "noaaForecastPath": "data/noaa-forecast/CMBK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

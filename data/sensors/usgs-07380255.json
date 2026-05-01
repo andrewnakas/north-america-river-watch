@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07380255",
+  "key": "07380255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380255",
+  "name": "Bayou Dupont nr Round Lake S of Myrtle Grove, LA",
+  "waterbody": "Bayou Dupont nr Round Lake S of Myrtle Grove, LA",
+  "state": "LA",
+  "latitude": 29.576733,
+  "longitude": -89.986408,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07380255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01334500",
+  "key": "01334500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01334500",
+  "name": "HOOSIC RIVER NEAR EAGLE BRIDGE NY",
+  "waterbody": "HOOSIC RIVER NEAR EAGLE BRIDGE NY",
+  "state": "NY",
+  "latitude": 42.9385833,
+  "longitude": -73.3769444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hoosic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eagn6",
+  "slug": "usgs-01334500",
+  "noaaForecastPath": "data/noaa-forecast/EAGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

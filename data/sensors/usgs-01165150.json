@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01165150",
+  "key": "01165150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01165150",
+  "name": "MILLERS RIVER AT ATHOL, MASS.",
+  "waterbody": "MILLERS RIVER AT ATHOL, MASS.",
+  "state": "MA",
+  "latitude": 42.59258697,
+  "longitude": -72.23925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATHM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Millers River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/athm3",
+  "slug": "usgs-01165150",
+  "noaaForecastPath": "data/noaa-forecast/ATHM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

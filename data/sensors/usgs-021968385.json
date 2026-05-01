@@ -1,0 +1,19 @@
+{
+  "id": "usgs:021968385",
+  "key": "021968385",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021968385",
+  "name": "BUTLER CR BELOW BUTLER CR RSVR AT FORT GORDON, GA",
+  "waterbody": "BUTLER CR BELOW BUTLER CR RSVR AT FORT GORDON, GA",
+  "state": "GA",
+  "latitude": 33.42509167,
+  "longitude": -82.09873889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-021968385",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

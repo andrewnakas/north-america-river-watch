@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05463000",
+  "key": "05463000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05463000",
+  "name": "Beaver Creek at New Hartford, IA",
+  "waterbody": "Beaver Creek at New Hartford, IA",
+  "state": "IA",
+  "latitude": 42.572,
+  "longitude": -92.6182778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHRI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhri4",
+  "slug": "usgs-05463000",
+  "noaaForecastPath": "data/noaa-forecast/NHRI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07177700",
+  "key": "07177700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07177700",
+  "name": "Flat Rock Creek at Us Hwy 75 at Tulsa, OK",
+  "waterbody": "Flat Rock Creek at Us Hwy 75 at Tulsa, OK",
+  "state": "OK",
+  "latitude": 36.2256482,
+  "longitude": -95.9447175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07177700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

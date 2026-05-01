@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13055198",
+  "key": "13055198",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13055198",
+  "name": "NORTH FORK TETON RIVER AT TETON ID",
+  "waterbody": "NORTH FORK TETON RIVER AT TETON ID",
+  "state": "ID",
+  "latitude": 43.8979678,
+  "longitude": -111.6777397,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13055198",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

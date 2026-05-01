@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07351000",
+  "key": "07351000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07351000",
+  "name": "Boggy Byu nr Keithville, LA",
+  "waterbody": "Boggy Byu nr Keithville, LA",
+  "state": "LA",
+  "latitude": 32.37655556,
+  "longitude": -93.8212222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07351000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50106500",
+  "key": "50106500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50106500",
+  "name": "RIO COAMO NR COAMO, PR",
+  "waterbody": "RIO COAMO NR COAMO, PR",
+  "state": "PR",
+  "latitude": 18.06246243,
+  "longitude": -66.3690585,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50106500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

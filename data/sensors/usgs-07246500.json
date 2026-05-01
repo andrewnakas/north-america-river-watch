@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07246500",
+  "key": "07246500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07246500",
+  "name": "Arkansas River near Sallisaw, OK",
+  "waterbody": "Arkansas River near Sallisaw, OK",
+  "state": "OK",
+  "latitude": 35.3497222,
+  "longitude": -94.7711111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KERO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eastern Oklahoma Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kero2",
+  "slug": "usgs-07246500",
+  "noaaForecastPath": "data/noaa-forecast/KERO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

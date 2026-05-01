@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03612600",
+  "key": "03612600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03612600",
+  "name": "OHIO RIVER AT OLMSTED, IL",
+  "waterbody": "OHIO RIVER AT OLMSTED, IL",
+  "state": "IL",
+  "latitude": 37.17921867,
+  "longitude": -89.058404,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OLTI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/olti2",
+  "slug": "usgs-03612600",
+  "noaaForecastPath": "data/noaa-forecast/OLTI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

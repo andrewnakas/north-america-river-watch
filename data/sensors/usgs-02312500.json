@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312500",
+  "key": "02312500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312500",
+  "name": "WITHLACOOCHEE RIVER AT CROOM, FL",
+  "waterbody": "WITHLACOOCHEE RIVER AT CROOM, FL",
+  "state": "FL",
+  "latitude": 28.5927714,
+  "longitude": -82.222032,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River (FL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crmf1",
+  "slug": "usgs-02312500",
+  "noaaForecastPath": "data/noaa-forecast/CRMF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06208500",
+  "key": "06208500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06208500",
+  "name": "Clarks Fork Yellowstone River at Edgar MT",
+  "waterbody": "Clarks Fork Yellowstone River at Edgar MT",
+  "state": "MT",
+  "latitude": 45.46571389,
+  "longitude": -108.8441056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDGM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clarks Fork of the Yellowstone",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edgm8",
+  "slug": "usgs-06208500",
+  "noaaForecastPath": "data/noaa-forecast/EDGM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

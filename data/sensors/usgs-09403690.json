@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09403690",
+  "key": "09403690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09403690",
+  "name": "JOHNSON WASH ABOVE FLOOD CANYON NEAR KANAB, UT",
+  "waterbody": "JOHNSON WASH ABOVE FLOOD CANYON NEAR KANAB, UT",
+  "state": "UT",
+  "latitude": 37.1272063,
+  "longitude": -112.390755,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09403690",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

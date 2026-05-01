@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03578500",
+  "key": "03578500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03578500",
+  "name": "BRADLEY CREEK NR PRAIRIE PLAINS, TN",
+  "waterbody": "BRADLEY CREEK NR PRAIRIE PLAINS, TN",
+  "state": "TN",
+  "latitude": 35.35633238,
+  "longitude": -85.9790227,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPLT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bradley Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pplt1",
+  "slug": "usgs-03578500",
+  "noaaForecastPath": "data/noaa-forecast/PPLT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

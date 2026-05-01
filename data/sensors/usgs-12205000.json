@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12205000",
+  "key": "12205000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12205000",
+  "name": "NF NOOKSACK RIVER BL CASCADE CREEK NR GLACIER, WA",
+  "waterbody": "NF NOOKSACK RIVER BL CASCADE CREEK NR GLACIER, WA",
+  "state": "WA",
+  "latitude": 48.90595739,
+  "longitude": -121.8443104,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFNW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Nooksack River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfnw1",
+  "slug": "usgs-12205000",
+  "noaaForecastPath": "data/noaa-forecast/NFNW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

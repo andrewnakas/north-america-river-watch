@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05573540",
+  "key": "05573540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05573540",
+  "name": "SANGAMON RIVER AT ROUTE 48 AT DECATUR, IL",
+  "waterbody": "SANGAMON RIVER AT ROUTE 48 AT DECATUR, IL",
+  "state": "IL",
+  "latitude": 39.8311111,
+  "longitude": -88.9763889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sangamon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcri2",
+  "slug": "usgs-05573540",
+  "noaaForecastPath": "data/noaa-forecast/DCRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

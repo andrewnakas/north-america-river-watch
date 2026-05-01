@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06408500",
+  "key": "06408500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06408500",
+  "name": "SPRING CR NEAR HERMOSA,SD",
+  "waterbody": "SPRING CR NEAR HERMOSA,SD",
+  "state": "SD",
+  "latitude": 43.9416695,
+  "longitude": -103.1591456,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06408500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.379Z"
+}

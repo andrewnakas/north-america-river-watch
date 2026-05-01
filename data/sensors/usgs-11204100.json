@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11204100",
+  "key": "11204100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11204100",
+  "name": "SF TULE R NR RESERVATION BNDRY NR PORTERVILLE CA",
+  "waterbody": "SF TULE R NR RESERVATION BNDRY NR PORTERVILLE CA",
+  "state": "CA",
+  "latitude": 36.02411648,
+  "longitude": -118.8134258,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TVRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Tule River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tvrc1",
+  "slug": "usgs-11204100",
+  "noaaForecastPath": "data/noaa-forecast/TVRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

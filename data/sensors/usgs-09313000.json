@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09313000",
+  "key": "09313000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09313000",
+  "name": "PRICE RIVER NEAR HEINER, UTAH",
+  "waterbody": "PRICE RIVER NEAR HEINER, UTAH",
+  "state": "UT",
+  "latitude": 39.71885199,
+  "longitude": -110.8659946,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09313000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08104300",
+  "key": "08104300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08104300",
+  "name": "Salado Ck at Salado, TX",
+  "waterbody": "Salado Ck at Salado, TX",
+  "state": "TX",
+  "latitude": 30.9443472,
+  "longitude": -97.534075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08104300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

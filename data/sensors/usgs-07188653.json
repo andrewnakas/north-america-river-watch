@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07188653",
+  "key": "07188653",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07188653",
+  "name": "Big Sugar Creek near Powell, MO",
+  "waterbody": "Big Sugar Creek near Powell, MO",
+  "state": "MO",
+  "latitude": 36.6158611,
+  "longitude": -94.1822222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSGM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sugar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsgm7",
+  "slug": "usgs-07188653",
+  "noaaForecastPath": "data/noaa-forecast/BSGM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

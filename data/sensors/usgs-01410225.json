@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01410225",
+  "key": "01410225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01410225",
+  "name": "Morses Mill Stream at Port Republic NJ",
+  "waterbody": "Morses Mill Stream at Port Republic NJ",
+  "state": "NJ",
+  "latitude": 39.50638889,
+  "longitude": -74.5055556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01410225",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

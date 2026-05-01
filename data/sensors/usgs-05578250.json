@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05578250",
+  "key": "05578250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05578250",
+  "name": "NORTH FORK SALT CREEK NEAR DE WITT, IL",
+  "waterbody": "NORTH FORK SALT CREEK NEAR DE WITT, IL",
+  "state": "IL",
+  "latitude": 40.2358611,
+  "longitude": -88.8095556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Salt Creek (IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dewi2",
+  "slug": "usgs-05578250",
+  "noaaForecastPath": "data/noaa-forecast/DEWI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

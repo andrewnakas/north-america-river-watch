@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03125900",
+  "key": "03125900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03125900",
+  "name": "Boggs Fork at Piedmont OH",
+  "waterbody": "Boggs Fork at Piedmont OH",
+  "state": "OH",
+  "latitude": 40.19451235,
+  "longitude": -81.2095508,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03125900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13213072",
+  "key": "13213072",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13213072",
+  "name": "SAND RUN GULCH NR PARMA ID",
+  "waterbody": "SAND RUN GULCH NR PARMA ID",
+  "state": "ID",
+  "latitude": 43.799606,
+  "longitude": -116.975711,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13213072",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

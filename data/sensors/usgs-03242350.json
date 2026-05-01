@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03242350",
+  "key": "03242350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03242350",
+  "name": "Caesar Creek near Wellman OH",
+  "waterbody": "Caesar Creek near Wellman OH",
+  "state": "OH",
+  "latitude": 39.4825605,
+  "longitude": -84.0643779,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Caesar Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cclo1",
+  "slug": "usgs-03242350",
+  "noaaForecastPath": "data/noaa-forecast/CCLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

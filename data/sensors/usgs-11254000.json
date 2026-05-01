@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11254000",
+  "key": "11254000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11254000",
+  "name": "SAN JOAQUIN R NR MENDOTA CA",
+  "waterbody": "SAN JOAQUIN R NR MENDOTA CA",
+  "state": "CA",
+  "latitude": 36.8105046,
+  "longitude": -120.3782256,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SJMC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Joaquin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sjmc1",
+  "slug": "usgs-11254000",
+  "noaaForecastPath": "data/noaa-forecast/SJMC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

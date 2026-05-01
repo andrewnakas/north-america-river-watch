@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09240020",
+  "key": "09240020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09240020",
+  "name": "YAMPA RIVER BELOW SODA CREEK AT STEAMBOAT SPGS, CO",
+  "waterbody": "YAMPA RIVER BELOW SODA CREEK AT STEAMBOAT SPGS, CO",
+  "state": "CO",
+  "latitude": 40.489222,
+  "longitude": -106.841528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09240020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

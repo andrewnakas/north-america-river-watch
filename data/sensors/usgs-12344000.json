@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12344000",
+  "key": "12344000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12344000",
+  "name": "Bitterroot River near Darby MT",
+  "waterbody": "Bitterroot River near Darby MT",
+  "state": "MT",
+  "latitude": 45.97205,
+  "longitude": -114.1412333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DARM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bitterroot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/darm8",
+  "slug": "usgs-12344000",
+  "noaaForecastPath": "data/noaa-forecast/DARM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02076500",
+  "key": "02076500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02076500",
+  "name": "GEORGES CREEK NEAR GRETNA, VA",
+  "waterbody": "GEORGES CREEK NEAR GRETNA, VA",
+  "state": "VA",
+  "latitude": 36.9365292,
+  "longitude": -79.311412,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02076500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05599490",
+  "key": "05599490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05599490",
+  "name": "BIG MUDDY RIVER AT RTE 127 AT MURPHYSBORO, IL",
+  "waterbody": "BIG MUDDY RIVER AT RTE 127 AT MURPHYSBORO, IL",
+  "state": "IL",
+  "latitude": 37.7583333,
+  "longitude": -89.3277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MURI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Muddy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/muri2",
+  "slug": "usgs-05599490",
+  "noaaForecastPath": "data/noaa-forecast/MURI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

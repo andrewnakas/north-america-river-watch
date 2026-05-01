@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06395000",
+  "key": "06395000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06395000",
+  "name": "CHEYENNE RIVER AT EDGEMONT,SD",
+  "waterbody": "CHEYENNE RIVER AT EDGEMONT,SD",
+  "state": "SD",
+  "latitude": 43.3055286,
+  "longitude": -103.8210312,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDGS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edgs2",
+  "slug": "usgs-06395000",
+  "noaaForecastPath": "data/noaa-forecast/EDGS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

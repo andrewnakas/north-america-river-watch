@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09052400",
+  "key": "09052400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09052400",
+  "name": "BOULDER CREEK AT UPPER STATION, NEAR DILLON, CO.",
+  "waterbody": "BOULDER CREEK AT UPPER STATION, NEAR DILLON, CO.",
+  "state": "CO",
+  "latitude": 39.7280414,
+  "longitude": -106.1733569,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09052400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

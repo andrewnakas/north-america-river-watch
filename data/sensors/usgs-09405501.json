@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09405501",
+  "key": "09405501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09405501",
+  "name": "NORTH FORK VIRGIN RIVER NR SPRINGDALE, UT",
+  "waterbody": "NORTH FORK VIRGIN RIVER NR SPRINGDALE, UT",
+  "state": "UT",
+  "latitude": 37.2097046,
+  "longitude": -112.9785512,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09405501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

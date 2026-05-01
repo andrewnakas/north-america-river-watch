@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01529500",
+  "key": "01529500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01529500",
+  "name": "COHOCTON RIVER NEAR CAMPBELL NY",
+  "waterbody": "COHOCTON RIVER NEAR CAMPBELL NY",
+  "state": "NY",
+  "latitude": 42.25258333,
+  "longitude": -77.21652778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cohocton River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpbn6",
+  "slug": "usgs-01529500",
+  "noaaForecastPath": "data/noaa-forecast/CPBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

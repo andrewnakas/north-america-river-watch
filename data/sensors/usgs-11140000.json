@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11140000",
+  "key": "11140000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11140000",
+  "name": "SISQUOC R NR GAREY",
+  "waterbody": "SISQUOC R NR GAREY",
+  "state": "CA",
+  "latitude": 34.8938596,
+  "longitude": -120.3065089,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GARC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sisquoc River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/garc1",
+  "slug": "usgs-11140000",
+  "noaaForecastPath": "data/noaa-forecast/GARC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

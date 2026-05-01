@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50064200",
+  "key": "50064200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50064200",
+  "name": "RIO GRANDE NR EL VERDE, PR",
+  "waterbody": "RIO GRANDE NR EL VERDE, PR",
+  "state": "PR",
+  "latitude": 18.345408,
+  "longitude": -65.841983,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VERP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande nr Verde",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/verp4",
+  "slug": "usgs-50064200",
+  "noaaForecastPath": "data/noaa-forecast/VERP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

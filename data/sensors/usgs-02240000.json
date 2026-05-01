@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02240000",
+  "key": "02240000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02240000",
+  "name": "OCKLAWAHA RIVER NEAR CONNER, FL",
+  "waterbody": "OCKLAWAHA RIVER NEAR CONNER, FL",
+  "state": "FL",
+  "latitude": 29.21469888,
+  "longitude": -81.9859203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ocklawaha River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnrf1",
+  "slug": "usgs-02240000",
+  "noaaForecastPath": "data/noaa-forecast/CNRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09444000",
+  "key": "09444000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09444000",
+  "name": "SAN FRANCISCO RIVER NEAR GLENWOOD, NM",
+  "waterbody": "SAN FRANCISCO RIVER NEAR GLENWOOD, NM",
+  "state": "NM",
+  "latitude": 33.24716667,
+  "longitude": -108.88,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSFN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Francisco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gsfn5",
+  "slug": "usgs-09444000",
+  "noaaForecastPath": "data/noaa-forecast/GSFN5.json",
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

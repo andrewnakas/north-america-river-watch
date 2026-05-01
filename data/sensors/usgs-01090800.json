@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01090800",
+  "key": "01090800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01090800",
+  "name": "PISCATAQUOG RIVER BL EVERETT DAM, NR E WEARE, NH",
+  "waterbody": "PISCATAQUOG RIVER BL EVERETT DAM, NR E WEARE, NH",
+  "state": "NH",
+  "latitude": 43.0914705,
+  "longitude": -71.6595182,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01090800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

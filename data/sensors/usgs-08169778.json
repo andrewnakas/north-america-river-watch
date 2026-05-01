@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08169778",
+  "key": "08169778",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08169778",
+  "name": "Geronimo Ck at I-10 nr Seguin, TX",
+  "waterbody": "Geronimo Ck at I-10 nr Seguin, TX",
+  "state": "TX",
+  "latitude": 29.5996111,
+  "longitude": -97.9391722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08169778",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

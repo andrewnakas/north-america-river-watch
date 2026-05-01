@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12415140",
+  "key": "12415140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12415140",
+  "name": "ST JOE RIVER NEAR CHATCOLET, ID",
+  "waterbody": "ST JOE RIVER NEAR CHATCOLET, ID",
+  "state": "ID",
+  "latitude": 47.3612972,
+  "longitude": -116.6915639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12415140",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

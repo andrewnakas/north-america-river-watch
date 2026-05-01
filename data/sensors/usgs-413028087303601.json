@@ -1,0 +1,19 @@
+{
+  "id": "usgs:413028087303601",
+  "key": "413028087303601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "413028087303601",
+  "name": "HART DITCH AT DYER, IN (LCRDAN)",
+  "waterbody": "HART DITCH AT DYER, IN (LCRDAN)",
+  "state": "IN",
+  "latitude": 41.5078132,
+  "longitude": -87.51004,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-413028087303601",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06108800",
+  "key": "06108800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06108800",
+  "name": "Teton River at Loma MT",
+  "waterbody": "Teton River at Loma MT",
+  "state": "MT",
+  "latitude": 47.9327194,
+  "longitude": -110.5144333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Teton River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltrm8",
+  "slug": "usgs-06108800",
+  "noaaForecastPath": "data/noaa-forecast/LTRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

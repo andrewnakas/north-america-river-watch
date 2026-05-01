@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02091000",
+  "key": "02091000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02091000",
+  "name": "NAHUNTA SWAMP NEAR SHINE, NC",
+  "waterbody": "NAHUNTA SWAMP NEAR SHINE, NC",
+  "state": "NC",
+  "latitude": 35.48888889,
+  "longitude": -77.8061111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nahunta Swamp",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nahn7",
+  "slug": "usgs-02091000",
+  "noaaForecastPath": "data/noaa-forecast/NAHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

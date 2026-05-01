@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03145173",
+  "key": "03145173",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03145173",
+  "name": "South Fork Licking River at Heath OH",
+  "waterbody": "South Fork Licking River at Heath OH",
+  "state": "OH",
+  "latitude": 40.0375,
+  "longitude": -82.4133333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFHO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Licking River (OH)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfho1",
+  "slug": "usgs-03145173",
+  "noaaForecastPath": "data/noaa-forecast/SFHO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

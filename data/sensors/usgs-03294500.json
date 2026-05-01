@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03294500",
+  "key": "03294500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03294500",
+  "name": "OHIO RIVER AT LOUISVILLE, KY",
+  "waterbody": "OHIO RIVER AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.28034736,
+  "longitude": -85.7991305,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLPK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlpk2",
+  "slug": "usgs-03294500",
+  "noaaForecastPath": "data/noaa-forecast/MLPK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

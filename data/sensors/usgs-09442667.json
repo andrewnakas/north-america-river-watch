@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442667",
+  "key": "09442667",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442667",
+  "name": "A. LANEY DITCH NR. LUNA, NM",
+  "waterbody": "A. LANEY DITCH NR. LUNA, NM",
+  "state": "NM",
+  "latitude": 33.83027778,
+  "longitude": -108.8405556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442667",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

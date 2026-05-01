@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415460",
+  "key": "09415460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415460",
+  "name": "WHITE RV NR RED MTN NR PRESTON, NV",
+  "waterbody": "WHITE RV NR RED MTN NR PRESTON, NV",
+  "state": "NV",
+  "latitude": 38.93521559,
+  "longitude": -115.2983582,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415460",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

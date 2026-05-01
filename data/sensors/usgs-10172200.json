@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10172200",
+  "key": "10172200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10172200",
+  "name": "RED BUTTE CREEK AT FORT DOUGLAS, NEAR SLC, UT",
+  "waterbody": "RED BUTTE CREEK AT FORT DOUGLAS, NEAR SLC, UT",
+  "state": "UT",
+  "latitude": 40.77994627,
+  "longitude": -111.806045,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBRU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Butte Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbru1",
+  "slug": "usgs-10172200",
+  "noaaForecastPath": "data/noaa-forecast/RBRU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

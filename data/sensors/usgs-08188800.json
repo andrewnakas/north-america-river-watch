@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08188800",
+  "key": "08188800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08188800",
+  "name": "Guadalupe Rv nr Tivoli, TX",
+  "waterbody": "Guadalupe Rv nr Tivoli, TX",
+  "state": "TX",
+  "latitude": 28.50582149,
+  "longitude": -96.8847203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TIVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tivt2",
+  "slug": "usgs-08188800",
+  "noaaForecastPath": "data/noaa-forecast/TIVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

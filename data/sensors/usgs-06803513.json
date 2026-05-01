@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803513",
+  "key": "06803513",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803513",
+  "name": "Salt Creek at 70th Street at Lincoln, Nebr.",
+  "waterbody": "Salt Creek at 70th Street at Lincoln, Nebr.",
+  "state": "NE",
+  "latitude": 40.885925,
+  "longitude": -96.624264,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lscn1",
+  "slug": "usgs-06803513",
+  "noaaForecastPath": "data/noaa-forecast/LSCN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

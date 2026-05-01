@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04043016",
+  "key": "04043016",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04043016",
+  "name": "PILGRIM RIVER AT PARADISE RD NR DODGEVILLE, MI",
+  "waterbody": "PILGRIM RIVER AT PARADISE RD NR DODGEVILLE, MI",
+  "state": "MI",
+  "latitude": 47.0840943,
+  "longitude": -88.5506792,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pilgrim River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plgm4",
+  "slug": "usgs-04043016",
+  "noaaForecastPath": "data/noaa-forecast/PLGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

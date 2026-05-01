@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05430175",
+  "key": "05430175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05430175",
+  "name": "YAHARA RIVER NEAR FULTON, WI",
+  "waterbody": "YAHARA RIVER NEAR FULTON, WI",
+  "state": "WI",
+  "latitude": 42.82638889,
+  "longitude": -89.1719444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FULW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yahara River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fulw3",
+  "slug": "usgs-05430175",
+  "noaaForecastPath": "data/noaa-forecast/FULW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

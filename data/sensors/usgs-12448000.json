@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12448000",
+  "key": "12448000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12448000",
+  "name": "CHEWUCH RIVER AT WINTHROP, WA",
+  "waterbody": "CHEWUCH RIVER AT WINTHROP, WA",
+  "state": "WA",
+  "latitude": 48.4770898,
+  "longitude": -120.1864734,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WINW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chewuch River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/winw1",
+  "slug": "usgs-12448000",
+  "noaaForecastPath": "data/noaa-forecast/WINW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

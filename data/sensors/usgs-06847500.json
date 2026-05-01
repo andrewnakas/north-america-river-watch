@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06847500",
+  "key": "06847500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06847500",
+  "name": "Sappa Creek near Stamford, Nebr.",
+  "waterbody": "Sappa Creek near Stamford, Nebr.",
+  "state": "NE",
+  "latitude": 40.11849167,
+  "longitude": -99.51707222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STMN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sappa Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stmn1",
+  "slug": "usgs-06847500",
+  "noaaForecastPath": "data/noaa-forecast/STMN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

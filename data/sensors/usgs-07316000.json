@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07316000",
+  "key": "07316000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07316000",
+  "name": "Red River near Gainesville, TX",
+  "waterbody": "Red River near Gainesville, TX",
+  "state": "OK",
+  "latitude": 33.7278833,
+  "longitude": -97.1600129,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07316000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

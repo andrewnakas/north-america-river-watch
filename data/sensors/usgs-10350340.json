@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10350340",
+  "key": "10350340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10350340",
+  "name": "TRUCKEE RV NR TRACY, NV",
+  "waterbody": "TRUCKEE RV NR TRACY, NV",
+  "state": "NV",
+  "latitude": 39.55657878,
+  "longitude": -119.5532362,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TNTN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tntn2",
+  "slug": "usgs-10350340",
+  "noaaForecastPath": "data/noaa-forecast/TNTN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

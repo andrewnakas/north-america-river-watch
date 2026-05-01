@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03544947",
+  "key": "03544947",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03544947",
+  "name": "BRIER CREEK NEAR HIAWASSEE, GA",
+  "waterbody": "BRIER CREEK NEAR HIAWASSEE, GA",
+  "state": "GA",
+  "latitude": 34.83481567,
+  "longitude": -83.7093407,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03544947",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

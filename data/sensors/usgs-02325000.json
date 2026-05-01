@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02325000",
+  "key": "02325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02325000",
+  "name": "FENHOLLOWAY RIVER NEAR PERRY, FLA",
+  "waterbody": "FENHOLLOWAY RIVER NEAR PERRY, FLA",
+  "state": "FL",
+  "latitude": 30.0713236,
+  "longitude": -83.6623725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FENF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fenholloway River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fenf1",
+  "slug": "usgs-02325000",
+  "noaaForecastPath": "data/noaa-forecast/FENF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

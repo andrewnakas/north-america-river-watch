@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08062000",
+  "key": "08062000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08062000",
+  "name": "E Fk Trinity Rv nr Crandall, TX",
+  "waterbody": "E Fk Trinity Rv nr Crandall, TX",
+  "state": "TX",
+  "latitude": 32.6387442,
+  "longitude": -96.4852651,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnlt2",
+  "slug": "usgs-08062000",
+  "noaaForecastPath": "data/noaa-forecast/CNLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

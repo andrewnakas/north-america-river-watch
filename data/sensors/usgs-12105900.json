@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12105900",
+  "key": "12105900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12105900",
+  "name": "GREEN RIVER BELOW HOWARD A HANSON DAM, WA",
+  "waterbody": "GREEN RIVER BELOW HOWARD A HANSON DAM, WA",
+  "state": "WA",
+  "latitude": 47.2837143,
+  "longitude": -121.797885,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HHDW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (WA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hhdw1",
+  "slug": "usgs-12105900",
+  "noaaForecastPath": "data/noaa-forecast/HHDW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06625000",
+  "key": "06625000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06625000",
+  "name": "ENCAMPMENT RIVER AT MOUTH, NEAR ENCAMPMENT, WY",
+  "waterbody": "ENCAMPMENT RIVER AT MOUTH, NEAR ENCAMPMENT, WY",
+  "state": "WY",
+  "latitude": 41.30328495,
+  "longitude": -106.7153597,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Encampment River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ecrw4",
+  "slug": "usgs-06625000",
+  "noaaForecastPath": "data/noaa-forecast/ECRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01640975",
+  "key": "01640975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01640975",
+  "name": "BIG HUNTING CREEK NEAR THURMONT, MD",
+  "waterbody": "BIG HUNTING CREEK NEAR THURMONT, MD",
+  "state": "MD",
+  "latitude": 39.6300833,
+  "longitude": -77.45527778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01640975",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

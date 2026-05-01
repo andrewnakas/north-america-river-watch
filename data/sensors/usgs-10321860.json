@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10321860",
+  "key": "10321860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10321860",
+  "name": "JACK CK BLW INDIAN CK NR CARLIN, NV",
+  "waterbody": "JACK CK BLW INDIAN CK NR CARLIN, NV",
+  "state": "NV",
+  "latitude": 40.95102336,
+  "longitude": -116.2403625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10321860",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

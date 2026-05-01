@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01338000",
+  "key": "01338000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01338000",
+  "name": "ORISKANY CREEK NEAR ORISKANY NY",
+  "waterbody": "ORISKANY CREEK NEAR ORISKANY NY",
+  "state": "NY",
+  "latitude": 43.14277778,
+  "longitude": -75.3378056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oriskany Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orkn6",
+  "slug": "usgs-01338000",
+  "noaaForecastPath": "data/noaa-forecast/ORKN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

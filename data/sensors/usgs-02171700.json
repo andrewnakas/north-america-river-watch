@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02171700",
+  "key": "02171700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02171700",
+  "name": "SANTEE RIVER NR JAMESTOWN, SC",
+  "waterbody": "SANTEE RIVER NR JAMESTOWN, SC",
+  "state": "SC",
+  "latitude": 33.3048893,
+  "longitude": -79.6781263,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAMS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jams1",
+  "slug": "usgs-02171700",
+  "noaaForecastPath": "data/noaa-forecast/JAMS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

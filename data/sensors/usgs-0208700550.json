@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208700550",
+  "key": "0208700550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208700550",
+  "name": "LITTLE LICK CREEK AT NC HWY 98 AT OAK GROVE, NC",
+  "waterbody": "LITTLE LICK CREEK AT NC HWY 98 AT OAK GROVE, NC",
+  "state": "NC",
+  "latitude": 35.9823333,
+  "longitude": -78.8245,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Lick Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcrn7",
+  "slug": "usgs-0208700550",
+  "noaaForecastPath": "data/noaa-forecast/LCRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

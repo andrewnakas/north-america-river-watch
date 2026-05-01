@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03092460",
+  "key": "03092460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03092460",
+  "name": "West Branch Mahoning River at Wayland OH",
+  "waterbody": "West Branch Mahoning River at Wayland OH",
+  "state": "OH",
+  "latitude": 41.15700127,
+  "longitude": -81.0717621,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KITO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Mahoning River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kito1",
+  "slug": "usgs-03092460",
+  "noaaForecastPath": "data/noaa-forecast/KITO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

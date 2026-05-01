@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05316770",
+  "key": "05316770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05316770",
+  "name": "MINNESOTA RIVER AT NEW ULM, MN",
+  "waterbody": "MINNESOTA RIVER AT NEW ULM, MN",
+  "state": "MN",
+  "latitude": 44.29694444,
+  "longitude": -94.4336111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NULM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnesota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nulm5",
+  "slug": "usgs-05316770",
+  "noaaForecastPath": "data/noaa-forecast/NULM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:041222095",
+  "key": "041222095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "041222095",
+  "name": "FLOWER CR AT INDIAN BAY RD NR ROTHBURY, MI",
+  "waterbody": "FLOWER CR AT INDIAN BAY RD NR ROTHBURY, MI",
+  "state": "MI",
+  "latitude": 43.47005833,
+  "longitude": -86.41700556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-041222095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

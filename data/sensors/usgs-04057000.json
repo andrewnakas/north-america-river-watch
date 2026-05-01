@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04057000",
+  "key": "04057000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04057000",
+  "name": "INDIAN RIVER NEAR MANISTIQUE, MI",
+  "waterbody": "INDIAN RIVER NEAR MANISTIQUE, MI",
+  "state": "MI",
+  "latitude": 45.99108229,
+  "longitude": -86.2882001,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04057000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04172000",
+  "key": "04172000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04172000",
+  "name": "HURON RIVER NEAR HAMBURG, MI",
+  "waterbody": "HURON RIVER NEAR HAMBURG, MI",
+  "state": "MI",
+  "latitude": 42.46528584,
+  "longitude": -83.7998866,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Huron River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmgm4",
+  "slug": "usgs-04172000",
+  "noaaForecastPath": "data/noaa-forecast/HMGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

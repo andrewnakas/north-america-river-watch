@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02297635",
+  "key": "02297635",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02297635",
+  "name": "SHELL CREEK ON CR 764 NEAR PUNTA GORDA FL",
+  "waterbody": "SHELL CREEK ON CR 764 NEAR PUNTA GORDA FL",
+  "state": "FL",
+  "latitude": 26.975,
+  "longitude": -81.8875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHEF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shell Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shef1",
+  "slug": "usgs-02297635",
+  "noaaForecastPath": "data/noaa-forecast/SHEF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

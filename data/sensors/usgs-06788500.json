@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06788500",
+  "key": "06788500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06788500",
+  "name": "NORTH LOUP RIVER AT ORD, NE",
+  "waterbody": "NORTH LOUP RIVER AT ORD, NE",
+  "state": "NE",
+  "latitude": 41.6063611,
+  "longitude": -98.9196944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ordn1",
+  "slug": "usgs-06788500",
+  "noaaForecastPath": "data/noaa-forecast/ORDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

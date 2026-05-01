@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07381515",
+  "key": "07381515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381515",
+  "name": "Atchafalaya River at Butte La Rose, LA",
+  "waterbody": "Atchafalaya River at Butte La Rose, LA",
+  "state": "LA",
+  "latitude": 30.28158638,
+  "longitude": -91.6867797,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atchafalaya River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blrl1",
+  "slug": "usgs-07381515",
+  "noaaForecastPath": "data/noaa-forecast/BLRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

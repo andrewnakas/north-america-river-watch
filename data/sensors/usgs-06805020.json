@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06805020",
+  "key": "06805020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06805020",
+  "name": "Platte River at South Bend, Nebr.",
+  "waterbody": "Platte River at South Bend, Nebr.",
+  "state": "NE",
+  "latitude": 40.9993361,
+  "longitude": -96.2308972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06805020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

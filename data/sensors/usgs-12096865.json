@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12096865",
+  "key": "12096865",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12096865",
+  "name": "HUCKLEBERRY CREEK NEAR GREENWATER, WA",
+  "waterbody": "HUCKLEBERRY CREEK NEAR GREENWATER, WA",
+  "state": "WA",
+  "latitude": 47.0603864,
+  "longitude": -121.6056517,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12096865",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

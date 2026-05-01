@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03311000",
+  "key": "03311000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03311000",
+  "name": "NOLIN RIVER AT KYROCK, KY",
+  "waterbody": "NOLIN RIVER AT KYROCK, KY",
+  "state": "KY",
+  "latitude": 37.2742157,
+  "longitude": -86.2508064,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nolin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nolk2",
+  "slug": "usgs-03311000",
+  "noaaForecastPath": "data/noaa-forecast/NOLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

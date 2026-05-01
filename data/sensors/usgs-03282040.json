@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03282040",
+  "key": "03282040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03282040",
+  "name": "STURGEON CREEK AT CRESSMONT, KY",
+  "waterbody": "STURGEON CREEK AT CRESSMONT, KY",
+  "state": "KY",
+  "latitude": 37.5006422,
+  "longitude": -83.8101979,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRMK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sturgeon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crmk2",
+  "slug": "usgs-03282040",
+  "noaaForecastPath": "data/noaa-forecast/CRMK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

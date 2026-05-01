@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05487500",
+  "key": "05487500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05487500",
+  "name": "Des Moines River near Runnells, IA",
+  "waterbody": "Des Moines River near Runnells, IA",
+  "state": "IA",
+  "latitude": 41.4886016,
+  "longitude": -93.3382647,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05487500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

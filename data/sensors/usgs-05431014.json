@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05431014",
+  "key": "05431014",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05431014",
+  "name": "JACKSON CREEK AT PETRIE ROAD NEAR ELKHORN, WI",
+  "waterbody": "JACKSON CREEK AT PETRIE ROAD NEAR ELKHORN, WI",
+  "state": "WI",
+  "latitude": 42.6413971,
+  "longitude": -88.5217138,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05431014",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

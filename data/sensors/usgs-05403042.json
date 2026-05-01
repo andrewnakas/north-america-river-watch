@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05403042",
+  "key": "05403042",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05403042",
+  "name": "NEAL LATERAL AT CONTROL STRUCTURE 8 NR FINLEY, WI",
+  "waterbody": "NEAL LATERAL AT CONTROL STRUCTURE 8 NR FINLEY, WI",
+  "state": "WI",
+  "latitude": 44.1580197,
+  "longitude": -90.2315213,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05403042",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

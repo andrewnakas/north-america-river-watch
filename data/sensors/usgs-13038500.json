@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13038500",
+  "key": "13038500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13038500",
+  "name": "SNAKE RIVER AT LORENZO ID",
+  "waterbody": "SNAKE RIVER AT LORENZO ID",
+  "state": "ID",
+  "latitude": 43.73527778,
+  "longitude": -111.87805556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LORI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lori1",
+  "slug": "usgs-13038500",
+  "noaaForecastPath": "data/noaa-forecast/LORI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

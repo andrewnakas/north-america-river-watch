@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12115500",
+  "key": "12115500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12115500",
+  "name": "REX RIVER NEAR CEDAR FALLS, WA",
+  "waterbody": "REX RIVER NEAR CEDAR FALLS, WA",
+  "state": "WA",
+  "latitude": 47.35063398,
+  "longitude": -121.6631392,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12115500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

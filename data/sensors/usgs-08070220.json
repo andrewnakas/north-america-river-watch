@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08070220",
+  "key": "08070220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08070220",
+  "name": "Caney Ck at FM 1097 nr Willis, TX",
+  "waterbody": "Caney Ck at FM 1097 nr Willis, TX",
+  "state": "TX",
+  "latitude": 30.4547972,
+  "longitude": -95.4236389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08070220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

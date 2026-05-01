@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11479560",
+  "key": "11479560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11479560",
+  "name": "EEL R A FERNBRIDGE CA",
+  "waterbody": "EEL R A FERNBRIDGE CA",
+  "state": "CA",
+  "latitude": 40.6156578,
+  "longitude": -124.202801,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eel River (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frnc1",
+  "slug": "usgs-11479560",
+  "noaaForecastPath": "data/noaa-forecast/FRNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

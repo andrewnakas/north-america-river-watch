@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50093075",
+  "key": "50093075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50093075",
+  "name": "CANAL DE PATILLAS ABV GUAYAMA FILTRATION PLANT, PR",
+  "waterbody": "CANAL DE PATILLAS ABV GUAYAMA FILTRATION PLANT, PR",
+  "state": "PR",
+  "latitude": 17.9825,
+  "longitude": -66.101111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAXP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canal de Patillas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paxp4",
+  "slug": "usgs-50093075",
+  "noaaForecastPath": "data/noaa-forecast/PAXP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

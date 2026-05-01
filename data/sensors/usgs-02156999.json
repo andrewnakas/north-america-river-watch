@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02156999",
+  "key": "02156999",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02156999",
+  "name": "N. TYGER RIVER BELOW WELLFORD, SC",
+  "waterbody": "N. TYGER RIVER BELOW WELLFORD, SC",
+  "state": "SC",
+  "latitude": 34.939906,
+  "longitude": -82.054406,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02156999",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

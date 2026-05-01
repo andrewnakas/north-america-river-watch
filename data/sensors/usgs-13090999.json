@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13090999",
+  "key": "13090999",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13090999",
+  "name": "BLUE LAKES SPRING BEL PUMP PLANT NR TWIN FALLS ID",
+  "waterbody": "BLUE LAKES SPRING BEL PUMP PLANT NR TWIN FALLS ID",
+  "state": "ID",
+  "latitude": 42.6147222,
+  "longitude": -114.4683333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13090999",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

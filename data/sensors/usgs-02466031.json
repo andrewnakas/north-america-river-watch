@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02466031",
+  "key": "02466031",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02466031",
+  "name": "BLACK WARRIOR RIVER BELOW SELDEN DAM NR EUTAW, AL",
+  "waterbody": "BLACK WARRIOR RIVER BELOW SELDEN DAM NR EUTAW, AL",
+  "state": "AL",
+  "latitude": 32.7773528,
+  "longitude": -87.841402,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLDA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Warrior River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlda1",
+  "slug": "usgs-02466031",
+  "noaaForecastPath": "data/noaa-forecast/WLDA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

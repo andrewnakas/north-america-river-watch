@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04027655",
+  "key": "04027655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04027655",
+  "name": "BAD RIVER AT THE MOUTH NEAR ODANAH, WI",
+  "waterbody": "BAD RIVER AT THE MOUTH NEAR ODANAH, WI",
+  "state": "WI",
+  "latitude": 46.63805556,
+  "longitude": -90.6522222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04027655",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

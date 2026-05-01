@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01610000",
+  "key": "01610000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01610000",
+  "name": "POTOMAC RIVER AT PAW PAW, WV",
+  "waterbody": "POTOMAC RIVER AT PAW PAW, WV",
+  "state": "MD",
+  "latitude": 39.5388611,
+  "longitude": -78.4556111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAWW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paww2",
+  "slug": "usgs-01610000",
+  "noaaForecastPath": "data/noaa-forecast/PAWW2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

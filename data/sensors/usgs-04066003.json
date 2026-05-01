@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04066003",
+  "key": "04066003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04066003",
+  "name": "MENOMINEE RIVER BELOW PEMENE CREEK NR PEMBINE, WI",
+  "waterbody": "MENOMINEE RIVER BELOW PEMENE CREEK NR PEMBINE, WI",
+  "state": "WI",
+  "latitude": 45.5794722,
+  "longitude": -87.7869722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBIW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menominee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbiw3",
+  "slug": "usgs-04066003",
+  "noaaForecastPath": "data/noaa-forecast/PBIW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

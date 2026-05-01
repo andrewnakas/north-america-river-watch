@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07243500",
+  "key": "07243500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07243500",
+  "name": "Deep Fork near Beggs, OK",
+  "waterbody": "Deep Fork near Beggs, OK",
+  "state": "OK",
+  "latitude": 35.6739876,
+  "longitude": -96.0686077,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGSO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgso2",
+  "slug": "usgs-07243500",
+  "noaaForecastPath": "data/noaa-forecast/BGSO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09510000",
+  "key": "09510000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09510000",
+  "name": "VERDE RIVER BELOW BARTLETT DAM, AZ",
+  "waterbody": "VERDE RIVER BELOW BARTLETT DAM, AZ",
+  "state": "AZ",
+  "latitude": 33.80837509,
+  "longitude": -111.6634729,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09510000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50144000",
+  "key": "50144000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50144000",
+  "name": "RIO GRANDE DE ANASCO NR SAN SEBASTIAN, PR",
+  "waterbody": "RIO GRANDE DE ANASCO NR SAN SEBASTIAN, PR",
+  "state": "PR",
+  "latitude": 18.284167,
+  "longitude": -67.050961,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEBP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Anasco",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sebp4",
+  "slug": "usgs-50144000",
+  "noaaForecastPath": "data/noaa-forecast/SEBP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

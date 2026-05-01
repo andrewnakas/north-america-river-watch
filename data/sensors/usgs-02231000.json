@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02231000",
+  "key": "02231000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02231000",
+  "name": "ST. MARYS RIVER NEAR MACCLENNY, FL",
+  "waterbody": "ST. MARYS RIVER NEAR MACCLENNY, FL",
+  "state": "FL",
+  "latitude": 30.35884726,
+  "longitude": -82.0815013,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MACF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Marys River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/macf1",
+  "slug": "usgs-02231000",
+  "noaaForecastPath": "data/noaa-forecast/MACF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

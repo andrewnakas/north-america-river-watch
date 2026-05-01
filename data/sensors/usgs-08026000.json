@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08026000",
+  "key": "08026000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08026000",
+  "name": "Sabine Rv nr Burkeville, TX",
+  "waterbody": "Sabine Rv nr Burkeville, TX",
+  "state": "TX",
+  "latitude": 31.06408004,
+  "longitude": -93.5196165,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brvt2",
+  "slug": "usgs-08026000",
+  "noaaForecastPath": "data/noaa-forecast/BRVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07138050",
+  "key": "07138050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07138050",
+  "name": "AMAZON GREAT EASTERN DITCH NR LAKIN, KS",
+  "waterbody": "AMAZON GREAT EASTERN DITCH NR LAKIN, KS",
+  "state": "KS",
+  "latitude": 37.89723858,
+  "longitude": -101.4412815,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07138050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

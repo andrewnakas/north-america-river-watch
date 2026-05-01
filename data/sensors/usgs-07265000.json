@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07265000",
+  "key": "07265000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07265000",
+  "name": "CROOKED CREEK NEAR HUMPHREY, ARK.",
+  "waterbody": "CROOKED CREEK NEAR HUMPHREY, ARK.",
+  "state": "AR",
+  "latitude": 34.42648556,
+  "longitude": -91.66790759,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07265000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

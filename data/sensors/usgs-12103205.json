@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12103205",
+  "key": "12103205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12103205",
+  "name": "JOES CREEK AT MARINE DR NEAR TACOMA, WA",
+  "waterbody": "JOES CREEK AT MARINE DR NEAR TACOMA, WA",
+  "state": "WA",
+  "latitude": 47.326766,
+  "longitude": -122.3765126,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12103205",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

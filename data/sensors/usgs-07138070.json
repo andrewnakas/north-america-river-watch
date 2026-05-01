@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07138070",
+  "key": "07138070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07138070",
+  "name": "ARKANSAS R AT DEERFIELD, KS",
+  "waterbody": "ARKANSAS R AT DEERFIELD, KS",
+  "state": "KS",
+  "latitude": 37.9697438,
+  "longitude": -101.1287719,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRFK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drfk1",
+  "slug": "usgs-07138070",
+  "noaaForecastPath": "data/noaa-forecast/DRFK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

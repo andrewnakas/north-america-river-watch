@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05355200",
+  "key": "05355200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05355200",
+  "name": "CANNON RIVER AT WELCH, MN",
+  "waterbody": "CANNON RIVER AT WELCH, MN",
+  "state": "MN",
+  "latitude": 44.564233,
+  "longitude": -92.731577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLCM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cannon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlcm5",
+  "slug": "usgs-05355200",
+  "noaaForecastPath": "data/noaa-forecast/WLCM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

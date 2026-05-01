@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03447890",
+  "key": "03447890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03447890",
+  "name": "FRENCH BROAD R AT BLUE RIDGE PKWY AT BENT CREEK NC",
+  "waterbody": "FRENCH BROAD R AT BLUE RIDGE PKWY AT BENT CREEK NC",
+  "state": "NC",
+  "latitude": 35.49972222,
+  "longitude": -82.59277778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03447890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

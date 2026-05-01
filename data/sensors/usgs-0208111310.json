@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208111310",
+  "key": "0208111310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208111310",
+  "name": "CASHIE RIVER AT SR1257 NEAR WINDSOR, NC",
+  "waterbody": "CASHIE RIVER AT SR1257 NEAR WINDSOR, NC",
+  "state": "NC",
+  "latitude": 36.04777778,
+  "longitude": -76.9841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cashie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wndn7",
+  "slug": "usgs-0208111310",
+  "noaaForecastPath": "data/noaa-forecast/WNDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

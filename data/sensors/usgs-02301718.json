@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301718",
+  "key": "02301718",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301718",
+  "name": "ALAFIA RIVER AT US 301 AT RIVERVIEW, FL",
+  "waterbody": "ALAFIA RIVER AT US 301 AT RIVERVIEW, FL",
+  "state": "FL",
+  "latitude": 27.86934167,
+  "longitude": -82.3264528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVWF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alafia River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvwf1",
+  "slug": "usgs-02301718",
+  "noaaForecastPath": "data/noaa-forecast/RVWF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

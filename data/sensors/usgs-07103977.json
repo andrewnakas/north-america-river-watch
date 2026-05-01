@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103977",
+  "key": "07103977",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103977",
+  "name": "COTTONWOOD CR AT COWPOKE RD. AT COLO SPRINGS, CO",
+  "waterbody": "COTTONWOOD CR AT COWPOKE RD. AT COLO SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.95110464,
+  "longitude": -104.7135857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103977",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

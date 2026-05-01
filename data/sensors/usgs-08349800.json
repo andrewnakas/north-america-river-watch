@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08349800",
+  "key": "08349800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08349800",
+  "name": "RIO PAGUATE BELOW JACKPILE MINE NEAR LAGUNA, NM",
+  "waterbody": "RIO PAGUATE BELOW JACKPILE MINE NEAR LAGUNA, NM",
+  "state": "NM",
+  "latitude": 35.11920834,
+  "longitude": -107.3331007,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08349800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

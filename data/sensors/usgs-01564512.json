@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01564512",
+  "key": "01564512",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01564512",
+  "name": "Aughwick Creek near Shirleysburg, PA",
+  "waterbody": "Aughwick Creek near Shirleysburg, PA",
+  "state": "PA",
+  "latitude": 40.28196185,
+  "longitude": -77.89053063,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aughwick Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slyp1",
+  "slug": "usgs-01564512",
+  "noaaForecastPath": "data/noaa-forecast/SLYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

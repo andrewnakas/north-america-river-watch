@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13341140",
+  "key": "13341140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13341140",
+  "name": "BIG CANYON CREEK NR PECK ID",
+  "waterbody": "BIG CANYON CREEK NR PECK ID",
+  "state": "ID",
+  "latitude": 46.4679333,
+  "longitude": -116.4183028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13341140",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

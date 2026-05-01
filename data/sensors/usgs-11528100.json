@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11528100",
+  "key": "11528100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11528100",
+  "name": "SF TRINITY R A FOREST GLEN CA",
+  "waterbody": "SF TRINITY R A FOREST GLEN CA",
+  "state": "CA",
+  "latitude": 40.375489,
+  "longitude": -123.32855,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11528100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

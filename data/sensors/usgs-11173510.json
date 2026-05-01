@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11173510",
+  "key": "11173510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11173510",
+  "name": "ALAMEDA C BL CALAVERAS C NR SUNOL CA",
+  "waterbody": "ALAMEDA C BL CALAVERAS C NR SUNOL CA",
+  "state": "CA",
+  "latitude": 37.5035472,
+  "longitude": -121.8246774,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACZC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alameda Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aczc1",
+  "slug": "usgs-11173510",
+  "noaaForecastPath": "data/noaa-forecast/ACZC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

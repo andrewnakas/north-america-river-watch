@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03252300",
+  "key": "03252300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03252300",
+  "name": "HINKSTON CREEK NEAR CARLISLE, KY",
+  "waterbody": "HINKSTON CREEK NEAR CARLISLE, KY",
+  "state": "KY",
+  "latitude": 38.2474368,
+  "longitude": -84.05514979,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CREK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hinkston Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crek2",
+  "slug": "usgs-03252300",
+  "noaaForecastPath": "data/noaa-forecast/CREK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

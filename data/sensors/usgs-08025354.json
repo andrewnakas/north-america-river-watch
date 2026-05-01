@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08025354",
+  "key": "08025354",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08025354",
+  "name": "Sabine Rv at Toledo Bd Spillway nr Burkeville, TX",
+  "waterbody": "Sabine Rv at Toledo Bd Spillway nr Burkeville, TX",
+  "state": "LA",
+  "latitude": 31.1961111,
+  "longitude": -93.5719444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08025354",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

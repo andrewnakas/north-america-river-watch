@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10093000",
+  "key": "10093000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10093000",
+  "name": "CUB RIVER NR PRESTON ID",
+  "waterbody": "CUB RIVER NR PRESTON ID",
+  "state": "ID",
+  "latitude": 42.14027778,
+  "longitude": -111.6913889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10093000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

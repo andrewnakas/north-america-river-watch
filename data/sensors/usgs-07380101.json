@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380101",
+  "key": "07380101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380101",
+  "name": "Bayou Manchac near Little Prairie, LA",
+  "waterbody": "Bayou Manchac near Little Prairie, LA",
+  "state": "LA",
+  "latitude": 30.34047129,
+  "longitude": -90.9173216,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMPL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River Basin",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmpl1",
+  "slug": "usgs-07380101",
+  "noaaForecastPath": "data/noaa-forecast/BMPL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

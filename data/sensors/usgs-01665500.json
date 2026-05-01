@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01665500",
+  "key": "01665500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01665500",
+  "name": "RAPIDAN RIVER NEAR RUCKERSVILLE, VA",
+  "waterbody": "RAPIDAN RIVER NEAR RUCKERSVILLE, VA",
+  "state": "VA",
+  "latitude": 38.28068606,
+  "longitude": -78.340007,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RUCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapidan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rucv2",
+  "slug": "usgs-01665500",
+  "noaaForecastPath": "data/noaa-forecast/RUCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

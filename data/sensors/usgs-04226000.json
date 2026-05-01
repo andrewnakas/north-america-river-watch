@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04226000",
+  "key": "04226000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04226000",
+  "name": "KESHEQUA CR AT CRAIG COLONY AT SONYEA NY",
+  "waterbody": "KESHEQUA CR AT CRAIG COLONY AT SONYEA NY",
+  "state": "NY",
+  "latitude": 42.682167,
+  "longitude": -77.828861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04226000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

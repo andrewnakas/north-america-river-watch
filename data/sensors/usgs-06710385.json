@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06710385",
+  "key": "06710385",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06710385",
+  "name": "BEAR CREEK ABOVE EVERGREEN, CO",
+  "waterbody": "BEAR CREEK ABOVE EVERGREEN, CO",
+  "state": "CO",
+  "latitude": 39.633167,
+  "longitude": -105.336944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek (CO)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbcc2",
+  "slug": "usgs-06710385",
+  "noaaForecastPath": "data/noaa-forecast/BBCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

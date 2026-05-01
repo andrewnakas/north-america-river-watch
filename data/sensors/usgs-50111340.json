@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50111340",
+  "key": "50111340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50111340",
+  "name": "CANAL DE JUANA DIAZ AT BO. PENUELAS NR SALINAS, PR",
+  "waterbody": "CANAL DE JUANA DIAZ AT BO. PENUELAS NR SALINAS, PR",
+  "state": "PR",
+  "latitude": 17.998278,
+  "longitude": -66.341892,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50111340",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

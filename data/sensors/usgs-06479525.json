@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479525",
+  "key": "06479525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479525",
+  "name": "BIG SIOUX RIVER NEAR CASTLEWOOD,SD",
+  "waterbody": "BIG SIOUX RIVER NEAR CASTLEWOOD,SD",
+  "state": "SD",
+  "latitude": 44.7315478,
+  "longitude": -97.0446518,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSWS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csws2",
+  "slug": "usgs-06479525",
+  "noaaForecastPath": "data/noaa-forecast/CSWS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

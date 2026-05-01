@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05587450",
+  "key": "05587450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05587450",
+  "name": "Mississippi River at Grafton, IL",
+  "waterbody": "Mississippi River at Grafton, IL",
+  "state": "IL",
+  "latitude": 38.9679722,
+  "longitude": -90.429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRFI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grfi2",
+  "slug": "usgs-05587450",
+  "noaaForecastPath": "data/noaa-forecast/GRFI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

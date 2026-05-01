@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04224775",
+  "key": "04224775",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04224775",
+  "name": "CANASERAGA CREEK ABOVE DANSVILLE NY",
+  "waterbody": "CANASERAGA CREEK ABOVE DANSVILLE NY",
+  "state": "NY",
+  "latitude": 42.5358611,
+  "longitude": -77.7039444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DSVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canaseraga Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dsvn6",
+  "slug": "usgs-04224775",
+  "noaaForecastPath": "data/noaa-forecast/DSVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05488200",
+  "key": "05488200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05488200",
+  "name": "English Creek near Knoxville, IA",
+  "waterbody": "English Creek near Knoxville, IA",
+  "state": "IA",
+  "latitude": 41.30038889,
+  "longitude": -93.0449167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KECI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "English Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/keci4",
+  "slug": "usgs-05488200",
+  "noaaForecastPath": "data/noaa-forecast/KECI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

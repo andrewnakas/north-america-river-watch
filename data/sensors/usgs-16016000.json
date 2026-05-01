@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16016000",
+  "key": "16016000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16016000",
+  "name": "Waimea River US of Kekaha-Waiahulu Int., Kauai, HI",
+  "waterbody": "Waimea River US of Kekaha-Waiahulu Int., Kauai, HI",
+  "state": "HI",
+  "latitude": 22.0751111,
+  "longitude": -159.6483056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16016000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

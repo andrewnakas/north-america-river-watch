@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09528800",
+  "key": "09528800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09528800",
+  "name": "LEVEE CANAL WASTEWAY NEAR YUMA, AZ",
+  "waterbody": "LEVEE CANAL WASTEWAY NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.75868889,
+  "longitude": -114.5240028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09528800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

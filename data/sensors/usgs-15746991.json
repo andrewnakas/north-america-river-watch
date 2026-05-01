@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15746991",
+  "key": "15746991",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15746991",
+  "name": "IKALUKROK C BL RED DOG C NR KIVALINA AK",
+  "waterbody": "IKALUKROK C BL RED DOG C NR KIVALINA AK",
+  "state": "AK",
+  "latitude": 68.0468445,
+  "longitude": -163.0290619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IKAA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ikalukrok Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ikaa2",
+  "slug": "usgs-15746991",
+  "noaaForecastPath": "data/noaa-forecast/IKAA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

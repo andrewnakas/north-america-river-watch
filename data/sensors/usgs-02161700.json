@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02161700",
+  "key": "02161700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02161700",
+  "name": "WEST FORK LITTLE RIVER NR SALEM CROSSROADS, SC",
+  "waterbody": "WEST FORK LITTLE RIVER NR SALEM CROSSROADS, SC",
+  "state": "SC",
+  "latitude": 34.4523659,
+  "longitude": -81.26231569,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02161700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

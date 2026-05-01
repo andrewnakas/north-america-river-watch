@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06837500",
+  "key": "06837500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06837500",
+  "name": "RED WILLOW CREEK NEAR MCCOOK, NEBR.",
+  "waterbody": "RED WILLOW CREEK NEAR MCCOOK, NEBR.",
+  "state": "NE",
+  "latitude": 40.345,
+  "longitude": -100.6441667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06837500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

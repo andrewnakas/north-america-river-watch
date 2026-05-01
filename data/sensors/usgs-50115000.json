@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50115000",
+  "key": "50115000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50115000",
+  "name": "RIO PORTUGUES NR PONCE, PR",
+  "waterbody": "RIO PORTUGUES NR PONCE, PR",
+  "state": "PR",
+  "latitude": 18.07718453,
+  "longitude": -66.63322869,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50115000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

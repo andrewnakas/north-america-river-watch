@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02361500",
+  "key": "02361500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02361500",
+  "name": "CHOCTAWHATCHEE RIVER NEAR BELLWOOD AL",
+  "waterbody": "CHOCTAWHATCHEE RIVER NEAR BELLWOOD AL",
+  "state": "AL",
+  "latitude": 31.15934229,
+  "longitude": -85.7843789,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BELA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Choctawhatchee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bela1",
+  "slug": "usgs-02361500",
+  "noaaForecastPath": "data/noaa-forecast/BELA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

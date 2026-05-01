@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14211315",
+  "key": "14211315",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14211315",
+  "name": "TRYON CREEK NEAR LAKE OSWEGO, OR",
+  "waterbody": "TRYON CREEK NEAR LAKE OSWEGO, OR",
+  "state": "OR",
+  "latitude": 45.43067476,
+  "longitude": -122.6737057,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tryon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tyco3",
+  "slug": "usgs-14211315",
+  "noaaForecastPath": "data/noaa-forecast/TYCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

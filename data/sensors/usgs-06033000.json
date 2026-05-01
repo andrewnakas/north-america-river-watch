@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06033000",
+  "key": "06033000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06033000",
+  "name": "Boulder River near Boulder, MT",
+  "waterbody": "Boulder River near Boulder, MT",
+  "state": "MT",
+  "latitude": 46.21103056,
+  "longitude": -112.09165,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boulder River (Central MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bldm8",
+  "slug": "usgs-06033000",
+  "noaaForecastPath": "data/noaa-forecast/BLDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

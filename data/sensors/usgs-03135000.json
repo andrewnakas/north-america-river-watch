@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03135000",
+  "key": "03135000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03135000",
+  "name": "Lake Fork bl Mohicanville Dam near Mohicanville OH",
+  "waterbody": "Lake Fork bl Mohicanville Dam near Mohicanville OH",
+  "state": "OH",
+  "latitude": 40.72339156,
+  "longitude": -82.1548767,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Fork Mohican River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mvlo1",
+  "slug": "usgs-03135000",
+  "noaaForecastPath": "data/noaa-forecast/MVLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

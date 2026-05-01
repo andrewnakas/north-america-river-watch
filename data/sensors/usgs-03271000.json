@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03271000",
+  "key": "03271000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03271000",
+  "name": "Wolf Creek at Dayton OH",
+  "waterbody": "Wolf Creek at Dayton OH",
+  "state": "OH",
+  "latitude": 39.76672525,
+  "longitude": -84.2366086,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03271000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09372000",
+  "key": "09372000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09372000",
+  "name": "MCELMO CREEK NEAR COLORADO-UTAH STATE LINE",
+  "waterbody": "MCELMO CREEK NEAR COLORADO-UTAH STATE LINE",
+  "state": "CO",
+  "latitude": 37.32415968,
+  "longitude": -109.015666,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCEC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mcelmo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcec2",
+  "slug": "usgs-09372000",
+  "noaaForecastPath": "data/noaa-forecast/MCEC2.json",
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

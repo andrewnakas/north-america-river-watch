@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09379025",
+  "key": "09379025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09379025",
+  "name": "CHINLE CREEK AT CHINLE, AZ",
+  "waterbody": "CHINLE CREEK AT CHINLE, AZ",
+  "state": "AZ",
+  "latitude": 36.155,
+  "longitude": -109.5375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chinle Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chca3",
+  "slug": "usgs-09379025",
+  "noaaForecastPath": "data/noaa-forecast/CHCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

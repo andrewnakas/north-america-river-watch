@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03209410",
+  "key": "03209410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03209410",
+  "name": "RUSSELL FORK AT CEDARVILLE, KY",
+  "waterbody": "RUSSELL FORK AT CEDARVILLE, KY",
+  "state": "KY",
+  "latitude": 37.31295507,
+  "longitude": -82.3595549,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELKK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russell Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elkk2",
+  "slug": "usgs-03209410",
+  "noaaForecastPath": "data/noaa-forecast/ELKK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

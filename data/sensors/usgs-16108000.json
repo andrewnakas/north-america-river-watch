@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16108000",
+  "key": "16108000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16108000",
+  "name": "Wainiha River nr Hanalei, Kauai, HI",
+  "waterbody": "Wainiha River nr Hanalei, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.13588889,
+  "longitude": -159.557861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNIH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wainiha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wnih1",
+  "slug": "usgs-16108000",
+  "noaaForecastPath": "data/noaa-forecast/WNIH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03375500",
+  "key": "03375500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03375500",
+  "name": "PATOKA RIVER AT JASPER, IN",
+  "waterbody": "PATOKA RIVER AT JASPER, IN",
+  "state": "IN",
+  "latitude": 38.41366486,
+  "longitude": -86.8766583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JPRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patoka River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jpri3",
+  "slug": "usgs-03375500",
+  "noaaForecastPath": "data/noaa-forecast/JPRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

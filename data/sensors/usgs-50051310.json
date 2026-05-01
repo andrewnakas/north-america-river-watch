@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50051310",
+  "key": "50051310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50051310",
+  "name": "RIO CAYAGUAS AT CERRO GORDO, PR",
+  "waterbody": "RIO CAYAGUAS AT CERRO GORDO, PR",
+  "state": "PR",
+  "latitude": 18.153864,
+  "longitude": -65.956706,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLKP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Cayaguas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slkp4",
+  "slug": "usgs-50051310",
+  "noaaForecastPath": "data/noaa-forecast/SLKP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

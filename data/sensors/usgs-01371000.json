@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01371000",
+  "key": "01371000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01371000",
+  "name": "SHAWANGUNK KILL AT PINE BUSH NY",
+  "waterbody": "SHAWANGUNK KILL AT PINE BUSH NY",
+  "state": "NY",
+  "latitude": 41.61888889,
+  "longitude": -74.2933333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01371000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

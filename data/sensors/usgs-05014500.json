@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05014500",
+  "key": "05014500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05014500",
+  "name": "Swiftcurrent Creek at Many Glacier MT",
+  "waterbody": "Swiftcurrent Creek at Many Glacier MT",
+  "state": "MT",
+  "latitude": 48.7988333,
+  "longitude": -113.6567306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGGM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swiftcurrent Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mggm8",
+  "slug": "usgs-05014500",
+  "noaaForecastPath": "data/noaa-forecast/MGGM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

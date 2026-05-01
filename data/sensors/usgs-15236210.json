@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15236210",
+  "key": "15236210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15236210",
+  "name": "WHITTIER C AT WHITTIER AK",
+  "waterbody": "WHITTIER C AT WHITTIER AK",
+  "state": "AK",
+  "latitude": 60.77221907,
+  "longitude": -148.69070863,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WYAA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whittier AMHS Dock Tidal gage",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wyaa2",
+  "slug": "usgs-15236210",
+  "noaaForecastPath": "data/noaa-forecast/WYAA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02293090",
+  "key": "02293090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02293090",
+  "name": "Popash Creek at Leetana Rd. nr North Fort Myers,FL",
+  "waterbody": "Popash Creek at Leetana Rd. nr North Fort Myers,FL",
+  "state": "FL",
+  "latitude": 26.71571667,
+  "longitude": -81.8086667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPZF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Popash Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ppzf1",
+  "slug": "usgs-02293090",
+  "noaaForecastPath": "data/noaa-forecast/PPZF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

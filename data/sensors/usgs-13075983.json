@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13075983",
+  "key": "13075983",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13075983",
+  "name": "SPRING CREEK AT SHEEPSKIN RD NR FORT HALL ID",
+  "waterbody": "SPRING CREEK AT SHEEPSKIN RD NR FORT HALL ID",
+  "state": "ID",
+  "latitude": 43.0425,
+  "longitude": -112.55,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek (Eastern ID)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spsi1",
+  "slug": "usgs-13075983",
+  "noaaForecastPath": "data/noaa-forecast/SPSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

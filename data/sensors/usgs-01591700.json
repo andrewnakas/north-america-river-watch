@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01591700",
+  "key": "01591700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01591700",
+  "name": "HAWLINGS RIVER NEAR SANDY SPRING, MD",
+  "waterbody": "HAWLINGS RIVER NEAR SANDY SPRING, MD",
+  "state": "MD",
+  "latitude": 39.17452778,
+  "longitude": -77.02141667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SANM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hawlings River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sanm2",
+  "slug": "usgs-01591700",
+  "noaaForecastPath": "data/noaa-forecast/SANM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

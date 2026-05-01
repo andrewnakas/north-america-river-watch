@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251152080370900",
+  "key": "251152080370900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251152080370900",
+  "name": "EAST CREEK NEAR HOMESTEAD, FL",
+  "waterbody": "EAST CREEK NEAR HOMESTEAD, FL",
+  "state": "FL",
+  "latitude": 25.1982111,
+  "longitude": -80.6190944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251152080370900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

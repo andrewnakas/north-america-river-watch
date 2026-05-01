@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02212735",
+  "key": "02212735",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02212735",
+  "name": "OCMULGEE RIVER AT GA 18, AT DAMES FERRY, GA",
+  "waterbody": "OCMULGEE RIVER AT GA 18, AT DAMES FERRY, GA",
+  "state": "GA",
+  "latitude": 33.0168611,
+  "longitude": -83.7271944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DFYG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ocmulgee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dfyg1",
+  "slug": "usgs-02212735",
+  "noaaForecastPath": "data/noaa-forecast/DFYG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

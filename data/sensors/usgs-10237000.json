@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10237000",
+  "key": "10237000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10237000",
+  "name": "BEAVER RIVER AT ADAMSVILLE, UT",
+  "waterbody": "BEAVER RIVER AT ADAMSVILLE, UT",
+  "state": "UT",
+  "latitude": 38.253611,
+  "longitude": -112.765556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10237000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

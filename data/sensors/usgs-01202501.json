@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01202501",
+  "key": "01202501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01202501",
+  "name": "SHEPAUG RIVER AT PETERS DAM AT WOODVILLE, CT",
+  "waterbody": "SHEPAUG RIVER AT PETERS DAM AT WOODVILLE, CT",
+  "state": "CT",
+  "latitude": 41.719575,
+  "longitude": -73.29260278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01202501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

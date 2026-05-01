@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14301000",
+  "key": "14301000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14301000",
+  "name": "NEHALEM RIVER NEAR FOSS, OR",
+  "waterbody": "NEHALEM RIVER NEAR FOSS, OR",
+  "state": "OR",
+  "latitude": 45.7039986,
+  "longitude": -123.755405,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nehalem River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fsso3",
+  "slug": "usgs-14301000",
+  "noaaForecastPath": "data/noaa-forecast/FSSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

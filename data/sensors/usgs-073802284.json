@@ -1,0 +1,19 @@
+{
+  "id": "usgs:073802284",
+  "key": "073802284",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073802284",
+  "name": "New River Canal east of Sorrento, LA",
+  "waterbody": "New River Canal east of Sorrento, LA",
+  "state": "LA",
+  "latitude": 30.18925,
+  "longitude": -90.7812778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-073802284",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

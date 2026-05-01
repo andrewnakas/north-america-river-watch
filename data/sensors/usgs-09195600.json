@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09195600",
+  "key": "09195600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09195600",
+  "name": "Duck Creek above New Fork R nr Pinedale",
+  "waterbody": "Duck Creek above New Fork R nr Pinedale",
+  "state": "WY",
+  "latitude": 42.8783111,
+  "longitude": -109.951,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09195600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

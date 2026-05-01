@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08080505",
+  "key": "08080505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08080505",
+  "name": "DMF Brazos Rv nr Rule, TX",
+  "waterbody": "DMF Brazos Rv nr Rule, TX",
+  "state": "TX",
+  "latitude": 33.187917,
+  "longitude": -99.960136,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08080505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

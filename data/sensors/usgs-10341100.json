@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10341100",
+  "key": "10341100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10341100",
+  "name": "PERAZZO C NR SODA SPRINGS CA",
+  "waterbody": "PERAZZO C NR SODA SPRINGS CA",
+  "state": "CA",
+  "latitude": 39.4548611,
+  "longitude": -120.3912222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10341100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

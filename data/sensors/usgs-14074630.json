@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14074630",
+  "key": "14074630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14074630",
+  "name": "DESCHUTES RIVER AT LOWER BRIDGE NR TERREBONNE, OR",
+  "waterbody": "DESCHUTES RIVER AT LOWER BRIDGE NR TERREBONNE, OR",
+  "state": "OR",
+  "latitude": 44.3601186,
+  "longitude": -121.2944839,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14074630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

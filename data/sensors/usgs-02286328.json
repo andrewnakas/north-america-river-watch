@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02286328",
+  "key": "02286328",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02286328",
+  "name": "C-8 CANAL AT NE 135 ST AT NORTH MIAMI, FL",
+  "waterbody": "C-8 CANAL AT NE 135 ST AT NORTH MIAMI, FL",
+  "state": "FL",
+  "latitude": 25.9002222,
+  "longitude": -80.1949722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02286328",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

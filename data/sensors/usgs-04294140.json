@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04294140",
+  "key": "04294140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04294140",
+  "name": "ROCK RIVER NEAR HIGHGATE CENTER, VT",
+  "waterbody": "ROCK RIVER NEAR HIGHGATE CENTER, VT",
+  "state": "VT",
+  "latitude": 44.96305556,
+  "longitude": -72.9919444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGCV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River (VT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgcv1",
+  "slug": "usgs-04294140",
+  "noaaForecastPath": "data/noaa-forecast/HGCV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

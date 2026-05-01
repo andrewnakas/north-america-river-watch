@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02159500",
+  "key": "02159500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02159500",
+  "name": "TYGER RIVER NEAR WOODRUFF, SC",
+  "waterbody": "TYGER RIVER NEAR WOODRUFF, SC",
+  "state": "SC",
+  "latitude": 34.75527778,
+  "longitude": -81.9272222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02159500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

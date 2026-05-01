@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06289000",
+  "key": "06289000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06289000",
+  "name": "Little Bighorn River at State Line nr Wyola MT",
+  "waterbody": "Little Bighorn River at State Line nr Wyola MT",
+  "state": "MT",
+  "latitude": 45.0071111,
+  "longitude": -107.6154083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBSM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Bighorn River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbsm8",
+  "slug": "usgs-06289000",
+  "noaaForecastPath": "data/noaa-forecast/LBSM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

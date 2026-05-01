@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01018000",
+  "key": "01018000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01018000",
+  "name": "Meduxnekeag River near Houlton, Maine",
+  "waterbody": "Meduxnekeag River near Houlton, Maine",
+  "state": "ME",
+  "latitude": 46.105,
+  "longitude": -67.8666667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01018000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

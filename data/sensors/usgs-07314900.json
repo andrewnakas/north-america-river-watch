@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07314900",
+  "key": "07314900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07314900",
+  "name": "Little Wichita Rv abv Henrietta, TX",
+  "waterbody": "Little Wichita Rv abv Henrietta, TX",
+  "state": "TX",
+  "latitude": 33.8267666,
+  "longitude": -98.2400458,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wichita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htat2",
+  "slug": "usgs-07314900",
+  "noaaForecastPath": "data/noaa-forecast/HTAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

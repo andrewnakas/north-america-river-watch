@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03191500",
+  "key": "03191500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03191500",
+  "name": "PETERS CREEK NEAR LOCKWOOD, WV",
+  "waterbody": "PETERS CREEK NEAR LOCKWOOD, WV",
+  "state": "WV",
+  "latitude": 38.2646111,
+  "longitude": -81.0231111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peters Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lckw2",
+  "slug": "usgs-03191500",
+  "noaaForecastPath": "data/noaa-forecast/LCKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

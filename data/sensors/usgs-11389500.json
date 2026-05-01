@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11389500",
+  "key": "11389500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11389500",
+  "name": "SACRAMENTO R A COLUSA CA",
+  "waterbody": "SACRAMENTO R A COLUSA CA",
+  "state": "CA",
+  "latitude": 39.21403369,
+  "longitude": -122.0002208,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLUC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacramento River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cluc1",
+  "slug": "usgs-11389500",
+  "noaaForecastPath": "data/noaa-forecast/CLUC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

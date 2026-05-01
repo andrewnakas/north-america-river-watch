@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09171100",
+  "key": "09171100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09171100",
+  "name": "DOLORES RIVER NEAR BEDROCK, CO.",
+  "waterbody": "DOLORES RIVER NEAR BEDROCK, CO.",
+  "state": "CO",
+  "latitude": 38.35692324,
+  "longitude": -108.83345163,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DBDC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dolores River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dbdc2",
+  "slug": "usgs-09171100",
+  "noaaForecastPath": "data/noaa-forecast/DBDC2.json",
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

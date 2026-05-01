@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01105584",
+  "key": "01105584",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105584",
+  "name": "TOWN BROOK AT DIVERSION TUNNEL AT QUINCY, MA",
+  "waterbody": "TOWN BROOK AT DIVERSION TUNNEL AT QUINCY, MA",
+  "state": "MA",
+  "latitude": 42.24444444,
+  "longitude": -71.0044444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01105584",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

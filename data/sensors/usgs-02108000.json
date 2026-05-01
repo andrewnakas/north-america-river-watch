@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02108000",
+  "key": "02108000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02108000",
+  "name": "NORTHEAST CAPE FEAR RIVER NEAR CHINQUAPIN, NC",
+  "waterbody": "NORTHEAST CAPE FEAR RIVER NEAR CHINQUAPIN, NC",
+  "state": "NC",
+  "latitude": 34.82888889,
+  "longitude": -77.8322222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHIN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "N.E. Cape Fear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chin7",
+  "slug": "usgs-02108000",
+  "noaaForecastPath": "data/noaa-forecast/CHIN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

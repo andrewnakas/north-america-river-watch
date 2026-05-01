@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07030050",
+  "key": "07030050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07030050",
+  "name": "HATCHIE RIVER AT RIALTO, TN",
+  "waterbody": "HATCHIE RIVER AT RIALTO, TN",
+  "state": "TN",
+  "latitude": 35.63733496,
+  "longitude": -89.609455,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLTT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hatchie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rltt1",
+  "slug": "usgs-07030050",
+  "noaaForecastPath": "data/noaa-forecast/RLTT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

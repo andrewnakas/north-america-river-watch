@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06349003",
+  "key": "06349003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349003",
+  "name": "HEART RIVER AT HWY 6 AT MANDAN, ND",
+  "waterbody": "HEART RIVER AT HWY 6 AT MANDAN, ND",
+  "state": "ND",
+  "latitude": 46.81443829,
+  "longitude": -100.9048542,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06349003",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

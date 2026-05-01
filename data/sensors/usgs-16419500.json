@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16419500",
+  "key": "16419500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16419500",
+  "name": "Papio Gulch at Halawa, Molokai, HI",
+  "waterbody": "Papio Gulch at Halawa, Molokai, HI",
+  "state": "HI",
+  "latitude": 21.14513889,
+  "longitude": -156.734825,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16419500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

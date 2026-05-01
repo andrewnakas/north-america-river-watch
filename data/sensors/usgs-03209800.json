@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03209800",
+  "key": "03209800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03209800",
+  "name": "LEVISA FORK AT PRESTONSBURG, KY",
+  "waterbody": "LEVISA FORK AT PRESTONSBURG, KY",
+  "state": "KY",
+  "latitude": 37.67093027,
+  "longitude": -82.7771043,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Levisa Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pstk2",
+  "slug": "usgs-03209800",
+  "noaaForecastPath": "data/noaa-forecast/PSTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

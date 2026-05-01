@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08158819",
+  "key": "08158819",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158819",
+  "name": "Bear Ck nr Brodie Lane nr Manchaca, TX",
+  "waterbody": "Bear Ck nr Brodie Lane nr Manchaca, TX",
+  "state": "TX",
+  "latitude": 30.14416667,
+  "longitude": -97.8611111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08158819",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

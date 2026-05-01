@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04237411",
+  "key": "04237411",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04237411",
+  "name": "SENECA RIVER, MOUTH OF STATE DITCH, NR JORDAN NY",
+  "waterbody": "SENECA RIVER, MOUTH OF STATE DITCH, NR JORDAN NY",
+  "state": "NY",
+  "latitude": 43.11502778,
+  "longitude": -76.4386111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSDN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seneca River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssdn6",
+  "slug": "usgs-04237411",
+  "noaaForecastPath": "data/noaa-forecast/SSDN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

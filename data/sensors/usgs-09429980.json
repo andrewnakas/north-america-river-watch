@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429980",
+  "key": "09429980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429980",
+  "name": "GILA HOT SPRINGS DITCH NEAR PINOS ALTOS, NM",
+  "waterbody": "GILA HOT SPRINGS DITCH NEAR PINOS ALTOS, NM",
+  "state": "NM",
+  "latitude": 33.1986111,
+  "longitude": -108.2052778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

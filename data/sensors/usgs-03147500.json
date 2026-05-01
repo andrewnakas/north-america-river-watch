@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03147500",
+  "key": "03147500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03147500",
+  "name": "Licking River bl Dillon Dam near Dillon Falls OH",
+  "waterbody": "Licking River bl Dillon Dam near Dillon Falls OH",
+  "state": "OH",
+  "latitude": 39.98840049,
+  "longitude": -82.0804166,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Licking River (OH)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dllo1",
+  "slug": "usgs-03147500",
+  "noaaForecastPath": "data/noaa-forecast/DLLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

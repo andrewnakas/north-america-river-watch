@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344500",
+  "key": "02344500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344500",
+  "name": "FLINT RIVER NEAR GRIFFIN, GA",
+  "waterbody": "FLINT RIVER NEAR GRIFFIN, GA",
+  "state": "GA",
+  "latitude": 33.24416667,
+  "longitude": -84.4291667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRFG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grfg1",
+  "slug": "usgs-02344500",
+  "noaaForecastPath": "data/noaa-forecast/GRFG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08382000",
+  "key": "08382000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08382000",
+  "name": "GALLINAS RIVER NEAR LOURDES, NM",
+  "waterbody": "GALLINAS RIVER NEAR LOURDES, NM",
+  "state": "NM",
+  "latitude": 35.46890278,
+  "longitude": -105.1614417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08382000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11472160",
+  "key": "11472160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11472160",
+  "name": "WILLITS C AB LK EMILY NR WILLITS CA",
+  "waterbody": "WILLITS C AB LK EMILY NR WILLITS CA",
+  "state": "CA",
+  "latitude": 39.449329,
+  "longitude": -123.3980667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11472160",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03302060",
+  "key": "03302060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302060",
+  "name": "SALT RIVER AT MOUTH AT WEST POINT, KY",
+  "waterbody": "SALT RIVER AT MOUTH AT WEST POINT, KY",
+  "state": "KY",
+  "latitude": 38.0011831,
+  "longitude": -85.9421857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03302060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

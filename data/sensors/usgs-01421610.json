@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01421610",
+  "key": "01421610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01421610",
+  "name": "WEST BRANCH DELAWARE RIVER AT HOBART NY",
+  "waterbody": "WEST BRANCH DELAWARE RIVER AT HOBART NY",
+  "state": "NY",
+  "latitude": 42.371417,
+  "longitude": -74.668833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Delaware River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbtn6",
+  "slug": "usgs-01421610",
+  "noaaForecastPath": "data/noaa-forecast/HBTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05376800",
+  "key": "05376800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05376800",
+  "name": "WHITEWATER RIVER NEAR BEAVER, MN",
+  "waterbody": "WHITEWATER RIVER NEAR BEAVER, MN",
+  "state": "MN",
+  "latitude": 44.15079757,
+  "longitude": -92.0048843,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05376800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15625900",
+  "key": "15625900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15625900",
+  "name": "STEWART R 0.2 MI BL DURRANT C MTH NR NOME AK",
+  "waterbody": "STEWART R 0.2 MI BL DURRANT C MTH NR NOME AK",
+  "state": "AK",
+  "latitude": 64.7883333,
+  "longitude": -165.6316667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15625900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

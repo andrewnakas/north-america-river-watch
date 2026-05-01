@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02131010",
+  "key": "02131010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02131010",
+  "name": "PEE DEE RIVER BELOW PEE DEE, SC",
+  "waterbody": "PEE DEE RIVER BELOW PEE DEE, SC",
+  "state": "SC",
+  "latitude": 34.15738145,
+  "longitude": -79.5533904,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRVS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pee Dee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prvs1",
+  "slug": "usgs-02131010",
+  "noaaForecastPath": "data/noaa-forecast/PRVS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

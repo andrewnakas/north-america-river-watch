@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01194000",
+  "key": "01194000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01194000",
+  "name": "EIGHTMILE RIVER AT NORTH PLAIN, CT",
+  "waterbody": "EIGHTMILE RIVER AT NORTH PLAIN, CT",
+  "state": "CT",
+  "latitude": 41.44166944,
+  "longitude": -72.33267778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01194000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

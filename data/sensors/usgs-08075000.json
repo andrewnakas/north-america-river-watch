@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08075000",
+  "key": "08075000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08075000",
+  "name": "Brays Bayou at Houston, TX",
+  "waterbody": "Brays Bayou at Houston, TX",
+  "state": "TX",
+  "latitude": 29.69717469,
+  "longitude": -95.412162,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HBMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brays Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hbmt2",
+  "slug": "usgs-08075000",
+  "noaaForecastPath": "data/noaa-forecast/HBMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

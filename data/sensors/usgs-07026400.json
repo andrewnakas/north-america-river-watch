@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07026400",
+  "key": "07026400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07026400",
+  "name": "SOUTH REELFOOT CREEK NEAR CLAYTON, TN",
+  "waterbody": "SOUTH REELFOOT CREEK NEAR CLAYTON, TN",
+  "state": "TN",
+  "latitude": 36.43906145,
+  "longitude": -89.2602307,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07026400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

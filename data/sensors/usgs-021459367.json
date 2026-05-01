@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021459367",
+  "key": "021459367",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021459367",
+  "name": "BIG DUTCHMAN CREEK AT ROCK HILL, SC",
+  "waterbody": "BIG DUTCHMAN CREEK AT ROCK HILL, SC",
+  "state": "SC",
+  "latitude": 34.9868083,
+  "longitude": -81.00833889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDMS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Dutchman Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdms1",
+  "slug": "usgs-021459367",
+  "noaaForecastPath": "data/noaa-forecast/BDMS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

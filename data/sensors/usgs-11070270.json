@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11070270",
+  "key": "11070270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11070270",
+  "name": "PERRIS VALLEY STORM DR A NUEVO RD NR PERRIS CA",
+  "waterbody": "PERRIS VALLEY STORM DR A NUEVO RD NR PERRIS CA",
+  "state": "CA",
+  "latitude": 33.80113024,
+  "longitude": -117.2061469,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11070270",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

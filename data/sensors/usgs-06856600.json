@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06856600",
+  "key": "06856600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06856600",
+  "name": "REPUBLICAN R AT CLAY CENTER, KS",
+  "waterbody": "REPUBLICAN R AT CLAY CENTER, KS",
+  "state": "KS",
+  "latitude": 39.3555515,
+  "longitude": -97.1275203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cyck1",
+  "slug": "usgs-06856600",
+  "noaaForecastPath": "data/noaa-forecast/CYCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

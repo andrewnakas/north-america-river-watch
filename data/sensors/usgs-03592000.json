@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03592000",
+  "key": "03592000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03592000",
+  "name": "BEAR CREEK AT REDBAY, AL",
+  "waterbody": "BEAR CREEK AT REDBAY, AL",
+  "state": "AL",
+  "latitude": 34.4439866,
+  "longitude": -88.1155963,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBYA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek (AL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbya1",
+  "slug": "usgs-03592000",
+  "noaaForecastPath": "data/noaa-forecast/RBYA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

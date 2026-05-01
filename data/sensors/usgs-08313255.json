@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313255",
+  "key": "08313255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313255",
+  "name": "PORTILLO CANYON NR WHITE ROCK, NM",
+  "waterbody": "PORTILLO CANYON NR WHITE ROCK, NM",
+  "state": "NM",
+  "latitude": 35.8147481,
+  "longitude": -106.233915,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

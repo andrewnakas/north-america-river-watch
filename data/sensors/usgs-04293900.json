@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04293900",
+  "key": "04293900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04293900",
+  "name": "HUNGERFORD BR @ HIGHGATE RD NR HIGHGATE CENTER, VT",
+  "waterbody": "HUNGERFORD BR @ HIGHGATE RD NR HIGHGATE CENTER, VT",
+  "state": "VT",
+  "latitude": 44.9183333,
+  "longitude": -73.0555556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04293900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

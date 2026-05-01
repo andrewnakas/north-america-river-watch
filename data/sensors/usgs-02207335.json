@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02207335",
+  "key": "02207335",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02207335",
+  "name": "YELLOW RIVER AT GEES MILL ROAD, NEAR MILSTEAD, GA",
+  "waterbody": "YELLOW RIVER AT GEES MILL ROAD, NEAR MILSTEAD, GA",
+  "state": "GA",
+  "latitude": 33.66694444,
+  "longitude": -83.9380556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myrg1",
+  "slug": "usgs-02207335",
+  "noaaForecastPath": "data/noaa-forecast/MYRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

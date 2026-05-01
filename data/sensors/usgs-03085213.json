@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03085213",
+  "key": "03085213",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085213",
+  "name": "Sawmill Run at Duquesne Heights nr Pittsburgh, PA",
+  "waterbody": "Sawmill Run at Duquesne Heights nr Pittsburgh, PA",
+  "state": "PA",
+  "latitude": 40.43279845,
+  "longitude": -80.0294886,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DQHP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saw Mill Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dqhp1",
+  "slug": "usgs-03085213",
+  "noaaForecastPath": "data/noaa-forecast/DQHP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

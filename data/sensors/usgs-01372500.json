@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01372500",
+  "key": "01372500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01372500",
+  "name": "WAPPINGER CREEK NEAR WAPPINGERS FALLS NY",
+  "waterbody": "WAPPINGER CREEK NEAR WAPPINGERS FALLS NY",
+  "state": "NY",
+  "latitude": 41.65313889,
+  "longitude": -73.8725833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAPN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wappingers Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wapn6",
+  "slug": "usgs-01372500",
+  "noaaForecastPath": "data/noaa-forecast/WAPN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

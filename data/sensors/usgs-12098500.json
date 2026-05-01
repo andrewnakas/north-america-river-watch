@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12098500",
+  "key": "12098500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12098500",
+  "name": "WHITE RIVER NEAR BUCKLEY, WA",
+  "waterbody": "WHITE RIVER NEAR BUCKLEY, WA",
+  "state": "WA",
+  "latitude": 47.15118666,
+  "longitude": -121.94981,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MMDW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mmdw1",
+  "slug": "usgs-12098500",
+  "noaaForecastPath": "data/noaa-forecast/MMDW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

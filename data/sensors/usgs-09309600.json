@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09309600",
+  "key": "09309600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09309600",
+  "name": "FAIRVIEW TUNNEL NEAR FAIRVIEW, UT",
+  "waterbody": "FAIRVIEW TUNNEL NEAR FAIRVIEW, UT",
+  "state": "UT",
+  "latitude": 39.66966944,
+  "longitude": -111.3133194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09309600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

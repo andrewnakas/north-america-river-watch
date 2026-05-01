@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329835",
+  "key": "08329835",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329835",
+  "name": "N. FLOODWAY CHANNEL AT ALBUQUERQUE, NM",
+  "waterbody": "N. FLOODWAY CHANNEL AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.1175,
+  "longitude": -106.6116667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329835",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

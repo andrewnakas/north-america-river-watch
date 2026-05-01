@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06301500",
+  "key": "06301500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06301500",
+  "name": "WEST FORK BIG GOOSE CREEK NEAR BIG HORN, WY",
+  "waterbody": "WEST FORK BIG GOOSE CREEK NEAR BIG HORN, WY",
+  "state": "WY",
+  "latitude": 44.61298035,
+  "longitude": -107.2976363,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBGW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Big Goose Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbgw4",
+  "slug": "usgs-06301500",
+  "noaaForecastPath": "data/noaa-forecast/WBGW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

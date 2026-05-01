@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09534550",
+  "key": "09534550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09534550",
+  "name": "242 LATERAL ABOVE MAIN DRAIN AT AZ-SONORA BOUNDRY",
+  "waterbody": "242 LATERAL ABOVE MAIN DRAIN AT AZ-SONORA BOUNDRY",
+  "state": "AZ",
+  "latitude": 32.48694444,
+  "longitude": -114.7872222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09534550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

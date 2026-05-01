@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09402450",
+  "key": "09402450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09402450",
+  "name": "COTTONWOOD SPR ABV COTTONWOOD CR, NR GRAND CYN, AZ",
+  "waterbody": "COTTONWOOD SPR ABV COTTONWOOD CR, NR GRAND CYN, AZ",
+  "state": "AZ",
+  "latitude": 36.0235948,
+  "longitude": -111.9882199,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09402450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

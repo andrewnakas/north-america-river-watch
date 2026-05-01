@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05462000",
+  "key": "05462000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05462000",
+  "name": "Shell Rock River at Shell Rock, IA",
+  "waterbody": "Shell Rock River at Shell Rock, IA",
+  "state": "IA",
+  "latitude": 42.711925,
+  "longitude": -92.5829667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHRI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shell Rock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shri4",
+  "slug": "usgs-05462000",
+  "noaaForecastPath": "data/noaa-forecast/SHRI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05484800",
+  "key": "05484800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05484800",
+  "name": "Walnut Creek at Des Moines, IA",
+  "waterbody": "Walnut Creek at Des Moines, IA",
+  "state": "IA",
+  "latitude": 41.5874722,
+  "longitude": -93.7033056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dosi4",
+  "slug": "usgs-05484800",
+  "noaaForecastPath": "data/noaa-forecast/DOSI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

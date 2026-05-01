@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03314000",
+  "key": "03314000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03314000",
+  "name": "DRAKES CREEK NEAR ALVATON, KY",
+  "waterbody": "DRAKES CREEK NEAR ALVATON, KY",
+  "state": "KY",
+  "latitude": 36.89531974,
+  "longitude": -86.380546,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Drakes Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alvk2",
+  "slug": "usgs-03314000",
+  "noaaForecastPath": "data/noaa-forecast/ALVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13171300",
+  "key": "13171300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13171300",
+  "name": "GRAND VIEW MUTUAL CANAL NR GRAND VIEW ID",
+  "waterbody": "GRAND VIEW MUTUAL CANAL NR GRAND VIEW ID",
+  "state": "ID",
+  "latitude": 42.94166667,
+  "longitude": -115.9913889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13171300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

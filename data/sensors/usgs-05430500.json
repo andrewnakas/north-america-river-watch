@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05430500",
+  "key": "05430500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05430500",
+  "name": "ROCK RIVER AT AFTON, WI",
+  "waterbody": "ROCK RIVER AT AFTON, WI",
+  "state": "WI",
+  "latitude": 42.6136111,
+  "longitude": -89.0716667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AFTW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aftw3",
+  "slug": "usgs-05430500",
+  "noaaForecastPath": "data/noaa-forecast/AFTW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16865000",
+  "key": "16865000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16865000",
+  "name": "Pago River near Ordot, Guam",
+  "waterbody": "Pago River near Ordot, Guam",
+  "state": "GU",
+  "latitude": 13.43680556,
+  "longitude": 144.7560278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16865000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

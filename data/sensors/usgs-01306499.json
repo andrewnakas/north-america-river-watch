@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01306499",
+  "key": "01306499",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01306499",
+  "name": "CONNETQUOT RIVER NEAR NORTH GREAT RIVER NY",
+  "waterbody": "CONNETQUOT RIVER NEAR NORTH GREAT RIVER NY",
+  "state": "NY",
+  "latitude": 40.74749661,
+  "longitude": -73.15037486,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01306499",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

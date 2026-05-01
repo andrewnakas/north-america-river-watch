@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05431017",
+  "key": "05431017",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05431017",
+  "name": "DELAVAN LAKE INLET AT STATE HWY 50 AT LAKE LAWN,WI",
+  "waterbody": "DELAVAN LAKE INLET AT STATE HWY 50 AT LAKE LAWN,WI",
+  "state": "WI",
+  "latitude": 42.6211265,
+  "longitude": -88.5826011,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05431017",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

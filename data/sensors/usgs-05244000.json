@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05244000",
+  "key": "05244000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05244000",
+  "name": "CROW WING RIVER AT NIMROD, MN",
+  "waterbody": "CROW WING RIVER AT NIMROD, MN",
+  "state": "MN",
+  "latitude": 46.64059,
+  "longitude": -94.880382,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NIMM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crow Wing River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nimm5",
+  "slug": "usgs-05244000",
+  "noaaForecastPath": "data/noaa-forecast/NIMM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

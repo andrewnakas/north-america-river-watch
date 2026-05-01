@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08063460",
+  "key": "08063460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08063460",
+  "name": "Richland Ck at CR 0030 nr Richland, TX",
+  "waterbody": "Richland Ck at CR 0030 nr Richland, TX",
+  "state": "TX",
+  "latitude": 31.967,
+  "longitude": -96.4751389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08063460",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06754000",
+  "key": "06754000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06754000",
+  "name": "SOUTH PLATTE RIVER NEAR KERSEY, CO",
+  "waterbody": "SOUTH PLATTE RIVER NEAR KERSEY, CO",
+  "state": "CO",
+  "latitude": 40.4119253,
+  "longitude": -104.5627366,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KERC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kerc2",
+  "slug": "usgs-06754000",
+  "noaaForecastPath": "data/noaa-forecast/KERC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

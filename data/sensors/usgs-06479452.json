@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479452",
+  "key": "06479452",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479452",
+  "name": "BIG SIOUX RIVER AT LAKE KAMPESKA NR WATERTOWN, SD",
+  "waterbody": "BIG SIOUX RIVER AT LAKE KAMPESKA NR WATERTOWN, SD",
+  "state": "SD",
+  "latitude": 44.94885319,
+  "longitude": -97.1609083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KAMS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kams2",
+  "slug": "usgs-06479452",
+  "noaaForecastPath": "data/noaa-forecast/KAMS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

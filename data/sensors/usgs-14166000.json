@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14166000",
+  "key": "14166000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14166000",
+  "name": "WILLAMETTE RIVER AT HARRISBURG, OR",
+  "waterbody": "WILLAMETTE RIVER AT HARRISBURG, OR",
+  "state": "OR",
+  "latitude": 44.27040126,
+  "longitude": -123.1737036,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HARO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willamette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/haro3",
+  "slug": "usgs-14166000",
+  "noaaForecastPath": "data/noaa-forecast/HARO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

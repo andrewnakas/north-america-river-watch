@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07233500",
+  "key": "07233500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07233500",
+  "name": "Palo Duro Ck nr Spearman, TX",
+  "waterbody": "Palo Duro Ck nr Spearman, TX",
+  "state": "TX",
+  "latitude": 36.20225497,
+  "longitude": -101.305993,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Palo Duro Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spmt2",
+  "slug": "usgs-07233500",
+  "noaaForecastPath": "data/noaa-forecast/SPMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

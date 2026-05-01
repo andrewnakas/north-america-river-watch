@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07288570",
+  "key": "07288570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288570",
+  "name": "QUIVER RIVER NR DODDSVILLE, MS",
+  "waterbody": "QUIVER RIVER NR DODDSVILLE, MS",
+  "state": "MS",
+  "latitude": 33.64085918,
+  "longitude": -90.4020538,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DODM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quiver River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dodm6",
+  "slug": "usgs-07288570",
+  "noaaForecastPath": "data/noaa-forecast/DODM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

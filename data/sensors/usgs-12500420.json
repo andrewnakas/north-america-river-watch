@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12500420",
+  "key": "12500420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12500420",
+  "name": "MOXEE DRAIN AT BIRCHFIELD ROAD NEAR UNION GAP, WA",
+  "waterbody": "MOXEE DRAIN AT BIRCHFIELD ROAD NEAR UNION GAP, WA",
+  "state": "WA",
+  "latitude": 46.5459606,
+  "longitude": -120.4381179,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12500420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

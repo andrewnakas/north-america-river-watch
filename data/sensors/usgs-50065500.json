@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50065500",
+  "key": "50065500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50065500",
+  "name": "RIO MAMEYES NR SABANA, PR",
+  "waterbody": "RIO MAMEYES NR SABANA, PR",
+  "state": "PR",
+  "latitude": 18.328814,
+  "longitude": -65.750814,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Mameyes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msap4",
+  "slug": "usgs-50065500",
+  "noaaForecastPath": "data/noaa-forecast/MSAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

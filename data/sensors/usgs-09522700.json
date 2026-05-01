@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522700",
+  "key": "09522700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522700",
+  "name": "WELLTON-MOHAWK MAIN CANAL NEAR YUMA, AZ",
+  "waterbody": "WELLTON-MOHAWK MAIN CANAL NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.7422683,
+  "longitude": -114.4338356,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

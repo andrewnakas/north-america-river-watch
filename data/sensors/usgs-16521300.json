@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16521300",
+  "key": "16521300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16521300",
+  "name": "Waiokamilo Stream at Dam 3 near Keanae, Maui, HI",
+  "waterbody": "Waiokamilo Stream at Dam 3 near Keanae, Maui, HI",
+  "state": "HI",
+  "latitude": 20.84119444,
+  "longitude": -156.1428889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16521300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

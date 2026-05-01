@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02093800",
+  "key": "02093800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02093800",
+  "name": "REEDY FORK NEAR OAK RIDGE, NC",
+  "waterbody": "REEDY FORK NEAR OAK RIDGE, NC",
+  "state": "NC",
+  "latitude": 36.1725,
+  "longitude": -79.9527778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reedy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okrn7",
+  "slug": "usgs-02093800",
+  "noaaForecastPath": "data/noaa-forecast/OKRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

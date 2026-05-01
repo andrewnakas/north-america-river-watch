@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06463990",
+  "key": "06463990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06463990",
+  "name": "ROCK CREEK NR HIDDEN TIMBER, SD",
+  "waterbody": "ROCK CREEK NR HIDDEN TIMBER, SD",
+  "state": "SD",
+  "latitude": 43.20164444,
+  "longitude": -100.44773056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTBS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htbs2",
+  "slug": "usgs-06463990",
+  "noaaForecastPath": "data/noaa-forecast/HTBS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

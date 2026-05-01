@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03374500",
+  "key": "03374500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03374500",
+  "name": "PATOKA RIVER NEAR CUZCO, IN",
+  "waterbody": "PATOKA RIVER NEAR CUZCO, IN",
+  "state": "IN",
+  "latitude": 38.44199776,
+  "longitude": -86.7141531,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patoka River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prli3",
+  "slug": "usgs-03374500",
+  "noaaForecastPath": "data/noaa-forecast/PRLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

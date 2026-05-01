@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02483000",
+  "key": "02483000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02483000",
+  "name": "TUSCOLAMETA CREEK AT WALNUT GROVE, MS",
+  "waterbody": "TUSCOLAMETA CREEK AT WALNUT GROVE, MS",
+  "state": "MS",
+  "latitude": 32.58833333,
+  "longitude": -89.465,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTGM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscolameta Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtgm6",
+  "slug": "usgs-02483000",
+  "noaaForecastPath": "data/noaa-forecast/WTGM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

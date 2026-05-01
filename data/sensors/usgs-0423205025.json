@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0423205025",
+  "key": "0423205025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0423205025",
+  "name": "IRONDEQUOIT CREEK AT EMPIRE BLVD, ROCHESTER NY",
+  "waterbody": "IRONDEQUOIT CREEK AT EMPIRE BLVD, ROCHESTER NY",
+  "state": "NY",
+  "latitude": 43.1758333,
+  "longitude": -77.5261111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0423205025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

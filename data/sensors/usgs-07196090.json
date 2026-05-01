@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07196090",
+  "key": "07196090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07196090",
+  "name": "Illinois River at Chewey, OK",
+  "waterbody": "Illinois River at Chewey, OK",
+  "state": "OK",
+  "latitude": 36.1042527,
+  "longitude": -94.7827283,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWYO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River (AR OK)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwyo2",
+  "slug": "usgs-07196090",
+  "noaaForecastPath": "data/noaa-forecast/CWYO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

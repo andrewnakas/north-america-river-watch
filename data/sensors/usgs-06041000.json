@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06041000",
+  "key": "06041000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06041000",
+  "name": "Madison River bl Ennis Lake nr McAllister MT",
+  "waterbody": "Madison River bl Ennis Lake nr McAllister MT",
+  "state": "MT",
+  "latitude": 45.49023056,
+  "longitude": -111.6345056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MADM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Madison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/madm8",
+  "slug": "usgs-06041000",
+  "noaaForecastPath": "data/noaa-forecast/MADM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15056095",
+  "key": "15056095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15056095",
+  "name": "GOAT LK OUTLET NR SKAGWAY AK",
+  "waterbody": "GOAT LK OUTLET NR SKAGWAY AK",
+  "state": "AK",
+  "latitude": 59.52681938,
+  "longitude": -135.17916511,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15056095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

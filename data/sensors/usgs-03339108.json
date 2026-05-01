@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03339108",
+  "key": "03339108",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03339108",
+  "name": "EAST FORK COAL CREEK NEAR HILLSBORO, IND.",
+  "waterbody": "EAST FORK COAL CREEK NEAR HILLSBORO, IND.",
+  "state": "IN",
+  "latitude": 40.10169824,
+  "longitude": -87.1288886,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03339108",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

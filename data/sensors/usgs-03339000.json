@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03339000",
+  "key": "03339000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03339000",
+  "name": "VERMILION RIVER NEAR DANVILLE, IL",
+  "waterbody": "VERMILION RIVER NEAR DANVILLE, IL",
+  "state": "IL",
+  "latitude": 40.1010833,
+  "longitude": -87.5976111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNVI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vermilion River (E-IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnvi2",
+  "slug": "usgs-03339000",
+  "noaaForecastPath": "data/noaa-forecast/DNVI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

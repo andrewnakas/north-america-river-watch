@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04263000",
+  "key": "04263000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04263000",
+  "name": "OSWEGATCHIE RIVER NEAR HEUVELTON NY",
+  "waterbody": "OSWEGATCHIE RIVER NEAR HEUVELTON NY",
+  "state": "NY",
+  "latitude": 44.60002778,
+  "longitude": -75.37891667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HEUN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oswegatchie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/heun6",
+  "slug": "usgs-04263000",
+  "noaaForecastPath": "data/noaa-forecast/HEUN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

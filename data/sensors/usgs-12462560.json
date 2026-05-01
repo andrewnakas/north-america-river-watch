@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12462560",
+  "key": "12462560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12462560",
+  "name": "ROCK ISLAND PP TW UNIT 1 NEAR WENATCHEE, WA",
+  "waterbody": "ROCK ISLAND PP TW UNIT 1 NEAR WENATCHEE, WA",
+  "state": "WA",
+  "latitude": 47.3456849,
+  "longitude": -120.0914494,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12462560",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

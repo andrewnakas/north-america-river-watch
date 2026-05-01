@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06717400",
+  "key": "06717400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06717400",
+  "name": "CHICAGO CREEK BLW DEVILS CANYON NR IDAHO SPRGS, CO",
+  "waterbody": "CHICAGO CREEK BLW DEVILS CANYON NR IDAHO SPRGS, CO",
+  "state": "CO",
+  "latitude": 39.71637678,
+  "longitude": -105.5713883,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06717400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

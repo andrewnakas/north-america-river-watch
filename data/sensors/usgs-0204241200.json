@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0204241200",
+  "key": "0204241200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204241200",
+  "name": "NORTH RUN AT MOUNTAIN ROAD AT GLEN ALLEN, VA",
+  "waterbody": "NORTH RUN AT MOUNTAIN ROAD AT GLEN ALLEN, VA",
+  "state": "VA",
+  "latitude": 37.66488889,
+  "longitude": -77.49758889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0204241200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

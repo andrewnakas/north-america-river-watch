@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893500",
+  "key": "06893500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893500",
+  "name": "Blue River at Kansas City, MO",
+  "waterbody": "Blue River at Kansas City, MO",
+  "state": "MO",
+  "latitude": 38.957,
+  "longitude": -94.5588889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kccm7",
+  "slug": "usgs-06893500",
+  "noaaForecastPath": "data/noaa-forecast/KCCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

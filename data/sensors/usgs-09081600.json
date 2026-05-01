@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09081600",
+  "key": "09081600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09081600",
+  "name": "CRYSTAL RIVER ABV AVALANCHE CRK, NEAR REDSTONE, CO",
+  "waterbody": "CRYSTAL RIVER ABV AVALANCHE CRK, NEAR REDSTONE, CO",
+  "state": "CO",
+  "latitude": 39.23263889,
+  "longitude": -107.2275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCYC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crystal River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcyc2",
+  "slug": "usgs-09081600",
+  "noaaForecastPath": "data/noaa-forecast/RCYC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

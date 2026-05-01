@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03329400",
+  "key": "03329400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03329400",
+  "name": "RATTLESNAKE CREEK NEAR PATTON, IND.",
+  "waterbody": "RATTLESNAKE CREEK NEAR PATTON, IND.",
+  "state": "IN",
+  "latitude": 40.7128026,
+  "longitude": -86.6969299,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03329400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

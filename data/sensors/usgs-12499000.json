@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12499000",
+  "key": "12499000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12499000",
+  "name": "NACHES RIVER NEAR NORTH YAKIMA, WA",
+  "waterbody": "NACHES RIVER NEAR NORTH YAKIMA, WA",
+  "state": "WA",
+  "latitude": 46.6281821,
+  "longitude": -120.5206216,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12499000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

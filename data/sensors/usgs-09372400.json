@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09372400",
+  "key": "09372400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09372400",
+  "name": "NORTH CREEK NEAR MONTICELLO, UT",
+  "waterbody": "NORTH CREEK NEAR MONTICELLO, UT",
+  "state": "UT",
+  "latitude": 37.87666,
+  "longitude": -109.4459538,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09372400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

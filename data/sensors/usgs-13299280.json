@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13299280",
+  "key": "13299280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13299280",
+  "name": "MORGAN CREEK ABV SAGE CREEK NR CHALLIS ID",
+  "waterbody": "MORGAN CREEK ABV SAGE CREEK NR CHALLIS ID",
+  "state": "ID",
+  "latitude": 44.665,
+  "longitude": -114.2283333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13299280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

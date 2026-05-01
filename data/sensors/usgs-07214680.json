@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07214680",
+  "key": "07214680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07214680",
+  "name": "LA SIERRA DITCH NEAR HOLMAN, NM",
+  "waterbody": "LA SIERRA DITCH NEAR HOLMAN, NM",
+  "state": "NM",
+  "latitude": 36.05026667,
+  "longitude": -105.454575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07214680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

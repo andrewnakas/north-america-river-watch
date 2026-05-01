@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09205300",
+  "key": "09205300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09205300",
+  "name": "Muddy Creek at mouth, near Big Piney, WY",
+  "waterbody": "Muddy Creek at mouth, near Big Piney, WY",
+  "state": "WY",
+  "latitude": 42.527031,
+  "longitude": -110.070939,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09205300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

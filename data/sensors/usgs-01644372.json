@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01644372",
+  "key": "01644372",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644372",
+  "name": "LITTLE SENECA CREEK TRIBUTARY AT BRINK, MD",
+  "waterbody": "LITTLE SENECA CREEK TRIBUTARY AT BRINK, MD",
+  "state": "MD",
+  "latitude": 39.22272222,
+  "longitude": -77.24936111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Seneca Creek Tributary",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bikm2",
+  "slug": "usgs-01644372",
+  "noaaForecastPath": "data/noaa-forecast/BIKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

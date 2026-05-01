@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01124000",
+  "key": "01124000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01124000",
+  "name": "QUINEBAUG RIVER AT QUINEBAUG, CT",
+  "waterbody": "QUINEBAUG RIVER AT QUINEBAUG, CT",
+  "state": "CT",
+  "latitude": 42.02220151,
+  "longitude": -71.95560457,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01124000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

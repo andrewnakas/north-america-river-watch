@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05346000",
+  "key": "05346000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05346000",
+  "name": "VERMILLION RIVER AT HASTINGS, MN",
+  "waterbody": "VERMILLION RIVER AT HASTINGS, MN",
+  "state": "MN",
+  "latitude": 44.71996738,
+  "longitude": -92.8660389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05346000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

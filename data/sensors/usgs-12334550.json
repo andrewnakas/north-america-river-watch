@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12334550",
+  "key": "12334550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12334550",
+  "name": "Clark Fork at Turah Bridge nr Bonner MT",
+  "waterbody": "Clark Fork at Turah Bridge nr Bonner MT",
+  "state": "MT",
+  "latitude": 46.8259111,
+  "longitude": -113.8140306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12334550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

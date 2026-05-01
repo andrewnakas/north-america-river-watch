@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07137500",
+  "key": "07137500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07137500",
+  "name": "ARKANSAS R NR COOLIDGE, KS",
+  "waterbody": "ARKANSAS R NR COOLIDGE, KS",
+  "state": "KS",
+  "latitude": 38.02751727,
+  "longitude": -102.011577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COOK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cook1",
+  "slug": "usgs-07137500",
+  "noaaForecastPath": "data/noaa-forecast/COOK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

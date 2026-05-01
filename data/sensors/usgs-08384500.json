@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08384500",
+  "key": "08384500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08384500",
+  "name": "PECOS RIVER BELOW SUMNER DAM, NM",
+  "waterbody": "PECOS RIVER BELOW SUMNER DAM, NM",
+  "state": "NM",
+  "latitude": 34.60405556,
+  "longitude": -104.3879167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAKN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lakn5",
+  "slug": "usgs-08384500",
+  "noaaForecastPath": "data/noaa-forecast/LAKN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

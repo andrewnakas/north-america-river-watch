@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02186645",
+  "key": "02186645",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02186645",
+  "name": "CONEROSS CK NR SENECA, SC",
+  "waterbody": "CONEROSS CK NR SENECA, SC",
+  "state": "SC",
+  "latitude": 34.64926575,
+  "longitude": -82.9915382,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02186645",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

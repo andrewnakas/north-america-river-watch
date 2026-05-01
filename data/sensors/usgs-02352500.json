@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02352500",
+  "key": "02352500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02352500",
+  "name": "FLINT RIVER AT ALBANY, GA",
+  "waterbody": "FLINT RIVER AT ALBANY, GA",
+  "state": "GA",
+  "latitude": 31.59416667,
+  "longitude": -84.1441667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River (GA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abng1",
+  "slug": "usgs-02352500",
+  "noaaForecastPath": "data/noaa-forecast/ABNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

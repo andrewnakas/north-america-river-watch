@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12145500",
+  "key": "12145500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12145500",
+  "name": "RAGING RIVER NEAR FALL CITY, WA",
+  "waterbody": "RAGING RIVER NEAR FALL CITY, WA",
+  "state": "WA",
+  "latitude": 47.53982388,
+  "longitude": -121.9090047,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12145500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

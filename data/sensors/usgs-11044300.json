@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11044300",
+  "key": "11044300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11044300",
+  "name": "SANTA MARGARITA R A FPUD SUMP NR FALLBROOK CA",
+  "waterbody": "SANTA MARGARITA R A FPUD SUMP NR FALLBROOK CA",
+  "state": "CA",
+  "latitude": 33.41364246,
+  "longitude": -117.2411367,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11044300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

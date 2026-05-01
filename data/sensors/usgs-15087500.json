@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15087500",
+  "key": "15087500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087500",
+  "name": "EF HOBO C NR PETERSBURG AK",
+  "waterbody": "EF HOBO C NR PETERSBURG AK",
+  "state": "AK",
+  "latitude": 56.7935403,
+  "longitude": -132.8747734,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15087500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11468500",
+  "key": "11468500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11468500",
+  "name": "NOYO R NR FORT BRAGG CA",
+  "waterbody": "NOYO R NR FORT BRAGG CA",
+  "state": "CA",
+  "latitude": 39.42818069,
+  "longitude": -123.7377695,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Noyo River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftbc1",
+  "slug": "usgs-11468500",
+  "noaaForecastPath": "data/noaa-forecast/FTBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

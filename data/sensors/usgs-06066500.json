@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06066500",
+  "key": "06066500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06066500",
+  "name": "Missouri River bl Holter Dam nr Wolf Cr MT",
+  "waterbody": "Missouri River bl Holter Dam nr Wolf Cr MT",
+  "state": "MT",
+  "latitude": 46.99473889,
+  "longitude": -112.0106667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htrm8",
+  "slug": "usgs-06066500",
+  "noaaForecastPath": "data/noaa-forecast/HTRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

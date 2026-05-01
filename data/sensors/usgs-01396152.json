@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01396152",
+  "key": "01396152",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01396152",
+  "name": "Flanders Brook at US Route 206 near Flanders NJ",
+  "waterbody": "Flanders Brook at US Route 206 near Flanders NJ",
+  "state": "NJ",
+  "latitude": 40.8558333,
+  "longitude": -74.7011111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01396152",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

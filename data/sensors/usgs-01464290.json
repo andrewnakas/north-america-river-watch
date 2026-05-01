@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01464290",
+  "key": "01464290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01464290",
+  "name": "Crosswicks Ck at Hockamik Rd near Cookstown NJ",
+  "waterbody": "Crosswicks Ck at Hockamik Rd near Cookstown NJ",
+  "state": "NJ",
+  "latitude": 40.03611111,
+  "longitude": -74.53611111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01464290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

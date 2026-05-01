@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08185065",
+  "key": "08185065",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08185065",
+  "name": "Cibolo Ck nr Saint Hedwig, TX",
+  "waterbody": "Cibolo Ck nr Saint Hedwig, TX",
+  "state": "TX",
+  "latitude": 29.50144444,
+  "longitude": -98.18625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cibolo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdwt2",
+  "slug": "usgs-08185065",
+  "noaaForecastPath": "data/noaa-forecast/HDWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

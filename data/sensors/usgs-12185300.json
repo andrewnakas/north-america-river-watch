@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12185300",
+  "key": "12185300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12185300",
+  "name": "ELLIOTT CR AT GOAT LAKE OUTLET NR MONTE CRISTO, WA",
+  "waterbody": "ELLIOTT CR AT GOAT LAKE OUTLET NR MONTE CRISTO, WA",
+  "state": "WA",
+  "latitude": 48.02205219,
+  "longitude": -121.356497,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12185300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

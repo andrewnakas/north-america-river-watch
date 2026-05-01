@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336340",
+  "key": "02336340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336340",
+  "name": "NANCY CREEK AT JOHNSON FERRY RD, AT CHAMBLEE, GA",
+  "waterbody": "NANCY CREEK AT JOHNSON FERRY RD, AT CHAMBLEE, GA",
+  "state": "GA",
+  "latitude": 33.89775,
+  "longitude": -84.34525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCDG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nancy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncdg1",
+  "slug": "usgs-02336340",
+  "noaaForecastPath": "data/noaa-forecast/NCDG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

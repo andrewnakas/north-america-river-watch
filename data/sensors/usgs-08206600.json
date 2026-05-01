@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08206600",
+  "key": "08206600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08206600",
+  "name": "Frio Rv at Tilden, TX",
+  "waterbody": "Frio Rv at Tilden, TX",
+  "state": "TX",
+  "latitude": 28.46749279,
+  "longitude": -98.5475174,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TIDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tidt2",
+  "slug": "usgs-08206600",
+  "noaaForecastPath": "data/noaa-forecast/TIDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

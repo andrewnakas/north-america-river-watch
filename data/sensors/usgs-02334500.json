@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02334500",
+  "key": "02334500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02334500",
+  "name": "CHATTAHOOCHEE RIVER NEAR BUFORD, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER NEAR BUFORD, GA",
+  "state": "GA",
+  "latitude": 34.1261111,
+  "longitude": -84.09338889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02334500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

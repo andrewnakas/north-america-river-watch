@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06449400",
+  "key": "06449400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06449400",
+  "name": "ROSEBUD CR AT ROSEBUD SD",
+  "waterbody": "ROSEBUD CR AT ROSEBUD SD",
+  "state": "SD",
+  "latitude": 43.2372267,
+  "longitude": -100.8576446,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06449400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02266550",
+  "key": "02266550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266550",
+  "name": "REEDY CREEK AT STATE HWY 531 NEAR POINSIANNA, FL",
+  "waterbody": "REEDY CREEK AT STATE HWY 531 NEAR POINSIANNA, FL",
+  "state": "FL",
+  "latitude": 28.15001585,
+  "longitude": -81.4409055,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reedy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcrf1",
+  "slug": "usgs-02266550",
+  "noaaForecastPath": "data/noaa-forecast/RCRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

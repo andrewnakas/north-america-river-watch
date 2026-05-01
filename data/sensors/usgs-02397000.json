@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02397000",
+  "key": "02397000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02397000",
+  "name": "COOSA RIVER MAYOS BAR NEAR ROME, GA",
+  "waterbody": "COOSA RIVER MAYOS BAR NEAR ROME, GA",
+  "state": "GA",
+  "latitude": 34.2005,
+  "longitude": -85.25641667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RMBG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rmbg1",
+  "slug": "usgs-02397000",
+  "noaaForecastPath": "data/noaa-forecast/RMBG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07160500",
+  "key": "07160500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07160500",
+  "name": "Skeleton Creek near Lovell, OK",
+  "waterbody": "Skeleton Creek near Lovell, OK",
+  "state": "OK",
+  "latitude": 36.06004045,
+  "longitude": -97.5850471,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVLO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skeleton Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvlo2",
+  "slug": "usgs-07160500",
+  "noaaForecastPath": "data/noaa-forecast/LVLO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

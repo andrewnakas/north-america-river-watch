@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02364000",
+  "key": "02364000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02364000",
+  "name": "PEA RIVER AT ELBA, AL.",
+  "waterbody": "PEA RIVER AT ELBA, AL.",
+  "state": "AL",
+  "latitude": 31.4134998,
+  "longitude": -86.0630019,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELBA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pea River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elba1",
+  "slug": "usgs-02364000",
+  "noaaForecastPath": "data/noaa-forecast/ELBA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

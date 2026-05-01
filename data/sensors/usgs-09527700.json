@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09527700",
+  "key": "09527700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09527700",
+  "name": "ALL-AMERICAN CANAL BELOW DROP 2 RESERVOIR OUTLET",
+  "waterbody": "ALL-AMERICAN CANAL BELOW DROP 2 RESERVOIR OUTLET",
+  "state": "CA",
+  "latitude": 32.70425,
+  "longitude": -115.0481139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09527700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

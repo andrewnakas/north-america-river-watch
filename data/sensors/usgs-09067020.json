@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09067020",
+  "key": "09067020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09067020",
+  "name": "EAGLE R BLW WASTEWATER TREATMENT PLANT AT AVON, CO",
+  "waterbody": "EAGLE R BLW WASTEWATER TREATMENT PLANT AT AVON, CO",
+  "state": "CO",
+  "latitude": 39.6348611,
+  "longitude": -106.5319444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09067020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

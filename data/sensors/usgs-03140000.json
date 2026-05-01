@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03140000",
+  "key": "03140000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03140000",
+  "name": "Mill Creek near Coshocton OH",
+  "waterbody": "Mill Creek near Coshocton OH",
+  "state": "OH",
+  "latitude": 40.36284598,
+  "longitude": -81.8623563,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03140000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

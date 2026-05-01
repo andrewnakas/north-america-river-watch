@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03373700",
+  "key": "03373700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03373700",
+  "name": "LOST RIVER NR. WEST BADEN SPRINGS, IND.",
+  "waterbody": "LOST RIVER NR. WEST BADEN SPRINGS, IND.",
+  "state": "IN",
+  "latitude": 38.5861623,
+  "longitude": -86.6341505,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03373700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

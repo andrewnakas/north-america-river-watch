@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01445500",
+  "key": "01445500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01445500",
+  "name": "Pequest River at Pequest NJ",
+  "waterbody": "Pequest River at Pequest NJ",
+  "state": "NJ",
+  "latitude": 40.83055556,
+  "longitude": -74.97777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PQTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pequest River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pqtn4",
+  "slug": "usgs-01445500",
+  "noaaForecastPath": "data/noaa-forecast/PQTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

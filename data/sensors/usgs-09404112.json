@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09404112",
+  "key": "09404112",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404112",
+  "name": "Havasu Creek abv Havasu Falls nr Supai, AZ",
+  "waterbody": "Havasu Creek abv Havasu Falls nr Supai, AZ",
+  "state": "AZ",
+  "latitude": 36.25331558,
+  "longitude": -112.6979685,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09404112",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

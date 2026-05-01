@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05370000",
+  "key": "05370000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05370000",
+  "name": "EAU GALLE RIVER AT SPRING VALLEY, WI",
+  "waterbody": "EAU GALLE RIVER AT SPRING VALLEY, WI",
+  "state": "WI",
+  "latitude": 44.85277778,
+  "longitude": -92.2383333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVPW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eau Galle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svpw3",
+  "slug": "usgs-05370000",
+  "noaaForecastPath": "data/noaa-forecast/SVPW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

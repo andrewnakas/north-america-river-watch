@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05062500",
+  "key": "05062500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05062500",
+  "name": "WILD RICE RIVER AT TWIN VALLEY, MN",
+  "waterbody": "WILD RICE RIVER AT TWIN VALLEY, MN",
+  "state": "MN",
+  "latitude": 47.26555556,
+  "longitude": -96.2475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWVM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wild Rice River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twvm5",
+  "slug": "usgs-05062500",
+  "noaaForecastPath": "data/noaa-forecast/TWVM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

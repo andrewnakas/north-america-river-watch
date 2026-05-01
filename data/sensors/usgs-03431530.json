@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03431530",
+  "key": "03431530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03431530",
+  "name": "WHITES C AT OLD HICKORY BLVD AT WHITES CREEK, TN",
+  "waterbody": "WHITES C AT OLD HICKORY BLVD AT WHITES CREEK, TN",
+  "state": "TN",
+  "latitude": 36.27397846,
+  "longitude": -86.8169345,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whites Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcrt1",
+  "slug": "usgs-03431530",
+  "noaaForecastPath": "data/noaa-forecast/WCRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

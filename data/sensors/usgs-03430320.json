@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03430320",
+  "key": "03430320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03430320",
+  "name": "CUMBERLAND RIVER AT BRILEY PKWY NR INGLEWOOD, TN",
+  "waterbody": "CUMBERLAND RIVER AT BRILEY PKWY NR INGLEWOOD, TN",
+  "state": "TN",
+  "latitude": 36.23527778,
+  "longitude": -86.7125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNBT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnbt1",
+  "slug": "usgs-03430320",
+  "noaaForecastPath": "data/noaa-forecast/PNBT1.json",
+  "generatedAt": "2026-05-01T12:10:11.384Z"
+}

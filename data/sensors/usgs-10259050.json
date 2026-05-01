@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10259050",
+  "key": "10259050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10259050",
+  "name": "PALM CYN WASH NR CATHEDRAL CITY CA",
+  "waterbody": "PALM CYN WASH NR CATHEDRAL CITY CA",
+  "state": "CA",
+  "latitude": 33.7972487,
+  "longitude": -116.481954,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10259050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

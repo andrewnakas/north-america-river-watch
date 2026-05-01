@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10265150",
+  "key": "10265150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10265150",
+  "name": "HOT C A FLUME NR MAMMOTH LAKES CA",
+  "waterbody": "HOT C A FLUME NR MAMMOTH LAKES CA",
+  "state": "CA",
+  "latitude": 37.66881076,
+  "longitude": -118.8176148,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HFCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hot Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hfcc1",
+  "slug": "usgs-10265150",
+  "noaaForecastPath": "data/noaa-forecast/HFCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336870",
+  "key": "02336870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336870",
+  "name": "POWDER SPRINGS CREEK NEAR POWDER SPRINGS, GA",
+  "waterbody": "POWDER SPRINGS CREEK NEAR POWDER SPRINGS, GA",
+  "state": "GA",
+  "latitude": 33.85916667,
+  "longitude": -84.6883611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POWG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Powder Springs Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/powg1",
+  "slug": "usgs-02336870",
+  "noaaForecastPath": "data/noaa-forecast/POWG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

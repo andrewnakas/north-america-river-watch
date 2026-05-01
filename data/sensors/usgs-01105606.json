@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01105606",
+  "key": "01105606",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105606",
+  "name": "WHITMANS POND, WHITMANS POND DAM AT E. WEYMOUTH,MA",
+  "waterbody": "WHITMANS POND, WHITMANS POND DAM AT E. WEYMOUTH,MA",
+  "state": "MA",
+  "latitude": 42.2108333,
+  "longitude": -70.9294444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01105606",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

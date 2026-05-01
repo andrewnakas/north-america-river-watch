@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14216000",
+  "key": "14216000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14216000",
+  "name": "LEWIS RIVER ABOVE MUDDY RIVER NEAR COUGAR, WA",
+  "waterbody": "LEWIS RIVER ABOVE MUDDY RIVER NEAR COUGAR, WA",
+  "state": "WA",
+  "latitude": 46.060355,
+  "longitude": -121.9845094,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRCW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lewis River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrcw1",
+  "slug": "usgs-14216000",
+  "noaaForecastPath": "data/noaa-forecast/LRCW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

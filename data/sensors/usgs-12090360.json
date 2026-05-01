@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12090360",
+  "key": "12090360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12090360",
+  "name": "CLOVER CREEK BELOW 138TH ST S NEAR PARKLAND, WA",
+  "waterbody": "CLOVER CREEK BELOW 138TH ST S NEAR PARKLAND, WA",
+  "state": "WA",
+  "latitude": 47.13176586,
+  "longitude": -122.4267885,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12090360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

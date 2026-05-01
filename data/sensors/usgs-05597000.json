@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05597000",
+  "key": "05597000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05597000",
+  "name": "BIG MUDDY RIVER AT PLUMFIELD, IL",
+  "waterbody": "BIG MUDDY RIVER AT PLUMFIELD, IL",
+  "state": "IL",
+  "latitude": 37.89138889,
+  "longitude": -89.0194444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Muddy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plmi2",
+  "slug": "usgs-05597000",
+  "noaaForecastPath": "data/noaa-forecast/PLMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046530",
+  "key": "11046530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046530",
+  "name": "SAN JUAN C AT LA NOVIA ST BR AT SAN JUAN CAPIS CA",
+  "waterbody": "SAN JUAN C AT LA NOVIA ST BR AT SAN JUAN CAPIS CA",
+  "state": "CA",
+  "latitude": 33.50252614,
+  "longitude": -117.6480925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046530",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

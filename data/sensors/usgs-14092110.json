@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14092110",
+  "key": "14092110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14092110",
+  "name": "DESCHUTES RIVER BLW RND BUTTE DM, NR MADRAS, OR",
+  "waterbody": "DESCHUTES RIVER BLW RND BUTTE DM, NR MADRAS, OR",
+  "state": "OR",
+  "latitude": 44.6228964,
+  "longitude": -121.2828251,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14092110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

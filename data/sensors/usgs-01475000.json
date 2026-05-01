@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01475000",
+  "key": "01475000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01475000",
+  "name": "Mantua Creek at Pitman NJ",
+  "waterbody": "Mantua Creek at Pitman NJ",
+  "state": "NJ",
+  "latitude": 39.73694444,
+  "longitude": -75.1133333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01475000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

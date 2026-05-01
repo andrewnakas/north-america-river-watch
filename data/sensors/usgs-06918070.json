@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06918070",
+  "key": "06918070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06918070",
+  "name": "Osage River above Schell City, MO",
+  "waterbody": "Osage River above Schell City, MO",
+  "state": "MO",
+  "latitude": 38.0558611,
+  "longitude": -94.1454167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Osage River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sczm7",
+  "slug": "usgs-06918070",
+  "noaaForecastPath": "data/noaa-forecast/SCZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

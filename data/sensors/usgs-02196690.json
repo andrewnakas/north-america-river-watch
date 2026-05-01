@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02196690",
+  "key": "02196690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02196690",
+  "name": "HORSE CREEK AT CLEARWATER, SC",
+  "waterbody": "HORSE CREEK AT CLEARWATER, SC",
+  "state": "SC",
+  "latitude": 33.4781928,
+  "longitude": -81.90761399,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Horse Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clrs1",
+  "slug": "usgs-02196690",
+  "noaaForecastPath": "data/noaa-forecast/CLRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

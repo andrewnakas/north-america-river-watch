@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09032050",
+  "key": "09032050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09032050",
+  "name": "LITTLE CABIN CREEK NEAR TABERNASH, CO",
+  "waterbody": "LITTLE CABIN CREEK NEAR TABERNASH, CO",
+  "state": "CO",
+  "latitude": 39.97454444,
+  "longitude": -105.7395361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09032050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01567000",
+  "key": "01567000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01567000",
+  "name": "Juniata River at Newport, PA",
+  "waterbody": "Juniata River at Newport, PA",
+  "state": "PA",
+  "latitude": 40.47841677,
+  "longitude": -77.1291484,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NPTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Juniata River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nptp1",
+  "slug": "usgs-01567000",
+  "noaaForecastPath": "data/noaa-forecast/NPTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

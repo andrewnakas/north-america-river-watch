@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50037000",
+  "key": "50037000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50037000",
+  "name": "RIO GRANDE DE MANATI NR MANATI, PR",
+  "waterbody": "RIO GRANDE DE MANATI NR MANATI, PR",
+  "state": "PR",
+  "latitude": 18.399444,
+  "longitude": -66.496944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RGMP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Manati",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rgmp4",
+  "slug": "usgs-50037000",
+  "noaaForecastPath": "data/noaa-forecast/RGMP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

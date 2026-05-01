@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05390101",
+  "key": "05390101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05390101",
+  "name": "WISCONSIN RIVER NEAR LAND O LAKES, WI",
+  "waterbody": "WISCONSIN RIVER NEAR LAND O LAKES, WI",
+  "state": "WI",
+  "latitude": 46.1216185,
+  "longitude": -89.1520804,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05390101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

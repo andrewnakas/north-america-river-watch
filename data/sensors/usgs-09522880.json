@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09522880",
+  "key": "09522880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09522880",
+  "name": "MCAS DIVERSION OF B CANAL NEAR YUMA, AZ",
+  "waterbody": "MCAS DIVERSION OF B CANAL NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.64888889,
+  "longitude": -114.5822222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09522880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

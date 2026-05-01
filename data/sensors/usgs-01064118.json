@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01064118",
+  "key": "01064118",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01064118",
+  "name": "Presumpscot River at Westbrook, Maine",
+  "waterbody": "Presumpscot River at Westbrook, Maine",
+  "state": "ME",
+  "latitude": 43.68694444,
+  "longitude": -70.3472222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01064118",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01412800",
+  "key": "01412800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01412800",
+  "name": "Cohansey River at Seeley NJ",
+  "waterbody": "Cohansey River at Seeley NJ",
+  "state": "NJ",
+  "latitude": 39.4725,
+  "longitude": -75.25555556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEEN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cohansey River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seen4",
+  "slug": "usgs-01412800",
+  "noaaForecastPath": "data/noaa-forecast/SEEN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

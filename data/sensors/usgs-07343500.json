@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07343500",
+  "key": "07343500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07343500",
+  "name": "White Oak Ck nr Talco, TX",
+  "waterbody": "White Oak Ck nr Talco, TX",
+  "state": "TX",
+  "latitude": 33.32233617,
+  "longitude": -95.0927184,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Oak Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/woct2",
+  "slug": "usgs-07343500",
+  "noaaForecastPath": "data/noaa-forecast/WOCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

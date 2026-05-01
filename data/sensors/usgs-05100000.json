@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05100000",
+  "key": "05100000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05100000",
+  "name": "PEMBINA RIVER AT NECHE, ND",
+  "waterbody": "PEMBINA RIVER AT NECHE, ND",
+  "state": "ND",
+  "latitude": 48.9897138,
+  "longitude": -97.5570221,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCEN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pembina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncen8",
+  "slug": "usgs-05100000",
+  "noaaForecastPath": "data/noaa-forecast/NCEN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

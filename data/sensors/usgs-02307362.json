@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02307362",
+  "key": "02307362",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307362",
+  "name": "BROOKER CREEK AT TARPON WOODS BLVD NR OLDSMAR FL",
+  "waterbody": "BROOKER CREEK AT TARPON WOODS BLVD NR OLDSMAR FL",
+  "state": "FL",
+  "latitude": 28.08681904,
+  "longitude": -82.69387371,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brooker Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwcf1",
+  "slug": "usgs-02307362",
+  "noaaForecastPath": "data/noaa-forecast/BWCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09519760",
+  "key": "09519760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09519760",
+  "name": "SAUCEDA WASH NEAR GILA BEND, AZ",
+  "waterbody": "SAUCEDA WASH NEAR GILA BEND, AZ",
+  "state": "AZ",
+  "latitude": 32.870603,
+  "longitude": -112.7590528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09519760",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

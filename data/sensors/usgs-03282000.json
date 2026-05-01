@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03282000",
+  "key": "03282000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03282000",
+  "name": "KENTUCKY RIVER AT LOCK 14 AT HEIDELBERG, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 14 AT HEIDELBERG, KY",
+  "state": "KY",
+  "latitude": 37.5531418,
+  "longitude": -83.7693625,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLDK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hldk2",
+  "slug": "usgs-03282000",
+  "noaaForecastPath": "data/noaa-forecast/HLDK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

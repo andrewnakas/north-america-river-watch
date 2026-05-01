@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12449500",
+  "key": "12449500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12449500",
+  "name": "METHOW RIVER AT TWISP, WA",
+  "waterbody": "METHOW RIVER AT TWISP, WA",
+  "state": "WA",
+  "latitude": 48.36514507,
+  "longitude": -120.1161917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12449500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

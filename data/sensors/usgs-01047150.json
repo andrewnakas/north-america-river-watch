@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01047150",
+  "key": "01047150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01047150",
+  "name": "Kennebec River near Madison, Maine",
+  "waterbody": "Kennebec River near Madison, Maine",
+  "state": "ME",
+  "latitude": 44.77888889,
+  "longitude": -69.8869444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDSM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kennebec River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdsm1",
+  "slug": "usgs-01047150",
+  "noaaForecastPath": "data/noaa-forecast/MDSM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

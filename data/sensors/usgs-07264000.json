@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07264000",
+  "key": "07264000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07264000",
+  "name": "Bayou Meto near Lonoke, AR",
+  "waterbody": "Bayou Meto near Lonoke, AR",
+  "state": "AR",
+  "latitude": 34.73666667,
+  "longitude": -91.9158333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07264000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

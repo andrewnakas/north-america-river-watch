@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03498500",
+  "key": "03498500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03498500",
+  "name": "LITTLE RIVER NEAR MARYVILLE, TN",
+  "waterbody": "LITTLE RIVER NEAR MARYVILLE, TN",
+  "state": "TN",
+  "latitude": 35.7856337,
+  "longitude": -83.8846022,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYVT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (TN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myvt1",
+  "slug": "usgs-03498500",
+  "noaaForecastPath": "data/noaa-forecast/MYVT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

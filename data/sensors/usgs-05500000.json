@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05500000",
+  "key": "05500000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05500000",
+  "name": "South Fabius River near Taylor, MO",
+  "waterbody": "South Fabius River near Taylor, MO",
+  "state": "MO",
+  "latitude": 39.8974722,
+  "longitude": -91.5802778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TAYM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fabius River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/taym7",
+  "slug": "usgs-05500000",
+  "noaaForecastPath": "data/noaa-forecast/TAYM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

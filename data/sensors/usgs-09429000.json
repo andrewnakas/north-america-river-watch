@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429000",
+  "key": "09429000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429000",
+  "name": "PALO VERDE CANAL NEAR BLYTHE, CA",
+  "waterbody": "PALO VERDE CANAL NEAR BLYTHE, CA",
+  "state": "CA",
+  "latitude": 33.73160278,
+  "longitude": -114.5119472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02343940",
+  "key": "02343940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02343940",
+  "name": "SAWHATCHEE CREEK AT CEDAR SPRINGS, GA",
+  "waterbody": "SAWHATCHEE CREEK AT CEDAR SPRINGS, GA",
+  "state": "GA",
+  "latitude": 31.18083333,
+  "longitude": -85.0436111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CEDG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sawhatchee Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cedg1",
+  "slug": "usgs-02343940",
+  "noaaForecastPath": "data/noaa-forecast/CEDG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

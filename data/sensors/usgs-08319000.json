@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08319000",
+  "key": "08319000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08319000",
+  "name": "RIO GRANDE AT SAN FELIPE, NM",
+  "waterbody": "RIO GRANDE AT SAN FELIPE, NM",
+  "state": "NM",
+  "latitude": 35.4445833,
+  "longitude": -106.4398333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFPN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfpn5",
+  "slug": "usgs-08319000",
+  "noaaForecastPath": "data/noaa-forecast/SFPN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

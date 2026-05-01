@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09419530",
+  "key": "09419530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419530",
+  "name": "VIRGIN RV BLW CONF OF MUDDY RV NR OVERTON, NV",
+  "waterbody": "VIRGIN RV BLW CONF OF MUDDY RV NR OVERTON, NV",
+  "state": "NV",
+  "latitude": 36.4475583,
+  "longitude": -114.3529139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VBMN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Virgin River blo Muddy Confluence",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vbmn2",
+  "slug": "usgs-09419530",
+  "noaaForecastPath": "data/noaa-forecast/VBMN2.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09066000",
+  "key": "09066000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09066000",
+  "name": "BLACK GORE CREEK NEAR MINTURN, CO.",
+  "waterbody": "BLACK GORE CREEK NEAR MINTURN, CO.",
+  "state": "CO",
+  "latitude": 39.59637495,
+  "longitude": -106.2650264,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09066000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

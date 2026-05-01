@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05551540",
+  "key": "05551540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05551540",
+  "name": "FOX RIVER AT MONTGOMERY, IL",
+  "waterbody": "FOX RIVER AT MONTGOMERY, IL",
+  "state": "IL",
+  "latitude": 41.73355,
+  "longitude": -88.3333361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mngi2",
+  "slug": "usgs-05551540",
+  "noaaForecastPath": "data/noaa-forecast/MNGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

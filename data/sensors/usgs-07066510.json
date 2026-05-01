@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07066510",
+  "key": "07066510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07066510",
+  "name": "Current River above Powder Mill, MO",
+  "waterbody": "Current River above Powder Mill, MO",
+  "state": "MO",
+  "latitude": 37.18561389,
+  "longitude": -91.1776639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PWDM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Current River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pwdm7",
+  "slug": "usgs-07066510",
+  "noaaForecastPath": "data/noaa-forecast/PWDM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

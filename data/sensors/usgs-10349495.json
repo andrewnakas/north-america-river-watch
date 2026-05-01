@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10349495",
+  "key": "10349495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10349495",
+  "name": "STEAMBOAT CK AT GEIGER GD NR STEAMBOAT, NV",
+  "waterbody": "STEAMBOAT CK AT GEIGER GD NR STEAMBOAT, NV",
+  "state": "NV",
+  "latitude": 39.40230278,
+  "longitude": -119.7437806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10349495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

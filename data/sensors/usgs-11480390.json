@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11480390",
+  "key": "11480390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11480390",
+  "name": "MAD R AB RUTH RES NR FOREST GLEN CA",
+  "waterbody": "MAD R AB RUTH RES NR FOREST GLEN CA",
+  "state": "CA",
+  "latitude": 40.28428216,
+  "longitude": -123.3352727,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAUC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mad River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mauc1",
+  "slug": "usgs-11480390",
+  "noaaForecastPath": "data/noaa-forecast/MAUC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

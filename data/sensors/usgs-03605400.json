@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03605400",
+  "key": "03605400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03605400",
+  "name": "TRACE CREEK AT U S HIGHWAY 70, AT WAVERLY, TN",
+  "waterbody": "TRACE CREEK AT U S HIGHWAY 70, AT WAVERLY, TN",
+  "state": "TN",
+  "latitude": 36.0828709,
+  "longitude": -87.7755754,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03605400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02228000",
+  "key": "02228000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02228000",
+  "name": "SATILLA RIVER AT ATKINSON, GA",
+  "waterbody": "SATILLA RIVER AT ATKINSON, GA",
+  "state": "GA",
+  "latitude": 31.21958333,
+  "longitude": -81.8664444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATKG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Satilla River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atkg1",
+  "slug": "usgs-02228000",
+  "noaaForecastPath": "data/noaa-forecast/ATKG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

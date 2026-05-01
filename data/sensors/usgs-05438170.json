@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05438170",
+  "key": "05438170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05438170",
+  "name": "KISHWAUKEE RIVER AT MARENGO, IL",
+  "waterbody": "KISHWAUKEE RIVER AT MARENGO, IL",
+  "state": "IL",
+  "latitude": 42.26535,
+  "longitude": -88.60848889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kishwaukee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrgi2",
+  "slug": "usgs-05438170",
+  "noaaForecastPath": "data/noaa-forecast/MRGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

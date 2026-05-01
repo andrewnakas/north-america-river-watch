@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14201500",
+  "key": "14201500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14201500",
+  "name": "BUTTE CREEK AT MONITOR, OR",
+  "waterbody": "BUTTE CREEK AT MONITOR, OR",
+  "state": "OR",
+  "latitude": 45.1015099,
+  "longitude": -122.7462019,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Butte Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bumo3",
+  "slug": "usgs-14201500",
+  "noaaForecastPath": "data/noaa-forecast/BUMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

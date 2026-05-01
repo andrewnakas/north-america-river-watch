@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09251100",
+  "key": "09251100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09251100",
+  "name": "YAMPA RIVER ABV. LITTLE SNAKE R. NR. MAYBELL, CO",
+  "waterbody": "YAMPA RIVER ABV. LITTLE SNAKE R. NR. MAYBELL, CO",
+  "state": "CO",
+  "latitude": 40.46080078,
+  "longitude": -108.4256528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09251100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

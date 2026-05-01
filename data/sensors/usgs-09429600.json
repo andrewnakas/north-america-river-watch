@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429600",
+  "key": "09429600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429600",
+  "name": "COLORADO RIVER BELOW LAGUNA DAM, AZ-CA",
+  "waterbody": "COLORADO RIVER BELOW LAGUNA DAM, AZ-CA",
+  "state": "CA",
+  "latitude": 32.8122666,
+  "longitude": -114.5149494,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

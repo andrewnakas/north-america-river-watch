@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01389500",
+  "key": "01389500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01389500",
+  "name": "Passaic River at Little Falls NJ",
+  "waterbody": "Passaic River at Little Falls NJ",
+  "state": "NJ",
+  "latitude": 40.88472222,
+  "longitude": -74.22611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTFN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Passaic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltfn4",
+  "slug": "usgs-01389500",
+  "noaaForecastPath": "data/noaa-forecast/LTFN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

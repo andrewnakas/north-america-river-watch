@@ -1,0 +1,22 @@
+{
+  "id": "usgs:301141089320300",
+  "key": "301141089320300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "301141089320300",
+  "name": "EAST PEARL RIVER AT CSX RAILROAD NR CLAIBORNE, MS",
+  "waterbody": "EAST PEARL RIVER AT CSX RAILROAD NR CLAIBORNE, MS",
+  "state": "MS",
+  "latitude": 30.1947222,
+  "longitude": -89.5341667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EPCM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/epcm6",
+  "slug": "usgs-301141089320300",
+  "noaaForecastPath": "data/noaa-forecast/EPCM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

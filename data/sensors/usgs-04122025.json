@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04122025",
+  "key": "04122025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04122025",
+  "name": "MUSKEGON RIVER AT BRIDGETON, MI",
+  "waterbody": "MUSKEGON RIVER AT BRIDGETON, MI",
+  "state": "MI",
+  "latitude": 43.34724097,
+  "longitude": -85.9394978,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muskegon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdgm4",
+  "slug": "usgs-04122025",
+  "noaaForecastPath": "data/noaa-forecast/BDGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

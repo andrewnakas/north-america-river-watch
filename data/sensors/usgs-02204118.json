@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02204118",
+  "key": "02204118",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02204118",
+  "name": "HONEY CREEK AT HURST ROAD, NEAR CONYERS, GA",
+  "waterbody": "HONEY CREEK AT HURST ROAD, NEAR CONYERS, GA",
+  "state": "GA",
+  "latitude": 33.6622222,
+  "longitude": -84.0841667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02204118",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04059034",
+  "key": "04059034",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04059034",
+  "name": "ESCANABA RIVER NEAR WELLS, MI",
+  "waterbody": "ESCANABA RIVER NEAR WELLS, MI",
+  "state": "MI",
+  "latitude": 45.80607766,
+  "longitude": -87.0976366,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04059034",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

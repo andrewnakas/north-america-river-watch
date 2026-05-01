@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02311500",
+  "key": "02311500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02311500",
+  "name": "WITHLACOOCHEE RIVER NEAR DADE CITY, FL",
+  "waterbody": "WITHLACOOCHEE RIVER NEAR DADE CITY, FL",
+  "state": "FL",
+  "latitude": 28.3525042,
+  "longitude": -82.12591619,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02311500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

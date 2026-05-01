@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03049925",
+  "key": "03049925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049925",
+  "name": "TYGART VALLEY RIVER AT VALLEY HEAD, WV",
+  "waterbody": "TYGART VALLEY RIVER AT VALLEY HEAD, WV",
+  "state": "WV",
+  "latitude": 38.55289056,
+  "longitude": -80.0370128,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLYW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlyw2",
+  "slug": "usgs-03049925",
+  "noaaForecastPath": "data/noaa-forecast/VLYW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12301250",
+  "key": "12301250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12301250",
+  "name": "Tobacco River at Eureka, MT",
+  "waterbody": "Tobacco River at Eureka, MT",
+  "state": "MT",
+  "latitude": 48.8779472,
+  "longitude": -115.054461,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TBAM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tobacco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tbam8",
+  "slug": "usgs-12301250",
+  "noaaForecastPath": "data/noaa-forecast/TBAM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362352",
+  "key": "01362352",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362352",
+  "name": "STONY CLOVE CR ABV WARNER CR AT CHICHESTER NY",
+  "waterbody": "STONY CLOVE CR ABV WARNER CR AT CHICHESTER NY",
+  "state": "NY",
+  "latitude": 42.10252778,
+  "longitude": -74.2965556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362352",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

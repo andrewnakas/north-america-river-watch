@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09417500",
+  "key": "09417500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09417500",
+  "name": "MEADOW VALLEY WASH AT EAGLE CYN NR URSINE, NV",
+  "waterbody": "MEADOW VALLEY WASH AT EAGLE CYN NR URSINE, NV",
+  "state": "NV",
+  "latitude": 38.0041285,
+  "longitude": -114.206927,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVEN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meadow Valley Wash",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mven2",
+  "slug": "usgs-09417500",
+  "noaaForecastPath": "data/noaa-forecast/MVEN2.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

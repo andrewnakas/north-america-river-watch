@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06893100",
+  "key": "06893100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893100",
+  "name": "BLUE R AT KENNETH RD, OVERLAND PARK, KS",
+  "waterbody": "BLUE R AT KENNETH RD, OVERLAND PARK, KS",
+  "state": "KS",
+  "latitude": 38.8422222,
+  "longitude": -94.6122222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06893100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

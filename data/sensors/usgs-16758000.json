@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16758000",
+  "key": "16758000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16758000",
+  "name": "Waikoloa Str at Marine Dam nr Kamuela, HI",
+  "waterbody": "Waikoloa Str at Marine Dam nr Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.0436345,
+  "longitude": -155.66397699,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16758000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

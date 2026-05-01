@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07186900",
+  "key": "07186900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07186900",
+  "name": "Hickory Creek at Neosho, MO",
+  "waterbody": "Hickory Creek at Neosho, MO",
+  "state": "MO",
+  "latitude": 36.865,
+  "longitude": -94.3536111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07186900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

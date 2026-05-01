@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11046360",
+  "key": "11046360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11046360",
+  "name": "CRISTIANITOS C AB SAN MATEO C NR SAN CLEMENTE CA",
+  "waterbody": "CRISTIANITOS C AB SAN MATEO C NR SAN CLEMENTE CA",
+  "state": "CA",
+  "latitude": 33.42641717,
+  "longitude": -117.5703242,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11046360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

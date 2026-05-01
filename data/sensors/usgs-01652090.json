@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01652090",
+  "key": "01652090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01652090",
+  "name": "FOUR MILE RUN AT HWY 29 AT FALLS CHURCH, VA",
+  "waterbody": "FOUR MILE RUN AT HWY 29 AT FALLS CHURCH, VA",
+  "state": "VA",
+  "latitude": 38.8863,
+  "longitude": -77.1635,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FMHV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Four Mile Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fmhv2",
+  "slug": "usgs-01652090",
+  "noaaForecastPath": "data/noaa-forecast/FMHV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

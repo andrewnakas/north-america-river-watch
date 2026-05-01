@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07343840",
+  "key": "07343840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07343840",
+  "name": "White Oak Ck at IH 30 nr Omaha, TX",
+  "waterbody": "White Oak Ck at IH 30 nr Omaha, TX",
+  "state": "TX",
+  "latitude": 33.2747222,
+  "longitude": -94.8025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OMWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Oak Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/omwt2",
+  "slug": "usgs-07343840",
+  "noaaForecastPath": "data/noaa-forecast/OMWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03451510",
+  "key": "03451510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03451510",
+  "name": "REED CREEK ABOVE BARNARD AVE AT ASHEVILLE, NC",
+  "waterbody": "REED CREEK ABOVE BARNARD AVE AT ASHEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.6145559,
+  "longitude": -82.5612379,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03451510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

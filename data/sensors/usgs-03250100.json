@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03250100",
+  "key": "03250100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03250100",
+  "name": "NORTH FORK TRIPLETT CREEK NEAR MOREHEAD, KY",
+  "waterbody": "NORTH FORK TRIPLETT CREEK NEAR MOREHEAD, KY",
+  "state": "KY",
+  "latitude": 38.1992478,
+  "longitude": -83.4804635,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNFK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Triplett Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnfk2",
+  "slug": "usgs-03250100",
+  "noaaForecastPath": "data/noaa-forecast/MNFK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

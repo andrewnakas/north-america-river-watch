@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01473000",
+  "key": "01473000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01473000",
+  "name": "Perkiomen Creek at Graterford, PA",
+  "waterbody": "Perkiomen Creek at Graterford, PA",
+  "state": "PA",
+  "latitude": 40.22954725,
+  "longitude": -75.451567,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRAP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Perkiomen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grap1",
+  "slug": "usgs-01473000",
+  "noaaForecastPath": "data/noaa-forecast/GRAP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

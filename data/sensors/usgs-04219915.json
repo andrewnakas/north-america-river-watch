@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04219915",
+  "key": "04219915",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04219915",
+  "name": "JOHNSON CREEK AT KUCKVILLE NY",
+  "waterbody": "JOHNSON CREEK AT KUCKVILLE NY",
+  "state": "NY",
+  "latitude": 43.3608333,
+  "longitude": -78.2645278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KUCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Johnson Creek (NY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kucn6",
+  "slug": "usgs-04219915",
+  "noaaForecastPath": "data/noaa-forecast/KUCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

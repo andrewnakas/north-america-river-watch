@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11121010",
+  "key": "11121010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11121010",
+  "name": "JAMESON LK RELEASE WEIR A JAMESON LAKE CA",
+  "waterbody": "JAMESON LK RELEASE WEIR A JAMESON LAKE CA",
+  "state": "CA",
+  "latitude": 34.4922149,
+  "longitude": -119.507902,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11121010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03301500",
+  "key": "03301500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03301500",
+  "name": "ROLLING FORK NEAR BOSTON, KY",
+  "waterbody": "ROLLING FORK NEAR BOSTON, KY",
+  "state": "KY",
+  "latitude": 37.7672853,
+  "longitude": -85.7038488,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSNK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rolling Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsnk2",
+  "slug": "usgs-03301500",
+  "noaaForecastPath": "data/noaa-forecast/BSNK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

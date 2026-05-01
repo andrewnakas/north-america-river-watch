@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11465690",
+  "key": "11465690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11465690",
+  "name": "COLGAN C NR SANTA ROSA CA",
+  "waterbody": "COLGAN C NR SANTA ROSA CA",
+  "state": "CA",
+  "latitude": 38.40209687,
+  "longitude": -122.7330057,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EASC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colgan Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/easc1",
+  "slug": "usgs-11465690",
+  "noaaForecastPath": "data/noaa-forecast/EASC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

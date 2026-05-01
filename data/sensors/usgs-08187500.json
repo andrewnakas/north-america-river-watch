@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08187500",
+  "key": "08187500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08187500",
+  "name": "Escondido Ck at Kenedy, TX",
+  "waterbody": "Escondido Ck at Kenedy, TX",
+  "state": "TX",
+  "latitude": 28.81998007,
+  "longitude": -97.859168,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08187500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

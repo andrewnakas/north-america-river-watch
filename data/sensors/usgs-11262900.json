@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11262900",
+  "key": "11262900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11262900",
+  "name": "MUD SLOUGH NR GUSTINE CA",
+  "waterbody": "MUD SLOUGH NR GUSTINE CA",
+  "state": "CA",
+  "latitude": 37.26241267,
+  "longitude": -120.9065536,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11262900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06730200",
+  "key": "06730200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06730200",
+  "name": "BOULDER CREEK AT NORTH 75TH ST. NEAR BOULDER, CO",
+  "waterbody": "BOULDER CREEK AT NORTH 75TH ST. NEAR BOULDER, CO",
+  "state": "CO",
+  "latitude": 40.051667,
+  "longitude": -105.178333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boulder Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bolc2",
+  "slug": "usgs-06730200",
+  "noaaForecastPath": "data/noaa-forecast/BOLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

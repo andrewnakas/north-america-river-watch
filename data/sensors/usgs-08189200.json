@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08189200",
+  "key": "08189200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08189200",
+  "name": "Copano Ck nr Refugio, TX",
+  "waterbody": "Copano Ck nr Refugio, TX",
+  "state": "TX",
+  "latitude": 28.30360538,
+  "longitude": -97.1125039,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Copano Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcct2",
+  "slug": "usgs-08189200",
+  "noaaForecastPath": "data/noaa-forecast/RCCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

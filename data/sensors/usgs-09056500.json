@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09056500",
+  "key": "09056500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09056500",
+  "name": "ELLIOTT CREEK FEEDER CANAL TO GREEN MTN RES, CO",
+  "waterbody": "ELLIOTT CREEK FEEDER CANAL TO GREEN MTN RES, CO",
+  "state": "CO",
+  "latitude": 39.873725,
+  "longitude": -106.330597,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09056500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

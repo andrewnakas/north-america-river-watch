@@ -1,0 +1,19 @@
+{
+  "id": "usgs:412044119121701",
+  "key": "412044119121701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412044119121701",
+  "name": "USBLM DESERT DACE SW TEMP 12",
+  "waterbody": "USBLM DESERT DACE SW TEMP 12",
+  "state": "NV",
+  "latitude": 41.34544167,
+  "longitude": -119.2048333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-412044119121701",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

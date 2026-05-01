@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07024500",
+  "key": "07024500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07024500",
+  "name": "SOUTH FORK OBION RIVER NEAR GREENFIELD, TN",
+  "waterbody": "SOUTH FORK OBION RIVER NEAR GREENFIELD, TN",
+  "state": "TN",
+  "latitude": 36.1181477,
+  "longitude": -88.81088529,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07024500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

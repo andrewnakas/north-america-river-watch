@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01195100",
+  "key": "01195100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01195100",
+  "name": "INDIAN RIVER NEAR CLINTON, CT",
+  "waterbody": "INDIAN RIVER NEAR CLINTON, CT",
+  "state": "CT",
+  "latitude": 41.30617222,
+  "longitude": -72.53103333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01195100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

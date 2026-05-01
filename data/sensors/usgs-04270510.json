@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04270510",
+  "key": "04270510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04270510",
+  "name": "CHATEAUGAY RIVER BELOW CHATEAUGAY NY",
+  "waterbody": "CHATEAUGAY RIVER BELOW CHATEAUGAY NY",
+  "state": "NY",
+  "latitude": 44.9636111,
+  "longitude": -74.1311111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04270510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

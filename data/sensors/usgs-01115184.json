@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01115184",
+  "key": "01115184",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115184",
+  "name": "SPRUCE BROOK NR NORTH SCITUATE, RI",
+  "waterbody": "SPRUCE BROOK NR NORTH SCITUATE, RI",
+  "state": "RI",
+  "latitude": 41.7887107,
+  "longitude": -71.6200647,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01115184",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

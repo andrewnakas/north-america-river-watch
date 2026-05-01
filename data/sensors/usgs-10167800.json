@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10167800",
+  "key": "10167800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10167800",
+  "name": "LITTLE COTTONWOOD CREEK @ CRESTWOOD PARK @ SLC",
+  "waterbody": "LITTLE COTTONWOOD CREEK @ CRESTWOOD PARK @ SLC",
+  "state": "UT",
+  "latitude": 40.61439238,
+  "longitude": -111.8429892,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCWU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cottonwood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcwu1",
+  "slug": "usgs-10167800",
+  "noaaForecastPath": "data/noaa-forecast/LCWU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

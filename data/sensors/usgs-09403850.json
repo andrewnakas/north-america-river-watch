@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09403850",
+  "key": "09403850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09403850",
+  "name": "KANAB CREEK ABOVE THE MOUTH NEAR SUPAI, AZ",
+  "waterbody": "KANAB CREEK ABOVE THE MOUTH NEAR SUPAI, AZ",
+  "state": "AZ",
+  "latitude": 36.39581624,
+  "longitude": -112.6318566,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09403850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07367930",
+  "key": "07367930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07367930",
+  "name": "Bayou Bonne Idee east of Oak Ridge, LA",
+  "waterbody": "Bayou Bonne Idee east of Oak Ridge, LA",
+  "state": "LA",
+  "latitude": 32.6436111,
+  "longitude": -91.7035556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07367930",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

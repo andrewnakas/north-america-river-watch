@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03504000",
+  "key": "03504000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03504000",
+  "name": "NANTAHALA RIVER NEAR RAINBOW SPRINGS, NC",
+  "waterbody": "NANTAHALA RIVER NEAR RAINBOW SPRINGS, NC",
+  "state": "NC",
+  "latitude": 35.1275,
+  "longitude": -83.6186111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RAIN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nantahala River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rain7",
+  "slug": "usgs-03504000",
+  "noaaForecastPath": "data/noaa-forecast/RAIN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

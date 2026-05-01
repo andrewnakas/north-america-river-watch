@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02207130",
+  "key": "02207130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02207130",
+  "name": "STONE MTN CR AT SILVER HILL RD, NEAR STONE MTN, GA",
+  "waterbody": "STONE MTN CR AT SILVER HILL RD, NEAR STONE MTN, GA",
+  "state": "GA",
+  "latitude": 33.8261111,
+  "longitude": -84.1650556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stone Mountain Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stcg1",
+  "slug": "usgs-02207130",
+  "noaaForecastPath": "data/noaa-forecast/STCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

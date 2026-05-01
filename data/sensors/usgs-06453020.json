@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06453020",
+  "key": "06453020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06453020",
+  "name": "MISSOURI RIVER BELOW GREENWOOD, SD",
+  "waterbody": "MISSOURI RIVER BELOW GREENWOOD, SD",
+  "state": "SD",
+  "latitude": 42.90527446,
+  "longitude": -98.3498023,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRWS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grws2",
+  "slug": "usgs-06453020",
+  "noaaForecastPath": "data/noaa-forecast/GRWS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

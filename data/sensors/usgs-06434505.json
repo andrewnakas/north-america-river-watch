@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06434505",
+  "key": "06434505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06434505",
+  "name": "INLET CANAL ABOVE BELLE FOURCHE RESERVOIR,SD",
+  "waterbody": "INLET CANAL ABOVE BELLE FOURCHE RESERVOIR,SD",
+  "state": "SD",
+  "latitude": 44.70092898,
+  "longitude": -103.7327817,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06434505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

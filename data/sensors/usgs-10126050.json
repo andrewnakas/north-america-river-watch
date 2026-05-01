@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10126050",
+  "key": "10126050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10126050",
+  "name": "BEAR RIVER BELOW O-LINE CANAL NR BRIGHAM CITY, UT",
+  "waterbody": "BEAR RIVER BELOW O-LINE CANAL NR BRIGHAM CITY, UT",
+  "state": "UT",
+  "latitude": 41.4701722,
+  "longitude": -112.2203833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10126050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

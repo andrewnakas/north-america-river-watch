@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0210106600",
+  "key": "0210106600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0210106600",
+  "name": "DEEP RIVER NEAR GLENDON, NC",
+  "waterbody": "DEEP RIVER NEAR GLENDON, NC",
+  "state": "NC",
+  "latitude": 35.48903729,
+  "longitude": -79.42057909,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0210106600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

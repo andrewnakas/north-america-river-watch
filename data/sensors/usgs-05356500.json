@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05356500",
+  "key": "05356500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05356500",
+  "name": "CHIPPEWA RIVER NEAR BRUCE, WI",
+  "waterbody": "CHIPPEWA RIVER NEAR BRUCE, WI",
+  "state": "WI",
+  "latitude": 45.4521867,
+  "longitude": -91.2609878,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRUW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River (WI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bruw3",
+  "slug": "usgs-05356500",
+  "noaaForecastPath": "data/noaa-forecast/BRUW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08227400",
+  "key": "08227400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08227400",
+  "name": "TRACY PIT RESERVOIR INFLOW NEAR SAGUACHE, CO.",
+  "waterbody": "TRACY PIT RESERVOIR INFLOW NEAR SAGUACHE, CO.",
+  "state": "CO",
+  "latitude": 38.0455559,
+  "longitude": -106.2189153,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08227400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

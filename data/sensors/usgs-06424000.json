@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06424000",
+  "key": "06424000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06424000",
+  "name": "ELK CR NEAR ROUBAIX,SD",
+  "waterbody": "ELK CR NEAR ROUBAIX,SD",
+  "state": "SD",
+  "latitude": 44.2947073,
+  "longitude": -103.5968592,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROBS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/robs2",
+  "slug": "usgs-06424000",
+  "noaaForecastPath": "data/noaa-forecast/ROBS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

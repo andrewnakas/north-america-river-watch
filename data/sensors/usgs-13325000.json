@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13325000",
+  "key": "13325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13325000",
+  "name": "EAST FORK WALLOWA RIVER NEAR JOSEPH, OR",
+  "waterbody": "EAST FORK WALLOWA RIVER NEAR JOSEPH, OR",
+  "state": "OR",
+  "latitude": 45.27110278,
+  "longitude": -117.211325,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13325000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

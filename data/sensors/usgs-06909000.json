@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06909000",
+  "key": "06909000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06909000",
+  "name": "Missouri River at Boonville, MO",
+  "waterbody": "Missouri River at Boonville, MO",
+  "state": "MO",
+  "latitude": 38.980306,
+  "longitude": -92.7454638,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bozm7",
+  "slug": "usgs-06909000",
+  "noaaForecastPath": "data/noaa-forecast/BOZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

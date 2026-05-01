@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02330150",
+  "key": "02330150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02330150",
+  "name": "OCHLOCKONEE RIVER NR SMITH CREEK, FLA.",
+  "waterbody": "OCHLOCKONEE RIVER NR SMITH CREEK, FLA.",
+  "state": "FL",
+  "latitude": 30.17658934,
+  "longitude": -84.6679637,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OCLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ochlockonee River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oclf1",
+  "slug": "usgs-02330150",
+  "noaaForecastPath": "data/noaa-forecast/OCLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

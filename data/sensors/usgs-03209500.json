@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03209500",
+  "key": "03209500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03209500",
+  "name": "LEVISA FORK AT PIKEVILLE, KY",
+  "waterbody": "LEVISA FORK AT PIKEVILLE, KY",
+  "state": "KY",
+  "latitude": 37.4642676,
+  "longitude": -82.5262632,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKYK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Levisa Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkyk2",
+  "slug": "usgs-03209500",
+  "noaaForecastPath": "data/noaa-forecast/PKYK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

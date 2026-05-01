@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01543500",
+  "key": "01543500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01543500",
+  "name": "Sinnemahoning Creek at Sinnemahoning, PA",
+  "waterbody": "Sinnemahoning Creek at Sinnemahoning, PA",
+  "state": "PA",
+  "latitude": 41.31728467,
+  "longitude": -78.1030596,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sinnemahoning Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snnp1",
+  "slug": "usgs-01543500",
+  "noaaForecastPath": "data/noaa-forecast/SNNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

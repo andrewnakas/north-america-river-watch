@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03114280",
+  "key": "03114280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03114280",
+  "name": "OHIO RIVER AT HANNIBAL LOCK AND DAM (LOWER), OH",
+  "waterbody": "OHIO RIVER AT HANNIBAL LOCK AND DAM (LOWER), OH",
+  "state": "OH",
+  "latitude": 39.66729887,
+  "longitude": -80.8659319,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HANO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hano1",
+  "slug": "usgs-03114280",
+  "noaaForecastPath": "data/noaa-forecast/HANO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

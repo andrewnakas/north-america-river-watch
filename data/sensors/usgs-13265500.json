@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13265500",
+  "key": "13265500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13265500",
+  "name": "CRANE CREEK AT MOUTH NR WEISER ID",
+  "waterbody": "CRANE CREEK AT MOUTH NR WEISER ID",
+  "state": "ID",
+  "latitude": 44.2918111,
+  "longitude": -116.7826306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRWI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crane Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crwi1",
+  "slug": "usgs-13265500",
+  "noaaForecastPath": "data/noaa-forecast/CRWI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

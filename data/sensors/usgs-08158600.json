@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158600",
+  "key": "08158600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158600",
+  "name": "Walnut Ck at Webberville Rd, Austin, TX",
+  "waterbody": "Walnut Ck at Webberville Rd, Austin, TX",
+  "state": "TX",
+  "latitude": 30.2832642,
+  "longitude": -97.655003,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwvt2",
+  "slug": "usgs-08158600",
+  "noaaForecastPath": "data/noaa-forecast/WWVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380238",
+  "key": "07380238",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380238",
+  "name": "Naomi Diversion Canal near Naomi, LA",
+  "waterbody": "Naomi Diversion Canal near Naomi, LA",
+  "state": "LA",
+  "latitude": 29.6991111,
+  "longitude": -89.9888611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAOL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barataria Bay and Waterway",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/naol1",
+  "slug": "usgs-07380238",
+  "noaaForecastPath": "data/noaa-forecast/NAOL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

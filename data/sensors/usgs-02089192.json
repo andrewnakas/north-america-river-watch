@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02089192",
+  "key": "02089192",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02089192",
+  "name": "NEUSE R AT WHITEHALL, NC",
+  "waterbody": "NEUSE R AT WHITEHALL, NC",
+  "state": "NC",
+  "latitude": 35.2297222,
+  "longitude": -77.84638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neuse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nssn7",
+  "slug": "usgs-02089192",
+  "noaaForecastPath": "data/noaa-forecast/NSSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

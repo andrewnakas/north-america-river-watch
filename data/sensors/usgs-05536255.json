@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536255",
+  "key": "05536255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536255",
+  "name": "BUTTERFIELD CREEK AT FLOSSMOOR, IL",
+  "waterbody": "BUTTERFIELD CREEK AT FLOSSMOOR, IL",
+  "state": "IL",
+  "latitude": 41.5398611,
+  "longitude": -87.6494444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Butterfield Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flsi2",
+  "slug": "usgs-05536255",
+  "noaaForecastPath": "data/noaa-forecast/FLSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

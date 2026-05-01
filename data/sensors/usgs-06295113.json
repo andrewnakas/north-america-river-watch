@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06295113",
+  "key": "06295113",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06295113",
+  "name": "Rosebud C at Reservation Bndry nr Kirby MT",
+  "waterbody": "Rosebud C at Reservation Bndry nr Kirby MT",
+  "state": "MT",
+  "latitude": 45.36116667,
+  "longitude": -106.9903556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rosebud Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcrm8",
+  "slug": "usgs-06295113",
+  "noaaForecastPath": "data/noaa-forecast/RCRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

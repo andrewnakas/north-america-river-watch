@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06155900",
+  "key": "06155900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06155900",
+  "name": "Milk River at Cree Crossing nr Saco MT",
+  "waterbody": "Milk River at Cree Crossing nr Saco MT",
+  "state": "MT",
+  "latitude": 48.5405861,
+  "longitude": -107.5199306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06155900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01374559",
+  "key": "01374559",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374559",
+  "name": "WEST BRANCH CROTON RIVER AT RICHARDSVILLE NY",
+  "waterbody": "WEST BRANCH CROTON RIVER AT RICHARDSVILLE NY",
+  "state": "NY",
+  "latitude": 41.4704722,
+  "longitude": -73.7595833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01374559",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

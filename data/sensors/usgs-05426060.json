@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05426060",
+  "key": "05426060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05426060",
+  "name": "BARK RIVER AT COUNTY TRUNK HIGHWAY K NR MERTON, WI",
+  "waterbody": "BARK RIVER AT COUNTY TRUNK HIGHWAY K NR MERTON, WI",
+  "state": "WI",
+  "latitude": 43.1305,
+  "longitude": -88.3313056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05426060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

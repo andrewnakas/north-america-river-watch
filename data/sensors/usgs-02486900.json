@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02486900",
+  "key": "02486900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02486900",
+  "name": "PEARL RIVER NEAR HOPEWELL, MS",
+  "waterbody": "PEARL RIVER NEAR HOPEWELL, MS",
+  "state": "MS",
+  "latitude": 31.95527778,
+  "longitude": -90.1900278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HPWM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "PEARL RIVER NEAR HOPEWELL",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hpwm6",
+  "slug": "usgs-02486900",
+  "noaaForecastPath": "data/noaa-forecast/HPWM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

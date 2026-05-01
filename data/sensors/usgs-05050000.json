@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05050000",
+  "key": "05050000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05050000",
+  "name": "BOIS DE SIOUX RIVER NEAR WHITE ROCK, SD",
+  "waterbody": "BOIS DE SIOUX RIVER NEAR WHITE ROCK, SD",
+  "state": "SD",
+  "latitude": 45.862568,
+  "longitude": -96.573245,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05050000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

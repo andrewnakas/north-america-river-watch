@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08223400",
+  "key": "08223400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08223400",
+  "name": "RIO GRANDE AT ALAMOSA NWR NEAR ALAMOSA, CO",
+  "waterbody": "RIO GRANDE AT ALAMOSA NWR NEAR ALAMOSA, CO",
+  "state": "CO",
+  "latitude": 37.42780556,
+  "longitude": -105.786575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08223400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

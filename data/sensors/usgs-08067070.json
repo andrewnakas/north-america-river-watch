@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067070",
+  "key": "08067070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067070",
+  "name": "CWA Canal nr Dayton, TX",
+  "waterbody": "CWA Canal nr Dayton, TX",
+  "state": "TX",
+  "latitude": 29.96132898,
+  "longitude": -94.8102003,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.393Z"
+}

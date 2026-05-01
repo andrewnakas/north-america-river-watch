@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08302500",
+  "key": "08302500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08302500",
+  "name": "TESUQUE CREEK ABOVE DIVERSIONS NEAR SANTA FE, NM",
+  "waterbody": "TESUQUE CREEK ABOVE DIVERSIONS NEAR SANTA FE, NM",
+  "state": "NM",
+  "latitude": 35.73955556,
+  "longitude": -105.9049528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08302500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

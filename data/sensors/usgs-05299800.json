@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05299800",
+  "key": "05299800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05299800",
+  "name": "WEST BRANCH LAC QUI PARLE RIVER AT DAWSON, MN",
+  "waterbody": "WEST BRANCH LAC QUI PARLE RIVER AT DAWSON, MN",
+  "state": "MN",
+  "latitude": 44.9291272,
+  "longitude": -96.052814,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAWM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Lac Qui Parle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dawm5",
+  "slug": "usgs-05299800",
+  "noaaForecastPath": "data/noaa-forecast/DAWM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

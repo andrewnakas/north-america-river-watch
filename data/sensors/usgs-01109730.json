@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01109730",
+  "key": "01109730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109730",
+  "name": "BLACKSTONE RIVER, W. MAIN ST., AT MILLBURY, MA",
+  "waterbody": "BLACKSTONE RIVER, W. MAIN ST., AT MILLBURY, MA",
+  "state": "MA",
+  "latitude": 42.1889835,
+  "longitude": -71.7650702,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLBM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackstone River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlbm3",
+  "slug": "usgs-01109730",
+  "noaaForecastPath": "data/noaa-forecast/MLBM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

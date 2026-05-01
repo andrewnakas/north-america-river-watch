@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14066500",
+  "key": "14066500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14066500",
+  "name": "CENTRAL OREG CA AB PILOT BTE CA NR BEND,OREG.",
+  "waterbody": "CENTRAL OREG CA AB PILOT BTE CA NR BEND,OREG.",
+  "state": "OR",
+  "latitude": 44.0303947,
+  "longitude": -121.331698,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14066500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

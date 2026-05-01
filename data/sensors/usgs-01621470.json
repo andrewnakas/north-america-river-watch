@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01621470",
+  "key": "01621470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01621470",
+  "name": "BLACKS RUN AT RT 704 NEAR MOUNT CRAWFORD, VA",
+  "waterbody": "BLACKS RUN AT RT 704 NEAR MOUNT CRAWFORD, VA",
+  "state": "VA",
+  "latitude": 38.3787374,
+  "longitude": -78.9280836,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01621470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

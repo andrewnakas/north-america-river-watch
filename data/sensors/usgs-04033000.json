@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04033000",
+  "key": "04033000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04033000",
+  "name": "MIDDLE BRANCH ONTONAGON RIVER NEAR PAULDING, MI",
+  "waterbody": "MIDDLE BRANCH ONTONAGON RIVER NEAR PAULDING, MI",
+  "state": "MI",
+  "latitude": 46.3568916,
+  "longitude": -89.0765285,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAUM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Branch Ontonagon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paum4",
+  "slug": "usgs-04033000",
+  "noaaForecastPath": "data/noaa-forecast/PAUM4.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

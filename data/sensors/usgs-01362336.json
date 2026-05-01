@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362336",
+  "key": "01362336",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362336",
+  "name": "STONY CLOVE CR AT JANSSEN RD AT LANESVILLE NY",
+  "waterbody": "STONY CLOVE CR AT JANSSEN RD AT LANESVILLE NY",
+  "state": "NY",
+  "latitude": 42.12794444,
+  "longitude": -74.26325,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362336",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

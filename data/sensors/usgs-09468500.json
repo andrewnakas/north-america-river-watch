@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09468500",
+  "key": "09468500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09468500",
+  "name": "SAN CARLOS RIVER NEAR PERIDOT, AZ.",
+  "waterbody": "SAN CARLOS RIVER NEAR PERIDOT, AZ.",
+  "state": "AZ",
+  "latitude": 33.29646536,
+  "longitude": -110.4515103,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Carlos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snca3",
+  "slug": "usgs-09468500",
+  "noaaForecastPath": "data/noaa-forecast/SNCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

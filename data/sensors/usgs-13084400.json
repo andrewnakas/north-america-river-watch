@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13084400",
+  "key": "13084400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13084400",
+  "name": "BIRCH CREEK ABV DIVERSIONS NR OAKLEY ID",
+  "waterbody": "BIRCH CREEK ABV DIVERSIONS NR OAKLEY ID",
+  "state": "ID",
+  "latitude": 42.17777778,
+  "longitude": -113.8191667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13084400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

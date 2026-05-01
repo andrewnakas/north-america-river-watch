@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10347460",
+  "key": "10347460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10347460",
+  "name": "TRUCKEE RV NR MOGUL, NV",
+  "waterbody": "TRUCKEE RV NR MOGUL, NV",
+  "state": "NV",
+  "latitude": 39.50713218,
+  "longitude": -119.931864,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOGN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mogn2",
+  "slug": "usgs-10347460",
+  "noaaForecastPath": "data/noaa-forecast/MOGN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

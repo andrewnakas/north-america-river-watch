@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02042287",
+  "key": "02042287",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02042287",
+  "name": "CHICKAHOMINY RIVER AT CHAMBERLAYNE RD NR ATLEE, VA",
+  "waterbody": "CHICKAHOMINY RIVER AT CHAMBERLAYNE RD NR ATLEE, VA",
+  "state": "VA",
+  "latitude": 37.641389,
+  "longitude": -77.421111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02042287",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

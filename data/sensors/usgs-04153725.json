@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04153725",
+  "key": "04153725",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04153725",
+  "name": "CHIPPEWA RIVER AT DREW RD NR DREW, MI",
+  "waterbody": "CHIPPEWA RIVER AT DREW RD NR DREW, MI",
+  "state": "MI",
+  "latitude": 43.66128889,
+  "longitude": -85.0300556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRDM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crdm4",
+  "slug": "usgs-04153725",
+  "noaaForecastPath": "data/noaa-forecast/CRDM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

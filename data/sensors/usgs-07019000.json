@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07019000",
+  "key": "07019000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07019000",
+  "name": "Meramec River near Eureka, MO",
+  "waterbody": "Meramec River near Eureka, MO",
+  "state": "MO",
+  "latitude": 38.50513889,
+  "longitude": -90.5901667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERKM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meramec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/erkm7",
+  "slug": "usgs-07019000",
+  "noaaForecastPath": "data/noaa-forecast/ERKM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

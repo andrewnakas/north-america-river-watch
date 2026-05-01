@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12149000",
+  "key": "12149000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12149000",
+  "name": "SNOQUALMIE RIVER NEAR CARNATION, WA",
+  "waterbody": "SNOQUALMIE RIVER NEAR CARNATION, WA",
+  "state": "WA",
+  "latitude": 47.66593399,
+  "longitude": -121.9253969,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRNZ1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snoqualmie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crnz1",
+  "slug": "usgs-12149000",
+  "noaaForecastPath": "data/noaa-forecast/CRNZ1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

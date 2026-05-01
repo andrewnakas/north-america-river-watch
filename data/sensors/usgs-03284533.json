@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03284533",
+  "key": "03284533",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03284533",
+  "name": "EAST HICKMAN CR AT TATES CR RD NR EAST HICKMAN, KY",
+  "waterbody": "EAST HICKMAN CR AT TATES CR RD NR EAST HICKMAN, KY",
+  "state": "KY",
+  "latitude": 37.9383333,
+  "longitude": -84.4786111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EHMK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Hickman Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ehmk2",
+  "slug": "usgs-03284533",
+  "noaaForecastPath": "data/noaa-forecast/EHMK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

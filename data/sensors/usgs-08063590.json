@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08063590",
+  "key": "08063590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08063590",
+  "name": "Waxahachie Ck at Waxahachie, TX",
+  "waterbody": "Waxahachie Ck at Waxahachie, TX",
+  "state": "TX",
+  "latitude": 32.3822222,
+  "longitude": -96.8505556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08063590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

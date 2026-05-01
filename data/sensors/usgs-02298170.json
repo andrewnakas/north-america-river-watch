@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298170",
+  "key": "02298170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298170",
+  "name": "PRAIRIE CREEK ON CR 764 NEAR PUNTA GORDA FL",
+  "waterbody": "PRAIRIE CREEK ON CR 764 NEAR PUNTA GORDA FL",
+  "state": "FL",
+  "latitude": 26.99027778,
+  "longitude": -81.8947222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prkf1",
+  "slug": "usgs-02298170",
+  "noaaForecastPath": "data/noaa-forecast/PRKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

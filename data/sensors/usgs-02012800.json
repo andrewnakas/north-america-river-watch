@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02012800",
+  "key": "02012800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02012800",
+  "name": "JACKSON RIV AT FILTRATION PLANT AT COVINGTON, VA",
+  "waterbody": "JACKSON RIV AT FILTRATION PLANT AT COVINGTON, VA",
+  "state": "VA",
+  "latitude": 37.8109585,
+  "longitude": -79.9883907,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02012800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09502960",
+  "key": "09502960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09502960",
+  "name": "GRANITE CREEK AT PRESCOTT, AZ",
+  "waterbody": "GRANITE CREEK AT PRESCOTT, AZ",
+  "state": "AZ",
+  "latitude": 34.55196864,
+  "longitude": -112.4623913,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCRA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Granite Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcra3",
+  "slug": "usgs-09502960",
+  "noaaForecastPath": "data/noaa-forecast/GCRA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

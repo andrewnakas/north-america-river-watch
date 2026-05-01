@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02066000",
+  "key": "02066000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02066000",
+  "name": "ROANOKE (STAUNTON) RIVER AT RANDOLPH, VA",
+  "waterbody": "ROANOKE (STAUNTON) RIVER AT RANDOLPH, VA",
+  "state": "VA",
+  "latitude": 36.91514189,
+  "longitude": -78.7408384,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RNDV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rndv2",
+  "slug": "usgs-02066000",
+  "noaaForecastPath": "data/noaa-forecast/RNDV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

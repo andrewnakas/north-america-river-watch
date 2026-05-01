@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06670500",
+  "key": "06670500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06670500",
+  "name": "LARAMIE RIVER NEAR FORT LARAMIE, WY",
+  "waterbody": "LARAMIE RIVER NEAR FORT LARAMIE, WY",
+  "state": "WY",
+  "latitude": 42.2005103,
+  "longitude": -104.5383548,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLAW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Laramie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flaw4",
+  "slug": "usgs-06670500",
+  "noaaForecastPath": "data/noaa-forecast/FLAW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

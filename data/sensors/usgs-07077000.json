@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07077000",
+  "key": "07077000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07077000",
+  "name": "White River at DeValls Bluff, AR",
+  "waterbody": "White River at DeValls Bluff, AR",
+  "state": "AR",
+  "latitude": 34.79444444,
+  "longitude": -91.4447222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DBGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dbga4",
+  "slug": "usgs-07077000",
+  "noaaForecastPath": "data/noaa-forecast/DBGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

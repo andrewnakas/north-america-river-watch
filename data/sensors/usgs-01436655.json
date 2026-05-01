@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01436655",
+  "key": "01436655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01436655",
+  "name": "SHELDRAKE STREAM AT THOMPSONVILLE NY",
+  "waterbody": "SHELDRAKE STREAM AT THOMPSONVILLE NY",
+  "state": "NY",
+  "latitude": 41.66783333,
+  "longitude": -74.62302778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheldrake Stream",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdkn6",
+  "slug": "usgs-01436655",
+  "noaaForecastPath": "data/noaa-forecast/SDKN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

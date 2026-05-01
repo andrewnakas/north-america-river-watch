@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06719505",
+  "key": "06719505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06719505",
+  "name": "CLEAR CREEK AT GOLDEN, CO",
+  "waterbody": "CLEAR CREEK AT GOLDEN, CO",
+  "state": "CO",
+  "latitude": 39.753056,
+  "longitude": -105.234722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLDC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gldc2",
+  "slug": "usgs-06719505",
+  "noaaForecastPath": "data/noaa-forecast/GLDC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

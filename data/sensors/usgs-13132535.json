@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13132535",
+  "key": "13132535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13132535",
+  "name": "BIG LOST R AT LINCOLN BLVD BRIDGE NR ATOMIC CITY",
+  "waterbody": "BIG LOST R AT LINCOLN BLVD BRIDGE NR ATOMIC CITY",
+  "state": "ID",
+  "latitude": 43.57440278,
+  "longitude": -112.9421167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LINI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Lost River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lini1",
+  "slug": "usgs-13132535",
+  "noaaForecastPath": "data/noaa-forecast/LINI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

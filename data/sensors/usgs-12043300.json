@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12043300",
+  "key": "12043300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12043300",
+  "name": "HOKO RIVER NEAR SEKIU, WA",
+  "waterbody": "HOKO RIVER NEAR SEKIU, WA",
+  "state": "WA",
+  "latitude": 48.24146416,
+  "longitude": -124.3838328,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12043300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

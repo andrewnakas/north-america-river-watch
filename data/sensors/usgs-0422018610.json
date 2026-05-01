@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0422018610",
+  "key": "0422018610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0422018610",
+  "name": "OAK ORCHARD CREEK AT THE BRIDGES NY",
+  "waterbody": "OAK ORCHARD CREEK AT THE BRIDGES NY",
+  "state": "NY",
+  "latitude": 43.35330556,
+  "longitude": -78.1930556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRIN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Orchard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brin6",
+  "slug": "usgs-0422018610",
+  "noaaForecastPath": "data/noaa-forecast/BRIN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

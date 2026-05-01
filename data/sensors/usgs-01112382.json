@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01112382",
+  "key": "01112382",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01112382",
+  "name": "PETERS RIVER RT 114 BRIDGE AT WOONSOCKET, RI",
+  "waterbody": "PETERS RIVER RT 114 BRIDGE AT WOONSOCKET, RI",
+  "state": "RI",
+  "latitude": 42.01537595,
+  "longitude": -71.49283879,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01112382",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

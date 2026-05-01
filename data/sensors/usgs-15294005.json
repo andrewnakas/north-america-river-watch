@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15294005",
+  "key": "15294005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15294005",
+  "name": "WILLOW C NR WILLOW AK",
+  "waterbody": "WILLOW C NR WILLOW AK",
+  "state": "AK",
+  "latitude": 61.780833,
+  "longitude": -149.884444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLWA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlwa2",
+  "slug": "usgs-15294005",
+  "noaaForecastPath": "data/noaa-forecast/WLWA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

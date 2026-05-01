@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06921200",
+  "key": "06921200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06921200",
+  "name": "Lindley Creek near Polk, MO",
+  "waterbody": "Lindley Creek near Polk, MO",
+  "state": "MO",
+  "latitude": 37.7504722,
+  "longitude": -93.2661944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLKM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lindley Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plkm7",
+  "slug": "usgs-06921200",
+  "noaaForecastPath": "data/noaa-forecast/PLKM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

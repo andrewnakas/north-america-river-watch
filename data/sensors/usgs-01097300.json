@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01097300",
+  "key": "01097300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01097300",
+  "name": "NASHOBA BROOK NEAR ACTON, MA",
+  "waterbody": "NASHOBA BROOK NEAR ACTON, MA",
+  "state": "MA",
+  "latitude": 42.51259289,
+  "longitude": -71.40422829,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01097300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11125600",
+  "key": "11125600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11125600",
+  "name": "HILTON CYN C NR SANTA YNEZ CA",
+  "waterbody": "HILTON CYN C NR SANTA YNEZ CA",
+  "state": "CA",
+  "latitude": 34.5822032,
+  "longitude": -119.9826082,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11125600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

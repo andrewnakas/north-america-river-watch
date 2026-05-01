@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05114000",
+  "key": "05114000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05114000",
+  "name": "SOURIS RIVER NEAR SHERWOOD, ND",
+  "waterbody": "SOURIS RIVER NEAR SHERWOOD, ND",
+  "state": "ND",
+  "latitude": 48.98995719,
+  "longitude": -101.9583348,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHWN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Souris River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shwn8",
+  "slug": "usgs-05114000",
+  "noaaForecastPath": "data/noaa-forecast/SHWN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

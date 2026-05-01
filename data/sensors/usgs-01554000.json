@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01554000",
+  "key": "01554000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01554000",
+  "name": "Susquehanna River at Sunbury, PA",
+  "waterbody": "Susquehanna River at Sunbury, PA",
+  "state": "PA",
+  "latitude": 40.8345293,
+  "longitude": -76.8266349,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBYP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbyp1",
+  "slug": "usgs-01554000",
+  "noaaForecastPath": "data/noaa-forecast/SBYP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

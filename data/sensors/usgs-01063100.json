@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01063100",
+  "key": "01063100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01063100",
+  "name": "Crooked River near Naples, Maine",
+  "waterbody": "Crooked River near Naples, Maine",
+  "state": "ME",
+  "latitude": 43.978975,
+  "longitude": -70.56365,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01063100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

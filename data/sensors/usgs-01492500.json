@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01492500",
+  "key": "01492500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01492500",
+  "name": "SALLIE HARRIS CREEK NEAR CARMICHAEL, MD",
+  "waterbody": "SALLIE HARRIS CREEK NEAR CARMICHAEL, MD",
+  "state": "MD",
+  "latitude": 38.96488889,
+  "longitude": -76.10883333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01492500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

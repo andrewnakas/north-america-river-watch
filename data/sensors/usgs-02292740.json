@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02292740",
+  "key": "02292740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02292740",
+  "name": "JACKS BRANCH AT CR 78 NR FT DENAUD FL",
+  "waterbody": "JACKS BRANCH AT CR 78 NR FT DENAUD FL",
+  "state": "FL",
+  "latitude": 26.747428,
+  "longitude": -81.513233,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02292740",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02084173",
+  "key": "02084173",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02084173",
+  "name": "TAR RIVER AT SR 1565 NEAR GRIMESLAND, NC",
+  "waterbody": "TAR RIVER AT SR 1565 NEAR GRIMESLAND, NC",
+  "state": "NC",
+  "latitude": 35.57388889,
+  "longitude": -77.1758333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRMN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grmn7",
+  "slug": "usgs-02084173",
+  "noaaForecastPath": "data/noaa-forecast/GRMN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

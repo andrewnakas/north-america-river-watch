@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11140585",
+  "key": "11140585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11140585",
+  "name": "SANTA MARIA R A SUEY CROSSING NR SANTA MARIA CA",
+  "waterbody": "SANTA MARIA R A SUEY CROSSING NR SANTA MARIA CA",
+  "state": "CA",
+  "latitude": 34.96830147,
+  "longitude": -120.4040122,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUYC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Maria River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suyc1",
+  "slug": "usgs-11140585",
+  "noaaForecastPath": "data/noaa-forecast/SUYC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

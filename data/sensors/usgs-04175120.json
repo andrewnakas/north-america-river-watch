@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04175120",
+  "key": "04175120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04175120",
+  "name": "HURON RIVER AT FORT ROAD AT ROCKWOOD, MI",
+  "waterbody": "HURON RIVER AT FORT ROAD AT ROCKWOOD, MI",
+  "state": "MI",
+  "latitude": 42.06416667,
+  "longitude": -83.25388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04175120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

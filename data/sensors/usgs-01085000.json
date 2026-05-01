@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01085000",
+  "key": "01085000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01085000",
+  "name": "CONTOOCOOK RIVER NEAR HENNIKER, NH",
+  "waterbody": "CONTOOCOOK RIVER NEAR HENNIKER, NH",
+  "state": "NH",
+  "latitude": 43.1520237,
+  "longitude": -71.85730149,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HENN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Contoocook River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/henn3",
+  "slug": "usgs-01085000",
+  "noaaForecastPath": "data/noaa-forecast/HENN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

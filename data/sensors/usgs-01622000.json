@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01622000",
+  "key": "01622000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01622000",
+  "name": "NORTH RIVER NEAR BURKETOWN, VA",
+  "waterbody": "NORTH RIVER NEAR BURKETOWN, VA",
+  "state": "VA",
+  "latitude": 38.3404051,
+  "longitude": -78.9136385,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKTV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bktv2",
+  "slug": "usgs-01622000",
+  "noaaForecastPath": "data/noaa-forecast/BKTV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0209741955",
+  "key": "0209741955",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0209741955",
+  "name": "NORTHEAST CREEK AT SR1100 NR GENLEE, NC",
+  "waterbody": "NORTHEAST CREEK AT SR1100 NR GENLEE, NC",
+  "state": "NC",
+  "latitude": 35.8722222,
+  "longitude": -78.9130556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NECN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northeast Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/necn7",
+  "slug": "usgs-0209741955",
+  "noaaForecastPath": "data/noaa-forecast/NECN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

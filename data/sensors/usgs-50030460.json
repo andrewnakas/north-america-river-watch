@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50030460",
+  "key": "50030460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50030460",
+  "name": "RIO OROCOVIS AT OROCOVIS, PR",
+  "waterbody": "RIO OROCOVIS AT OROCOVIS, PR",
+  "state": "PR",
+  "latitude": 18.2216229,
+  "longitude": -66.39239257,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50030460",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

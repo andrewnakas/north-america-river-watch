@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15516000",
+  "key": "15516000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15516000",
+  "name": "NENANA R NR WINDY AK",
+  "waterbody": "NENANA R NR WINDY AK",
+  "state": "AK",
+  "latitude": 63.4572842,
+  "longitude": -148.8054227,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRWA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nenana River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrwa2",
+  "slug": "usgs-15516000",
+  "noaaForecastPath": "data/noaa-forecast/NRWA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

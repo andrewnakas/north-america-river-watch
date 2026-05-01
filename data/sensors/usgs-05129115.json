@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05129115",
+  "key": "05129115",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05129115",
+  "name": "VERMILION RIVER NR CRANE LAKE, MN",
+  "waterbody": "VERMILION RIVER NR CRANE LAKE, MN",
+  "state": "MN",
+  "latitude": 48.265068,
+  "longitude": -92.5654257,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLKM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vermilion River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clkm5",
+  "slug": "usgs-05129115",
+  "noaaForecastPath": "data/noaa-forecast/CLKM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08180850",
+  "key": "08180850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180850",
+  "name": "Medina Rv at Applewhite Rd, San Antonio, TX",
+  "waterbody": "Medina Rv at Applewhite Rd, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.24685278,
+  "longitude": -98.5487944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08180850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08180941",
+  "key": "08180941",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180941",
+  "name": "Culebra Ck in GCSNA nr Helotes, TX",
+  "waterbody": "Culebra Ck in GCSNA nr Helotes, TX",
+  "state": "TX",
+  "latitude": 29.53916667,
+  "longitude": -98.7513889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Culebra Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcct2",
+  "slug": "usgs-08180941",
+  "noaaForecastPath": "data/noaa-forecast/GCCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

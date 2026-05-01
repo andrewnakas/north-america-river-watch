@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06320500",
+  "key": "06320500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06320500",
+  "name": "SOUTH PINEY CREEK AT WILLOW PARK, WY",
+  "waterbody": "SOUTH PINEY CREEK AT WILLOW PARK, WY",
+  "state": "WY",
+  "latitude": 44.46631585,
+  "longitude": -107.0348481,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPWW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Piney Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spww4",
+  "slug": "usgs-06320500",
+  "noaaForecastPath": "data/noaa-forecast/SPWW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

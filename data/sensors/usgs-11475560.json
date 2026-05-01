@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11475560",
+  "key": "11475560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11475560",
+  "name": "ELDER C NR BRANSCOMB CA",
+  "waterbody": "ELDER C NR BRANSCOMB CA",
+  "state": "CA",
+  "latitude": 39.72956555,
+  "longitude": -123.643883,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elder Creek (CA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ecbc1",
+  "slug": "usgs-11475560",
+  "noaaForecastPath": "data/noaa-forecast/ECBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04160900",
+  "key": "04160900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04160900",
+  "name": "CLINTON RIVER NEAR DRAYTON PLAINS, MI",
+  "waterbody": "CLINTON RIVER NEAR DRAYTON PLAINS, MI",
+  "state": "MI",
+  "latitude": 42.6603092,
+  "longitude": -83.3902164,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04160900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14316500",
+  "key": "14316500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14316500",
+  "name": "N UMPQUA RIVER ABV COPELAND CK NR TOKETEE FALLS,OR",
+  "waterbody": "N UMPQUA RIVER ABV COPELAND CK NR TOKETEE FALLS,OR",
+  "state": "OR",
+  "latitude": 43.29595427,
+  "longitude": -122.5367127,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NUMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Umpqua River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/numo3",
+  "slug": "usgs-14316500",
+  "noaaForecastPath": "data/noaa-forecast/NUMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

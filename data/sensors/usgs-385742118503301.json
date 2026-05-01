@@ -1,0 +1,19 @@
+{
+  "id": "usgs:385742118503301",
+  "key": "385742118503301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "385742118503301",
+  "name": "SCHURZ 1 - LATERAL 1A SW/GW - CANAL SW",
+  "waterbody": "SCHURZ 1 - LATERAL 1A SW/GW - CANAL SW",
+  "state": "NV",
+  "latitude": 38.96166667,
+  "longitude": -118.8425,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-385742118503301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

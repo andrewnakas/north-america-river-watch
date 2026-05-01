@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14159410",
+  "key": "14159410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14159410",
+  "name": "COUGAR DAM TAILWATER NEAR RAINBOW, OR",
+  "waterbody": "COUGAR DAM TAILWATER NEAR RAINBOW, OR",
+  "state": "OR",
+  "latitude": 44.1305472,
+  "longitude": -122.2435889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14159410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

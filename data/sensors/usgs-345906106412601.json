@@ -1,0 +1,19 @@
+{
+  "id": "usgs:345906106412601",
+  "key": "345906106412601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "345906106412601",
+  "name": "09N.02E.25.122O PWDSW",
+  "waterbody": "09N.02E.25.122O PWDSW",
+  "state": "NM",
+  "latitude": 34.98489167,
+  "longitude": -106.6905472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-345906106412601",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02306028",
+  "key": "02306028",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02306028",
+  "name": "HILLSBOROUGH RIVER AT PLATT STREET AT TAMPA FL",
+  "waterbody": "HILLSBOROUGH RIVER AT PLATT STREET AT TAMPA FL",
+  "state": "FL",
+  "latitude": 27.94197079,
+  "longitude": -82.45875611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HPLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hillsborough River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hplf1",
+  "slug": "usgs-02306028",
+  "noaaForecastPath": "data/noaa-forecast/HPLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

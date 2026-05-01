@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09111500",
+  "key": "09111500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09111500",
+  "name": "SLATE RIVER NEAR CRESTED BUTTE, CO",
+  "waterbody": "SLATE RIVER NEAR CRESTED BUTTE, CO",
+  "state": "CO",
+  "latitude": 38.8697146,
+  "longitude": -106.969489,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09111500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

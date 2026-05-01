@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208731190",
+  "key": "0208731190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208731190",
+  "name": "CRABTREE CREEK AT ANDERSON DRIVE AT RALEIGH, NC",
+  "waterbody": "CRABTREE CREEK AT ANDERSON DRIVE AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.8211111,
+  "longitude": -78.6341667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crabtree Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adrn7",
+  "slug": "usgs-0208731190",
+  "noaaForecastPath": "data/noaa-forecast/ADRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

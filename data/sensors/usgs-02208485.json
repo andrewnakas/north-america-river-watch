@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02208485",
+  "key": "02208485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02208485",
+  "name": "CORNISH CREEK AT LOWER JERSEY RD, NR COVINGTON, GA",
+  "waterbody": "CORNISH CREEK AT LOWER JERSEY RD, NR COVINGTON, GA",
+  "state": "GA",
+  "latitude": 33.7108333,
+  "longitude": -83.8111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCJG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cornish Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccjg1",
+  "slug": "usgs-02208485",
+  "noaaForecastPath": "data/noaa-forecast/CCJG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

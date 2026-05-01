@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05386400",
+  "key": "05386400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05386400",
+  "name": "MISSISSIPPI RIVER AT BROWNSVILLE, MN",
+  "waterbody": "MISSISSIPPI RIVER AT BROWNSVILLE, MN",
+  "state": "MN",
+  "latitude": 43.686793,
+  "longitude": -91.272977,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRWM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brwm5",
+  "slug": "usgs-05386400",
+  "noaaForecastPath": "data/noaa-forecast/BRWM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

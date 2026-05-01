@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353620",
+  "key": "03353620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353620",
+  "name": "LICK CREEK AT INDIANAPOLIS, IN",
+  "waterbody": "LICK CREEK AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.70586947,
+  "longitude": -86.1035774,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCII3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lick Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcii3",
+  "slug": "usgs-03353620",
+  "noaaForecastPath": "data/noaa-forecast/LCII3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

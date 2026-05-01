@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104405",
+  "key": "01104405",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104405",
+  "name": "HOBBS BROOK AT MILL ST NR LINCOLN, MA",
+  "waterbody": "HOBBS BROOK AT MILL ST NR LINCOLN, MA",
+  "state": "MA",
+  "latitude": 42.43636172,
+  "longitude": -71.26946767,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104405",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

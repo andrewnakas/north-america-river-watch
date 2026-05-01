@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04288230",
+  "key": "04288230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04288230",
+  "name": "RANCH BROOK AT RANCH CAMP, NEAR STOWE, VT",
+  "waterbody": "RANCH BROOK AT RANCH CAMP, NEAR STOWE, VT",
+  "state": "VT",
+  "latitude": 44.5039413,
+  "longitude": -72.7817883,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCHV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ranch Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rchv1",
+  "slug": "usgs-04288230",
+  "noaaForecastPath": "data/noaa-forecast/RCHV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

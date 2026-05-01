@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204297575",
+  "key": "0204297575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204297575",
+  "name": "LAKE RUDEE NEAR BELLS ROAD AT VIRGINIA BEACH, VA",
+  "waterbody": "LAKE RUDEE NEAR BELLS ROAD AT VIRGINIA BEACH, VA",
+  "state": "VA",
+  "latitude": 36.82477778,
+  "longitude": -75.98525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDIV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atlantic Coast",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdiv2",
+  "slug": "usgs-0204297575",
+  "noaaForecastPath": "data/noaa-forecast/RDIV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

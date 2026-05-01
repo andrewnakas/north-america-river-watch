@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04145000",
+  "key": "04145000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04145000",
+  "name": "SHIAWASSEE RIVER NEAR FERGUS, MI",
+  "waterbody": "SHIAWASSEE RIVER NEAR FERGUS, MI",
+  "state": "MI",
+  "latitude": 43.2547478,
+  "longitude": -84.1055324,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shiawassee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frgm4",
+  "slug": "usgs-04145000",
+  "noaaForecastPath": "data/noaa-forecast/FRGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

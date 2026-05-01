@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08164200",
+  "key": "08164200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08164200",
+  "name": "E Navidad Rv at US90 nr Weimar, TX",
+  "waterbody": "E Navidad Rv at US90 nr Weimar, TX",
+  "state": "TX",
+  "latitude": 29.69758333,
+  "longitude": -96.8379472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08164200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

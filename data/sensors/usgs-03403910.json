@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03403910",
+  "key": "03403910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03403910",
+  "name": "CLEAR FORK AT SAXTON, KY",
+  "waterbody": "CLEAR FORK AT SAXTON, KY",
+  "state": "KY",
+  "latitude": 36.63397105,
+  "longitude": -84.1115969,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxtk2",
+  "slug": "usgs-03403910",
+  "noaaForecastPath": "data/noaa-forecast/SXTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04100252",
+  "key": "04100252",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04100252",
+  "name": "FORKER CREEK NEAR BURR OAK, IN",
+  "waterbody": "FORKER CREEK NEAR BURR OAK, IN",
+  "state": "IN",
+  "latitude": 41.33279619,
+  "longitude": -85.4235539,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04100252",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

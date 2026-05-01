@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10249300",
+  "key": "10249300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10249300",
+  "name": "S TWIN RV NR ROUND MOUNTAIN, NV",
+  "waterbody": "S TWIN RV NR ROUND MOUNTAIN, NV",
+  "state": "NV",
+  "latitude": 38.8874302,
+  "longitude": -117.2453673,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWRN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "S Twin River nr Round Mountain",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twrn2",
+  "slug": "usgs-10249300",
+  "noaaForecastPath": "data/noaa-forecast/TWRN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

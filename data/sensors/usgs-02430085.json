@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02430085",
+  "key": "02430085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02430085",
+  "name": "RED BUD CREEK NR MOORES MILL, MS",
+  "waterbody": "RED BUD CREEK NR MOORES MILL, MS",
+  "state": "MS",
+  "latitude": 34.46666667,
+  "longitude": -88.2836111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02430085",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01074520",
+  "key": "01074520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01074520",
+  "name": "EAST BRANCH PEMIGEWASSET RIVER AT LINCOLN, NH",
+  "waterbody": "EAST BRANCH PEMIGEWASSET RIVER AT LINCOLN, NH",
+  "state": "NH",
+  "latitude": 44.0475669,
+  "longitude": -71.6598029,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LINN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Pemigewasset River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/linn3",
+  "slug": "usgs-01074520",
+  "noaaForecastPath": "data/noaa-forecast/LINN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

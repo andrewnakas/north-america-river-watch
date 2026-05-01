@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03250500",
+  "key": "03250500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03250500",
+  "name": "LICKING RIVER AT BLUE LICK SPRINGS, KY",
+  "waterbody": "LICKING RIVER AT BLUE LICK SPRINGS, KY",
+  "state": "KY",
+  "latitude": 38.4200749,
+  "longitude": -83.9974261,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLSK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Licking River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blsk2",
+  "slug": "usgs-03250500",
+  "noaaForecastPath": "data/noaa-forecast/BLSK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

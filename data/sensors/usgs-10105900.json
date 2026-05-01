@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10105900",
+  "key": "10105900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10105900",
+  "name": "LITTLE BEAR RIVER AT PARADISE, UT",
+  "waterbody": "LITTLE BEAR RIVER AT PARADISE, UT",
+  "state": "UT",
+  "latitude": 41.5754898,
+  "longitude": -111.8552203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRZU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/przu1",
+  "slug": "usgs-10105900",
+  "noaaForecastPath": "data/noaa-forecast/PRZU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01546400",
+  "key": "01546400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01546400",
+  "name": "Spring Creek at Houserville, PA",
+  "waterbody": "Spring Creek at Houserville, PA",
+  "state": "PA",
+  "latitude": 40.8336726,
+  "longitude": -77.82750108,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOUP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/houp1",
+  "slug": "usgs-01546400",
+  "noaaForecastPath": "data/noaa-forecast/HOUP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

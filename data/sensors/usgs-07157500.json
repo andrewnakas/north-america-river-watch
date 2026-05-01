@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07157500",
+  "key": "07157500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07157500",
+  "name": "CROOKED C NR ENGLEWOOD, KS",
+  "waterbody": "CROOKED C NR ENGLEWOOD, KS",
+  "state": "KS",
+  "latitude": 37.032528,
+  "longitude": -100.2112531,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENWK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek (KS)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/enwk1",
+  "slug": "usgs-07157500",
+  "noaaForecastPath": "data/noaa-forecast/ENWK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

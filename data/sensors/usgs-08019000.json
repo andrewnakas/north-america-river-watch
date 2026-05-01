@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08019000",
+  "key": "08019000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08019000",
+  "name": "Lake Fk Ck nr Quitman, TX",
+  "waterbody": "Lake Fk Ck nr Quitman, TX",
+  "state": "TX",
+  "latitude": 32.76318386,
+  "longitude": -95.4630094,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QTMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Fork Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qtmt2",
+  "slug": "usgs-08019000",
+  "noaaForecastPath": "data/noaa-forecast/QTMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

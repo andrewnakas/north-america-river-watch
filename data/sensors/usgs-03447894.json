@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03447894",
+  "key": "03447894",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03447894",
+  "name": "BENT CR AT BENT CR GAP RD NR GLEN BALD, NC",
+  "waterbody": "BENT CR AT BENT CR GAP RD NR GLEN BALD, NC",
+  "state": "NC",
+  "latitude": 35.4936111,
+  "longitude": -82.6111111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03447894",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

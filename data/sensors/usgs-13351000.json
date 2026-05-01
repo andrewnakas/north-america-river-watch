@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13351000",
+  "key": "13351000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13351000",
+  "name": "PALOUSE RIVER AT HOOPER, WA",
+  "waterbody": "PALOUSE RIVER AT HOOPER, WA",
+  "state": "WA",
+  "latitude": 46.7584831,
+  "longitude": -118.1488494,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOPW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Palouse River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hopw1",
+  "slug": "usgs-13351000",
+  "noaaForecastPath": "data/noaa-forecast/HOPW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

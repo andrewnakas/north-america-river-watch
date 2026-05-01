@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06404800",
+  "key": "06404800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06404800",
+  "name": "GRACE COOLIDGE CREEK NEAR HAYWARD, SD",
+  "waterbody": "GRACE COOLIDGE CREEK NEAR HAYWARD, SD",
+  "state": "SD",
+  "latitude": 43.8020628,
+  "longitude": -103.4343143,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06404800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.377Z"
+}

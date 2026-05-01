@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12211390",
+  "key": "12211390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12211390",
+  "name": "KAMM CREEK AT KAMM ROAD NEAR LYNDEN, WA",
+  "waterbody": "KAMM CREEK AT KAMM ROAD NEAR LYNDEN, WA",
+  "state": "WA",
+  "latitude": 48.95650587,
+  "longitude": -122.4023826,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12211390",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08165400",
+  "key": "08165400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08165400",
+  "name": "S Fk Guadalupe Rv at Lynx Haven Crsg nr Hunt, TX",
+  "waterbody": "S Fk Guadalupe Rv at Lynx Haven Crsg nr Hunt, TX",
+  "state": "TX",
+  "latitude": 29.980181,
+  "longitude": -99.4423,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNXT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnxt2",
+  "slug": "usgs-08165400",
+  "noaaForecastPath": "data/noaa-forecast/LNXT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

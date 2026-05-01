@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05104500",
+  "key": "05104500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05104500",
+  "name": "ROSEAU RIVER BELOW SOUTH FORK NEAR MALUNG, MN",
+  "waterbody": "ROSEAU RIVER BELOW SOUTH FORK NEAR MALUNG, MN",
+  "state": "MN",
+  "latitude": 48.79470197,
+  "longitude": -95.7424885,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MALM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roseau River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/malm5",
+  "slug": "usgs-05104500",
+  "noaaForecastPath": "data/noaa-forecast/MALM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

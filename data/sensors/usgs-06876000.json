@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06876000",
+  "key": "06876000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06876000",
+  "name": "SOLOMON R AT BELOIT, KS",
+  "waterbody": "SOLOMON R AT BELOIT, KS",
+  "state": "KS",
+  "latitude": 39.45450957,
+  "longitude": -98.1098985,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLTK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Solomon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bltk1",
+  "slug": "usgs-06876000",
+  "noaaForecastPath": "data/noaa-forecast/BLTK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

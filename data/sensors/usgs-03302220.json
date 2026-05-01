@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03302220",
+  "key": "03302220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302220",
+  "name": "BUCK CREEK NEAR NEW MIDDLETOWN, IN",
+  "waterbody": "BUCK CREEK NEAR NEW MIDDLETOWN, IN",
+  "state": "IN",
+  "latitude": 38.12033579,
+  "longitude": -86.08802209,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buck Creek (S IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmdi3",
+  "slug": "usgs-03302220",
+  "noaaForecastPath": "data/noaa-forecast/NMDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

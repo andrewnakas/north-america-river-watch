@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10134500",
+  "key": "10134500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10134500",
+  "name": "EAST CANYON CREEK NEAR MORGAN, UT",
+  "waterbody": "EAST CANYON CREEK NEAR MORGAN, UT",
+  "state": "UT",
+  "latitude": 40.92244629,
+  "longitude": -111.6071504,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECCU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Canyon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eccu1",
+  "slug": "usgs-10134500",
+  "noaaForecastPath": "data/noaa-forecast/ECCU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

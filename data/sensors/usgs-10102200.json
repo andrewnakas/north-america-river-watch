@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10102200",
+  "key": "10102200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10102200",
+  "name": "CUB R NR RICHMOND UTAH",
+  "waterbody": "CUB R NR RICHMOND UTAH",
+  "state": "UT",
+  "latitude": 41.92630207,
+  "longitude": -111.8535808,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10102200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

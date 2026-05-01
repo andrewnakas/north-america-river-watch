@@ -1,0 +1,19 @@
+{
+  "id": "usgs:103087885",
+  "key": "103087885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "103087885",
+  "name": "LEVIATHAN C CHANNEL UNDERDRAIN NR MARKLEEVILLE CA",
+  "waterbody": "LEVIATHAN C CHANNEL UNDERDRAIN NR MARKLEEVILLE CA",
+  "state": "CA",
+  "latitude": 38.7093506,
+  "longitude": -119.6623949,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-103087885",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

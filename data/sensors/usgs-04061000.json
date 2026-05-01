@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04061000",
+  "key": "04061000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04061000",
+  "name": "BRULE RIVER NR FLORENCE, WI",
+  "waterbody": "BRULE RIVER NR FLORENCE, WI",
+  "state": "MI",
+  "latitude": 45.95856448,
+  "longitude": -88.2659667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04061000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

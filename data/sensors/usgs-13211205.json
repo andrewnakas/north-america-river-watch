@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13211205",
+  "key": "13211205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13211205",
+  "name": "BOISE RIVER AT CALDWELL, ID",
+  "waterbody": "BOISE RIVER AT CALDWELL, ID",
+  "state": "ID",
+  "latitude": 43.67735278,
+  "longitude": -116.7011306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDWI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boise River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdwi1",
+  "slug": "usgs-13211205",
+  "noaaForecastPath": "data/noaa-forecast/CDWI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

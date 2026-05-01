@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03108490",
+  "key": "03108490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03108490",
+  "name": "Ohio R ab Montgomery Dam & Locks at Ohioview, PA",
+  "waterbody": "Ohio R ab Montgomery Dam & Locks at Ohioview, PA",
+  "state": "PA",
+  "latitude": 40.6489079,
+  "longitude": -80.3833884,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03108490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

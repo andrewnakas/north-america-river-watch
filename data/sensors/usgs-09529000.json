@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09529000",
+  "key": "09529000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09529000",
+  "name": "GILA DRAIN NO. 1 NEAR YUMA, AZ",
+  "waterbody": "GILA DRAIN NO. 1 NEAR YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.75877778,
+  "longitude": -114.5226139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09529000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

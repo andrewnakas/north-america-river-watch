@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021564493",
+  "key": "021564493",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021564493",
+  "name": "BROAD RIVER BELOW NEAL SHOALS RES NR CARLISLE, SC",
+  "waterbody": "BROAD RIVER BELOW NEAL SHOALS RES NR CARLISLE, SC",
+  "state": "SC",
+  "latitude": 34.66305556,
+  "longitude": -81.4472222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NELS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broad River in NC/SC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nels1",
+  "slug": "usgs-021564493",
+  "noaaForecastPath": "data/noaa-forecast/NELS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

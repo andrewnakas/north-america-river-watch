@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06609560",
+  "key": "06609560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06609560",
+  "name": "Willow Creek near Soldier, IA",
+  "waterbody": "Willow Creek near Soldier, IA",
+  "state": "IA",
+  "latitude": 41.9213774,
+  "longitude": -95.7016725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcsi4",
+  "slug": "usgs-06609560",
+  "noaaForecastPath": "data/noaa-forecast/WCSI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

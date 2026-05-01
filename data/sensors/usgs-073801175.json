@@ -1,0 +1,19 @@
+{
+  "id": "usgs:073801175",
+  "key": "073801175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073801175",
+  "name": "Grays Creek at Hwy 16 near Port Vincent, LA",
+  "waterbody": "Grays Creek at Hwy 16 near Port Vincent, LA",
+  "state": "LA",
+  "latitude": 30.41177778,
+  "longitude": -90.9151389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-073801175",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

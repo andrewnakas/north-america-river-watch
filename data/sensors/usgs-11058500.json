@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11058500",
+  "key": "11058500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11058500",
+  "name": "E TWIN C NR ARROWHEAD SPRINGS CA",
+  "waterbody": "E TWIN C NR ARROWHEAD SPRINGS CA",
+  "state": "CA",
+  "latitude": 34.1791779,
+  "longitude": -117.2655894,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11058500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208503",
+  "key": "04208503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208503",
+  "name": "Cuyahoga R at Lower Harvard Brdg in Cleveland OH",
+  "waterbody": "Cuyahoga R at Lower Harvard Brdg in Cleveland OH",
+  "state": "OH",
+  "latitude": 41.44751348,
+  "longitude": -81.68454,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuyahoga River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbgo1",
+  "slug": "usgs-04208503",
+  "noaaForecastPath": "data/noaa-forecast/NBGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

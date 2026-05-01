@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07343450",
+  "key": "07343450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07343450",
+  "name": "Sulphur Rv at IH 30 nr Dalby Springs, TX",
+  "waterbody": "Sulphur Rv at IH 30 nr Dalby Springs, TX",
+  "state": "TX",
+  "latitude": 33.30944444,
+  "longitude": -94.6980556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DSPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sulphur River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dspt2",
+  "slug": "usgs-07343450",
+  "noaaForecastPath": "data/noaa-forecast/DSPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

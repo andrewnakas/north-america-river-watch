@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01200600",
+  "key": "01200600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01200600",
+  "name": "HOUSATONIC RIVER NEAR NEW MILFORD, CT",
+  "waterbody": "HOUSATONIC RIVER NEAR NEW MILFORD, CT",
+  "state": "CT",
+  "latitude": 41.59304488,
+  "longitude": -73.44954534,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01200600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

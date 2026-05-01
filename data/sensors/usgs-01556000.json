@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01556000",
+  "key": "01556000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01556000",
+  "name": "Frankstown Br Juniata River at Williamsburg, PA",
+  "waterbody": "Frankstown Br Juniata River at Williamsburg, PA",
+  "state": "PA",
+  "latitude": 40.4631283,
+  "longitude": -78.199732,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WIBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frankstown Branch Juniata River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wibp1",
+  "slug": "usgs-01556000",
+  "noaaForecastPath": "data/noaa-forecast/WIBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01057000",
+  "key": "01057000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01057000",
+  "name": "Little Androscoggin River near South Paris, Maine",
+  "waterbody": "Little Androscoggin River near South Paris, Maine",
+  "state": "ME",
+  "latitude": 44.30388889,
+  "longitude": -70.5397222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPSM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Androscoggin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spsm1",
+  "slug": "usgs-01057000",
+  "noaaForecastPath": "data/noaa-forecast/SPSM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

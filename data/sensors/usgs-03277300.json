@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03277300",
+  "key": "03277300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03277300",
+  "name": "NORTH FORK KENTUCKY RIVER AT WHITESBURG, KY",
+  "waterbody": "NORTH FORK KENTUCKY RIVER AT WHITESBURG, KY",
+  "state": "KY",
+  "latitude": 37.11759849,
+  "longitude": -82.82460429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whtk2",
+  "slug": "usgs-03277300",
+  "noaaForecastPath": "data/noaa-forecast/WHTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

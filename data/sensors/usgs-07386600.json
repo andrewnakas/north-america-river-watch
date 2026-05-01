@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07386600",
+  "key": "07386600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07386600",
+  "name": "Vermilion River (B. Vermilion) near Carencro, LA",
+  "waterbody": "Vermilion River (B. Vermilion) near Carencro, LA",
+  "state": "LA",
+  "latitude": 30.36825387,
+  "longitude": -91.9876184,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Vermilion",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvcl1",
+  "slug": "usgs-07386600",
+  "noaaForecastPath": "data/noaa-forecast/BVCL1.json",
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

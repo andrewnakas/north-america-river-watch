@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06430800",
+  "key": "06430800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06430800",
+  "name": "ANNIE CREEK NEAR LEAD, SD",
+  "waterbody": "ANNIE CREEK NEAR LEAD, SD",
+  "state": "SD",
+  "latitude": 44.32749778,
+  "longitude": -103.894532,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Annie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/anns2",
+  "slug": "usgs-06430800",
+  "noaaForecastPath": "data/noaa-forecast/ANNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07029500",
+  "key": "07029500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07029500",
+  "name": "HATCHIE RIVER AT BOLIVAR, TN",
+  "waterbody": "HATCHIE RIVER AT BOLIVAR, TN",
+  "state": "TN",
+  "latitude": 35.275356,
+  "longitude": -88.976626,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hatchie River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvrt1",
+  "slug": "usgs-07029500",
+  "noaaForecastPath": "data/noaa-forecast/BVRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

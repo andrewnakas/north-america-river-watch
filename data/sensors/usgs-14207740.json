@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14207740",
+  "key": "14207740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14207740",
+  "name": "WILLAMETTE RIVER ABOVE FALLS, AT OREGON CITY, OR",
+  "waterbody": "WILLAMETTE RIVER ABOVE FALLS, AT OREGON CITY, OR",
+  "state": "OR",
+  "latitude": 45.34805556,
+  "longitude": -122.6205278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OCUO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willamette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ocuo3",
+  "slug": "usgs-14207740",
+  "noaaForecastPath": "data/noaa-forecast/OCUO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

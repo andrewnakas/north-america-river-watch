@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11304810",
+  "key": "11304810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11304810",
+  "name": "SAN JOAQUIN R BL GARWOOD BRIDGE A STOCKTON CA",
+  "waterbody": "SAN JOAQUIN R BL GARWOOD BRIDGE A STOCKTON CA",
+  "state": "CA",
+  "latitude": 37.93547987,
+  "longitude": -121.3302245,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11304810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

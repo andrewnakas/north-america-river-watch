@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893590",
+  "key": "06893590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893590",
+  "name": "Blue River at 12th Street in Kansas City, MO",
+  "waterbody": "Blue River at 12th Street in Kansas City, MO",
+  "state": "MO",
+  "latitude": 39.09691667,
+  "longitude": -94.4910278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KSVM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ksvm7",
+  "slug": "usgs-06893590",
+  "noaaForecastPath": "data/noaa-forecast/KSVM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

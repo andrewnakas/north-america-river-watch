@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08183900",
+  "key": "08183900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08183900",
+  "name": "Cibolo Ck nr Boerne, TX",
+  "waterbody": "Cibolo Ck nr Boerne, TX",
+  "state": "TX",
+  "latitude": 29.77498889,
+  "longitude": -98.7094694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CICT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cibolo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cict2",
+  "slug": "usgs-08183900",
+  "noaaForecastPath": "data/noaa-forecast/CICT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

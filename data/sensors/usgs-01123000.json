@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01123000",
+  "key": "01123000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01123000",
+  "name": "LITTLE RIVER NEAR HANOVER, CT",
+  "waterbody": "LITTLE RIVER NEAR HANOVER, CT",
+  "state": "CT",
+  "latitude": 41.67164947,
+  "longitude": -72.05227712,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNOC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnoc3",
+  "slug": "usgs-01123000",
+  "noaaForecastPath": "data/noaa-forecast/HNOC3.json",
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

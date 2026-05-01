@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06618480",
+  "key": "06618480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06618480",
+  "name": "ILLINOIS RIVER BLW POTTER CREEK NR WALDEN, CO",
+  "waterbody": "ILLINOIS RIVER BLW POTTER CREEK NR WALDEN, CO",
+  "state": "CO",
+  "latitude": 40.7085881,
+  "longitude": -106.2803039,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06618480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

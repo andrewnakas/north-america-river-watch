@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08033350",
+  "key": "08033350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08033350",
+  "name": "Piney Ck at US 59 nr Corrigan, TX",
+  "waterbody": "Piney Ck at US 59 nr Corrigan, TX",
+  "state": "TX",
+  "latitude": 31.05039167,
+  "longitude": -94.8242639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08033350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

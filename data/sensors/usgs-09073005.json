@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09073005",
+  "key": "09073005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09073005",
+  "name": "LINCOLN CREEK BELOW GRIZZLY RESERVOIR NR ASPEN, CO",
+  "waterbody": "LINCOLN CREEK BELOW GRIZZLY RESERVOIR NR ASPEN, CO",
+  "state": "CO",
+  "latitude": 39.0802361,
+  "longitude": -106.6165833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09073005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

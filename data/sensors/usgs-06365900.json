@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06365900",
+  "key": "06365900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06365900",
+  "name": "CHEYENNE RIVER NEAR DULL CENTER, WY",
+  "waterbody": "CHEYENNE RIVER NEAR DULL CENTER, WY",
+  "state": "WY",
+  "latitude": 43.42911,
+  "longitude": -105.0458829,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06365900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

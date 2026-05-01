@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07364100",
+  "key": "07364100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07364100",
+  "name": "Ouachita River near AR/LA State Line",
+  "waterbody": "Ouachita River near AR/LA State Line",
+  "state": "AR",
+  "latitude": 33.0311111,
+  "longitude": -92.0877778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FELA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ouachita River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fela4",
+  "slug": "usgs-07364100",
+  "noaaForecastPath": "data/noaa-forecast/FELA4.json",
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

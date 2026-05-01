@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12049000",
+  "key": "12049000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12049000",
+  "name": "DUNGENESS RIVER AT DUNGENESS, WA",
+  "waterbody": "DUNGENESS RIVER AT DUNGENESS, WA",
+  "state": "WA",
+  "latitude": 48.14425967,
+  "longitude": -123.129067,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRMW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dungeness River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drmw1",
+  "slug": "usgs-12049000",
+  "noaaForecastPath": "data/noaa-forecast/DRMW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

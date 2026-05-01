@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13211309",
+  "key": "13211309",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13211309",
+  "name": "INDIAN CREEK AB WASTE WATER PLANT NR NAMPA ID",
+  "waterbody": "INDIAN CREEK AB WASTE WATER PLANT NR NAMPA ID",
+  "state": "ID",
+  "latitude": 43.597106,
+  "longitude": -116.5792978,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13211309",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

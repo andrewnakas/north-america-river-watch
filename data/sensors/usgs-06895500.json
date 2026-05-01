@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06895500",
+  "key": "06895500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06895500",
+  "name": "Missouri River at Waverly, MO",
+  "waterbody": "Missouri River at Waverly, MO",
+  "state": "MO",
+  "latitude": 39.2150194,
+  "longitude": -93.5152118,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WVYM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wvym7",
+  "slug": "usgs-06895500",
+  "noaaForecastPath": "data/noaa-forecast/WVYM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

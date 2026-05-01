@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12342500",
+  "key": "12342500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12342500",
+  "name": "West Fork Bitterroot River nr Conner MT",
+  "waterbody": "West Fork Bitterroot River nr Conner MT",
+  "state": "MT",
+  "latitude": 45.72482778,
+  "longitude": -114.2822944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFBM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Bitterroot River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfbm8",
+  "slug": "usgs-12342500",
+  "noaaForecastPath": "data/noaa-forecast/WFBM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

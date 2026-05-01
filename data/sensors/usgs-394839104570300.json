@@ -1,0 +1,22 @@
+{
+  "id": "usgs:394839104570300",
+  "key": "394839104570300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "394839104570300",
+  "name": "SAND CREEK AT MOUTH NR COMMERCE CITY,CO",
+  "waterbody": "SAND CREEK AT MOUTH NR COMMERCE CITY,CO",
+  "state": "CO",
+  "latitude": 39.8109722,
+  "longitude": -104.9515833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SACC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sand Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sacc2",
+  "slug": "usgs-394839104570300",
+  "noaaForecastPath": "data/noaa-forecast/SACC2.json",
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

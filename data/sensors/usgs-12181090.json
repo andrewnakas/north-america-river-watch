@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12181090",
+  "key": "12181090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12181090",
+  "name": "SOUTH CASCADE MIDDLE TARN NEAR MARBLEMOUNT, WA",
+  "waterbody": "SOUTH CASCADE MIDDLE TARN NEAR MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.36873556,
+  "longitude": -121.0601086,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12181090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

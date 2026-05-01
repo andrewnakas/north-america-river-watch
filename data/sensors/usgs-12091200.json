@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12091200",
+  "key": "12091200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12091200",
+  "name": "LEACH CREEK NEAR FIRCREST, WA",
+  "waterbody": "LEACH CREEK NEAR FIRCREST, WA",
+  "state": "WA",
+  "latitude": 47.22145848,
+  "longitude": -122.5092728,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12091200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

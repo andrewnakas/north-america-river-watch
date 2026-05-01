@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11063680",
+  "key": "11063680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11063680",
+  "name": "DEVIL CYN C NR SAN BERNARDINO CA",
+  "waterbody": "DEVIL CYN C NR SAN BERNARDINO CA",
+  "state": "CA",
+  "latitude": 34.20834338,
+  "longitude": -117.3314248,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11063680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

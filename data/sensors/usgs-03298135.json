@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03298135",
+  "key": "03298135",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298135",
+  "name": "CHENOWETH RUN AT RUCKRIEGAL PARKWAY, KY",
+  "waterbody": "CHENOWETH RUN AT RUCKRIEGAL PARKWAY, KY",
+  "state": "KY",
+  "latitude": 38.19479109,
+  "longitude": -85.557181,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03298135",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

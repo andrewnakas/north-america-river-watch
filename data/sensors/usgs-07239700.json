@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07239700",
+  "key": "07239700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07239700",
+  "name": "North Canadian River near Yukon, OK",
+  "waterbody": "North Canadian River near Yukon, OK",
+  "state": "OK",
+  "latitude": 35.5394985,
+  "longitude": -97.7425442,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YUKO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yuko2",
+  "slug": "usgs-07239700",
+  "noaaForecastPath": "data/noaa-forecast/YUKO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

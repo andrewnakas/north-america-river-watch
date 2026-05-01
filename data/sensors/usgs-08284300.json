@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08284300",
+  "key": "08284300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08284300",
+  "name": "HORSE LAKE C AB HERON RE NR LOS OJOS, NM",
+  "waterbody": "HORSE LAKE C AB HERON RE NR LOS OJOS, NM",
+  "state": "NM",
+  "latitude": 36.70668056,
+  "longitude": -106.7455944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08284300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

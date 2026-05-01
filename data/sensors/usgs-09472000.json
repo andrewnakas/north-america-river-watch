@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09472000",
+  "key": "09472000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09472000",
+  "name": "SAN PEDRO RIVER NR REDINGTON, ARIZ",
+  "waterbody": "SAN PEDRO RIVER NR REDINGTON, ARIZ",
+  "state": "AZ",
+  "latitude": 32.380628,
+  "longitude": -110.446471,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09472000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

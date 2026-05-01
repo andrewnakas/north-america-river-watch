@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10348000",
+  "key": "10348000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348000",
+  "name": "TRUCKEE RV AT RENO, NV",
+  "waterbody": "TRUCKEE RV AT RENO, NV",
+  "state": "NV",
+  "latitude": 39.53018865,
+  "longitude": -119.7954684,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRRN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trrn2",
+  "slug": "usgs-10348000",
+  "noaaForecastPath": "data/noaa-forecast/TRRN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

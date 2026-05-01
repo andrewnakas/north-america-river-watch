@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06403300",
+  "key": "06403300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06403300",
+  "name": "FRENCH CREEK ABOVE FAIRBURN SD",
+  "waterbody": "FRENCH CREEK ABOVE FAIRBURN SD",
+  "state": "SD",
+  "latitude": 43.7172105,
+  "longitude": -103.3679713,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Creek (SD)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frns2",
+  "slug": "usgs-06403300",
+  "noaaForecastPath": "data/noaa-forecast/FRNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

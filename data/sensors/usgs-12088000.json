@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12088000",
+  "key": "12088000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12088000",
+  "name": "OHOP CREEK NEAR EATONVILLE, WA",
+  "waterbody": "OHOP CREEK NEAR EATONVILLE, WA",
+  "state": "WA",
+  "latitude": 46.88093699,
+  "longitude": -122.2790026,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12088000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

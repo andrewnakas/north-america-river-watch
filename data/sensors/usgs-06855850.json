@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06855850",
+  "key": "06855850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06855850",
+  "name": "BUFFALO C 4 MI E OF JAMESTOWN, KS",
+  "waterbody": "BUFFALO C 4 MI E OF JAMESTOWN, KS",
+  "state": "KS",
+  "latitude": 39.59258056,
+  "longitude": -97.78143333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06855850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

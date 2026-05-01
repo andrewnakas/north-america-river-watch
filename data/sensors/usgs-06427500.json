@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06427500",
+  "key": "06427500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06427500",
+  "name": "BELLE FOURCHE RIVER BELOW KEYHOLE RESERVOIR, WY",
+  "waterbody": "BELLE FOURCHE RIVER BELOW KEYHOLE RESERVOIR, WY",
+  "state": "WY",
+  "latitude": 44.38841667,
+  "longitude": -104.7702556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KEYW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Keyhole Reservoir",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/keyw4",
+  "slug": "usgs-06427500",
+  "noaaForecastPath": "data/noaa-forecast/KEYW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

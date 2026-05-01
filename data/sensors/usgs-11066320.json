@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11066320",
+  "key": "11066320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11066320",
+  "name": "RIX OUTFLOW A SANTA ANA R NR GRAND TERRACE CA",
+  "waterbody": "RIX OUTFLOW A SANTA ANA R NR GRAND TERRACE CA",
+  "state": "CA",
+  "latitude": 34.0413861,
+  "longitude": -117.3545694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11066320",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

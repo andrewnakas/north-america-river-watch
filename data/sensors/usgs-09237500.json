@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09237500",
+  "key": "09237500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09237500",
+  "name": "YAMPA RIVER BELOW STAGECOACH RESERVOIR, CO",
+  "waterbody": "YAMPA RIVER BELOW STAGECOACH RESERVOIR, CO",
+  "state": "CO",
+  "latitude": 40.28654444,
+  "longitude": -106.82905556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YMSC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yampa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ymsc2",
+  "slug": "usgs-09237500",
+  "noaaForecastPath": "data/noaa-forecast/YMSC2.json",
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

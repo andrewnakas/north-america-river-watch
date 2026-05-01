@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04026160",
+  "key": "04026160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04026160",
+  "name": "SISKIWIT RIVER AT CORNUCOPIA, WI",
+  "waterbody": "SISKIWIT RIVER AT CORNUCOPIA, WI",
+  "state": "WI",
+  "latitude": 46.8547222,
+  "longitude": -91.0913889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04026160",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

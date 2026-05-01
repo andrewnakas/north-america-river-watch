@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06906200",
+  "key": "06906200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06906200",
+  "name": "East Fork Little Chariton River near Macon, MO",
+  "waterbody": "East Fork Little Chariton River near Macon, MO",
+  "state": "MO",
+  "latitude": 39.75144444,
+  "longitude": -92.5189444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoirs",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbrm7",
+  "slug": "usgs-06906200",
+  "noaaForecastPath": "data/noaa-forecast/LBRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

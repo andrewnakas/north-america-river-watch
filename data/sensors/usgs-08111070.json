@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08111070",
+  "key": "08111070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111070",
+  "name": "Navasota Rv at SH 6 nr Navasota, TX",
+  "waterbody": "Navasota Rv at SH 6 nr Navasota, TX",
+  "state": "TX",
+  "latitude": 30.41840278,
+  "longitude": -96.1066167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NAVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navasota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/navt2",
+  "slug": "usgs-08111070",
+  "noaaForecastPath": "data/noaa-forecast/NAVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

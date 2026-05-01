@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04243500",
+  "key": "04243500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04243500",
+  "name": "ONEIDA CREEK AT ONEIDA NY",
+  "waterbody": "ONEIDA CREEK AT ONEIDA NY",
+  "state": "NY",
+  "latitude": 43.09755556,
+  "longitude": -75.6394167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEIN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oneida Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nein6",
+  "slug": "usgs-04243500",
+  "noaaForecastPath": "data/noaa-forecast/NEIN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

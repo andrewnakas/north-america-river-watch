@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15291000",
+  "key": "15291000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15291000",
+  "name": "SUSITNA R NR DENALI AK",
+  "waterbody": "SUSITNA R NR DENALI AK",
+  "state": "AK",
+  "latitude": 63.1034076,
+  "longitude": -147.5181418,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susitna River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suda2",
+  "slug": "usgs-15291000",
+  "noaaForecastPath": "data/noaa-forecast/SUDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

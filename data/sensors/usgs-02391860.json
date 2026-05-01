@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02391860",
+  "key": "02391860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02391860",
+  "name": "ETOWAH RIVER DOWNSTREAM OF I-575, AT CANTON, GA",
+  "waterbody": "ETOWAH RIVER DOWNSTREAM OF I-575, AT CANTON, GA",
+  "state": "GA",
+  "latitude": 34.2508333,
+  "longitude": -84.4691667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Etowah River  Downstream I-575",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ectg1",
+  "slug": "usgs-02391860",
+  "noaaForecastPath": "data/noaa-forecast/ECTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

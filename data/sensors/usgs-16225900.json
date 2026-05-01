@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16225900",
+  "key": "16225900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16225900",
+  "name": "N. Halawa Str at Bridge 8 nr Halawa, Oahu, HI",
+  "waterbody": "N. Halawa Str at Bridge 8 nr Halawa, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.39555556,
+  "longitude": -157.8856944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16225900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08200977",
+  "key": "08200977",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08200977",
+  "name": "Middle Verde Ck at SH 173 nr Bandera, TX",
+  "waterbody": "Middle Verde Ck at SH 173 nr Bandera, TX",
+  "state": "TX",
+  "latitude": 29.56777778,
+  "longitude": -99.0969444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VCKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Verde Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vckt2",
+  "slug": "usgs-08200977",
+  "noaaForecastPath": "data/noaa-forecast/VCKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

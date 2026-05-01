@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12396900",
+  "key": "12396900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12396900",
+  "name": "SULLIVAN CREEK AB OUTLET CR NR METALINE FALLS, WA",
+  "waterbody": "SULLIVAN CREEK AB OUTLET CR NR METALINE FALLS, WA",
+  "state": "WA",
+  "latitude": 48.8463111,
+  "longitude": -117.2869086,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12396900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13176400",
+  "key": "13176400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13176400",
+  "name": "EF OWYHEE RIVER AT CRUTCHER CROSSING, ID",
+  "waterbody": "EF OWYHEE RIVER AT CRUTCHER CROSSING, ID",
+  "state": "ID",
+  "latitude": 42.26136944,
+  "longitude": -116.8684417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Owyhee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orci1",
+  "slug": "usgs-13176400",
+  "noaaForecastPath": "data/noaa-forecast/ORCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

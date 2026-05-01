@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02200120",
+  "key": "02200120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02200120",
+  "name": "OGEECHEE RIVER AT GA 88, NEAR GRANGE, GA",
+  "waterbody": "OGEECHEE RIVER AT GA 88, NEAR GRANGE, GA",
+  "state": "GA",
+  "latitude": 33.04458333,
+  "longitude": -82.6036667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRGG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ogeechee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grgg1",
+  "slug": "usgs-02200120",
+  "noaaForecastPath": "data/noaa-forecast/GRGG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

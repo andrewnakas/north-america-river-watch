@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893150",
+  "key": "06893150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893150",
+  "name": "Blue River at Blue Ridge Blvd Ext in KC, MO",
+  "waterbody": "Blue River at Blue Ridge Blvd Ext in KC, MO",
+  "state": "MO",
+  "latitude": 38.88941667,
+  "longitude": -94.5806667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KBRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kbrm7",
+  "slug": "usgs-06893150",
+  "noaaForecastPath": "data/noaa-forecast/KBRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

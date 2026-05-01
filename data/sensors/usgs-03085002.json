@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03085002",
+  "key": "03085002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085002",
+  "name": "Monongahela R at L&D2 Lower Pool at Braddock, PA",
+  "waterbody": "Monongahela R at L&D2 Lower Pool at Braddock, PA",
+  "state": "PA",
+  "latitude": 40.3925,
+  "longitude": -79.8602778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monongahela River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bddp1",
+  "slug": "usgs-03085002",
+  "noaaForecastPath": "data/noaa-forecast/BDDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

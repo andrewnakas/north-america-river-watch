@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16238500",
+  "key": "16238500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16238500",
+  "name": "Waihi Stream at Honolulu, Oahu, HI",
+  "waterbody": "Waihi Stream at Honolulu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.3283611,
+  "longitude": -157.800861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WISH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waihi Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wish1",
+  "slug": "usgs-16238500",
+  "noaaForecastPath": "data/noaa-forecast/WISH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

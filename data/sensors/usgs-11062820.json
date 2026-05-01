@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11062820",
+  "key": "11062820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11062820",
+  "name": "FONTANA WATER CO DIV NR FONTANA CA",
+  "waterbody": "FONTANA WATER CO DIV NR FONTANA CA",
+  "state": "CA",
+  "latitude": 34.1547317,
+  "longitude": -117.3967137,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11062820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

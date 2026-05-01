@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03281500",
+  "key": "03281500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03281500",
+  "name": "SOUTH FORK KENTUCKY RIVER AT BOONEVILLE, KY",
+  "waterbody": "SOUTH FORK KENTUCKY RIVER AT BOONEVILLE, KY",
+  "state": "KY",
+  "latitude": 37.47981018,
+  "longitude": -83.6751923,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOOK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/book2",
+  "slug": "usgs-03281500",
+  "noaaForecastPath": "data/noaa-forecast/BOOK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

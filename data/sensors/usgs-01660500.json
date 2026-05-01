@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01660500",
+  "key": "01660500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01660500",
+  "name": "BEAVERDAM RUN NEAR GARRISONVILLE, VA",
+  "waterbody": "BEAVERDAM RUN NEAR GARRISONVILLE, VA",
+  "state": "VA",
+  "latitude": 38.50694444,
+  "longitude": -77.4272222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01660500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

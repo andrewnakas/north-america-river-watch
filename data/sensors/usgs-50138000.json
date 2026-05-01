@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50138000",
+  "key": "50138000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50138000",
+  "name": "RIO GUANAJIBO NR HORMIGUEROS, PR",
+  "waterbody": "RIO GUANAJIBO NR HORMIGUEROS, PR",
+  "state": "PR",
+  "latitude": 18.142681,
+  "longitude": -67.14875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HORP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Guanajibo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/horp4",
+  "slug": "usgs-50138000",
+  "noaaForecastPath": "data/noaa-forecast/HORP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

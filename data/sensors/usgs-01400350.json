@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01400350",
+  "key": "01400350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01400350",
+  "name": "Macs Brook at Somerville NJ",
+  "waterbody": "Macs Brook at Somerville NJ",
+  "state": "NJ",
+  "latitude": 40.5822222,
+  "longitude": -74.6180556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01400350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

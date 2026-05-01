@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09031600",
+  "key": "09031600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09031600",
+  "name": "VASQUEZ DIVERSION 3 NR WINTER PARK, CO",
+  "waterbody": "VASQUEZ DIVERSION 3 NR WINTER PARK, CO",
+  "state": "CO",
+  "latitude": 39.86610556,
+  "longitude": -105.8196472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09031600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03067510",
+  "key": "03067510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03067510",
+  "name": "SHAVERS FORK NR CHEAT BRIDGE, WV",
+  "waterbody": "SHAVERS FORK NR CHEAT BRIDGE, WV",
+  "state": "WV",
+  "latitude": 38.6170576,
+  "longitude": -79.8697849,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHBW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shavers Fork  Cheat River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chbw2",
+  "slug": "usgs-03067510",
+  "noaaForecastPath": "data/noaa-forecast/CHBW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

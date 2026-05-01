@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13095050",
+  "key": "13095050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13095050",
+  "name": "DEEP CREEK AT MOUTH NR BUHL ID",
+  "waterbody": "DEEP CREEK AT MOUTH NR BUHL ID",
+  "state": "ID",
+  "latitude": 42.65823725,
+  "longitude": -114.8092195,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13095050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

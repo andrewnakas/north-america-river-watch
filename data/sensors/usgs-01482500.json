@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01482500",
+  "key": "01482500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01482500",
+  "name": "Salem River at Woodstown NJ",
+  "waterbody": "Salem River at Woodstown NJ",
+  "state": "NJ",
+  "latitude": 39.64388889,
+  "longitude": -75.33027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salem River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdtn4",
+  "slug": "usgs-01482500",
+  "noaaForecastPath": "data/noaa-forecast/WDTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

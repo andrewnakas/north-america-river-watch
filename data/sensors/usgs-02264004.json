@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02264004",
+  "key": "02264004",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02264004",
+  "name": "LATERAL 103 BELOW S-103A NR VINELAND",
+  "waterbody": "LATERAL 103 BELOW S-103A NR VINELAND",
+  "state": "FL",
+  "latitude": 28.38917437,
+  "longitude": -81.52535068,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02264004",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329930",
+  "key": "08329930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329930",
+  "name": "CORRALES RIVERSIDE DRAIN NR CORRALES, NM",
+  "waterbody": "CORRALES RIVERSIDE DRAIN NR CORRALES, NM",
+  "state": "NM",
+  "latitude": 35.2053205,
+  "longitude": -106.6422486,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329930",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

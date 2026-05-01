@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02485777",
+  "key": "02485777",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02485777",
+  "name": "EUBANKS CREEK AT EAGLE AVENUE AT JACKSON, MS",
+  "waterbody": "EUBANKS CREEK AT EAGLE AVENUE AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.34769444,
+  "longitude": -90.1707222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UBEM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eubanks Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ubem6",
+  "slug": "usgs-02485777",
+  "noaaForecastPath": "data/noaa-forecast/UBEM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

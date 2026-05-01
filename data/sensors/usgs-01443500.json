@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01443500",
+  "key": "01443500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01443500",
+  "name": "Paulins Kill at Blairstown NJ",
+  "waterbody": "Paulins Kill at Blairstown NJ",
+  "state": "NJ",
+  "latitude": 40.9808333,
+  "longitude": -74.9533333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLRN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paulins Kill",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blrn4",
+  "slug": "usgs-01443500",
+  "noaaForecastPath": "data/noaa-forecast/BLRN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

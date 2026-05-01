@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03336890",
+  "key": "03336890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03336890",
+  "name": "SPOON RIVER NEAR ST. JOSEPH, IL",
+  "waterbody": "SPOON RIVER NEAR ST. JOSEPH, IL",
+  "state": "IL",
+  "latitude": 40.16419444,
+  "longitude": -88.0275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSJI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spoon River (E-IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssji2",
+  "slug": "usgs-03336890",
+  "noaaForecastPath": "data/noaa-forecast/SSJI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

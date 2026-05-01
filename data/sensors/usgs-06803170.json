@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803170",
+  "key": "06803170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803170",
+  "name": "Middle Creek at SW 63rd St at Lincoln, Nebr.",
+  "waterbody": "Middle Creek at SW 63rd St at Lincoln, Nebr.",
+  "state": "NE",
+  "latitude": 40.810978,
+  "longitude": -96.806089,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmcn1",
+  "slug": "usgs-06803170",
+  "noaaForecastPath": "data/noaa-forecast/LMCN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

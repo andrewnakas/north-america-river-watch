@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02266292",
+  "key": "02266292",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266292",
+  "name": "LATERAL 405 BL S405A NR DR PHILLIPS, FL",
+  "waterbody": "LATERAL 405 BL S405A NR DR PHILLIPS, FL",
+  "state": "FL",
+  "latitude": 28.426889,
+  "longitude": -81.605194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02266292",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03165500",
+  "key": "03165500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03165500",
+  "name": "NEW RIVER AT IVANHOE, VA",
+  "waterbody": "NEW RIVER AT IVANHOE, VA",
+  "state": "VA",
+  "latitude": 36.83484534,
+  "longitude": -80.9525807,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IVNV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ivnv2",
+  "slug": "usgs-03165500",
+  "noaaForecastPath": "data/noaa-forecast/IVNV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

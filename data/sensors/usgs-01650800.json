@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01650800",
+  "key": "01650800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01650800",
+  "name": "SLIGO CREEK NEAR TAKOMA PARK, MD",
+  "waterbody": "SLIGO CREEK NEAR TAKOMA PARK, MD",
+  "state": "MD",
+  "latitude": 38.9862222,
+  "longitude": -77.0048611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TKPM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sligo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tkpm2",
+  "slug": "usgs-01650800",
+  "noaaForecastPath": "data/noaa-forecast/TKPM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

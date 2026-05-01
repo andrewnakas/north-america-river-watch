@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50061000",
+  "key": "50061000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50061000",
+  "name": "RIO GRANDE DE LOIZA AT CAROLINA, PR",
+  "waterbody": "RIO GRANDE DE LOIZA AT CAROLINA, PR",
+  "state": "PR",
+  "latitude": 18.37550438,
+  "longitude": -65.9518316,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50061000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

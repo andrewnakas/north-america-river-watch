@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12190400",
+  "key": "12190400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12190400",
+  "name": "BAKER RIVER AB BLUM CREEK NEAR CONCRETE, WA",
+  "waterbody": "BAKER RIVER AB BLUM CREEK NEAR CONCRETE, WA",
+  "state": "WA",
+  "latitude": 48.75397,
+  "longitude": -121.5470573,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12190400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

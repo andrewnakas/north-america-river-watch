@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03111500",
+  "key": "03111500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03111500",
+  "name": "Short Creek near Dillonvale OH",
+  "waterbody": "Short Creek near Dillonvale OH",
+  "state": "OH",
+  "latitude": 40.19340427,
+  "longitude": -80.7342482,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DONO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Short Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dono1",
+  "slug": "usgs-03111500",
+  "noaaForecastPath": "data/noaa-forecast/DONO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

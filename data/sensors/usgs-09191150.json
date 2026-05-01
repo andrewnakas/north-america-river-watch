@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09191150",
+  "key": "09191150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09191150",
+  "name": "North Cottonwood Cr bl Halverson Cr, nr Daniel, WY",
+  "waterbody": "North Cottonwood Cr bl Halverson Cr, nr Daniel, WY",
+  "state": "WY",
+  "latitude": 42.80509722,
+  "longitude": -110.47583333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09191150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

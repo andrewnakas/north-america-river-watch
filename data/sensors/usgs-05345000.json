@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05345000",
+  "key": "05345000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05345000",
+  "name": "VERMILLION RIVER NEAR EMPIRE, MN",
+  "waterbody": "VERMILLION RIVER NEAR EMPIRE, MN",
+  "state": "MN",
+  "latitude": 44.66663318,
+  "longitude": -93.0549358,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vermillion River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/empm5",
+  "slug": "usgs-05345000",
+  "noaaForecastPath": "data/noaa-forecast/EMPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

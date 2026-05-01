@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15276320",
+  "key": "15276320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15276320",
+  "name": "SHIP C BL FISH HATCHERY NR ANCHORAGE AK",
+  "waterbody": "SHIP C BL FISH HATCHERY NR ANCHORAGE AK",
+  "state": "AK",
+  "latitude": 61.2427846,
+  "longitude": -149.7241469,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15276320",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

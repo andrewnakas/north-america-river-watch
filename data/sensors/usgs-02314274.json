@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02314274",
+  "key": "02314274",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02314274",
+  "name": "SUWANNEE RIVER AT SILL NEAR FARGO, GA",
+  "waterbody": "SUWANNEE RIVER AT SILL NEAR FARGO, GA",
+  "state": "GA",
+  "latitude": 30.80410984,
+  "longitude": -82.4173514,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02314274",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

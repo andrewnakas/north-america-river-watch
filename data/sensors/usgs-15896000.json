@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15896000",
+  "key": "15896000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15896000",
+  "name": "KUPARUK R NR DEADHORSE AK",
+  "waterbody": "KUPARUK R NR DEADHORSE AK",
+  "state": "AK",
+  "latitude": 70.2813799,
+  "longitude": -148.962861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KUPA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kuparuk River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kupa2",
+  "slug": "usgs-15896000",
+  "noaaForecastPath": "data/noaa-forecast/KUPA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04288040",
+  "key": "04288040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04288040",
+  "name": "WINOOSKI RIVER ABOVE CROSSETT BK AT WATERBURY,VT",
+  "waterbody": "WINOOSKI RIVER ABOVE CROSSETT BK AT WATERBURY,VT",
+  "state": "VT",
+  "latitude": 44.3284361,
+  "longitude": -72.7461806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WATV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winooski River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/watv1",
+  "slug": "usgs-04288040",
+  "noaaForecastPath": "data/noaa-forecast/WATV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

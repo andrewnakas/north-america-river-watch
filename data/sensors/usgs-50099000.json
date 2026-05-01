@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50099000",
+  "key": "50099000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50099000",
+  "name": "QUEBRADA AGUAS VERDES NR SALINAS, PR",
+  "waterbody": "QUEBRADA AGUAS VERDES NR SALINAS, PR",
+  "state": "PR",
+  "latitude": 17.99329865,
+  "longitude": -66.21683387,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50099000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

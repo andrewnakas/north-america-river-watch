@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11467270",
+  "key": "11467270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11467270",
+  "name": "RUSSIAN R A HIGHWAY 1 BRIDGE NR JENNER CA",
+  "waterbody": "RUSSIAN R A HIGHWAY 1 BRIDGE NR JENNER CA",
+  "state": "CA",
+  "latitude": 38.4340222,
+  "longitude": -123.1011083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RROC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rroc1",
+  "slug": "usgs-11467270",
+  "noaaForecastPath": "data/noaa-forecast/RROC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

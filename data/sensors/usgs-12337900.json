@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12337900",
+  "key": "12337900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12337900",
+  "name": "North Fork Blackfoot River Bel Lake Cr nr Ovando",
+  "waterbody": "North Fork Blackfoot River Bel Lake Cr nr Ovando",
+  "state": "MT",
+  "latitude": 47.1032741,
+  "longitude": -112.9603279,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12337900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

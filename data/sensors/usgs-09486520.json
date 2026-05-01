@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09486520",
+  "key": "09486520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486520",
+  "name": "SANTA CRUZ RIVER AT TRICO ROAD, NR MARANA, AZ.",
+  "waterbody": "SANTA CRUZ RIVER AT TRICO ROAD, NR MARANA, AZ.",
+  "state": "AZ",
+  "latitude": 32.47158889,
+  "longitude": -111.3019667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCTA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Cruz River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scta3",
+  "slug": "usgs-09486520",
+  "noaaForecastPath": "data/noaa-forecast/SCTA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

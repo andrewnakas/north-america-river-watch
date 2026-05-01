@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13016450",
+  "key": "13016450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13016450",
+  "name": "FISH CREEK AT WILSON, WY",
+  "waterbody": "FISH CREEK AT WILSON, WY",
+  "state": "WY",
+  "latitude": 43.50076005,
+  "longitude": -110.8716,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCWW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fish Creek (WY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcww4",
+  "slug": "usgs-13016450",
+  "noaaForecastPath": "data/noaa-forecast/FCWW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

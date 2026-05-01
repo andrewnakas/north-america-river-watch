@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06431500",
+  "key": "06431500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06431500",
+  "name": "SPEARFISH CREEK AT SPEARFISH,SD",
+  "waterbody": "SPEARFISH CREEK AT SPEARFISH,SD",
+  "state": "SD",
+  "latitude": 44.48248388,
+  "longitude": -103.861592,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFHS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spearfish Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfhs2",
+  "slug": "usgs-06431500",
+  "noaaForecastPath": "data/noaa-forecast/SFHS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

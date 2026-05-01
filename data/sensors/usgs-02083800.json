@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02083800",
+  "key": "02083800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02083800",
+  "name": "CONETOE CREEK NEAR BETHEL, NC",
+  "waterbody": "CONETOE CREEK NEAR BETHEL, NC",
+  "state": "NC",
+  "latitude": 35.77599167,
+  "longitude": -77.4621915,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02083800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

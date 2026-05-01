@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05590050",
+  "key": "05590050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05590050",
+  "name": "COPPER SLOUGH AT CHAMPAIGN, IL",
+  "waterbody": "COPPER SLOUGH AT CHAMPAIGN, IL",
+  "state": "IL",
+  "latitude": 40.0972222,
+  "longitude": -88.30725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMII2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Copper Slough",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmii2",
+  "slug": "usgs-05590050",
+  "noaaForecastPath": "data/noaa-forecast/CMII2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

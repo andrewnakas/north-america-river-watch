@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08049700",
+  "key": "08049700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08049700",
+  "name": "Walnut Ck nr Mansfield, TX",
+  "waterbody": "Walnut Ck nr Mansfield, TX",
+  "state": "TX",
+  "latitude": 32.5809695,
+  "longitude": -97.1019533,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnft2",
+  "slug": "usgs-08049700",
+  "noaaForecastPath": "data/noaa-forecast/MNFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

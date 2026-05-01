@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01087000",
+  "key": "01087000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01087000",
+  "name": "BLACKWATER RIVER NEAR WEBSTER, NH",
+  "waterbody": "BLACKWATER RIVER NEAR WEBSTER, NH",
+  "state": "NH",
+  "latitude": 43.2970225,
+  "longitude": -71.6945212,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01087000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

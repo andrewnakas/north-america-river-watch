@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02303180",
+  "key": "02303180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02303180",
+  "name": "PEMBERTON CK AT WALLACE BRANCH RD NR PLANT CITY FL",
+  "waterbody": "PEMBERTON CK AT WALLACE BRANCH RD NR PLANT CITY FL",
+  "state": "FL",
+  "latitude": 28.04057533,
+  "longitude": -82.1542538,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02303180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

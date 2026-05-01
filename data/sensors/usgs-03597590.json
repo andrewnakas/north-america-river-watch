@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03597590",
+  "key": "03597590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03597590",
+  "name": "WARTRACE CREEK BELOW COUNTY ROAD AT WARTRACE, TN",
+  "waterbody": "WARTRACE CREEK BELOW COUNTY ROAD AT WARTRACE, TN",
+  "state": "TN",
+  "latitude": 35.52729537,
+  "longitude": -86.340271,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRTT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wartrace Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrtt1",
+  "slug": "usgs-03597590",
+  "noaaForecastPath": "data/noaa-forecast/WRTT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

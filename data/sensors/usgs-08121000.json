@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08121000",
+  "key": "08121000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08121000",
+  "name": "Colorado Rv at Colorado City, TX",
+  "waterbody": "Colorado Rv at Colorado City, TX",
+  "state": "TX",
+  "latitude": 32.39261865,
+  "longitude": -100.8787246,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX) 1 mile WSW of Colorado City",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdct2",
+  "slug": "usgs-08121000",
+  "noaaForecastPath": "data/noaa-forecast/CDCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

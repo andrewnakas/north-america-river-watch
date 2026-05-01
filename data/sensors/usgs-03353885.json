@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353885",
+  "key": "03353885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353885",
+  "name": "EAST FORK WHITE LICK CREEK AT BRIDGEPORT, IN",
+  "waterbody": "EAST FORK WHITE LICK CREEK AT BRIDGEPORT, IN",
+  "state": "IN",
+  "latitude": 39.72920257,
+  "longitude": -86.3227512,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRPI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork White Lick Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brpi3",
+  "slug": "usgs-03353885",
+  "noaaForecastPath": "data/noaa-forecast/BRPI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

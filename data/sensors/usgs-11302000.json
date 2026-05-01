@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11302000",
+  "key": "11302000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11302000",
+  "name": "STANISLAUS R BL GOODWIN DAM NR KNIGHTS FERRY CA",
+  "waterbody": "STANISLAUS R BL GOODWIN DAM NR KNIGHTS FERRY CA",
+  "state": "CA",
+  "latitude": 37.85159385,
+  "longitude": -120.6379816,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11302000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

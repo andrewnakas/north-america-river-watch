@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06801000",
+  "key": "06801000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06801000",
+  "name": "Platte River near Ashland, Nebr.",
+  "waterbody": "Platte River near Ashland, Nebr.",
+  "state": "NE",
+  "latitude": 41.062256,
+  "longitude": -96.324514,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asln1",
+  "slug": "usgs-06801000",
+  "noaaForecastPath": "data/noaa-forecast/ASLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

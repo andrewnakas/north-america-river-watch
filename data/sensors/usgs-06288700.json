@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06288700",
+  "key": "06288700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06288700",
+  "name": "DF LITTLE BIGHORN R BL LICK C, NR BURGESS JCT, WY",
+  "waterbody": "DF LITTLE BIGHORN R BL LICK C, NR BURGESS JCT, WY",
+  "state": "WY",
+  "latitude": 44.88477778,
+  "longitude": -107.6138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06288700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

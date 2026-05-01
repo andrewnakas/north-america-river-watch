@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01671020",
+  "key": "01671020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01671020",
+  "name": "NORTH ANNA RIVER AT HART CORNER NEAR DOSWELL, VA",
+  "waterbody": "NORTH ANNA RIVER AT HART CORNER NEAR DOSWELL, VA",
+  "state": "VA",
+  "latitude": 37.85014024,
+  "longitude": -77.42775949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Anna River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrcv2",
+  "slug": "usgs-01671020",
+  "noaaForecastPath": "data/noaa-forecast/HRCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

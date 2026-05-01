@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01170500",
+  "key": "01170500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01170500",
+  "name": "CONNECTICUT RIVER AT MONTAGUE CITY, MA",
+  "waterbody": "CONNECTICUT RIVER AT MONTAGUE CITY, MA",
+  "state": "MA",
+  "latitude": 42.5802222,
+  "longitude": -72.5745,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNTM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mntm3",
+  "slug": "usgs-01170500",
+  "noaaForecastPath": "data/noaa-forecast/MNTM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

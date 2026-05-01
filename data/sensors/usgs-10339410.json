@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10339410",
+  "key": "10339410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10339410",
+  "name": "TRUCKEE R BL MARTIS C NR TRUCKEE CA",
+  "waterbody": "TRUCKEE R BL MARTIS C NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.35305556,
+  "longitude": -120.1194444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10339410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

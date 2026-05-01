@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16518000",
+  "key": "16518000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16518000",
+  "name": "West Wailuaiki Stream near Keanae, Maui, HI",
+  "waterbody": "West Wailuaiki Stream near Keanae, Maui, HI",
+  "state": "HI",
+  "latitude": 20.8143611,
+  "longitude": -156.1429722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWKH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Wailuaiki Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwkh1",
+  "slug": "usgs-16518000",
+  "noaaForecastPath": "data/noaa-forecast/WWKH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

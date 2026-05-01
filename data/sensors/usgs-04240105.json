@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04240105",
+  "key": "04240105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04240105",
+  "name": "HARBOR BROOK AT HIAWATHA BOULEVARD, SYRACUSE NY",
+  "waterbody": "HARBOR BROOK AT HIAWATHA BOULEVARD, SYRACUSE NY",
+  "state": "NY",
+  "latitude": 43.0561111,
+  "longitude": -76.185,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04240105",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

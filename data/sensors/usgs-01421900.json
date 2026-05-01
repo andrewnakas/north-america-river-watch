@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01421900",
+  "key": "01421900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01421900",
+  "name": "WEST BRANCH DELAWARE RIVER UPSTREAM FROM DELHI NY",
+  "waterbody": "WEST BRANCH DELAWARE RIVER UPSTREAM FROM DELHI NY",
+  "state": "NY",
+  "latitude": 42.280278,
+  "longitude": -74.907222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DELN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/deln6",
+  "slug": "usgs-01421900",
+  "noaaForecastPath": "data/noaa-forecast/DELN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

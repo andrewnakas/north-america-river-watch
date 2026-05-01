@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15087300",
+  "key": "15087300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15087300",
+  "name": "FALLS C NR PETERSBURG AK",
+  "waterbody": "FALLS C NR PETERSBURG AK",
+  "state": "AK",
+  "latitude": 56.6818693,
+  "longitude": -132.9239425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLSA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Falls Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flsa2",
+  "slug": "usgs-15087300",
+  "noaaForecastPath": "data/noaa-forecast/FLSA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

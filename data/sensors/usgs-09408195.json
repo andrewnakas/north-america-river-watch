@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09408195",
+  "key": "09408195",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09408195",
+  "name": "FORT PEARCE WASH NEAR ST. GEORGE, UT",
+  "waterbody": "FORT PEARCE WASH NEAR ST. GEORGE, UT",
+  "state": "UT",
+  "latitude": 37.00164939,
+  "longitude": -113.4688407,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09408195",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

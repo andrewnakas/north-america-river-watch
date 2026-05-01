@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13178000",
+  "key": "13178000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13178000",
+  "name": "JORDAN CREEK AB LONE TREE CR NR JORDAN VALLEY OR",
+  "waterbody": "JORDAN CREEK AB LONE TREE CR NR JORDAN VALLEY OR",
+  "state": "ID",
+  "latitude": 42.9125,
+  "longitude": -116.9944444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13178000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

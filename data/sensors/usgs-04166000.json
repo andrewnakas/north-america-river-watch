@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04166000",
+  "key": "04166000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04166000",
+  "name": "RIVER ROUGE AT BIRMINGHAM, MI",
+  "waterbody": "RIVER ROUGE AT BIRMINGHAM, MI",
+  "state": "MI",
+  "latitude": 42.5458678,
+  "longitude": -83.2235418,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rouge River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhrm4",
+  "slug": "usgs-04166000",
+  "noaaForecastPath": "data/noaa-forecast/BHRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

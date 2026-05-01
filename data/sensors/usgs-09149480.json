@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09149480",
+  "key": "09149480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09149480",
+  "name": "DRY CREEK AT BEGONIA RD, NR DELTA, CO.",
+  "waterbody": "DRY CREEK AT BEGONIA RD, NR DELTA, CO.",
+  "state": "CO",
+  "latitude": 38.64581836,
+  "longitude": -108.0489577,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09149480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

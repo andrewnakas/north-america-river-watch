@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05527500",
+  "key": "05527500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05527500",
+  "name": "KANKAKEE RIVER NEAR WILMINGTON, IL",
+  "waterbody": "KANKAKEE RIVER NEAR WILMINGTON, IL",
+  "state": "IL",
+  "latitude": 41.3463333,
+  "longitude": -88.1867222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kankakee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlmi2",
+  "slug": "usgs-05527500",
+  "noaaForecastPath": "data/noaa-forecast/WLMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02198750",
+  "key": "02198750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02198750",
+  "name": "SAVANNAH RIVER US MILL CREEK, NEAR RINCON, GA",
+  "waterbody": "SAVANNAH RIVER US MILL CREEK, NEAR RINCON, GA",
+  "state": "GA",
+  "latitude": 32.34858333,
+  "longitude": -81.1604444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02198750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

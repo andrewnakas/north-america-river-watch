@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15583500",
+  "key": "15583500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15583500",
+  "name": "ETTA C NR COUNCIL AK",
+  "waterbody": "ETTA C NR COUNCIL AK",
+  "state": "AK",
+  "latitude": 64.6981485,
+  "longitude": -164.1684432,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15583500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

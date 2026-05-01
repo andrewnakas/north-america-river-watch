@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02314500",
+  "key": "02314500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02314500",
+  "name": "SUWANNEE RIVER AT US 441, AT FARGO, GA",
+  "waterbody": "SUWANNEE RIVER AT US 441, AT FARGO, GA",
+  "state": "GA",
+  "latitude": 30.68102778,
+  "longitude": -82.56013889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FGOG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwannee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fgog1",
+  "slug": "usgs-02314500",
+  "noaaForecastPath": "data/noaa-forecast/FGOG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

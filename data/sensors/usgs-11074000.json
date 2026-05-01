@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11074000",
+  "key": "11074000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11074000",
+  "name": "SANTA ANA R BL PRADO DAM CA",
+  "waterbody": "SANTA ANA R BL PRADO DAM CA",
+  "state": "CA",
+  "latitude": 33.88334875,
+  "longitude": -117.6453296,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11074000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

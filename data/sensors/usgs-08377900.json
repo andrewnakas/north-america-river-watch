@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08377900",
+  "key": "08377900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08377900",
+  "name": "RIO MORA NEAR TERRERO, NM",
+  "waterbody": "RIO MORA NEAR TERRERO, NM",
+  "state": "NM",
+  "latitude": 35.77711389,
+  "longitude": -105.6580278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08377900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

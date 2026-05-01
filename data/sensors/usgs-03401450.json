@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03401450",
+  "key": "03401450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03401450",
+  "name": "STONY FORK NEAR MOUTH AT MIDDLESBORO, KY",
+  "waterbody": "STONY FORK NEAR MOUTH AT MIDDLESBORO, KY",
+  "state": "KY",
+  "latitude": 36.61424859,
+  "longitude": -83.7532502,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03401450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

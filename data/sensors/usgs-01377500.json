@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01377500",
+  "key": "01377500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01377500",
+  "name": "Pascack Brook at Westwood NJ",
+  "waterbody": "Pascack Brook at Westwood NJ",
+  "state": "NJ",
+  "latitude": 40.99277778,
+  "longitude": -74.0211111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSDN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pascack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsdn4",
+  "slug": "usgs-01377500",
+  "noaaForecastPath": "data/noaa-forecast/WSDN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

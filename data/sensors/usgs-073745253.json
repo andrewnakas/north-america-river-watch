@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073745253",
+  "key": "073745253",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073745253",
+  "name": "Reggio Canal near Wills Point, LA",
+  "waterbody": "Reggio Canal near Wills Point, LA",
+  "state": "LA",
+  "latitude": 29.78416667,
+  "longitude": -89.9375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WILL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Breton Sound Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/will1",
+  "slug": "usgs-073745253",
+  "noaaForecastPath": "data/noaa-forecast/WILL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

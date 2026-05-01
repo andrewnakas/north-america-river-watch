@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09338900",
+  "key": "09338900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09338900",
+  "name": "DEER CREEK NEAR BOULDER, UT",
+  "waterbody": "DEER CREEK NEAR BOULDER, UT",
+  "state": "UT",
+  "latitude": 37.85332098,
+  "longitude": -111.3551679,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09338900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

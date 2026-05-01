@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12445500",
+  "key": "12445500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12445500",
+  "name": "JOHNSON CREEK NEAR RIVERSIDE, WA",
+  "waterbody": "JOHNSON CREEK NEAR RIVERSIDE, WA",
+  "state": "WA",
+  "latitude": 48.4970458,
+  "longitude": -119.5261544,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12445500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

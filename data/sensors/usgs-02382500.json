@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02382500",
+  "key": "02382500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02382500",
+  "name": "COOSAWATTEE RIVER AT CARTERS, GA",
+  "waterbody": "COOSAWATTEE RIVER AT CARTERS, GA",
+  "state": "GA",
+  "latitude": 34.60380556,
+  "longitude": -84.6957778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CATG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosawattee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/catg1",
+  "slug": "usgs-02382500",
+  "noaaForecastPath": "data/noaa-forecast/CATG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

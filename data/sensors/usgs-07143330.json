@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07143330",
+  "key": "07143330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07143330",
+  "name": "ARKANSAS R NR HUTCHINSON, KS",
+  "waterbody": "ARKANSAS R NR HUTCHINSON, KS",
+  "state": "KS",
+  "latitude": 37.94614167,
+  "longitude": -97.7751194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAVK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/havk1",
+  "slug": "usgs-07143330",
+  "noaaForecastPath": "data/noaa-forecast/HAVK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

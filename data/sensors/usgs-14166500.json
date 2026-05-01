@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14166500",
+  "key": "14166500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14166500",
+  "name": "LONG TOM RIVER NEAR NOTI, OR",
+  "waterbody": "LONG TOM RIVER NEAR NOTI, OR",
+  "state": "OR",
+  "latitude": 44.04984478,
+  "longitude": -123.4262097,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NOTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Tom River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/noto3",
+  "slug": "usgs-14166500",
+  "noaaForecastPath": "data/noaa-forecast/NOTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

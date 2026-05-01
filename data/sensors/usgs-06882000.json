@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06882000",
+  "key": "06882000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06882000",
+  "name": "Big Blue River at Barneston, Nebr.",
+  "waterbody": "Big Blue River at Barneston, Nebr.",
+  "state": "NE",
+  "latitude": 40.04463611,
+  "longitude": -96.58738611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BARN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/barn1",
+  "slug": "usgs-06882000",
+  "noaaForecastPath": "data/noaa-forecast/BARN1.json",
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06770255",
+  "key": "06770255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06770255",
+  "name": "DOWNSTREAM DRAIN NR NEWARK, NE",
+  "waterbody": "DOWNSTREAM DRAIN NR NEWARK, NE",
+  "state": "NE",
+  "latitude": 40.6405694,
+  "longitude": -98.9192478,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06770255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

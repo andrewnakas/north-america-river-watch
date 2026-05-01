@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178565",
+  "key": "08178565",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178565",
+  "name": "San Antonio Rv at Loop 410, San Antonio, TX",
+  "waterbody": "San Antonio Rv at Loop 410, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.32218095,
+  "longitude": -98.450322,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Antonio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snpt2",
+  "slug": "usgs-08178565",
+  "noaaForecastPath": "data/noaa-forecast/SNPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

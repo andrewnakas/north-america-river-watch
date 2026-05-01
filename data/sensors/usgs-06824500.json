@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06824500",
+  "key": "06824500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06824500",
+  "name": "Republican River at Benkelman, Nebr.",
+  "waterbody": "Republican River at Benkelman, Nebr.",
+  "state": "NE",
+  "latitude": 40.033783,
+  "longitude": -101.543058,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BENN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/benn1",
+  "slug": "usgs-06824500",
+  "noaaForecastPath": "data/noaa-forecast/BENN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

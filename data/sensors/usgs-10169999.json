@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10169999",
+  "key": "10169999",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10169999",
+  "name": "MILL CREEK (CHANNEL) NEAR SALT LAKE CITY, UT",
+  "waterbody": "MILL CREEK (CHANNEL) NEAR SALT LAKE CITY, UT",
+  "state": "UT",
+  "latitude": 40.68883617,
+  "longitude": -111.78271,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10169999",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

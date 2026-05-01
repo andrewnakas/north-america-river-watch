@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11337190",
+  "key": "11337190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11337190",
+  "name": "SAN JOAQUIN R A JERSEY POINT CA",
+  "waterbody": "SAN JOAQUIN R A JERSEY POINT CA",
+  "state": "CA",
+  "latitude": 38.0521424,
+  "longitude": -121.6888428,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Joaquin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrsc1",
+  "slug": "usgs-11337190",
+  "noaaForecastPath": "data/noaa-forecast/JRSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

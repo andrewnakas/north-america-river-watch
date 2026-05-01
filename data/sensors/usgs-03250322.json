@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03250322",
+  "key": "03250322",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03250322",
+  "name": "ROCK LICK CR AT STATE HWY 158 NR SHARKEY, KY STA D",
+  "waterbody": "ROCK LICK CR AT STATE HWY 158 NR SHARKEY, KY STA D",
+  "state": "KY",
+  "latitude": 38.24730198,
+  "longitude": -83.5893567,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03250322",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

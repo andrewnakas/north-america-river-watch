@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05053000",
+  "key": "05053000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05053000",
+  "name": "WILD RICE RIVER NEAR ABERCROMBIE, ND",
+  "waterbody": "WILD RICE RIVER NEAR ABERCROMBIE, ND",
+  "state": "ND",
+  "latitude": 46.47052563,
+  "longitude": -96.78229235,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wild Rice River (ND)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abrn8",
+  "slug": "usgs-05053000",
+  "noaaForecastPath": "data/noaa-forecast/ABRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

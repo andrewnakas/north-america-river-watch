@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01456887",
+  "key": "01456887",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01456887",
+  "name": "Musconetcong River US of Trib 4 nr Asbury NJ",
+  "waterbody": "Musconetcong River US of Trib 4 nr Asbury NJ",
+  "state": "NJ",
+  "latitude": 40.6792222,
+  "longitude": -75.046,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01456887",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

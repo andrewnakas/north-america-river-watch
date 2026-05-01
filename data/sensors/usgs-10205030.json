@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10205030",
+  "key": "10205030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10205030",
+  "name": "SALINA CREEK NEAR EMERY, UT",
+  "waterbody": "SALINA CREEK NEAR EMERY, UT",
+  "state": "UT",
+  "latitude": 38.9119141,
+  "longitude": -111.5304654,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10205030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

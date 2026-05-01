@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06337200",
+  "key": "06337200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06337200",
+  "name": "CHERRY CREEK ON STATE HIGHWAY 23 NEAR SCHAFER, ND",
+  "waterbody": "CHERRY CREEK ON STATE HIGHWAY 23 NEAR SCHAFER, ND",
+  "state": "ND",
+  "latitude": 47.8051944,
+  "longitude": -103.1759944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06337200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

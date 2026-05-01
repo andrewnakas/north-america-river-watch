@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11390500",
+  "key": "11390500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11390500",
+  "name": "SACRAMENTO R BL WILKINS SLOUGH NR GRIMES CA",
+  "waterbody": "SACRAMENTO R BL WILKINS SLOUGH NR GRIMES CA",
+  "state": "CA",
+  "latitude": 39.00987205,
+  "longitude": -121.8246576,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLKC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacramento River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlkc1",
+  "slug": "usgs-11390500",
+  "noaaForecastPath": "data/noaa-forecast/WLKC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

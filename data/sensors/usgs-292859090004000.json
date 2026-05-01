@@ -1,0 +1,22 @@
+{
+  "id": "usgs:292859090004000",
+  "key": "292859090004000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "292859090004000",
+  "name": "Barataria Waterway S of Lafitte, LA",
+  "waterbody": "Barataria Waterway S of Lafitte, LA",
+  "state": "LA",
+  "latitude": 29.48305556,
+  "longitude": -90.0111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BARL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barataria Bay and Waterway 14 miles SSE of Lafitte",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/barl1",
+  "slug": "usgs-292859090004000",
+  "noaaForecastPath": "data/noaa-forecast/BARL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

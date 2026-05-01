@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07064533",
+  "key": "07064533",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07064533",
+  "name": "Current River above Akers, MO",
+  "waterbody": "Current River above Akers, MO",
+  "state": "MO",
+  "latitude": 37.37569444,
+  "longitude": -91.5528056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AKFM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Current River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/akfm7",
+  "slug": "usgs-07064533",
+  "noaaForecastPath": "data/noaa-forecast/AKFM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

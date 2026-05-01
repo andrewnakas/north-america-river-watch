@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14046778",
+  "key": "14046778",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14046778",
+  "name": "BRIDGE CR ABV COYOTE CANYON NR MITCHELL, OR",
+  "waterbody": "BRIDGE CR ABV COYOTE CANYON NR MITCHELL, OR",
+  "state": "OR",
+  "latitude": 44.7268722,
+  "longitude": -120.3019167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDGO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bridge Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdgo3",
+  "slug": "usgs-14046778",
+  "noaaForecastPath": "data/noaa-forecast/BDGO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08116400",
+  "key": "08116400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08116400",
+  "name": "Dry Ck nr Rosenberg, TX",
+  "waterbody": "Dry Ck nr Rosenberg, TX",
+  "state": "TX",
+  "latitude": 29.51190593,
+  "longitude": -95.7468942,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08116400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:300507091355600",
+  "key": "300507091355600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "300507091355600",
+  "name": "Bayou Darby near Lake Fausse Point Cut",
+  "waterbody": "Bayou Darby near Lake Fausse Point Cut",
+  "state": "LA",
+  "latitude": 30.08527778,
+  "longitude": -91.5988889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-300507091355600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

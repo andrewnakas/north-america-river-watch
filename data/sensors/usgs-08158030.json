@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158030",
+  "key": "08158030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158030",
+  "name": "Boggy Ck at Manor Rd, Austin, TX",
+  "waterbody": "Boggy Ck at Manor Rd, Austin, TX",
+  "state": "TX",
+  "latitude": 30.2861111,
+  "longitude": -97.7086111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boggy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgmt2",
+  "slug": "usgs-08158030",
+  "noaaForecastPath": "data/noaa-forecast/BGMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

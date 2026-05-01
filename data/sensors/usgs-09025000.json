@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09025000",
+  "key": "09025000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09025000",
+  "name": "VASQUEZ CREEK AT WINTER PARK, CO",
+  "waterbody": "VASQUEZ CREEK AT WINTER PARK, CO",
+  "state": "CO",
+  "latitude": 39.92026468,
+  "longitude": -105.7852857,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09025000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

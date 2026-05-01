@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12090380",
+  "key": "12090380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12090380",
+  "name": "UNNAMED TRIB AT 99TH ST EAST NEAR PARKLAND, WA",
+  "waterbody": "UNNAMED TRIB AT 99TH ST EAST NEAR PARKLAND, WA",
+  "state": "WA",
+  "latitude": 47.1673216,
+  "longitude": -122.4120665,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12090380",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

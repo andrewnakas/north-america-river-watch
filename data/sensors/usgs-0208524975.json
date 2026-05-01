@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208524975",
+  "key": "0208524975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208524975",
+  "name": "LITTLE R BL LITTLE R TRIB AT FAIRNTOSH, NC",
+  "waterbody": "LITTLE R BL LITTLE R TRIB AT FAIRNTOSH, NC",
+  "state": "NC",
+  "latitude": 36.1133333,
+  "longitude": -78.8597222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fthn7",
+  "slug": "usgs-0208524975",
+  "noaaForecastPath": "data/noaa-forecast/FTHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

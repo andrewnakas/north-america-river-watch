@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03076800",
+  "key": "03076800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03076800",
+  "name": "MILL RUN AT MINERAL SPRING, MD",
+  "waterbody": "MILL RUN AT MINERAL SPRING, MD",
+  "state": "MD",
+  "latitude": 39.70894444,
+  "longitude": -79.3643611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03076800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

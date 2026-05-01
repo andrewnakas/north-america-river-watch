@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02465005",
+  "key": "02465005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02465005",
+  "name": "BLACK WARRIOR R BL OLIVER L&D NEAR TUSCALOOSA, AL.",
+  "waterbody": "BLACK WARRIOR R BL OLIVER L&D NEAR TUSCALOOSA, AL.",
+  "state": "AL",
+  "latitude": 33.20789644,
+  "longitude": -87.5933408,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TODA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Warrior River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/toda1",
+  "slug": "usgs-02465005",
+  "noaaForecastPath": "data/noaa-forecast/TODA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

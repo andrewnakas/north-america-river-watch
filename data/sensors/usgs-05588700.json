@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05588700",
+  "key": "05588700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05588700",
+  "name": "JUDYS BRANCH AT OAK LAWN EST AT GLEN CARBON, IL",
+  "waterbody": "JUDYS BRANCH AT OAK LAWN EST AT GLEN CARBON, IL",
+  "state": "IL",
+  "latitude": 38.761159,
+  "longitude": -89.9473232,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05588700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

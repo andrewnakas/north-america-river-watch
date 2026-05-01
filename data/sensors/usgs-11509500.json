@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11509500",
+  "key": "11509500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11509500",
+  "name": "KLAMATH RIVER AT KENO, OR",
+  "waterbody": "KLAMATH RIVER AT KENO, OR",
+  "state": "OR",
+  "latitude": 42.13319946,
+  "longitude": -121.9622313,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KEOO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Klamath River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/keoo3",
+  "slug": "usgs-11509500",
+  "noaaForecastPath": "data/noaa-forecast/KEOO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

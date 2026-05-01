@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12392000",
+  "key": "12392000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12392000",
+  "name": "CLARK FORK AT WHITEHORSE RAPIDS NR CABINET ID",
+  "waterbody": "CLARK FORK AT WHITEHORSE RAPIDS NR CABINET ID",
+  "state": "ID",
+  "latitude": 48.09166667,
+  "longitude": -116.1166667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12392000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

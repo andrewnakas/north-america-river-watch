@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06416000",
+  "key": "06416000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06416000",
+  "name": "RAPID CREEK BLW HAWTHORN DITCH AT RAPID CITY,SD",
+  "waterbody": "RAPID CREEK BLW HAWTHORN DITCH AT RAPID CITY,SD",
+  "state": "SD",
+  "latitude": 44.06726568,
+  "longitude": -103.18093,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAWS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/haws2",
+  "slug": "usgs-06416000",
+  "noaaForecastPath": "data/noaa-forecast/HAWS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

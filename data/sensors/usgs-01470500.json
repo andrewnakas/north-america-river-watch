@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01470500",
+  "key": "01470500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01470500",
+  "name": "Schuylkill River at Berne, PA",
+  "waterbody": "Schuylkill River at Berne, PA",
+  "state": "PA",
+  "latitude": 40.5225932,
+  "longitude": -75.99826819,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BREP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schuylkill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brep1",
+  "slug": "usgs-01470500",
+  "noaaForecastPath": "data/noaa-forecast/BREP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

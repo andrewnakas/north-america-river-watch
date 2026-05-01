@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08076997",
+  "key": "08076997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08076997",
+  "name": "Clear Ck at Mykawa St nr Pearland, TX",
+  "waterbody": "Clear Ck at Mykawa St nr Pearland, TX",
+  "state": "TX",
+  "latitude": 29.5968991,
+  "longitude": -95.2974366,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prlt2",
+  "slug": "usgs-08076997",
+  "noaaForecastPath": "data/noaa-forecast/PRLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

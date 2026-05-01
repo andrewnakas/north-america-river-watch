@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03064800",
+  "key": "03064800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03064800",
+  "name": "DRY FORK AT GLADWIN, WV",
+  "waterbody": "DRY FORK AT GLADWIN, WV",
+  "state": "WV",
+  "latitude": 39.01577778,
+  "longitude": -79.5313056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLDW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gldw2",
+  "slug": "usgs-03064800",
+  "noaaForecastPath": "data/noaa-forecast/GLDW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

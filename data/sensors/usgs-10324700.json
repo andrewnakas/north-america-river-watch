@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10324700",
+  "key": "10324700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10324700",
+  "name": "BOULDER CK NR DUNPHY, NV",
+  "waterbody": "BOULDER CK NR DUNPHY, NV",
+  "state": "NV",
+  "latitude": 40.95491015,
+  "longitude": -116.4400903,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10324700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06768000",
+  "key": "06768000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06768000",
+  "name": "Platte River near Overton, Nebr.",
+  "waterbody": "Platte River near Overton, Nebr.",
+  "state": "NE",
+  "latitude": 40.68257222,
+  "longitude": -99.54023611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OVTN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ovtn1",
+  "slug": "usgs-06768000",
+  "noaaForecastPath": "data/noaa-forecast/OVTN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

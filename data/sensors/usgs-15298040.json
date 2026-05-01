@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15298040",
+  "key": "15298040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15298040",
+  "name": "CHULITNA R 5MI AB MOUTH NR PORT ALSWORTH AK",
+  "waterbody": "CHULITNA R 5MI AB MOUTH NR PORT ALSWORTH AK",
+  "state": "AK",
+  "latitude": 60.2036591,
+  "longitude": -154.7044349,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15298040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

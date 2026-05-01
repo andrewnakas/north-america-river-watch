@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07159100",
+  "key": "07159100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07159100",
+  "name": "Cimarron River near Dover, OK",
+  "waterbody": "Cimarron River near Dover, OK",
+  "state": "OK",
+  "latitude": 35.95170756,
+  "longitude": -97.9144994,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOVO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cimarron River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dovo2",
+  "slug": "usgs-07159100",
+  "noaaForecastPath": "data/noaa-forecast/DOVO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

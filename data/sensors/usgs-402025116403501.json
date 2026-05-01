@@ -1,0 +1,22 @@
+{
+  "id": "usgs:402025116403501",
+  "key": "402025116403501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "402025116403501",
+  "name": "INDIAN CK AT CRESCENT VALLEY, NV",
+  "waterbody": "INDIAN CK AT CRESCENT VALLEY, NV",
+  "state": "NV",
+  "latitude": 40.3403333,
+  "longitude": -116.6764722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ICCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iccn2",
+  "slug": "usgs-402025116403501",
+  "noaaForecastPath": "data/noaa-forecast/ICCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

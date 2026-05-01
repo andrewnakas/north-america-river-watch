@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09404120",
+  "key": "09404120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404120",
+  "name": "COLORADO R ABV NATIONAL CANYON NR SUPAI",
+  "waterbody": "COLORADO R ABV NATIONAL CANYON NR SUPAI",
+  "state": "AZ",
+  "latitude": 36.25971509,
+  "longitude": -112.8907702,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09404120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

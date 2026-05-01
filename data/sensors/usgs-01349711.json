@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01349711",
+  "key": "01349711",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01349711",
+  "name": "WEST KILL BELOW HUNTER BROOK NEAR SPRUCETON NY",
+  "waterbody": "WEST KILL BELOW HUNTER BROOK NEAR SPRUCETON NY",
+  "state": "NY",
+  "latitude": 42.18505556,
+  "longitude": -74.2771111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01349711",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

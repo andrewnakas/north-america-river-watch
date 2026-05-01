@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08015910",
+  "key": "08015910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08015910",
+  "name": "Calcasieu River at Hwy 171 at Moss Bluff, LA",
+  "waterbody": "Calcasieu River at Hwy 171 at Moss Bluff, LA",
+  "state": "LA",
+  "latitude": 30.2861111,
+  "longitude": -93.1889167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08015910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

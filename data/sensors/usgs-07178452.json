@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07178452",
+  "key": "07178452",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07178452",
+  "name": "Verdigris River near Catoosa, OK",
+  "waterbody": "Verdigris River near Catoosa, OK",
+  "state": "OK",
+  "latitude": 36.20388889,
+  "longitude": -95.7066667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTOO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verdigris River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctoo2",
+  "slug": "usgs-07178452",
+  "noaaForecastPath": "data/noaa-forecast/CTOO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

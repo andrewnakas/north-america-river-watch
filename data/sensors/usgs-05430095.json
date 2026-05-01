@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05430095",
+  "key": "05430095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05430095",
+  "name": "BADFISH CREEK AT CNTY HIGHWAY A NEAR STOUGHTON, WI",
+  "waterbody": "BADFISH CREEK AT CNTY HIGHWAY A NEAR STOUGHTON, WI",
+  "state": "WI",
+  "latitude": 42.8936173,
+  "longitude": -89.298685,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05430095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

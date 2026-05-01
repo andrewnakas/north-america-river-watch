@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14198400",
+  "key": "14198400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14198400",
+  "name": "BULL CREEK NEAR WILHOIT, OR",
+  "waterbody": "BULL CREEK NEAR WILHOIT, OR",
+  "state": "OR",
+  "latitude": 44.9609,
+  "longitude": -122.385,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14198400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

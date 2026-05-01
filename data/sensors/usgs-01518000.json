@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01518000",
+  "key": "01518000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01518000",
+  "name": "Tioga River at Tioga, PA",
+  "waterbody": "Tioga River at Tioga, PA",
+  "state": "PA",
+  "latitude": 41.90833256,
+  "longitude": -77.1293867,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TGRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tioga River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tgrp1",
+  "slug": "usgs-01518000",
+  "noaaForecastPath": "data/noaa-forecast/TGRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

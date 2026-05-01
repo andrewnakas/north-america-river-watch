@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07288847",
+  "key": "07288847",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07288847",
+  "name": "STEELE BAYOU NR GLEN ALLAN, MS",
+  "waterbody": "STEELE BAYOU NR GLEN ALLAN, MS",
+  "state": "MS",
+  "latitude": 33.03151289,
+  "longitude": -90.9981598,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBAM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Steele Bayou",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbam6",
+  "slug": "usgs-07288847",
+  "noaaForecastPath": "data/noaa-forecast/SBAM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02291001",
+  "key": "02291001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02291001",
+  "name": "BARRON RIVER BELOW SR29-3 AT COPELAND, FL",
+  "waterbody": "BARRON RIVER BELOW SR29-3 AT COPELAND, FL",
+  "state": "FL",
+  "latitude": 25.95794444,
+  "longitude": -81.35519444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02291001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06903990",
+  "key": "06903990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06903990",
+  "name": "Cooper Creek at Centerville, IA",
+  "waterbody": "Cooper Creek at Centerville, IA",
+  "state": "IA",
+  "latitude": 40.75091667,
+  "longitude": -92.8582222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CENI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cooper Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ceni4",
+  "slug": "usgs-06903990",
+  "noaaForecastPath": "data/noaa-forecast/CENI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

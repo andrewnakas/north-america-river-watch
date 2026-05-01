@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06353000",
+  "key": "06353000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06353000",
+  "name": "CEDAR CREEK NR RALEIGH, ND",
+  "waterbody": "CEDAR CREEK NR RALEIGH, ND",
+  "state": "ND",
+  "latitude": 46.09166988,
+  "longitude": -101.333742,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLGN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (ND)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rlgn8",
+  "slug": "usgs-06353000",
+  "noaaForecastPath": "data/noaa-forecast/RLGN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

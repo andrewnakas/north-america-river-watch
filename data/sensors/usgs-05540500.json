@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05540500",
+  "key": "05540500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05540500",
+  "name": "DU PAGE RIVER AT SHOREWOOD, IL",
+  "waterbody": "DU PAGE RIVER AT SHOREWOOD, IL",
+  "state": "IL",
+  "latitude": 41.52230278,
+  "longitude": -88.1928694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SORI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Du Page River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sori2",
+  "slug": "usgs-05540500",
+  "noaaForecastPath": "data/noaa-forecast/SORI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

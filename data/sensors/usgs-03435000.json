@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03435000",
+  "key": "03435000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03435000",
+  "name": "CUMBERLAND RIVER BELOW CHEATHAM DAM, TN",
+  "waterbody": "CUMBERLAND RIVER BELOW CHEATHAM DAM, TN",
+  "state": "TN",
+  "latitude": 36.32290298,
+  "longitude": -87.2282645,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHET1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chet1",
+  "slug": "usgs-03435000",
+  "noaaForecastPath": "data/noaa-forecast/CHET1.json",
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

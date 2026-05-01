@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07299670",
+  "key": "07299670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07299670",
+  "name": "Groesbeck Ck at SH 6 nr Quanah, TX",
+  "waterbody": "Groesbeck Ck at SH 6 nr Quanah, TX",
+  "state": "TX",
+  "latitude": 34.35451979,
+  "longitude": -99.7403719,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QGCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Groesbeck Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qgct2",
+  "slug": "usgs-07299670",
+  "noaaForecastPath": "data/noaa-forecast/QGCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

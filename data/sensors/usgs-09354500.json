@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09354500",
+  "key": "09354500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09354500",
+  "name": "LOS PINOS RIVER AT LA BOCA, CO.",
+  "waterbody": "LOS PINOS RIVER AT LA BOCA, CO.",
+  "state": "CO",
+  "latitude": 37.00945356,
+  "longitude": -107.59951472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09354500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

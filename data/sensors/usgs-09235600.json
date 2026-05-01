@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09235600",
+  "key": "09235600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09235600",
+  "name": "POT CREEK ABOVE DIVERSIONS, NEAR VERNAL, UTAH",
+  "waterbody": "POT CREEK ABOVE DIVERSIONS, NEAR VERNAL, UTAH",
+  "state": "UT",
+  "latitude": 40.768015,
+  "longitude": -109.3190219,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09235600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04273800",
+  "key": "04273800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04273800",
+  "name": "LITTLE AUSABLE RIVER NEAR VALCOUR NY",
+  "waterbody": "LITTLE AUSABLE RIVER NEAR VALCOUR NY",
+  "state": "NY",
+  "latitude": 44.59427778,
+  "longitude": -73.4963333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Ausable River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lphn6",
+  "slug": "usgs-04273800",
+  "noaaForecastPath": "data/noaa-forecast/LPHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

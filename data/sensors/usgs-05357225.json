@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05357225",
+  "key": "05357225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05357225",
+  "name": "STEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI",
+  "waterbody": "STEVENSON CREEK @ CT HWY M NR BOULDER JUNCTION, WI",
+  "state": "WI",
+  "latitude": 46.06138889,
+  "longitude": -89.6472222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05357225",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

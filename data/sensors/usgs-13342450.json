@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13342450",
+  "key": "13342450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13342450",
+  "name": "LAPWAI CREEK NR LAPWAI, ID",
+  "waterbody": "LAPWAI CREEK NR LAPWAI, ID",
+  "state": "ID",
+  "latitude": 46.42638889,
+  "longitude": -116.806111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAPI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lapwai Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lapi1",
+  "slug": "usgs-13342450",
+  "noaaForecastPath": "data/noaa-forecast/LAPI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

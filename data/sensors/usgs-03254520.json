@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03254520",
+  "key": "03254520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03254520",
+  "name": "LICKING RIVER AT HWY 536 NEAR ALEXANDRIA, KY",
+  "waterbody": "LICKING RIVER AT HWY 536 NEAR ALEXANDRIA, KY",
+  "state": "KY",
+  "latitude": 38.9203417,
+  "longitude": -84.44799549,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLIK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Licking River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlik2",
+  "slug": "usgs-03254520",
+  "noaaForecastPath": "data/noaa-forecast/VLIK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

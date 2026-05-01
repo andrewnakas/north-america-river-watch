@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06191500",
+  "key": "06191500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06191500",
+  "name": "Yellowstone River at Corwin Springs MT",
+  "waterbody": "Yellowstone River at Corwin Springs MT",
+  "state": "MT",
+  "latitude": 45.1121194,
+  "longitude": -110.7936667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CORM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellowstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/corm8",
+  "slug": "usgs-06191500",
+  "noaaForecastPath": "data/noaa-forecast/CORM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

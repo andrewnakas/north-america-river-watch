@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01426500",
+  "key": "01426500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01426500",
+  "name": "WEST BRANCH DELAWARE RIVER AT HALE EDDY NY",
+  "waterbody": "WEST BRANCH DELAWARE RIVER AT HALE EDDY NY",
+  "state": "NY",
+  "latitude": 42.00302778,
+  "longitude": -75.38352778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLEN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlen6",
+  "slug": "usgs-01426500",
+  "noaaForecastPath": "data/noaa-forecast/HLEN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

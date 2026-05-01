@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09333500",
+  "key": "09333500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09333500",
+  "name": "DIRTY DEVIL R AB POISON SP WSH NR HANKSVILLE UT",
+  "waterbody": "DIRTY DEVIL R AB POISON SP WSH NR HANKSVILLE UT",
+  "state": "UT",
+  "latitude": 38.0971222,
+  "longitude": -110.4074167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DDHU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dirty Devil",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ddhu1",
+  "slug": "usgs-09333500",
+  "noaaForecastPath": "data/noaa-forecast/DDHU1.json",
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05548500",
+  "key": "05548500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05548500",
+  "name": "FOX RIVER AT JOHNSBURG, IL",
+  "waterbody": "FOX RIVER AT JOHNSBURG, IL",
+  "state": "IL",
+  "latitude": 42.376325,
+  "longitude": -88.23673889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JHNI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jhni2",
+  "slug": "usgs-05548500",
+  "noaaForecastPath": "data/noaa-forecast/JHNI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

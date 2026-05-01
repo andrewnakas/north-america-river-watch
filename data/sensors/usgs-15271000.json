@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15271000",
+  "key": "15271000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15271000",
+  "name": "SIXMILE C NR HOPE AK",
+  "waterbody": "SIXMILE C NR HOPE AK",
+  "state": "AK",
+  "latitude": 60.820833,
+  "longitude": -149.425278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIXA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sixmile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sixa2",
+  "slug": "usgs-15271000",
+  "noaaForecastPath": "data/noaa-forecast/SIXA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06303700",
+  "key": "06303700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06303700",
+  "name": "LITTLE GOOSE CREEK AB DAVIS CK, NR BIG HORN, WY",
+  "waterbody": "LITTLE GOOSE CREEK AB DAVIS CK, NR BIG HORN, WY",
+  "state": "WY",
+  "latitude": 44.62080366,
+  "longitude": -107.0381214,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGDW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Goose Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgdw4",
+  "slug": "usgs-06303700",
+  "noaaForecastPath": "data/noaa-forecast/LGDW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

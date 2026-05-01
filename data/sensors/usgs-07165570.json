@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07165570",
+  "key": "07165570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07165570",
+  "name": "Arkansas River near Haskell, OK",
+  "waterbody": "Arkansas River near Haskell, OK",
+  "state": "OK",
+  "latitude": 35.82277778,
+  "longitude": -95.6377778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HSKO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hsko2",
+  "slug": "usgs-07165570",
+  "noaaForecastPath": "data/noaa-forecast/HSKO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

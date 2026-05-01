@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07287480",
+  "key": "07287480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07287480",
+  "name": "PINEY CREEK NEAR YAZOO CITY, MISS.",
+  "waterbody": "PINEY CREEK NEAR YAZOO CITY, MISS.",
+  "state": "MS",
+  "latitude": 32.90707575,
+  "longitude": -90.382035,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07287480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

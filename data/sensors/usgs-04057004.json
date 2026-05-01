@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04057004",
+  "key": "04057004",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04057004",
+  "name": "MANISTIQUE RIVER ABOVE MANISTIQUE, MI",
+  "waterbody": "MANISTIQUE RIVER ABOVE MANISTIQUE, MI",
+  "state": "MI",
+  "latitude": 45.971639,
+  "longitude": -86.2431974,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04057004",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

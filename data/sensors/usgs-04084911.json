@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04084911",
+  "key": "04084911",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04084911",
+  "name": "PLUM CREEK NEAR WRIGHTSTOWN, WI",
+  "waterbody": "PLUM CREEK NEAR WRIGHTSTOWN, WI",
+  "state": "WI",
+  "latitude": 44.3055556,
+  "longitude": -88.17114732,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04084911",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

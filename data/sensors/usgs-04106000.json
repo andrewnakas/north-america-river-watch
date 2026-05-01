@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04106000",
+  "key": "04106000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04106000",
+  "name": "KALAMAZOO RIVER AT COMSTOCK, MI",
+  "waterbody": "KALAMAZOO RIVER AT COMSTOCK, MI",
+  "state": "MI",
+  "latitude": 42.28559716,
+  "longitude": -85.513893,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMSM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kalamazoo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmsm4",
+  "slug": "usgs-04106000",
+  "noaaForecastPath": "data/noaa-forecast/CMSM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

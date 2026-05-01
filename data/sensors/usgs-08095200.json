@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08095200",
+  "key": "08095200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08095200",
+  "name": "N Bosque Rv at Valley Mills, TX",
+  "waterbody": "N Bosque Rv at Valley Mills, TX",
+  "state": "TX",
+  "latitude": 31.66960575,
+  "longitude": -97.4694602,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VMAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Bosque River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vmat2",
+  "slug": "usgs-08095200",
+  "noaaForecastPath": "data/noaa-forecast/VMAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03075905",
+  "key": "03075905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03075905",
+  "name": "Cherry Creek at State Park Road near McHenry, MD",
+  "waterbody": "Cherry Creek at State Park Road near McHenry, MD",
+  "state": "MD",
+  "latitude": 39.538,
+  "longitude": -79.315778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCMM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cherry Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccmm2",
+  "slug": "usgs-03075905",
+  "noaaForecastPath": "data/noaa-forecast/CCMM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

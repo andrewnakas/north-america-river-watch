@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11158600",
+  "key": "11158600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11158600",
+  "name": "SAN BENITO R BL HOSPITAL RD BRIDGE NR HOLLISTER CA",
+  "waterbody": "SAN BENITO R BL HOSPITAL RD BRIDGE NR HOLLISTER CA",
+  "state": "CA",
+  "latitude": 36.81675,
+  "longitude": -121.3926806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Benito River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hosc1",
+  "slug": "usgs-11158600",
+  "noaaForecastPath": "data/noaa-forecast/HOSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

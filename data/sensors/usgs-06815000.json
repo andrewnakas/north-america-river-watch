@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06815000",
+  "key": "06815000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06815000",
+  "name": "Big Nemaha River at Falls City, Nebr.",
+  "waterbody": "Big Nemaha River at Falls City, Nebr.",
+  "state": "NE",
+  "latitude": 40.035517,
+  "longitude": -95.595758,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Nemaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flln1",
+  "slug": "usgs-06815000",
+  "noaaForecastPath": "data/noaa-forecast/FLLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

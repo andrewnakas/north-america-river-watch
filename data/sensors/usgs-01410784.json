@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01410784",
+  "key": "01410784",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01410784",
+  "name": "Great Egg Harbor R near Sicklerville NJ",
+  "waterbody": "Great Egg Harbor R near Sicklerville NJ",
+  "state": "NJ",
+  "latitude": 39.73361111,
+  "longitude": -74.95111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVLN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Egg Harbor River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svln4",
+  "slug": "usgs-01410784",
+  "noaaForecastPath": "data/noaa-forecast/SVLN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

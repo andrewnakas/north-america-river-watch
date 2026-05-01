@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05527800",
+  "key": "05527800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05527800",
+  "name": "DES PLAINES RIVER AT RUSSELL, IL",
+  "waterbody": "DES PLAINES RIVER AT RUSSELL, IL",
+  "state": "IL",
+  "latitude": 42.4893861,
+  "longitude": -87.9259167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RUSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Plaines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rusi2",
+  "slug": "usgs-05527800",
+  "noaaForecastPath": "data/noaa-forecast/RUSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01408120",
+  "key": "01408120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01408120",
+  "name": "North Branch Metedeconk River near Lakewood NJ",
+  "waterbody": "North Branch Metedeconk River near Lakewood NJ",
+  "state": "NJ",
+  "latitude": 40.09166667,
+  "longitude": -74.1525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAWN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Metedeconk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lawn4",
+  "slug": "usgs-01408120",
+  "noaaForecastPath": "data/noaa-forecast/LAWN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

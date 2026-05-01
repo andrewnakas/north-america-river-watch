@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03274750",
+  "key": "03274750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03274750",
+  "name": "WHITEWATER RIVER NEAR HAGERSTOWN, IN",
+  "waterbody": "WHITEWATER RIVER NEAR HAGERSTOWN, IN",
+  "state": "IN",
+  "latitude": 39.8736448,
+  "longitude": -85.162991,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03274750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09386950",
+  "key": "09386950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09386950",
+  "name": "ZUNI RIVER ABV BLACK ROCK RESERVOIR, NM",
+  "waterbody": "ZUNI RIVER ABV BLACK ROCK RESERVOIR, NM",
+  "state": "NM",
+  "latitude": 35.10027778,
+  "longitude": -108.7516667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZUIN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Zuni River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zuin5",
+  "slug": "usgs-09386950",
+  "noaaForecastPath": "data/noaa-forecast/ZUIN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

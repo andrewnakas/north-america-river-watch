@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10243240",
+  "key": "10243240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10243240",
+  "name": "BAKER CK AT NARROWS NR BAKER, NV",
+  "waterbody": "BAKER CK AT NARROWS NR BAKER, NV",
+  "state": "NV",
+  "latitude": 38.9907799,
+  "longitude": -114.2066609,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10243240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

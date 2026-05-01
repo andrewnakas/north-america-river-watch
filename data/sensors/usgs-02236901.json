@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02236901",
+  "key": "02236901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02236901",
+  "name": "PALATLAKAHA R BL SPWY AT CH LK OUT NR GROVELAND,FL",
+  "waterbody": "PALATLAKAHA R BL SPWY AT CH LK OUT NR GROVELAND,FL",
+  "state": "FL",
+  "latitude": 28.59249809,
+  "longitude": -81.8225775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02236901",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

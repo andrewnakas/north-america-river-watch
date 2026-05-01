@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06645150",
+  "key": "06645150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06645150",
+  "name": "SMITH CREEK ABOVE OTTER CREEK, NEAR CASPER, WY",
+  "waterbody": "SMITH CREEK ABOVE OTTER CREEK, NEAR CASPER, WY",
+  "state": "WY",
+  "latitude": 42.6496647,
+  "longitude": -106.1800784,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06645150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

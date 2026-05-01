@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02423397",
+  "key": "02423397",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02423397",
+  "name": "LITTLE CAHABA RIVER BELOW LEEDS, AL.",
+  "waterbody": "LITTLE CAHABA RIVER BELOW LEEDS, AL.",
+  "state": "AL",
+  "latitude": 33.53454886,
+  "longitude": -86.5624847,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCRA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Cahaba River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcra1",
+  "slug": "usgs-02423397",
+  "noaaForecastPath": "data/noaa-forecast/LCRA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

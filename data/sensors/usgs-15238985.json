@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15238985",
+  "key": "15238985",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15238985",
+  "name": "BATTLE C NR TIDEWATER NR HOMER AK",
+  "waterbody": "BATTLE C NR TIDEWATER NR HOMER AK",
+  "state": "AK",
+  "latitude": 59.7549584,
+  "longitude": -150.9554535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15238985",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

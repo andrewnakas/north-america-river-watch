@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02130810",
+  "key": "02130810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02130810",
+  "name": "PEE DEE RIVER NEAR FLORENCE, SC",
+  "waterbody": "PEE DEE RIVER NEAR FLORENCE, SC",
+  "state": "SC",
+  "latitude": 34.30027778,
+  "longitude": -79.6344444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDFS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pee Dee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdfs1",
+  "slug": "usgs-02130810",
+  "noaaForecastPath": "data/noaa-forecast/PDFS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

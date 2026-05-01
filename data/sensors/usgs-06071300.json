@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06071300",
+  "key": "06071300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06071300",
+  "name": "Little Prickly Pear Cr at Wolf Cr MT",
+  "waterbody": "Little Prickly Pear Cr at Wolf Cr MT",
+  "state": "MT",
+  "latitude": 47.0054361,
+  "longitude": -112.070311,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPPM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Prickly Pear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lppm8",
+  "slug": "usgs-06071300",
+  "noaaForecastPath": "data/noaa-forecast/LPPM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

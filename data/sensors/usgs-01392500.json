@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01392500",
+  "key": "01392500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01392500",
+  "name": "Second River at Belleville NJ",
+  "waterbody": "Second River at Belleville NJ",
+  "state": "NJ",
+  "latitude": 40.78805556,
+  "longitude": -74.1716667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01392500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

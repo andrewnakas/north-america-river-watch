@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09475500",
+  "key": "09475500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09475500",
+  "name": "FLORENCE-CASA GRANDE CANAL, NEAR FLORENCE, AZ.",
+  "waterbody": "FLORENCE-CASA GRANDE CANAL, NEAR FLORENCE, AZ.",
+  "state": "AZ",
+  "latitude": 33.09440556,
+  "longitude": -111.26015,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09475500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

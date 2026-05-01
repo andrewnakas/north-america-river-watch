@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14202980",
+  "key": "14202980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14202980",
+  "name": "SCOGGINS CK BLW HENRY HAGG LAKE, NR GASTON, OR",
+  "waterbody": "SCOGGINS CK BLW HENRY HAGG LAKE, NR GASTON, OR",
+  "state": "OR",
+  "latitude": 45.46927968,
+  "longitude": -123.200109,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCOO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scoggins Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scoo3",
+  "slug": "usgs-14202980",
+  "noaaForecastPath": "data/noaa-forecast/SCOO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

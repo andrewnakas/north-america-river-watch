@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04063000",
+  "key": "04063000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04063000",
+  "name": "MENOMINEE RIVER NEAR FLORENCE, WI",
+  "waterbody": "MENOMINEE RIVER NEAR FLORENCE, WI",
+  "state": "WI",
+  "latitude": 45.9513419,
+  "longitude": -88.1892993,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLOW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Menominee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flow3",
+  "slug": "usgs-04063000",
+  "noaaForecastPath": "data/noaa-forecast/FLOW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

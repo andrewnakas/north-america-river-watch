@@ -1,0 +1,22 @@
+{
+  "id": "usgs:251440080262800",
+  "key": "251440080262800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251440080262800",
+  "name": "East Highway Creek, Nr Key Largo, FL",
+  "waterbody": "East Highway Creek, Nr Key Largo, FL",
+  "state": "FL",
+  "latitude": 25.2445111,
+  "longitude": -80.4411583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tide Station",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mklf1",
+  "slug": "usgs-251440080262800",
+  "noaaForecastPath": "data/noaa-forecast/MKLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

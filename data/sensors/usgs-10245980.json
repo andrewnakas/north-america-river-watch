@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10245980",
+  "key": "10245980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245980",
+  "name": "SLOUGH CK AT DEVILS GATE NR EUREKA, NV",
+  "waterbody": "SLOUGH CK AT DEVILS GATE NR EUREKA, NV",
+  "state": "NV",
+  "latitude": 39.57330556,
+  "longitude": -116.0767222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10245980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

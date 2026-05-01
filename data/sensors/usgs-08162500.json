@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08162500",
+  "key": "08162500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08162500",
+  "name": "Colorado Rv nr Bay City, TX",
+  "waterbody": "Colorado Rv nr Bay City, TX",
+  "state": "TX",
+  "latitude": 28.9741462,
+  "longitude": -96.0124588,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BACT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bact2",
+  "slug": "usgs-08162500",
+  "noaaForecastPath": "data/noaa-forecast/BACT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

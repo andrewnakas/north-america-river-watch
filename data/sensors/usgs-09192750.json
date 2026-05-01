@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09192750",
+  "key": "09192750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09192750",
+  "name": "New Fork River ab New Fork Lakes, nr Cora, WY",
+  "waterbody": "New Fork River ab New Fork Lakes, nr Cora, WY",
+  "state": "WY",
+  "latitude": 43.1260559,
+  "longitude": -109.8973809,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "New Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfrw4",
+  "slug": "usgs-09192750",
+  "noaaForecastPath": "data/noaa-forecast/NFRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

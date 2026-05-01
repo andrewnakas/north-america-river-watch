@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11137900",
+  "key": "11137900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11137900",
+  "name": "HUASNA R NR ARROYO GRANDE CA",
+  "waterbody": "HUASNA R NR ARROYO GRANDE CA",
+  "state": "CA",
+  "latitude": 35.0777435,
+  "longitude": -120.3717905,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11137900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

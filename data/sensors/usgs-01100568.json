@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100568",
+  "key": "01100568",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100568",
+  "name": "SHAWSHEEN RIVER AT HANSCOM FIELD NEAR BEDFORD, MA",
+  "waterbody": "SHAWSHEEN RIVER AT HANSCOM FIELD NEAR BEDFORD, MA",
+  "state": "MA",
+  "latitude": 42.46691706,
+  "longitude": -71.27224528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100568",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

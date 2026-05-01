@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03058020",
+  "key": "03058020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03058020",
+  "name": "WEST FORK RIVER AT WESTON, WV",
+  "waterbody": "WEST FORK RIVER AT WESTON, WV",
+  "state": "WV",
+  "latitude": 39.02930556,
+  "longitude": -80.47375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTNW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtnw2",
+  "slug": "usgs-03058020",
+  "noaaForecastPath": "data/noaa-forecast/WTNW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

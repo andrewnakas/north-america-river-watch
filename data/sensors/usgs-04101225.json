@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04101225",
+  "key": "04101225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101225",
+  "name": "ST. JOSEPH RIVER AT SOUTH BEND, IN",
+  "waterbody": "ST. JOSEPH RIVER AT SOUTH BEND, IN",
+  "state": "IN",
+  "latitude": 41.72027778,
+  "longitude": -86.2678333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (MI/IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbni3",
+  "slug": "usgs-04101225",
+  "noaaForecastPath": "data/noaa-forecast/SBNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

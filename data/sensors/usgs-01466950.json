@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01466950",
+  "key": "01466950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466950",
+  "name": "NB Rancocas C near Pemberton NJ",
+  "waterbody": "NB Rancocas C near Pemberton NJ",
+  "state": "NJ",
+  "latitude": 39.96277778,
+  "longitude": -74.6566667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01466950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

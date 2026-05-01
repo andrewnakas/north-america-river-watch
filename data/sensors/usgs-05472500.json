@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05472500",
+  "key": "05472500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05472500",
+  "name": "North Skunk River near Sigourney, IA",
+  "waterbody": "North Skunk River near Sigourney, IA",
+  "state": "IA",
+  "latitude": 41.30084444,
+  "longitude": -92.2046222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIGI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Skunk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sigi4",
+  "slug": "usgs-05472500",
+  "noaaForecastPath": "data/noaa-forecast/SIGI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

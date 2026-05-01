@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02365470",
+  "key": "02365470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02365470",
+  "name": "WRIGHTS CREEK AT SH 177-A NR BONIFAY,FL",
+  "waterbody": "WRIGHTS CREEK AT SH 177-A NR BONIFAY,FL",
+  "state": "FL",
+  "latitude": 30.8571301,
+  "longitude": -85.7621545,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRTF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wrights Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrtf1",
+  "slug": "usgs-02365470",
+  "noaaForecastPath": "data/noaa-forecast/WRTF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

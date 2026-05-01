@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06036940",
+  "key": "06036940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06036940",
+  "name": "Tantalus Creek at Norris Junction, YNP",
+  "waterbody": "Tantalus Creek at Norris Junction, YNP",
+  "state": "WY",
+  "latitude": 44.732725,
+  "longitude": -110.7132528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCKW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tantalus Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tckw4",
+  "slug": "usgs-06036940",
+  "noaaForecastPath": "data/noaa-forecast/TCKW4.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13088510",
+  "key": "13088510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13088510",
+  "name": "BIG COTTONWOOD CREEK NEAR OAKLEY ID",
+  "waterbody": "BIG COTTONWOOD CREEK NEAR OAKLEY ID",
+  "state": "ID",
+  "latitude": 42.29407878,
+  "longitude": -114.02252,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13088510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

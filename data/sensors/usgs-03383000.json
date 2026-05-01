@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03383000",
+  "key": "03383000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03383000",
+  "name": "TRADEWATER RIVER AT OLNEY, KY",
+  "waterbody": "TRADEWATER RIVER AT OLNEY, KY",
+  "state": "KY",
+  "latitude": 37.22393575,
+  "longitude": -87.7805659,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ONYK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tradewater River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/onyk2",
+  "slug": "usgs-03383000",
+  "noaaForecastPath": "data/noaa-forecast/ONYK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04087070",
+  "key": "04087070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087070",
+  "name": "LITTLE MENOMONEE RIVER AT MILWAUKEE, WI",
+  "waterbody": "LITTLE MENOMONEE RIVER AT MILWAUKEE, WI",
+  "state": "WI",
+  "latitude": 43.1236111,
+  "longitude": -88.0436111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04087070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

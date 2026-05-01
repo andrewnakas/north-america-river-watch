@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01659000",
+  "key": "01659000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01659000",
+  "name": "N BRANCH CHOPAWAMSIC CR NR INDEPENDENT HILL, VA",
+  "waterbody": "N BRANCH CHOPAWAMSIC CR NR INDEPENDENT HILL, VA",
+  "state": "VA",
+  "latitude": 38.56512118,
+  "longitude": -77.4258175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01659000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

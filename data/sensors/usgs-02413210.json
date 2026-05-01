@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02413210",
+  "key": "02413210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02413210",
+  "name": "LITTLE TALLAPOOSA R AT GA 100, NEAR BOWDON, GA",
+  "waterbody": "LITTLE TALLAPOOSA R AT GA 100, NEAR BOWDON, GA",
+  "state": "GA",
+  "latitude": 33.49269444,
+  "longitude": -85.2793056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Tallapoosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwng1",
+  "slug": "usgs-02413210",
+  "noaaForecastPath": "data/noaa-forecast/BWNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

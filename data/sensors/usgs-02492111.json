@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02492111",
+  "key": "02492111",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02492111",
+  "name": "WILSON SLOUGH NEAR WALKIAH BLUFF, MS",
+  "waterbody": "WILSON SLOUGH NEAR WALKIAH BLUFF, MS",
+  "state": "LA",
+  "latitude": 30.57027778,
+  "longitude": -89.8111111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02492111",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

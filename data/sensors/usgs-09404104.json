@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09404104",
+  "key": "09404104",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404104",
+  "name": "CATARACT CREEK AT REDLANDS CROSSING NEAR VALLE, AZ",
+  "waterbody": "CATARACT CREEK AT REDLANDS CROSSING NEAR VALLE, AZ",
+  "state": "AZ",
+  "latitude": 35.80444444,
+  "longitude": -112.4263889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cataract Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crca3",
+  "slug": "usgs-09404104",
+  "noaaForecastPath": "data/noaa-forecast/CRCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

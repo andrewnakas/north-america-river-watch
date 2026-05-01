@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06185110",
+  "key": "06185110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06185110",
+  "name": "Big Muddy Creek nr mouth nr Culbertson MT",
+  "waterbody": "Big Muddy Creek nr mouth nr Culbertson MT",
+  "state": "MT",
+  "latitude": 48.16448056,
+  "longitude": -104.6295194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Muddy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clrm8",
+  "slug": "usgs-06185110",
+  "noaaForecastPath": "data/noaa-forecast/CLRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

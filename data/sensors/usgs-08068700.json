@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08068700",
+  "key": "08068700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068700",
+  "name": "Cypress Ck at Sharp Rd nr Hockley, TX",
+  "waterbody": "Cypress Ck at Sharp Rd nr Hockley, TX",
+  "state": "TX",
+  "latitude": 29.92105823,
+  "longitude": -95.840229,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08068700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

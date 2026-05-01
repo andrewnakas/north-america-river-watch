@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04237496",
+  "key": "04237496",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04237496",
+  "name": "SENECA RIVER NEAR BALDWINSVILLE NY",
+  "waterbody": "SENECA RIVER NEAR BALDWINSVILLE NY",
+  "state": "NY",
+  "latitude": 43.1623333,
+  "longitude": -76.3626944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDWN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seneca River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdwn6",
+  "slug": "usgs-04237496",
+  "noaaForecastPath": "data/noaa-forecast/BDWN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03193000",
+  "key": "03193000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03193000",
+  "name": "KANAWHA RIVER AT KANAWHA FALLS, WV",
+  "waterbody": "KANAWHA RIVER AT KANAWHA FALLS, WV",
+  "state": "WV",
+  "latitude": 38.1381632,
+  "longitude": -81.2142745,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KANW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kanawha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kanw2",
+  "slug": "usgs-03193000",
+  "noaaForecastPath": "data/noaa-forecast/KANW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

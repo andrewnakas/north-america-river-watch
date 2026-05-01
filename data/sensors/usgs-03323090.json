@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03323090",
+  "key": "03323090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03323090",
+  "name": "WABASH RIVER AT MARKLE, IN",
+  "waterbody": "WABASH RIVER AT MARKLE, IN",
+  "state": "IN",
+  "latitude": 40.8219722,
+  "longitude": -85.3471111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03323090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

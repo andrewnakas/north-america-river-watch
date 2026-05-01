@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10023000",
+  "key": "10023000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10023000",
+  "name": "BIG CREEK NEAR RANDOLPH, UT",
+  "waterbody": "BIG CREEK NEAR RANDOLPH, UT",
+  "state": "UT",
+  "latitude": 41.60994177,
+  "longitude": -111.2540876,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10023000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

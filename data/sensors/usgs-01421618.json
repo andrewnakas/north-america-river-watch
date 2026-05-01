@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01421618",
+  "key": "01421618",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01421618",
+  "name": "TOWN BROOK SOUTHEAST OF HOBART NY",
+  "waterbody": "TOWN BROOK SOUTHEAST OF HOBART NY",
+  "state": "NY",
+  "latitude": 42.361167,
+  "longitude": -74.662167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTBN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Town Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htbn6",
+  "slug": "usgs-01421618",
+  "noaaForecastPath": "data/noaa-forecast/HTBN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

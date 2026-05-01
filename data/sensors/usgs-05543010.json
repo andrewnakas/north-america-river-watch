@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05543010",
+  "key": "05543010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05543010",
+  "name": "ILLINOIS RIVER AT SENECA, IL",
+  "waterbody": "ILLINOIS RIVER AT SENECA, IL",
+  "state": "IL",
+  "latitude": 41.29988889,
+  "longitude": -88.6141944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNAI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snai2",
+  "slug": "usgs-05543010",
+  "noaaForecastPath": "data/noaa-forecast/SNAI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

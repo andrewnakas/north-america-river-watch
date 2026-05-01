@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251203080480600",
+  "key": "251203080480600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251203080480600",
+  "name": "WEST LAKE OUTLET TO LONG LAKE NEAR FLAMINGO, FL",
+  "waterbody": "WEST LAKE OUTLET TO LONG LAKE NEAR FLAMINGO, FL",
+  "state": "FL",
+  "latitude": 25.2007222,
+  "longitude": -80.8016111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251203080480600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

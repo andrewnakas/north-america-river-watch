@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08158035",
+  "key": "08158035",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158035",
+  "name": "Boggy Ck at Webberville Rd, Austin, TX",
+  "waterbody": "Boggy Ck at Webberville Rd, Austin, TX",
+  "state": "TX",
+  "latitude": 30.26305556,
+  "longitude": -97.7125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boggy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcwt2",
+  "slug": "usgs-08158035",
+  "noaaForecastPath": "data/noaa-forecast/BCWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10167230",
+  "key": "10167230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10167230",
+  "name": "JORDAN RIVER @ 90TH S NR MIDVALE",
+  "waterbody": "JORDAN RIVER @ 90TH S NR MIDVALE",
+  "state": "UT",
+  "latitude": 40.58744798,
+  "longitude": -111.9127133,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSWU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jordan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sswu1",
+  "slug": "usgs-10167230",
+  "noaaForecastPath": "data/noaa-forecast/SSWU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

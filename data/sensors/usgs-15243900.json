@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15243900",
+  "key": "15243900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15243900",
+  "name": "SNOW R NR SEWARD AK",
+  "waterbody": "SNOW R NR SEWARD AK",
+  "state": "AK",
+  "latitude": 60.2944267,
+  "longitude": -149.3460349,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNOA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snoa2",
+  "slug": "usgs-15243900",
+  "noaaForecastPath": "data/noaa-forecast/SNOA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

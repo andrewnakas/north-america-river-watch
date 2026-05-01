@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083230",
+  "key": "08083230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083230",
+  "name": "Clear Fk Brazos Rv nr Noodle, TX",
+  "waterbody": "Clear Fk Brazos Rv nr Noodle, TX",
+  "state": "TX",
+  "latitude": 32.67455998,
+  "longitude": -100.0725999,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083230",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

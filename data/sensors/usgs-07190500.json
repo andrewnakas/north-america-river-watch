@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07190500",
+  "key": "07190500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07190500",
+  "name": "Neosho River near Langley, OK",
+  "waterbody": "Neosho River near Langley, OK",
+  "state": "OK",
+  "latitude": 36.4389742,
+  "longitude": -95.048573,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07190500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12098920",
+  "key": "12098920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12098920",
+  "name": "WHITE RIVER FLUME AT BUCKLEY, WA",
+  "waterbody": "WHITE RIVER FLUME AT BUCKLEY, WA",
+  "state": "WA",
+  "latitude": 47.1695193,
+  "longitude": -122.0120345,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12098920",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

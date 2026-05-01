@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02198920",
+  "key": "02198920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02198920",
+  "name": "SAVANNAH RIVER AT GA 25, AT PORT WENTWORTH, GA",
+  "waterbody": "SAVANNAH RIVER AT GA 25, AT PORT WENTWORTH, GA",
+  "state": "GA",
+  "latitude": 32.16533333,
+  "longitude": -81.1549167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PWNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Savannah River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pwng1",
+  "slug": "usgs-02198920",
+  "noaaForecastPath": "data/noaa-forecast/PWNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

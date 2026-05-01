@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02262499",
+  "key": "02262499",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02262499",
+  "name": "LAKE AJAY AT LAKE NONA, FL",
+  "waterbody": "LAKE AJAY AT LAKE NONA, FL",
+  "state": "FL",
+  "latitude": 28.34526944,
+  "longitude": -81.22315,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02262499",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

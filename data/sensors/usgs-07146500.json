@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07146500",
+  "key": "07146500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07146500",
+  "name": "ARKANSAS R AT ARKANSAS CITY, KS",
+  "waterbody": "ARKANSAS R AT ARKANSAS CITY, KS",
+  "state": "KS",
+  "latitude": 37.0375083,
+  "longitude": -97.0392194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARCK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arck1",
+  "slug": "usgs-07146500",
+  "noaaForecastPath": "data/noaa-forecast/ARCK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

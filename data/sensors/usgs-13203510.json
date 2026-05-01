@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13203510",
+  "key": "13203510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13203510",
+  "name": "BOISE R BL DIVERSION DAM NR BOISE ID",
+  "waterbody": "BOISE R BL DIVERSION DAM NR BOISE ID",
+  "state": "ID",
+  "latitude": 43.539613,
+  "longitude": -116.0945556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDDI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boise River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bddi1",
+  "slug": "usgs-13203510",
+  "noaaForecastPath": "data/noaa-forecast/BDDI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

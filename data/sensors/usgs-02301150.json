@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301150",
+  "key": "02301150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301150",
+  "name": "SOUTH PRONG ALAFIA RIVER NEAR FT LONESOME FL",
+  "waterbody": "SOUTH PRONG ALAFIA RIVER NEAR FT LONESOME FL",
+  "state": "FL",
+  "latitude": 27.72930556,
+  "longitude": -82.0742778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Prong Alafia River Near Ft. Lonesome",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aspf1",
+  "slug": "usgs-02301150",
+  "noaaForecastPath": "data/noaa-forecast/ASPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

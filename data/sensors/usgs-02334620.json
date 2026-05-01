@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02334620",
+  "key": "02334620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02334620",
+  "name": "DICK CREEK AT OLD ATLANTA RD, NEAR SUWANEE, GA",
+  "waterbody": "DICK CREEK AT OLD ATLANTA RD, NEAR SUWANEE, GA",
+  "state": "GA",
+  "latitude": 34.07163889,
+  "longitude": -84.1304167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DICG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dick Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dicg1",
+  "slug": "usgs-02334620",
+  "noaaForecastPath": "data/noaa-forecast/DICG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

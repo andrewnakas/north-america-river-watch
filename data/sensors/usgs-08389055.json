@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08389055",
+  "key": "08389055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08389055",
+  "name": "RIO BONITO NEAR LINCOLN, NM",
+  "waterbody": "RIO BONITO NEAR LINCOLN, NM",
+  "state": "NM",
+  "latitude": 33.52133,
+  "longitude": -105.4705567,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08389055",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08405150",
+  "key": "08405150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08405150",
+  "name": "DARK CANYON AT CARLSBAD, NM",
+  "waterbody": "DARK CANYON AT CARLSBAD, NM",
+  "state": "NM",
+  "latitude": 32.40333333,
+  "longitude": -104.2294444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DACN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dark Canyon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dacn5",
+  "slug": "usgs-08405150",
+  "noaaForecastPath": "data/noaa-forecast/DACN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

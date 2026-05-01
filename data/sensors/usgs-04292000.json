@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04292000",
+  "key": "04292000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04292000",
+  "name": "LAMOILLE RIVER AT JOHNSON, VT",
+  "waterbody": "LAMOILLE RIVER AT JOHNSON, VT",
+  "state": "VT",
+  "latitude": 44.62286096,
+  "longitude": -72.67633099,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JONV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lamoille River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jonv1",
+  "slug": "usgs-04292000",
+  "noaaForecastPath": "data/noaa-forecast/JONV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

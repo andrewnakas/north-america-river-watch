@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09220000",
+  "key": "09220000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09220000",
+  "name": "EAST FORK OF SMITHS FORK NEAR ROBERTSON, WY",
+  "waterbody": "EAST FORK OF SMITHS FORK NEAR ROBERTSON, WY",
+  "state": "WY",
+  "latitude": 41.0538611,
+  "longitude": -110.3986389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Smiths Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfrw4",
+  "slug": "usgs-09220000",
+  "noaaForecastPath": "data/noaa-forecast/SFRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

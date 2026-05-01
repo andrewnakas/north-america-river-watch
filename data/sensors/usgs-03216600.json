@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03216600",
+  "key": "03216600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03216600",
+  "name": "OHIO RIVER AT GREENUP DAM NEAR GREENUP, KY",
+  "waterbody": "OHIO RIVER AT GREENUP DAM NEAR GREENUP, KY",
+  "state": "KY",
+  "latitude": 38.6467448,
+  "longitude": -82.860447,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNUK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnuk2",
+  "slug": "usgs-03216600",
+  "noaaForecastPath": "data/noaa-forecast/GNUK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

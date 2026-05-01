@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04033500",
+  "key": "04033500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04033500",
+  "name": "BOND FALLS CANAL NEAR PAULDING, MI",
+  "waterbody": "BOND FALLS CANAL NEAR PAULDING, MI",
+  "state": "MI",
+  "latitude": 46.39911276,
+  "longitude": -89.14653,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04033500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

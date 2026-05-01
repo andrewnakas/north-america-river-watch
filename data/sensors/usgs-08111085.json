@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08111085",
+  "key": "08111085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111085",
+  "name": "New Year Ck at SH 105 nr Brenham, TX",
+  "waterbody": "New Year Ck at SH 105 nr Brenham, TX",
+  "state": "TX",
+  "latitude": 30.19580278,
+  "longitude": -96.3654028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NYBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "New Year Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nybt2",
+  "slug": "usgs-08111085",
+  "noaaForecastPath": "data/noaa-forecast/NYBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

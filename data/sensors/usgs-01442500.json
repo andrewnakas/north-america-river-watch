@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01442500",
+  "key": "01442500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01442500",
+  "name": "Brodhead Creek at Minisink Hills, PA",
+  "waterbody": "Brodhead Creek at Minisink Hills, PA",
+  "state": "PA",
+  "latitude": 40.998706,
+  "longitude": -75.1426788,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brodhead Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnsp1",
+  "slug": "usgs-01442500",
+  "noaaForecastPath": "data/noaa-forecast/MNSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

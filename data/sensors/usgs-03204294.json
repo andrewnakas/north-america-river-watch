@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03204294",
+  "key": "03204294",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03204294",
+  "name": "MUD RIVER AT HAMLIN, WV",
+  "waterbody": "MUD RIVER AT HAMLIN, WV",
+  "state": "WV",
+  "latitude": 38.27830556,
+  "longitude": -82.11438889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYRW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud River (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myrw2",
+  "slug": "usgs-03204294",
+  "noaaForecastPath": "data/noaa-forecast/MYRW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

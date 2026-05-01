@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13250000",
+  "key": "13250000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13250000",
+  "name": "PAYETTE RIVER NR LETHA ID",
+  "waterbody": "PAYETTE RIVER NR LETHA ID",
+  "state": "ID",
+  "latitude": 43.90171944,
+  "longitude": -116.63329722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLEI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Payette River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plei1",
+  "slug": "usgs-13250000",
+  "noaaForecastPath": "data/noaa-forecast/PLEI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

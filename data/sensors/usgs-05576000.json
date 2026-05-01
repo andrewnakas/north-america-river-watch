@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05576000",
+  "key": "05576000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576000",
+  "name": "SOUTH FORK SANGAMON RIVER NEAR ROCHESTER, IL",
+  "waterbody": "SOUTH FORK SANGAMON RIVER NEAR ROCHESTER, IL",
+  "state": "IL",
+  "latitude": 39.7422222,
+  "longitude": -89.5672778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Sangamon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/roci2",
+  "slug": "usgs-05576000",
+  "noaaForecastPath": "data/noaa-forecast/ROCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

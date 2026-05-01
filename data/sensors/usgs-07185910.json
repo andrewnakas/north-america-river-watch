@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07185910",
+  "key": "07185910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07185910",
+  "name": "North Fork Spring River near Purcell, MO",
+  "waterbody": "North Fork Spring River near Purcell, MO",
+  "state": "MO",
+  "latitude": 37.25888889,
+  "longitude": -94.435,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFSM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Spring River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfsm7",
+  "slug": "usgs-07185910",
+  "noaaForecastPath": "data/noaa-forecast/NFSM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06412900",
+  "key": "06412900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06412900",
+  "name": "RAPID CREEK BLW CLEGHORN SPGS AT RAPID CITY SD",
+  "waterbody": "RAPID CREEK BLW CLEGHORN SPGS AT RAPID CITY SD",
+  "state": "SD",
+  "latitude": 44.0591544,
+  "longitude": -103.2974058,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06412900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

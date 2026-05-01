@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05059500",
+  "key": "05059500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05059500",
+  "name": "SHEYENNE RIVER AT WEST FARGO, ND",
+  "waterbody": "SHEYENNE RIVER AT WEST FARGO, ND",
+  "state": "ND",
+  "latitude": 46.8910784,
+  "longitude": -96.9070286,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSFN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsfn8",
+  "slug": "usgs-05059500",
+  "noaaForecastPath": "data/noaa-forecast/WSFN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

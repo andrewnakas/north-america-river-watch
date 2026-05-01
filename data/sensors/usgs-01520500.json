@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01520500",
+  "key": "01520500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01520500",
+  "name": "TIOGA RIVER AT LINDLEY NY",
+  "waterbody": "TIOGA RIVER AT LINDLEY NY",
+  "state": "NY",
+  "latitude": 42.0287222,
+  "longitude": -77.1321944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tioga River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llyn6",
+  "slug": "usgs-01520500",
+  "noaaForecastPath": "data/noaa-forecast/LLYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07381588",
+  "key": "07381588",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07381588",
+  "name": "Intracoastal Waterway southwest of Pierre Part, LA",
+  "waterbody": "Intracoastal Waterway southwest of Pierre Part, LA",
+  "state": "LA",
+  "latitude": 29.92238889,
+  "longitude": -91.2393611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07381588",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12338100",
+  "key": "12338100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12338100",
+  "name": "Rock Cr ab Salmon Cr nr Ovando MT",
+  "waterbody": "Rock Cr ab Salmon Cr nr Ovando MT",
+  "state": "MT",
+  "latitude": 47.0567333,
+  "longitude": -112.9011806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12338100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

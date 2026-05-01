@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08196300",
+  "key": "08196300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08196300",
+  "name": "Dry Frio Rv at FM 2690 nr Knippa, TX",
+  "waterbody": "Dry Frio Rv at FM 2690 nr Knippa, TX",
+  "state": "TX",
+  "latitude": 29.3736111,
+  "longitude": -99.7041667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08196300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

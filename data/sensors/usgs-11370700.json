@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11370700",
+  "key": "11370700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11370700",
+  "name": "ANDERSON-COTTONWOOD ID CN AT SHARON AVE REDDING CA",
+  "waterbody": "ANDERSON-COTTONWOOD ID CN AT SHARON AVE REDDING CA",
+  "state": "CA",
+  "latitude": 40.5687315,
+  "longitude": -122.381363,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11370700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

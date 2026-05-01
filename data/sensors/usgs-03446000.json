@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03446000",
+  "key": "03446000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03446000",
+  "name": "MILLS RIVER NEAR MILLS RIVER, NC",
+  "waterbody": "MILLS RIVER NEAR MILLS RIVER, NC",
+  "state": "NC",
+  "latitude": 35.39805556,
+  "longitude": -82.595,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mills River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrsn7",
+  "slug": "usgs-03446000",
+  "noaaForecastPath": "data/noaa-forecast/MRSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

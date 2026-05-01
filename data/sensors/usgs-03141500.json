@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03141500",
+  "key": "03141500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03141500",
+  "name": "Seneca Fork bl Senecaville Dam near Senecaville OH",
+  "waterbody": "Seneca Fork bl Senecaville Dam near Senecaville OH",
+  "state": "OH",
+  "latitude": 39.92451624,
+  "longitude": -81.4378966,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seneca Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snlo1",
+  "slug": "usgs-03141500",
+  "noaaForecastPath": "data/noaa-forecast/SNLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

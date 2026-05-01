@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01438500",
+  "key": "01438500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01438500",
+  "name": "Delaware River at Montague NJ",
+  "waterbody": "Delaware River at Montague NJ",
+  "state": "PA",
+  "latitude": 41.30916667,
+  "longitude": -74.79527778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01438500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

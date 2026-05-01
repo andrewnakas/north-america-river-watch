@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05335492",
+  "key": "05335492",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05335492",
+  "name": "CLAM RIVER AT HWY 35 NR WEBSTER, WI",
+  "waterbody": "CLAM RIVER AT HWY 35 NR WEBSTER, WI",
+  "state": "WI",
+  "latitude": 45.8534972,
+  "longitude": -92.365225,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05335492",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

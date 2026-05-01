@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08328950",
+  "key": "08328950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08328950",
+  "name": "JEMEZ RIVER OUTLET BELOW JEMEZ CANYON DAM, NM",
+  "waterbody": "JEMEZ RIVER OUTLET BELOW JEMEZ CANYON DAM, NM",
+  "state": "NM",
+  "latitude": 35.39475884,
+  "longitude": -106.545305,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JECN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jemez River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jecn5",
+  "slug": "usgs-08328950",
+  "noaaForecastPath": "data/noaa-forecast/JECN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429010",
+  "key": "09429010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429010",
+  "name": "COLORADO RIVER AT PALO VERDE DAM, CA-AZ",
+  "waterbody": "COLORADO RIVER AT PALO VERDE DAM, CA-AZ",
+  "state": "CA",
+  "latitude": 33.7319659,
+  "longitude": -114.5118999,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

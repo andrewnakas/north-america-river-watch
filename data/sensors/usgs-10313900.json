@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10313900",
+  "key": "10313900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10313900",
+  "name": "HANKS CK AT MARYS RV RANCH RD NR DEETH, NV",
+  "waterbody": "HANKS CK AT MARYS RV RANCH RD NR DEETH, NV",
+  "state": "NV",
+  "latitude": 41.4778611,
+  "longitude": -115.2866389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNKN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hanks Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnkn2",
+  "slug": "usgs-10313900",
+  "noaaForecastPath": "data/noaa-forecast/HNKN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

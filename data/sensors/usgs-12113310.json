@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12113310",
+  "key": "12113310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12113310",
+  "name": "GREEN RIVER BELOW MEEKER ST AT KENT, WA",
+  "waterbody": "GREEN RIVER BELOW MEEKER ST AT KENT, WA",
+  "state": "WA",
+  "latitude": 47.3788611,
+  "longitude": -122.2688056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12113310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

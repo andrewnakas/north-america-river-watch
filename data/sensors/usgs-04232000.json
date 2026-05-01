@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04232000",
+  "key": "04232000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04232000",
+  "name": "GENESEE RIVER AT ROCHESTER NY",
+  "waterbody": "GENESEE RIVER AT ROCHESTER NY",
+  "state": "NY",
+  "latitude": 43.18088889,
+  "longitude": -77.6283056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RHRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Genesee River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rhrn6",
+  "slug": "usgs-04232000",
+  "noaaForecastPath": "data/noaa-forecast/RHRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

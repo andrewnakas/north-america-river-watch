@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07359500",
+  "key": "07359500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07359500",
+  "name": "OUACHITA RIVER NEAR MALVERN, AR",
+  "waterbody": "OUACHITA RIVER NEAR MALVERN, AR",
+  "state": "AR",
+  "latitude": 34.38620329,
+  "longitude": -92.8390585,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07359500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

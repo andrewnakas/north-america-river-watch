@@ -1,0 +1,19 @@
+{
+  "id": "usgs:465213097003901",
+  "key": "465213097003901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "465213097003901",
+  "name": "DRAIN 14 NEAR MAPLETON, ND",
+  "waterbody": "DRAIN 14 NEAR MAPLETON, ND",
+  "state": "ND",
+  "latitude": 46.87024766,
+  "longitude": -97.0111982,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-465213097003901",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02123567",
+  "key": "02123567",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02123567",
+  "name": "DUTCHMANS CREEK NR UWHARRIE, NC",
+  "waterbody": "DUTCHMANS CREEK NR UWHARRIE, NC",
+  "state": "NC",
+  "latitude": 35.37916667,
+  "longitude": -80.0302778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02123567",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

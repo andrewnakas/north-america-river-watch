@@ -1,0 +1,22 @@
+{
+  "id": "usgs:033356848",
+  "key": "033356848",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "033356848",
+  "name": "BIG PINE CREEK AT PINE VILLAGE, IN",
+  "waterbody": "BIG PINE CREEK AT PINE VILLAGE, IN",
+  "state": "IN",
+  "latitude": 40.4523333,
+  "longitude": -87.2544444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BPCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Pine Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bpci3",
+  "slug": "usgs-033356848",
+  "noaaForecastPath": "data/noaa-forecast/BPCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08111090",
+  "key": "08111090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111090",
+  "name": "Rocky Ck at SH 105 nr Brenham, TX",
+  "waterbody": "Rocky Ck at SH 105 nr Brenham, TX",
+  "state": "TX",
+  "latitude": 30.22,
+  "longitude": -96.3031722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08111090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

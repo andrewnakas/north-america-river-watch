@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09402300",
+  "key": "09402300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09402300",
+  "name": "LITTLE COLORADO RIVER ABV MOUTH NR DESERT VIEW, AZ",
+  "waterbody": "LITTLE COLORADO RIVER ABV MOUTH NR DESERT VIEW, AZ",
+  "state": "AZ",
+  "latitude": 36.1952642,
+  "longitude": -111.7771024,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09402300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01660000",
+  "key": "01660000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01660000",
+  "name": "S BRANCH CHOPAWAMSIC CREEK NR GARRISONVILLE, VA",
+  "waterbody": "S BRANCH CHOPAWAMSIC CREEK NR GARRISONVILLE, VA",
+  "state": "VA",
+  "latitude": 38.53956644,
+  "longitude": -77.4247059,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01660000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11123000",
+  "key": "11123000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11123000",
+  "name": "SANTA YNEZ R BL GIBRALTAR DAM NR SANTA BARBARA CA",
+  "waterbody": "SANTA YNEZ R BL GIBRALTAR DAM NR SANTA BARBARA CA",
+  "state": "CA",
+  "latitude": 34.52442917,
+  "longitude": -119.6873223,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11123000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

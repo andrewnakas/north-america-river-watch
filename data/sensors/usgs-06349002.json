@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06349002",
+  "key": "06349002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349002",
+  "name": "HEART RIVER AT HWY 10 ABOVE MANDAN, ND",
+  "waterbody": "HEART RIVER AT HWY 10 ABOVE MANDAN, ND",
+  "state": "ND",
+  "latitude": 46.82443818,
+  "longitude": -100.9115212,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06349002",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

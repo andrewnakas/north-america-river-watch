@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14211010",
+  "key": "14211010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14211010",
+  "name": "CLACKAMAS RIVER NEAR OREGON CITY, OR",
+  "waterbody": "CLACKAMAS RIVER NEAR OREGON CITY, OR",
+  "state": "OR",
+  "latitude": 45.3792874,
+  "longitude": -122.5773134,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clackamas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coco3",
+  "slug": "usgs-14211010",
+  "noaaForecastPath": "data/noaa-forecast/COCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

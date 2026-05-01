@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01125000",
+  "key": "01125000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01125000",
+  "name": "FRENCH RIVER AT WEBSTER, MA",
+  "waterbody": "FRENCH RIVER AT WEBSTER, MA",
+  "state": "MA",
+  "latitude": 42.0509298,
+  "longitude": -71.8842387,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WEBM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "French River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/webm3",
+  "slug": "usgs-01125000",
+  "noaaForecastPath": "data/noaa-forecast/WEBM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

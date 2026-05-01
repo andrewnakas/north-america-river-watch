@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08286500",
+  "key": "08286500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08286500",
+  "name": "RIO CHAMA ABOVE ABIQUIU RESERVOIR, NM",
+  "waterbody": "RIO CHAMA ABOVE ABIQUIU RESERVOIR, NM",
+  "state": "NM",
+  "latitude": 36.3188222,
+  "longitude": -106.5995306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCAN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Chama",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcan5",
+  "slug": "usgs-08286500",
+  "noaaForecastPath": "data/noaa-forecast/RCAN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06906500",
+  "key": "06906500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06906500",
+  "name": "Missouri River at Glasgow, MO",
+  "waterbody": "Missouri River at Glasgow, MO",
+  "state": "MO",
+  "latitude": 39.2222512,
+  "longitude": -92.848798,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glzm7",
+  "slug": "usgs-06906500",
+  "noaaForecastPath": "data/noaa-forecast/GLZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

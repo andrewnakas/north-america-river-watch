@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02307669",
+  "key": "02307669",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307669",
+  "name": "ALLIGATOR CREEK AT HIGHWAY 19 AT CLEARWATER FL",
+  "waterbody": "ALLIGATOR CREEK AT HIGHWAY 19 AT CLEARWATER FL",
+  "state": "FL",
+  "latitude": 27.973194,
+  "longitude": -82.729444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIAF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alligator Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/piaf1",
+  "slug": "usgs-02307669",
+  "noaaForecastPath": "data/noaa-forecast/PIAF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03378000",
+  "key": "03378000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03378000",
+  "name": "BONPAS CREEK AT BROWNS, IL",
+  "waterbody": "BONPAS CREEK AT BROWNS, IL",
+  "state": "IL",
+  "latitude": 38.38638889,
+  "longitude": -87.9758333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BROI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bonpas Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/broi2",
+  "slug": "usgs-03378000",
+  "noaaForecastPath": "data/noaa-forecast/BROI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

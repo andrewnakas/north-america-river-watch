@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02192500",
+  "key": "02192500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02192500",
+  "name": "LITTLE RIVER NEAR MT. CARMEL, SC",
+  "waterbody": "LITTLE RIVER NEAR MT. CARMEL, SC",
+  "state": "SC",
+  "latitude": 34.07244444,
+  "longitude": -82.5009167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtcs1",
+  "slug": "usgs-02192500",
+  "noaaForecastPath": "data/noaa-forecast/MTCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

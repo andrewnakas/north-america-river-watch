@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15294500",
+  "key": "15294500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15294500",
+  "name": "CHAKACHATNA R NR TYONEK AK",
+  "waterbody": "CHAKACHATNA R NR TYONEK AK",
+  "state": "AK",
+  "latitude": 61.2116271,
+  "longitude": -152.3593688,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15294500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

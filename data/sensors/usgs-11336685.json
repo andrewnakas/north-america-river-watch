@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11336685",
+  "key": "11336685",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11336685",
+  "name": "N MOKELUMNE NR WALNUT GROVE CA",
+  "waterbody": "N MOKELUMNE NR WALNUT GROVE CA",
+  "state": "CA",
+  "latitude": 38.2233333,
+  "longitude": -121.5072222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11336685",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

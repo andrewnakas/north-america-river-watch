@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05457505",
+  "key": "05457505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05457505",
+  "name": "Cedar River at Osage, IA",
+  "waterbody": "Cedar River at Osage, IA",
+  "state": "IA",
+  "latitude": 43.2834722,
+  "longitude": -92.8525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSGI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/osgi4",
+  "slug": "usgs-05457505",
+  "noaaForecastPath": "data/noaa-forecast/OSGI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03286500",
+  "key": "03286500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03286500",
+  "name": "KENTUCKY RIVER AT LOCK 7 AT HIGHBRIDGE, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 7 AT HIGHBRIDGE, KY",
+  "state": "KY",
+  "latitude": 37.8292447,
+  "longitude": -84.723835,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HIBK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hibk2",
+  "slug": "usgs-03286500",
+  "noaaForecastPath": "data/noaa-forecast/HIBK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

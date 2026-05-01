@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03212750",
+  "key": "03212750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03212750",
+  "name": "TUG FORK DOWNSTREAM OF ELKHORN CREEK AT WELCH, WV",
+  "waterbody": "TUG FORK DOWNSTREAM OF ELKHORN CREEK AT WELCH, WV",
+  "state": "WV",
+  "latitude": 37.44122439,
+  "longitude": -81.5998295,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLCW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tug Fork River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlcw2",
+  "slug": "usgs-03212750",
+  "noaaForecastPath": "data/noaa-forecast/WLCW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06887500",
+  "key": "06887500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06887500",
+  "name": "KANSAS R AT WAMEGO, KS",
+  "waterbody": "KANSAS R AT WAMEGO, KS",
+  "state": "KS",
+  "latitude": 39.19833014,
+  "longitude": -96.3055532,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WMGK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wmgk1",
+  "slug": "usgs-06887500",
+  "noaaForecastPath": "data/noaa-forecast/WMGK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

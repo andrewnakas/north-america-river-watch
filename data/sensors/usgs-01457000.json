@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01457000",
+  "key": "01457000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01457000",
+  "name": "Musconetcong River near Bloomsbury NJ",
+  "waterbody": "Musconetcong River near Bloomsbury NJ",
+  "state": "NJ",
+  "latitude": 40.67222222,
+  "longitude": -75.06083333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLBN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Musconetcong River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blbn4",
+  "slug": "usgs-01457000",
+  "noaaForecastPath": "data/noaa-forecast/BLBN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03312255",
+  "key": "03312255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03312255",
+  "name": "SALT LICK CREEK AT RED BOILING SPRINGS, TN",
+  "waterbody": "SALT LICK CREEK AT RED BOILING SPRINGS, TN",
+  "state": "TN",
+  "latitude": 36.5404721,
+  "longitude": -85.8503297,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03312255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03291780",
+  "key": "03291780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03291780",
+  "name": "INDIAN-KENTUCK CREEK NEAR CANAAN, IN",
+  "waterbody": "INDIAN-KENTUCK CREEK NEAR CANAAN, IN",
+  "state": "IN",
+  "latitude": 38.87810218,
+  "longitude": -85.2571616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CANI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian-Kentuck Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cani3",
+  "slug": "usgs-03291780",
+  "noaaForecastPath": "data/noaa-forecast/CANI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

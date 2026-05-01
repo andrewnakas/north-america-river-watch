@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14185800",
+  "key": "14185800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14185800",
+  "name": "MIDDLE SANTIAM R NEAR CASCADIA, OR",
+  "waterbody": "MIDDLE SANTIAM R NEAR CASCADIA, OR",
+  "state": "OR",
+  "latitude": 44.5151239,
+  "longitude": -122.3720249,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14185800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

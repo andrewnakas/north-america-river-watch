@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05284310",
+  "key": "05284310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05284310",
+  "name": "SEGUCHIE CREEK ABOVE MOUTH NEAR GARRISON, MN",
+  "waterbody": "SEGUCHIE CREEK ABOVE MOUTH NEAR GARRISON, MN",
+  "state": "MN",
+  "latitude": 46.2535703,
+  "longitude": -93.8213656,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05284310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

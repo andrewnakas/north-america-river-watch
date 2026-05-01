@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09295100",
+  "key": "09295100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09295100",
+  "name": "DUCHESNE RIV ABV UINTA RIV, NR RANDLETT, UT",
+  "waterbody": "DUCHESNE RIV ABV UINTA RIV, NR RANDLETT, UT",
+  "state": "UT",
+  "latitude": 40.2066278,
+  "longitude": -109.8598673,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRUU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duchesne River Above Uinta River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/druu1",
+  "slug": "usgs-09295100",
+  "noaaForecastPath": "data/noaa-forecast/DRUU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

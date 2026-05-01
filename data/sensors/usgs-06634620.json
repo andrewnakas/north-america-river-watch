@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06634620",
+  "key": "06634620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06634620",
+  "name": "L MEDICINE BOW R AT BOLES SPRING, NR MEDICINE BOW",
+  "waterbody": "L MEDICINE BOW R AT BOLES SPRING, NR MEDICINE BOW",
+  "state": "WY",
+  "latitude": 41.96105917,
+  "longitude": -106.2092391,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Medicine Bow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmbw4",
+  "slug": "usgs-06634620",
+  "noaaForecastPath": "data/noaa-forecast/LMBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

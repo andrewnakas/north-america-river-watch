@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08169845",
+  "key": "08169845",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08169845",
+  "name": "Guadalupe Rv at CR 143 nr Gonzales, TX",
+  "waterbody": "Guadalupe Rv at CR 143 nr Gonzales, TX",
+  "state": "TX",
+  "latitude": 29.4876,
+  "longitude": -97.5875056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GWGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gwgt2",
+  "slug": "usgs-08169845",
+  "noaaForecastPath": "data/noaa-forecast/GWGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

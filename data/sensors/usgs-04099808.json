@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04099808",
+  "key": "04099808",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04099808",
+  "name": "LITTLE ELKHART RIVER AT MIDDLEBURY, IN",
+  "waterbody": "LITTLE ELKHART RIVER AT MIDDLEBURY, IN",
+  "state": "IN",
+  "latitude": 41.67529329,
+  "longitude": -85.7002295,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04099808",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

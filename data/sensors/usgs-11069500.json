@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11069500",
+  "key": "11069500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11069500",
+  "name": "SAN JACINTO R NR SAN JACINTO",
+  "waterbody": "SAN JACINTO R NR SAN JACINTO",
+  "state": "CA",
+  "latitude": 33.73807629,
+  "longitude": -116.8339098,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11069500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

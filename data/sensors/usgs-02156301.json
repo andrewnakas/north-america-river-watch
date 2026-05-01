@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02156301",
+  "key": "02156301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02156301",
+  "name": "LAWSON FORK CR AT TREATMENT PLANT SPARTANBURG, SC",
+  "waterbody": "LAWSON FORK CR AT TREATMENT PLANT SPARTANBURG, SC",
+  "state": "SC",
+  "latitude": 34.94401407,
+  "longitude": -81.8589917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02156301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

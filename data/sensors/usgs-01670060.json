@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01670060",
+  "key": "01670060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01670060",
+  "name": "WARE RIVER AT WARE RIVER YACHT CLUB NR NAXERA, VA",
+  "waterbody": "WARE RIVER AT WARE RIVER YACHT CLUB NR NAXERA, VA",
+  "state": "VA",
+  "latitude": 37.37936111,
+  "longitude": -76.42544444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRVV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrvv2",
+  "slug": "usgs-01670060",
+  "noaaForecastPath": "data/noaa-forecast/WRVV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

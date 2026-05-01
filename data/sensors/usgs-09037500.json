@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09037500",
+  "key": "09037500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09037500",
+  "name": "WILLIAMS FORK NEAR PARSHALL, CO",
+  "waterbody": "WILLIAMS FORK NEAR PARSHALL, CO",
+  "state": "CO",
+  "latitude": 40.0002,
+  "longitude": -106.180367,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFDC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Williams Fork (CO)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfdc2",
+  "slug": "usgs-09037500",
+  "noaaForecastPath": "data/noaa-forecast/WFDC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

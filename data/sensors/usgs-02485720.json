@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02485720",
+  "key": "02485720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02485720",
+  "name": "WHITE OAK CREEK AT WESTBROOK ROAD AT JACKSON, MS",
+  "waterbody": "WHITE OAK CREEK AT WESTBROOK ROAD AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.3703611,
+  "longitude": -90.1277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOWM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Oak Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wowm6",
+  "slug": "usgs-02485720",
+  "noaaForecastPath": "data/noaa-forecast/WOWM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03127989",
+  "key": "03127989",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03127989",
+  "name": "Beaverdam Run above Tappan Lake OH",
+  "waterbody": "Beaverdam Run above Tappan Lake OH",
+  "state": "OH",
+  "latitude": 40.34694444,
+  "longitude": -81.1266667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03127989",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

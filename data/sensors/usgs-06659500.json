@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06659500",
+  "key": "06659500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06659500",
+  "name": "LARAMIE R AND PIONEER CANAL NR WOODS LANDING, WY",
+  "waterbody": "LARAMIE R AND PIONEER CANAL NR WOODS LANDING, WY",
+  "state": "WY",
+  "latitude": 41.13801288,
+  "longitude": -105.9808908,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WODW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Laramie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wodw4",
+  "slug": "usgs-06659500",
+  "noaaForecastPath": "data/noaa-forecast/WODW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536160",
+  "key": "05536160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536160",
+  "name": "LITTLE CALUMET RIVER NEAR HAMMOND, IN",
+  "waterbody": "LITTLE CALUMET RIVER NEAR HAMMOND, IN",
+  "state": "IN",
+  "latitude": 41.56835005,
+  "longitude": -87.4744557,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmmi3",
+  "slug": "usgs-05536160",
+  "noaaForecastPath": "data/noaa-forecast/HMMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

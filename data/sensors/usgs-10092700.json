@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10092700",
+  "key": "10092700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10092700",
+  "name": "BEAR RIVER AT IDAHO-UTAH STATE LINE",
+  "waterbody": "BEAR RIVER AT IDAHO-UTAH STATE LINE",
+  "state": "ID",
+  "latitude": 42.0129808,
+  "longitude": -111.92134,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIUI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/biui1",
+  "slug": "usgs-10092700",
+  "noaaForecastPath": "data/noaa-forecast/BIUI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

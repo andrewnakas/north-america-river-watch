@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10141200",
+  "key": "10141200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10141200",
+  "name": "NORTH FORK WEBER RIVER NEAR HOOPER, UTAH",
+  "waterbody": "NORTH FORK WEBER RIVER NEAR HOOPER, UTAH",
+  "state": "UT",
+  "latitude": 41.22135556,
+  "longitude": -112.18134722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10141200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

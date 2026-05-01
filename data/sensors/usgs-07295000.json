@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07295000",
+  "key": "07295000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07295000",
+  "name": "BUFFALO RIVER NR WOODVILLE, MS",
+  "waterbody": "BUFFALO RIVER NR WOODVILLE, MS",
+  "state": "MS",
+  "latitude": 31.22694444,
+  "longitude": -91.2955556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOOM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/woom6",
+  "slug": "usgs-07295000",
+  "noaaForecastPath": "data/noaa-forecast/WOOM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

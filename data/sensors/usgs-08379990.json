@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08379990",
+  "key": "08379990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08379990",
+  "name": "GALLINAS CREEK AT BIG PINES NR GALLINAS, NM",
+  "waterbody": "GALLINAS CREEK AT BIG PINES NR GALLINAS, NM",
+  "state": "NM",
+  "latitude": 35.714,
+  "longitude": -105.4661694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08379990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

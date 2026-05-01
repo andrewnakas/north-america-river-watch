@@ -1,0 +1,19 @@
+{
+  "id": "usgs:400048107332401",
+  "key": "400048107332401",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "400048107332401",
+  "name": "N FK WHITE R AT RIO BLANCO CTY RD 14 NR MEEKER, CO",
+  "waterbody": "N FK WHITE R AT RIO BLANCO CTY RD 14 NR MEEKER, CO",
+  "state": "CO",
+  "latitude": 40.0135222,
+  "longitude": -107.5568417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-400048107332401",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

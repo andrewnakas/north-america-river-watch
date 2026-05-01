@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04093176",
+  "key": "04093176",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04093176",
+  "name": "LITTLE CALUMET RIVER AT GRANT ST AT GARY, IN",
+  "waterbody": "LITTLE CALUMET RIVER AT GRANT ST AT GARY, IN",
+  "state": "IN",
+  "latitude": 41.56610556,
+  "longitude": -87.3558333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRGI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grgi3",
+  "slug": "usgs-04093176",
+  "noaaForecastPath": "data/noaa-forecast/GRGI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03178179",
+  "key": "03178179",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03178179",
+  "name": "BRUSH CREEK NEAR PRINCETON, WV",
+  "waterbody": "BRUSH CREEK NEAR PRINCETON, WV",
+  "state": "WV",
+  "latitude": 37.33663889,
+  "longitude": -81.1440833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLWW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brush Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glww2",
+  "slug": "usgs-03178179",
+  "noaaForecastPath": "data/noaa-forecast/GLWW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

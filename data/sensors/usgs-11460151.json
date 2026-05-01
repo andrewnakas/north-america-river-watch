@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11460151",
+  "key": "11460151",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11460151",
+  "name": "REDWOOD C A HWY 1 BRIDGE A MUIR BEACH CA",
+  "waterbody": "REDWOOD C A HWY 1 BRIDGE A MUIR BEACH CA",
+  "state": "CA",
+  "latitude": 37.8661111,
+  "longitude": -122.578611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RMBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwood Creek (Marin County)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rmbc1",
+  "slug": "usgs-11460151",
+  "noaaForecastPath": "data/noaa-forecast/RMBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

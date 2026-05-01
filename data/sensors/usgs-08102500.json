@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08102500",
+  "key": "08102500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08102500",
+  "name": "Leon Rv nr Belton, TX",
+  "waterbody": "Leon Rv nr Belton, TX",
+  "state": "TX",
+  "latitude": 31.07017947,
+  "longitude": -97.4413967,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blet2",
+  "slug": "usgs-08102500",
+  "noaaForecastPath": "data/noaa-forecast/BLET2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

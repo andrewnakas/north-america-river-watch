@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09523400",
+  "key": "09523400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09523400",
+  "name": "TITSINK CANAL NEAR YUMA, AZ",
+  "waterbody": "TITSINK CANAL NEAR YUMA, AZ",
+  "state": "CA",
+  "latitude": 32.82363333,
+  "longitude": -114.5431167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09523400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

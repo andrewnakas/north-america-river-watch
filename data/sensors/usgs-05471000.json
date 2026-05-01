@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05471000",
+  "key": "05471000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05471000",
+  "name": "South Skunk River below Ioway Creek near Ames, IA",
+  "waterbody": "South Skunk River below Ioway Creek near Ames, IA",
+  "state": "IA",
+  "latitude": 42.0082222,
+  "longitude": -93.5959722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMDI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ioway Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amdi4",
+  "slug": "usgs-05471000",
+  "noaaForecastPath": "data/noaa-forecast/AMDI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02389150",
+  "key": "02389150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02389150",
+  "name": "ETOWAH RIVER AT GA 9, NEAR DAWSONVILLE, GA",
+  "waterbody": "ETOWAH RIVER AT GA 9, NEAR DAWSONVILLE, GA",
+  "state": "GA",
+  "latitude": 34.3575833,
+  "longitude": -84.1135833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWSG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Etowah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwsg1",
+  "slug": "usgs-02389150",
+  "noaaForecastPath": "data/noaa-forecast/DWSG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01203805",
+  "key": "01203805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01203805",
+  "name": "WEEKEEPEEMEE RIVER AT HOTCHKISSVILLE, CT",
+  "waterbody": "WEEKEEPEEMEE RIVER AT HOTCHKISSVILLE, CT",
+  "state": "CT",
+  "latitude": 41.55770833,
+  "longitude": -73.21535278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01203805",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

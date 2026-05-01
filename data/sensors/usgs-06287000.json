@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06287000",
+  "key": "06287000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06287000",
+  "name": "Bighorn R bl Yellowtail Afterbay Dam nr St. Xavier",
+  "waterbody": "Bighorn R bl Yellowtail Afterbay Dam nr St. Xavier",
+  "state": "MT",
+  "latitude": 45.31690278,
+  "longitude": -107.9188889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STXM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bighorn River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stxm8",
+  "slug": "usgs-06287000",
+  "noaaForecastPath": "data/noaa-forecast/STXM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

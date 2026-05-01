@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04065650",
+  "key": "04065650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04065650",
+  "name": "STURGEON RIVER AT US HWY-2 AT LORETTO, MI",
+  "waterbody": "STURGEON RIVER AT US HWY-2 AT LORETTO, MI",
+  "state": "MI",
+  "latitude": 45.77607029,
+  "longitude": -87.82845849,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LORM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sturgeon River - Dickinson Co",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lorm4",
+  "slug": "usgs-04065650",
+  "noaaForecastPath": "data/noaa-forecast/LORM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12508990",
+  "key": "12508990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12508990",
+  "name": "YAKIMA RIVER AT MABTON, WA",
+  "waterbody": "YAKIMA RIVER AT MABTON, WA",
+  "state": "WA",
+  "latitude": 46.23120786,
+  "longitude": -119.9994537,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12508990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

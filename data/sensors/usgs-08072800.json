@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08072800",
+  "key": "08072800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08072800",
+  "name": "Langham Ck nr Addicks, TX",
+  "waterbody": "Langham Ck nr Addicks, TX",
+  "state": "TX",
+  "latitude": 29.8357824,
+  "longitude": -95.6257783,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08072800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

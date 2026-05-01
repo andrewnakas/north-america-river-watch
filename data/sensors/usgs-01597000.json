@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01597000",
+  "key": "01597000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01597000",
+  "name": "CRABTREE CREEK NEAR SWANTON, MD",
+  "waterbody": "CRABTREE CREEK NEAR SWANTON, MD",
+  "state": "MD",
+  "latitude": 39.50138889,
+  "longitude": -79.15875,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01597000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

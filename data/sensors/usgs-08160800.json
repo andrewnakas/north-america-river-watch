@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08160800",
+  "key": "08160800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08160800",
+  "name": "Redgate Ck nr Columbus, TX",
+  "waterbody": "Redgate Ck nr Columbus, TX",
+  "state": "TX",
+  "latitude": 29.79911967,
+  "longitude": -96.5321933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redgate Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frlt2",
+  "slug": "usgs-08160800",
+  "noaaForecastPath": "data/noaa-forecast/FRLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

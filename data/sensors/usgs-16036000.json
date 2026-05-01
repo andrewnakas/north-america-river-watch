@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16036000",
+  "key": "16036000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16036000",
+  "name": "Makaweli River nr Waimea, Kauai, HI",
+  "waterbody": "Makaweli River nr Waimea, Kauai, HI",
+  "state": "HI",
+  "latitude": 21.97138889,
+  "longitude": -159.6461389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16036000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09291000",
+  "key": "09291000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09291000",
+  "name": "LAKE FORK RIVER BL MOON LAKE NR MOUNTAIN HOME, UT",
+  "waterbody": "LAKE FORK RIVER BL MOON LAKE NR MOUNTAIN HOME, UT",
+  "state": "UT",
+  "latitude": 40.55633555,
+  "longitude": -110.4846056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09291000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

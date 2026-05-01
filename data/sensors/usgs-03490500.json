@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03490500",
+  "key": "03490500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03490500",
+  "name": "HOLSTON RIVER AT SURGOINSVILLE, TN",
+  "waterbody": "HOLSTON RIVER AT SURGOINSVILLE, TN",
+  "state": "TN",
+  "latitude": 36.47204104,
+  "longitude": -82.8471068,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03490500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

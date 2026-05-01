@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09470000",
+  "key": "09470000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09470000",
+  "name": "GILA RIVER AT WINKELMAN, ARIZ.",
+  "waterbody": "GILA RIVER AT WINKELMAN, ARIZ.",
+  "state": "AZ",
+  "latitude": 33.0017324,
+  "longitude": -110.7659386,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09470000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03116000",
+  "key": "03116000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03116000",
+  "name": "Tuscarawas River at Clinton OH",
+  "waterbody": "Tuscarawas River at Clinton OH",
+  "state": "OH",
+  "latitude": 40.9278334,
+  "longitude": -81.6326245,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LINO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lino1",
+  "slug": "usgs-03116000",
+  "noaaForecastPath": "data/noaa-forecast/LINO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04100295",
+  "key": "04100295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04100295",
+  "name": "RIMMELL BRANCH NEAR ALBION, IN",
+  "waterbody": "RIMMELL BRANCH NEAR ALBION, IN",
+  "state": "IN",
+  "latitude": 41.38529569,
+  "longitude": -85.3704965,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04100295",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

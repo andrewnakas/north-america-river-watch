@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11464000",
+  "key": "11464000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11464000",
+  "name": "RUSSIAN R NR HEALDSBURG CA",
+  "waterbody": "RUSSIAN R NR HEALDSBURG CA",
+  "state": "CA",
+  "latitude": 38.6132032,
+  "longitude": -122.8363448,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HEAC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/heac1",
+  "slug": "usgs-11464000",
+  "noaaForecastPath": "data/noaa-forecast/HEAC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

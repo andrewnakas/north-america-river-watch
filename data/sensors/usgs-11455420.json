@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11455420",
+  "key": "11455420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455420",
+  "name": "SACRAMENTO R A RIO VISTA CA",
+  "waterbody": "SACRAMENTO R A RIO VISTA CA",
+  "state": "CA",
+  "latitude": 38.153281,
+  "longitude": -121.687008,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RVBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacramento River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rvbc1",
+  "slug": "usgs-11455420",
+  "noaaForecastPath": "data/noaa-forecast/RVBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

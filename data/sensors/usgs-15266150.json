@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15266150",
+  "key": "15266150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15266150",
+  "name": "KENAI R BL MOUTH OF KILLEY R NR STERLING AK",
+  "waterbody": "KENAI R BL MOUTH OF KILLEY R NR STERLING AK",
+  "state": "AK",
+  "latitude": 60.4905439,
+  "longitude": -150.6327592,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KRKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kenai River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/krka2",
+  "slug": "usgs-15266150",
+  "noaaForecastPath": "data/noaa-forecast/KRKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

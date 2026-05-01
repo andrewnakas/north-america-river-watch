@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13050543",
+  "key": "13050543",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13050543",
+  "name": "INDEPENDENT CANAL DRAIN NR REXBURG ID",
+  "waterbody": "INDEPENDENT CANAL DRAIN NR REXBURG ID",
+  "state": "ID",
+  "latitude": 43.8408333,
+  "longitude": -111.8972222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13050543",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

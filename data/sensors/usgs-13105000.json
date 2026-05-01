@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13105000",
+  "key": "13105000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13105000",
+  "name": "SALMON FALLS CREEK NR SAN JACINTO NV",
+  "waterbody": "SALMON FALLS CREEK NR SAN JACINTO NV",
+  "state": "NV",
+  "latitude": 41.9447222,
+  "longitude": -114.688611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFLN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon Falls Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfln2",
+  "slug": "usgs-13105000",
+  "noaaForecastPath": "data/noaa-forecast/SFLN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

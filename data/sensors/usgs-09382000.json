@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09382000",
+  "key": "09382000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09382000",
+  "name": "PARIA RIVER AT LEES FERRY, AZ",
+  "waterbody": "PARIA RIVER AT LEES FERRY, AZ",
+  "state": "AZ",
+  "latitude": 36.87221098,
+  "longitude": -111.59462862,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLFA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paria River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plfa3",
+  "slug": "usgs-09382000",
+  "noaaForecastPath": "data/noaa-forecast/PLFA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

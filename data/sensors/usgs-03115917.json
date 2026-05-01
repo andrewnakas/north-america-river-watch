@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03115917",
+  "key": "03115917",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03115917",
+  "name": "Tuscarawas River above Barberton OH",
+  "waterbody": "Tuscarawas River above Barberton OH",
+  "state": "OH",
+  "latitude": 41.02,
+  "longitude": -81.5602778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brbo1",
+  "slug": "usgs-03115917",
+  "noaaForecastPath": "data/noaa-forecast/BRBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09471310",
+  "key": "09471310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09471310",
+  "name": "HUACHUCA CANYON NEAR FORT HUACHUCA, AZ",
+  "waterbody": "HUACHUCA CANYON NEAR FORT HUACHUCA, AZ",
+  "state": "AZ",
+  "latitude": 31.51805556,
+  "longitude": -110.3872222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09471310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07263650",
+  "key": "07263650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07263650",
+  "name": "Arkansas River at Pine Bluff, AR",
+  "waterbody": "Arkansas River at Pine Bluff, AR",
+  "state": "AR",
+  "latitude": 34.29027778,
+  "longitude": -91.9955556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBFA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbfa4",
+  "slug": "usgs-07263650",
+  "noaaForecastPath": "data/noaa-forecast/PBFA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

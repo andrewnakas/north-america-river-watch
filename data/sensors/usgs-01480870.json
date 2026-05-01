@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01480870",
+  "key": "01480870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480870",
+  "name": "East Branch Brandywine Creek below Downingtown, PA",
+  "waterbody": "East Branch Brandywine Creek below Downingtown, PA",
+  "state": "PA",
+  "latitude": 39.9687191,
+  "longitude": -75.6732715,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Brandywine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwnp1",
+  "slug": "usgs-01480870",
+  "noaaForecastPath": "data/noaa-forecast/DWNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

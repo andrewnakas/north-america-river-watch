@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12090452",
+  "key": "12090452",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12090452",
+  "name": "SPANAWAY CR AT SPANAWAY LK OUTLET NR SPANAWAY, WA",
+  "waterbody": "SPANAWAY CR AT SPANAWAY LK OUTLET NR SPANAWAY, WA",
+  "state": "WA",
+  "latitude": 47.12232116,
+  "longitude": -122.4462333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12090452",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

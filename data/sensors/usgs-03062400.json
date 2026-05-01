@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03062400",
+  "key": "03062400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062400",
+  "name": "COBUN CREEK AT MORGANTOWN, WV",
+  "waterbody": "COBUN CREEK AT MORGANTOWN, WV",
+  "state": "WV",
+  "latitude": 39.6081377,
+  "longitude": -79.95506418,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03062400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

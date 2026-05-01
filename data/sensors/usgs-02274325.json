@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02274325",
+  "key": "02274325",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02274325",
+  "name": "TAYLOR CREEK AT GRASSY ISLAND NR OKEECHOBEE, FL",
+  "waterbody": "TAYLOR CREEK AT GRASSY ISLAND NR OKEECHOBEE, FL",
+  "state": "FL",
+  "latitude": 27.31638889,
+  "longitude": -80.8383333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Taylor Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcgf1",
+  "slug": "usgs-02274325",
+  "noaaForecastPath": "data/noaa-forecast/TCGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

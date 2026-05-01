@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01505810",
+  "key": "01505810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01505810",
+  "name": "CHENANGO RIVER AT OXFORD NY",
+  "waterbody": "CHENANGO RIVER AT OXFORD NY",
+  "state": "NY",
+  "latitude": 42.441222,
+  "longitude": -75.596306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHON6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chenango River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chon6",
+  "slug": "usgs-01505810",
+  "noaaForecastPath": "data/noaa-forecast/CHON6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

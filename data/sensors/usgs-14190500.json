@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14190500",
+  "key": "14190500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14190500",
+  "name": "LUCKIAMUTE RIVER NEAR SUVER, OR",
+  "waterbody": "LUCKIAMUTE RIVER NEAR SUVER, OR",
+  "state": "OR",
+  "latitude": 44.78317527,
+  "longitude": -123.2345435,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUVO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Luckiamute River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suvo3",
+  "slug": "usgs-14190500",
+  "noaaForecastPath": "data/noaa-forecast/SUVO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

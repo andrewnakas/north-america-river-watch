@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02244440",
+  "key": "02244440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02244440",
+  "name": "DUNNS CREEK NEAR SATSUMA, FL",
+  "waterbody": "DUNNS CREEK NEAR SATSUMA, FL",
+  "state": "FL",
+  "latitude": 29.57774783,
+  "longitude": -81.626191,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNSF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dunns Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnsf1",
+  "slug": "usgs-02244440",
+  "noaaForecastPath": "data/noaa-forecast/DNSF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04099850",
+  "key": "04099850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04099850",
+  "name": "PINE CREEK NEAR ELKHART, IND.",
+  "waterbody": "PINE CREEK NEAR ELKHART, IND.",
+  "state": "IN",
+  "latitude": 41.68112665,
+  "longitude": -85.8824579,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04099850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

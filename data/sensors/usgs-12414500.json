@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12414500",
+  "key": "12414500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12414500",
+  "name": "ST JOE RIVER AT CALDER, ID",
+  "waterbody": "ST JOE RIVER AT CALDER, ID",
+  "state": "ID",
+  "latitude": 47.2744444,
+  "longitude": -116.1888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLDI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Joe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cldi1",
+  "slug": "usgs-12414500",
+  "noaaForecastPath": "data/noaa-forecast/CLDI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

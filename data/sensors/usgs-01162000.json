@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01162000",
+  "key": "01162000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01162000",
+  "name": "MILLERS RIVER NEAR WINCHENDON, MA",
+  "waterbody": "MILLERS RIVER NEAR WINCHENDON, MA",
+  "state": "MA",
+  "latitude": 42.6842527,
+  "longitude": -72.08341388,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNDM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Millers River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wndm3",
+  "slug": "usgs-01162000",
+  "noaaForecastPath": "data/noaa-forecast/WNDM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

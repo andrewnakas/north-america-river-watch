@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08200720",
+  "key": "08200720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08200720",
+  "name": "Hondo Ck at SH 173 nr Hondo, TX",
+  "waterbody": "Hondo Ck at SH 173 nr Hondo, TX",
+  "state": "TX",
+  "latitude": 29.3761111,
+  "longitude": -99.1166667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KWHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hondo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kwht2",
+  "slug": "usgs-08200720",
+  "noaaForecastPath": "data/noaa-forecast/KWHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

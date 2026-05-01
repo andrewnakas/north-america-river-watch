@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01124151",
+  "key": "01124151",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01124151",
+  "name": "QUINEBAUG RIVER AT WEST THOMPSON, CT",
+  "waterbody": "QUINEBAUG RIVER AT WEST THOMPSON, CT",
+  "state": "CT",
+  "latitude": 41.94356667,
+  "longitude": -71.89959722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01124151",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

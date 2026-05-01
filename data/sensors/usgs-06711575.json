@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06711575",
+  "key": "06711575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06711575",
+  "name": "HARVARD GULCH AT HARVARD PARK AT DENVER, CO",
+  "waterbody": "HARVARD GULCH AT HARVARD PARK AT DENVER, CO",
+  "state": "CO",
+  "latitude": 39.67172222,
+  "longitude": -104.97702778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGPC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Harvard Gulch (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgpc2",
+  "slug": "usgs-06711575",
+  "noaaForecastPath": "data/noaa-forecast/HGPC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

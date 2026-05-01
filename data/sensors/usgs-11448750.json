@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11448750",
+  "key": "11448750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11448750",
+  "name": "SF SCOTTS C NR LAKEPORT CA",
+  "waterbody": "SF SCOTTS C NR LAKEPORT CA",
+  "state": "CA",
+  "latitude": 39.04027778,
+  "longitude": -122.98330556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11448750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

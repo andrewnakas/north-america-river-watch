@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313350",
+  "key": "08313350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313350",
+  "name": "RITO DE LOS FRIJOLES IN BANDELIER NAT MON, NM",
+  "waterbody": "RITO DE LOS FRIJOLES IN BANDELIER NAT MON, NM",
+  "state": "NM",
+  "latitude": 35.77638889,
+  "longitude": -106.2683333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

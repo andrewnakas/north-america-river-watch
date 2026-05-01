@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06921070",
+  "key": "06921070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06921070",
+  "name": "Pomme de Terre River near Polk, MO",
+  "waterbody": "Pomme de Terre River near Polk, MO",
+  "state": "MO",
+  "latitude": 37.68266667,
+  "longitude": -93.3703333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POKM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pomme de Terre River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pokm7",
+  "slug": "usgs-06921070",
+  "noaaForecastPath": "data/noaa-forecast/POKM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

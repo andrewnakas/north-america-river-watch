@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02444161",
+  "key": "02444161",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02444161",
+  "name": "TOMBIGBEE RIVER BEL BEVIL L&D NR PICKENSVILLE, AL.",
+  "waterbody": "TOMBIGBEE RIVER BEL BEVIL L&D NR PICKENSVILLE, AL.",
+  "state": "AL",
+  "latitude": 33.21040097,
+  "longitude": -88.2886454,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AVLA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tombigbee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/avla1",
+  "slug": "usgs-02444161",
+  "noaaForecastPath": "data/noaa-forecast/AVLA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

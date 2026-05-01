@@ -1,0 +1,22 @@
+{
+  "id": "usgs:383103106594200",
+  "key": "383103106594200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "383103106594200",
+  "name": "GUNNISON RIVER AT CNTY RD 32 BELOW GUNNISON, CO",
+  "waterbody": "GUNNISON RIVER AT CNTY RD 32 BELOW GUNNISON, CO",
+  "state": "CO",
+  "latitude": 38.51725556,
+  "longitude": -106.99545,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBGC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gunnison River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbgc2",
+  "slug": "usgs-383103106594200",
+  "noaaForecastPath": "data/noaa-forecast/GBGC2.json",
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

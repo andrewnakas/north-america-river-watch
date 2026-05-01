@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14145110",
+  "key": "14145110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14145110",
+  "name": "HILLS CREEK DAM TAILWATER NEAR OAKRIDGE, OR",
+  "waterbody": "HILLS CREEK DAM TAILWATER NEAR OAKRIDGE, OR",
+  "state": "OR",
+  "latitude": 43.71070278,
+  "longitude": -122.4239389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hills Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcro3",
+  "slug": "usgs-14145110",
+  "noaaForecastPath": "data/noaa-forecast/HCRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

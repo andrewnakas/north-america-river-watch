@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04164500",
+  "key": "04164500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04164500",
+  "name": "NORTH BRANCH CLINTON RIVER NEAR MT. CLEMENS, MI",
+  "waterbody": "NORTH BRANCH CLINTON RIVER NEAR MT. CLEMENS, MI",
+  "state": "MI",
+  "latitude": 42.62920008,
+  "longitude": -82.8888104,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCLM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "N. Br. Clinton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mclm4",
+  "slug": "usgs-04164500",
+  "noaaForecastPath": "data/noaa-forecast/MCLM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09486055",
+  "key": "09486055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09486055",
+  "name": "RILLITO CREEK AT LA CHOLLA BLVD NEAR TUCSON, AZ.",
+  "waterbody": "RILLITO CREEK AT LA CHOLLA BLVD NEAR TUCSON, AZ.",
+  "state": "AZ",
+  "latitude": 32.3027611,
+  "longitude": -111.011375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RICA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rillito Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rica3",
+  "slug": "usgs-09486055",
+  "noaaForecastPath": "data/noaa-forecast/RICA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

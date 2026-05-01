@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03238495",
+  "key": "03238495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03238495",
+  "name": "White Oak Creek above Georgetown OH",
+  "waterbody": "White Oak Creek above Georgetown OH",
+  "state": "OH",
+  "latitude": 38.9197222,
+  "longitude": -83.9283333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GTWO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Oak Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gtwo1",
+  "slug": "usgs-03238495",
+  "noaaForecastPath": "data/noaa-forecast/GTWO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

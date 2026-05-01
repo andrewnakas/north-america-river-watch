@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02174055",
+  "key": "02174055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02174055",
+  "name": "EDISTO RIVER BELOW CANADYS, SC",
+  "waterbody": "EDISTO RIVER BELOW CANADYS, SC",
+  "state": "SC",
+  "latitude": 33.06166667,
+  "longitude": -80.52438889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CERS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Edisto River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cers1",
+  "slug": "usgs-02174055",
+  "noaaForecastPath": "data/noaa-forecast/CERS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

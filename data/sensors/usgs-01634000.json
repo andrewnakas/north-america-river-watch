@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01634000",
+  "key": "01634000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01634000",
+  "name": "N F SHENANDOAH RIVER NEAR STRASBURG, VA",
+  "waterbody": "N F SHENANDOAH RIVER NEAR STRASBURG, VA",
+  "state": "VA",
+  "latitude": 38.9767759,
+  "longitude": -78.3361152,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STGV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Shenandoah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stgv2",
+  "slug": "usgs-01634000",
+  "noaaForecastPath": "data/noaa-forecast/STGV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

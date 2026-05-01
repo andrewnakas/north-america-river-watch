@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12048000",
+  "key": "12048000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12048000",
+  "name": "DUNGENESS RIVER NEAR SEQUIM, WA",
+  "waterbody": "DUNGENESS RIVER NEAR SEQUIM, WA",
+  "state": "WA",
+  "latitude": 48.0142578,
+  "longitude": -123.1326773,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRSW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dungeness River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drsw1",
+  "slug": "usgs-12048000",
+  "noaaForecastPath": "data/noaa-forecast/DRSW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

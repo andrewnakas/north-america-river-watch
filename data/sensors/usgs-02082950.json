@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02082950",
+  "key": "02082950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02082950",
+  "name": "LITTLE FISHING CREEK NEAR WHITE OAK, NC",
+  "waterbody": "LITTLE FISHING CREEK NEAR WHITE OAK, NC",
+  "state": "NC",
+  "latitude": 36.1833333,
+  "longitude": -77.8761111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RNGN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Fishing Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rngn7",
+  "slug": "usgs-02082950",
+  "noaaForecastPath": "data/noaa-forecast/RNGN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08161000",
+  "key": "08161000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08161000",
+  "name": "Colorado Rv at Columbus, TX",
+  "waterbody": "Colorado Rv at Columbus, TX",
+  "state": "TX",
+  "latitude": 29.7063454,
+  "longitude": -96.5369155,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbst2",
+  "slug": "usgs-08161000",
+  "noaaForecastPath": "data/noaa-forecast/CBST2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06449100",
+  "key": "06449100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06449100",
+  "name": "LITTLE WHITE RIVER NEAR VETAL,SD",
+  "waterbody": "LITTLE WHITE RIVER NEAR VETAL,SD",
+  "state": "SD",
+  "latitude": 43.10069918,
+  "longitude": -101.232234,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VTLS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vtls2",
+  "slug": "usgs-06449100",
+  "noaaForecastPath": "data/noaa-forecast/VTLS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

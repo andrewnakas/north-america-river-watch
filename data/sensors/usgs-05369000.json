@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05369000",
+  "key": "05369000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05369000",
+  "name": "RED CEDAR RIVER AT MENOMONIE, WI",
+  "waterbody": "RED CEDAR RIVER AT MENOMONIE, WI",
+  "state": "WI",
+  "latitude": 44.87527778,
+  "longitude": -91.9380556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MENW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Cedar River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/menw3",
+  "slug": "usgs-05369000",
+  "noaaForecastPath": "data/noaa-forecast/MENW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

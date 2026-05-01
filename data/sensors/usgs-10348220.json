@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348220",
+  "key": "10348220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348220",
+  "name": "ORR DITCH AT SPANISH SPRINGS VALLEY NEAR SPARKS NV",
+  "waterbody": "ORR DITCH AT SPANISH SPRINGS VALLEY NEAR SPARKS NV",
+  "state": "NV",
+  "latitude": 39.5660221,
+  "longitude": -119.7318546,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

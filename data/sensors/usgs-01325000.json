@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01325000",
+  "key": "01325000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01325000",
+  "name": "SACANDAGA RIVER AT STEWARTS BRIDGE NR HADLEY NY",
+  "waterbody": "SACANDAGA RIVER AT STEWARTS BRIDGE NR HADLEY NY",
+  "state": "NY",
+  "latitude": 43.3113611,
+  "longitude": -73.8672222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sacandaga River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdln6",
+  "slug": "usgs-01325000",
+  "noaaForecastPath": "data/noaa-forecast/HDLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

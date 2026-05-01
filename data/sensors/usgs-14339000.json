@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14339000",
+  "key": "14339000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14339000",
+  "name": "ROGUE RIVER AT DODGE BRIDGE, NEAR EAGLE POINT, OR",
+  "waterbody": "ROGUE RIVER AT DODGE BRIDGE, NEAR EAGLE POINT, OR",
+  "state": "OR",
+  "latitude": 42.5248471,
+  "longitude": -122.8428203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EGLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rogue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eglo3",
+  "slug": "usgs-14339000",
+  "noaaForecastPath": "data/noaa-forecast/EGLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

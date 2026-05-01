@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04086340",
+  "key": "04086340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086340",
+  "name": "NORTH BRANCH MILWAUKEE RIVER NEAR FILLMORE, WI",
+  "waterbody": "NORTH BRANCH MILWAUKEE RIVER NEAR FILLMORE, WI",
+  "state": "WI",
+  "latitude": 43.4827765,
+  "longitude": -88.0609264,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04086340",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

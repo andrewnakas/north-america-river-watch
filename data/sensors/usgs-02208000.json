@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02208000",
+  "key": "02208000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02208000",
+  "name": "YELLOW RIVER ROCKY PLAINS RD NR ROCKY PLAINS, GA",
+  "waterbody": "YELLOW RIVER ROCKY PLAINS RD NR ROCKY PLAINS, GA",
+  "state": "GA",
+  "latitude": 33.4998611,
+  "longitude": -83.8841667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKYG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkyg1",
+  "slug": "usgs-02208000",
+  "noaaForecastPath": "data/noaa-forecast/RKYG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

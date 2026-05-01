@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11152300",
+  "key": "11152300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11152300",
+  "name": "SALINAS R NR CHUALAR CA",
+  "waterbody": "SALINAS R NR CHUALAR CA",
+  "state": "CA",
+  "latitude": 36.55357267,
+  "longitude": -121.5493856,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salinas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chlc1",
+  "slug": "usgs-11152300",
+  "noaaForecastPath": "data/noaa-forecast/CHLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

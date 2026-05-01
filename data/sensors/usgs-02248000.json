@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02248000",
+  "key": "02248000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02248000",
+  "name": "SPRUCE CREEK NEAR SAMSULA, FL",
+  "waterbody": "SPRUCE CREEK NEAR SAMSULA, FL",
+  "state": "FL",
+  "latitude": 29.05081845,
+  "longitude": -81.0464455,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCSF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spruce Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scsf1",
+  "slug": "usgs-02248000",
+  "noaaForecastPath": "data/noaa-forecast/SCSF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

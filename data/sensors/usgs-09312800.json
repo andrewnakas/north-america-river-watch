@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09312800",
+  "key": "09312800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09312800",
+  "name": "WILLOW CREEK NEAR CASTLE GATE, UTAH",
+  "waterbody": "WILLOW CREEK NEAR CASTLE GATE, UTAH",
+  "state": "UT",
+  "latitude": 39.7769068,
+  "longitude": -110.7923812,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09312800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

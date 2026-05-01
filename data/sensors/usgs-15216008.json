@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15216008",
+  "key": "15216008",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15216008",
+  "name": "MURCHISON C NR CORDOVA AK",
+  "waterbody": "MURCHISON C NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.53643364,
+  "longitude": -145.71624992,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15216008",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

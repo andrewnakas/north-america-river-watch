@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10205000",
+  "key": "10205000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10205000",
+  "name": "SEVIER RIVER NEAR SIGURD, UT",
+  "waterbody": "SEVIER RIVER NEAR SIGURD, UT",
+  "state": "UT",
+  "latitude": 38.873298,
+  "longitude": -111.9540931,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGDU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sevier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgdu1",
+  "slug": "usgs-10205000",
+  "noaaForecastPath": "data/noaa-forecast/SGDU1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

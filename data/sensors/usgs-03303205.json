@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03303205",
+  "key": "03303205",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03303205",
+  "name": "SINKING CREEK NEAR LODIBURG, KY",
+  "waterbody": "SINKING CREEK NEAR LODIBURG, KY",
+  "state": "KY",
+  "latitude": 37.86839594,
+  "longitude": -86.3877537,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03303205",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

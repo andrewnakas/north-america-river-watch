@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07341200",
+  "key": "07341200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07341200",
+  "name": "Saline River near Lockesburg, AR",
+  "waterbody": "Saline River near Lockesburg, AR",
+  "state": "AR",
+  "latitude": 33.9622222,
+  "longitude": -94.0616667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCKA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcka4",
+  "slug": "usgs-07341200",
+  "noaaForecastPath": "data/noaa-forecast/LCKA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15493000",
+  "key": "15493000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15493000",
+  "name": "CHENA R NR TWO RIVERS AK",
+  "waterbody": "CHENA R NR TWO RIVERS AK",
+  "state": "AK",
+  "latitude": 64.9019722,
+  "longitude": -146.3613333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UCHA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chena River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ucha2",
+  "slug": "usgs-15493000",
+  "noaaForecastPath": "data/noaa-forecast/UCHA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06813000",
+  "key": "06813000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06813000",
+  "name": "Tarkio River at Fairfax, MO",
+  "waterbody": "Tarkio River at Fairfax, MO",
+  "state": "MO",
+  "latitude": 40.33941667,
+  "longitude": -95.4068333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FFXM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tarkio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ffxm7",
+  "slug": "usgs-06813000",
+  "noaaForecastPath": "data/noaa-forecast/FFXM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

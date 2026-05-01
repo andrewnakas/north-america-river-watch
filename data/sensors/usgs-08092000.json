@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08092000",
+  "key": "08092000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08092000",
+  "name": "Nolan Rv at Blum, TX",
+  "waterbody": "Nolan Rv at Blum, TX",
+  "state": "TX",
+  "latitude": 32.15070534,
+  "longitude": -97.402794,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nolan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bumt2",
+  "slug": "usgs-08092000",
+  "noaaForecastPath": "data/noaa-forecast/BUMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

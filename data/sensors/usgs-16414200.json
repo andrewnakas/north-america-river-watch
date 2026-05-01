@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16414200",
+  "key": "16414200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16414200",
+  "name": "Kaunakakai Gulch at altitude 75 feet, Molokai, HI",
+  "waterbody": "Kaunakakai Gulch at altitude 75 feet, Molokai, HI",
+  "state": "HI",
+  "latitude": 21.09652778,
+  "longitude": -157.017861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KKGH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kaunakakai Gulch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kkgh1",
+  "slug": "usgs-16414200",
+  "noaaForecastPath": "data/noaa-forecast/KKGH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06064100",
+  "key": "06064100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06064100",
+  "name": "Tenmile Cr at Green Meadow Drive at Helena MT",
+  "waterbody": "Tenmile Cr at Green Meadow Drive at Helena MT",
+  "state": "MT",
+  "latitude": 46.6319333,
+  "longitude": -112.0470056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06064100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03297900",
+  "key": "03297900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03297900",
+  "name": "FLOYDS FORK NEAR PEWEE VALLEY, KY",
+  "waterbody": "FLOYDS FORK NEAR PEWEE VALLEY, KY",
+  "state": "KY",
+  "latitude": 38.28534776,
+  "longitude": -85.4674592,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PVYK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Floyds Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pvyk2",
+  "slug": "usgs-03297900",
+  "noaaForecastPath": "data/noaa-forecast/PVYK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

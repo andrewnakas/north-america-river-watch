@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214196125",
+  "key": "0214196125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214196125",
+  "name": "CATAWBA RIVER AT NC HIGHWAY 16 NR MILLERSVILLE, NC",
+  "waterbody": "CATAWBA RIVER AT NC HIGHWAY 16 NR MILLERSVILLE, NC",
+  "state": "NC",
+  "latitude": 35.8218972,
+  "longitude": -81.1903833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OXFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oxfn7",
+  "slug": "usgs-0214196125",
+  "noaaForecastPath": "data/noaa-forecast/OXFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

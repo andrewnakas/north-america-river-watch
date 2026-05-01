@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02295163",
+  "key": "02295163",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02295163",
+  "name": "WHIDDEN CREEK NEAR FORT MEADE FL",
+  "waterbody": "WHIDDEN CREEK NEAR FORT MEADE FL",
+  "state": "FL",
+  "latitude": 27.707254,
+  "longitude": -81.8075826,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDNF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whidden Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdnf1",
+  "slug": "usgs-02295163",
+  "noaaForecastPath": "data/noaa-forecast/WDNF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

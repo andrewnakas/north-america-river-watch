@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01108000",
+  "key": "01108000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01108000",
+  "name": "TAUNTON RIVER NEAR BRIDGEWATER, MA",
+  "waterbody": "TAUNTON RIVER NEAR BRIDGEWATER, MA",
+  "state": "MA",
+  "latitude": 41.9339903,
+  "longitude": -70.9564307,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDGM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Taunton River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdgm3",
+  "slug": "usgs-01108000",
+  "noaaForecastPath": "data/noaa-forecast/BDGM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

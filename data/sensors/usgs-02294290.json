@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294290",
+  "key": "02294290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294290",
+  "name": "SADDLE CREEK AT STATE HWY 570 NEAR EATON PARK FL",
+  "waterbody": "SADDLE CREEK AT STATE HWY 570 NEAR EATON PARK FL",
+  "state": "FL",
+  "latitude": 28.0100499,
+  "longitude": -81.853192,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDEF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saddle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdef1",
+  "slug": "usgs-02294290",
+  "noaaForecastPath": "data/noaa-forecast/SDEF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

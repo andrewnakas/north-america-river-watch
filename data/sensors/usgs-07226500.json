@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07226500",
+  "key": "07226500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07226500",
+  "name": "UTE CREEK NEAR LOGAN, NM",
+  "waterbody": "UTE CREEK NEAR LOGAN, NM",
+  "state": "NM",
+  "latitude": 35.43852778,
+  "longitude": -103.5257944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07226500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

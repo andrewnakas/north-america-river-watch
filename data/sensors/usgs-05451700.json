@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05451700",
+  "key": "05451700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05451700",
+  "name": "Timber Creek near Marshalltown, IA",
+  "waterbody": "Timber Creek near Marshalltown, IA",
+  "state": "IA",
+  "latitude": 42.008875,
+  "longitude": -92.8524194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Timber Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtwi4",
+  "slug": "usgs-05451700",
+  "noaaForecastPath": "data/noaa-forecast/MTWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

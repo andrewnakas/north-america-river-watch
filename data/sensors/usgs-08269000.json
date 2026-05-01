@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08269000",
+  "key": "08269000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08269000",
+  "name": "RIO PUEBLO DE TAOS NEAR TAOS, NM",
+  "waterbody": "RIO PUEBLO DE TAOS NEAR TAOS, NM",
+  "state": "NM",
+  "latitude": 36.44126944,
+  "longitude": -105.51065,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08269000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

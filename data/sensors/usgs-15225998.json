@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15225998",
+  "key": "15225998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15225998",
+  "name": "SOLOMON GULCH BYPASS NR VALDEZ AK",
+  "waterbody": "SOLOMON GULCH BYPASS NR VALDEZ AK",
+  "state": "AK",
+  "latitude": 61.08254695,
+  "longitude": -146.30602154,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15225998",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

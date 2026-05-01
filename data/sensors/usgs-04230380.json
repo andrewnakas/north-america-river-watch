@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04230380",
+  "key": "04230380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04230380",
+  "name": "OATKA CREEK AT WARSAW NY",
+  "waterbody": "OATKA CREEK AT WARSAW NY",
+  "state": "NY",
+  "latitude": 42.74266667,
+  "longitude": -78.1376111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRWN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oatka Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrwn6",
+  "slug": "usgs-04230380",
+  "noaaForecastPath": "data/noaa-forecast/WRWN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

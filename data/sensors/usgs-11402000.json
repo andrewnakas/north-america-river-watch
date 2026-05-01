@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11402000",
+  "key": "11402000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11402000",
+  "name": "SPANISH C AB BLACKHAWK C AT KEDDIE CA",
+  "waterbody": "SPANISH C AB BLACKHAWK C AT KEDDIE CA",
+  "state": "CA",
+  "latitude": 40.0029195,
+  "longitude": -120.9543714,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spanish Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scbc1",
+  "slug": "usgs-11402000",
+  "noaaForecastPath": "data/noaa-forecast/SCBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

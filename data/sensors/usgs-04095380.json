@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04095380",
+  "key": "04095380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04095380",
+  "name": "TRAIL CREEK AT MICHIGAN CITY HARBOR, IN",
+  "waterbody": "TRAIL CREEK AT MICHIGAN CITY HARBOR, IN",
+  "state": "IN",
+  "latitude": 41.72279319,
+  "longitude": -86.9041588,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trail Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgni3",
+  "slug": "usgs-04095380",
+  "noaaForecastPath": "data/noaa-forecast/MGNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

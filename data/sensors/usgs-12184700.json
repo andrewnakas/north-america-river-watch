@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12184700",
+  "key": "12184700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12184700",
+  "name": "SKAGIT RIVER NEAR ROCKPORT, WA",
+  "waterbody": "SKAGIT RIVER NEAR ROCKPORT, WA",
+  "state": "WA",
+  "latitude": 48.49258056,
+  "longitude": -121.5481622,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12184700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

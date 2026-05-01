@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294161",
+  "key": "02294161",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294161",
+  "name": "PEACE CREEK NEAR BARTOW FL",
+  "waterbody": "PEACE CREEK NEAR BARTOW FL",
+  "state": "FL",
+  "latitude": 27.92444444,
+  "longitude": -81.7955556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCDF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peace Creek Near Bartow",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcdf1",
+  "slug": "usgs-02294161",
+  "noaaForecastPath": "data/noaa-forecast/PCDF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

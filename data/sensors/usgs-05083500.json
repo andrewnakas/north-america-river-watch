@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05083500",
+  "key": "05083500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05083500",
+  "name": "RED RIVER OF THE NORTH AT OSLO, MN",
+  "waterbody": "RED RIVER OF THE NORTH AT OSLO, MN",
+  "state": "MN",
+  "latitude": 48.19387265,
+  "longitude": -97.140628,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSLM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River of the North",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oslm5",
+  "slug": "usgs-05083500",
+  "noaaForecastPath": "data/noaa-forecast/OSLM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03435105",
+  "key": "03435105",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03435105",
+  "name": "RED RIVER AT DOT, KY",
+  "waterbody": "RED RIVER AT DOT, KY",
+  "state": "KY",
+  "latitude": 36.6766583,
+  "longitude": -86.9520861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River (TN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dotk2",
+  "slug": "usgs-03435105",
+  "noaaForecastPath": "data/noaa-forecast/DOTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

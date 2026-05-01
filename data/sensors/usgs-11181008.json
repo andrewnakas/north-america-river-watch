@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11181008",
+  "key": "11181008",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11181008",
+  "name": "CASTRO VALLEY C A HAYWARD CA",
+  "waterbody": "CASTRO VALLEY C A HAYWARD CA",
+  "state": "CA",
+  "latitude": 37.6799311,
+  "longitude": -122.0805186,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVCC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Castro Valley Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvcc1",
+  "slug": "usgs-11181008",
+  "noaaForecastPath": "data/noaa-forecast/CVCC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

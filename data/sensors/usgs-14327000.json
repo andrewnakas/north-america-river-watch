@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14327000",
+  "key": "14327000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14327000",
+  "name": "N FK COQUILLE R NR MYRTLE POINT, OR",
+  "waterbody": "N FK COQUILLE R NR MYRTLE POINT, OR",
+  "state": "OR",
+  "latitude": 43.06817778,
+  "longitude": -124.1078444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fk Coquille River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myno3",
+  "slug": "usgs-14327000",
+  "noaaForecastPath": "data/noaa-forecast/MYNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

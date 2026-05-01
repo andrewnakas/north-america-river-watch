@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06914500",
+  "key": "06914500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06914500",
+  "name": "POTTAWATOMIE C AT LANE, KS",
+  "waterbody": "POTTAWATOMIE C AT LANE, KS",
+  "state": "KS",
+  "latitude": 38.4439057,
+  "longitude": -95.084136,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNEK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pottawatomie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnek1",
+  "slug": "usgs-06914500",
+  "noaaForecastPath": "data/noaa-forecast/LNEK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

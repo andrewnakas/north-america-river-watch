@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05440700",
+  "key": "05440700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05440700",
+  "name": "ROCK RIVER AT BYRON, IL",
+  "waterbody": "ROCK RIVER AT BYRON, IL",
+  "state": "IL",
+  "latitude": 42.12218889,
+  "longitude": -89.2553639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/byri2",
+  "slug": "usgs-05440700",
+  "noaaForecastPath": "data/noaa-forecast/BYRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

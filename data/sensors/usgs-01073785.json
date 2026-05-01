@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01073785",
+  "key": "01073785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01073785",
+  "name": "WINNICUT RIVER AT GREENLAND, NR PORTSMOUTH, NH",
+  "waterbody": "WINNICUT RIVER AT GREENLAND, NR PORTSMOUTH, NH",
+  "state": "NH",
+  "latitude": 43.0358333,
+  "longitude": -70.8475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WINN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winnicut River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/winn3",
+  "slug": "usgs-01073785",
+  "noaaForecastPath": "data/noaa-forecast/WINN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

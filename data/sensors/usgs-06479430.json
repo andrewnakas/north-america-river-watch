@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06479430",
+  "key": "06479430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479430",
+  "name": "STILL LAKE OUTFLOW NEAR FLORENCE, SD",
+  "waterbody": "STILL LAKE OUTFLOW NEAR FLORENCE, SD",
+  "state": "SD",
+  "latitude": 45.0374636,
+  "longitude": -97.2072994,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06479430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

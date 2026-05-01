@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06119600",
+  "key": "06119600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06119600",
+  "name": "Musselshell River nr Martinsdale, MT",
+  "waterbody": "Musselshell River nr Martinsdale, MT",
+  "state": "MT",
+  "latitude": 46.4769583,
+  "longitude": -110.2489667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRMM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Musselshell River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrmm8",
+  "slug": "usgs-06119600",
+  "noaaForecastPath": "data/noaa-forecast/MRMM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

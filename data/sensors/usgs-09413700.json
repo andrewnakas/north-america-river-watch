@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09413700",
+  "key": "09413700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09413700",
+  "name": "VIRGIN RV ABV THE NARROWS NR LITTLEFIELD, AZ",
+  "waterbody": "VIRGIN RV ABV THE NARROWS NR LITTLEFIELD, AZ",
+  "state": "AZ",
+  "latitude": 36.92138889,
+  "longitude": -113.8313889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VNLA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Virgin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vnla3",
+  "slug": "usgs-09413700",
+  "noaaForecastPath": "data/noaa-forecast/VNLA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

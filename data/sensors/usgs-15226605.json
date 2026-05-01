@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15226605",
+  "key": "15226605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15226605",
+  "name": "LOWE R AT RUDLESTON FALLS NR VALDEZ AK",
+  "waterbody": "LOWE R AT RUDLESTON FALLS NR VALDEZ AK",
+  "state": "AK",
+  "latitude": 61.08373889,
+  "longitude": -145.89505833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lowe River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrra2",
+  "slug": "usgs-15226605",
+  "noaaForecastPath": "data/noaa-forecast/LRRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

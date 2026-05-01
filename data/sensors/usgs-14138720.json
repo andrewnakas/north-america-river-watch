@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14138720",
+  "key": "14138720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14138720",
+  "name": "BULL RUN RIVER AT LOWER FLUME NR BRIGHTWOOD, OR",
+  "waterbody": "BULL RUN RIVER AT LOWER FLUME NR BRIGHTWOOD, OR",
+  "state": "OR",
+  "latitude": 45.4709515,
+  "longitude": -121.8653567,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bull Run River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bflo3",
+  "slug": "usgs-14138720",
+  "noaaForecastPath": "data/noaa-forecast/BFLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

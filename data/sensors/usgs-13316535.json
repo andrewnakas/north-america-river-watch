@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13316535",
+  "key": "13316535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13316535",
+  "name": "JOHN DAY CREEK NR MOUTH NR LUCILE, ID",
+  "waterbody": "JOHN DAY CREEK NR MOUTH NR LUCILE, ID",
+  "state": "ID",
+  "latitude": 45.58305556,
+  "longitude": -116.2802778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13316535",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

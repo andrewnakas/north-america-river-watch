@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03321500",
+  "key": "03321500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03321500",
+  "name": "GREEN RIVER AT LOCK 1 AT SPOTTSVILLE, KY",
+  "waterbody": "GREEN RIVER AT LOCK 1 AT SPOTTSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.8583774,
+  "longitude": -87.4097294,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sptk2",
+  "slug": "usgs-03321500",
+  "noaaForecastPath": "data/noaa-forecast/SPTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09067200",
+  "key": "09067200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09067200",
+  "name": "LAKE CREEK NEAR EDWARDS, CO",
+  "waterbody": "LAKE CREEK NEAR EDWARDS, CO",
+  "state": "CO",
+  "latitude": 39.647486,
+  "longitude": -106.6092003,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09067200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

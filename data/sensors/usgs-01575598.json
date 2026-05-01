@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01575598",
+  "key": "01575598",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01575598",
+  "name": "Codorus Creek near Saginaw, PA",
+  "waterbody": "Codorus Creek near Saginaw, PA",
+  "state": "PA",
+  "latitude": 40.0522222,
+  "longitude": -76.6544444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Codorus Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccsp1",
+  "slug": "usgs-01575598",
+  "noaaForecastPath": "data/noaa-forecast/CCSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01636500",
+  "key": "01636500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01636500",
+  "name": "SHENANDOAH RIVER AT MILLVILLE, WV",
+  "waterbody": "SHENANDOAH RIVER AT MILLVILLE, WV",
+  "state": "WV",
+  "latitude": 39.28204576,
+  "longitude": -77.7891606,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MILW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shenandoah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/milw2",
+  "slug": "usgs-01636500",
+  "noaaForecastPath": "data/noaa-forecast/MILW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

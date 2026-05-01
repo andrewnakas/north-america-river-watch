@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03255390",
+  "key": "03255390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03255390",
+  "name": "Sharon Creek at Sharonville OH",
+  "waterbody": "Sharon Creek at Sharonville OH",
+  "state": "OH",
+  "latitude": 39.27339134,
+  "longitude": -84.4110524,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCRO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sharon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scro1",
+  "slug": "usgs-03255390",
+  "noaaForecastPath": "data/noaa-forecast/SCRO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

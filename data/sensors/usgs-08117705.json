@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08117705",
+  "key": "08117705",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117705",
+  "name": "San Bernard Rv nr Sweeny, TX",
+  "waterbody": "San Bernard Rv nr Sweeny, TX",
+  "state": "TX",
+  "latitude": 29.11194444,
+  "longitude": -95.6766667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OCNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Bernard River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ocnt2",
+  "slug": "usgs-08117705",
+  "noaaForecastPath": "data/noaa-forecast/OCNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

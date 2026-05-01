@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03198350",
+  "key": "03198350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03198350",
+  "name": "CLEAR FORK AT WHITESVILLE, WV",
+  "waterbody": "CLEAR FORK AT WHITESVILLE, WV",
+  "state": "WV",
+  "latitude": 37.9662186,
+  "longitude": -81.524278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCFW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork (Big Coal)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcfw2",
+  "slug": "usgs-03198350",
+  "noaaForecastPath": "data/noaa-forecast/WCFW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04119055",
+  "key": "04119055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04119055",
+  "name": "PLASTER CREEK AT 28TH STREET AT GRAND RAPIDS, MI",
+  "waterbody": "PLASTER CREEK AT 28TH STREET AT GRAND RAPIDS, MI",
+  "state": "MI",
+  "latitude": 42.91280557,
+  "longitude": -85.650584,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRPM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Plaster Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grpm4",
+  "slug": "usgs-04119055",
+  "noaaForecastPath": "data/noaa-forecast/GRPM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

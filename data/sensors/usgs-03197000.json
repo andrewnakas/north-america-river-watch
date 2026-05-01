@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03197000",
+  "key": "03197000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03197000",
+  "name": "ELK RIVER AT QUEEN SHOALS, WV",
+  "waterbody": "ELK RIVER AT QUEEN SHOALS, WV",
+  "state": "WV",
+  "latitude": 38.47203988,
+  "longitude": -81.2841933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QUSW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qusw2",
+  "slug": "usgs-03197000",
+  "noaaForecastPath": "data/noaa-forecast/QUSW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

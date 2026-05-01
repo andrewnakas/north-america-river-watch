@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10172220",
+  "key": "10172220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10172220",
+  "name": "RED BUTTE CR BLW RESERVOIR NR SALT LAKE CITY, UT",
+  "waterbody": "RED BUTTE CR BLW RESERVOIR NR SALT LAKE CITY, UT",
+  "state": "UT",
+  "latitude": 40.7743907,
+  "longitude": -111.816323,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10172220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

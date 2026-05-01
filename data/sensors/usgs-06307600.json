@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06307600",
+  "key": "06307600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06307600",
+  "name": "Hanging Woman Creek near Birney MT",
+  "waterbody": "Hanging Woman Creek near Birney MT",
+  "state": "MT",
+  "latitude": 45.29906389,
+  "longitude": -106.5081667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HWCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hanging Woman Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hwcm8",
+  "slug": "usgs-06307600",
+  "noaaForecastPath": "data/noaa-forecast/HWCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

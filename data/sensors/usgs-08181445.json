@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08181445",
+  "key": "08181445",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08181445",
+  "name": "Leon Ck at SH 90, San Antonio, TX",
+  "waterbody": "Leon Ck at SH 90, San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.4061111,
+  "longitude": -98.6069444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08181445",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

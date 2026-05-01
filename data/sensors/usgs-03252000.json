@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03252000",
+  "key": "03252000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03252000",
+  "name": "STONER CREEK AT PARIS, KY",
+  "waterbody": "STONER CREEK AT PARIS, KY",
+  "state": "KY",
+  "latitude": 38.22924295,
+  "longitude": -84.2560426,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03252000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

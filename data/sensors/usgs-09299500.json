@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09299500",
+  "key": "09299500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09299500",
+  "name": "WHITEROCKS RIVER NEAR WHITEROCKS, UT",
+  "waterbody": "WHITEROCKS RIVER NEAR WHITEROCKS, UT",
+  "state": "UT",
+  "latitude": 40.5935653,
+  "longitude": -109.9323739,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTRU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whiterocks River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtru1",
+  "slug": "usgs-09299500",
+  "noaaForecastPath": "data/noaa-forecast/WTRU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

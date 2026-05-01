@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02464000",
+  "key": "02464000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02464000",
+  "name": "NORTH RIVER NEAR SAMANTHA AL",
+  "waterbody": "NORTH RIVER NEAR SAMANTHA AL",
+  "state": "AL",
+  "latitude": 33.47928058,
+  "longitude": -87.5972297,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAMA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sama1",
+  "slug": "usgs-02464000",
+  "noaaForecastPath": "data/noaa-forecast/SAMA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

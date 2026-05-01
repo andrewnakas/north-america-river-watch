@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15272502",
+  "key": "15272502",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15272502",
+  "name": "GLACIER C AT ALYESKA HIGHWAY AT GIRDWOOD, AK",
+  "waterbody": "GLACIER C AT ALYESKA HIGHWAY AT GIRDWOOD, AK",
+  "state": "AK",
+  "latitude": 60.961619,
+  "longitude": -149.131919,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCGA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Glacier Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcga2",
+  "slug": "usgs-15272502",
+  "noaaForecastPath": "data/noaa-forecast/GCGA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

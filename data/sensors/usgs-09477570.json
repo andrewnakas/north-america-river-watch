@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09477570",
+  "key": "09477570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09477570",
+  "name": "GILA RIVER AT ATTAWAY, AZ",
+  "waterbody": "GILA RIVER AT ATTAWAY, AZ",
+  "state": "AZ",
+  "latitude": 33.01950464,
+  "longitude": -111.5287362,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09477570",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

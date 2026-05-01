@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01175670",
+  "key": "01175670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01175670",
+  "name": "SEVENMILE RIVER NEAR SPENCER, MA",
+  "waterbody": "SEVENMILE RIVER NEAR SPENCER, MA",
+  "state": "MA",
+  "latitude": 42.26481407,
+  "longitude": -72.0042418,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVNM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Seven Mile River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svnm3",
+  "slug": "usgs-01175670",
+  "noaaForecastPath": "data/noaa-forecast/SVNM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

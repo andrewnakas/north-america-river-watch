@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09419753",
+  "key": "09419753",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419753",
+  "name": "LV WASH ABV THREE KIDS WASH BLW HENDERSON, NV",
+  "waterbody": "LV WASH ABV THREE KIDS WASH BLW HENDERSON, NV",
+  "state": "NV",
+  "latitude": 36.100375,
+  "longitude": -114.9433194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KIDN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Las Vegas Wash",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kidn2",
+  "slug": "usgs-09419753",
+  "noaaForecastPath": "data/noaa-forecast/KIDN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

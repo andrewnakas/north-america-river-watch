@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01125500",
+  "key": "01125500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01125500",
+  "name": "QUINEBAUG RIVER AT PUTNAM, CT",
+  "waterbody": "QUINEBAUG RIVER AT PUTNAM, CT",
+  "state": "CT",
+  "latitude": 41.909475,
+  "longitude": -71.91386389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PUTC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quinebaug River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/putc3",
+  "slug": "usgs-01125500",
+  "noaaForecastPath": "data/noaa-forecast/PUTC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

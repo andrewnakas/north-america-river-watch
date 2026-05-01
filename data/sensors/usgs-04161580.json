@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04161580",
+  "key": "04161580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04161580",
+  "name": "STONY CREEK NEAR ROMEO, MI",
+  "waterbody": "STONY CREEK NEAR ROMEO, MI",
+  "state": "MI",
+  "latitude": 42.8008637,
+  "longitude": -83.0902121,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04161580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

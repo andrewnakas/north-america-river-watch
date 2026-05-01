@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01310500",
+  "key": "01310500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01310500",
+  "name": "EAST MEADOW BROOK AT FREEPORT NY",
+  "waterbody": "EAST MEADOW BROOK AT FREEPORT NY",
+  "state": "NY",
+  "latitude": 40.66563889,
+  "longitude": -73.5700833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01310500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

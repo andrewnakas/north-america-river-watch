@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05578330",
+  "key": "05578330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05578330",
+  "name": "SALT CREEK AT BRUSH COLLEGE RD NR CLINTON, IL",
+  "waterbody": "SALT CREEK AT BRUSH COLLEGE RD NR CLINTON, IL",
+  "state": "IL",
+  "latitude": 40.12121944,
+  "longitude": -88.8976917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05578330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

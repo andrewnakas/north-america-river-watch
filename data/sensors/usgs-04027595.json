@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04027595",
+  "key": "04027595",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04027595",
+  "name": "BAD RIVER AT ODANAH, WI",
+  "waterbody": "BAD RIVER AT ODANAH, WI",
+  "state": "WI",
+  "latitude": 46.6102607,
+  "longitude": -90.6870738,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDOW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bad River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdow3",
+  "slug": "usgs-04027595",
+  "noaaForecastPath": "data/noaa-forecast/BDOW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06807410",
+  "key": "06807410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06807410",
+  "name": "West Nishnabotna River at Hancock, IA",
+  "waterbody": "West Nishnabotna River at Hancock, IA",
+  "state": "IA",
+  "latitude": 41.3901111,
+  "longitude": -95.3720556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNKI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Nishnabotna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnki4",
+  "slug": "usgs-06807410",
+  "noaaForecastPath": "data/noaa-forecast/HNKI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

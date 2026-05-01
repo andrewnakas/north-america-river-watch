@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01577300",
+  "key": "01577300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01577300",
+  "name": "Muddy Creek at Muddy Creek Forks, PA",
+  "waterbody": "Muddy Creek at Muddy Creek Forks, PA",
+  "state": "PA",
+  "latitude": 39.80760259,
+  "longitude": -76.47579759,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01577300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

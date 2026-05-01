@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03324112",
+  "key": "03324112",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03324112",
+  "name": "WABASH RIVER NEAR LAGRO, IN",
+  "waterbody": "WABASH RIVER NEAR LAGRO, IN",
+  "state": "IN",
+  "latitude": 40.84272222,
+  "longitude": -85.64783333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03324112",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

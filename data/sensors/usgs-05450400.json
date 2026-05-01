@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05450400",
+  "key": "05450400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05450400",
+  "name": "Iowa River at Steamboat Rock, IA",
+  "waterbody": "Iowa River at Steamboat Rock, IA",
+  "state": "IA",
+  "latitude": 42.4081111,
+  "longitude": -93.0729722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STBI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stbi4",
+  "slug": "usgs-05450400",
+  "noaaForecastPath": "data/noaa-forecast/STBI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

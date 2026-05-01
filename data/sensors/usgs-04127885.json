@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04127885",
+  "key": "04127885",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04127885",
+  "name": "ST. MARYS RIVER AT SAULT STE. MARIE, ONTARIO",
+  "waterbody": "ST. MARYS RIVER AT SAULT STE. MARIE, ONTARIO",
+  "state": "MI",
+  "latitude": 46.4983333,
+  "longitude": -84.3152778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04127885",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

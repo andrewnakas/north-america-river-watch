@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07369700",
+  "key": "07369700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07369700",
+  "name": "Bayou Macon nr Kilbourne, LA",
+  "waterbody": "Bayou Macon nr Kilbourne, LA",
+  "state": "LA",
+  "latitude": 32.9932018,
+  "longitude": -91.262623,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMKL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Macon",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmkl1",
+  "slug": "usgs-07369700",
+  "noaaForecastPath": "data/noaa-forecast/BMKL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

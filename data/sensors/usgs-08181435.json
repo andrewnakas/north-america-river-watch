@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08181435",
+  "key": "08181435",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08181435",
+  "name": "Leon Ck at Lp 410 at San Antonio, TX",
+  "waterbody": "Leon Ck at Lp 410 at San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.447875,
+  "longitude": -98.6337111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LECT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lect2",
+  "slug": "usgs-08181435",
+  "noaaForecastPath": "data/noaa-forecast/LECT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

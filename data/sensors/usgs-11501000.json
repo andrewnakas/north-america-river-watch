@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11501000",
+  "key": "11501000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11501000",
+  "name": "SPRAGUE RIVER NEAR CHILOQUIN, OR",
+  "waterbody": "SPRAGUE RIVER NEAR CHILOQUIN, OR",
+  "state": "OR",
+  "latitude": 42.58430556,
+  "longitude": -121.8483333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sprague River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chso3",
+  "slug": "usgs-11501000",
+  "noaaForecastPath": "data/noaa-forecast/CHSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

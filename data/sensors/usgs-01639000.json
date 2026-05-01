@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01639000",
+  "key": "01639000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01639000",
+  "name": "MONOCACY RIVER AT BRIDGEPORT, MD",
+  "waterbody": "MONOCACY RIVER AT BRIDGEPORT, MD",
+  "state": "MD",
+  "latitude": 39.67905556,
+  "longitude": -77.23452778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDGM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monocacy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdgm2",
+  "slug": "usgs-01639000",
+  "noaaForecastPath": "data/noaa-forecast/BDGM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

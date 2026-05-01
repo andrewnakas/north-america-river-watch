@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02323500",
+  "key": "02323500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02323500",
+  "name": "SUWANNEE RIVER NEAR WILCOX, FLA.",
+  "waterbody": "SUWANNEE RIVER NEAR WILCOX, FLA.",
+  "state": "FL",
+  "latitude": 29.58968017,
+  "longitude": -82.9365131,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCXF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwannee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcxf1",
+  "slug": "usgs-02323500",
+  "noaaForecastPath": "data/noaa-forecast/WCXF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

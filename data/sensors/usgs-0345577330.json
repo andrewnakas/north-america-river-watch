@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0345577330",
+  "key": "0345577330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0345577330",
+  "name": "WEST FORK PIGEON RIVER NEAR RETREAT, NC",
+  "waterbody": "WEST FORK PIGEON RIVER NEAR RETREAT, NC",
+  "state": "NC",
+  "latitude": 35.42666667,
+  "longitude": -82.91972222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RTRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River (NC)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rtrn7",
+  "slug": "usgs-0345577330",
+  "noaaForecastPath": "data/noaa-forecast/RTRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

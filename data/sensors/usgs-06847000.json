@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06847000",
+  "key": "06847000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06847000",
+  "name": "Beaver Creek near Beaver City, Nebr.",
+  "waterbody": "Beaver Creek near Beaver City, Nebr.",
+  "state": "NE",
+  "latitude": 40.12,
+  "longitude": -99.893056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEVN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bevn1",
+  "slug": "usgs-06847000",
+  "noaaForecastPath": "data/noaa-forecast/BEVN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

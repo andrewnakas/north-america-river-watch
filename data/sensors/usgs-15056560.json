@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15056560",
+  "key": "15056560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15056560",
+  "name": "KLEHINI R NR KLUKWAN AK",
+  "waterbody": "KLEHINI R NR KLUKWAN AK",
+  "state": "AK",
+  "latitude": 59.413056,
+  "longitude": -135.996944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Klehini River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/klra2",
+  "slug": "usgs-15056560",
+  "noaaForecastPath": "data/noaa-forecast/KLRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

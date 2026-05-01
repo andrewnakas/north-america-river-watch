@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07202400",
+  "key": "07202400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07202400",
+  "name": "VERMEJO RIVER AT VERMEJO PARK, NM",
+  "waterbody": "VERMEJO RIVER AT VERMEJO PARK, NM",
+  "state": "NM",
+  "latitude": 36.95780309,
+  "longitude": -105.1241685,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07202400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

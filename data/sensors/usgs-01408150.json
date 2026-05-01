@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01408150",
+  "key": "01408150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01408150",
+  "name": "South Branch Metedeconk River near Lakewood NJ",
+  "waterbody": "South Branch Metedeconk River near Lakewood NJ",
+  "state": "NJ",
+  "latitude": 40.0858333,
+  "longitude": -74.1855556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01408150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

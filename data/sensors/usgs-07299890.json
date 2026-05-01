@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07299890",
+  "key": "07299890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07299890",
+  "name": "Lelia Lk Ck bl Bell Ck nr Hedley, TX",
+  "waterbody": "Lelia Lk Ck bl Bell Ck nr Hedley, TX",
+  "state": "TX",
+  "latitude": 34.93560669,
+  "longitude": -100.6965246,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lelia Lake Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlct2",
+  "slug": "usgs-07299890",
+  "noaaForecastPath": "data/noaa-forecast/HLCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

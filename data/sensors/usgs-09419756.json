@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419756",
+  "key": "09419756",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419756",
+  "name": "LAS VEGAS WASH OVERFLOW AT LAKE LAS VEGAS INLET",
+  "waterbody": "LAS VEGAS WASH OVERFLOW AT LAKE LAS VEGAS INLET",
+  "state": "NV",
+  "latitude": 36.10247588,
+  "longitude": -114.934437,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419756",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

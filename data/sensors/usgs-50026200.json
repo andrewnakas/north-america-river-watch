@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50026200",
+  "key": "50026200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50026200",
+  "name": "RIO CAONILLAS BLW LAGO CAONILLAS TUNNEL, PR",
+  "waterbody": "RIO CAONILLAS BLW LAGO CAONILLAS TUNNEL, PR",
+  "state": "PR",
+  "latitude": 18.29717468,
+  "longitude": -66.6429513,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50026200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

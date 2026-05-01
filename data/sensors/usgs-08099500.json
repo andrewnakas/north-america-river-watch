@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08099500",
+  "key": "08099500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08099500",
+  "name": "Leon Rv nr Hasse, TX",
+  "waterbody": "Leon Rv nr Hasse, TX",
+  "state": "TX",
+  "latitude": 31.9579235,
+  "longitude": -98.4592116,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08099500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

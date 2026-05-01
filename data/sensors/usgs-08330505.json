@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330505",
+  "key": "08330505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330505",
+  "name": "TIJERAS ARROYO ABV FOUR HILLS BRDG AT ALBQ., NM",
+  "waterbody": "TIJERAS ARROYO ABV FOUR HILLS BRDG AT ALBQ., NM",
+  "state": "NM",
+  "latitude": 35.06088126,
+  "longitude": -106.4950223,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

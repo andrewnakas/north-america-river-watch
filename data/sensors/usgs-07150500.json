@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07150500",
+  "key": "07150500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07150500",
+  "name": "Salt Fork Arkansas River nr Jet, OK",
+  "waterbody": "Salt Fork Arkansas River nr Jet, OK",
+  "state": "OK",
+  "latitude": 36.75252938,
+  "longitude": -98.1289547,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSPO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork Arkansas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gspo2",
+  "slug": "usgs-07150500",
+  "noaaForecastPath": "data/noaa-forecast/GSPO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09502000",
+  "key": "09502000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09502000",
+  "name": "SALT RIVER BLW STEWART MOUNTAIN DAM, AZ",
+  "waterbody": "SALT RIVER BLW STEWART MOUNTAIN DAM, AZ",
+  "state": "AZ",
+  "latitude": 33.55284137,
+  "longitude": -111.57654306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09502000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

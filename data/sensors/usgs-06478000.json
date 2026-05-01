@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06478000",
+  "key": "06478000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478000",
+  "name": "JAMES RIVER NEAR MITCHELL,SD",
+  "waterbody": "JAMES RIVER NEAR MITCHELL,SD",
+  "state": "SD",
+  "latitude": 43.65887165,
+  "longitude": -97.9192403,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRMS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrms2",
+  "slug": "usgs-06478000",
+  "noaaForecastPath": "data/noaa-forecast/JRMS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

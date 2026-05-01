@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08169000",
+  "key": "08169000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08169000",
+  "name": "Comal Rv at New Braunfels, TX",
+  "waterbody": "Comal Rv at New Braunfels, TX",
+  "state": "TX",
+  "latitude": 29.70640833,
+  "longitude": -98.1222083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Comal River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbct2",
+  "slug": "usgs-08169000",
+  "noaaForecastPath": "data/noaa-forecast/NBCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

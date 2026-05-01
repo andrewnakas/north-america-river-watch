@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13237920",
+  "key": "13237920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13237920",
+  "name": "MIDDLE FORK PAYETTE RIVER NR CROUCH ID",
+  "waterbody": "MIDDLE FORK PAYETTE RIVER NR CROUCH ID",
+  "state": "ID",
+  "latitude": 44.1086111,
+  "longitude": -115.9822222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFPI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Payette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfpi1",
+  "slug": "usgs-13237920",
+  "noaaForecastPath": "data/noaa-forecast/MFPI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

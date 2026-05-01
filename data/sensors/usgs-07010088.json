@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010088",
+  "key": "07010088",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010088",
+  "name": "River Des Peres at Shrewsbury, MO",
+  "waterbody": "River Des Peres at Shrewsbury, MO",
+  "state": "MO",
+  "latitude": 38.5866111,
+  "longitude": -90.3135278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010088",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

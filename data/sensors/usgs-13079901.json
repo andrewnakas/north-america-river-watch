@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13079901",
+  "key": "13079901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13079901",
+  "name": "RAFT RIVER NR MOUTH AT YALE RAFT RIVER, ID",
+  "waterbody": "RAFT RIVER NR MOUTH AT YALE RAFT RIVER, ID",
+  "state": "ID",
+  "latitude": 42.5900472,
+  "longitude": -113.236525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13079901",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

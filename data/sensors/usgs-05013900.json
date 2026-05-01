@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05013900",
+  "key": "05013900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05013900",
+  "name": "Grinnell C at G Glacier nr Many Glacier MT",
+  "waterbody": "Grinnell C at G Glacier nr Many Glacier MT",
+  "state": "MT",
+  "latitude": 48.757675,
+  "longitude": -113.7246694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRGM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grinnell Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grgm8",
+  "slug": "usgs-05013900",
+  "noaaForecastPath": "data/noaa-forecast/GRGM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

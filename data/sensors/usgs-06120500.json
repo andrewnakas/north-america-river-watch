@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06120500",
+  "key": "06120500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06120500",
+  "name": "Musselshell River at Harlowton MT",
+  "waterbody": "Musselshell River at Harlowton MT",
+  "state": "MT",
+  "latitude": 46.4288,
+  "longitude": -109.8411944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLWM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Musselshell River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlwm8",
+  "slug": "usgs-06120500",
+  "noaaForecastPath": "data/noaa-forecast/HLWM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

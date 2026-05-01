@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01389005",
+  "key": "01389005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01389005",
+  "name": "Passaic River below Pompton Riv at Two Bridges NJ",
+  "waterbody": "Passaic River below Pompton Riv at Two Bridges NJ",
+  "state": "NJ",
+  "latitude": 40.89638889,
+  "longitude": -74.26916667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01389005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

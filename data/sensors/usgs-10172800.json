@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10172800",
+  "key": "10172800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10172800",
+  "name": "SOUTH WILLOW CREEK NEAR GRANTSVILLE, UT",
+  "waterbody": "SOUTH WILLOW CREEK NEAR GRANTSVILLE, UT",
+  "state": "UT",
+  "latitude": 40.496313,
+  "longitude": -112.5744182,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCGU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Willow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcgu1",
+  "slug": "usgs-10172800",
+  "noaaForecastPath": "data/noaa-forecast/WCGU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

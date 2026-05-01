@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07106500",
+  "key": "07106500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07106500",
+  "name": "FOUNTAIN CREEK AT PUEBLO, CO.",
+  "waterbody": "FOUNTAIN CREEK AT PUEBLO, CO.",
+  "state": "CO",
+  "latitude": 38.2877801,
+  "longitude": -104.6010849,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCHC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fountain Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fchc2",
+  "slug": "usgs-07106500",
+  "noaaForecastPath": "data/noaa-forecast/FCHC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

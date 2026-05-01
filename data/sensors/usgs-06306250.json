@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06306250",
+  "key": "06306250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06306250",
+  "name": "Prairie Dog Creek near Acme, WY",
+  "waterbody": "Prairie Dog Creek near Acme, WY",
+  "state": "WY",
+  "latitude": 44.98381516,
+  "longitude": -106.8398478,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDAW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Dog Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdaw4",
+  "slug": "usgs-06306250",
+  "noaaForecastPath": "data/noaa-forecast/PDAW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

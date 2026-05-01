@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11176340",
+  "key": "11176340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11176340",
+  "name": "ARROYO DE LA LAGUNA A CORTE MADRID NR PLEASANTON",
+  "waterbody": "ARROYO DE LA LAGUNA A CORTE MADRID NR PLEASANTON",
+  "state": "CA",
+  "latitude": 37.66830556,
+  "longitude": -121.90941667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AYLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arroyo de la Laguna",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aylc1",
+  "slug": "usgs-11176340",
+  "noaaForecastPath": "data/noaa-forecast/AYLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

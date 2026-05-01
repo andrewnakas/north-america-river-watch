@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03460795",
+  "key": "03460795",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03460795",
+  "name": "PIGEON R BL POWER PLANT NR WATERVILLE, NC",
+  "waterbody": "PIGEON R BL POWER PLANT NR WATERVILLE, NC",
+  "state": "NC",
+  "latitude": 35.7836111,
+  "longitude": -83.1119444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03460795",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

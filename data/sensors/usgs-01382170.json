@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01382170",
+  "key": "01382170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01382170",
+  "name": "Pequannock River at NJ Route 23 near Oak Ridge NJ",
+  "waterbody": "Pequannock River at NJ Route 23 near Oak Ridge NJ",
+  "state": "NJ",
+  "latitude": 41.07777778,
+  "longitude": -74.4897222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01382170",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

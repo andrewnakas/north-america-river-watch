@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442680",
+  "key": "09442680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442680",
+  "name": "SAN FRANCISCO RIVER NEAR RESERVE, NM",
+  "waterbody": "SAN FRANCISCO RIVER NEAR RESERVE, NM",
+  "state": "NM",
+  "latitude": 33.73671944,
+  "longitude": -108.771175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

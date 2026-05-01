@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02399500",
+  "key": "02399500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02399500",
+  "name": "COOSA RIVER AT LEESBURG AL",
+  "waterbody": "COOSA RIVER AT LEESBURG AL",
+  "state": "AL",
+  "latitude": 34.1767993,
+  "longitude": -85.7538469,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CREA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crea1",
+  "slug": "usgs-02399500",
+  "noaaForecastPath": "data/noaa-forecast/CREA1.json",
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

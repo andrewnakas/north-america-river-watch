@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03190000",
+  "key": "03190000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03190000",
+  "name": "MEADOW RIVER AT NALLEN, WV",
+  "waterbody": "MEADOW RIVER AT NALLEN, WV",
+  "state": "WV",
+  "latitude": 38.1126125,
+  "longitude": -80.8762069,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NALW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meadow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nalw2",
+  "slug": "usgs-03190000",
+  "noaaForecastPath": "data/noaa-forecast/NALW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

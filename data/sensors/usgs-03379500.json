@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03379500",
+  "key": "03379500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03379500",
+  "name": "LITTLE WABASH RIVER BELOW CLAY CITY, IL",
+  "waterbody": "LITTLE WABASH RIVER BELOW CLAY CITY, IL",
+  "state": "IL",
+  "latitude": 38.6347222,
+  "longitude": -88.2972222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLAI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wabash River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clai2",
+  "slug": "usgs-03379500",
+  "noaaForecastPath": "data/noaa-forecast/CLAI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

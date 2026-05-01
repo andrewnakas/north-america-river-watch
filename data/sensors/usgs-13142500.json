@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13142500",
+  "key": "13142500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13142500",
+  "name": "BIG WOOD RIVER BL MAGIC DAM NR RICHFIELD ID",
+  "waterbody": "BIG WOOD RIVER BL MAGIC DAM NR RICHFIELD ID",
+  "state": "ID",
+  "latitude": 43.24805556,
+  "longitude": -114.3566667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWMI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwmi1",
+  "slug": "usgs-13142500",
+  "noaaForecastPath": "data/noaa-forecast/BWMI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

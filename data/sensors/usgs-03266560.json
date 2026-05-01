@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03266560",
+  "key": "03266560",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03266560",
+  "name": "Mad River at West Liberty OH - 03266560",
+  "waterbody": "Mad River at West Liberty OH - 03266560",
+  "state": "OH",
+  "latitude": 40.25227718,
+  "longitude": -83.749655,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mad River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlbo1",
+  "slug": "usgs-03266560",
+  "noaaForecastPath": "data/noaa-forecast/WLBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

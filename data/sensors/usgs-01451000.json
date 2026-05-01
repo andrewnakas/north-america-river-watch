@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01451000",
+  "key": "01451000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01451000",
+  "name": "Lehigh River at Walnutport, PA",
+  "waterbody": "Lehigh River at Walnutport, PA",
+  "state": "PA",
+  "latitude": 40.7570395,
+  "longitude": -75.60296388,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WNTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lehigh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wntp1",
+  "slug": "usgs-01451000",
+  "noaaForecastPath": "data/noaa-forecast/WNTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

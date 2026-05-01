@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04039500",
+  "key": "04039500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04039500",
+  "name": "SOUTH BRANCH ONTONAGON RIVER AT EWEN, MI",
+  "waterbody": "SOUTH BRANCH ONTONAGON RIVER AT EWEN, MI",
+  "state": "MI",
+  "latitude": 46.5347222,
+  "longitude": -89.2763889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWNM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Ontonagon",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewnm4",
+  "slug": "usgs-04039500",
+  "noaaForecastPath": "data/noaa-forecast/EWNM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

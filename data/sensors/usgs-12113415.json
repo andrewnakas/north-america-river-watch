@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12113415",
+  "key": "12113415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12113415",
+  "name": "DUWAMISH R AT E MARGINAL WAY BR AT DUWAMISH, WA",
+  "waterbody": "DUWAMISH R AT E MARGINAL WAY BR AT DUWAMISH, WA",
+  "state": "WA",
+  "latitude": 47.50050556,
+  "longitude": -122.2881417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWDW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duwamish River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwdw1",
+  "slug": "usgs-12113415",
+  "noaaForecastPath": "data/noaa-forecast/DWDW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

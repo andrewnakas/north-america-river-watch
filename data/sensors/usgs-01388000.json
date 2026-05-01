@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01388000",
+  "key": "01388000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01388000",
+  "name": "Ramapo River at Pompton Lakes NJ",
+  "waterbody": "Ramapo River at Pompton Lakes NJ",
+  "state": "NJ",
+  "latitude": 40.99194444,
+  "longitude": -74.28,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ramapo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pptn4",
+  "slug": "usgs-01388000",
+  "noaaForecastPath": "data/noaa-forecast/PPTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

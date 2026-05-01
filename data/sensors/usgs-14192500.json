@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14192500",
+  "key": "14192500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14192500",
+  "name": "SOUTH YAMHILL RIVER NEAR WILLAMINA, OREG.",
+  "waterbody": "SOUTH YAMHILL RIVER NEAR WILLAMINA, OREG.",
+  "state": "OR",
+  "latitude": 45.0470588,
+  "longitude": -123.5039974,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLAO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Yamhill River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlao3",
+  "slug": "usgs-14192500",
+  "noaaForecastPath": "data/noaa-forecast/WLAO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

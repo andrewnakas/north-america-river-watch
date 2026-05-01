@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06632400",
+  "key": "06632400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06632400",
+  "name": "ROCK CREEK AB KING CANYON CANAL, NR ARLINGTON, WY",
+  "waterbody": "ROCK CREEK AB KING CANYON CANAL, NR ARLINGTON, WY",
+  "state": "WY",
+  "latitude": 41.58522927,
+  "longitude": -106.222847,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KCRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kcrw4",
+  "slug": "usgs-06632400",
+  "noaaForecastPath": "data/noaa-forecast/KCRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

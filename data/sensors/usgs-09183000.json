@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09183000",
+  "key": "09183000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09183000",
+  "name": "COURTHOUSE WASH NEAR MOAB, UTAH",
+  "waterbody": "COURTHOUSE WASH NEAR MOAB, UTAH",
+  "state": "UT",
+  "latitude": 38.61275926,
+  "longitude": -109.5798402,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09183000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06602400",
+  "key": "06602400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06602400",
+  "name": "Monona-Harrison Ditch near Turin, IA",
+  "waterbody": "Monona-Harrison Ditch near Turin, IA",
+  "state": "IA",
+  "latitude": 41.96491667,
+  "longitude": -95.99175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRNI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monona-Harrison Ditch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trni4",
+  "slug": "usgs-06602400",
+  "noaaForecastPath": "data/noaa-forecast/TRNI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06918460",
+  "key": "06918460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06918460",
+  "name": "Turnback Creek above Greenfield, MO",
+  "waterbody": "Turnback Creek above Greenfield, MO",
+  "state": "MO",
+  "latitude": 37.4023611,
+  "longitude": -93.8020278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GFZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turnback Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gfzm7",
+  "slug": "usgs-06918460",
+  "noaaForecastPath": "data/noaa-forecast/GFZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

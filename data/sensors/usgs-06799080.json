@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06799080",
+  "key": "06799080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06799080",
+  "name": "Willow Creek near Foster, Nebr.",
+  "waterbody": "Willow Creek near Foster, Nebr.",
+  "state": "NE",
+  "latitude": 42.17719444,
+  "longitude": -97.6674167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSTN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fstn1",
+  "slug": "usgs-06799080",
+  "noaaForecastPath": "data/noaa-forecast/FSTN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100574",
+  "key": "01100574",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100574",
+  "name": "ELM BROOK AT BEDFORD, MA",
+  "waterbody": "ELM BROOK AT BEDFORD, MA",
+  "state": "MA",
+  "latitude": 42.48691686,
+  "longitude": -71.2639115,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100574",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

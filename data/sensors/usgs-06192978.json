@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06192978",
+  "key": "06192978",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06192978",
+  "name": "Shields River bl SF Shields River nr Wilsall, MT",
+  "waterbody": "Shields River bl SF Shields River nr Wilsall, MT",
+  "state": "MT",
+  "latitude": 46.167125,
+  "longitude": -110.4919472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shields River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srcm8",
+  "slug": "usgs-06192978",
+  "noaaForecastPath": "data/noaa-forecast/SRCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02147659",
+  "key": "02147659",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02147659",
+  "name": "DUTCHMANS CREEK NEAR WINNSBORO, SC",
+  "waterbody": "DUTCHMANS CREEK NEAR WINNSBORO, SC",
+  "state": "SC",
+  "latitude": 34.36794444,
+  "longitude": -80.9546667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dutchmans Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcrs1",
+  "slug": "usgs-02147659",
+  "noaaForecastPath": "data/noaa-forecast/DCRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

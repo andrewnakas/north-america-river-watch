@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08072700",
+  "key": "08072700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08072700",
+  "name": "S Mayde Ck nr Addicks, TX",
+  "waterbody": "S Mayde Ck nr Addicks, TX",
+  "state": "TX",
+  "latitude": 29.80106159,
+  "longitude": -95.692447,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08072700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

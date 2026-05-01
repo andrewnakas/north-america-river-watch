@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04118500",
+  "key": "04118500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04118500",
+  "name": "ROGUE RIVER NEAR ROCKFORD, MI",
+  "waterbody": "ROGUE RIVER NEAR ROCKFORD, MI",
+  "state": "MI",
+  "latitude": 43.0822491,
+  "longitude": -85.5908648,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rogue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rocm4",
+  "slug": "usgs-04118500",
+  "noaaForecastPath": "data/noaa-forecast/ROCM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

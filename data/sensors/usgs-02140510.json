@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02140510",
+  "key": "02140510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02140510",
+  "name": "WILSON CREEK AT SECONDARY ROAD 1335 AT ADAKO, NC",
+  "waterbody": "WILSON CREEK AT SECONDARY ROAD 1335 AT ADAKO, NC",
+  "state": "NC",
+  "latitude": 35.89888889,
+  "longitude": -81.71591944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCAN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wilson Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcan7",
+  "slug": "usgs-02140510",
+  "noaaForecastPath": "data/noaa-forecast/WCAN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10255890",
+  "key": "10255890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10255890",
+  "name": "EF WHITEWATER R DIV NR BANNING CA",
+  "waterbody": "EF WHITEWATER R DIV NR BANNING CA",
+  "state": "CA",
+  "latitude": 34.0628333,
+  "longitude": -116.808361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10255890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

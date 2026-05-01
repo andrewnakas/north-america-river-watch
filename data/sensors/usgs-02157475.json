@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02157475",
+  "key": "02157475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02157475",
+  "name": "MIDDLE TYGER RIVER BELOW LYMAN LAKE, NR GREER, SC",
+  "waterbody": "MIDDLE TYGER RIVER BELOW LYMAN LAKE, NR GREER, SC",
+  "state": "SC",
+  "latitude": 34.980028,
+  "longitude": -82.193278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02157475",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

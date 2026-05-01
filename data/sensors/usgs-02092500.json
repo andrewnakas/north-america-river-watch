@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02092500",
+  "key": "02092500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02092500",
+  "name": "TRENT RIVER NEAR TRENTON, NC",
+  "waterbody": "TRENT RIVER NEAR TRENTON, NC",
+  "state": "NC",
+  "latitude": 35.06416667,
+  "longitude": -77.46138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TNTN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trent River  West of Trenton",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tntn7",
+  "slug": "usgs-02092500",
+  "noaaForecastPath": "data/noaa-forecast/TNTN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212378405",
+  "key": "0212378405",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212378405",
+  "name": "PEE DEE R AT HWY731 BL LK TILLERY NR NORWOOD, NC",
+  "waterbody": "PEE DEE R AT HWY731 BL LK TILLERY NR NORWOOD, NC",
+  "state": "NC",
+  "latitude": 35.20066667,
+  "longitude": -80.0618056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDTN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pee Dee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdtn7",
+  "slug": "usgs-0212378405",
+  "noaaForecastPath": "data/noaa-forecast/PDTN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

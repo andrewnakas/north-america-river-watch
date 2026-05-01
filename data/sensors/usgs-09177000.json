@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09177000",
+  "key": "09177000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09177000",
+  "name": "SAN MIGUEL RIVER AT URAVAN, CO.",
+  "waterbody": "SAN MIGUEL RIVER AT URAVAN, CO.",
+  "state": "CO",
+  "latitude": 38.35721157,
+  "longitude": -108.712875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMUC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Miguel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smuc2",
+  "slug": "usgs-09177000",
+  "noaaForecastPath": "data/noaa-forecast/SMUC2.json",
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

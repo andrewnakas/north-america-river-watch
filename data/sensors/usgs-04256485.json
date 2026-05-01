@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04256485",
+  "key": "04256485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04256485",
+  "name": "WOODS LAKE OUTLET NR BIG MOOSE NY",
+  "waterbody": "WOODS LAKE OUTLET NR BIG MOOSE NY",
+  "state": "NY",
+  "latitude": 43.8656583,
+  "longitude": -74.9551194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04256485",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

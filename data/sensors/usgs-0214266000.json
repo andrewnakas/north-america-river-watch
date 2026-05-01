@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214266000",
+  "key": "0214266000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214266000",
+  "name": "MCDOWELL CREEK NR CHARLOTTE, NC CSW10",
+  "waterbody": "MCDOWELL CREEK NR CHARLOTTE, NC CSW10",
+  "state": "NC",
+  "latitude": 35.38971389,
+  "longitude": -80.921,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "McDowell Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcdn7",
+  "slug": "usgs-0214266000",
+  "noaaForecastPath": "data/noaa-forecast/MCDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

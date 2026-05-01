@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05402000",
+  "key": "05402000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05402000",
+  "name": "YELLOW RIVER AT BABCOCK, WI",
+  "waterbody": "YELLOW RIVER AT BABCOCK, WI",
+  "state": "WI",
+  "latitude": 44.3022222,
+  "longitude": -90.1219444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBCW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbcw3",
+  "slug": "usgs-05402000",
+  "noaaForecastPath": "data/noaa-forecast/BBCW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

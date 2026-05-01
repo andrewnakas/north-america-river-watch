@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06701900",
+  "key": "06701900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06701900",
+  "name": "SOUTH PLATTE RIVER BLW BRUSH CRK NEAR TRUMBULL, CO",
+  "waterbody": "SOUTH PLATTE RIVER BLW BRUSH CRK NEAR TRUMBULL, CO",
+  "state": "CO",
+  "latitude": 39.25999025,
+  "longitude": -105.2219379,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06701900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:295847093420600",
+  "key": "295847093420600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "295847093420600",
+  "name": "CRMS2166-H01-RT",
+  "waterbody": "CRMS2166-H01-RT",
+  "state": "LA",
+  "latitude": 29.97993889,
+  "longitude": -93.7017194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-295847093420600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01415000",
+  "key": "01415000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01415000",
+  "name": "TREMPER KILL NEAR ANDES NY",
+  "waterbody": "TREMPER KILL NEAR ANDES NY",
+  "state": "NY",
+  "latitude": 42.11966667,
+  "longitude": -74.82044444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TPKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tremper Kill",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tpkn6",
+  "slug": "usgs-01415000",
+  "noaaForecastPath": "data/noaa-forecast/TPKN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

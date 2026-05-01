@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04244000",
+  "key": "04244000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04244000",
+  "name": "CHITTENANGO CREEK NEAR CHITTENANGO NY",
+  "waterbody": "CHITTENANGO CREEK NEAR CHITTENANGO NY",
+  "state": "NY",
+  "latitude": 43.02308333,
+  "longitude": -75.85861111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chittenango Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cttn6",
+  "slug": "usgs-04244000",
+  "noaaForecastPath": "data/noaa-forecast/CTTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

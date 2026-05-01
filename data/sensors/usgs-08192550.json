@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08192550",
+  "key": "08192550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08192550",
+  "name": "Nueces Rv at FM 1025 nr Crystal City, TX",
+  "waterbody": "Nueces Rv at FM 1025 nr Crystal City, TX",
+  "state": "TX",
+  "latitude": 28.77561389,
+  "longitude": -99.8359111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NUCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nuct2",
+  "slug": "usgs-08192550",
+  "noaaForecastPath": "data/noaa-forecast/NUCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

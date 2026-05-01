@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06708600",
+  "key": "06708600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06708600",
+  "name": "WEST PLUM CREEK NEAR PERRY PARK, CO",
+  "waterbody": "WEST PLUM CREEK NEAR PERRY PARK, CO",
+  "state": "CO",
+  "latitude": 39.259472,
+  "longitude": -104.951903,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06708600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10170250",
+  "key": "10170250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10170250",
+  "name": "MILL CREEK @ JORDAN RIVER NR SALT LAKE CITY, UT",
+  "waterbody": "MILL CREEK @ JORDAN RIVER NR SALT LAKE CITY, UT",
+  "state": "UT",
+  "latitude": 40.70855767,
+  "longitude": -111.9199366,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10170250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

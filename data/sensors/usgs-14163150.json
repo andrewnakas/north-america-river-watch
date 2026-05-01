@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14163150",
+  "key": "14163150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14163150",
+  "name": "MCKENZIE RIVER BLW LEABURG DAM, NR LEABURG, OR",
+  "waterbody": "MCKENZIE RIVER BLW LEABURG DAM, NR LEABURG, OR",
+  "state": "OR",
+  "latitude": 44.123738,
+  "longitude": -122.6275715,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKenzie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mklo3",
+  "slug": "usgs-14163150",
+  "noaaForecastPath": "data/noaa-forecast/MKLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

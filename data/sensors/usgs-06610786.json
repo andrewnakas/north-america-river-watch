@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06610786",
+  "key": "06610786",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06610786",
+  "name": "South Papillion Creek near Gretna, Nebr.",
+  "waterbody": "South Papillion Creek near Gretna, Nebr.",
+  "state": "NE",
+  "latitude": 41.17306944,
+  "longitude": -96.21570833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Papillion Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gsbn1",
+  "slug": "usgs-06610786",
+  "noaaForecastPath": "data/noaa-forecast/GSBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

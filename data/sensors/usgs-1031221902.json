@@ -1,0 +1,19 @@
+{
+  "id": "usgs:1031221902",
+  "key": "1031221902",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "1031221902",
+  "name": "S-LINE DIVERSION CANAL NEAR STILLWATER, NV",
+  "waterbody": "S-LINE DIVERSION CANAL NEAR STILLWATER, NV",
+  "state": "NV",
+  "latitude": 39.53353015,
+  "longitude": -118.5193087,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-1031221902",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04148140",
+  "key": "04148140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04148140",
+  "name": "KEARSLEY CREEK NEAR DAVISON, MI",
+  "waterbody": "KEARSLEY CREEK NEAR DAVISON, MI",
+  "state": "MI",
+  "latitude": 43.0336381,
+  "longitude": -83.5813417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAVM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kearsley Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/davm4",
+  "slug": "usgs-04148140",
+  "noaaForecastPath": "data/noaa-forecast/DAVM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

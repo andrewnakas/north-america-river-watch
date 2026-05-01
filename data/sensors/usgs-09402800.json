@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09402800",
+  "key": "09402800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09402800",
+  "name": "BRIGHT ANGEL CREEK BELOW RIBBON FALLS IN GCNP, AZ",
+  "waterbody": "BRIGHT ANGEL CREEK BELOW RIBBON FALLS IN GCNP, AZ",
+  "state": "AZ",
+  "latitude": 36.15288056,
+  "longitude": -112.05803889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09402800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

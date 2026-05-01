@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06935890",
+  "key": "06935890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06935890",
+  "name": "Creve Coeur Creek near Creve Coeur, MO",
+  "waterbody": "Creve Coeur Creek near Creve Coeur, MO",
+  "state": "MO",
+  "latitude": 38.6828611,
+  "longitude": -90.4878889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06935890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

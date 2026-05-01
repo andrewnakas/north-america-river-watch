@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03321210",
+  "key": "03321210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03321210",
+  "name": "CYPRESS CREEK NEAR CALHOUN, KY",
+  "waterbody": "CYPRESS CREEK NEAR CALHOUN, KY",
+  "state": "KY",
+  "latitude": 37.4889347,
+  "longitude": -87.2861094,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03321210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03127980",
+  "key": "03127980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03127980",
+  "name": "Clear Fork above Tappan Lake OH",
+  "waterbody": "Clear Fork above Tappan Lake OH",
+  "state": "OH",
+  "latitude": 40.3386111,
+  "longitude": -81.11388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03127980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

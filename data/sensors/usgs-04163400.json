@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04163400",
+  "key": "04163400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04163400",
+  "name": "PLUM BROOK AT UTICA, MI",
+  "waterbody": "PLUM BROOK AT UTICA, MI",
+  "state": "MI",
+  "latitude": 42.60142277,
+  "longitude": -83.0713165,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04163400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

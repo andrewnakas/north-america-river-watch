@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11119770",
+  "key": "11119770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11119770",
+  "name": "MISSION C BL W GUTIERREZ ST BR A SANTA BARBARA CA",
+  "waterbody": "MISSION C BL W GUTIERREZ ST BR A SANTA BARBARA CA",
+  "state": "CA",
+  "latitude": 34.41421944,
+  "longitude": -119.6958472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGZC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mission Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgzc1",
+  "slug": "usgs-11119770",
+  "noaaForecastPath": "data/noaa-forecast/MGZC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

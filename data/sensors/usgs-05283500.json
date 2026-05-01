@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05283500",
+  "key": "05283500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05283500",
+  "name": "MISSISSIPPI RIVER AT US HWY 169 AT CHAMPLIN, MN",
+  "waterbody": "MISSISSIPPI RIVER AT US HWY 169 AT CHAMPLIN, MN",
+  "state": "MN",
+  "latitude": 45.19164586,
+  "longitude": -93.3946659,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AKAM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/akam5",
+  "slug": "usgs-05283500",
+  "noaaForecastPath": "data/noaa-forecast/AKAM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

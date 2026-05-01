@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01583980",
+  "key": "01583980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01583980",
+  "name": "MINEBANK RUN AT LOCH RAVEN, MD",
+  "waterbody": "MINEBANK RUN AT LOCH RAVEN, MD",
+  "state": "MD",
+  "latitude": 39.41666667,
+  "longitude": -76.5463056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01583980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

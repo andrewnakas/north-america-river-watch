@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02335353",
+  "key": "02335353",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02335353",
+  "name": "CHATTAHOOCHEE R 0.09 MI DS GA140, ALPHARETTA, GA",
+  "waterbody": "CHATTAHOOCHEE R 0.09 MI DS GA140, ALPHARETTA, GA",
+  "state": "GA",
+  "latitude": 33.9732222,
+  "longitude": -84.26425,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02335353",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

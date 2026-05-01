@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01354230",
+  "key": "01354230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01354230",
+  "name": "MOHAWK RIVER AT LOCK 9 AT ROTTERDAM JUNCTION NY",
+  "waterbody": "MOHAWK RIVER AT LOCK 9 AT ROTTERDAM JUNCTION NY",
+  "state": "NY",
+  "latitude": 42.87827778,
+  "longitude": -74.04075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01354230",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

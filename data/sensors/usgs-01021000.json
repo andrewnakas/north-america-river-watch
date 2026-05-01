@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01021000",
+  "key": "01021000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01021000",
+  "name": "St. Croix River at Baring, Maine",
+  "waterbody": "St. Croix River at Baring, Maine",
+  "state": "ME",
+  "latitude": 45.1369444,
+  "longitude": -67.3180556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BARM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Croix River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/barm1",
+  "slug": "usgs-01021000",
+  "noaaForecastPath": "data/noaa-forecast/BARM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

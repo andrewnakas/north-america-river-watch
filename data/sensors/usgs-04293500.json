@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04293500",
+  "key": "04293500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04293500",
+  "name": "MISSISQUOI RIVER NEAR EAST BERKSHIRE, VT",
+  "waterbody": "MISSISQUOI RIVER NEAR EAST BERKSHIRE, VT",
+  "state": "VT",
+  "latitude": 44.96008186,
+  "longitude": -72.6966075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBKV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missisquoi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebkv1",
+  "slug": "usgs-04293500",
+  "noaaForecastPath": "data/noaa-forecast/EBKV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

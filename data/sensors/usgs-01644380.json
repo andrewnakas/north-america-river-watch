@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01644380",
+  "key": "01644380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644380",
+  "name": "CABIN BRANCH NEAR BOYDS, MD",
+  "waterbody": "CABIN BRANCH NEAR BOYDS, MD",
+  "state": "MD",
+  "latitude": 39.2066111,
+  "longitude": -77.2885833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOYM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cabin Branch Near Boyds, MD - 01644380",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/boym2",
+  "slug": "usgs-01644380",
+  "noaaForecastPath": "data/noaa-forecast/BOYM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

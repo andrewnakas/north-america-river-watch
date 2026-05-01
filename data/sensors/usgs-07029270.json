@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07029270",
+  "key": "07029270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07029270",
+  "name": "HATCHIE RIVER NR WALNUT, MS",
+  "waterbody": "HATCHIE RIVER NR WALNUT, MS",
+  "state": "MS",
+  "latitude": 34.94175668,
+  "longitude": -88.7875557,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLNM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hatchie River  Walnut",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlnm6",
+  "slug": "usgs-07029270",
+  "noaaForecastPath": "data/noaa-forecast/WLNM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

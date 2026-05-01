@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05591700",
+  "key": "05591700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05591700",
+  "name": "WEST OKAW RIVER NEAR LOVINGTON, IL",
+  "waterbody": "WEST OKAW RIVER NEAR LOVINGTON, IL",
+  "state": "IL",
+  "latitude": 39.7307222,
+  "longitude": -88.6621111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WORI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Okaw River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wori2",
+  "slug": "usgs-05591700",
+  "noaaForecastPath": "data/noaa-forecast/WORI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

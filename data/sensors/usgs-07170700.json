@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07170700",
+  "key": "07170700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07170700",
+  "name": "BIG HILL C NR CHERRYVALE, KS",
+  "waterbody": "BIG HILL C NR CHERRYVALE, KS",
+  "state": "KS",
+  "latitude": 37.2667325,
+  "longitude": -95.469144,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIGK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bigk1",
+  "slug": "usgs-07170700",
+  "noaaForecastPath": "data/noaa-forecast/BIGK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

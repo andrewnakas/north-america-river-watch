@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11447293",
+  "key": "11447293",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11447293",
+  "name": "DRY C A VERNON ST BRIDGE A ROSEVILLE CA",
+  "waterbody": "DRY C A VERNON ST BRIDGE A ROSEVILLE CA",
+  "state": "CA",
+  "latitude": 38.73323514,
+  "longitude": -121.301895,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11447293",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

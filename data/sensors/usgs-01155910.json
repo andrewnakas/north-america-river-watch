@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01155910",
+  "key": "01155910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01155910",
+  "name": "WEST RIVER BELOW TOWNSHEND DAM NEAR TOWNSHEND, VT",
+  "waterbody": "WEST RIVER BELOW TOWNSHEND DAM NEAR TOWNSHEND, VT",
+  "state": "VT",
+  "latitude": 43.0511901,
+  "longitude": -72.7000939,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOWV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/towv1",
+  "slug": "usgs-01155910",
+  "noaaForecastPath": "data/noaa-forecast/TOWV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

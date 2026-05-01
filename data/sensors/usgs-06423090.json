@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06423090",
+  "key": "06423090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06423090",
+  "name": "BOXELDER CR TRIB4 AT LIBERTY BLVD AT BOX ELDER, SD",
+  "waterbody": "BOXELDER CR TRIB4 AT LIBERTY BLVD AT BOX ELDER, SD",
+  "state": "SD",
+  "latitude": 44.11275543,
+  "longitude": -103.05096251,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06423090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

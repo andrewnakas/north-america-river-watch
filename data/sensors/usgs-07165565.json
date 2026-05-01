@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07165565",
+  "key": "07165565",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07165565",
+  "name": "Little Haikey Creek at 101st St South at Tulsa, OK",
+  "waterbody": "Little Haikey Creek at 101st St South at Tulsa, OK",
+  "state": "OK",
+  "latitude": 36.01759824,
+  "longitude": -95.8608227,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07165565",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

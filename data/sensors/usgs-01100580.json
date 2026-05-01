@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100580",
+  "key": "01100580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100580",
+  "name": "SPRING BROOK NEAR BEDFORD, MA",
+  "waterbody": "SPRING BROOK NEAR BEDFORD, MA",
+  "state": "MA",
+  "latitude": 42.49413899,
+  "longitude": -71.2558556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

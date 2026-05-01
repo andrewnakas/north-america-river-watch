@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02212600",
+  "key": "02212600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02212600",
+  "name": "FALLING CREEK NEAR JULIETTE, GA",
+  "waterbody": "FALLING CREEK NEAR JULIETTE, GA",
+  "state": "GA",
+  "latitude": 33.10030556,
+  "longitude": -83.7231667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FALG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Falling Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/falg1",
+  "slug": "usgs-02212600",
+  "noaaForecastPath": "data/noaa-forecast/FALG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

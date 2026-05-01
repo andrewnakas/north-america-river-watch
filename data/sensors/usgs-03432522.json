@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03432522",
+  "key": "03432522",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03432522",
+  "name": "SOUTH GARRISON BRANCH NEAR HOLTS CHAPEL, TN",
+  "waterbody": "SOUTH GARRISON BRANCH NEAR HOLTS CHAPEL, TN",
+  "state": "TN",
+  "latitude": 35.85388889,
+  "longitude": -87.0675,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03432522",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.386Z"
+}

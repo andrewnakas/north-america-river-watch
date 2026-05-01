@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02016500",
+  "key": "02016500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02016500",
+  "name": "JAMES RIVER AT LICK RUN, VA",
+  "waterbody": "JAMES RIVER AT LICK RUN, VA",
+  "state": "VA",
+  "latitude": 37.77374009,
+  "longitude": -79.7844925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LIRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River (VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lirv2",
+  "slug": "usgs-02016500",
+  "noaaForecastPath": "data/noaa-forecast/LIRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

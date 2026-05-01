@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02174480",
+  "key": "02174480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02174480",
+  "name": "FOUR HOLE SWAMP NEAR DORCHESTER, SC",
+  "waterbody": "FOUR HOLE SWAMP NEAR DORCHESTER, SC",
+  "state": "SC",
+  "latitude": 33.14177778,
+  "longitude": -80.3489444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FHOS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Four Hole Swamp",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fhos1",
+  "slug": "usgs-02174480",
+  "noaaForecastPath": "data/noaa-forecast/FHOS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

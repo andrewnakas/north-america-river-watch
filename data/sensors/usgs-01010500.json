@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01010500",
+  "key": "01010500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01010500",
+  "name": "St. John River at Dickey, Maine",
+  "waterbody": "St. John River at Dickey, Maine",
+  "state": "ME",
+  "latitude": 47.11305556,
+  "longitude": -69.0880556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DICM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. John River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dicm1",
+  "slug": "usgs-01010500",
+  "noaaForecastPath": "data/noaa-forecast/DICM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03331500",
+  "key": "03331500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03331500",
+  "name": "TIPPECANOE RIVER NEAR ORA, IN",
+  "waterbody": "TIPPECANOE RIVER NEAR ORA, IN",
+  "state": "IN",
+  "latitude": 41.15724265,
+  "longitude": -86.56359199,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORAI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tippecanoe River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orai3",
+  "slug": "usgs-03331500",
+  "noaaForecastPath": "data/noaa-forecast/ORAI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

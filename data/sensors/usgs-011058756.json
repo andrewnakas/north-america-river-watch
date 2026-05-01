@@ -1,0 +1,19 @@
+{
+  "id": "usgs:011058756",
+  "key": "011058756",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "011058756",
+  "name": "EEL RIVER AT RUSSELL MILL RD NEAR PLYMOUTH, MA",
+  "waterbody": "EEL RIVER AT RUSSELL MILL RD NEAR PLYMOUTH, MA",
+  "state": "MA",
+  "latitude": 41.91760386,
+  "longitude": -70.62642257,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-011058756",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

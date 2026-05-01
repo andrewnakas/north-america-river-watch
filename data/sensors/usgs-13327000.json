@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13327000",
+  "key": "13327000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13327000",
+  "name": "SILVER LAKE DITCH AT JOSEPH,OREG.",
+  "waterbody": "SILVER LAKE DITCH AT JOSEPH,OREG.",
+  "state": "OR",
+  "latitude": 45.333208,
+  "longitude": -117.2204458,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13327000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

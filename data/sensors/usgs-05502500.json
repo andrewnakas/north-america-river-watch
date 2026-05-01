@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05502500",
+  "key": "05502500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05502500",
+  "name": "North Fork Salt River near Shelbina, MO",
+  "waterbody": "North Fork Salt River near Shelbina, MO",
+  "state": "MO",
+  "latitude": 39.74127778,
+  "longitude": -92.0410278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05502500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

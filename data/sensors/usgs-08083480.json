@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083480",
+  "key": "08083480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083480",
+  "name": "Cedar Ck at IH 20, Abilene, TX",
+  "waterbody": "Cedar Ck at IH 20, Abilene, TX",
+  "state": "TX",
+  "latitude": 32.4866111,
+  "longitude": -99.7145556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

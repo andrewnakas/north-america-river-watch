@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01661350",
+  "key": "01661350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01661350",
+  "name": "MCINTOSH RUN NEAR LEONARDTOWN, MD",
+  "waterbody": "MCINTOSH RUN NEAR LEONARDTOWN, MD",
+  "state": "MD",
+  "latitude": 38.30405556,
+  "longitude": -76.6565556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LENM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "McIntosh Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lenm2",
+  "slug": "usgs-01661350",
+  "noaaForecastPath": "data/noaa-forecast/LENM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

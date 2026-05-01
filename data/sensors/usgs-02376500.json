@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02376500",
+  "key": "02376500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02376500",
+  "name": "PERDIDO RIVER AT BARRINEAU PARK, FL",
+  "waterbody": "PERDIDO RIVER AT BARRINEAU PARK, FL",
+  "state": "FL",
+  "latitude": 30.69027778,
+  "longitude": -87.4402778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Perdido River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brpf1",
+  "slug": "usgs-02376500",
+  "noaaForecastPath": "data/noaa-forecast/BRPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

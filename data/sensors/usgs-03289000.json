@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03289000",
+  "key": "03289000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03289000",
+  "name": "SOUTH ELKHORN CREEK AT FORT SPRING, KY",
+  "waterbody": "SOUTH ELKHORN CREEK AT FORT SPRING, KY",
+  "state": "KY",
+  "latitude": 38.0431322,
+  "longitude": -84.6263318,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTSK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhorn Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftsk2",
+  "slug": "usgs-03289000",
+  "noaaForecastPath": "data/noaa-forecast/FTSK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

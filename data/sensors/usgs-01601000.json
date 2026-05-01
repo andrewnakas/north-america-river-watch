@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01601000",
+  "key": "01601000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01601000",
+  "name": "Wills Creek below Hyndman, PA",
+  "waterbody": "Wills Creek below Hyndman, PA",
+  "state": "PA",
+  "latitude": 39.81202897,
+  "longitude": -78.7164072,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HYDP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wills Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hydp1",
+  "slug": "usgs-01601000",
+  "noaaForecastPath": "data/noaa-forecast/HYDP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

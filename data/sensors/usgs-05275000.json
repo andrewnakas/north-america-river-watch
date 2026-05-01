@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05275000",
+  "key": "05275000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05275000",
+  "name": "ELK RIVER NEAR BIG LAKE, MN",
+  "waterbody": "ELK RIVER NEAR BIG LAKE, MN",
+  "state": "MN",
+  "latitude": 45.3338537,
+  "longitude": -93.6669098,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERVM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ervm5",
+  "slug": "usgs-05275000",
+  "noaaForecastPath": "data/noaa-forecast/ERVM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

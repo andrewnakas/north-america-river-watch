@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0158397967",
+  "key": "0158397967",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0158397967",
+  "name": "MINEBANK RUN NEAR GLEN ARM, MD",
+  "waterbody": "MINEBANK RUN NEAR GLEN ARM, MD",
+  "state": "MD",
+  "latitude": 39.4096111,
+  "longitude": -76.55725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GAMM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minebank Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gamm2",
+  "slug": "usgs-0158397967",
+  "noaaForecastPath": "data/noaa-forecast/GAMM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02175100",
+  "key": "02175100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02175100",
+  "name": "IRELAND CREEK AT US-15 AT WALTERBORO, SC",
+  "waterbody": "IRELAND CREEK AT US-15 AT WALTERBORO, SC",
+  "state": "SC",
+  "latitude": 32.90827778,
+  "longitude": -80.6674722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WICS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ireland Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wics1",
+  "slug": "usgs-02175100",
+  "noaaForecastPath": "data/noaa-forecast/WICS1.json",
+  "generatedAt": "2026-05-01T12:10:11.374Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01540500",
+  "key": "01540500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01540500",
+  "name": "Susquehanna River at Danville, PA",
+  "waterbody": "Susquehanna River at Danville, PA",
+  "state": "PA",
+  "latitude": 40.95814218,
+  "longitude": -76.6191222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DANP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/danp1",
+  "slug": "usgs-01540500",
+  "noaaForecastPath": "data/noaa-forecast/DANP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

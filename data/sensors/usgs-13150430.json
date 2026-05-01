@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13150430",
+  "key": "13150430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13150430",
+  "name": "SILVER CREEK AT SPORTSMAN ACCESS NR PICABO ID",
+  "waterbody": "SILVER CREEK AT SPORTSMAN ACCESS NR PICABO ID",
+  "state": "ID",
+  "latitude": 43.3233611,
+  "longitude": -114.10835,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBOI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Silver Creek (ID)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pboi1",
+  "slug": "usgs-13150430",
+  "noaaForecastPath": "data/noaa-forecast/PBOI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

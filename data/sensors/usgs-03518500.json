@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03518500",
+  "key": "03518500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03518500",
+  "name": "TELLICO RIVER AT TELLICO PLAINS, TN",
+  "waterbody": "TELLICO RIVER AT TELLICO PLAINS, TN",
+  "state": "TN",
+  "latitude": 35.3620163,
+  "longitude": -84.2790141,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tellico River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlrt1",
+  "slug": "usgs-03518500",
+  "noaaForecastPath": "data/noaa-forecast/TLRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05319500",
+  "key": "05319500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05319500",
+  "name": "WATONWAN RIVER NEAR GARDEN CITY, MN",
+  "waterbody": "WATONWAN RIVER NEAR GARDEN CITY, MN",
+  "state": "MN",
+  "latitude": 44.04621625,
+  "longitude": -94.1948741,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRDM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Watonwan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grdm5",
+  "slug": "usgs-05319500",
+  "noaaForecastPath": "data/noaa-forecast/GRDM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

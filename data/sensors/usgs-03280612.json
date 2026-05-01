@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03280612",
+  "key": "03280612",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03280612",
+  "name": "MIDDLE FORK KENTUCKY RIVER AT HWY 2431 AT HYDEN,KY",
+  "waterbody": "MIDDLE FORK KENTUCKY RIVER AT HWY 2431 AT HYDEN,KY",
+  "state": "KY",
+  "latitude": 37.1462029,
+  "longitude": -83.3812933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HYDK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hydk2",
+  "slug": "usgs-03280612",
+  "noaaForecastPath": "data/noaa-forecast/HYDK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

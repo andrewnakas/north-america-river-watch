@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15908000",
+  "key": "15908000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15908000",
+  "name": "SAGAVANIRKTOK R NR PUMP STA 3 AK",
+  "waterbody": "SAGAVANIRKTOK R NR PUMP STA 3 AK",
+  "state": "AK",
+  "latitude": 69.0158333,
+  "longitude": -148.8177778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sagavanirktok River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgra2",
+  "slug": "usgs-15908000",
+  "noaaForecastPath": "data/noaa-forecast/SGRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

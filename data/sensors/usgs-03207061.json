@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03207061",
+  "key": "03207061",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03207061",
+  "name": "TWELVEPOLE CREEK AT LAVALETTE, WV",
+  "waterbody": "TWELVEPOLE CREEK AT LAVALETTE, WV",
+  "state": "WV",
+  "latitude": 38.32413889,
+  "longitude": -82.4488611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAVW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twelvepole Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lavw2",
+  "slug": "usgs-03207061",
+  "noaaForecastPath": "data/noaa-forecast/LAVW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

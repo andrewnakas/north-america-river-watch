@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08134000",
+  "key": "08134000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08134000",
+  "name": "N Concho Rv nr Carlsbad, TX",
+  "waterbody": "N Concho Rv nr Carlsbad, TX",
+  "state": "TX",
+  "latitude": 31.5926549,
+  "longitude": -100.6370449,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Concho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clbt2",
+  "slug": "usgs-08134000",
+  "noaaForecastPath": "data/noaa-forecast/CLBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

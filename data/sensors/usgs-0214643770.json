@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214643770",
+  "key": "0214643770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214643770",
+  "name": "BRIAR CR AT INDEPENDENCE BLVD AT CHARLOTTE, NC",
+  "waterbody": "BRIAR CR AT INDEPENDENCE BLVD AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.2108333,
+  "longitude": -80.8008333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IBRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Briar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ibrn7",
+  "slug": "usgs-0214643770",
+  "noaaForecastPath": "data/noaa-forecast/IBRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03577000",
+  "key": "03577000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03577000",
+  "name": "WEST FLINT CREEK NEAR OAKVILLE AL",
+  "waterbody": "WEST FLINT CREEK NEAR OAKVILLE AL",
+  "state": "AL",
+  "latitude": 34.4764839,
+  "longitude": -87.1416814,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03577000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

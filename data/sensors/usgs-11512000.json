@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11512000",
+  "key": "11512000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11512000",
+  "name": "FALL C A COPCO CA",
+  "waterbody": "FALL C A COPCO CA",
+  "state": "CA",
+  "latitude": 41.97486349,
+  "longitude": -122.3644638,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11512000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01157000",
+  "key": "01157000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01157000",
+  "name": "ASHUELOT RIVER NEAR GILSUM, NH",
+  "waterbody": "ASHUELOT RIVER NEAR GILSUM, NH",
+  "state": "NH",
+  "latitude": 43.03924586,
+  "longitude": -72.2700858,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GILN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashuelot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/giln3",
+  "slug": "usgs-01157000",
+  "noaaForecastPath": "data/noaa-forecast/GILN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06793000",
+  "key": "06793000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06793000",
+  "name": "Loup River near Genoa, Nebr.",
+  "waterbody": "Loup River near Genoa, Nebr.",
+  "state": "NE",
+  "latitude": 41.417514,
+  "longitude": -97.722925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GELN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/geln1",
+  "slug": "usgs-06793000",
+  "noaaForecastPath": "data/noaa-forecast/GELN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

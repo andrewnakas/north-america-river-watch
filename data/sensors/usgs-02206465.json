@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02206465",
+  "key": "02206465",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02206465",
+  "name": "WATSON CREEK TRIB 2, TANGLEWOOD DR, SNELLVILLE, GA",
+  "waterbody": "WATSON CREEK TRIB 2, TANGLEWOOD DR, SNELLVILLE, GA",
+  "state": "GA",
+  "latitude": 33.86302778,
+  "longitude": -84.0354167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WATG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Watson Creek Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/watg1",
+  "slug": "usgs-02206465",
+  "noaaForecastPath": "data/noaa-forecast/WATG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

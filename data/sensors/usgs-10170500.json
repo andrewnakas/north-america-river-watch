@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10170500",
+  "key": "10170500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10170500",
+  "name": "SURPLUS CANAL @ SALT LAKE CITY, UT",
+  "waterbody": "SURPLUS CANAL @ SALT LAKE CITY, UT",
+  "state": "UT",
+  "latitude": 40.72755556,
+  "longitude": -111.927361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCSU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jordan River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scsu1",
+  "slug": "usgs-10170500",
+  "noaaForecastPath": "data/noaa-forecast/SCSU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

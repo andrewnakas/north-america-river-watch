@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07370500",
+  "key": "07370500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07370500",
+  "name": "Castor Ck nr Grayson, LA",
+  "waterbody": "Castor Ck nr Grayson, LA",
+  "state": "LA",
+  "latitude": 32.08158333,
+  "longitude": -92.2065,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07370500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

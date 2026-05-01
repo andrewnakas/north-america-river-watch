@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03459500",
+  "key": "03459500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03459500",
+  "name": "PIGEON RIVER NEAR HEPCO, NC",
+  "waterbody": "PIGEON RIVER NEAR HEPCO, NC",
+  "state": "NC",
+  "latitude": 35.635,
+  "longitude": -82.99,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HEPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hepn7",
+  "slug": "usgs-03459500",
+  "noaaForecastPath": "data/noaa-forecast/HEPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

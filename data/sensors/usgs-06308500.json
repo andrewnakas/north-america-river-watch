@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06308500",
+  "key": "06308500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06308500",
+  "name": "Tongue River at Miles City, MT",
+  "waterbody": "Tongue River at Miles City, MT",
+  "state": "MT",
+  "latitude": 46.3845944,
+  "longitude": -105.8455222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MICM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/micm8",
+  "slug": "usgs-06308500",
+  "noaaForecastPath": "data/noaa-forecast/MICM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

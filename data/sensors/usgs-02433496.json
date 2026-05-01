@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02433496",
+  "key": "02433496",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02433496",
+  "name": "TENN-TOM WATERWAY BL AMORY L&D AT AMORY, MS",
+  "waterbody": "TENN-TOM WATERWAY BL AMORY L&D AT AMORY, MS",
+  "state": "MS",
+  "latitude": 34.00944444,
+  "longitude": -88.49138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02433496",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

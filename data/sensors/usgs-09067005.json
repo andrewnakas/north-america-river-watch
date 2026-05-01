@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09067005",
+  "key": "09067005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09067005",
+  "name": "EAGLE RIVER AT AVON, CO.",
+  "waterbody": "EAGLE RIVER AT AVON, CO.",
+  "state": "CO",
+  "latitude": 39.6316527,
+  "longitude": -106.5225318,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EALC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eagle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ealc2",
+  "slug": "usgs-09067005",
+  "noaaForecastPath": "data/noaa-forecast/EALC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

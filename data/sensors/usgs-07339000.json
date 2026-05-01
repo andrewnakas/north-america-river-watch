@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07339000",
+  "key": "07339000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07339000",
+  "name": "Mountain Fork near Eagletown, OK",
+  "waterbody": "Mountain Fork near Eagletown, OK",
+  "state": "OK",
+  "latitude": 34.04177757,
+  "longitude": -94.6199358,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAGO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mountain Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eago2",
+  "slug": "usgs-07339000",
+  "noaaForecastPath": "data/noaa-forecast/EAGO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

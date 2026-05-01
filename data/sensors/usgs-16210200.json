@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16210200",
+  "key": "16210200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16210200",
+  "name": "Kaukonahua Stream blw Wahiawa Reservoir, Oahu, HI",
+  "waterbody": "Kaukonahua Stream blw Wahiawa Reservoir, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.50025,
+  "longitude": -158.0510833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wahiawa Reservoir",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrsh1",
+  "slug": "usgs-16210200",
+  "noaaForecastPath": "data/noaa-forecast/WRSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

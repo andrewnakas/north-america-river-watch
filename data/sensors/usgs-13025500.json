@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13025500",
+  "key": "13025500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13025500",
+  "name": "CROW CREEK NEAR FAIRVIEW, WY",
+  "waterbody": "CROW CREEK NEAR FAIRVIEW, WY",
+  "state": "WY",
+  "latitude": 42.67491237,
+  "longitude": -111.0077309,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCFW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccfw4",
+  "slug": "usgs-13025500",
+  "noaaForecastPath": "data/noaa-forecast/CCFW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

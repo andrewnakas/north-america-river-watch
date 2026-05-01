@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50047535",
+  "key": "50047535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50047535",
+  "name": "RIO DE BAYAMON AT ARENAS, PR",
+  "waterbody": "RIO DE BAYAMON AT ARENAS, PR",
+  "state": "PR",
+  "latitude": 18.169167,
+  "longitude": -66.121944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CIFP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Bayamon",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cifp4",
+  "slug": "usgs-50047535",
+  "noaaForecastPath": "data/noaa-forecast/CIFP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16759600",
+  "key": "16759600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16759600",
+  "name": "Waiaha Stream at Holualoa, HI",
+  "waterbody": "Waiaha Stream at Holualoa, HI",
+  "state": "HI",
+  "latitude": 19.63419444,
+  "longitude": -155.9496944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAAH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waiaha Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/waah1",
+  "slug": "usgs-16759600",
+  "noaaForecastPath": "data/noaa-forecast/WAAH1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

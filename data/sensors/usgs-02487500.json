@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02487500",
+  "key": "02487500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02487500",
+  "name": "STRONG RIVER AT D`LO, MS",
+  "waterbody": "STRONG RIVER AT D`LO, MS",
+  "state": "MS",
+  "latitude": 31.97777778,
+  "longitude": -89.8975,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLAM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Strong River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlam6",
+  "slug": "usgs-02487500",
+  "noaaForecastPath": "data/noaa-forecast/DLAM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

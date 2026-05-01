@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09404208",
+  "key": "09404208",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404208",
+  "name": "DIAMOND CREEK NEAR PEACH SPRINGS, AZ",
+  "waterbody": "DIAMOND CREEK NEAR PEACH SPRINGS, AZ",
+  "state": "AZ",
+  "latitude": 35.76498839,
+  "longitude": -113.3682663,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09404208",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

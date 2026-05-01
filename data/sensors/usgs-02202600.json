@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02202600",
+  "key": "02202600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02202600",
+  "name": "BLACK CREEK NEAR BLITCHTON, GA",
+  "waterbody": "BLACK CREEK NEAR BLITCHTON, GA",
+  "state": "GA",
+  "latitude": 32.16755556,
+  "longitude": -81.48775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLIG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blig1",
+  "slug": "usgs-02202600",
+  "noaaForecastPath": "data/noaa-forecast/BLIG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06101200",
+  "key": "06101200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06101200",
+  "name": "Willow Creek near Galata, MT",
+  "waterbody": "Willow Creek near Galata, MT",
+  "state": "MT",
+  "latitude": 48.44865556,
+  "longitude": -111.3453056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06101200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

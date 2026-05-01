@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05140521",
+  "key": "05140521",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05140521",
+  "name": "LK OF THE WOODS @ SPRINGSTEEL IS NR. WARROAD, MN",
+  "waterbody": "LK OF THE WOODS @ SPRINGSTEEL IS NR. WARROAD, MN",
+  "state": "MN",
+  "latitude": 48.946103,
+  "longitude": -95.306776,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSIM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake of the Woods",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssim5",
+  "slug": "usgs-05140521",
+  "noaaForecastPath": "data/noaa-forecast/SSIM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

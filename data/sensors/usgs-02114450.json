@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02114450",
+  "key": "02114450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02114450",
+  "name": "LITTLE YADKIN RIVER AT DALTON, NC",
+  "waterbody": "LITTLE YADKIN RIVER AT DALTON, NC",
+  "state": "NC",
+  "latitude": 36.29916667,
+  "longitude": -80.4147222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DALN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Yadkin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/daln7",
+  "slug": "usgs-02114450",
+  "noaaForecastPath": "data/noaa-forecast/DALN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

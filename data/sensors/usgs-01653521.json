@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01653521",
+  "key": "01653521",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01653521",
+  "name": "PISCATAWAY CREEK AT JOINT BASE ANDREWS, MD",
+  "waterbody": "PISCATAWAY CREEK AT JOINT BASE ANDREWS, MD",
+  "state": "MD",
+  "latitude": 38.7906,
+  "longitude": -76.86703056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01653521",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

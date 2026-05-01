@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08082500",
+  "key": "08082500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08082500",
+  "name": "Brazos Rv at Seymour, TX",
+  "waterbody": "Brazos Rv at Seymour, TX",
+  "state": "TX",
+  "latitude": 33.58092766,
+  "longitude": -99.2675756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SYMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/symt2",
+  "slug": "usgs-08082500",
+  "noaaForecastPath": "data/noaa-forecast/SYMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

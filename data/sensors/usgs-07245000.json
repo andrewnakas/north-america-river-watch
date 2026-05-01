@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07245000",
+  "key": "07245000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07245000",
+  "name": "Canadian River near Whitefield, OK",
+  "waterbody": "Canadian River near Whitefield, OK",
+  "state": "OK",
+  "latitude": 35.26231927,
+  "longitude": -95.2371891,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whto2",
+  "slug": "usgs-07245000",
+  "noaaForecastPath": "data/noaa-forecast/WHTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

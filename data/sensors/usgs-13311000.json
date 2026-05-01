@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13311000",
+  "key": "13311000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13311000",
+  "name": "EF OF SF SALMON RIVER AT STIBNITE, ID",
+  "waterbody": "EF OF SF SALMON RIVER AT STIBNITE, ID",
+  "state": "ID",
+  "latitude": 44.9057222,
+  "longitude": -115.3295,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "EF of SF Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfsi1",
+  "slug": "usgs-13311000",
+  "noaaForecastPath": "data/noaa-forecast/SFSI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

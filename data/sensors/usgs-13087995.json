@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13087995",
+  "key": "13087995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13087995",
+  "name": "SNAKE RIVER GAGING STATION AT MILNER ID",
+  "waterbody": "SNAKE RIVER GAGING STATION AT MILNER ID",
+  "state": "ID",
+  "latitude": 42.52805556,
+  "longitude": -114.0183333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MILI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mili1",
+  "slug": "usgs-13087995",
+  "noaaForecastPath": "data/noaa-forecast/MILI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

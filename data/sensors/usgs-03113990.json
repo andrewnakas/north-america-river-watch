@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03113990",
+  "key": "03113990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03113990",
+  "name": "Captina Creek at S.R. 148 at Armstrongs Mills OH",
+  "waterbody": "Captina Creek at S.R. 148 at Armstrongs Mills OH",
+  "state": "OH",
+  "latitude": 39.9067395,
+  "longitude": -80.9359288,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Captina Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/armo1",
+  "slug": "usgs-03113990",
+  "noaaForecastPath": "data/noaa-forecast/ARMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01434080",
+  "key": "01434080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434080",
+  "name": "DRY CREEK ABOVE SEEP ZONE NEAR FROST VALLEY NY",
+  "waterbody": "DRY CREEK ABOVE SEEP ZONE NEAR FROST VALLEY NY",
+  "state": "NY",
+  "latitude": 41.96777778,
+  "longitude": -74.5116667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01434080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

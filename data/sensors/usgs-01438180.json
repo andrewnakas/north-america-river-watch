@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01438180",
+  "key": "01438180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01438180",
+  "name": "Delaware River at Hunts Landing near Matamoras, PA",
+  "waterbody": "Delaware River at Hunts Landing near Matamoras, PA",
+  "state": "PA",
+  "latitude": 41.35069444,
+  "longitude": -74.71377778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01438180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

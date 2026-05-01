@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08089000",
+  "key": "08089000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08089000",
+  "name": "Brazos Rv nr Palo Pinto, TX",
+  "waterbody": "Brazos Rv nr Palo Pinto, TX",
+  "state": "TX",
+  "latitude": 32.8626236,
+  "longitude": -98.3025492,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plot2",
+  "slug": "usgs-08089000",
+  "noaaForecastPath": "data/noaa-forecast/PLOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

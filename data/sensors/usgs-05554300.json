@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05554300",
+  "key": "05554300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05554300",
+  "name": "INDIAN CREEK NEAR FAIRBURY, IL",
+  "waterbody": "INDIAN CREEK NEAR FAIRBURY, IL",
+  "state": "IL",
+  "latitude": 40.72277778,
+  "longitude": -88.53,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FICI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fici2",
+  "slug": "usgs-05554300",
+  "noaaForecastPath": "data/noaa-forecast/FICI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

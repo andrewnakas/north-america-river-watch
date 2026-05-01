@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12172000",
+  "key": "12172000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12172000",
+  "name": "BIG BEAVER CREEK NEAR NEWHALEM, WA",
+  "waterbody": "BIG BEAVER CREEK NEAR NEWHALEM, WA",
+  "state": "WA",
+  "latitude": 48.7775862,
+  "longitude": -121.073432,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12172000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

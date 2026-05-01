@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06349500",
+  "key": "06349500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06349500",
+  "name": "APPLE CREEK NR MENOKEN, ND",
+  "waterbody": "APPLE CREEK NR MENOKEN, ND",
+  "state": "ND",
+  "latitude": 46.79443787,
+  "longitude": -100.6573459,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MENN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apple Creek (ND)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/menn8",
+  "slug": "usgs-06349500",
+  "noaaForecastPath": "data/noaa-forecast/MENN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

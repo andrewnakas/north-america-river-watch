@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10224100",
+  "key": "10224100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10224100",
+  "name": "OAK CREEK ABOVE LITTLE CREEK, NEAR OAK CITY, UT",
+  "waterbody": "OAK CREEK ABOVE LITTLE CREEK, NEAR OAK CITY, UT",
+  "state": "UT",
+  "latitude": 39.356346,
+  "longitude": -112.2327174,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10224100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

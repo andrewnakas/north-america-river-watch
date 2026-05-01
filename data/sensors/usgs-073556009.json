@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073556009",
+  "key": "073556009",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073556009",
+  "name": "Red River 6.5 miles below Black River, LA",
+  "waterbody": "Red River 6.5 miles below Black River, LA",
+  "state": "LA",
+  "latitude": 31.2194722,
+  "longitude": -91.7524167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRWL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River 6.5 Miles Below the Confluence of the Black",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrwl1",
+  "slug": "usgs-073556009",
+  "noaaForecastPath": "data/noaa-forecast/RRWL1.json",
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

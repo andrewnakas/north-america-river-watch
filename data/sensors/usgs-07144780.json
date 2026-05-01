@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07144780",
+  "key": "07144780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144780",
+  "name": "NF NINNESCAH R AB CHENEY RE, KS",
+  "waterbody": "NF NINNESCAH R AB CHENEY RE, KS",
+  "state": "KS",
+  "latitude": 37.8621972,
+  "longitude": -98.0137806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07144780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

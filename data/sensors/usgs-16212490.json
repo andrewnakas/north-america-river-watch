@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16212490",
+  "key": "16212490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16212490",
+  "name": "Honouliuli Str at H-1 Freeway nr Waipahu, Oahu, HI",
+  "waterbody": "Honouliuli Str at H-1 Freeway nr Waipahu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.37813889,
+  "longitude": -158.0447778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOHH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Honouliuli Stream",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hohh1",
+  "slug": "usgs-16212490",
+  "noaaForecastPath": "data/noaa-forecast/HOHH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

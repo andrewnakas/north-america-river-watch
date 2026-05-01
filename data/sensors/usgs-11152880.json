@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11152880",
+  "key": "11152880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11152880",
+  "name": "SF PACHECO C ABV HWY 152 NR BELL STATION CA",
+  "waterbody": "SF PACHECO C ABV HWY 152 NR BELL STATION CA",
+  "state": "CA",
+  "latitude": 37.043681,
+  "longitude": -121.275903,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11152880",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

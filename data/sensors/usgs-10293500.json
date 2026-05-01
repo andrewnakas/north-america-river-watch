@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10293500",
+  "key": "10293500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10293500",
+  "name": "E WALKER RV ABV STROSNIDER DITCH NR MASON, NV",
+  "waterbody": "E WALKER RV ABV STROSNIDER DITCH NR MASON, NV",
+  "state": "NV",
+  "latitude": 38.81371389,
+  "longitude": -119.0479917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EWSN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Walker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ewsn2",
+  "slug": "usgs-10293500",
+  "noaaForecastPath": "data/noaa-forecast/EWSN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04118997",
+  "key": "04118997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04118997",
+  "name": "GRAND RIVER AT 6TH ST AT GRAND RAPIDS, MI",
+  "waterbody": "GRAND RIVER AT 6TH ST AT GRAND RAPIDS, MI",
+  "state": "MI",
+  "latitude": 42.976625,
+  "longitude": -85.67350278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04118997",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

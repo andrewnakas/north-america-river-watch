@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06720285",
+  "key": "06720285",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06720285",
+  "name": "HAVANA INTERCEPT BL 56TH AV, AT ROCKY MTN ARS, CO",
+  "waterbody": "HAVANA INTERCEPT BL 56TH AV, AT ROCKY MTN ARS, CO",
+  "state": "CO",
+  "latitude": 39.80109764,
+  "longitude": -104.8644203,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06720285",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02357700",
+  "key": "02357700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02357700",
+  "name": "APALACHICOLA RIVER BL WOODRUFF DAM, NR SNEADS, FL",
+  "waterbody": "APALACHICOLA RIVER BL WOODRUFF DAM, NR SNEADS, FL",
+  "state": "FL",
+  "latitude": 30.70405,
+  "longitude": -84.8632556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apalachicola River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdrf1",
+  "slug": "usgs-02357700",
+  "noaaForecastPath": "data/noaa-forecast/WDRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

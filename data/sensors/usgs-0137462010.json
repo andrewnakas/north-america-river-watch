@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0137462010",
+  "key": "0137462010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0137462010",
+  "name": "WEST BRANCH CROTON RIVER NEAR CARMEL NY",
+  "waterbody": "WEST BRANCH CROTON RIVER NEAR CARMEL NY",
+  "state": "NY",
+  "latitude": 41.41180556,
+  "longitude": -73.69375,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0137462010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

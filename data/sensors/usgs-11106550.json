@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11106550",
+  "key": "11106550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11106550",
+  "name": "CALLEGUAS C NR CAMARILLO CA",
+  "waterbody": "CALLEGUAS C NR CAMARILLO CA",
+  "state": "CA",
+  "latitude": 34.17944989,
+  "longitude": -119.0398242,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calleguas Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cllc1",
+  "slug": "usgs-11106550",
+  "noaaForecastPath": "data/noaa-forecast/CLLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

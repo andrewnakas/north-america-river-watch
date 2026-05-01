@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09428500",
+  "key": "09428500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09428500",
+  "name": "CRIR MAIN CANAL NEAR PARKER, AZ",
+  "waterbody": "CRIR MAIN CANAL NEAR PARKER, AZ",
+  "state": "AZ",
+  "latitude": 34.16779378,
+  "longitude": -114.2766175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09428500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

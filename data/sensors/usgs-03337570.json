@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03337570",
+  "key": "03337570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03337570",
+  "name": "SALINE BRANCH ABOVE 1700E NEAR URBANA, IL",
+  "waterbody": "SALINE BRANCH ABOVE 1700E NEAR URBANA, IL",
+  "state": "IL",
+  "latitude": 40.1298333,
+  "longitude": -88.1516667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBUI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbui2",
+  "slug": "usgs-03337570",
+  "noaaForecastPath": "data/noaa-forecast/SBUI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

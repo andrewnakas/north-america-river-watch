@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03302058",
+  "key": "03302058",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302058",
+  "name": "SALT RIVER AT MAIN RANGE RD NR WEST POINT, KY",
+  "waterbody": "SALT RIVER AT MAIN RANGE RD NR WEST POINT, KY",
+  "state": "KY",
+  "latitude": 37.99222222,
+  "longitude": -85.92205556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wptk2",
+  "slug": "usgs-03302058",
+  "noaaForecastPath": "data/noaa-forecast/WPTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

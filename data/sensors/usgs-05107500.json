@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05107500",
+  "key": "05107500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05107500",
+  "name": "ROSEAU RIVER AT ROSS, MN",
+  "waterbody": "ROSEAU RIVER AT ROSS, MN",
+  "state": "MN",
+  "latitude": 48.910036,
+  "longitude": -95.92228,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSSM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roseau River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rssm5",
+  "slug": "usgs-05107500",
+  "noaaForecastPath": "data/noaa-forecast/RSSM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

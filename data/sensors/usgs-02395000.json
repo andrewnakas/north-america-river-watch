@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02395000",
+  "key": "02395000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02395000",
+  "name": "ETOWAH RIVER NEAR KINGSTON,GA",
+  "waterbody": "ETOWAH RIVER NEAR KINGSTON,GA",
+  "state": "GA",
+  "latitude": 34.20930556,
+  "longitude": -84.97875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KGTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Etowah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kgtg1",
+  "slug": "usgs-02395000",
+  "noaaForecastPath": "data/noaa-forecast/KGTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

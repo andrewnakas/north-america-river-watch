@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08406500",
+  "key": "08406500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08406500",
+  "name": "PECOS RIVER NEAR MALAGA, NM",
+  "waterbody": "PECOS RIVER NEAR MALAGA, NM",
+  "state": "NM",
+  "latitude": 32.20754167,
+  "longitude": -104.023875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLGN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 3 miles ESE of Malaga",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlgn5",
+  "slug": "usgs-08406500",
+  "noaaForecastPath": "data/noaa-forecast/MLGN5.json",
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

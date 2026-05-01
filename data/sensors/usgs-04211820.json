@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04211820",
+  "key": "04211820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04211820",
+  "name": "Grand River at Harpersfield OH",
+  "waterbody": "Grand River at Harpersfield OH",
+  "state": "OH",
+  "latitude": 41.75533267,
+  "longitude": -80.94842629,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04211820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

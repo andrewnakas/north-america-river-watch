@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08089200",
+  "key": "08089200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08089200",
+  "name": "Keechi Ck at SH 337 nr Graford, TX",
+  "waterbody": "Keechi Ck at SH 337 nr Graford, TX",
+  "state": "TX",
+  "latitude": 32.88253889,
+  "longitude": -98.2032972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08089200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

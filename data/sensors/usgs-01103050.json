@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01103050",
+  "key": "01103050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01103050",
+  "name": "MYSTIC R AT AMELIA EARHART DAM NR SOMERVILLE, MA",
+  "waterbody": "MYSTIC R AT AMELIA EARHART DAM NR SOMERVILLE, MA",
+  "state": "MA",
+  "latitude": 42.3955278,
+  "longitude": -71.0750172,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01103050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08117290",
+  "key": "08117290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117290",
+  "name": "Brazos Rv at Freeport, TX",
+  "waterbody": "Brazos Rv at Freeport, TX",
+  "state": "TX",
+  "latitude": 28.9213604,
+  "longitude": -95.3871632,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08117290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

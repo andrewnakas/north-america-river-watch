@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11460400",
+  "key": "11460400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11460400",
+  "name": "LAGUNITAS C A SAMUEL P TAYLOR STATE PARK CA",
+  "waterbody": "LAGUNITAS C A SAMUEL P TAYLOR STATE PARK CA",
+  "state": "CA",
+  "latitude": 38.0268261,
+  "longitude": -122.7363337,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lagunitas Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltsc1",
+  "slug": "usgs-11460400",
+  "noaaForecastPath": "data/noaa-forecast/LTSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

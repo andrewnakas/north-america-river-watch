@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344700",
+  "key": "02344700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344700",
+  "name": "LINE CREEK NEAR SENOIA, GA",
+  "waterbody": "LINE CREEK NEAR SENOIA, GA",
+  "state": "GA",
+  "latitude": 33.31916667,
+  "longitude": -84.5222222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LING1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Line Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ling1",
+  "slug": "usgs-02344700",
+  "noaaForecastPath": "data/noaa-forecast/LING1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

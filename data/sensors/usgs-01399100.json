@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01399100",
+  "key": "01399100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01399100",
+  "name": "Middle Brook at Burnt Mills NJ",
+  "waterbody": "Middle Brook at Burnt Mills NJ",
+  "state": "NJ",
+  "latitude": 40.64944444,
+  "longitude": -74.68166667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDBN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdbn4",
+  "slug": "usgs-01399100",
+  "noaaForecastPath": "data/noaa-forecast/MDBN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

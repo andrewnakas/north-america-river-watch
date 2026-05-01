@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01523500",
+  "key": "01523500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01523500",
+  "name": "CANACADEA CREEK NEAR HORNELL NY",
+  "waterbody": "CANACADEA CREEK NEAR HORNELL NY",
+  "state": "NY",
+  "latitude": 42.3348611,
+  "longitude": -77.6826667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canacadea Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrnn6",
+  "slug": "usgs-01523500",
+  "noaaForecastPath": "data/noaa-forecast/HRNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

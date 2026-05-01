@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07180500",
+  "key": "07180500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07180500",
+  "name": "CEDAR C NR CEDAR POINT, KS",
+  "waterbody": "CEDAR C NR CEDAR POINT, KS",
+  "state": "KS",
+  "latitude": 38.19653056,
+  "longitude": -96.8243417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07180500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

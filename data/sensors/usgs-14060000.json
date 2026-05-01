@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14060000",
+  "key": "14060000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14060000",
+  "name": "CRESCENT CR AT CRESCENT LAKE NR CRESCENT,OREG.",
+  "waterbody": "CRESCENT CR AT CRESCENT LAKE NR CRESCENT,OREG.",
+  "state": "OR",
+  "latitude": 43.5029027,
+  "longitude": -121.9733632,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14060000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

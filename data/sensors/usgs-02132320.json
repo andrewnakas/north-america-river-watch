@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02132320",
+  "key": "02132320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02132320",
+  "name": "BIG SHOE HEEL CREEK NR LAURINBURG, NC",
+  "waterbody": "BIG SHOE HEEL CREEK NR LAURINBURG, NC",
+  "state": "NC",
+  "latitude": 34.75055556,
+  "longitude": -79.3866667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Shoe Heel Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bshn7",
+  "slug": "usgs-02132320",
+  "noaaForecastPath": "data/noaa-forecast/BSHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

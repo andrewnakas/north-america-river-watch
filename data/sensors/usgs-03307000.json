@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03307000",
+  "key": "03307000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03307000",
+  "name": "RUSSELL CREEK NEAR COLUMBIA, KY",
+  "waterbody": "RUSSELL CREEK NEAR COLUMBIA, KY",
+  "state": "KY",
+  "latitude": 37.12547797,
+  "longitude": -85.4040748,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLBK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russell Creek (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clbk2",
+  "slug": "usgs-03307000",
+  "noaaForecastPath": "data/noaa-forecast/CLBK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06006000",
+  "key": "06006000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06006000",
+  "name": "Red Rock Cr ab Lakes, nr Lakeview, MT",
+  "waterbody": "Red Rock Cr ab Lakes, nr Lakeview, MT",
+  "state": "MT",
+  "latitude": 44.615792,
+  "longitude": -111.625669,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Rock Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrlm8",
+  "slug": "usgs-06006000",
+  "noaaForecastPath": "data/noaa-forecast/RRLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

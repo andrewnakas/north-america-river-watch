@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03539800",
+  "key": "03539800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03539800",
+  "name": "OBED RIVER NEAR LANCING, TN",
+  "waterbody": "OBED RIVER NEAR LANCING, TN",
+  "state": "TN",
+  "latitude": 36.0814937,
+  "longitude": -84.6703113,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OBDT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Obed River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/obdt1",
+  "slug": "usgs-03539800",
+  "noaaForecastPath": "data/noaa-forecast/OBDT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

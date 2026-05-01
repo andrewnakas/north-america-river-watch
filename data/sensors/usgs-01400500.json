@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01400500",
+  "key": "01400500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01400500",
+  "name": "Raritan River at Manville NJ",
+  "waterbody": "Raritan River at Manville NJ",
+  "state": "NJ",
+  "latitude": 40.55555556,
+  "longitude": -74.58277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNVN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raritan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnvn4",
+  "slug": "usgs-01400500",
+  "noaaForecastPath": "data/noaa-forecast/MNVN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

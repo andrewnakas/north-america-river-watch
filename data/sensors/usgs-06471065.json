@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06471065",
+  "key": "06471065",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06471065",
+  "name": "ELM RIVER NEAR FREDERICK,SD",
+  "waterbody": "ELM RIVER NEAR FREDERICK,SD",
+  "state": "SD",
+  "latitude": 45.8374753,
+  "longitude": -98.7020456,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERFS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elm River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/erfs2",
+  "slug": "usgs-06471065",
+  "noaaForecastPath": "data/noaa-forecast/ERFS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

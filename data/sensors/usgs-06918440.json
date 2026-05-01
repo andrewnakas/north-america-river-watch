@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06918440",
+  "key": "06918440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06918440",
+  "name": "Sac River near Dadeville, MO",
+  "waterbody": "Sac River near Dadeville, MO",
+  "state": "MO",
+  "latitude": 37.44313889,
+  "longitude": -93.6848889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DDZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ddzm7",
+  "slug": "usgs-06918440",
+  "noaaForecastPath": "data/noaa-forecast/DDZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09471550",
+  "key": "09471550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09471550",
+  "name": "SAN PEDRO RIVER NEAR TOMBSTONE, AZ",
+  "waterbody": "SAN PEDRO RIVER NEAR TOMBSTONE, AZ",
+  "state": "AZ",
+  "latitude": 31.75144444,
+  "longitude": -110.2013333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPTA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Pedro River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spta3",
+  "slug": "usgs-09471550",
+  "noaaForecastPath": "data/noaa-forecast/SPTA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

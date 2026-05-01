@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03488000",
+  "key": "03488000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03488000",
+  "name": "N F HOLSTON RIVER NEAR SALTVILLE, VA",
+  "waterbody": "N F HOLSTON RIVER NEAR SALTVILLE, VA",
+  "state": "VA",
+  "latitude": 36.89678115,
+  "longitude": -81.7462293,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SALV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Holston River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/salv2",
+  "slug": "usgs-03488000",
+  "noaaForecastPath": "data/noaa-forecast/SALV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

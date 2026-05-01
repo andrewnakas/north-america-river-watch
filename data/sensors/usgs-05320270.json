@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05320270",
+  "key": "05320270",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05320270",
+  "name": "LITTLE COBB RIVER NEAR BEAUFORD, MN",
+  "waterbody": "LITTLE COBB RIVER NEAR BEAUFORD, MN",
+  "state": "MN",
+  "latitude": 43.9966325,
+  "longitude": -93.9085628,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05320270",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

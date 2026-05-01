@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12052200",
+  "key": "12052200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12052200",
+  "name": "BIG QUILCENE RIVER ABOVE DIVERSION NR QUILCENE, WA",
+  "waterbody": "BIG QUILCENE RIVER ABOVE DIVERSION NR QUILCENE, WA",
+  "state": "WA",
+  "latitude": 47.7850912,
+  "longitude": -122.9807212,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12052200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

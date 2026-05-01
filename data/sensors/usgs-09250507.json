@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09250507",
+  "key": "09250507",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09250507",
+  "name": "WILSON CREEK ABOVE TAYLOR CREEK NEAR AXIAL, CO.",
+  "waterbody": "WILSON CREEK ABOVE TAYLOR CREEK NEAR AXIAL, CO.",
+  "state": "CO",
+  "latitude": 40.3146948,
+  "longitude": -107.8000718,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09250507",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

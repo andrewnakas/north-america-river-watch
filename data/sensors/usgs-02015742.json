@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02015742",
+  "key": "02015742",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02015742",
+  "name": "COWPASTURE RIVER AT ROUTE 678 NR GREEN VALLEY, VA",
+  "waterbody": "COWPASTURE RIVER AT ROUTE 678 NR GREEN VALLEY, VA",
+  "state": "VA",
+  "latitude": 38.12294444,
+  "longitude": -79.6073611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02015742",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

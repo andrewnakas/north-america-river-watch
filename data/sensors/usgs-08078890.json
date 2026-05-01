@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08078890",
+  "key": "08078890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08078890",
+  "name": "Oyster Ck at FM 1464 nr Sugar Land, TX",
+  "waterbody": "Oyster Ck at FM 1464 nr Sugar Land, TX",
+  "state": "TX",
+  "latitude": 29.61920556,
+  "longitude": -95.6836083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08078890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

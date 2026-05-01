@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03353583",
+  "key": "03353583",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353583",
+  "name": "FALCON CREEK 30TH ST. AT INDIANAPOLIS, IN",
+  "waterbody": "FALCON CREEK 30TH ST. AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.80920158,
+  "longitude": -86.2321927,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03353583",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08064700",
+  "key": "08064700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08064700",
+  "name": "Tehuacana Ck nr Streetman, TX",
+  "waterbody": "Tehuacana Ck nr Streetman, TX",
+  "state": "TX",
+  "latitude": 31.84849638,
+  "longitude": -96.2899755,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08064700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

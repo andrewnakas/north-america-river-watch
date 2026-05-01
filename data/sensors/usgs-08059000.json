@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08059000",
+  "key": "08059000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08059000",
+  "name": "E Fk Trinity Rv nr McKinney, TX",
+  "waterbody": "E Fk Trinity Rv nr McKinney, TX",
+  "state": "TX",
+  "latitude": 33.20372724,
+  "longitude": -96.595824,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mckt2",
+  "slug": "usgs-08059000",
+  "noaaForecastPath": "data/noaa-forecast/MCKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

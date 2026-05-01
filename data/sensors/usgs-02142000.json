@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02142000",
+  "key": "02142000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02142000",
+  "name": "LOWER LITTLE RIVER NR ALL HEALING SPRINGS, NC",
+  "waterbody": "LOWER LITTLE RIVER NR ALL HEALING SPRINGS, NC",
+  "state": "NC",
+  "latitude": 35.94555556,
+  "longitude": -81.2369444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lower Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elln7",
+  "slug": "usgs-02142000",
+  "noaaForecastPath": "data/noaa-forecast/ELLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

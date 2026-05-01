@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10169000",
+  "key": "10169000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10169000",
+  "name": "BIG COTTONWOOD CREEK BELOW CREEKSIDE PARK",
+  "waterbody": "BIG COTTONWOOD CREEK BELOW CREEKSIDE PARK",
+  "state": "UT",
+  "latitude": 40.6652251,
+  "longitude": -111.8402117,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10169000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03007800",
+  "key": "03007800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03007800",
+  "name": "Allegheny River at Port Allegany, PA",
+  "waterbody": "Allegheny River at Port Allegany, PA",
+  "state": "PA",
+  "latitude": 41.81867578,
+  "longitude": -78.29279129,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PALP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/palp1",
+  "slug": "usgs-03007800",
+  "noaaForecastPath": "data/noaa-forecast/PALP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

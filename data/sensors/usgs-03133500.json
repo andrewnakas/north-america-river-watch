@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03133500",
+  "key": "03133500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03133500",
+  "name": "Clear Fork bl Pleasant Hill Dam nr Perrysville OH",
+  "waterbody": "Clear Fork bl Pleasant Hill Dam nr Perrysville OH",
+  "state": "OH",
+  "latitude": 40.6203379,
+  "longitude": -82.3243284,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTHO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork Mohican River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptho1",
+  "slug": "usgs-03133500",
+  "noaaForecastPath": "data/noaa-forecast/PTHO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

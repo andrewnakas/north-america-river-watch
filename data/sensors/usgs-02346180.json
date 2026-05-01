@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02346180",
+  "key": "02346180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02346180",
+  "name": "FLINT RIVER NEAR THOMASTON, GA",
+  "waterbody": "FLINT RIVER NEAR THOMASTON, GA",
+  "state": "GA",
+  "latitude": 32.8385,
+  "longitude": -84.42425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMSG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmsg1",
+  "slug": "usgs-02346180",
+  "noaaForecastPath": "data/noaa-forecast/TMSG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01543000",
+  "key": "01543000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01543000",
+  "name": "Driftwood Br Sinnemahoning Cr at Sterling Run, PA",
+  "waterbody": "Driftwood Br Sinnemahoning Cr at Sterling Run, PA",
+  "state": "PA",
+  "latitude": 41.41333985,
+  "longitude": -78.1969244,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Driftwood Branch Sinnemahoning Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srrp1",
+  "slug": "usgs-01543000",
+  "noaaForecastPath": "data/noaa-forecast/SRRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

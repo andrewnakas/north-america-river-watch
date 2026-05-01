@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01354500",
+  "key": "01354500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01354500",
+  "name": "MOHAWK RIVER AT FREEMAN'S BRIDGE AT SCHENECTADY NY",
+  "waterbody": "MOHAWK RIVER AT FREEMAN'S BRIDGE AT SCHENECTADY NY",
+  "state": "NY",
+  "latitude": 42.83052778,
+  "longitude": -73.93075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mohawk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/schn6",
+  "slug": "usgs-01354500",
+  "noaaForecastPath": "data/noaa-forecast/SCHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

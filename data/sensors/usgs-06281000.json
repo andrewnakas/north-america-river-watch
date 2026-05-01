@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06281000",
+  "key": "06281000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06281000",
+  "name": "SOUTH FORK SHOSHONE RIVER AB BUFFALO BILL RES, WY",
+  "waterbody": "SOUTH FORK SHOSHONE RIVER AB BUFFALO BILL RES, WY",
+  "state": "WY",
+  "latitude": 44.41907987,
+  "longitude": -109.2579755,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Shoshone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbrw4",
+  "slug": "usgs-06281000",
+  "noaaForecastPath": "data/noaa-forecast/BBRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

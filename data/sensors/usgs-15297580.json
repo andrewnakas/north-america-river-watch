@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15297580",
+  "key": "15297580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15297580",
+  "name": "ALEC R NR CHIGNIK AK",
+  "waterbody": "ALEC R NR CHIGNIK AK",
+  "state": "AK",
+  "latitude": 56.4532127,
+  "longitude": -158.9182398,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15297580",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

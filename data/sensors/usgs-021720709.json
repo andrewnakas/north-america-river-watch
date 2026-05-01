@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021720709",
+  "key": "021720709",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021720709",
+  "name": "COOPER RIVER AT U.S. HWY 17 AT CHARLESTON, SC",
+  "waterbody": "COOPER RIVER AT U.S. HWY 17 AT CHARLESTON, SC",
+  "state": "SC",
+  "latitude": 32.80239835,
+  "longitude": -79.9100869,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cooper River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpcs1",
+  "slug": "usgs-021720709",
+  "noaaForecastPath": "data/noaa-forecast/CPCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

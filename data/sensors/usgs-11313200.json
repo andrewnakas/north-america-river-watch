@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11313200",
+  "key": "11313200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11313200",
+  "name": "GRANT LINE CN A TRACY RD BRIDGE CA",
+  "waterbody": "GRANT LINE CN A TRACY RD BRIDGE CA",
+  "state": "CA",
+  "latitude": 37.82076056,
+  "longitude": -121.4513359,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11313200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

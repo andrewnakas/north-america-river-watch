@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09041500",
+  "key": "09041500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09041500",
+  "name": "MUDDY CREEK AT KREMMLING, CO.",
+  "waterbody": "MUDDY CREEK AT KREMMLING, CO.",
+  "state": "CO",
+  "latitude": 40.0602633,
+  "longitude": -106.3980869,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09041500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

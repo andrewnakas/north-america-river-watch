@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07241550",
+  "key": "07241550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07241550",
+  "name": "North Canadian River near Harrah, OK",
+  "waterbody": "North Canadian River near Harrah, OK",
+  "state": "OK",
+  "latitude": 35.5003412,
+  "longitude": -97.1939194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRHO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrho2",
+  "slug": "usgs-07241550",
+  "noaaForecastPath": "data/noaa-forecast/HRHO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

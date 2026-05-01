@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12155300",
+  "key": "12155300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12155300",
+  "name": "PILCHUCK RIVER NEAR SNOHOMISH, WA",
+  "waterbody": "PILCHUCK RIVER NEAR SNOHOMISH, WA",
+  "state": "WA",
+  "latitude": 47.9348201,
+  "longitude": -122.0731848,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PILW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pilchuck River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pilw1",
+  "slug": "usgs-12155300",
+  "noaaForecastPath": "data/noaa-forecast/PILW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

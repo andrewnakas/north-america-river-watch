@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01585219",
+  "key": "01585219",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585219",
+  "name": "HERRING RUN AT SINCLAIR LANE AT BALTIMORE, MD",
+  "waterbody": "HERRING RUN AT SINCLAIR LANE AT BALTIMORE, MD",
+  "state": "MD",
+  "latitude": 39.31797222,
+  "longitude": -76.55513889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01585219",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

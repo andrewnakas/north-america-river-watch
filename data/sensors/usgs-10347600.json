@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10347600",
+  "key": "10347600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10347600",
+  "name": "HUNTER CK NR RENO, NV",
+  "waterbody": "HUNTER CK NR RENO, NV",
+  "state": "NV",
+  "latitude": 39.4951111,
+  "longitude": -119.8945,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNTN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hunter Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hntn2",
+  "slug": "usgs-10347600",
+  "noaaForecastPath": "data/noaa-forecast/HNTN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

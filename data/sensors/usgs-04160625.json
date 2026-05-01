@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04160625",
+  "key": "04160625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04160625",
+  "name": "BELLE RIVER AT KING RD NEAR MARINE CITY, MI",
+  "waterbody": "BELLE RIVER AT KING RD NEAR MARINE CITY, MI",
+  "state": "MI",
+  "latitude": 42.76836606,
+  "longitude": -82.5121348,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04160625",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

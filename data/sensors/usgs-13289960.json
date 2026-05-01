@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13289960",
+  "key": "13289960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13289960",
+  "name": "WILDHORSE RIVER AT BROWNLEE DAM ID",
+  "waterbody": "WILDHORSE RIVER AT BROWNLEE DAM ID",
+  "state": "ID",
+  "latitude": 44.8519444,
+  "longitude": -116.8958333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHRI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wildhorse River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whri1",
+  "slug": "usgs-13289960",
+  "noaaForecastPath": "data/noaa-forecast/WHRI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10336730",
+  "key": "10336730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336730",
+  "name": "GLENBROOK CK AT GLENBROOK, NV",
+  "waterbody": "GLENBROOK CK AT GLENBROOK, NV",
+  "state": "NV",
+  "latitude": 39.08740806,
+  "longitude": -119.9399057,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBKN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Glenbrook Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbkn2",
+  "slug": "usgs-10336730",
+  "noaaForecastPath": "data/noaa-forecast/GBKN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

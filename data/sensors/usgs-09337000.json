@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09337000",
+  "key": "09337000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09337000",
+  "name": "PINE CREEK NEAR ESCALANTE, UT",
+  "waterbody": "PINE CREEK NEAR ESCALANTE, UT",
+  "state": "UT",
+  "latitude": 37.86248747,
+  "longitude": -111.6360113,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09337000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

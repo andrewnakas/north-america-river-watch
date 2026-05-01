@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03428500",
+  "key": "03428500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03428500",
+  "name": "WEST FORK STONES RIVER NEAR SMYRNA, TN",
+  "waterbody": "WEST FORK STONES RIVER NEAR SMYRNA, TN",
+  "state": "TN",
+  "latitude": 35.9404251,
+  "longitude": -86.4658036,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03428500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.384Z"
+}

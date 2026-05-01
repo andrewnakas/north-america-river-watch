@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06934500",
+  "key": "06934500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06934500",
+  "name": "Missouri River at Hermann, MO",
+  "waterbody": "Missouri River at Hermann, MO",
+  "state": "MO",
+  "latitude": 38.70980556,
+  "longitude": -91.4385,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrnm7",
+  "slug": "usgs-06934500",
+  "noaaForecastPath": "data/noaa-forecast/HRNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

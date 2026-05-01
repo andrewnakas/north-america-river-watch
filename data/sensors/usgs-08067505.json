@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08067505",
+  "key": "08067505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067505",
+  "name": "Cedar Bayou at I-10 nr Mont Belvieu, TX",
+  "waterbody": "Cedar Bayou at I-10 nr Mont Belvieu, TX",
+  "state": "TX",
+  "latitude": 29.82151389,
+  "longitude": -94.9097056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbvt2",
+  "slug": "usgs-08067505",
+  "noaaForecastPath": "data/noaa-forecast/MBVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

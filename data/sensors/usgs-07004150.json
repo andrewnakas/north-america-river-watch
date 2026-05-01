@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07004150",
+  "key": "07004150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07004150",
+  "name": "Maline Creek at W. Florissant Rd, nr Ferguson",
+  "waterbody": "Maline Creek at W. Florissant Rd, nr Ferguson",
+  "state": "MO",
+  "latitude": 38.73856389,
+  "longitude": -90.2783306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07004150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

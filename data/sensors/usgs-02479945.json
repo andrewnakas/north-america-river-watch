@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02479945",
+  "key": "02479945",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02479945",
+  "name": "BIG CREEK AT COUNTY RD 63 NEAR WILMER, AL.",
+  "waterbody": "BIG CREEK AT COUNTY RD 63 NEAR WILMER, AL.",
+  "state": "AL",
+  "latitude": 30.85601968,
+  "longitude": -88.3338988,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WILA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek (Al)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wila1",
+  "slug": "usgs-02479945",
+  "noaaForecastPath": "data/noaa-forecast/WILA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

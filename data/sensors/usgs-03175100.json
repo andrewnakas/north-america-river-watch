@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03175100",
+  "key": "03175100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03175100",
+  "name": "COX BRANCH AB TAZEWELL RESERVOIR NR GRATTON, VA",
+  "waterbody": "COX BRANCH AB TAZEWELL RESERVOIR NR GRATTON, VA",
+  "state": "VA",
+  "latitude": 37.15344945,
+  "longitude": -81.4139945,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03175100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

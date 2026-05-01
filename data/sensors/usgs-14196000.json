@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14196000",
+  "key": "14196000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14196000",
+  "name": "HASKINS CREEK BLW RESERVOIR, NR MCMINNVILLE, OR",
+  "waterbody": "HASKINS CREEK BLW RESERVOIR, NR MCMINNVILLE, OR",
+  "state": "OR",
+  "latitude": 45.3109461,
+  "longitude": -123.3498315,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14196000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

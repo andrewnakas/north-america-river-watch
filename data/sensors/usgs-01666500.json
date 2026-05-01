@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01666500",
+  "key": "01666500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01666500",
+  "name": "ROBINSON RIVER NEAR LOCUST DALE, VA",
+  "waterbody": "ROBINSON RIVER NEAR LOCUST DALE, VA",
+  "state": "VA",
+  "latitude": 38.32513047,
+  "longitude": -78.0955557,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Robinson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/locv2",
+  "slug": "usgs-01666500",
+  "noaaForecastPath": "data/noaa-forecast/LOCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

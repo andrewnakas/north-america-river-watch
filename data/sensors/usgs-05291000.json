@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05291000",
+  "key": "05291000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05291000",
+  "name": "WHETSTONE RIVER NEAR BIG STONE CITY, SD",
+  "waterbody": "WHETSTONE RIVER NEAR BIG STONE CITY, SD",
+  "state": "SD",
+  "latitude": 45.2833888,
+  "longitude": -96.5103877,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whetstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgcs2",
+  "slug": "usgs-05291000",
+  "noaaForecastPath": "data/noaa-forecast/BGCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

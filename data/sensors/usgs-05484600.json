@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05484600",
+  "key": "05484600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05484600",
+  "name": "Raccoon River near West Des Moines, IA",
+  "waterbody": "Raccoon River near West Des Moines, IA",
+  "state": "IA",
+  "latitude": 41.5281111,
+  "longitude": -93.7818611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raccoon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdmi4",
+  "slug": "usgs-05484600",
+  "noaaForecastPath": "data/noaa-forecast/WDMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

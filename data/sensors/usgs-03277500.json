@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03277500",
+  "key": "03277500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03277500",
+  "name": "NORTH FORK KENTUCKY RIVER AT HAZARD, KY",
+  "waterbody": "NORTH FORK KENTUCKY RIVER AT HAZARD, KY",
+  "state": "KY",
+  "latitude": 37.2465833,
+  "longitude": -83.1827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAZK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hazk2",
+  "slug": "usgs-03277500",
+  "noaaForecastPath": "data/noaa-forecast/HAZK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

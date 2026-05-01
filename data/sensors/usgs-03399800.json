@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03399800",
+  "key": "03399800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03399800",
+  "name": "OHIO RIVER AT SMITHLAND DAM, SMITHLAND, KY",
+  "waterbody": "OHIO RIVER AT SMITHLAND DAM, SMITHLAND, KY",
+  "state": "IL",
+  "latitude": 37.15922215,
+  "longitude": -88.4272616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smli2",
+  "slug": "usgs-03399800",
+  "noaaForecastPath": "data/noaa-forecast/SMLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

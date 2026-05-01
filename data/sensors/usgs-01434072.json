@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01434072",
+  "key": "01434072",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434072",
+  "name": "SOUTH SHELTER CR SOUTH OF FROST VALLEY NY",
+  "waterbody": "SOUTH SHELTER CR SOUTH OF FROST VALLEY NY",
+  "state": "NY",
+  "latitude": 41.9722222,
+  "longitude": -74.5083333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01434072",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

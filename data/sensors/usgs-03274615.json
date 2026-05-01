@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03274615",
+  "key": "03274615",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03274615",
+  "name": "Great Miami River at Miamitown OH",
+  "waterbody": "Great Miami River at Miamitown OH",
+  "state": "OH",
+  "latitude": 39.2161111,
+  "longitude": -84.7027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MIAO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/miao1",
+  "slug": "usgs-03274615",
+  "noaaForecastPath": "data/noaa-forecast/MIAO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

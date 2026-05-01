@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348505",
+  "key": "10348505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348505",
+  "name": "FRANKTOWN CK AT OLD US 395 NR FRANKTOWN, NV",
+  "waterbody": "FRANKTOWN CK AT OLD US 395 NR FRANKTOWN, NV",
+  "state": "NV",
+  "latitude": 39.27406389,
+  "longitude": -119.8413528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01626850",
+  "key": "01626850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01626850",
+  "name": "SOUTH RIVER NEAR DOOMS, VA",
+  "waterbody": "SOUTH RIVER NEAR DOOMS, VA",
+  "state": "VA",
+  "latitude": 38.08874648,
+  "longitude": -78.8769683,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOOV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/doov2",
+  "slug": "usgs-01626850",
+  "noaaForecastPath": "data/noaa-forecast/DOOV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

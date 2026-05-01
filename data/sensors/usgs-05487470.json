@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05487470",
+  "key": "05487470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05487470",
+  "name": "South River near Ackworth, IA",
+  "waterbody": "South River near Ackworth, IA",
+  "state": "IA",
+  "latitude": 41.33788889,
+  "longitude": -93.4864167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AKWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/akwi4",
+  "slug": "usgs-05487470",
+  "noaaForecastPath": "data/noaa-forecast/AKWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

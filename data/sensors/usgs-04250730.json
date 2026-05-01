@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04250730",
+  "key": "04250730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04250730",
+  "name": "SANDY CREEK ABOVE COUNTY ROUTE 69 NEAR ADAMS NY",
+  "waterbody": "SANDY CREEK ABOVE COUNTY ROUTE 69 NEAR ADAMS NY",
+  "state": "NY",
+  "latitude": 43.8158611,
+  "longitude": -75.9943611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04250730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07386956",
+  "key": "07386956",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07386956",
+  "name": "Vermilion River at Hwy 92 at Milton, LA",
+  "waterbody": "Vermilion River at Hwy 92 at Milton, LA",
+  "state": "LA",
+  "latitude": 30.10366667,
+  "longitude": -92.0798056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07386956",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

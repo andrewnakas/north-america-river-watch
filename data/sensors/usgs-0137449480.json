@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0137449480",
+  "key": "0137449480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0137449480",
+  "name": "EAST BRANCH CROTON RIVER NEAR PUTNAM LAKE NY",
+  "waterbody": "EAST BRANCH CROTON RIVER NEAR PUTNAM LAKE NY",
+  "state": "NY",
+  "latitude": 41.44725,
+  "longitude": -73.5560833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0137449480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01349810",
+  "key": "01349810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01349810",
+  "name": "WEST KILL NEAR WEST KILL NY",
+  "waterbody": "WEST KILL NEAR WEST KILL NY",
+  "state": "NY",
+  "latitude": 42.23094444,
+  "longitude": -74.3925,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01349810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

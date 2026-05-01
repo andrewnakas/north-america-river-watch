@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05451955",
+  "key": "05451955",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05451955",
+  "name": "Stein Creek near Clutier, IA",
+  "waterbody": "Stein Creek near Clutier, IA",
+  "state": "IA",
+  "latitude": 42.079438,
+  "longitude": -92.3001864,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLTI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stein Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clti4",
+  "slug": "usgs-05451955",
+  "noaaForecastPath": "data/noaa-forecast/CLTI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

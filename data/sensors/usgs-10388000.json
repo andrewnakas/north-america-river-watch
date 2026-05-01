@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10388000",
+  "key": "10388000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10388000",
+  "name": "ANA RIVER NEAR SUMMER LAKE, OR",
+  "waterbody": "ANA RIVER NEAR SUMMER LAKE, OR",
+  "state": "OR",
+  "latitude": 42.99486929,
+  "longitude": -120.7494263,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10388000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

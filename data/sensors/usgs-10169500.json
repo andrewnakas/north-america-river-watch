@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10169500",
+  "key": "10169500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10169500",
+  "name": "BIG COTTONWOOD CR @ JORDAN RIVER NR S L CITY, UT",
+  "waterbody": "BIG COTTONWOOD CR @ JORDAN RIVER NR S L CITY, UT",
+  "state": "UT",
+  "latitude": 40.68078027,
+  "longitude": -111.9038248,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10169500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

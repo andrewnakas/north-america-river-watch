@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08284100",
+  "key": "08284100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08284100",
+  "name": "RIO CHAMA NEAR LA PUENTE, NM",
+  "waterbody": "RIO CHAMA NEAR LA PUENTE, NM",
+  "state": "NM",
+  "latitude": 36.6626583,
+  "longitude": -106.6333667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08284100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

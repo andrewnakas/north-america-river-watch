@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07243000",
+  "key": "07243000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07243000",
+  "name": "Dry Creek near Kendrick, OK",
+  "waterbody": "Dry Creek near Kendrick, OK",
+  "state": "OK",
+  "latitude": 35.78200855,
+  "longitude": -96.8541915,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07243000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

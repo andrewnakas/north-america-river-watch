@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04102776",
+  "key": "04102776",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04102776",
+  "name": "MIDDLE BRANCH BLACK RIVER NEAR SOUTH HAVEN, MI",
+  "waterbody": "MIDDLE BRANCH BLACK RIVER NEAR SOUTH HAVEN, MI",
+  "state": "MI",
+  "latitude": 42.4325306,
+  "longitude": -86.2069742,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04102776",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

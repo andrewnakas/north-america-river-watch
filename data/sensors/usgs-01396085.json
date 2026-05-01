@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01396085",
+  "key": "01396085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01396085",
+  "name": "SB Raritan River at Manor House Rd at Budd Lake NJ",
+  "waterbody": "SB Raritan River at Manor House Rd at Budd Lake NJ",
+  "state": "NJ",
+  "latitude": 40.86277778,
+  "longitude": -74.7547222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01396085",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

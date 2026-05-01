@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08180500",
+  "key": "08180500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180500",
+  "name": "Medina Rv nr Riomedina, TX",
+  "waterbody": "Medina Rv nr Riomedina, TX",
+  "state": "TX",
+  "latitude": 29.498,
+  "longitude": -98.9055,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08180500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11071900",
+  "key": "11071900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11071900",
+  "name": "TEMESCAL C A CORONA LK NR CORONA CA",
+  "waterbody": "TEMESCAL C A CORONA LK NR CORONA CA",
+  "state": "CA",
+  "latitude": 33.75027778,
+  "longitude": -117.4458333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11071900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

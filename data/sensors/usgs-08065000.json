@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08065000",
+  "key": "08065000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065000",
+  "name": "Trinity Rv nr Oakwood, TX",
+  "waterbody": "Trinity Rv nr Oakwood, TX",
+  "state": "TX",
+  "latitude": 31.64850597,
+  "longitude": -95.7894029,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lolt2",
+  "slug": "usgs-08065000",
+  "noaaForecastPath": "data/noaa-forecast/LOLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

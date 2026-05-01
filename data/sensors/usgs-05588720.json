@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05588720",
+  "key": "05588720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05588720",
+  "name": "JUDYS BRANCH AT RTE 157 AT GLEN CARBON, IL",
+  "waterbody": "JUDYS BRANCH AT RTE 157 AT GLEN CARBON, IL",
+  "state": "IL",
+  "latitude": 38.7408333,
+  "longitude": -90.0019444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05588720",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

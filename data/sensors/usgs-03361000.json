@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03361000",
+  "key": "03361000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03361000",
+  "name": "BIG BLUE RIVER AT CARTHAGE, IN",
+  "waterbody": "BIG BLUE RIVER AT CARTHAGE, IN",
+  "state": "IN",
+  "latitude": 39.74392437,
+  "longitude": -85.57578239,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CARI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Blue River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cari3",
+  "slug": "usgs-03361000",
+  "noaaForecastPath": "data/noaa-forecast/CARI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

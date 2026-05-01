@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01350140",
+  "key": "01350140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01350140",
+  "name": "MINE KILL NEAR NORTH BLENHEIM NY",
+  "waterbody": "MINE KILL NEAR NORTH BLENHEIM NY",
+  "state": "NY",
+  "latitude": 42.42888889,
+  "longitude": -74.47316667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mine Kill",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mkln6",
+  "slug": "usgs-01350140",
+  "noaaForecastPath": "data/noaa-forecast/MKLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

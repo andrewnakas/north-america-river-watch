@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12392155",
+  "key": "12392155",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12392155",
+  "name": "LIGHTNING CREEK AT CLARK FORK ID",
+  "waterbody": "LIGHTNING CREEK AT CLARK FORK ID",
+  "state": "ID",
+  "latitude": 48.15166667,
+  "longitude": -116.1816667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lightning Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltci1",
+  "slug": "usgs-12392155",
+  "noaaForecastPath": "data/noaa-forecast/LTCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

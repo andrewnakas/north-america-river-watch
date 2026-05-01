@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09075050",
+  "key": "09075050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09075050",
+  "name": "CASTLE CREEK ABOVE QUEENS GULCH NEAR ASPEN, CO",
+  "waterbody": "CASTLE CREEK ABOVE QUEENS GULCH NEAR ASPEN, CO",
+  "state": "CO",
+  "latitude": 39.150253,
+  "longitude": -106.848611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09075050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

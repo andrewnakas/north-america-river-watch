@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0204241133",
+  "key": "0204241133",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204241133",
+  "name": "NORTH RUN AT OLD WASHINGTON HWY AT GLEN ALLEN, VA",
+  "waterbody": "NORTH RUN AT OLD WASHINGTON HWY AT GLEN ALLEN, VA",
+  "state": "VA",
+  "latitude": 37.67503056,
+  "longitude": -77.5032611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0204241133",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

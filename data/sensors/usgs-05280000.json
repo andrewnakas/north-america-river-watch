@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05280000",
+  "key": "05280000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05280000",
+  "name": "CROW RIVER AT ROCKFORD, MN",
+  "waterbody": "CROW RIVER AT ROCKFORD, MN",
+  "state": "MN",
+  "latitude": 45.086781,
+  "longitude": -93.73515,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKFM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crow River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkfm5",
+  "slug": "usgs-05280000",
+  "noaaForecastPath": "data/noaa-forecast/RKFM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

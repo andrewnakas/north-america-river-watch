@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01570000",
+  "key": "01570000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01570000",
+  "name": "Conodoguinet Creek near Hogestown, PA",
+  "waterbody": "Conodoguinet Creek near Hogestown, PA",
+  "state": "PA",
+  "latitude": 40.2522222,
+  "longitude": -77.0211111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conodoguinet Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgsp1",
+  "slug": "usgs-01570000",
+  "noaaForecastPath": "data/noaa-forecast/HGSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

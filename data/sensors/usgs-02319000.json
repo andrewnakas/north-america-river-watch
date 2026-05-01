@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02319000",
+  "key": "02319000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02319000",
+  "name": "WITHLACOOCHEE RIVER NEAR PINETTA, FLA.",
+  "waterbody": "WITHLACOOCHEE RIVER NEAR PINETTA, FLA.",
+  "state": "FL",
+  "latitude": 30.59548716,
+  "longitude": -83.2595906,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PINF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pinf1",
+  "slug": "usgs-02319000",
+  "noaaForecastPath": "data/noaa-forecast/PINF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

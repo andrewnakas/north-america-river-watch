@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212419274",
+  "key": "0212419274",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212419274",
+  "name": "CODDLE CR AT SR 1612 NEAR DAVIDSON, NC",
+  "waterbody": "CODDLE CR AT SR 1612 NEAR DAVIDSON, NC",
+  "state": "NC",
+  "latitude": 35.50388889,
+  "longitude": -80.73638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CODN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coddle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/codn7",
+  "slug": "usgs-0212419274",
+  "noaaForecastPath": "data/noaa-forecast/CODN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

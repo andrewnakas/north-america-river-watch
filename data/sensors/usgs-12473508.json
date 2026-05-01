@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12473508",
+  "key": "12473508",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12473508",
+  "name": "SCBID PE 164 WASTEWAY NEAR MOUTH NEAR HANFORD, WA",
+  "waterbody": "SCBID PE 164 WASTEWAY NEAR MOUTH NEAR HANFORD, WA",
+  "state": "WA",
+  "latitude": 46.50597028,
+  "longitude": -119.2600167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12473508",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

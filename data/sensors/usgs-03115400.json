@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03115400",
+  "key": "03115400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03115400",
+  "name": "Little Muskingum River at Bloomfield OH",
+  "waterbody": "Little Muskingum River at Bloomfield OH",
+  "state": "OH",
+  "latitude": 39.5631294,
+  "longitude": -81.2037236,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNBO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Muskingum",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnbo1",
+  "slug": "usgs-03115400",
+  "noaaForecastPath": "data/noaa-forecast/LNBO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

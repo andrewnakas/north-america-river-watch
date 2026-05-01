@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07052250",
+  "key": "07052250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07052250",
+  "name": "James River near Boaz, MO",
+  "waterbody": "James River near Boaz, MO",
+  "state": "MO",
+  "latitude": 37.0065833,
+  "longitude": -93.3646667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAMM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jamm7",
+  "slug": "usgs-07052250",
+  "noaaForecastPath": "data/noaa-forecast/JAMM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

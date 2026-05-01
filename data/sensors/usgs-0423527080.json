@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0423527080",
+  "key": "0423527080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0423527080",
+  "name": "CLYDE RIVER (ERIE CANAL) AT CLYDE NY",
+  "waterbody": "CLYDE RIVER (ERIE CANAL) AT CLYDE NY",
+  "state": "NY",
+  "latitude": 43.0825833,
+  "longitude": -76.87752778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDEN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clyde River (Erie Canal)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cden6",
+  "slug": "usgs-0423527080",
+  "noaaForecastPath": "data/noaa-forecast/CDEN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

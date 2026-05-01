@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04106320",
+  "key": "04106320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04106320",
+  "name": "WEST FORK PORTAGE CREEK NEAR OSHTEMO, MI",
+  "waterbody": "WEST FORK PORTAGE CREEK NEAR OSHTEMO, MI",
+  "state": "MI",
+  "latitude": 42.23531839,
+  "longitude": -85.6483389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCOM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Portage Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcom4",
+  "slug": "usgs-04106320",
+  "noaaForecastPath": "data/noaa-forecast/PCOM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

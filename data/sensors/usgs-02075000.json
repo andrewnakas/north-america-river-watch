@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02075000",
+  "key": "02075000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02075000",
+  "name": "DAN RIVER AT DANVILLE, VA",
+  "waterbody": "DAN RIVER AT DANVILLE, VA",
+  "state": "VA",
+  "latitude": 36.58763855,
+  "longitude": -79.381689,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRIV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dan River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/driv2",
+  "slug": "usgs-02075000",
+  "noaaForecastPath": "data/noaa-forecast/DRIV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

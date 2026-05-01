@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01594526",
+  "key": "01594526",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01594526",
+  "name": "WESTERN BRANCH AT UPPER MARLBORO, MD",
+  "waterbody": "WESTERN BRANCH AT UPPER MARLBORO, MD",
+  "state": "MD",
+  "latitude": 38.8142222,
+  "longitude": -76.7487222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UPRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Western Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/uprm2",
+  "slug": "usgs-01594526",
+  "noaaForecastPath": "data/noaa-forecast/UPRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

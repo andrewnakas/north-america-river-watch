@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13239000",
+  "key": "13239000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13239000",
+  "name": "NF PAYETTE RIVER AT MCCALL ID",
+  "waterbody": "NF PAYETTE RIVER AT MCCALL ID",
+  "state": "ID",
+  "latitude": 44.9072222,
+  "longitude": -116.1191667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAYI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Payette River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/payi1",
+  "slug": "usgs-13239000",
+  "noaaForecastPath": "data/noaa-forecast/PAYI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

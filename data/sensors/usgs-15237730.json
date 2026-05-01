@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15237730",
+  "key": "15237730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15237730",
+  "name": "GROUSE C AT GROUSE LK OUTLET NR SEWARD AK",
+  "waterbody": "GROUSE C AT GROUSE LK OUTLET NR SEWARD AK",
+  "state": "AK",
+  "latitude": 60.1977577,
+  "longitude": -149.3754736,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GROA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grouse Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/groa2",
+  "slug": "usgs-15237730",
+  "noaaForecastPath": "data/noaa-forecast/GROA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

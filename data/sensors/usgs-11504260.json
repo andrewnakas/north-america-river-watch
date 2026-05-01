@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11504260",
+  "key": "11504260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11504260",
+  "name": "FOURMILE CANAL NEAR KLAMATH AGENCY, OR",
+  "waterbody": "FOURMILE CANAL NEAR KLAMATH AGENCY, OR",
+  "state": "OR",
+  "latitude": 42.5745,
+  "longitude": -122.051361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11504260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

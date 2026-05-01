@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455268",
+  "key": "11455268",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455268",
+  "name": "ULATIS C NR ELMIRA CA",
+  "waterbody": "ULATIS C NR ELMIRA CA",
+  "state": "CA",
+  "latitude": 38.29416667,
+  "longitude": -121.7597222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455268",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

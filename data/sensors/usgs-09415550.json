@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415550",
+  "key": "09415550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415550",
+  "name": "WHITE RV NR LUND, NV",
+  "waterbody": "WHITE RV NR LUND, NV",
+  "state": "NV",
+  "latitude": 38.6380009,
+  "longitude": -115.0930714,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02129000",
+  "key": "02129000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02129000",
+  "name": "PEE DEE R NR ROCKINGHAM, NC",
+  "waterbody": "PEE DEE R NR ROCKINGHAM, NC",
+  "state": "NC",
+  "latitude": 34.9458333,
+  "longitude": -79.8697222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pee Dee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rckn7",
+  "slug": "usgs-02129000",
+  "noaaForecastPath": "data/noaa-forecast/RCKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02186702",
+  "key": "02186702",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02186702",
+  "name": "EIGHTEENMILE CREEK BELOW PENDLETON, SC",
+  "waterbody": "EIGHTEENMILE CREEK BELOW PENDLETON, SC",
+  "state": "SC",
+  "latitude": 34.645,
+  "longitude": -82.8005556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eighteen Mile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/emcs1",
+  "slug": "usgs-02186702",
+  "noaaForecastPath": "data/noaa-forecast/EMCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

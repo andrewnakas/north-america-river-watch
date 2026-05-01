@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01616400",
+  "key": "01616400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01616400",
+  "name": "MILL CREEK AT BUNKER HILL, WV",
+  "waterbody": "MILL CREEK AT BUNKER HILL, WV",
+  "state": "WV",
+  "latitude": 39.334625,
+  "longitude": -78.0534361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhmw2",
+  "slug": "usgs-01616400",
+  "noaaForecastPath": "data/noaa-forecast/BHMW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

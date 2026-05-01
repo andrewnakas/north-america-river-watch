@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08042470",
+  "key": "08042470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08042470",
+  "name": "Willow Marsh Bayou at I-10 nr Beaumont, TX",
+  "waterbody": "Willow Marsh Bayou at I-10 nr Beaumont, TX",
+  "state": "TX",
+  "latitude": 30.01472778,
+  "longitude": -94.1812056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08042470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

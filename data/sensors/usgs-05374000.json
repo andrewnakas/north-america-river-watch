@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05374000",
+  "key": "05374000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05374000",
+  "name": "ZUMBRO RIVER AT ZUMBRO FALLS, MN",
+  "waterbody": "ZUMBRO RIVER AT ZUMBRO FALLS, MN",
+  "state": "MN",
+  "latitude": 44.28555556,
+  "longitude": -92.43,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZUMM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Zumbro River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zumm5",
+  "slug": "usgs-05374000",
+  "noaaForecastPath": "data/noaa-forecast/ZUMM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

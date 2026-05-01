@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03185400",
+  "key": "03185400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03185400",
+  "name": "NEW RIVER AT THURMOND, WV",
+  "waterbody": "NEW RIVER AT THURMOND, WV",
+  "state": "WV",
+  "latitude": 37.95511285,
+  "longitude": -81.07648838,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "New River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thmw2",
+  "slug": "usgs-03185400",
+  "noaaForecastPath": "data/noaa-forecast/THMW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

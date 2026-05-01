@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06226000",
+  "key": "06226000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06226000",
+  "name": "WYOMING CANAL NEAR LENORE, WY",
+  "waterbody": "WYOMING CANAL NEAR LENORE, WY",
+  "state": "WY",
+  "latitude": 43.22912385,
+  "longitude": -108.8951234,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDDW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wind River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bddw4",
+  "slug": "usgs-06226000",
+  "noaaForecastPath": "data/noaa-forecast/BDDW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

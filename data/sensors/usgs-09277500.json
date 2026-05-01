@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09277500",
+  "key": "09277500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09277500",
+  "name": "DUCHESNE RIVER NEAR TABIONA, UT",
+  "waterbody": "DUCHESNE RIVER NEAR TABIONA, UT",
+  "state": "UT",
+  "latitude": 40.2997472,
+  "longitude": -110.6042556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TADU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duchesne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tadu1",
+  "slug": "usgs-09277500",
+  "noaaForecastPath": "data/noaa-forecast/TADU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

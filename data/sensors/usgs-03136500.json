@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03136500",
+  "key": "03136500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03136500",
+  "name": "Kokosing River at Mount Vernon OH",
+  "waterbody": "Kokosing River at Mount Vernon OH",
+  "state": "OH",
+  "latitude": 40.4056175,
+  "longitude": -82.4998854,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MVEO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kokosing River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mveo1",
+  "slug": "usgs-03136500",
+  "noaaForecastPath": "data/noaa-forecast/MVEO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

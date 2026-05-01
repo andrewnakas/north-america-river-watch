@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14080500",
+  "key": "14080500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14080500",
+  "name": "CROOKED RIVER NEAR PRINEVILLE, OR",
+  "waterbody": "CROOKED RIVER NEAR PRINEVILLE, OR",
+  "state": "OR",
+  "latitude": 44.1131815,
+  "longitude": -120.7955699,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRVO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked River (OR)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prvo3",
+  "slug": "usgs-14080500",
+  "noaaForecastPath": "data/noaa-forecast/PRVO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

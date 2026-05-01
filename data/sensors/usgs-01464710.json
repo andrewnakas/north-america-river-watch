@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01464710",
+  "key": "01464710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01464710",
+  "name": "Pine Run at Chalfont, PA",
+  "waterbody": "Pine Run at Chalfont, PA",
+  "state": "PA",
+  "latitude": 40.2889952,
+  "longitude": -75.2026734,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01464710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

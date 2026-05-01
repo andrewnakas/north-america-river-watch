@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12514400",
+  "key": "12514400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12514400",
+  "name": "COLUMBIA RIVER BELOW HWY 395 BRIDGE AT PASCO, WA",
+  "waterbody": "COLUMBIA RIVER BELOW HWY 395 BRIDGE AT PASCO, WA",
+  "state": "WA",
+  "latitude": 46.2240236,
+  "longitude": -119.1163997,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12514400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

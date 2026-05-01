@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03538235",
+  "key": "03538235",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03538235",
+  "name": "EF POPLAR CR AT BEAR CR  RD AT OAK RIDGE, TN",
+  "waterbody": "EF POPLAR CR AT BEAR CR  RD AT OAK RIDGE, TN",
+  "state": "TN",
+  "latitude": 35.9967452,
+  "longitude": -84.2401986,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03538235",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

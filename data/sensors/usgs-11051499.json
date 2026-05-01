@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11051499",
+  "key": "11051499",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11051499",
+  "name": "SANTA ANA R NR MENTONE (RIVER ONLY) CA",
+  "waterbody": "SANTA ANA R NR MENTONE (RIVER ONLY) CA",
+  "state": "CA",
+  "latitude": 34.10834489,
+  "longitude": -117.1005911,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11051499",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

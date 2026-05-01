@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10157000",
+  "key": "10157000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10157000",
+  "name": "DANIELS CREEK ABV DIVERSIONS NEAR HEBER CITY, UT",
+  "waterbody": "DANIELS CREEK ABV DIVERSIONS NEAR HEBER CITY, UT",
+  "state": "UT",
+  "latitude": 40.43162179,
+  "longitude": -111.3526787,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10157000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

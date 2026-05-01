@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13148500",
+  "key": "13148500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13148500",
+  "name": "LITTLE WOOD RIVER NR CAREY ID",
+  "waterbody": "LITTLE WOOD RIVER NR CAREY ID",
+  "state": "ID",
+  "latitude": 43.39,
+  "longitude": -113.9997222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WODI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wodi1",
+  "slug": "usgs-13148500",
+  "noaaForecastPath": "data/noaa-forecast/WODI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

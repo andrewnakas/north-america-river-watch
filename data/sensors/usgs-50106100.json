@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50106100",
+  "key": "50106100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50106100",
+  "name": "RIO COAMO AT HWY 14 AT COAMO, PR",
+  "waterbody": "RIO COAMO AT HWY 14 AT COAMO, PR",
+  "state": "PR",
+  "latitude": 18.083506,
+  "longitude": -66.354819,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Coamo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coap4",
+  "slug": "usgs-50106100",
+  "noaaForecastPath": "data/noaa-forecast/COAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

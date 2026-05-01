@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50112500",
+  "key": "50112500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50112500",
+  "name": "RIO INABON AT REAL ABAJO, PR",
+  "waterbody": "RIO INABON AT REAL ABAJO, PR",
+  "state": "PR",
+  "latitude": 18.086478,
+  "longitude": -66.563075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IANP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Inabon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ianp4",
+  "slug": "usgs-50112500",
+  "noaaForecastPath": "data/noaa-forecast/IANP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214678175",
+  "key": "0214678175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214678175",
+  "name": "STEELE CREEK AT SR1441 NR PINEVILLE, NC",
+  "waterbody": "STEELE CREEK AT SR1441 NR PINEVILLE, NC",
+  "state": "NC",
+  "latitude": 35.105,
+  "longitude": -80.9536111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Steele Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stsn7",
+  "slug": "usgs-0214678175",
+  "noaaForecastPath": "data/noaa-forecast/STSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

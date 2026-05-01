@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12350250",
+  "key": "12350250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12350250",
+  "name": "Bitterroot River at Bell Crossing nr Victor MT",
+  "waterbody": "Bitterroot River at Bell Crossing nr Victor MT",
+  "state": "MT",
+  "latitude": 46.4432,
+  "longitude": -114.1237667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VICM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bitterroot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vicm8",
+  "slug": "usgs-12350250",
+  "noaaForecastPath": "data/noaa-forecast/VICM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

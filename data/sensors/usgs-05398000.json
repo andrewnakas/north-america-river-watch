@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05398000",
+  "key": "05398000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05398000",
+  "name": "WISCONSIN RIVER AT ROTHSCHILD, WI",
+  "waterbody": "WISCONSIN RIVER AT ROTHSCHILD, WI",
+  "state": "WI",
+  "latitude": 44.88683056,
+  "longitude": -89.6357472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROTW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rotw3",
+  "slug": "usgs-05398000",
+  "noaaForecastPath": "data/noaa-forecast/ROTW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12416000",
+  "key": "12416000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12416000",
+  "name": "HAYDEN CREEK BL NORTH FORK NR HAYDEN LAKE ID",
+  "waterbody": "HAYDEN CREEK BL NORTH FORK NR HAYDEN LAKE ID",
+  "state": "ID",
+  "latitude": 47.8225,
+  "longitude": -116.6547222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12416000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

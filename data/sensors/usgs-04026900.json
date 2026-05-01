@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04026900",
+  "key": "04026900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04026900",
+  "name": "POTATO RIVER AT GURNEY, WI",
+  "waterbody": "POTATO RIVER AT GURNEY, WI",
+  "state": "WI",
+  "latitude": 46.4622222,
+  "longitude": -90.5083333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POTW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Potato River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/potw3",
+  "slug": "usgs-04026900",
+  "noaaForecastPath": "data/noaa-forecast/POTW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

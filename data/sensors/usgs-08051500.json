@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08051500",
+  "key": "08051500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08051500",
+  "name": "Clear Ck nr Sanger, TX",
+  "waterbody": "Clear Ck nr Sanger, TX",
+  "state": "TX",
+  "latitude": 33.3362269,
+  "longitude": -97.1794587,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sget2",
+  "slug": "usgs-08051500",
+  "noaaForecastPath": "data/noaa-forecast/SGET2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

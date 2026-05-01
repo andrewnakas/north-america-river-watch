@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09442683",
+  "key": "09442683",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09442683",
+  "name": "PARSONS DITCH NR RESERVE, NM",
+  "waterbody": "PARSONS DITCH NR RESERVE, NM",
+  "state": "NM",
+  "latitude": 33.69055556,
+  "longitude": -108.7655556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09442683",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.310Z"
+}

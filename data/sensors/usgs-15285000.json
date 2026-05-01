@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15285000",
+  "key": "15285000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15285000",
+  "name": "WASILLA C NR PALMER AK",
+  "waterbody": "WASILLA C NR PALMER AK",
+  "state": "AK",
+  "latitude": 61.64307278,
+  "longitude": -149.1983305,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSAA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wasilla Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsaa2",
+  "slug": "usgs-15285000",
+  "noaaForecastPath": "data/noaa-forecast/WSAA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08174600",
+  "key": "08174600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08174600",
+  "name": "Peach Ck bl Dilworth, TX",
+  "waterbody": "Peach Ck bl Dilworth, TX",
+  "state": "TX",
+  "latitude": 29.47412328,
+  "longitude": -97.3166795,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLWT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peach Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlwt2",
+  "slug": "usgs-08174600",
+  "noaaForecastPath": "data/noaa-forecast/DLWT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

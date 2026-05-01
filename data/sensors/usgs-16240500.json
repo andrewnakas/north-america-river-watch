@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16240500",
+  "key": "16240500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16240500",
+  "name": "Waiakeakua Str at Honolulu, Oahu, HI",
+  "waterbody": "Waiakeakua Str at Honolulu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.32822222,
+  "longitude": -157.799611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKGH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Waiakeakua Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkgh1",
+  "slug": "usgs-16240500",
+  "noaaForecastPath": "data/noaa-forecast/WKGH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

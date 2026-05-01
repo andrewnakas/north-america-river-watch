@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05123400",
+  "key": "05123400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05123400",
+  "name": "WILLOW CREEK NEAR WILLOW CITY, ND",
+  "waterbody": "WILLOW CREEK NEAR WILLOW CITY, ND",
+  "state": "ND",
+  "latitude": 48.5877399,
+  "longitude": -100.4416083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLCN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek (ND)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlcn8",
+  "slug": "usgs-05123400",
+  "noaaForecastPath": "data/noaa-forecast/WLCN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

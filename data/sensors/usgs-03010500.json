@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03010500",
+  "key": "03010500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03010500",
+  "name": "Allegheny River at Eldred, PA",
+  "waterbody": "Allegheny River at Eldred, PA",
+  "state": "PA",
+  "latitude": 41.963398,
+  "longitude": -78.3861287,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Allegheny River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elrp1",
+  "slug": "usgs-03010500",
+  "noaaForecastPath": "data/noaa-forecast/ELRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

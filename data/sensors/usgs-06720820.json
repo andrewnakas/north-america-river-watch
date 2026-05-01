@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06720820",
+  "key": "06720820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06720820",
+  "name": "BIG DRY CREEK AT WESTMINSTER, CO",
+  "waterbody": "BIG DRY CREEK AT WESTMINSTER, CO",
+  "state": "CO",
+  "latitude": 39.90568056,
+  "longitude": -105.0353889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06720820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

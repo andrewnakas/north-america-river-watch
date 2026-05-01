@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05416100",
+  "key": "05416100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05416100",
+  "name": "MISSISSIPPI R AT LOCK & DAM 12 AT BELLEVUE, IA",
+  "waterbody": "MISSISSIPPI R AT LOCK & DAM 12 AT BELLEVUE, IA",
+  "state": "IA",
+  "latitude": 42.26084897,
+  "longitude": -90.423184,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLVI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blvi4",
+  "slug": "usgs-05416100",
+  "noaaForecastPath": "data/noaa-forecast/BLVI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

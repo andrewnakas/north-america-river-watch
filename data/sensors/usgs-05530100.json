@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05530100",
+  "key": "05530100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05530100",
+  "name": "DES PLAINES R AT ALGONQUIN RD AT DES PLAINES, IL",
+  "waterbody": "DES PLAINES R AT ALGONQUIN RD AT DES PLAINES, IL",
+  "state": "IL",
+  "latitude": 42.03166667,
+  "longitude": -87.8780556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DMPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Plaines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dmpi2",
+  "slug": "usgs-05530100",
+  "noaaForecastPath": "data/noaa-forecast/DMPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

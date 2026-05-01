@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04137680",
+  "key": "04137680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04137680",
+  "name": "PINE RIVER AT KINGS CORNER RD NR OSCODA, MI",
+  "waterbody": "PINE RIVER AT KINGS CORNER RD NR OSCODA, MI",
+  "state": "MI",
+  "latitude": 44.51166408,
+  "longitude": -83.4068134,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04137680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

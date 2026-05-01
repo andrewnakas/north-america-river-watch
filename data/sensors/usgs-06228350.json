@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06228350",
+  "key": "06228350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06228350",
+  "name": "SF L WIND RIV AB WASHAKIE RES, NR FT WASHAKIE, WY",
+  "waterbody": "SF L WIND RIV AB WASHAKIE RES, NR FT WASHAKIE, WY",
+  "state": "WY",
+  "latitude": 42.96828927,
+  "longitude": -109.037628,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06228350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

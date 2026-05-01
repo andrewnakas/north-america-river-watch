@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09286700",
+  "key": "09286700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09286700",
+  "name": "CURRANT CRK BLW CURRANT CRK DAM, NR FRUITLAND, UT",
+  "waterbody": "CURRANT CRK BLW CURRANT CRK DAM, NR FRUITLAND, UT",
+  "state": "UT",
+  "latitude": 40.33078385,
+  "longitude": -111.0496107,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09286700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

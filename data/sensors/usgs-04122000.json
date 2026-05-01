@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04122000",
+  "key": "04122000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04122000",
+  "name": "MUSKEGON RIVER AT NEWAYGO, MI",
+  "waterbody": "MUSKEGON RIVER AT NEWAYGO, MI",
+  "state": "MI",
+  "latitude": 43.42224288,
+  "longitude": -85.8019952,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04122000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

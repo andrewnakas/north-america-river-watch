@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04092750",
+  "key": "04092750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04092750",
+  "name": "INDIANA HARBOR CANAL AT EAST CHICAGO, IN",
+  "waterbody": "INDIANA HARBOR CANAL AT EAST CHICAGO, IN",
+  "state": "IN",
+  "latitude": 41.64918269,
+  "longitude": -87.4686222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IHCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indiana Harbor Canal",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ihci3",
+  "slug": "usgs-04092750",
+  "noaaForecastPath": "data/noaa-forecast/IHCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50128918",
+  "key": "50128918",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50128918",
+  "name": "LATERAL M22L, CANAL DE RIEGO LAJAS, SABANA GRANDE",
+  "waterbody": "LATERAL M22L, CANAL DE RIEGO LAJAS, SABANA GRANDE",
+  "state": "PR",
+  "latitude": 18.04100208,
+  "longitude": -66.9406822,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50128918",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

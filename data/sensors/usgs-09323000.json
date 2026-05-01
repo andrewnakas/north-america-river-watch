@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09323000",
+  "key": "09323000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09323000",
+  "name": "SPRING CITY TUNNEL NEAR SPRING CITY, UT",
+  "waterbody": "SPRING CITY TUNNEL NEAR SPRING CITY, UT",
+  "state": "UT",
+  "latitude": 39.4260752,
+  "longitude": -111.3649034,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09323000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

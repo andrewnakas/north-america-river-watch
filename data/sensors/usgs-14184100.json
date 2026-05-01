@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14184100",
+  "key": "14184100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14184100",
+  "name": "NORTH SANTIAM R AT GREENS BRIDGE, NR JEFFERSON, OR",
+  "waterbody": "NORTH SANTIAM R AT GREENS BRIDGE, NR JEFFERSON, OR",
+  "state": "OR",
+  "latitude": 44.7079444,
+  "longitude": -122.973111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSGO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Santiam River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nsgo3",
+  "slug": "usgs-14184100",
+  "noaaForecastPath": "data/noaa-forecast/NSGO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

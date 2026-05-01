@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03052450",
+  "key": "03052450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03052450",
+  "name": "BUCKHANNON R AT BUCKHANNON, WV",
+  "waterbody": "BUCKHANNON R AT BUCKHANNON, WV",
+  "state": "WV",
+  "latitude": 39.0053762,
+  "longitude": -80.20924949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKNW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buckhannon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bknw2",
+  "slug": "usgs-03052450",
+  "noaaForecastPath": "data/noaa-forecast/BKNW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

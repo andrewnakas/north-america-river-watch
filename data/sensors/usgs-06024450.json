@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06024450",
+  "key": "06024450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06024450",
+  "name": "Big Hole River bl Big Lake Cr at Wisdom MT",
+  "waterbody": "Big Hole River bl Big Lake Cr at Wisdom MT",
+  "state": "MT",
+  "latitude": 45.61796667,
+  "longitude": -113.4569417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGKM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgkm8",
+  "slug": "usgs-06024450",
+  "noaaForecastPath": "data/noaa-forecast/BGKM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

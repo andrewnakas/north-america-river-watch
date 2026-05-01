@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07021000",
+  "key": "07021000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07021000",
+  "name": "Castor River at Zalma, MO",
+  "waterbody": "Castor River at Zalma, MO",
+  "state": "MO",
+  "latitude": 37.14663889,
+  "longitude": -90.0755,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZCRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Castor River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zcrm7",
+  "slug": "usgs-07021000",
+  "noaaForecastPath": "data/noaa-forecast/ZCRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

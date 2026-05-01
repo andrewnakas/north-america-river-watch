@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0242354750",
+  "key": "0242354750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0242354750",
+  "name": "CAHABA VALLEY CREEK AT CROSS CR RD AT PELHAM, AL.",
+  "waterbody": "CAHABA VALLEY CREEK AT CROSS CR RD AT PELHAM, AL.",
+  "state": "AL",
+  "latitude": 33.31344546,
+  "longitude": -86.8063775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVCA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cahaba Valley Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvca1",
+  "slug": "usgs-0242354750",
+  "noaaForecastPath": "data/noaa-forecast/CVCA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

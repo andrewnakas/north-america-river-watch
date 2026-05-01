@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02477045",
+  "key": "02477045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02477045",
+  "name": "CHICKASAWHAY RIVER AT QUITMAN, MS",
+  "waterbody": "CHICKASAWHAY RIVER AT QUITMAN, MS",
+  "state": "MS",
+  "latitude": 32.04240686,
+  "longitude": -88.7442142,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QTMM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chickasawhay River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qtmm6",
+  "slug": "usgs-02477045",
+  "noaaForecastPath": "data/noaa-forecast/QTMM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

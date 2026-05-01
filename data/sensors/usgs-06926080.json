@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06926080",
+  "key": "06926080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06926080",
+  "name": "Osage River at Tuscumbia, MO",
+  "waterbody": "Osage River at Tuscumbia, MO",
+  "state": "MO",
+  "latitude": 38.23253889,
+  "longitude": -92.4586111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSCM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Osage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tscm7",
+  "slug": "usgs-06926080",
+  "noaaForecastPath": "data/noaa-forecast/TSCM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

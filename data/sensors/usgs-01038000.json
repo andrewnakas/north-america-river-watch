@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01038000",
+  "key": "01038000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01038000",
+  "name": "Sheepscot River at North Whitefield, Maine",
+  "waterbody": "Sheepscot River at North Whitefield, Maine",
+  "state": "ME",
+  "latitude": 44.22277778,
+  "longitude": -69.59388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWFM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheepscot River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwfm1",
+  "slug": "usgs-01038000",
+  "noaaForecastPath": "data/noaa-forecast/NWFM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

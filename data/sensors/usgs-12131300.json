@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12131300",
+  "key": "12131300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12131300",
+  "name": "BOLT CREEK AT BECKLER RIVER RD NEAR SKYKOMISH, WA",
+  "waterbody": "BOLT CREEK AT BECKLER RIVER RD NEAR SKYKOMISH, WA",
+  "state": "WA",
+  "latitude": 47.72675,
+  "longitude": -121.3383694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12131300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

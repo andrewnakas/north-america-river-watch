@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15019990",
+  "key": "15019990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15019990",
+  "name": "TYEE LK OUTLET NR WRANGELL AK",
+  "waterbody": "TYEE LK OUTLET NR WRANGELL AK",
+  "state": "AK",
+  "latitude": 56.1996415,
+  "longitude": -131.5083622,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYWA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tyee Lake Outlet",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tywa2",
+  "slug": "usgs-15019990",
+  "noaaForecastPath": "data/noaa-forecast/TYWA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08149900",
+  "key": "08149900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08149900",
+  "name": "S Llano Rv at Flat Rock Ln at Junction, TX",
+  "waterbody": "S Llano Rv at Flat Rock Ln at Junction, TX",
+  "state": "TX",
+  "latitude": 30.47901389,
+  "longitude": -99.7780389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08149900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

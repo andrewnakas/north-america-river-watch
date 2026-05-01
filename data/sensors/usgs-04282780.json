@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04282780",
+  "key": "04282780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282780",
+  "name": "LEWIS CREEK AT NORTH FERRISBURG, VT",
+  "waterbody": "LEWIS CREEK AT NORTH FERRISBURG, VT",
+  "state": "VT",
+  "latitude": 44.24925319,
+  "longitude": -73.22857458,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NFBV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lewis Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nfbv1",
+  "slug": "usgs-04282780",
+  "noaaForecastPath": "data/noaa-forecast/NFBV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

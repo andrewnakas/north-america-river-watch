@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455280",
+  "key": "11455280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455280",
+  "name": "CACHE SLOUGH NR HASTINGS TRACT NR RIO VISTA CA",
+  "waterbody": "CACHE SLOUGH NR HASTINGS TRACT NR RIO VISTA CA",
+  "state": "CA",
+  "latitude": 38.27555556,
+  "longitude": -121.7091667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455280",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

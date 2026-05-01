@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03331753",
+  "key": "03331753",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03331753",
+  "name": "TIPPECANOE RIVER AT WINAMAC, IN",
+  "waterbody": "TIPPECANOE RIVER AT WINAMAC, IN",
+  "state": "IN",
+  "latitude": 41.04974369,
+  "longitude": -86.5991488,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WMCI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tippecanoe River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wmci3",
+  "slug": "usgs-03331753",
+  "noaaForecastPath": "data/noaa-forecast/WMCI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

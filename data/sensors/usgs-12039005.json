@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12039005",
+  "key": "12039005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039005",
+  "name": "HUMPTULIPS RIVER BELOW HWY 101 NR HUMPTULIPS, WA",
+  "waterbody": "HUMPTULIPS RIVER BELOW HWY 101 NR HUMPTULIPS, WA",
+  "state": "WA",
+  "latitude": 47.23147599,
+  "longitude": -123.974063,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMRW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Humptulips River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmrw1",
+  "slug": "usgs-12039005",
+  "noaaForecastPath": "data/noaa-forecast/HMRW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09443900",
+  "key": "09443900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09443900",
+  "name": "FISH POND DITCH ABOVE HATCHERY AT GLENWOOD, NM",
+  "waterbody": "FISH POND DITCH ABOVE HATCHERY AT GLENWOOD, NM",
+  "state": "NM",
+  "latitude": 33.3225,
+  "longitude": -108.8772222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09443900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

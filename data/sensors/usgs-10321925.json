@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10321925",
+  "key": "10321925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10321925",
+  "name": "SIMON CK AT HWY 766 NR CARLIN, NV",
+  "waterbody": "SIMON CK AT HWY 766 NR CARLIN, NV",
+  "state": "NV",
+  "latitude": 40.84316667,
+  "longitude": -116.2245222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10321925",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

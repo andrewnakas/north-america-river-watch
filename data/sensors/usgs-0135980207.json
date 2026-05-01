@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0135980207",
+  "key": "0135980207",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0135980207",
+  "name": "HUDSON RIVER NEAR SCHODACK LANDING NY",
+  "waterbody": "HUDSON RIVER NEAR SCHODACK LANDING NY",
+  "state": "NY",
+  "latitude": 42.4996111,
+  "longitude": -73.7768056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0135980207",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

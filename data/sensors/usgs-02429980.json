@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02429980",
+  "key": "02429980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02429980",
+  "name": "POLLARD MILL BRANCH AT PADEN, MS",
+  "waterbody": "POLLARD MILL BRANCH AT PADEN, MS",
+  "state": "MS",
+  "latitude": 34.65388889,
+  "longitude": -88.24888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02429980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

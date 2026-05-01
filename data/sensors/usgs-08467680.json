@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08467680",
+  "key": "08467680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08467680",
+  "name": "Rio Grande nr Mission, TX",
+  "waterbody": "Rio Grande nr Mission, TX",
+  "state": "TX",
+  "latitude": 26.17117778,
+  "longitude": -98.36405,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08467680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

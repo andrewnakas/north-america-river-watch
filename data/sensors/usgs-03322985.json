@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03322985",
+  "key": "03322985",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03322985",
+  "name": "WABASH RIVER NEAR BLUFFTON, IN",
+  "waterbody": "WABASH RIVER NEAR BLUFFTON, IN",
+  "state": "IN",
+  "latitude": 40.7280797,
+  "longitude": -85.1366005,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03322985",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

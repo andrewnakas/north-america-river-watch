@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12467000",
+  "key": "12467000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12467000",
+  "name": "CRAB CREEK NEAR MOSES LAKE, WA",
+  "waterbody": "CRAB CREEK NEAR MOSES LAKE, WA",
+  "state": "WA",
+  "latitude": 47.1893085,
+  "longitude": -119.265855,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSLW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crab Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mslw1",
+  "slug": "usgs-12467000",
+  "noaaForecastPath": "data/noaa-forecast/MSLW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

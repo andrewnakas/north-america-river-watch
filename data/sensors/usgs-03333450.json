@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03333450",
+  "key": "03333450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03333450",
+  "name": "WILDCAT CREEK NEAR JEROME, IN",
+  "waterbody": "WILDCAT CREEK NEAR JEROME, IN",
+  "state": "IN",
+  "latitude": 40.44127778,
+  "longitude": -85.91875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JRMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wildcat Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jrmi3",
+  "slug": "usgs-03333450",
+  "noaaForecastPath": "data/noaa-forecast/JRMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

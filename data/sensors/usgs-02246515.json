@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02246515",
+  "key": "02246515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02246515",
+  "name": "POTTSBURG CREEK NR SOUTH JACKSONVILLE, FLA.",
+  "waterbody": "POTTSBURG CREEK NR SOUTH JACKSONVILLE, FLA.",
+  "state": "FL",
+  "latitude": 30.2644071,
+  "longitude": -81.5900917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pottsburg Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pccf1",
+  "slug": "usgs-02246515",
+  "noaaForecastPath": "data/noaa-forecast/PCCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

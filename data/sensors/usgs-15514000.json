@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15514000",
+  "key": "15514000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15514000",
+  "name": "CHENA R AT FAIRBANKS AK",
+  "waterbody": "CHENA R AT FAIRBANKS AK",
+  "state": "AK",
+  "latitude": 64.8453948,
+  "longitude": -147.7035724,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHFA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chena River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chfa2",
+  "slug": "usgs-15514000",
+  "noaaForecastPath": "data/noaa-forecast/CHFA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

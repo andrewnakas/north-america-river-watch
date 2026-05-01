@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14308600",
+  "key": "14308600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14308600",
+  "name": "S. UMPQUA RIVER @ DAYS CREEK, OR",
+  "waterbody": "S. UMPQUA RIVER @ DAYS CREEK, OR",
+  "state": "OR",
+  "latitude": 42.9673409,
+  "longitude": -123.1675606,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14308600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

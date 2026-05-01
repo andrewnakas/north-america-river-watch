@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01130000",
+  "key": "01130000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01130000",
+  "name": "UPPER AMMONOOSUC RIVER NEAR GROVETON, NH",
+  "waterbody": "UPPER AMMONOOSUC RIVER NEAR GROVETON, NH",
+  "state": "NH",
+  "latitude": 44.62505316,
+  "longitude": -71.4689721,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRUN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upper Ammonoosuc River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grun3",
+  "slug": "usgs-01130000",
+  "noaaForecastPath": "data/noaa-forecast/GRUN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

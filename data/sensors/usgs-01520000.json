@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01520000",
+  "key": "01520000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01520000",
+  "name": "Cowanesque River near Lawrenceville, PA",
+  "waterbody": "Cowanesque River near Lawrenceville, PA",
+  "state": "PA",
+  "latitude": 41.99674048,
+  "longitude": -77.1399724,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowanesque River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwvp1",
+  "slug": "usgs-01520000",
+  "noaaForecastPath": "data/noaa-forecast/LWVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

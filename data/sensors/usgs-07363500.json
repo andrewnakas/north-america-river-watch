@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07363500",
+  "key": "07363500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07363500",
+  "name": "Saline River near Rye, AR",
+  "waterbody": "Saline River near Rye, AR",
+  "state": "AR",
+  "latitude": 33.7008333,
+  "longitude": -92.0258333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RYEA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ryea4",
+  "slug": "usgs-07363500",
+  "noaaForecastPath": "data/noaa-forecast/RYEA4.json",
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05128400",
+  "key": "05128400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05128400",
+  "name": "SAND RIVER NEAR BRITT, MN",
+  "waterbody": "SAND RIVER NEAR BRITT, MN",
+  "state": "MN",
+  "latitude": 47.6307046,
+  "longitude": -92.5568952,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBTM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sand River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbtm5",
+  "slug": "usgs-05128400",
+  "noaaForecastPath": "data/noaa-forecast/SBTM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

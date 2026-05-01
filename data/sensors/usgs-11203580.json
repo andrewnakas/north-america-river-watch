@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11203580",
+  "key": "11203580",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11203580",
+  "name": "SF TULE R NR CHOLOLLO CAMPGROUND NR PORTERVILLE CA",
+  "waterbody": "SF TULE R NR CHOLOLLO CAMPGROUND NR PORTERVILLE CA",
+  "state": "CA",
+  "latitude": 36.0482899,
+  "longitude": -118.6542574,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Tule River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlrc1",
+  "slug": "usgs-11203580",
+  "noaaForecastPath": "data/noaa-forecast/TLRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

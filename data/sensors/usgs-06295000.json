@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06295000",
+  "key": "06295000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06295000",
+  "name": "Yellowstone River at Forsyth MT",
+  "waterbody": "Yellowstone River at Forsyth MT",
+  "state": "MT",
+  "latitude": 46.266636,
+  "longitude": -106.691303,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRYM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellowstone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frym8",
+  "slug": "usgs-06295000",
+  "noaaForecastPath": "data/noaa-forecast/FRYM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

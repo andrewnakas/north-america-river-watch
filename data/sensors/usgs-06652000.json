@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06652000",
+  "key": "06652000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06652000",
+  "name": "NORTH PLATTE RIVER AT ORIN, WY",
+  "waterbody": "NORTH PLATTE RIVER AT ORIN, WY",
+  "state": "WY",
+  "latitude": 42.65247578,
+  "longitude": -105.1592123,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORIW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oriw4",
+  "slug": "usgs-06652000",
+  "noaaForecastPath": "data/noaa-forecast/ORIW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

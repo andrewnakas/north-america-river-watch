@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11180960",
+  "key": "11180960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11180960",
+  "name": "CULL C AB CULL C RES NR CASTRO VALLEY CA",
+  "waterbody": "CULL C AB CULL C RES NR CASTRO VALLEY CA",
+  "state": "CA",
+  "latitude": 37.7176715,
+  "longitude": -122.0543673,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CULC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cull Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/culc1",
+  "slug": "usgs-11180960",
+  "noaaForecastPath": "data/noaa-forecast/CULC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

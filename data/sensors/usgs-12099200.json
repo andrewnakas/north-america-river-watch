@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12099200",
+  "key": "12099200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12099200",
+  "name": "WHITE RIVER ABOVE BOISE CREEK AT BUCKLEY, WA",
+  "waterbody": "WHITE RIVER ABOVE BOISE CREEK AT BUCKLEY, WA",
+  "state": "WA",
+  "latitude": 47.17388889,
+  "longitude": -122.0080556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBCW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbcw1",
+  "slug": "usgs-12099200",
+  "noaaForecastPath": "data/noaa-forecast/WBCW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

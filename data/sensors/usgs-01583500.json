@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01583500",
+  "key": "01583500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01583500",
+  "name": "WESTERN RUN AT WESTERN RUN, MD",
+  "waterbody": "WESTERN RUN AT WESTERN RUN, MD",
+  "state": "MD",
+  "latitude": 39.51077778,
+  "longitude": -76.6765,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRWM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Western Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrwm2",
+  "slug": "usgs-01583500",
+  "noaaForecastPath": "data/noaa-forecast/WRWM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

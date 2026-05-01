@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01465870",
+  "key": "01465870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01465870",
+  "name": "SWB Rancocas C at Oliphant Mills NJ",
+  "waterbody": "SWB Rancocas C at Oliphant Mills NJ",
+  "state": "NJ",
+  "latitude": 39.8883333,
+  "longitude": -74.8358333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01465870",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

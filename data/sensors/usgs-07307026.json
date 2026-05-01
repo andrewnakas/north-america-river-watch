@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07307026",
+  "key": "07307026",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07307026",
+  "name": "Ozark Canal at Altus, OK, Altus AFB IRP Ch005",
+  "waterbody": "Ozark Canal at Altus, OK, Altus AFB IRP Ch005",
+  "state": "OK",
+  "latitude": 34.65701406,
+  "longitude": -99.2650849,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07307026",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

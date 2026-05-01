@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0319382976",
+  "key": "0319382976",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0319382976",
+  "name": "KANAWHA RIVER AT S SIDE BRIDGE AT CHARLESTON, WV",
+  "waterbody": "KANAWHA RIVER AT S SIDE BRIDGE AT CHARLESTON, WV",
+  "state": "WV",
+  "latitude": 38.3472222,
+  "longitude": -81.63638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRSW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kanawha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crsw2",
+  "slug": "usgs-0319382976",
+  "noaaForecastPath": "data/noaa-forecast/CRSW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

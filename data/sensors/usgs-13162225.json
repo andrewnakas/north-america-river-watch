@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13162225",
+  "key": "13162225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13162225",
+  "name": "JARBIDGE RV BLW JARBIDGE, NV",
+  "waterbody": "JARBIDGE RV BLW JARBIDGE, NV",
+  "state": "NV",
+  "latitude": 41.8904614,
+  "longitude": -115.4286816,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JBGN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jarbidge River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jbgn2",
+  "slug": "usgs-13162225",
+  "noaaForecastPath": "data/noaa-forecast/JBGN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

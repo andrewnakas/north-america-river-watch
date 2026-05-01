@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08211503",
+  "key": "08211503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08211503",
+  "name": "Rincon Bayou Channel nr Calallen, TX",
+  "waterbody": "Rincon Bayou Channel nr Calallen, TX",
+  "state": "TX",
+  "latitude": 27.8969652,
+  "longitude": -97.6255509,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ricon Bayou Channel",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbut2",
+  "slug": "usgs-08211503",
+  "noaaForecastPath": "data/noaa-forecast/RBUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

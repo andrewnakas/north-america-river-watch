@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08101300",
+  "key": "08101300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08101300",
+  "name": "Cowhouse Ck at W Range Rd nr Ft Hood, TX",
+  "waterbody": "Cowhouse Ck at W Range Rd nr Ft Hood, TX",
+  "state": "TX",
+  "latitude": 31.21499444,
+  "longitude": -97.7941944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08101300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

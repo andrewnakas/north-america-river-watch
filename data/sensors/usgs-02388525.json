@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02388525",
+  "key": "02388525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02388525",
+  "name": "OOSTANAULA RIVER AT US 27, AT ROME, GA",
+  "waterbody": "OOSTANAULA RIVER AT US 27, AT ROME, GA",
+  "state": "GA",
+  "latitude": 34.26052778,
+  "longitude": -85.17088889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RTMG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oostanaula River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rtmg1",
+  "slug": "usgs-02388525",
+  "noaaForecastPath": "data/noaa-forecast/RTMG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

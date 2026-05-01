@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14303200",
+  "key": "14303200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14303200",
+  "name": "TUCCA CREEK NEAR BLAINE, OR.",
+  "waterbody": "TUCCA CREEK NEAR BLAINE, OR.",
+  "state": "OR",
+  "latitude": 45.32427635,
+  "longitude": -123.5465012,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TUCO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tucca Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tuco3",
+  "slug": "usgs-14303200",
+  "noaaForecastPath": "data/noaa-forecast/TUCO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

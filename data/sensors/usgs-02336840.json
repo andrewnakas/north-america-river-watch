@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336840",
+  "key": "02336840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336840",
+  "name": "SWEETWATER CREEK,BROWNSVILLE RD,POWDER SPRINGS,GA",
+  "waterbody": "SWEETWATER CREEK,BROWNSVILLE RD,POWDER SPRINGS,GA",
+  "state": "GA",
+  "latitude": 33.8272222,
+  "longitude": -84.7198611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PDSG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pdsg1",
+  "slug": "usgs-02336840",
+  "noaaForecastPath": "data/noaa-forecast/PDSG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

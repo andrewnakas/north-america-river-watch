@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07068800",
+  "key": "07068800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07068800",
+  "name": "CURRENT RIVER NEAR REYNO, AR",
+  "waterbody": "CURRENT RIVER NEAR REYNO, AR",
+  "state": "AR",
+  "latitude": 36.3700651,
+  "longitude": -90.7783299,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07068800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

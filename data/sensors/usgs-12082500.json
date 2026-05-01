@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12082500",
+  "key": "12082500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12082500",
+  "name": "NISQUALLY RIVER NEAR NATIONAL, WA",
+  "waterbody": "NISQUALLY RIVER NEAR NATIONAL, WA",
+  "state": "WA",
+  "latitude": 46.75260766,
+  "longitude": -122.0837194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NISW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nisqually River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nisw1",
+  "slug": "usgs-12082500",
+  "noaaForecastPath": "data/noaa-forecast/NISW1.json",
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

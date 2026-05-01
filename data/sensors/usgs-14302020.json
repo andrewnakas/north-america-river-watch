@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14302020",
+  "key": "14302020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14302020",
+  "name": "WILSON RIVER AT SOLLIE SMITH BR AT TILLAMOOK, OR",
+  "waterbody": "WILSON RIVER AT SOLLIE SMITH BR AT TILLAMOOK, OR",
+  "state": "OR",
+  "latitude": 45.4771111,
+  "longitude": -123.8079722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14302020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

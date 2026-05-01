@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0208725600",
+  "key": "0208725600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208725600",
+  "name": "SYCAMORE CREEK NEAR LYNN CROSSROADS, NC",
+  "waterbody": "SYCAMORE CREEK NEAR LYNN CROSSROADS, NC",
+  "state": "NC",
+  "latitude": 35.90098177,
+  "longitude": -78.76528318,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0208725600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

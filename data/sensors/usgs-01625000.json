@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01625000",
+  "key": "01625000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01625000",
+  "name": "MIDDLE RIVER NEAR GROTTOES, VA",
+  "waterbody": "MIDDLE RIVER NEAR GROTTOES, VA",
+  "state": "VA",
+  "latitude": 38.26179616,
+  "longitude": -78.8619703,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GROV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grov2",
+  "slug": "usgs-01625000",
+  "noaaForecastPath": "data/noaa-forecast/GROV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03285200",
+  "key": "03285200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03285200",
+  "name": "CLARKS RUN NEAR DANVILLE, KY",
+  "waterbody": "CLARKS RUN NEAR DANVILLE, KY",
+  "state": "KY",
+  "latitude": 37.63896704,
+  "longitude": -84.7210569,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03285200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

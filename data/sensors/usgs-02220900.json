@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02220900",
+  "key": "02220900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02220900",
+  "name": "LITTLE RIVER NEAR EATONTON, GA",
+  "waterbody": "LITTLE RIVER NEAR EATONTON, GA",
+  "state": "GA",
+  "latitude": 33.31413889,
+  "longitude": -83.4371111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EANG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eang1",
+  "slug": "usgs-02220900",
+  "noaaForecastPath": "data/noaa-forecast/EANG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

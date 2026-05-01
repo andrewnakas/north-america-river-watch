@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04242640",
+  "key": "04242640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04242640",
+  "name": "FISH CREEK AT BECKS GROVE NY",
+  "waterbody": "FISH CREEK AT BECKS GROVE NY",
+  "state": "NY",
+  "latitude": 43.25825,
+  "longitude": -75.61302778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fish Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkgn6",
+  "slug": "usgs-04242640",
+  "noaaForecastPath": "data/noaa-forecast/BKGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

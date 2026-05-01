@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07190100",
+  "key": "07190100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07190100",
+  "name": "Neosho River (service road) near Langley, OK",
+  "waterbody": "Neosho River (service road) near Langley, OK",
+  "state": "OK",
+  "latitude": 36.4620288,
+  "longitude": -95.033573,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PENO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eastern Oklahoma Lakes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/peno2",
+  "slug": "usgs-07190100",
+  "noaaForecastPath": "data/noaa-forecast/PENO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

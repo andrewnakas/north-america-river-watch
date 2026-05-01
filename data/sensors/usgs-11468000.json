@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11468000",
+  "key": "11468000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11468000",
+  "name": "NAVARRO R NR NAVARRO CA",
+  "waterbody": "NAVARRO R NR NAVARRO CA",
+  "state": "CA",
+  "latitude": 39.1704079,
+  "longitude": -123.6680415,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NVRC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Navarro River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nvrc1",
+  "slug": "usgs-11468000",
+  "noaaForecastPath": "data/noaa-forecast/NVRC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

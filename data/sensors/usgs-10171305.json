@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10171305",
+  "key": "10171305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10171305",
+  "name": "PARLEYS CR ABV ALEXANDER CR NR SALT LAKE CITY, UT",
+  "waterbody": "PARLEYS CR ABV ALEXANDER CR NR SALT LAKE CITY, UT",
+  "state": "UT",
+  "latitude": 40.7485581,
+  "longitude": -111.6879848,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10171305",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

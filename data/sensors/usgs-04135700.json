@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04135700",
+  "key": "04135700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04135700",
+  "name": "SOUTH BRANCH AU SABLE RIVER NEAR LUZERNE, MI",
+  "waterbody": "SOUTH BRANCH AU SABLE RIVER NEAR LUZERNE, MI",
+  "state": "MI",
+  "latitude": 44.61473849,
+  "longitude": -84.455575,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUZM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Au Sable River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/luzm4",
+  "slug": "usgs-04135700",
+  "noaaForecastPath": "data/noaa-forecast/LUZM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09256000",
+  "key": "09256000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09256000",
+  "name": "SAVERY CREEK NEAR SAVERY, WY",
+  "waterbody": "SAVERY CREEK NEAR SAVERY, WY",
+  "state": "WY",
+  "latitude": 41.09777778,
+  "longitude": -107.3819444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09256000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

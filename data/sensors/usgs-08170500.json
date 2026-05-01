@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08170500",
+  "key": "08170500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08170500",
+  "name": "San Marcos Rv at San Marcos, TX",
+  "waterbody": "San Marcos Rv at San Marcos, TX",
+  "state": "TX",
+  "latitude": 29.88910804,
+  "longitude": -97.9341718,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Marcos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srut2",
+  "slug": "usgs-08170500",
+  "noaaForecastPath": "data/noaa-forecast/SRUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

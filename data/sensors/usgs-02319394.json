@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02319394",
+  "key": "02319394",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02319394",
+  "name": "WITHLACOOCHEE RIVER NR LEE, FLA",
+  "waterbody": "WITHLACOOCHEE RIVER NR LEE, FLA",
+  "state": "FL",
+  "latitude": 30.41049435,
+  "longitude": -83.18013979,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wthf1",
+  "slug": "usgs-02319394",
+  "noaaForecastPath": "data/noaa-forecast/WTHF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

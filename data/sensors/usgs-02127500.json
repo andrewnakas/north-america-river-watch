@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02127500",
+  "key": "02127500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02127500",
+  "name": "PEE DEE R NR ANSONVILLE, NC",
+  "waterbody": "PEE DEE R NR ANSONVILLE, NC",
+  "state": "NC",
+  "latitude": 35.0854277,
+  "longitude": -79.9989462,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02127500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

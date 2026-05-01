@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02300017",
+  "key": "02300017",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300017",
+  "name": "GAMBLE CREEK AT COUNTY ROAD 675 NEAR PARRISH FL",
+  "waterbody": "GAMBLE CREEK AT COUNTY ROAD 675 NEAR PARRISH FL",
+  "state": "FL",
+  "latitude": 27.57577778,
+  "longitude": -82.39738889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCPF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gamble Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcpf1",
+  "slug": "usgs-02300017",
+  "noaaForecastPath": "data/noaa-forecast/GCPF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

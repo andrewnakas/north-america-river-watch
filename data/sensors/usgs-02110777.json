@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02110777",
+  "key": "02110777",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110777",
+  "name": "AIW AT HIGHWAY 9 AT NIXONS CROSSROADS, SC",
+  "waterbody": "AIW AT HIGHWAY 9 AT NIXONS CROSSROADS, SC",
+  "state": "SC",
+  "latitude": 33.8515612,
+  "longitude": -78.6558483,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NIXS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atlantic Intracoastal Waterway",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nixs1",
+  "slug": "usgs-02110777",
+  "noaaForecastPath": "data/noaa-forecast/NIXS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

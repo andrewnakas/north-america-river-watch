@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083235",
+  "key": "08083235",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083235",
+  "name": "Clear Fk Brazos Rv at FM 3116 nr Anson, TX",
+  "waterbody": "Clear Fk Brazos Rv at FM 3116 nr Anson, TX",
+  "state": "TX",
+  "latitude": 32.66191944,
+  "longitude": -99.9761861,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083235",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

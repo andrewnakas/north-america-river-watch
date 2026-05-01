@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05412020",
+  "key": "05412020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05412020",
+  "name": "Turkey River above French Hollow Cr at Elkader, IA",
+  "waterbody": "Turkey River above French Hollow Cr at Elkader, IA",
+  "state": "IA",
+  "latitude": 42.84348517,
+  "longitude": -91.4012767,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EKDI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ekdi4",
+  "slug": "usgs-05412020",
+  "noaaForecastPath": "data/noaa-forecast/EKDI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

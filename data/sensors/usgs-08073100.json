@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08073100",
+  "key": "08073100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08073100",
+  "name": "Langham Ck at Addicks Res Outflow nr Addicks, TX",
+  "waterbody": "Langham Ck at Addicks Res Outflow nr Addicks, TX",
+  "state": "TX",
+  "latitude": 29.79027778,
+  "longitude": -95.6238889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Langham Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/addt2",
+  "slug": "usgs-08073100",
+  "noaaForecastPath": "data/noaa-forecast/ADDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

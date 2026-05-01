@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02106000",
+  "key": "02106000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02106000",
+  "name": "LITTLE COHARIE CREEK NEAR ROSEBORO, NC",
+  "waterbody": "LITTLE COHARIE CREEK NEAR ROSEBORO, NC",
+  "state": "NC",
+  "latitude": 34.9537808,
+  "longitude": -78.4877838,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02106000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

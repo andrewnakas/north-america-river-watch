@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03106000",
+  "key": "03106000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03106000",
+  "name": "Connoquenessing Creek near Zelienople, PA",
+  "waterbody": "Connoquenessing Creek near Zelienople, PA",
+  "state": "PA",
+  "latitude": 40.8170092,
+  "longitude": -80.2422837,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ZLPP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connoquenessing Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/zlpp1",
+  "slug": "usgs-03106000",
+  "noaaForecastPath": "data/noaa-forecast/ZLPP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

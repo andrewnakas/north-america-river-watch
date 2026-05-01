@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07218000",
+  "key": "07218000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07218000",
+  "name": "COYOTE CREEK NEAR GOLONDRINAS, NM",
+  "waterbody": "COYOTE CREEK NEAR GOLONDRINAS, NM",
+  "state": "NM",
+  "latitude": 35.9165222,
+  "longitude": -105.1640833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07218000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

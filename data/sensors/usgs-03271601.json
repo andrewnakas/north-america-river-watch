@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03271601",
+  "key": "03271601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03271601",
+  "name": "Great Miami River below Miamisburg OH",
+  "waterbody": "Great Miami River below Miamisburg OH",
+  "state": "OH",
+  "latitude": 39.6067252,
+  "longitude": -84.2868854,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03271601",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

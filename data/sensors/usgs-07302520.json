@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07302520",
+  "key": "07302520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07302520",
+  "name": "Lugert Drainage Ditch at Lugert, OK",
+  "waterbody": "Lugert Drainage Ditch at Lugert, OK",
+  "state": "OK",
+  "latitude": 34.89019444,
+  "longitude": -99.2779333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LDDO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lugert Drainage Ditch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lddo2",
+  "slug": "usgs-07302520",
+  "noaaForecastPath": "data/noaa-forecast/LDDO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

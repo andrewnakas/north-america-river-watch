@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06375600",
+  "key": "06375600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06375600",
+  "name": "LITTLE THUNDER CREEK NEAR HAMPSHIRE, WY",
+  "waterbody": "LITTLE THUNDER CREEK NEAR HAMPSHIRE, WY",
+  "state": "WY",
+  "latitude": 43.6547222,
+  "longitude": -104.9094444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06375600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

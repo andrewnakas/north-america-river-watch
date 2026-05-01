@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01457400",
+  "key": "01457400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01457400",
+  "name": "Musconetcong River at Riegelsville NJ",
+  "waterbody": "Musconetcong River at Riegelsville NJ",
+  "state": "NJ",
+  "latitude": 40.5925,
+  "longitude": -75.1861111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01457400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

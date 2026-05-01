@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03118209",
+  "key": "03118209",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03118209",
+  "name": "West Branch Nimishillen Creek at North Canton OH",
+  "waterbody": "West Branch Nimishillen Creek at North Canton OH",
+  "state": "OH",
+  "latitude": 40.86805556,
+  "longitude": -81.3844444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Nimishillen Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbno1",
+  "slug": "usgs-03118209",
+  "noaaForecastPath": "data/noaa-forecast/WBNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

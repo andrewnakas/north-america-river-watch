@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06442130",
+  "key": "06442130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06442130",
+  "name": "CEDAR CREEK NEAR PRESHO, SD",
+  "waterbody": "CEDAR CREEK NEAR PRESHO, SD",
+  "state": "SD",
+  "latitude": 44.14026325,
+  "longitude": -100.0848464,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (Central SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccps2",
+  "slug": "usgs-06442130",
+  "noaaForecastPath": "data/noaa-forecast/CCPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04092677",
+  "key": "04092677",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04092677",
+  "name": "GRAND CALUMET RIVER AT INDUSTRIAL HWY AT GARY, IN",
+  "waterbody": "GRAND CALUMET RIVER AT INDUSTRIAL HWY AT GARY, IN",
+  "state": "IN",
+  "latitude": 41.60779416,
+  "longitude": -87.3936197,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04092677",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03324500",
+  "key": "03324500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03324500",
+  "name": "SALAMONIE RIVER AT DORA, IN",
+  "waterbody": "SALAMONIE RIVER AT DORA, IN",
+  "state": "IN",
+  "latitude": 40.8116902,
+  "longitude": -85.6838407,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLAI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northern Indiana Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slai3",
+  "slug": "usgs-03324500",
+  "noaaForecastPath": "data/noaa-forecast/SLAI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

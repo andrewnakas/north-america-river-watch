@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03102850",
+  "key": "03102850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03102850",
+  "name": "Shenango River near Transfer, PA",
+  "waterbody": "Shenango River near Transfer, PA",
+  "state": "PA",
+  "latitude": 41.3536663,
+  "longitude": -80.3978453,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shenango River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trnp1",
+  "slug": "usgs-03102850",
+  "noaaForecastPath": "data/noaa-forecast/TRNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:252019080544800",
+  "key": "252019080544800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "252019080544800",
+  "name": "UPSTREAM NORTH RIVER, NEAR FLAMINGO, FL",
+  "waterbody": "UPSTREAM NORTH RIVER, NEAR FLAMINGO, FL",
+  "state": "FL",
+  "latitude": 25.35833333,
+  "longitude": -80.9002778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-252019080544800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

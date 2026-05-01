@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10348850",
+  "key": "10348850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348850",
+  "name": "GALENA CK AT GALENA CK STATE PARK, NV",
+  "waterbody": "GALENA CK AT GALENA CK STATE PARK, NV",
+  "state": "NV",
+  "latitude": 39.35435414,
+  "longitude": -119.8585225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCPN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Galena Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcpn2",
+  "slug": "usgs-10348850",
+  "noaaForecastPath": "data/noaa-forecast/GCPN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

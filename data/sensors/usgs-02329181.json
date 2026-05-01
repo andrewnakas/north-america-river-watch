@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02329181",
+  "key": "02329181",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02329181",
+  "name": "MALL DD AT BOONE BLVD AT TALLAHASSEE,FL",
+  "waterbody": "MALL DD AT BOONE BLVD AT TALLAHASSEE,FL",
+  "state": "FL",
+  "latitude": 30.46714439,
+  "longitude": -84.2893447,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02329181",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

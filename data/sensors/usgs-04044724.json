@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04044724",
+  "key": "04044724",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04044724",
+  "name": "AU TRAIN RIVER AT FOREST LAKE, MI",
+  "waterbody": "AU TRAIN RIVER AT FOREST LAKE, MI",
+  "state": "MI",
+  "latitude": 46.340833,
+  "longitude": -86.85,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Au Train River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atrm4",
+  "slug": "usgs-04044724",
+  "noaaForecastPath": "data/noaa-forecast/ATRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03369500",
+  "key": "03369500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03369500",
+  "name": "VERNON FORK MUSCATATUCK RIVER AT VERNON, IN",
+  "waterbody": "VERNON FORK MUSCATATUCK RIVER AT VERNON, IN",
+  "state": "IN",
+  "latitude": 38.9764343,
+  "longitude": -85.6196733,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VRNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Vernon Fork Muscatatuck River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vrni3",
+  "slug": "usgs-03369500",
+  "noaaForecastPath": "data/noaa-forecast/VRNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

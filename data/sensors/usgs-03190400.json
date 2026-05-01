@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03190400",
+  "key": "03190400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03190400",
+  "name": "MEADOW RIVER NEAR MT. LOOKOUT, WV",
+  "waterbody": "MEADOW RIVER NEAR MT. LOOKOUT, WV",
+  "state": "WV",
+  "latitude": 38.18983209,
+  "longitude": -80.94676579,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03190400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

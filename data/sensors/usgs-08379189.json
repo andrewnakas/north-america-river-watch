@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08379189",
+  "key": "08379189",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08379189",
+  "name": "BLUE CANYON CK NEAR EL PORVENIR, NM",
+  "waterbody": "BLUE CANYON CK NEAR EL PORVENIR, NM",
+  "state": "NM",
+  "latitude": 35.65116667,
+  "longitude": -105.4651944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08379189",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

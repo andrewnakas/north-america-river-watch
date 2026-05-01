@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13057132",
+  "key": "13057132",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13057132",
+  "name": "GREAT WESTERN SPILLBACK NR IDAHO FALLS ID",
+  "waterbody": "GREAT WESTERN SPILLBACK NR IDAHO FALLS ID",
+  "state": "ID",
+  "latitude": 43.6008333,
+  "longitude": -112.0619444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13057132",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

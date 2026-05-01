@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02244040",
+  "key": "02244040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02244040",
+  "name": "ST. JOHNS R AT BUFFALO BLUFF NEAR SATSUMA, FL",
+  "waterbody": "ST. JOHNS R AT BUFFALO BLUFF NEAR SATSUMA, FL",
+  "state": "FL",
+  "latitude": 29.596362,
+  "longitude": -81.6831761,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PALF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Johns River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/palf1",
+  "slug": "usgs-02244040",
+  "noaaForecastPath": "data/noaa-forecast/PALF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

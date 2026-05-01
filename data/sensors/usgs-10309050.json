@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10309050",
+  "key": "10309050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10309050",
+  "name": "PINE NUT CK NR GARDNERVILLE, NV",
+  "waterbody": "PINE NUT CK NR GARDNERVILLE, NV",
+  "state": "NV",
+  "latitude": 38.85894444,
+  "longitude": -119.5685833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10309050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

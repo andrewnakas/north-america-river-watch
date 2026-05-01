@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0204343500",
+  "key": "0204343500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204343500",
+  "name": "INTRACOASTAL WATERWAY AT COINJOCK, NC CU2",
+  "waterbody": "INTRACOASTAL WATERWAY AT COINJOCK, NC CU2",
+  "state": "NC",
+  "latitude": 36.34293567,
+  "longitude": -75.9538114,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0204343500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

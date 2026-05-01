@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536123",
+  "key": "05536123",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536123",
+  "name": "CHICAGO RIVER AT COLUMBUS DRIVE AT CHICAGO, IL",
+  "waterbody": "CHICAGO RIVER AT COLUMBUS DRIVE AT CHICAGO, IL",
+  "state": "IL",
+  "latitude": 41.88836628,
+  "longitude": -87.6211634,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chicago River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbci2",
+  "slug": "usgs-05536123",
+  "noaaForecastPath": "data/noaa-forecast/NBCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

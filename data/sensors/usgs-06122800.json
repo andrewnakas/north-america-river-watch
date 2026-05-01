@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06122800",
+  "key": "06122800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06122800",
+  "name": "Musselshell River nr Shawmut MT",
+  "waterbody": "Musselshell River nr Shawmut MT",
+  "state": "MT",
+  "latitude": 46.35030278,
+  "longitude": -109.5558139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06122800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

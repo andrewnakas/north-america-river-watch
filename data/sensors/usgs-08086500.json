@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08086500",
+  "key": "08086500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08086500",
+  "name": "Hubbard Ck nr Breckenridge, TX",
+  "waterbody": "Hubbard Ck nr Breckenridge, TX",
+  "state": "TX",
+  "latitude": 32.8370625,
+  "longitude": -98.9481246,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08086500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

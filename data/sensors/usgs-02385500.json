@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02385500",
+  "key": "02385500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02385500",
+  "name": "MILL CREEK AT DALTON, GA",
+  "waterbody": "MILL CREEK AT DALTON, GA",
+  "state": "GA",
+  "latitude": 34.78844444,
+  "longitude": -84.9750278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlng1",
+  "slug": "usgs-02385500",
+  "noaaForecastPath": "data/noaa-forecast/DLNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

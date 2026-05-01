@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10322505",
+  "key": "10322505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322505",
+  "name": "HORSE CK AT HORSE CYN NR GARDEN GATE PASS, NV",
+  "waterbody": "HORSE CK AT HORSE CYN NR GARDEN GATE PASS, NV",
+  "state": "NV",
+  "latitude": 40.11555556,
+  "longitude": -116.5034444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRSN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Horse Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrsn2",
+  "slug": "usgs-10322505",
+  "noaaForecastPath": "data/noaa-forecast/HRSN2.json",
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01200000",
+  "key": "01200000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01200000",
+  "name": "TENMILE RIVER NEAR GAYLORDSVILLE, CT",
+  "waterbody": "TENMILE RIVER NEAR GAYLORDSVILLE, CT",
+  "state": "NY",
+  "latitude": 41.65876389,
+  "longitude": -73.52868333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TENN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenmile River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tenn6",
+  "slug": "usgs-01200000",
+  "noaaForecastPath": "data/noaa-forecast/TENN6.json",
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

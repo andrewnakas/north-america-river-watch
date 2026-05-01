@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09537700",
+  "key": "09537700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09537700",
+  "name": "BLACK DRAW AT SAN BERNARDINO NWR NEAR DOUGLAS, AZ",
+  "waterbody": "BLACK DRAW AT SAN BERNARDINO NWR NEAR DOUGLAS, AZ",
+  "state": "AZ",
+  "latitude": 31.351369,
+  "longitude": -109.267086,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09537700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

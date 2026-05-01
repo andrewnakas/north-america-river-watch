@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06896000",
+  "key": "06896000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06896000",
+  "name": "Wakenda Creek at Carrollton, MO",
+  "waterbody": "Wakenda Creek at Carrollton, MO",
+  "state": "MO",
+  "latitude": 39.34325,
+  "longitude": -93.4855361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAXM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wakenda Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/caxm7",
+  "slug": "usgs-06896000",
+  "noaaForecastPath": "data/noaa-forecast/CAXM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

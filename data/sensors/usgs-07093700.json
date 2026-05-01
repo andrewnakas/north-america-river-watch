@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07093700",
+  "key": "07093700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07093700",
+  "name": "ARKANSAS RIVER NEAR WELLSVILLE, CO.",
+  "waterbody": "ARKANSAS RIVER NEAR WELLSVILLE, CO.",
+  "state": "CO",
+  "latitude": 38.50277496,
+  "longitude": -105.9397333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WSVC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wsvc2",
+  "slug": "usgs-07093700",
+  "noaaForecastPath": "data/noaa-forecast/WSVC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

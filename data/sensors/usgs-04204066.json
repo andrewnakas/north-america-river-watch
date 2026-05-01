@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04204066",
+  "key": "04204066",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04204066",
+  "name": "Cuyahoga R at Cuyahoga St below Cuyahoga Falls OH",
+  "waterbody": "Cuyahoga R at Cuyahoga St below Cuyahoga Falls OH",
+  "state": "OH",
+  "latitude": 41.1172222,
+  "longitude": -81.5252778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04204066",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

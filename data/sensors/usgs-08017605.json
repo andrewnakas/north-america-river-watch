@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08017605",
+  "key": "08017605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08017605",
+  "name": "Mill Ck at CR 1903 nr Fruitvale, TX",
+  "waterbody": "Mill Ck at CR 1903 nr Fruitvale, TX",
+  "state": "TX",
+  "latitude": 32.72952778,
+  "longitude": -95.8105278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08017605",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

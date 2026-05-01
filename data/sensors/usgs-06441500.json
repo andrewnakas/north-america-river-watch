@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06441500",
+  "key": "06441500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06441500",
+  "name": "BAD RIVER NEAR FORT PIERRE, SD",
+  "waterbody": "BAD RIVER NEAR FORT PIERRE, SD",
+  "state": "SD",
+  "latitude": 44.32662738,
+  "longitude": -100.3843468,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTPS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bad River (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftps2",
+  "slug": "usgs-06441500",
+  "noaaForecastPath": "data/noaa-forecast/FTPS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

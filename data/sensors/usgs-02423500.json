@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02423500",
+  "key": "02423500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02423500",
+  "name": "CAHABA RIVER NEAR ACTON AL",
+  "waterbody": "CAHABA RIVER NEAR ACTON AL",
+  "state": "AL",
+  "latitude": 33.36344373,
+  "longitude": -86.8130446,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02423500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

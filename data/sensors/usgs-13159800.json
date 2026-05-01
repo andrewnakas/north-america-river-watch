@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13159800",
+  "key": "13159800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13159800",
+  "name": "CANYON CR AT OREGON TRAIL XING NR MOUNTAIN HOME ID",
+  "waterbody": "CANYON CR AT OREGON TRAIL XING NR MOUNTAIN HOME ID",
+  "state": "ID",
+  "latitude": 43.2611111,
+  "longitude": -115.7025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCXI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canyon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccxi1",
+  "slug": "usgs-13159800",
+  "noaaForecastPath": "data/noaa-forecast/CCXI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

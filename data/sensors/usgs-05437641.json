@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05437641",
+  "key": "05437641",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05437641",
+  "name": "ROCK RIVER AT AUBURN ST AT ROCKFORD",
+  "waterbody": "ROCK RIVER AT AUBURN ST AT ROCKFORD",
+  "state": "IL",
+  "latitude": 42.2887333,
+  "longitude": -89.0644111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RABI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rabi2",
+  "slug": "usgs-05437641",
+  "noaaForecastPath": "data/noaa-forecast/RABI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

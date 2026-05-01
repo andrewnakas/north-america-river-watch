@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11273400",
+  "key": "11273400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11273400",
+  "name": "SAN JOAQUIN R AB MERCED R NR NEWMAN CA",
+  "waterbody": "SAN JOAQUIN R AB MERCED R NR NEWMAN CA",
+  "state": "CA",
+  "latitude": 37.34718815,
+  "longitude": -120.9761399,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11273400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

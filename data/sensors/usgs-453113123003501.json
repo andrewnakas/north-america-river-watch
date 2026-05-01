@@ -1,0 +1,22 @@
+{
+  "id": "usgs:453113123003501",
+  "key": "453113123003501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "453113123003501",
+  "name": "DAIRY CREEK AT HWY 8, HILLSBORO, OR",
+  "waterbody": "DAIRY CREEK AT HWY 8, HILLSBORO, OR",
+  "state": "OR",
+  "latitude": 45.52022699,
+  "longitude": -123.0110247,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCHO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dairy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcho3",
+  "slug": "usgs-453113123003501",
+  "noaaForecastPath": "data/noaa-forecast/DCHO3.json",
+  "generatedAt": "2026-05-01T12:10:11.352Z"
+}

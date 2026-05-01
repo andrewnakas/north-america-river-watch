@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11044800",
+  "key": "11044800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11044800",
+  "name": "DE LUZ C NR DE LUZ CA",
+  "waterbody": "DE LUZ C NR DE LUZ CA",
+  "state": "CA",
+  "latitude": 33.41975285,
+  "longitude": -117.3216944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11044800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

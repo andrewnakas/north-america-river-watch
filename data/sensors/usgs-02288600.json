@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02288600",
+  "key": "02288600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02288600",
+  "name": "MIAMI CANAL AT NW36 ST, MIAMI,FL",
+  "waterbody": "MIAMI CANAL AT NW36 ST, MIAMI,FL",
+  "state": "FL",
+  "latitude": 25.80843135,
+  "longitude": -80.2633833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02288600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

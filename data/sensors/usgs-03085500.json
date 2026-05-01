@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03085500",
+  "key": "03085500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03085500",
+  "name": "Chartiers Creek at Carnegie, PA",
+  "waterbody": "Chartiers Creek at Carnegie, PA",
+  "state": "PA",
+  "latitude": 40.4006247,
+  "longitude": -80.0964444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CARP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chartiers Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/carp1",
+  "slug": "usgs-03085500",
+  "noaaForecastPath": "data/noaa-forecast/CARP1.json",
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

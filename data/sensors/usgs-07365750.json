@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07365750",
+  "key": "07365750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07365750",
+  "name": "Bayou D'Arbonne at Hwy 151 E of Dubach, LA",
+  "waterbody": "Bayou D'Arbonne at Hwy 151 E of Dubach, LA",
+  "state": "LA",
+  "latitude": 32.69466667,
+  "longitude": -92.5531111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07365750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

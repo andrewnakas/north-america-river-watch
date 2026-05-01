@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02350512",
+  "key": "02350512",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02350512",
+  "name": "FLINT RIVER AT GA 32, NEAR OAKFIELD, GA",
+  "waterbody": "FLINT RIVER AT GA 32, NEAR OAKFIELD, GA",
+  "state": "GA",
+  "latitude": 31.725,
+  "longitude": -84.0186111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKFG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River (GA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okfg1",
+  "slug": "usgs-02350512",
+  "noaaForecastPath": "data/noaa-forecast/OKFG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

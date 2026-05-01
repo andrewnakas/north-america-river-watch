@@ -1,0 +1,19 @@
+{
+  "id": "usgs:350145106400810",
+  "key": "350145106400810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "350145106400810",
+  "name": "09N.03E.07.123X RBEDSW-T2",
+  "waterbody": "09N.03E.07.123X RBEDSW-T2",
+  "state": "NM",
+  "latitude": 35.0291111,
+  "longitude": -106.6689194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-350145106400810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

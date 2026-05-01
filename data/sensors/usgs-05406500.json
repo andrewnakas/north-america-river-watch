@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05406500",
+  "key": "05406500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05406500",
+  "name": "BLACK EARTH CREEK AT BLACK EARTH, WI",
+  "waterbody": "BLACK EARTH CREEK AT BLACK EARTH, WI",
+  "state": "WI",
+  "latitude": 43.13416667,
+  "longitude": -89.7322222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLEW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Earth Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blew3",
+  "slug": "usgs-05406500",
+  "noaaForecastPath": "data/noaa-forecast/BLEW3.json",
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

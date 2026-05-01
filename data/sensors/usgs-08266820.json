@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08266820",
+  "key": "08266820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08266820",
+  "name": "RED RIVER BELOW FISH HATCHERY, NEAR QUESTA, NM",
+  "waterbody": "RED RIVER BELOW FISH HATCHERY, NEAR QUESTA, NM",
+  "state": "NM",
+  "latitude": 36.68283889,
+  "longitude": -105.65412222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08266820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:014806318",
+  "key": "014806318",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "014806318",
+  "name": "Doe Run above Tributary at Springdell, PA",
+  "waterbody": "Doe Run above Tributary at Springdell, PA",
+  "state": "PA",
+  "latitude": 39.9073296,
+  "longitude": -75.8332776,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-014806318",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

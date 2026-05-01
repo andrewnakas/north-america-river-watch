@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08351500",
+  "key": "08351500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08351500",
+  "name": "RIO SAN JOSE AT CORREO, NM",
+  "waterbody": "RIO SAN JOSE AT CORREO, NM",
+  "state": "NM",
+  "latitude": 34.9681024,
+  "longitude": -107.1869837,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08351500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

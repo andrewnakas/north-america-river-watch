@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01644000",
+  "key": "01644000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644000",
+  "name": "GOOSE CREEK NEAR LEESBURG, VA",
+  "waterbody": "GOOSE CREEK NEAR LEESBURG, VA",
+  "state": "VA",
+  "latitude": 39.01955309,
+  "longitude": -77.5774918,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEEV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/leev2",
+  "slug": "usgs-01644000",
+  "noaaForecastPath": "data/noaa-forecast/LEEV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

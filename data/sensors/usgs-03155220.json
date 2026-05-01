@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03155220",
+  "key": "03155220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03155220",
+  "name": "SOUTH FORK HUGHES RIVER BELOW MACFARLAN, WV",
+  "waterbody": "SOUTH FORK HUGHES RIVER BELOW MACFARLAN, WV",
+  "state": "WV",
+  "latitude": 39.07896905,
+  "longitude": -81.2123373,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCFW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Hughes River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcfw2",
+  "slug": "usgs-03155220",
+  "noaaForecastPath": "data/noaa-forecast/MCFW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

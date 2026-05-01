@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105000",
+  "key": "01105000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105000",
+  "name": "NEPONSET RIVER AT NORWOOD, MA",
+  "waterbody": "NEPONSET RIVER AT NORWOOD, MA",
+  "state": "MA",
+  "latitude": 42.1775987,
+  "longitude": -71.2008863,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NRWM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neponset River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nrwm3",
+  "slug": "usgs-01105000",
+  "noaaForecastPath": "data/noaa-forecast/NRWM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

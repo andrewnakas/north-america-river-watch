@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14163000",
+  "key": "14163000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14163000",
+  "name": "GATE CREEK AT VIDA, OR",
+  "waterbody": "GATE CREEK AT VIDA, OR",
+  "state": "OR",
+  "latitude": 44.1460861,
+  "longitude": -122.5730333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCVO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gate Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcvo3",
+  "slug": "usgs-14163000",
+  "noaaForecastPath": "data/noaa-forecast/GCVO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

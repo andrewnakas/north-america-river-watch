@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05046000",
+  "key": "05046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05046000",
+  "name": "OTTER TAIL RIVER BL ORWELL D NR FERGUS FALLS, MN",
+  "waterbody": "OTTER TAIL RIVER BL ORWELL D NR FERGUS FALLS, MN",
+  "state": "MN",
+  "latitude": 46.214467,
+  "longitude": -96.183734,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OTRM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Otter Tail River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/otrm5",
+  "slug": "usgs-05046000",
+  "noaaForecastPath": "data/noaa-forecast/OTRM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

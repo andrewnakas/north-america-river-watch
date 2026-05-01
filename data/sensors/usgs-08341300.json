@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08341300",
+  "key": "08341300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08341300",
+  "name": "BLUEWATER CR AB BLUEWATER DAM BLUEWTR, NM",
+  "waterbody": "BLUEWATER CR AB BLUEWATER DAM BLUEWTR, NM",
+  "state": "NM",
+  "latitude": 35.26753227,
+  "longitude": -108.1145088,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08341300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06471510",
+  "key": "06471510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06471510",
+  "name": "ELM RIVER NEAR ORDWAY,SD",
+  "waterbody": "ELM RIVER NEAR ORDWAY,SD",
+  "state": "SD",
+  "latitude": 45.5622505,
+  "longitude": -98.412818,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORDS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elm River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ords2",
+  "slug": "usgs-06471510",
+  "noaaForecastPath": "data/noaa-forecast/ORDS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301500",
+  "key": "02301500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301500",
+  "name": "ALAFIA RIVER AT LITHIA PINECREST RD AT LITHIA, FL",
+  "waterbody": "ALAFIA RIVER AT LITHIA PINECREST RD AT LITHIA, FL",
+  "state": "FL",
+  "latitude": 27.872248,
+  "longitude": -82.2112008,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LITF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alafia River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/litf1",
+  "slug": "usgs-02301500",
+  "noaaForecastPath": "data/noaa-forecast/LITF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

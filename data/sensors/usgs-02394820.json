@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02394820",
+  "key": "02394820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02394820",
+  "name": "EUHARLEE CREEK AT US 278, AT ROCKMART, GA",
+  "waterbody": "EUHARLEE CREEK AT US 278, AT ROCKMART, GA",
+  "state": "GA",
+  "latitude": 33.9974722,
+  "longitude": -85.0536944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKMG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Euharlee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkmg1",
+  "slug": "usgs-02394820",
+  "noaaForecastPath": "data/noaa-forecast/RKMG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

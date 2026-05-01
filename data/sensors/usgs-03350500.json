@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03350500",
+  "key": "03350500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03350500",
+  "name": "CICERO CREEK AT NOBLESVILLE, IN",
+  "waterbody": "CICERO CREEK AT NOBLESVILLE, IN",
+  "state": "IN",
+  "latitude": 40.05602778,
+  "longitude": -86.0416111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cicero Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccni3",
+  "slug": "usgs-03350500",
+  "noaaForecastPath": "data/noaa-forecast/CCNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

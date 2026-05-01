@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02337260",
+  "key": "02337260",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02337260",
+  "name": "CHATTAHOOCHEE RIVER ABOVE BEAR CR, NEAR RICO, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER ABOVE BEAR CR, NEAR RICO, GA",
+  "state": "GA",
+  "latitude": 33.61716667,
+  "longitude": -84.7605,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02337260",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

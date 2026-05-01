@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08062575",
+  "key": "08062575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08062575",
+  "name": "Trinity Rv at W Cedar Creek Pkwy nr Rosser, TX",
+  "waterbody": "Trinity Rv at W Cedar Creek Pkwy nr Rosser, TX",
+  "state": "TX",
+  "latitude": 32.31666667,
+  "longitude": -96.3593056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08062575",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

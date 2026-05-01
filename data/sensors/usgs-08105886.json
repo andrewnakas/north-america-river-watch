@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105886",
+  "key": "08105886",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105886",
+  "name": "Lake Ck at Lake Ck Pkwy nr Austin, TX",
+  "waterbody": "Lake Ck at Lake Ck Pkwy nr Austin, TX",
+  "state": "TX",
+  "latitude": 30.46555556,
+  "longitude": -97.7878889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkpt2",
+  "slug": "usgs-08105886",
+  "noaaForecastPath": "data/noaa-forecast/LKPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

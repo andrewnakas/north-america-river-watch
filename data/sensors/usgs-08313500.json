@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313500",
+  "key": "08313500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313500",
+  "name": "COCHITI EAST SIDE MAIN CANAL AT COCHITI, NM",
+  "waterbody": "COCHITI EAST SIDE MAIN CANAL AT COCHITI, NM",
+  "state": "NM",
+  "latitude": 35.617,
+  "longitude": -106.3241667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02421480",
+  "key": "02421480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02421480",
+  "name": "BIG SWAMP CREEK SW OF HAYNEVILLE, AL",
+  "waterbody": "BIG SWAMP CREEK SW OF HAYNEVILLE, AL",
+  "state": "AL",
+  "latitude": 32.16718333,
+  "longitude": -86.5917,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02421480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

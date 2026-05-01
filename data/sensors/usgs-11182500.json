@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11182500",
+  "key": "11182500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11182500",
+  "name": "SAN RAMON C A SAN RAMON CA",
+  "waterbody": "SAN RAMON C A SAN RAMON CA",
+  "state": "CA",
+  "latitude": 37.7729487,
+  "longitude": -121.9946443,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RACC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Ramon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/racc1",
+  "slug": "usgs-11182500",
+  "noaaForecastPath": "data/noaa-forecast/RACC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

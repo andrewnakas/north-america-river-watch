@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536290",
+  "key": "05536290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536290",
+  "name": "LITTLE CALUMET RIVER AT SOUTH HOLLAND, IL",
+  "waterbody": "LITTLE CALUMET RIVER AT SOUTH HOLLAND, IL",
+  "state": "IL",
+  "latitude": 41.60702778,
+  "longitude": -87.5975833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Calumet River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shli2",
+  "slug": "usgs-05536290",
+  "noaaForecastPath": "data/noaa-forecast/SHLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

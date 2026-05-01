@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03345500",
+  "key": "03345500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03345500",
+  "name": "EMBARRAS RIVER AT STE. MARIE, IL",
+  "waterbody": "EMBARRAS RIVER AT STE. MARIE, IL",
+  "state": "IL",
+  "latitude": 38.93669444,
+  "longitude": -88.0223333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Embarras River (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stmi2",
+  "slug": "usgs-03345500",
+  "noaaForecastPath": "data/noaa-forecast/STMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

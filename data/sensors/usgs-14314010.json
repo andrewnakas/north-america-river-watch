@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14314010",
+  "key": "14314010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14314010",
+  "name": "N UMPQUA R AT TOKETEE LAKE INFLOW NR TKTE FALLS,OR",
+  "waterbody": "N UMPQUA R AT TOKETEE LAKE INFLOW NR TKTE FALLS,OR",
+  "state": "OR",
+  "latitude": 43.27151107,
+  "longitude": -122.4064305,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14314010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03209000",
+  "key": "03209000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03209000",
+  "name": "POUND RIVER BELOW FLANNAGAN DAM, NEAR HAYSI, VA",
+  "waterbody": "POUND RIVER BELOW FLANNAGAN DAM, NEAR HAYSI, VA",
+  "state": "VA",
+  "latitude": 37.23705384,
+  "longitude": -82.34320179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HYSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pound River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hysv2",
+  "slug": "usgs-03209000",
+  "noaaForecastPath": "data/noaa-forecast/HYSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

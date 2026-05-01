@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589100",
+  "key": "01589100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589100",
+  "name": "EAST BRANCH HERBERT RUN AT ARBUTUS, MD",
+  "waterbody": "EAST BRANCH HERBERT RUN AT ARBUTUS, MD",
+  "state": "MD",
+  "latitude": 39.24027778,
+  "longitude": -76.69205556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBHM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Herbert Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebhm2",
+  "slug": "usgs-01589100",
+  "noaaForecastPath": "data/noaa-forecast/EBHM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

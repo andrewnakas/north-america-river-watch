@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02301319",
+  "key": "02301319",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301319",
+  "name": "S. PRONG ALAFIA RIVER AT LITHIA NR KEYSVILLE, FL",
+  "waterbody": "S. PRONG ALAFIA RIVER AT LITHIA NR KEYSVILLE, FL",
+  "state": "FL",
+  "latitude": 27.850678,
+  "longitude": -82.115981,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02301319",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

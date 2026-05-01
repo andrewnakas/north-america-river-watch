@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02089500",
+  "key": "02089500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02089500",
+  "name": "NEUSE RIVER AT KINSTON, NC",
+  "waterbody": "NEUSE RIVER AT KINSTON, NC",
+  "state": "NC",
+  "latitude": 35.25777778,
+  "longitude": -77.5855556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KINN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neuse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kinn7",
+  "slug": "usgs-02089500",
+  "noaaForecastPath": "data/noaa-forecast/KINN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

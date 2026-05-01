@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08180990",
+  "key": "08180990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180990",
+  "name": "Leon Ck at IH 10 and Loop 1604 nr San Antonio, TX",
+  "waterbody": "Leon Ck at IH 10 and Loop 1604 nr San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.59305556,
+  "longitude": -98.5991667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcft2",
+  "slug": "usgs-08180990",
+  "noaaForecastPath": "data/noaa-forecast/LCFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

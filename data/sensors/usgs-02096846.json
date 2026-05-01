@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02096846",
+  "key": "02096846",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02096846",
+  "name": "CANE CREEK NEAR ORANGE GROVE, NC",
+  "waterbody": "CANE CREEK NEAR ORANGE GROVE, NC",
+  "state": "NC",
+  "latitude": 35.9872222,
+  "longitude": -79.2061111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CANN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cane Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cann7",
+  "slug": "usgs-02096846",
+  "noaaForecastPath": "data/noaa-forecast/CANN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

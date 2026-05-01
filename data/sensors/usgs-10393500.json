@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10393500",
+  "key": "10393500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10393500",
+  "name": "SILVIES RIVER NEAR BURNS, OR",
+  "waterbody": "SILVIES RIVER NEAR BURNS, OR",
+  "state": "OR",
+  "latitude": 43.7151478,
+  "longitude": -119.177442,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Silvies River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/buso3",
+  "slug": "usgs-10393500",
+  "noaaForecastPath": "data/noaa-forecast/BUSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

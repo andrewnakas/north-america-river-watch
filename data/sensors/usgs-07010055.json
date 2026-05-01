@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010055",
+  "key": "07010055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010055",
+  "name": "Deer Creek at Litzinger Road at Ladue, MO",
+  "waterbody": "Deer Creek at Litzinger Road at Ladue, MO",
+  "state": "MO",
+  "latitude": 38.6223722,
+  "longitude": -90.3751639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010055",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

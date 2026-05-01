@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08045850",
+  "key": "08045850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08045850",
+  "name": "Clear Fk Trinity Rv nr Weatherford, TX",
+  "waterbody": "Clear Fk Trinity Rv nr Weatherford, TX",
+  "state": "TX",
+  "latitude": 32.74040699,
+  "longitude": -97.6519711,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WEAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Fork Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/weat2",
+  "slug": "usgs-08045850",
+  "noaaForecastPath": "data/noaa-forecast/WEAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

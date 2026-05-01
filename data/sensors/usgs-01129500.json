@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01129500",
+  "key": "01129500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01129500",
+  "name": "CONNECTICUT RIVER AT NORTH STRATFORD, NH",
+  "waterbody": "CONNECTICUT RIVER AT NORTH STRATFORD, NH",
+  "state": "NH",
+  "latitude": 44.74977166,
+  "longitude": -71.63120018,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSTN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nstn3",
+  "slug": "usgs-01129500",
+  "noaaForecastPath": "data/noaa-forecast/NSTN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

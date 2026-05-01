@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03092000",
+  "key": "03092000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03092000",
+  "name": "Kale Creek near Pricetown OH",
+  "waterbody": "Kale Creek near Pricetown OH",
+  "state": "OH",
+  "latitude": 41.1397793,
+  "longitude": -80.995092,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03092000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

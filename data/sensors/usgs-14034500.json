@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14034500",
+  "key": "14034500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14034500",
+  "name": "WILLOW CREEK AT HEPPNER, OR",
+  "waterbody": "WILLOW CREEK AT HEPPNER, OR",
+  "state": "OR",
+  "latitude": 45.3504062,
+  "longitude": -119.5500218,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14034500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

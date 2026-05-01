@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03182970",
+  "key": "03182970",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03182970",
+  "name": "GREENBRIER RIVER AT RONCEVERTE, WV",
+  "waterbody": "GREENBRIER RIVER AT RONCEVERTE, WV",
+  "state": "WV",
+  "latitude": 37.74488889,
+  "longitude": -80.4685556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RONW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greenbrier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ronw2",
+  "slug": "usgs-03182970",
+  "noaaForecastPath": "data/noaa-forecast/RONW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

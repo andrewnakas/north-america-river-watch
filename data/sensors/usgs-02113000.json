@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02113000",
+  "key": "02113000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02113000",
+  "name": "FISHER RIVER NEAR COPELAND, NC",
+  "waterbody": "FISHER RIVER NEAR COPELAND, NC",
+  "state": "NC",
+  "latitude": 36.3411111,
+  "longitude": -80.6858333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02113000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

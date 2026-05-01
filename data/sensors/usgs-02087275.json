@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02087275",
+  "key": "02087275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02087275",
+  "name": "CRABTREE CREEK AT HWY 70 AT RALEIGH, NC",
+  "waterbody": "CRABTREE CREEK AT HWY 70 AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.83805556,
+  "longitude": -78.6741667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crabtree Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rlhn7",
+  "slug": "usgs-02087275",
+  "noaaForecastPath": "data/noaa-forecast/RLHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

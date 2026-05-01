@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05290000",
+  "key": "05290000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05290000",
+  "name": "LITTLE MINNESOTA RIVER NEAR PEEVER, SD",
+  "waterbody": "LITTLE MINNESOTA RIVER NEAR PEEVER, SD",
+  "state": "SD",
+  "latitude": 45.6159585,
+  "longitude": -96.875549,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PVRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Minnesota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pvrs2",
+  "slug": "usgs-05290000",
+  "noaaForecastPath": "data/noaa-forecast/PVRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

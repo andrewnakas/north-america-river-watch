@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03302500",
+  "key": "03302500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302500",
+  "name": "INDIAN CREEK AT SR 335 NEAR CORYDON IN",
+  "waterbody": "INDIAN CREEK AT SR 335 NEAR CORYDON IN",
+  "state": "IN",
+  "latitude": 38.27644454,
+  "longitude": -86.1096894,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03302500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

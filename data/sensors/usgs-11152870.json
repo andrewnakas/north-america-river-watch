@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11152870",
+  "key": "11152870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11152870",
+  "name": "NF PACHECO C BLW PACHECO RES NR BELL STATION CA",
+  "waterbody": "NF PACHECO C BLW PACHECO RES NR BELL STATION CA",
+  "state": "CA",
+  "latitude": 37.0494722,
+  "longitude": -121.2910833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pacheco Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbpc1",
+  "slug": "usgs-11152870",
+  "noaaForecastPath": "data/noaa-forecast/PBPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

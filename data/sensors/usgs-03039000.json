@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03039000",
+  "key": "03039000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03039000",
+  "name": "Crooked Creek at Crooked Creek Dam near Ford City",
+  "waterbody": "Crooked Creek at Crooked Creek Dam near Ford City",
+  "state": "PA",
+  "latitude": 40.7203422,
+  "longitude": -79.5114332,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crcp1",
+  "slug": "usgs-03039000",
+  "noaaForecastPath": "data/noaa-forecast/CRCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

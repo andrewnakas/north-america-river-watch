@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02396000",
+  "key": "02396000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02396000",
+  "name": "ETOWAH RIVER AT ROME, GA.",
+  "waterbody": "ETOWAH RIVER AT ROME, GA.",
+  "state": "GA",
+  "latitude": 34.25731583,
+  "longitude": -85.1582835,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02396000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

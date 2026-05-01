@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04024430",
+  "key": "04024430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04024430",
+  "name": "NEMADJI RIVER NEAR SOUTH SUPERIOR, WI",
+  "waterbody": "NEMADJI RIVER NEAR SOUTH SUPERIOR, WI",
+  "state": "WI",
+  "latitude": 46.6333333,
+  "longitude": -92.0938889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nemadji River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sosw3",
+  "slug": "usgs-04024430",
+  "noaaForecastPath": "data/noaa-forecast/SOSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

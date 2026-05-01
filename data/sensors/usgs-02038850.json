@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02038850",
+  "key": "02038850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02038850",
+  "name": "HOLIDAY CREEK NEAR ANDERSONVILLE, VA",
+  "waterbody": "HOLIDAY CREEK NEAR ANDERSONVILLE, VA",
+  "state": "VA",
+  "latitude": 37.41542434,
+  "longitude": -78.6358392,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Holiday Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlcv2",
+  "slug": "usgs-02038850",
+  "noaaForecastPath": "data/noaa-forecast/HLCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09288180",
+  "key": "09288180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09288180",
+  "name": "STRAWBERRY RIVER NEAR DUCHESNE, UT",
+  "waterbody": "STRAWBERRY RIVER NEAR DUCHESNE, UT",
+  "state": "UT",
+  "latitude": 40.1546793,
+  "longitude": -110.5548785,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCHU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Strawberry River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dchu1",
+  "slug": "usgs-09288180",
+  "noaaForecastPath": "data/noaa-forecast/DCHU1.json",
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

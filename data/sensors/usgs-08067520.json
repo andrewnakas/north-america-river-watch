@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08067520",
+  "key": "08067520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067520",
+  "name": "Goose Ck nr McNair, TX",
+  "waterbody": "Goose Ck nr McNair, TX",
+  "state": "TX",
+  "latitude": 29.8014972,
+  "longitude": -95.0047444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GMKT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gmkt2",
+  "slug": "usgs-08067520",
+  "noaaForecastPath": "data/noaa-forecast/GMKT2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

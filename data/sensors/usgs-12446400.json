@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12446400",
+  "key": "12446400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12446400",
+  "name": "WEST FORK SALMON CREEK NEAR CONCONULLY, WA",
+  "waterbody": "WEST FORK SALMON CREEK NEAR CONCONULLY, WA",
+  "state": "WA",
+  "latitude": 48.5409324,
+  "longitude": -119.7642185,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCCW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Salmon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sccw1",
+  "slug": "usgs-12446400",
+  "noaaForecastPath": "data/noaa-forecast/SCCW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05497000",
+  "key": "05497000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05497000",
+  "name": "North Fabius River at Monticello, MO",
+  "waterbody": "North Fabius River at Monticello, MO",
+  "state": "MO",
+  "latitude": 40.10816667,
+  "longitude": -91.7145833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05497000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

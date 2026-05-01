@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04288225",
+  "key": "04288225",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04288225",
+  "name": "W BRANCH LITTLE R ABV BINGHAM FALLS NEAR STOWE, VT",
+  "waterbody": "W BRANCH LITTLE R ABV BINGHAM FALLS NEAR STOWE, VT",
+  "state": "VT",
+  "latitude": 44.52338556,
+  "longitude": -72.7717885,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMFV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bingham Falls",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmfv1",
+  "slug": "usgs-04288225",
+  "noaaForecastPath": "data/noaa-forecast/BMFV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

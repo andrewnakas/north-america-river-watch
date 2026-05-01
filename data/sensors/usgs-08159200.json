@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08159200",
+  "key": "08159200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08159200",
+  "name": "Colorado Rv at Bastrop, TX",
+  "waterbody": "Colorado Rv at Bastrop, TX",
+  "state": "TX",
+  "latitude": 30.10466154,
+  "longitude": -97.3194368,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brtt2",
+  "slug": "usgs-08159200",
+  "noaaForecastPath": "data/noaa-forecast/BRTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

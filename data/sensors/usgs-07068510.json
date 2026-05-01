@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07068510",
+  "key": "07068510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07068510",
+  "name": "Little Black River below Fairdealing, MO",
+  "waterbody": "Little Black River below Fairdealing, MO",
+  "state": "MO",
+  "latitude": 36.63152778,
+  "longitude": -90.5755833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBFM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Black River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lbfm7",
+  "slug": "usgs-07068510",
+  "noaaForecastPath": "data/noaa-forecast/LBFM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

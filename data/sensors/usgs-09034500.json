@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09034500",
+  "key": "09034500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09034500",
+  "name": "COLORADO RIVER AT HOT SULPHUR SPRINGS, CO.",
+  "waterbody": "COLORADO RIVER AT HOT SULPHUR SPRINGS, CO.",
+  "state": "CO",
+  "latitude": 40.08331887,
+  "longitude": -106.0880765,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTSC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htsc2",
+  "slug": "usgs-09034500",
+  "noaaForecastPath": "data/noaa-forecast/HTSC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

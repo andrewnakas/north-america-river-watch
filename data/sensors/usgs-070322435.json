@@ -1,0 +1,22 @@
+{
+  "id": "usgs:070322435",
+  "key": "070322435",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "070322435",
+  "name": "NONCONNAH CREEK AT FARRISVIEW RD AT MEMPHIS, TN",
+  "waterbody": "NONCONNAH CREEK AT FARRISVIEW RD AT MEMPHIS, TN",
+  "state": "TN",
+  "latitude": 35.07638889,
+  "longitude": -89.9541667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRST1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nonconnah Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frst1",
+  "slug": "usgs-070322435",
+  "noaaForecastPath": "data/noaa-forecast/FRST1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

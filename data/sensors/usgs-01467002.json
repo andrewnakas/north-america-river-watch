@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01467002",
+  "key": "01467002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01467002",
+  "name": "NB Rancocas C at Birmingham NJ",
+  "waterbody": "NB Rancocas C at Birmingham NJ",
+  "state": "NJ",
+  "latitude": 39.97888889,
+  "longitude": -74.7097222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01467002",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

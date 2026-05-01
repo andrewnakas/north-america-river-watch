@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12048650",
+  "key": "12048650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12048650",
+  "name": "DUNGENESS RIVER AT RR BRIDGE NEAR SEQUIM, WA",
+  "waterbody": "DUNGENESS RIVER AT RR BRIDGE NEAR SEQUIM, WA",
+  "state": "WA",
+  "latitude": 48.0853699,
+  "longitude": -123.1476782,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12048650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

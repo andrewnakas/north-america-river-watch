@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105888",
+  "key": "08105888",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105888",
+  "name": "Brushy Ck at Kenney Fort Blvd at Round Rock, TX",
+  "waterbody": "Brushy Ck at Kenney Fort Blvd at Round Rock, TX",
+  "state": "TX",
+  "latitude": 30.51239444,
+  "longitude": -97.6366722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkft2",
+  "slug": "usgs-08105888",
+  "noaaForecastPath": "data/noaa-forecast/BKFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

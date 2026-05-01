@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02186000",
+  "key": "02186000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02186000",
+  "name": "TWELVEMILE CREEK NEAR LIBERTY, SC",
+  "waterbody": "TWELVEMILE CREEK NEAR LIBERTY, SC",
+  "state": "SC",
+  "latitude": 34.8015056,
+  "longitude": -82.7484771,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LIBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twelve mile creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/libs1",
+  "slug": "usgs-02186000",
+  "noaaForecastPath": "data/noaa-forecast/LIBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08188600",
+  "key": "08188600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08188600",
+  "name": "GBRA Calhoun Canal Pump Sta nr Long Mott, TX",
+  "waterbody": "GBRA Calhoun Canal Pump Sta nr Long Mott, TX",
+  "state": "TX",
+  "latitude": 28.496667,
+  "longitude": -96.7710941,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08188600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

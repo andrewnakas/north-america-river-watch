@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08051135",
+  "key": "08051135",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08051135",
+  "name": "Elm Fk Trinity Rv at Greenbelt nr Pilot Point, TX",
+  "waterbody": "Elm Fk Trinity Rv at Greenbelt nr Pilot Point, TX",
+  "state": "TX",
+  "latitude": 33.3497222,
+  "longitude": -97.0355556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Texas Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrlt2",
+  "slug": "usgs-08051135",
+  "noaaForecastPath": "data/noaa-forecast/RRLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

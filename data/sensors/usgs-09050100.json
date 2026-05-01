@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09050100",
+  "key": "09050100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09050100",
+  "name": "TENMILE CREEK BL NORTH TENMILE C, AT FRISCO, CO.",
+  "waterbody": "TENMILE CREEK BL NORTH TENMILE C, AT FRISCO, CO.",
+  "state": "CO",
+  "latitude": 39.57526424,
+  "longitude": -106.1105765,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCFC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenmile Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcfc2",
+  "slug": "usgs-09050100",
+  "noaaForecastPath": "data/noaa-forecast/TCFC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08188500",
+  "key": "08188500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08188500",
+  "name": "San Antonio Rv at Goliad, TX",
+  "waterbody": "San Antonio Rv at Goliad, TX",
+  "state": "TX",
+  "latitude": 28.6492861,
+  "longitude": -97.3848583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Antonio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glit2",
+  "slug": "usgs-08188500",
+  "noaaForecastPath": "data/noaa-forecast/GLIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

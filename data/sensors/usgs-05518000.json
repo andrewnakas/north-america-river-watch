@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05518000",
+  "key": "05518000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05518000",
+  "name": "KANKAKEE RIVER AT SHELBY, IN",
+  "waterbody": "KANKAKEE RIVER AT SHELBY, IN",
+  "state": "IN",
+  "latitude": 41.1828134,
+  "longitude": -87.3403096,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLBI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kankakee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slbi3",
+  "slug": "usgs-05518000",
+  "noaaForecastPath": "data/noaa-forecast/SLBI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

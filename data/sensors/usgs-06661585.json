@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06661585",
+  "key": "06661585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06661585",
+  "name": "LARAMIE RIVER NEAR BOSLER, WY",
+  "waterbody": "LARAMIE RIVER NEAR BOSLER, WY",
+  "state": "WY",
+  "latitude": 41.5546769,
+  "longitude": -105.6833853,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Laramie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bosw4",
+  "slug": "usgs-06661585",
+  "noaaForecastPath": "data/noaa-forecast/BOSW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

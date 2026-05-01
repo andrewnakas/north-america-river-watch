@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01017960",
+  "key": "01017960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01017960",
+  "name": "Meduxnekeag R above S Br Medux. R nr Houlton, ME",
+  "waterbody": "Meduxnekeag R above S Br Medux. R nr Houlton, ME",
+  "state": "ME",
+  "latitude": 46.105,
+  "longitude": -67.88138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MXKM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meduxnekeag River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mxkm1",
+  "slug": "usgs-01017960",
+  "noaaForecastPath": "data/noaa-forecast/MXKM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

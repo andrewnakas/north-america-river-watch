@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07050680",
+  "key": "07050680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07050680",
+  "name": "Jones Branch near Springfield, MO",
+  "waterbody": "Jones Branch near Springfield, MO",
+  "state": "MO",
+  "latitude": 37.1867153,
+  "longitude": -93.2015731,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07050680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

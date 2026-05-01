@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04201515",
+  "key": "04201515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04201515",
+  "name": "Abram Creek at Brook Park OH",
+  "waterbody": "Abram Creek at Brook Park OH",
+  "state": "OH",
+  "latitude": 41.38916667,
+  "longitude": -81.8355556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRPO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Abram Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brpo1",
+  "slug": "usgs-04201515",
+  "noaaForecastPath": "data/noaa-forecast/BRPO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

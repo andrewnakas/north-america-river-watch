@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06892360",
+  "key": "06892360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06892360",
+  "name": "KILL C AT 95TH ST NR DESOTO, KS",
+  "waterbody": "KILL C AT 95TH ST NR DESOTO, KS",
+  "state": "KS",
+  "latitude": 38.95666667,
+  "longitude": -94.9736111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06892360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

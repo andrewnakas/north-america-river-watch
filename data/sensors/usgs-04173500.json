@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04173500",
+  "key": "04173500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04173500",
+  "name": "MILL CREEK NEAR DEXTER, MI",
+  "waterbody": "MILL CREEK NEAR DEXTER, MI",
+  "state": "MI",
+  "latitude": 42.30028711,
+  "longitude": -83.89822356,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEXM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dexm4",
+  "slug": "usgs-04173500",
+  "noaaForecastPath": "data/noaa-forecast/DEXM4.json",
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

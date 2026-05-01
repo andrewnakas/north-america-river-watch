@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11136800",
+  "key": "11136800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11136800",
+  "name": "CUYAMA R BL BUCKHORN CYN NR SANTA MARIA CA",
+  "waterbody": "CUYAMA R BL BUCKHORN CYN NR SANTA MARIA CA",
+  "state": "CA",
+  "latitude": 35.02191265,
+  "longitude": -120.2284528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cuyama River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cybc1",
+  "slug": "usgs-11136800",
+  "noaaForecastPath": "data/noaa-forecast/CYBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50070500",
+  "key": "50070500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50070500",
+  "name": "RIO FAJARDO ABV FAJARDO, PR",
+  "waterbody": "RIO FAJARDO ABV FAJARDO, PR",
+  "state": "PR",
+  "latitude": 18.27051105,
+  "longitude": -65.72127318,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50070500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

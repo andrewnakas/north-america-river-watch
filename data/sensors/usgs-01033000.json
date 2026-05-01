@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01033000",
+  "key": "01033000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01033000",
+  "name": "Sebec River at Sebec, Maine",
+  "waterbody": "Sebec River at Sebec, Maine",
+  "state": "ME",
+  "latitude": 45.27,
+  "longitude": -69.1122222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SECM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sebec River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/secm1",
+  "slug": "usgs-01033000",
+  "noaaForecastPath": "data/noaa-forecast/SECM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

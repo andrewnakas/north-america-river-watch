@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06464500",
+  "key": "06464500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06464500",
+  "name": "KEYA PAHA RIVER AT WEWELA,SD",
+  "waterbody": "KEYA PAHA RIVER AT WEWELA,SD",
+  "state": "SD",
+  "latitude": 43.0270872,
+  "longitude": -99.780921,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WEWS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Keyapaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wews2",
+  "slug": "usgs-06464500",
+  "noaaForecastPath": "data/noaa-forecast/WEWS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

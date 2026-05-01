@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10343500",
+  "key": "10343500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10343500",
+  "name": "SAGEHEN C NR TRUCKEE CA",
+  "waterbody": "SAGEHEN C NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.43154577,
+  "longitude": -120.2379547,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGNC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sagehen Creek nr Truckee",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgnc1",
+  "slug": "usgs-10343500",
+  "noaaForecastPath": "data/noaa-forecast/SGNC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

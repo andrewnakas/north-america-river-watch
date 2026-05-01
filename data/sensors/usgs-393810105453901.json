@@ -1,0 +1,19 @@
+{
+  "id": "usgs:393810105453901",
+  "key": "393810105453901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "393810105453901",
+  "name": "LC-1137-S T2 LEAVENWORTH CK 1137M DS FR INJ",
+  "waterbody": "LC-1137-S T2 LEAVENWORTH CK 1137M DS FR INJ",
+  "state": "CO",
+  "latitude": 39.6361111,
+  "longitude": -105.7607472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-393810105453901",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

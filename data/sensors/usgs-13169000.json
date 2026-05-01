@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13169000",
+  "key": "13169000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13169000",
+  "name": "BUCKAROO DITCH AT HOT SPRINGS NR BRUNEAU ID",
+  "waterbody": "BUCKAROO DITCH AT HOT SPRINGS NR BRUNEAU ID",
+  "state": "ID",
+  "latitude": 42.79138889,
+  "longitude": -115.7177778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13169000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

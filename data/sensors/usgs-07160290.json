@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07160290",
+  "key": "07160290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07160290",
+  "name": "North Boggy Creek at Garriott Rd at Enid, OK",
+  "waterbody": "North Boggy Creek at Garriott Rd at Enid, OK",
+  "state": "OK",
+  "latitude": 36.3906333,
+  "longitude": -97.8683556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENBO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Boggy Creek (N OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/enbo2",
+  "slug": "usgs-07160290",
+  "noaaForecastPath": "data/noaa-forecast/ENBO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

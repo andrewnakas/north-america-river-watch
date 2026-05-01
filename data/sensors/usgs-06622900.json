@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06622900",
+  "key": "06622900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06622900",
+  "name": "SOUTH BRUSH CREEK NEAR SARATOGA, WY",
+  "waterbody": "SOUTH BRUSH CREEK NEAR SARATOGA, WY",
+  "state": "WY",
+  "latitude": 41.3438411,
+  "longitude": -106.5264653,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06622900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

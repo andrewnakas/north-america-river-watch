@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01184490",
+  "key": "01184490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01184490",
+  "name": "BROAD BROOK AT BROAD BROOK, CT",
+  "waterbody": "BROAD BROOK AT BROAD BROOK, CT",
+  "state": "CT",
+  "latitude": 41.91389722,
+  "longitude": -72.5497,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BROC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broad Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/broc3",
+  "slug": "usgs-01184490",
+  "noaaForecastPath": "data/noaa-forecast/BROC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

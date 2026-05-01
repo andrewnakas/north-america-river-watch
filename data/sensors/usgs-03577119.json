@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03577119",
+  "key": "03577119",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03577119",
+  "name": "FLINT CREEK AT RED BANK RD SE NR DECATUR, AL",
+  "waterbody": "FLINT CREEK AT RED BANK RD SE NR DECATUR, AL",
+  "state": "AL",
+  "latitude": 34.5061111,
+  "longitude": -86.9561111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03577119",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

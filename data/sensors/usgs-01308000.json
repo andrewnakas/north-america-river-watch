@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01308000",
+  "key": "01308000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01308000",
+  "name": "SAMPAWAMS CREEK AT BABYLON NY",
+  "waterbody": "SAMPAWAMS CREEK AT BABYLON NY",
+  "state": "NY",
+  "latitude": 40.704361,
+  "longitude": -73.313639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01308000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09062600",
+  "key": "09062600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09062600",
+  "name": "RESOLUTION CREEK AT CAMP HALE NEAR RED CLIFF, CO",
+  "waterbody": "RESOLUTION CREEK AT CAMP HALE NEAR RED CLIFF, CO",
+  "state": "CO",
+  "latitude": 39.4478361,
+  "longitude": -106.3192167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RELC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Resolution Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/relc2",
+  "slug": "usgs-09062600",
+  "noaaForecastPath": "data/noaa-forecast/RELC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

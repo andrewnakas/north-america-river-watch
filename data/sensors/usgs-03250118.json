@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03250118",
+  "key": "03250118",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03250118",
+  "name": "SALT LICK AT HWY 60 AT SALT LICK, KY",
+  "waterbody": "SALT LICK AT HWY 60 AT SALT LICK, KY",
+  "state": "KY",
+  "latitude": 38.1213611,
+  "longitude": -83.6159694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03250118",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01354330",
+  "key": "01354330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01354330",
+  "name": "MOHAWK RIVER AT LOCK 8 NEAR SCHENECTADY NY",
+  "waterbody": "MOHAWK RIVER AT LOCK 8 NEAR SCHENECTADY NY",
+  "state": "NY",
+  "latitude": 42.82801389,
+  "longitude": -73.9907,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01354330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

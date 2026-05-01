@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15129000",
+  "key": "15129000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15129000",
+  "name": "ALSEK R NR YAKUTAT AK",
+  "waterbody": "ALSEK R NR YAKUTAT AK",
+  "state": "AK",
+  "latitude": 59.395,
+  "longitude": -138.081944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alsek River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alka2",
+  "slug": "usgs-15129000",
+  "noaaForecastPath": "data/noaa-forecast/ALKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

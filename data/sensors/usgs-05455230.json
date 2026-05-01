@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05455230",
+  "key": "05455230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05455230",
+  "name": "Deep River at Deep River, IA",
+  "waterbody": "Deep River at Deep River, IA",
+  "state": "IA",
+  "latitude": 41.59139226,
+  "longitude": -92.3551841,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEPI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/depi4",
+  "slug": "usgs-05455230",
+  "noaaForecastPath": "data/noaa-forecast/DEPI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

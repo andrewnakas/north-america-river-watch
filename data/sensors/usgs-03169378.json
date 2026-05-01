@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03169378",
+  "key": "03169378",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03169378",
+  "name": "LITTLE RIVER AT WHITE OAK GROVE RD NEAR RINER, VA",
+  "waterbody": "LITTLE RIVER AT WHITE OAK GROVE RD NEAR RINER, VA",
+  "state": "VA",
+  "latitude": 37.01461111,
+  "longitude": -80.40463889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03169378",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

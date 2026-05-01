@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02021549",
+  "key": "02021549",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02021549",
+  "name": "MOFFATTS CREEK NEAR RAPHINE, VA",
+  "waterbody": "MOFFATTS CREEK NEAR RAPHINE, VA",
+  "state": "VA",
+  "latitude": 37.9612222,
+  "longitude": -79.3074722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02021549",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

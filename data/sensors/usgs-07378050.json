@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07378050",
+  "key": "07378050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07378050",
+  "name": "Comite R. at Greenwell Spg Rd near Baton Rouge, LA",
+  "waterbody": "Comite R. at Greenwell Spg Rd near Baton Rouge, LA",
+  "state": "LA",
+  "latitude": 30.50574466,
+  "longitude": -91.0401038,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSRL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Comite River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gsrl1",
+  "slug": "usgs-07378050",
+  "noaaForecastPath": "data/noaa-forecast/GSRL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

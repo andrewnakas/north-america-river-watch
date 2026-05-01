@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10046000",
+  "key": "10046000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10046000",
+  "name": "RAINBOW INLET CANAL NEAR DINGLE, ID",
+  "waterbody": "RAINBOW INLET CANAL NEAR DINGLE, ID",
+  "state": "ID",
+  "latitude": 42.22992858,
+  "longitude": -111.2960363,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10046000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

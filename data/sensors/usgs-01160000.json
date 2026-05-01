@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01160000",
+  "key": "01160000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01160000",
+  "name": "S BR ASHUELOT RIVER AT WEBB, NR MARLBOROUGH, NH",
+  "waterbody": "S BR ASHUELOT RIVER AT WEBB, NR MARLBOROUGH, NH",
+  "state": "NH",
+  "latitude": 42.8720265,
+  "longitude": -72.2136952,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01160000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

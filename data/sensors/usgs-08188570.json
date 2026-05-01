@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08188570",
+  "key": "08188570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08188570",
+  "name": "San Antonio Rv nr McFaddin, TX",
+  "waterbody": "San Antonio Rv nr McFaddin, TX",
+  "state": "TX",
+  "latitude": 28.53125,
+  "longitude": -97.0426944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Antonio River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfnt2",
+  "slug": "usgs-08188570",
+  "noaaForecastPath": "data/noaa-forecast/MFNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

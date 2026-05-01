@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15286000",
+  "key": "15286000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15286000",
+  "name": "COTTONWOOD C NR WASILLA AK",
+  "waterbody": "COTTONWOOD C NR WASILLA AK",
+  "state": "AK",
+  "latitude": 61.5744617,
+  "longitude": -149.4119428,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15286000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

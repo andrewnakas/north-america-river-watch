@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03453000",
+  "key": "03453000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03453000",
+  "name": "IVY RIVER NEAR MARSHALL, NC",
+  "waterbody": "IVY RIVER NEAR MARSHALL, NC",
+  "state": "NC",
+  "latitude": 35.7697222,
+  "longitude": -82.6208333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IVYN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ivy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ivyn7",
+  "slug": "usgs-03453000",
+  "noaaForecastPath": "data/noaa-forecast/IVYN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

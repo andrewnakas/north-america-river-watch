@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479490",
+  "key": "06479490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479490",
+  "name": "MUD CREEK NEAR RAUVILLE, SD",
+  "waterbody": "MUD CREEK NEAR RAUVILLE, SD",
+  "state": "SD",
+  "latitude": 45.0081867,
+  "longitude": -97.1062133,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RAUS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/raus2",
+  "slug": "usgs-06479490",
+  "noaaForecastPath": "data/noaa-forecast/RAUS2.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

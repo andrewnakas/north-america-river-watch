@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09404107",
+  "key": "09404107",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404107",
+  "name": "CATARACT CREEK BELOW HEATHER WASH NEAR SUPAI, AZ",
+  "waterbody": "CATARACT CREEK BELOW HEATHER WASH NEAR SUPAI, AZ",
+  "state": "AZ",
+  "latitude": 36.04,
+  "longitude": -112.5466667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCHA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cataract Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccha3",
+  "slug": "usgs-09404107",
+  "noaaForecastPath": "data/noaa-forecast/CCHA3.json",
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

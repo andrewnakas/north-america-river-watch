@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13068501",
+  "key": "13068501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13068501",
+  "name": "BLACKFOOT RIVER AND BYPASS CHANNEL NR BLACKFOOT ID",
+  "waterbody": "BLACKFOOT RIVER AND BYPASS CHANNEL NR BLACKFOOT ID",
+  "state": "ID",
+  "latitude": 43.13047008,
+  "longitude": -112.4772036,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13068501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

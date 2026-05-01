@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08068025",
+  "key": "08068025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068025",
+  "name": "Crystal Ck at FM 1314 nr Conroe, TX",
+  "waterbody": "Crystal Ck at FM 1314 nr Conroe, TX",
+  "state": "TX",
+  "latitude": 30.2413861,
+  "longitude": -95.3829806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crystal Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cyst2",
+  "slug": "usgs-08068025",
+  "noaaForecastPath": "data/noaa-forecast/CYST2.json",
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

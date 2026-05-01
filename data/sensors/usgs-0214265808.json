@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214265808",
+  "key": "0214265808",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214265808",
+  "name": "TORRENCE CR AT BRADFORD HILL LN NR HUNTERSVLLE, NC",
+  "waterbody": "TORRENCE CR AT BRADFORD HILL LN NR HUNTERSVLLE, NC",
+  "state": "NC",
+  "latitude": 35.4036111,
+  "longitude": -80.8827778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TORN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Torrence Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/torn7",
+  "slug": "usgs-0214265808",
+  "noaaForecastPath": "data/noaa-forecast/TORN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

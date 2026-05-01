@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08063048",
+  "key": "08063048",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08063048",
+  "name": "White Rk Ck at FM 308 nr Irene, TX",
+  "waterbody": "White Rk Ck at FM 308 nr Irene, TX",
+  "state": "TX",
+  "latitude": 31.97805556,
+  "longitude": -96.8733333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08063048",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

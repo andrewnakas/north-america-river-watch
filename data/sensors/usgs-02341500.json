@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02341500",
+  "key": "02341500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02341500",
+  "name": "CHATTAHOOCHEE RIVER AT COLUMBUS, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER AT COLUMBUS, GA",
+  "state": "GA",
+  "latitude": 32.4626431,
+  "longitude": -84.9977096,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02341500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10350000",
+  "key": "10350000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10350000",
+  "name": "TRUCKEE RV AT VISTA, NV",
+  "waterbody": "TRUCKEE RV AT VISTA, NV",
+  "state": "NV",
+  "latitude": 39.5204672,
+  "longitude": -119.7010198,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VISN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/visn2",
+  "slug": "usgs-10350000",
+  "noaaForecastPath": "data/noaa-forecast/VISN2.json",
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

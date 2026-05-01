@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06800500",
+  "key": "06800500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06800500",
+  "name": "Elkhorn River at Waterloo, Nebr.",
+  "waterbody": "Elkhorn River at Waterloo, Nebr.",
+  "state": "NE",
+  "latitude": 41.293333,
+  "longitude": -96.283889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTRN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhorn River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtrn1",
+  "slug": "usgs-06800500",
+  "noaaForecastPath": "data/noaa-forecast/WTRN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

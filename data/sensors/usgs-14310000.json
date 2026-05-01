@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14310000",
+  "key": "14310000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14310000",
+  "name": "COW CREEK NEAR RIDDLE, OR",
+  "waterbody": "COW CREEK NEAR RIDDLE, OR",
+  "state": "OR",
+  "latitude": 42.9234502,
+  "longitude": -123.428957,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdlo3",
+  "slug": "usgs-14310000",
+  "noaaForecastPath": "data/noaa-forecast/RDLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

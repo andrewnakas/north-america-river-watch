@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01015800",
+  "key": "01015800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01015800",
+  "name": "Aroostook River near Masardis, Maine",
+  "waterbody": "Aroostook River near Masardis, Maine",
+  "state": "ME",
+  "latitude": 46.52305556,
+  "longitude": -68.3716667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MASM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aroostook River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/masm1",
+  "slug": "usgs-01015800",
+  "noaaForecastPath": "data/noaa-forecast/MASM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

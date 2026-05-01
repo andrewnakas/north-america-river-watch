@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01098530",
+  "key": "01098530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01098530",
+  "name": "SUDBURY RIVER AT SAXONVILLE, MA",
+  "waterbody": "SUDBURY RIVER AT SAXONVILLE, MA",
+  "state": "MA",
+  "latitude": 42.3253732,
+  "longitude": -71.3975605,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAXM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sudbury River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saxm3",
+  "slug": "usgs-01098530",
+  "noaaForecastPath": "data/noaa-forecast/SAXM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

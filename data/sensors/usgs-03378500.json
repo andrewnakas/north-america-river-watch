@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03378500",
+  "key": "03378500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03378500",
+  "name": "WABASH RIVER AT NEW HARMONY, IN",
+  "waterbody": "WABASH RIVER AT NEW HARMONY, IN",
+  "state": "IN",
+  "latitude": 38.13089124,
+  "longitude": -87.9414145,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NHRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nhri3",
+  "slug": "usgs-03378500",
+  "noaaForecastPath": "data/noaa-forecast/NHRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

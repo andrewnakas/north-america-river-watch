@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03311600",
+  "key": "03311600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03311600",
+  "name": "BEAVERDAM CREEK AT RHODA, KY",
+  "waterbody": "BEAVERDAM CREEK AT RHODA, KY",
+  "state": "KY",
+  "latitude": 37.15504679,
+  "longitude": -86.2263668,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03311600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

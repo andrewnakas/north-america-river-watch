@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03404000",
+  "key": "03404000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03404000",
+  "name": "CUMBERLAND RIVER AT WILLIAMSBURG, KY",
+  "waterbody": "CUMBERLAND RIVER AT WILLIAMSBURG, KY",
+  "state": "KY",
+  "latitude": 36.743417,
+  "longitude": -84.1560449,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLBK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlbk2",
+  "slug": "usgs-03404000",
+  "noaaForecastPath": "data/noaa-forecast/WLBK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

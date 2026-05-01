@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16270900",
+  "key": "16270900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16270900",
+  "name": "Luluku Str at alt 220 ft nr Kaneohe, Oahu, HI",
+  "waterbody": "Luluku Str at alt 220 ft nr Kaneohe, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.39177778,
+  "longitude": -157.8094778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16270900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

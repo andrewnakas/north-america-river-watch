@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12042800",
+  "key": "12042800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12042800",
+  "name": "BOGACHIEL RIVER NEAR FORKS, WA",
+  "waterbody": "BOGACHIEL RIVER NEAR FORKS, WA",
+  "state": "WA",
+  "latitude": 47.8944194,
+  "longitude": -124.3570889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BGFW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bogachiel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bgfw1",
+  "slug": "usgs-12042800",
+  "noaaForecastPath": "data/noaa-forecast/BGFW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

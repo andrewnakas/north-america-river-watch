@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07182510",
+  "key": "07182510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07182510",
+  "name": "NEOSHO R AT BURLINGTON, KS",
+  "waterbody": "NEOSHO R AT BURLINGTON, KS",
+  "state": "KS",
+  "latitude": 38.19446678,
+  "longitude": -95.735264,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRLK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neosho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brlk1",
+  "slug": "usgs-07182510",
+  "noaaForecastPath": "data/noaa-forecast/BRLK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

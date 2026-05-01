@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07312610",
+  "key": "07312610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07312610",
+  "name": "Holliday Ck at Wichita Falls, TX",
+  "waterbody": "Holliday Ck at Wichita Falls, TX",
+  "state": "TX",
+  "latitude": 33.88444444,
+  "longitude": -98.4988889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WFHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Holliday Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wfht2",
+  "slug": "usgs-07312610",
+  "noaaForecastPath": "data/noaa-forecast/WFHT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

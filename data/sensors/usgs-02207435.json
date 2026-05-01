@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02207435",
+  "key": "02207435",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02207435",
+  "name": "LITTLE HAYNES CREEK AT DIAL MILL RD NR MILSTEAD GA",
+  "waterbody": "LITTLE HAYNES CREEK AT DIAL MILL RD NR MILSTEAD GA",
+  "state": "GA",
+  "latitude": 33.7111111,
+  "longitude": -83.9144444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLHG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Haynes Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlhg1",
+  "slug": "usgs-02207435",
+  "noaaForecastPath": "data/noaa-forecast/MLHG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

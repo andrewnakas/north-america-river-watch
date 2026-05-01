@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08390025",
+  "key": "08390025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08390025",
+  "name": "RIO HONDO ABOVE ALAMO CANYON NR HONDO, NM",
+  "waterbody": "RIO HONDO ABOVE ALAMO CANYON NR HONDO, NM",
+  "state": "NM",
+  "latitude": 33.36688056,
+  "longitude": -105.2436111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08390025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

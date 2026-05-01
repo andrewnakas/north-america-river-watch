@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09381800",
+  "key": "09381800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09381800",
+  "name": "PARIA RIVER NEAR KANAB, UTAH",
+  "waterbody": "PARIA RIVER NEAR KANAB, UTAH",
+  "state": "UT",
+  "latitude": 37.10748428,
+  "longitude": -111.9060102,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAKU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paria River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paku1",
+  "slug": "usgs-09381800",
+  "noaaForecastPath": "data/noaa-forecast/PAKU1.json",
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

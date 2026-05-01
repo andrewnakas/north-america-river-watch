@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04093000",
+  "key": "04093000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04093000",
+  "name": "DEEP RIVER AT LAKE GEORGE OUTLET AT HOBART, IN",
+  "waterbody": "DEEP RIVER AT LAKE GEORGE OUTLET AT HOBART, IN",
+  "state": "IN",
+  "latitude": 41.5361281,
+  "longitude": -87.2569484,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLGI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlgi3",
+  "slug": "usgs-04093000",
+  "noaaForecastPath": "data/noaa-forecast/HLGI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

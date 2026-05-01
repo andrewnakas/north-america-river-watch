@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02231175",
+  "key": "02231175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02231175",
+  "name": "ST MARYS RIVER AT FERRY LANDING NEAR FOLKSTON, GA",
+  "waterbody": "ST MARYS RIVER AT FERRY LANDING NEAR FOLKSTON, GA",
+  "state": "GA",
+  "latitude": 30.78305556,
+  "longitude": -82.0241667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Marys River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smtg1",
+  "slug": "usgs-02231175",
+  "noaaForecastPath": "data/noaa-forecast/SMTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

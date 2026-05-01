@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08041749",
+  "key": "08041749",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08041749",
+  "name": "Pine Island Bayou abv BI Pump Plant, Beaumont, TX",
+  "waterbody": "Pine Island Bayou abv BI Pump Plant, Beaumont, TX",
+  "state": "TX",
+  "latitude": 30.17882253,
+  "longitude": -94.1887943,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine Island Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bipt2",
+  "slug": "usgs-08041749",
+  "noaaForecastPath": "data/noaa-forecast/BIPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

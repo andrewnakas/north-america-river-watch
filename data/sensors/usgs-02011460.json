@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02011460",
+  "key": "02011460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02011460",
+  "name": "BACK CREEK NEAR SUNRISE, VA",
+  "waterbody": "BACK CREEK NEAR SUNRISE, VA",
+  "state": "VA",
+  "latitude": 38.24540129,
+  "longitude": -79.76866328,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Back Creek (Bath Co. VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bksv2",
+  "slug": "usgs-02011460",
+  "noaaForecastPath": "data/noaa-forecast/BKSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

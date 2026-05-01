@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03298200",
+  "key": "03298200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03298200",
+  "name": "FLOYDS FORK NEAR MT WASHINGTON, KY",
+  "waterbody": "FLOYDS FORK NEAR MT WASHINGTON, KY",
+  "state": "KY",
+  "latitude": 38.08534216,
+  "longitude": -85.5549556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MWTK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Floyds Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mwtk2",
+  "slug": "usgs-03298200",
+  "noaaForecastPath": "data/noaa-forecast/MWTK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

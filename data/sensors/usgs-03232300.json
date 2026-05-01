@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03232300",
+  "key": "03232300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03232300",
+  "name": "Rattlesnake Creek at Centerfield OH",
+  "waterbody": "Rattlesnake Creek at Centerfield OH",
+  "state": "OH",
+  "latitude": 39.32895287,
+  "longitude": -83.4754728,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTFO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rattlesnake Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctfo1",
+  "slug": "usgs-03232300",
+  "noaaForecastPath": "data/noaa-forecast/CTFO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

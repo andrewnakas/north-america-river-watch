@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07261500",
+  "key": "07261500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07261500",
+  "name": "Fourche LaFave River Near Gravelly, AR",
+  "waterbody": "Fourche LaFave River Near Gravelly, AR",
+  "state": "AR",
+  "latitude": 34.8725,
+  "longitude": -93.6572222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRVA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fourche LaFave River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grva4",
+  "slug": "usgs-07261500",
+  "noaaForecastPath": "data/noaa-forecast/GRVA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

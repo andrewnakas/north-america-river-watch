@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10259300",
+  "key": "10259300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10259300",
+  "name": "WHITEWATER R A INDIO CA",
+  "waterbody": "WHITEWATER R A INDIO CA",
+  "state": "CA",
+  "latitude": 33.7372519,
+  "longitude": -116.2361137,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewater River (CA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtic1",
+  "slug": "usgs-10259300",
+  "noaaForecastPath": "data/noaa-forecast/WTIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

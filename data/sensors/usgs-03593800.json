@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03593800",
+  "key": "03593800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03593800",
+  "name": "HORSE CREEK NEAR SAVANNAH, TN (TVA)",
+  "waterbody": "HORSE CREEK NEAR SAVANNAH, TN (TVA)",
+  "state": "TN",
+  "latitude": 35.180686,
+  "longitude": -88.2096051,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HORT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Horse Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hort1",
+  "slug": "usgs-03593800",
+  "noaaForecastPath": "data/noaa-forecast/HORT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

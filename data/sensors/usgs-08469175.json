@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08469175",
+  "key": "08469175",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08469175",
+  "name": "Rio Grande at Anzalduas Dam nr Hidalgo, TX",
+  "waterbody": "Rio Grande at Anzalduas Dam nr Hidalgo, TX",
+  "state": "TX",
+  "latitude": 26.13808889,
+  "longitude": -98.3344917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MADT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/madt2",
+  "slug": "usgs-08469175",
+  "noaaForecastPath": "data/noaa-forecast/MADT2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

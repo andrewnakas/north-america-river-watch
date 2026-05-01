@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14169000",
+  "key": "14169000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14169000",
+  "name": "LONG TOM RIVER NEAR ALVADORE, OR",
+  "waterbody": "LONG TOM RIVER NEAR ALVADORE, OR",
+  "state": "OR",
+  "latitude": 44.1226111,
+  "longitude": -123.3003056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Tom River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frno3",
+  "slug": "usgs-14169000",
+  "noaaForecastPath": "data/noaa-forecast/FRNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

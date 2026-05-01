@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09516500",
+  "key": "09516500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09516500",
+  "name": "HASSAYAMPA RIVER NEAR MORRISTOWN, AZ",
+  "waterbody": "HASSAYAMPA RIVER NEAR MORRISTOWN, AZ",
+  "state": "AZ",
+  "latitude": 33.88504881,
+  "longitude": -112.6621309,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAMA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hassayampa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hama3",
+  "slug": "usgs-09516500",
+  "noaaForecastPath": "data/noaa-forecast/HAMA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

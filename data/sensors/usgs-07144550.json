@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07144550",
+  "key": "07144550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144550",
+  "name": "ARKANSAS R AT DERBY, KS",
+  "waterbody": "ARKANSAS R AT DERBY, KS",
+  "state": "KS",
+  "latitude": 37.54430556,
+  "longitude": -97.2755694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRBK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drbk1",
+  "slug": "usgs-07144550",
+  "noaaForecastPath": "data/noaa-forecast/DRBK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

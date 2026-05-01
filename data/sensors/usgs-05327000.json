@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05327000",
+  "key": "05327000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05327000",
+  "name": "HIGH ISLAND CREEK NEAR HENDERSON, MN",
+  "waterbody": "HIGH ISLAND CREEK NEAR HENDERSON, MN",
+  "state": "MN",
+  "latitude": 44.571413,
+  "longitude": -93.922665,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HICM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "High Island Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hicm5",
+  "slug": "usgs-05327000",
+  "noaaForecastPath": "data/noaa-forecast/HICM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08171400",
+  "key": "08171400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08171400",
+  "name": "San Marcos Rv nr Martindale, TX",
+  "waterbody": "San Marcos Rv nr Martindale, TX",
+  "state": "TX",
+  "latitude": 29.8322861,
+  "longitude": -97.8423833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Marcos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smrt2",
+  "slug": "usgs-08171400",
+  "noaaForecastPath": "data/noaa-forecast/SMRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

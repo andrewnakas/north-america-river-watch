@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02195665",
+  "key": "02195665",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02195665",
+  "name": "TURKEY CREEK BELOW JOHNSTON, SC",
+  "waterbody": "TURKEY CREEK BELOW JOHNSTON, SC",
+  "state": "SC",
+  "latitude": 33.88925,
+  "longitude": -82.0021111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCES1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turkey Creek Below Johnston, SC",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tces1",
+  "slug": "usgs-02195665",
+  "noaaForecastPath": "data/noaa-forecast/TCES1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

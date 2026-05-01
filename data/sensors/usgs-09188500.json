@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09188500",
+  "key": "09188500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09188500",
+  "name": "GREEN RIVER AT WARREN BRIDGE, NEAR DANIEL, WY",
+  "waterbody": "GREEN RIVER AT WARREN BRIDGE, NEAR DANIEL, WY",
+  "state": "WY",
+  "latitude": 43.0190833,
+  "longitude": -110.1188611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (WY-UT-CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbrw4",
+  "slug": "usgs-09188500",
+  "noaaForecastPath": "data/noaa-forecast/WBRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

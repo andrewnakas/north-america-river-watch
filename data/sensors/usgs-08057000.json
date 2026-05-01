@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08057000",
+  "key": "08057000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08057000",
+  "name": "Trinity Rv at Dallas, TX",
+  "waterbody": "Trinity Rv at Dallas, TX",
+  "state": "TX",
+  "latitude": 32.7748517,
+  "longitude": -96.8219464,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DALT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dalt2",
+  "slug": "usgs-08057000",
+  "noaaForecastPath": "data/noaa-forecast/DALT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

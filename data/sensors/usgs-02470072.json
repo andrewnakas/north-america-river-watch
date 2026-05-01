@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02470072",
+  "key": "02470072",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02470072",
+  "name": "BASSETT CREEK AT US HIGHWAY 43 NR THOMASVILLE, AL.",
+  "waterbody": "BASSETT CREEK AT US HIGHWAY 43 NR THOMASVILLE, AL.",
+  "state": "AL",
+  "latitude": 31.8640785,
+  "longitude": -87.7472402,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BASA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bassett Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/basa1",
+  "slug": "usgs-02470072",
+  "noaaForecastPath": "data/noaa-forecast/BASA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

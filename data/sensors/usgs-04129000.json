@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04129000",
+  "key": "04129000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04129000",
+  "name": "PIGEON RIVER AT PIGEON RIVER HQ NR VANDERBILT, MI",
+  "waterbody": "PIGEON RIVER AT PIGEON RIVER HQ NR VANDERBILT, MI",
+  "state": "MI",
+  "latitude": 45.1708462,
+  "longitude": -84.43835459,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04129000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02491800",
+  "key": "02491800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02491800",
+  "name": "Bogue Chitto at Enon, LA",
+  "waterbody": "Bogue Chitto at Enon, LA",
+  "state": "LA",
+  "latitude": 30.72019444,
+  "longitude": -90.0835,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02491800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

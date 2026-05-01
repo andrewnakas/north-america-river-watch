@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02430161",
+  "key": "02430161",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02430161",
+  "name": "TENN-TOM WATERWAY BL MONTGOMERY L&D NR FULTON, MS",
+  "waterbody": "TENN-TOM WATERWAY BL MONTGOMERY L&D NR FULTON, MS",
+  "state": "MS",
+  "latitude": 34.46244444,
+  "longitude": -88.3683056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02430161",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

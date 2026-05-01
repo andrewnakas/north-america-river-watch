@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09525500",
+  "key": "09525500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09525500",
+  "name": "YUMA MAIN CANAL BLW COLORADO R. SIPHON AT YUMA, AZ",
+  "waterbody": "YUMA MAIN CANAL BLW COLORADO R. SIPHON AT YUMA, AZ",
+  "state": "AZ",
+  "latitude": 32.7274,
+  "longitude": -114.6212694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09525500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

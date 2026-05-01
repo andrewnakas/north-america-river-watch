@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03450000",
+  "key": "03450000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03450000",
+  "name": "BEETREE CREEK NEAR SWANNANOA, NC",
+  "waterbody": "BEETREE CREEK NEAR SWANNANOA, NC",
+  "state": "NC",
+  "latitude": 35.65305556,
+  "longitude": -82.4052778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03450000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

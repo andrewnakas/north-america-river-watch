@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09015000",
+  "key": "09015000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09015000",
+  "name": "COLORADO RIVER BL SHADOW MOUNTAIN RESERVOIR, CO.",
+  "waterbody": "COLORADO RIVER BL SHADOW MOUNTAIN RESERVOIR, CO.",
+  "state": "CO",
+  "latitude": 40.20519444,
+  "longitude": -105.8375611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shadow Mountain Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smrc2",
+  "slug": "usgs-09015000",
+  "noaaForecastPath": "data/noaa-forecast/SMRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

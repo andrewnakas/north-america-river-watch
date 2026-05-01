@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08076500",
+  "key": "08076500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08076500",
+  "name": "Halls Bayou at Houston, TX",
+  "waterbody": "Halls Bayou at Houston, TX",
+  "state": "TX",
+  "latitude": 29.86189143,
+  "longitude": -95.3349365,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08076500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

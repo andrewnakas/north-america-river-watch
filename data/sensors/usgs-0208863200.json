@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0208863200",
+  "key": "0208863200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208863200",
+  "name": "LITTLE RIVER AT NC581 NR GOLDSBORO, NC",
+  "waterbody": "LITTLE RIVER AT NC581 NR GOLDSBORO, NC",
+  "state": "NC",
+  "latitude": 35.3932174,
+  "longitude": -78.0260997,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0208863200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

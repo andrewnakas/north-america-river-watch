@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10155100",
+  "key": "10155100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10155100",
+  "name": "PROVO RIVER BELOW JORDANELLE DAM, NEAR HEBER, UT",
+  "waterbody": "PROVO RIVER BELOW JORDANELLE DAM, NEAR HEBER, UT",
+  "state": "UT",
+  "latitude": 40.5949525,
+  "longitude": -111.4287999,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10155100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

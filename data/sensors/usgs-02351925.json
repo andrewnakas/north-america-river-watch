@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02351925",
+  "key": "02351925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02351925",
+  "name": "MUCKALEE CREEK AT FORRESTER PKWY NEAR LEESBURG, GA",
+  "waterbody": "MUCKALEE CREEK AT FORRESTER PKWY NEAR LEESBURG, GA",
+  "state": "GA",
+  "latitude": 31.65791667,
+  "longitude": -84.1058056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUFG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muckalee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mufg1",
+  "slug": "usgs-02351925",
+  "noaaForecastPath": "data/noaa-forecast/MUFG1.json",
+  "generatedAt": "2026-05-01T12:10:11.218Z"
+}

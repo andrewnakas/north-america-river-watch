@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04155500",
+  "key": "04155500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04155500",
+  "name": "PINE RIVER NEAR MIDLAND, MI",
+  "waterbody": "PINE RIVER NEAR MIDLAND, MI",
+  "state": "MI",
+  "latitude": 43.56447276,
+  "longitude": -84.3691619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MPRM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mprm4",
+  "slug": "usgs-04155500",
+  "noaaForecastPath": "data/noaa-forecast/MPRM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

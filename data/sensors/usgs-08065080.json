@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08065080",
+  "key": "08065080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065080",
+  "name": "Manson Ck at SH 294 nr Elkhart, TX",
+  "waterbody": "Manson Ck at SH 294 nr Elkhart, TX",
+  "state": "TX",
+  "latitude": 31.62981667,
+  "longitude": -95.6342972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08065080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

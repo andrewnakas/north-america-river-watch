@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0217206962",
+  "key": "0217206962",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0217206962",
+  "name": "WANDO RIVER AT CAINHOY BELOW WANDO, SC",
+  "waterbody": "WANDO RIVER AT CAINHOY BELOW WANDO, SC",
+  "state": "SC",
+  "latitude": 32.92130556,
+  "longitude": -79.82438889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wando River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrcs1",
+  "slug": "usgs-0217206962",
+  "noaaForecastPath": "data/noaa-forecast/WRCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08030530",
+  "key": "08030530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08030530",
+  "name": "Sabine Rv at I-10 nr Orange, TX",
+  "waterbody": "Sabine Rv at I-10 nr Orange, TX",
+  "state": "TX",
+  "latitude": 30.127725,
+  "longitude": -93.7017833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TMYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tmyt2",
+  "slug": "usgs-08030530",
+  "noaaForecastPath": "data/noaa-forecast/TMYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

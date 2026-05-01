@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09014050",
+  "key": "09014050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09014050",
+  "name": "GRAND LAKE OUTLET BLW CHIPMUNK LN AT GRAND LK, CO",
+  "waterbody": "GRAND LAKE OUTLET BLW CHIPMUNK LN AT GRAND LK, CO",
+  "state": "CO",
+  "latitude": 40.2461111,
+  "longitude": -105.8288333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09014050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

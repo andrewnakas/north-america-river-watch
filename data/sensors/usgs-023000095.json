@@ -1,0 +1,22 @@
+{
+  "id": "usgs:023000095",
+  "key": "023000095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023000095",
+  "name": "MANATEE RIVER AT RYE FL",
+  "waterbody": "MANATEE RIVER AT RYE FL",
+  "state": "FL",
+  "latitude": 27.51364999,
+  "longitude": -82.3670375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RYEF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manatee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ryef1",
+  "slug": "usgs-023000095",
+  "noaaForecastPath": "data/noaa-forecast/RYEF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

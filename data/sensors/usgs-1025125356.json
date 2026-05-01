@@ -1,0 +1,19 @@
+{
+  "id": "usgs:1025125356",
+  "key": "1025125356",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "1025125356",
+  "name": "WREN WASH AT YUCCA MTN, NTS, NV",
+  "waterbody": "WREN WASH AT YUCCA MTN, NTS, NV",
+  "state": "NV",
+  "latitude": 36.8597222,
+  "longitude": -116.455,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-1025125356",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

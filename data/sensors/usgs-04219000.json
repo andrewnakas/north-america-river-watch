@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04219000",
+  "key": "04219000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04219000",
+  "name": "ERIE (BARGE) CANAL AT LOCK 30 AT MACEDON NY",
+  "waterbody": "ERIE (BARGE) CANAL AT LOCK 30 AT MACEDON NY",
+  "state": "NY",
+  "latitude": 43.07177778,
+  "longitude": -77.2969722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCDN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Erie Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcdn6",
+  "slug": "usgs-04219000",
+  "noaaForecastPath": "data/noaa-forecast/MCDN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09306007",
+  "key": "09306007",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09306007",
+  "name": "PICEANCE CREEK BELOW RIO BLANCO, CO.",
+  "waterbody": "PICEANCE CREEK BELOW RIO BLANCO, CO.",
+  "state": "CO",
+  "latitude": 39.8260846,
+  "longitude": -108.1831384,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09306007",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

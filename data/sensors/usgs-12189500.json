@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12189500",
+  "key": "12189500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12189500",
+  "name": "SAUK RIVER NEAR SAUK, WA",
+  "waterbody": "SAUK RIVER NEAR SAUK, WA",
+  "state": "WA",
+  "latitude": 48.42455859,
+  "longitude": -121.5684634,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAKW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sauk River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sakw1",
+  "slug": "usgs-12189500",
+  "noaaForecastPath": "data/noaa-forecast/SAKW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06463900",
+  "key": "06463900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06463900",
+  "name": "ANTELOPE CR NEAR MISSION SD",
+  "waterbody": "ANTELOPE CR NEAR MISSION SD",
+  "state": "SD",
+  "latitude": 43.27378198,
+  "longitude": -100.6846396,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANTS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Antelope Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ants2",
+  "slug": "usgs-06463900",
+  "noaaForecastPath": "data/noaa-forecast/ANTS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

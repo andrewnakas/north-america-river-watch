@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11277100",
+  "key": "11277100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11277100",
+  "name": "LK ELEANOR DIV TO CHERRY LAKE NR HETCH HETCHY CA",
+  "waterbody": "LK ELEANOR DIV TO CHERRY LAKE NR HETCH HETCHY CA",
+  "state": "CA",
+  "latitude": 37.9796433,
+  "longitude": -119.8818464,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11277100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

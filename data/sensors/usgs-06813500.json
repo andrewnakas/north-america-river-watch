@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06813500",
+  "key": "06813500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06813500",
+  "name": "Missouri River at Rulo, NE",
+  "waterbody": "Missouri River at Rulo, NE",
+  "state": "NE",
+  "latitude": 40.05205556,
+  "longitude": -95.42175,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RULN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ruln1",
+  "slug": "usgs-06813500",
+  "noaaForecastPath": "data/noaa-forecast/RULN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

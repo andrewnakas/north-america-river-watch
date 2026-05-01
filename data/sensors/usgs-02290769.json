@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02290769",
+  "key": "02290769",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02290769",
+  "name": "CANAL 111 AT S-18-C NEAR FLORIDA CITY, FL",
+  "waterbody": "CANAL 111 AT S-18-C NEAR FLORIDA CITY, FL",
+  "state": "FL",
+  "latitude": 25.3272222,
+  "longitude": -80.5248333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02290769",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

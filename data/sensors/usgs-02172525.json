@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02172525",
+  "key": "02172525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172525",
+  "name": "SHAW CREEK NEAR AIKEN, SC",
+  "waterbody": "SHAW CREEK NEAR AIKEN, SC",
+  "state": "SC",
+  "latitude": 33.60536111,
+  "longitude": -81.68502778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCAS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shaw Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scas1",
+  "slug": "usgs-02172525",
+  "noaaForecastPath": "data/noaa-forecast/SCAS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

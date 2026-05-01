@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03343350",
+  "key": "03343350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03343350",
+  "name": "BLACK SLOUGH AT CR 500N NR PHILO, IL",
+  "waterbody": "BLACK SLOUGH AT CR 500N NR PHILO, IL",
+  "state": "IL",
+  "latitude": 39.9526111,
+  "longitude": -88.1692222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03343350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

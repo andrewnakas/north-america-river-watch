@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08031005",
+  "key": "08031005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08031005",
+  "name": "Cow Bayou at IH 10 nr Vidor, TX",
+  "waterbody": "Cow Bayou at IH 10 nr Vidor, TX",
+  "state": "TX",
+  "latitude": 30.13067778,
+  "longitude": -93.9163444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08031005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

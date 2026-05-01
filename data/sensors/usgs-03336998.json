@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03336998",
+  "key": "03336998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03336998",
+  "name": "BONEYARD CREEK BELOW 6TH STREET AT CHAMPAIGN, IL",
+  "waterbody": "BONEYARD CREEK BELOW 6TH STREET AT CHAMPAIGN, IL",
+  "state": "IL",
+  "latitude": 40.11119444,
+  "longitude": -88.22988889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boneyard Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bydi2",
+  "slug": "usgs-03336998",
+  "noaaForecastPath": "data/noaa-forecast/BYDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

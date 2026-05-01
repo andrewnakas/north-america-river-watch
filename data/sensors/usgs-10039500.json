@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10039500",
+  "key": "10039500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10039500",
+  "name": "BEAR RIVER AT BORDER, WY",
+  "waterbody": "BEAR RIVER AT BORDER, WY",
+  "state": "ID",
+  "latitude": 42.21104338,
+  "longitude": -111.0538022,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brbw4",
+  "slug": "usgs-10039500",
+  "noaaForecastPath": "data/noaa-forecast/BRBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

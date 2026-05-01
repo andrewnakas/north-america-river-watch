@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06074000",
+  "key": "06074000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06074000",
+  "name": "Missouri River at Cascade MT",
+  "waterbody": "Missouri River at Cascade MT",
+  "state": "MT",
+  "latitude": 47.2694861,
+  "longitude": -111.6952306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CASM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/casm8",
+  "slug": "usgs-06074000",
+  "noaaForecastPath": "data/noaa-forecast/CASM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

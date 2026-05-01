@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08065900",
+  "key": "08065900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065900",
+  "name": "Trinity Rv at FM 3478 nr Trinity, TX",
+  "waterbody": "Trinity Rv at FM 3478 nr Trinity, TX",
+  "state": "TX",
+  "latitude": 30.92581944,
+  "longitude": -95.52885,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08065900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02097386",
+  "key": "02097386",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02097386",
+  "name": "BOOKER CREEK AT SR 1751 NEAR CHAPEL HILL, NC",
+  "waterbody": "BOOKER CREEK AT SR 1751 NEAR CHAPEL HILL, NC",
+  "state": "NC",
+  "latitude": 35.9419972,
+  "longitude": -79.0490333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHUN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Booker Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chun7",
+  "slug": "usgs-02097386",
+  "noaaForecastPath": "data/noaa-forecast/CHUN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

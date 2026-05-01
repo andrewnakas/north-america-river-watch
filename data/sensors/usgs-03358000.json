@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03358000",
+  "key": "03358000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03358000",
+  "name": "MILL CREEK NEAR CATARACT, IN",
+  "waterbody": "MILL CREEK NEAR CATARACT, IN",
+  "state": "IN",
+  "latitude": 39.441333,
+  "longitude": -86.756056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CATI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cati3",
+  "slug": "usgs-03358000",
+  "noaaForecastPath": "data/noaa-forecast/CATI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

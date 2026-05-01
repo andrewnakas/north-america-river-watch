@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07250514",
+  "key": "07250514",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07250514",
+  "name": "Sunnymeade Creek at 46th Street in Ft. Smith",
+  "waterbody": "Sunnymeade Creek at 46th Street in Ft. Smith",
+  "state": "AR",
+  "latitude": 35.398146,
+  "longitude": -94.3807691,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07250514",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

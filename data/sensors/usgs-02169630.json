@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02169630",
+  "key": "02169630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169630",
+  "name": "BIG BEAVER CREEK NEAR ST. MATTHEWS, SC",
+  "waterbody": "BIG BEAVER CREEK NEAR ST. MATTHEWS, SC",
+  "state": "SC",
+  "latitude": 33.7368213,
+  "longitude": -80.9581473,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02169630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

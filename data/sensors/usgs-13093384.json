@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13093384",
+  "key": "13093384",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13093384",
+  "name": "SNAKE RIVER BLW PIGEON COVE NR TWIN FALLS, ID",
+  "waterbody": "SNAKE RIVER BLW PIGEON COVE NR TWIN FALLS, ID",
+  "state": "ID",
+  "latitude": 42.6535833,
+  "longitude": -114.6347972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13093384",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

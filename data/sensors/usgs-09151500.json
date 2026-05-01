@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09151500",
+  "key": "09151500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09151500",
+  "name": "ESCALANTE CREEK NEAR DELTA, CO.",
+  "waterbody": "ESCALANTE CREEK NEAR DELTA, CO.",
+  "state": "CO",
+  "latitude": 38.75694444,
+  "longitude": -108.25983333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09151500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

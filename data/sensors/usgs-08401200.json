@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08401200",
+  "key": "08401200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08401200",
+  "name": "SOUTH SEVEN RIVERS NR LAKEWOOD, NM",
+  "waterbody": "SOUTH SEVEN RIVERS NR LAKEWOOD, NM",
+  "state": "NM",
+  "latitude": 32.5886111,
+  "longitude": -104.4213889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSRN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Seven Rivers 1 mile SE of Seven Rivers",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssrn5",
+  "slug": "usgs-08401200",
+  "noaaForecastPath": "data/noaa-forecast/SSRN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

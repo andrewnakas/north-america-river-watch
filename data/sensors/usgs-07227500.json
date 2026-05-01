@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07227500",
+  "key": "07227500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07227500",
+  "name": "Canadian Rv nr Amarillo, TX",
+  "waterbody": "Canadian Rv nr Amarillo, TX",
+  "state": "TX",
+  "latitude": 35.4703261,
+  "longitude": -101.879628,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amat2",
+  "slug": "usgs-07227500",
+  "noaaForecastPath": "data/noaa-forecast/AMAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

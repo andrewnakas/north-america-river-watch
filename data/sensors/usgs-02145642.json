@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02145642",
+  "key": "02145642",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02145642",
+  "name": "CROWDERS CREEK RD 1104 NEAR CLOVER, SC",
+  "waterbody": "CROWDERS CREEK RD 1104 NEAR CLOVER, SC",
+  "state": "SC",
+  "latitude": 35.1373616,
+  "longitude": -81.13563159,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02145642",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

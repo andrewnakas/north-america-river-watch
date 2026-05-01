@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08353000",
+  "key": "08353000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08353000",
+  "name": "RIO PUERCO NEAR BERNARDO, NM",
+  "waterbody": "RIO PUERCO NEAR BERNARDO, NM",
+  "state": "NM",
+  "latitude": 34.41027778,
+  "longitude": -106.8544444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNDN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Puerco",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bndn5",
+  "slug": "usgs-08353000",
+  "noaaForecastPath": "data/noaa-forecast/BNDN5.json",
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

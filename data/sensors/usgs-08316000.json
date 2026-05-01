@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08316000",
+  "key": "08316000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08316000",
+  "name": "SANTA FE RIVER NEAR SANTA FE, NM",
+  "waterbody": "SANTA FE RIVER NEAR SANTA FE, NM",
+  "state": "NM",
+  "latitude": 35.68644444,
+  "longitude": -105.8436111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFMN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Fe River (NM)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfmn5",
+  "slug": "usgs-08316000",
+  "noaaForecastPath": "data/noaa-forecast/SFMN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

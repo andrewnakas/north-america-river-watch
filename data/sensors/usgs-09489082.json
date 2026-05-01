@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09489082",
+  "key": "09489082",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09489082",
+  "name": "NORTH FORK THOMAS CREEK NEAR ALPINE, AZ",
+  "waterbody": "NORTH FORK THOMAS CREEK NEAR ALPINE, AZ",
+  "state": "AZ",
+  "latitude": 33.67502778,
+  "longitude": -109.2701111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09489082",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

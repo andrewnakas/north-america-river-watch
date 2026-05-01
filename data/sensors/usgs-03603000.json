@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03603000",
+  "key": "03603000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03603000",
+  "name": "DUCK RIVER ABOVE HURRICANE MILLS, TN",
+  "waterbody": "DUCK RIVER ABOVE HURRICANE MILLS, TN",
+  "state": "TN",
+  "latitude": 35.93009609,
+  "longitude": -87.7430743,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMLT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duck River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmlt1",
+  "slug": "usgs-03603000",
+  "noaaForecastPath": "data/noaa-forecast/HMLT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

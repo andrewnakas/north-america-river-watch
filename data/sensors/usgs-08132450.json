@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08132450",
+  "key": "08132450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08132450",
+  "name": "Red Arroyo at S. Chadbourne St. nr San Angelo, TX",
+  "waterbody": "Red Arroyo at S. Chadbourne St. nr San Angelo, TX",
+  "state": "TX",
+  "latitude": 31.43577778,
+  "longitude": -100.43433333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08132450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

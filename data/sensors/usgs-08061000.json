@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08061000",
+  "key": "08061000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08061000",
+  "name": "E Fk Trinity Rv nr Lavon, TX",
+  "waterbody": "E Fk Trinity Rv nr Lavon, TX",
+  "state": "TX",
+  "latitude": 33.02373066,
+  "longitude": -96.4755429,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Texas Lakes",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvnt2",
+  "slug": "usgs-08061000",
+  "noaaForecastPath": "data/noaa-forecast/LVNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

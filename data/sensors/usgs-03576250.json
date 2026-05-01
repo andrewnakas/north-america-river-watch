@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03576250",
+  "key": "03576250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03576250",
+  "name": "LIMESTONE CREEK NEAR ATHENS AL",
+  "waterbody": "LIMESTONE CREEK NEAR ATHENS AL",
+  "state": "AL",
+  "latitude": 34.751757,
+  "longitude": -86.8233348,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATNA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Limestone Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atna1",
+  "slug": "usgs-03576250",
+  "noaaForecastPath": "data/noaa-forecast/ATNA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

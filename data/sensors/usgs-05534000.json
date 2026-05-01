@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05534000",
+  "key": "05534000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05534000",
+  "name": "DES PLAINES RIVER AT ROMEOVILLE, IL",
+  "waterbody": "DES PLAINES RIVER AT ROMEOVILLE, IL",
+  "state": "IL",
+  "latitude": 41.64027778,
+  "longitude": -88.0672222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05534000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

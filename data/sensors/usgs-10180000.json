@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10180000",
+  "key": "10180000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10180000",
+  "name": "SEVIER RIVER NEAR CIRCLEVILLE, UT",
+  "waterbody": "SEVIER RIVER NEAR CIRCLEVILLE, UT",
+  "state": "UT",
+  "latitude": 38.1041436,
+  "longitude": -112.3363172,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10180000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

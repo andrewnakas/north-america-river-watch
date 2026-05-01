@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06430500",
+  "key": "06430500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06430500",
+  "name": "REDWATER CREEK AT WY-SD STATE LINE",
+  "waterbody": "REDWATER CREEK AT WY-SD STATE LINE",
+  "state": "SD",
+  "latitude": 44.5718625,
+  "longitude": -104.0536449,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDWS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwater Creek (WY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdws2",
+  "slug": "usgs-06430500",
+  "noaaForecastPath": "data/noaa-forecast/RDWS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

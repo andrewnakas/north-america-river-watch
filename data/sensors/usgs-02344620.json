@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344620",
+  "key": "02344620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344620",
+  "name": "SHOAL CREEK AT GA54, NEAR SHARPSBURG, GA",
+  "waterbody": "SHOAL CREEK AT GA54, NEAR SHARPSBURG, GA",
+  "state": "GA",
+  "latitude": 33.38916667,
+  "longitude": -84.6247222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHPG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoal Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shpg1",
+  "slug": "usgs-02344620",
+  "noaaForecastPath": "data/noaa-forecast/SHPG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

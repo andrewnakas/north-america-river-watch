@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01598500",
+  "key": "01598500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01598500",
+  "name": "NORTH BRANCH POTOMAC RIVER AT LUKE, MD",
+  "waterbody": "NORTH BRANCH POTOMAC RIVER AT LUKE, MD",
+  "state": "MD",
+  "latitude": 39.47897222,
+  "longitude": -79.06377778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUKM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lukm2",
+  "slug": "usgs-01598500",
+  "noaaForecastPath": "data/noaa-forecast/LUKM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

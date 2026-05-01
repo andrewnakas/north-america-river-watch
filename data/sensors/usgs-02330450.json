@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02330450",
+  "key": "02330450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02330450",
+  "name": "CHATTAHOOCHEE RIVER AT HELEN, GA",
+  "waterbody": "CHATTAHOOCHEE RIVER AT HELEN, GA",
+  "state": "GA",
+  "latitude": 34.7009722,
+  "longitude": -83.72925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdcg1",
+  "slug": "usgs-02330450",
+  "noaaForecastPath": "data/noaa-forecast/HDCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

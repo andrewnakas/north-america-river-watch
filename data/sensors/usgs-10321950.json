@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10321950",
+  "key": "10321950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10321950",
+  "name": "MAGGIE CK AT MAGGIE CR CYN NR CARLIN, NV",
+  "waterbody": "MAGGIE CK AT MAGGIE CR CYN NR CARLIN, NV",
+  "state": "NV",
+  "latitude": 40.80324824,
+  "longitude": -116.2000813,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10321950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13112000",
+  "key": "13112000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13112000",
+  "name": "CAMAS CREEK AT CAMAS ID",
+  "waterbody": "CAMAS CREEK AT CAMAS ID",
+  "state": "ID",
+  "latitude": 44.00277778,
+  "longitude": -112.221111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCCI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Camas Creek (Eastern ID)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccci1",
+  "slug": "usgs-13112000",
+  "noaaForecastPath": "data/noaa-forecast/CCCI1.json",
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

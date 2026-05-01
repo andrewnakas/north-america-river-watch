@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12113150",
+  "key": "12113150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12113150",
+  "name": "GREEN RIVER ABOVE S 277TH ST AT KENT, WA",
+  "waterbody": "GREEN RIVER ABOVE S 277TH ST AT KENT, WA",
+  "state": "WA",
+  "latitude": 47.3534111,
+  "longitude": -122.2084556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12113150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

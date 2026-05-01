@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16599500",
+  "key": "16599500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16599500",
+  "name": "Opana Tunnel near Kailiili, Maui, HI",
+  "waterbody": "Opana Tunnel near Kailiili, Maui, HI",
+  "state": "HI",
+  "latitude": 20.84792222,
+  "longitude": -156.268575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16599500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

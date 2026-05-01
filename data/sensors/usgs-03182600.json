@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03182600",
+  "key": "03182600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03182600",
+  "name": "GREENBRIER RIVER AT RENICK, WV",
+  "waterbody": "GREENBRIER RIVER AT RENICK, WV",
+  "state": "WV",
+  "latitude": 37.98930556,
+  "longitude": -80.35638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RNKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greenbrier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rnkw2",
+  "slug": "usgs-03182600",
+  "noaaForecastPath": "data/noaa-forecast/RNKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03052500",
+  "key": "03052500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03052500",
+  "name": "SAND RUN NEAR BUCKHANNON, WV",
+  "waterbody": "SAND RUN NEAR BUCKHANNON, WV",
+  "state": "WV",
+  "latitude": 38.96398938,
+  "longitude": -80.1525806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNFW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sand Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snfw2",
+  "slug": "usgs-03052500",
+  "noaaForecastPath": "data/noaa-forecast/SNFW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08057200",
+  "key": "08057200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08057200",
+  "name": "White Rk Ck at Greenville Ave, Dallas, TX",
+  "waterbody": "White Rk Ck at Greenville Ave, Dallas, TX",
+  "state": "TX",
+  "latitude": 32.88929207,
+  "longitude": -96.7566664,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DWRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Rock Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dwrt2",
+  "slug": "usgs-08057200",
+  "noaaForecastPath": "data/noaa-forecast/DWRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

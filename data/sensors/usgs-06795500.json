@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06795500",
+  "key": "06795500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06795500",
+  "name": "Shell Creek near Columbus, Nebr.",
+  "waterbody": "Shell Creek near Columbus, Nebr.",
+  "state": "NE",
+  "latitude": 41.525964,
+  "longitude": -97.281597,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLBN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shell Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clbn1",
+  "slug": "usgs-06795500",
+  "noaaForecastPath": "data/noaa-forecast/CLBN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

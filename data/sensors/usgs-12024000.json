@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12024000",
+  "key": "12024000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12024000",
+  "name": "SOUTH FORK NEWAUKUM RIVER NEAR ONALASKA, WA",
+  "waterbody": "SOUTH FORK NEWAUKUM RIVER NEAR ONALASKA, WA",
+  "state": "WA",
+  "latitude": 46.57566178,
+  "longitude": -122.6851159,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFNW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Newaukum River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfnw1",
+  "slug": "usgs-12024000",
+  "noaaForecastPath": "data/noaa-forecast/SFNW1.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

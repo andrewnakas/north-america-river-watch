@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50026025",
+  "key": "50026025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50026025",
+  "name": "RIO CAONILLAS AT PASO PALMA, PR",
+  "waterbody": "RIO CAONILLAS AT PASO PALMA, PR",
+  "state": "PR",
+  "latitude": 18.231417,
+  "longitude": -66.637089,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JAXP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Caonillas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jaxp4",
+  "slug": "usgs-50026025",
+  "noaaForecastPath": "data/noaa-forecast/JAXP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

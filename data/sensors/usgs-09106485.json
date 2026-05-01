@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09106485",
+  "key": "09106485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09106485",
+  "name": "COLORADO R. ABV GUNNISON R. AT GRAND JUNCTION, CO",
+  "waterbody": "COLORADO R. ABV GUNNISON R. AT GRAND JUNCTION, CO",
+  "state": "CO",
+  "latitude": 39.0545833,
+  "longitude": -108.5411111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CGJC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cgjc2",
+  "slug": "usgs-09106485",
+  "noaaForecastPath": "data/noaa-forecast/CGJC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

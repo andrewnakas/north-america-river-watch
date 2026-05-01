@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14150000",
+  "key": "14150000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14150000",
+  "name": "MIDDLE FORK WILLAMETTE RIVER NEAR DEXTER, OR",
+  "waterbody": "MIDDLE FORK WILLAMETTE RIVER NEAR DEXTER, OR",
+  "state": "OR",
+  "latitude": 43.9456815,
+  "longitude": -122.8372967,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEXO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dexo3",
+  "slug": "usgs-14150000",
+  "noaaForecastPath": "data/noaa-forecast/DEXO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

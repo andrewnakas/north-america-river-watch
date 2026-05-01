@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08166250",
+  "key": "08166250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08166250",
+  "name": "Guadalupe Rv nr Center Point, TX",
+  "waterbody": "Guadalupe Rv nr Center Point, TX",
+  "state": "TX",
+  "latitude": 29.98777778,
+  "longitude": -99.11,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gctt2",
+  "slug": "usgs-08166250",
+  "noaaForecastPath": "data/noaa-forecast/GCTT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08068002",
+  "key": "08068002",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068002",
+  "name": "Stewarts Ck at Silverdale Dr nr Conroe, TX",
+  "waterbody": "Stewarts Ck at Silverdale Dr nr Conroe, TX",
+  "state": "TX",
+  "latitude": 30.30150833,
+  "longitude": -95.4379972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08068002",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03571000",
+  "key": "03571000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03571000",
+  "name": "SEQUATCHIE RIVER NEAR WHITWELL, TN",
+  "waterbody": "SEQUATCHIE RIVER NEAR WHITWELL, TN",
+  "state": "TN",
+  "latitude": 35.2057214,
+  "longitude": -85.49703019,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHTT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sequatchie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whtt1",
+  "slug": "usgs-03571000",
+  "noaaForecastPath": "data/noaa-forecast/WHTT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02112250",
+  "key": "02112250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02112250",
+  "name": "YADKIN RIVER AT ELKIN, NC",
+  "waterbody": "YADKIN RIVER AT ELKIN, NC",
+  "state": "NC",
+  "latitude": 36.24103889,
+  "longitude": -80.8491,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yadkin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elkn7",
+  "slug": "usgs-02112250",
+  "noaaForecastPath": "data/noaa-forecast/ELKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

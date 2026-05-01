@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06354890",
+  "key": "06354890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06354890",
+  "name": "NORTH FORK GRAND RIVER ABOVE BOWMAN-HALEY LAKE, ND",
+  "waterbody": "NORTH FORK GRAND RIVER ABOVE BOWMAN-HALEY LAKE, ND",
+  "state": "ND",
+  "latitude": 45.9524438,
+  "longitude": -103.3069613,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06354890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

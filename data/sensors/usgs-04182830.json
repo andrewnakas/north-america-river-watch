@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04182830",
+  "key": "04182830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04182830",
+  "name": "MAUMEE RIVER AT COLUMBIA ST AT FORT WAYNE, IN",
+  "waterbody": "MAUMEE RIVER AT COLUMBIA ST AT FORT WAYNE, IN",
+  "state": "IN",
+  "latitude": 41.08194444,
+  "longitude": -85.1322222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMBI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Maumee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmbi3",
+  "slug": "usgs-04182830",
+  "noaaForecastPath": "data/noaa-forecast/CMBI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

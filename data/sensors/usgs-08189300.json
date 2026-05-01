@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08189300",
+  "key": "08189300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08189300",
+  "name": "Medio Ck nr Beeville, TX",
+  "waterbody": "Medio Ck nr Beeville, TX",
+  "state": "TX",
+  "latitude": 28.4830428,
+  "longitude": -97.6566862,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MIOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medio Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/miot2",
+  "slug": "usgs-08189300",
+  "noaaForecastPath": "data/noaa-forecast/MIOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

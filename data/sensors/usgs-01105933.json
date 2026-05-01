@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01105933",
+  "key": "01105933",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105933",
+  "name": "PASKAMANSET RIVER NEAR SOUTH DARTMOUTH, MA",
+  "waterbody": "PASKAMANSET RIVER NEAR SOUTH DARTMOUTH, MA",
+  "state": "MA",
+  "latitude": 41.58538185,
+  "longitude": -70.9903171,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDMM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paskamanset River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdmm3",
+  "slug": "usgs-01105933",
+  "noaaForecastPath": "data/noaa-forecast/SDMM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

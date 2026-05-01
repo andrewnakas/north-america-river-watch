@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06889170",
+  "key": "06889170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889170",
+  "name": "SOLDIER C NR HOLTON, KS",
+  "waterbody": "SOLDIER C NR HOLTON, KS",
+  "state": "KS",
+  "latitude": 39.43416667,
+  "longitude": -95.9422222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06889170",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

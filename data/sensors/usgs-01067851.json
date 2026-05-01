@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01067851",
+  "key": "01067851",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01067851",
+  "name": "SANDY BROOK ABOVE LANDFILL NEAR SACO, ME",
+  "waterbody": "SANDY BROOK ABOVE LANDFILL NEAR SACO, ME",
+  "state": "ME",
+  "latitude": 43.53341389,
+  "longitude": -70.4839417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01067851",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

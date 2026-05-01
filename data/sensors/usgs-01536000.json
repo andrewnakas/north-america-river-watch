@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01536000",
+  "key": "01536000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01536000",
+  "name": "Lackawanna River at Old Forge, PA",
+  "waterbody": "Lackawanna River at Old Forge, PA",
+  "state": "PA",
+  "latitude": 41.35924619,
+  "longitude": -75.744359,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OFRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lackawanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ofrp1",
+  "slug": "usgs-01536000",
+  "noaaForecastPath": "data/noaa-forecast/OFRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

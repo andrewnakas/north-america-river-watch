@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01576520",
+  "key": "01576520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576520",
+  "name": "Muddy Run at Weavertown, PA",
+  "waterbody": "Muddy Run at Weavertown, PA",
+  "state": "PA",
+  "latitude": 40.0475989,
+  "longitude": -76.1449535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01576520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

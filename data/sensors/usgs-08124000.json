@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08124000",
+  "key": "08124000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08124000",
+  "name": "Colorado Rv at Robert Lee, TX",
+  "waterbody": "Colorado Rv at Robert Lee, TX",
+  "state": "TX",
+  "latitude": 31.88542168,
+  "longitude": -100.4806543,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RELT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/relt2",
+  "slug": "usgs-08124000",
+  "noaaForecastPath": "data/noaa-forecast/RELT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

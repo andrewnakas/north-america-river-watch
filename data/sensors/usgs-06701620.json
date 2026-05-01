@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06701620",
+  "key": "06701620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06701620",
+  "name": "TROUT CREEK BLW FERN CR NR WESTCREEK, CO.",
+  "waterbody": "TROUT CREEK BLW FERN CR NR WESTCREEK, CO.",
+  "state": "CO",
+  "latitude": 39.16749104,
+  "longitude": -105.1222112,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06701620",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

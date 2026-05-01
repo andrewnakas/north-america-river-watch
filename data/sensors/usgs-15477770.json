@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15477770",
+  "key": "15477770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15477770",
+  "name": "SONORA C NR BIG DELTA AK",
+  "waterbody": "SONORA C NR BIG DELTA AK",
+  "state": "AK",
+  "latitude": 64.37739989,
+  "longitude": -144.8137305,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15477770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

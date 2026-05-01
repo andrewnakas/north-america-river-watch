@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08343500",
+  "key": "08343500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08343500",
+  "name": "RIO SAN JOSE AT ACOMA PUEBLO, NM",
+  "waterbody": "RIO SAN JOSE AT ACOMA PUEBLO, NM",
+  "state": "NM",
+  "latitude": 35.0744111,
+  "longitude": -107.7511139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNTN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio San Jose",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gntn5",
+  "slug": "usgs-08343500",
+  "noaaForecastPath": "data/noaa-forecast/GNTN5.json",
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

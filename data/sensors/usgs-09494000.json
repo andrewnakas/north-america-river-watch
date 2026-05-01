@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09494000",
+  "key": "09494000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09494000",
+  "name": "WHITE RIVER NEAR FORT APACHE, AZ.",
+  "waterbody": "WHITE RIVER NEAR FORT APACHE, AZ.",
+  "state": "AZ",
+  "latitude": 33.7364557,
+  "longitude": -110.1667837,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09494000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02072500",
+  "key": "02072500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02072500",
+  "name": "SMITH RIVER AT BASSETT, VA",
+  "waterbody": "SMITH RIVER AT BASSETT, VA",
+  "state": "VA",
+  "latitude": 36.77013709,
+  "longitude": -80.00087509,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BASV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/basv2",
+  "slug": "usgs-02072500",
+  "noaaForecastPath": "data/noaa-forecast/BASV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

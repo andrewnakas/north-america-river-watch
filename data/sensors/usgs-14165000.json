@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14165000",
+  "key": "14165000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14165000",
+  "name": "MOHAWK RIVER NEAR SPRINGFIELD, OR",
+  "waterbody": "MOHAWK RIVER NEAR SPRINGFIELD, OR",
+  "state": "OR",
+  "latitude": 44.09290317,
+  "longitude": -122.9573052,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mohawk River (OR)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spro3",
+  "slug": "usgs-14165000",
+  "noaaForecastPath": "data/noaa-forecast/SPRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

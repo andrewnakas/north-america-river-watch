@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08110100",
+  "key": "08110100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110100",
+  "name": "Davidson Ck nr Lyons, TX",
+  "waterbody": "Davidson Ck nr Lyons, TX",
+  "state": "TX",
+  "latitude": 30.41965196,
+  "longitude": -96.5402466,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Davidson Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lynt2",
+  "slug": "usgs-08110100",
+  "noaaForecastPath": "data/noaa-forecast/LYNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

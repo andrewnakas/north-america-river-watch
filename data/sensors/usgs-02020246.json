@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02020246",
+  "key": "02020246",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02020246",
+  "name": "RAMSEYS DRAFT AT ROUTE 716 NEAR WEST AUGUSTA, VA",
+  "waterbody": "RAMSEYS DRAFT AT ROUTE 716 NEAR WEST AUGUSTA, VA",
+  "state": "VA",
+  "latitude": 38.2759722,
+  "longitude": -79.33538889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02020246",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14154500",
+  "key": "14154500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14154500",
+  "name": "ROW RIVER ABOVE PITCHER CREEK, NEAR DORENA, OR",
+  "waterbody": "ROW RIVER ABOVE PITCHER CREEK, NEAR DORENA, OR",
+  "state": "OR",
+  "latitude": 43.73527778,
+  "longitude": -122.8744444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRRO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Row River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drro3",
+  "slug": "usgs-14154500",
+  "noaaForecastPath": "data/noaa-forecast/DRRO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

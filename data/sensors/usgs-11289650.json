@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11289650",
+  "key": "11289650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11289650",
+  "name": "TUOLUMNE R BL LAGRANGE DAM NR LAGRANGE CA",
+  "waterbody": "TUOLUMNE R BL LAGRANGE DAM NR LAGRANGE CA",
+  "state": "CA",
+  "latitude": 37.66629746,
+  "longitude": -120.4421023,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11289650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

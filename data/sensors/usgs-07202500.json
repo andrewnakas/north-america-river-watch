@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07202500",
+  "key": "07202500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07202500",
+  "name": "EAGLE TAIL DITCH NR MAXWELL, NM",
+  "waterbody": "EAGLE TAIL DITCH NR MAXWELL, NM",
+  "state": "NM",
+  "latitude": 36.64864167,
+  "longitude": -104.5591556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07202500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

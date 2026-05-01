@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09359500",
+  "key": "09359500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09359500",
+  "name": "ANIMAS RIVER AT TALL TIMBER RESORT ABOVE TACOMA,CO",
+  "waterbody": "ANIMAS RIVER AT TALL TIMBER RESORT ABOVE TACOMA,CO",
+  "state": "CO",
+  "latitude": 37.597417,
+  "longitude": -107.776967,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09359500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01502500",
+  "key": "01502500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01502500",
+  "name": "UNADILLA RIVER AT ROCKDALE NY",
+  "waterbody": "UNADILLA RIVER AT ROCKDALE NY",
+  "state": "NY",
+  "latitude": 42.37797222,
+  "longitude": -75.40611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unadilla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rckn6",
+  "slug": "usgs-01502500",
+  "noaaForecastPath": "data/noaa-forecast/RCKN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

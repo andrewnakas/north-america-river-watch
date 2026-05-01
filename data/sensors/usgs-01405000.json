@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01405000",
+  "key": "01405000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01405000",
+  "name": "Lawrence Brook at Farrington Dam NJ",
+  "waterbody": "Lawrence Brook at Farrington Dam NJ",
+  "state": "NJ",
+  "latitude": 40.45,
+  "longitude": -74.4511111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01405000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

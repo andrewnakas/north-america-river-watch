@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11475500",
+  "key": "11475500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11475500",
+  "name": "SF EEL R NR BRANSCOMB CA",
+  "waterbody": "SF EEL R NR BRANSCOMB CA",
+  "state": "CA",
+  "latitude": 39.71904456,
+  "longitude": -123.652796,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11475500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15052500",
+  "key": "15052500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15052500",
+  "name": "MENDENHALL R NR AUKE BAY AK",
+  "waterbody": "MENDENHALL R NR AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.4293972,
+  "longitude": -134.5745592,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNDA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mendenhall River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnda2",
+  "slug": "usgs-15052500",
+  "noaaForecastPath": "data/noaa-forecast/MNDA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

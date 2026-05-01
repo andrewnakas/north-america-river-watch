@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01096500",
+  "key": "01096500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01096500",
+  "name": "NASHUA RIVER AT EAST PEPPERELL, MA",
+  "waterbody": "NASHUA RIVER AT EAST PEPPERELL, MA",
+  "state": "MA",
+  "latitude": 42.66758945,
+  "longitude": -71.57506809,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNSM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nashua River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dnsm3",
+  "slug": "usgs-01096500",
+  "noaaForecastPath": "data/noaa-forecast/DNSM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

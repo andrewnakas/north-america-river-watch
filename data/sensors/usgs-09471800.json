@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09471800",
+  "key": "09471800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09471800",
+  "name": "SAN PEDRO RIVER NEAR BENSON, ARIZ.",
+  "waterbody": "SAN PEDRO RIVER NEAR BENSON, ARIZ.",
+  "state": "AZ",
+  "latitude": 32.126467,
+  "longitude": -110.290073,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09471800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05403040",
+  "key": "05403040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05403040",
+  "name": "WEST BRANCH LITTLE YELLOW RIVER NEAR FINLEY, WI",
+  "waterbody": "WEST BRANCH LITTLE YELLOW RIVER NEAR FINLEY, WI",
+  "state": "WI",
+  "latitude": 44.22746377,
+  "longitude": -90.2229109,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05403040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

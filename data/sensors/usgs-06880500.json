@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06880500",
+  "key": "06880500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06880500",
+  "name": "BIG BLUE RIVER AT SEWARD, NEBR.",
+  "waterbody": "BIG BLUE RIVER AT SEWARD, NEBR.",
+  "state": "NE",
+  "latitude": 40.90305556,
+  "longitude": -97.1116667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWRN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Blue River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swrn1",
+  "slug": "usgs-06880500",
+  "noaaForecastPath": "data/noaa-forecast/SWRN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

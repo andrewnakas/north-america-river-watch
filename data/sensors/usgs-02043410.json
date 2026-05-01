@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02043410",
+  "key": "02043410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02043410",
+  "name": "NORTHWEST RIVER ABOVE MOUTH NEAR MOYOCK, NC",
+  "waterbody": "NORTHWEST RIVER ABOVE MOUTH NEAR MOYOCK, NC",
+  "state": "NC",
+  "latitude": 36.5122222,
+  "longitude": -76.0866667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02043410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

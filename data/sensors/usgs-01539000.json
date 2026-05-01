@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01539000",
+  "key": "01539000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01539000",
+  "name": "Fishing Creek near Bloomsburg, PA",
+  "waterbody": "Fishing Creek near Bloomsburg, PA",
+  "state": "PA",
+  "latitude": 41.07806029,
+  "longitude": -76.4313125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCKP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fishing Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fckp1",
+  "slug": "usgs-01539000",
+  "noaaForecastPath": "data/noaa-forecast/FCKP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

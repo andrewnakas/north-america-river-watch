@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01462000",
+  "key": "01462000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01462000",
+  "name": "Delaware River at Lambertville NJ",
+  "waterbody": "Delaware River at Lambertville NJ",
+  "state": "NJ",
+  "latitude": 40.36472222,
+  "longitude": -74.94888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01462000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

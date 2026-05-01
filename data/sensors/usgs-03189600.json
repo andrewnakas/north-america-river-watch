@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03189600",
+  "key": "03189600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03189600",
+  "name": "GAULEY RIVER BELOW SUMMERSVILLE DAM, WV",
+  "waterbody": "GAULEY RIVER BELOW SUMMERSVILLE DAM, WV",
+  "state": "WV",
+  "latitude": 38.2151103,
+  "longitude": -80.8881536,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gauley River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sumw2",
+  "slug": "usgs-03189600",
+  "noaaForecastPath": "data/noaa-forecast/SUMW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

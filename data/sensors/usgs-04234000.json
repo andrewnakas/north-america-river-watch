@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04234000",
+  "key": "04234000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04234000",
+  "name": "FALL CREEK NEAR ITHACA NY",
+  "waterbody": "FALL CREEK NEAR ITHACA NY",
+  "state": "NY",
+  "latitude": 42.4533333,
+  "longitude": -76.47277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fall Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flln6",
+  "slug": "usgs-04234000",
+  "noaaForecastPath": "data/noaa-forecast/FLLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

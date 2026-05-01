@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15297610",
+  "key": "15297610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15297610",
+  "name": "RUSSELL C NR COLD BAY AK",
+  "waterbody": "RUSSELL C NR COLD BAY AK",
+  "state": "AK",
+  "latitude": 55.17691508,
+  "longitude": -162.6895463,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCBA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Russell Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcba2",
+  "slug": "usgs-15297610",
+  "noaaForecastPath": "data/noaa-forecast/RCBA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

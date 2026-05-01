@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02199000",
+  "key": "02199000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02199000",
+  "name": "SOUTH CHANNEL SAVANNAH RIVER NEAR SAVANNAH, GA",
+  "waterbody": "SOUTH CHANNEL SAVANNAH RIVER NEAR SAVANNAH, GA",
+  "state": "GA",
+  "latitude": 32.08270935,
+  "longitude": -81.0023338,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02199000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

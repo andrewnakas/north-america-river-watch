@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09110990",
+  "key": "09110990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09110990",
+  "name": "ELK CREEK AT COAL CREEK ABV CRESTED BUTTE, CO",
+  "waterbody": "ELK CREEK AT COAL CREEK ABV CRESTED BUTTE, CO",
+  "state": "CO",
+  "latitude": 38.85665,
+  "longitude": -107.0597722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09110990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

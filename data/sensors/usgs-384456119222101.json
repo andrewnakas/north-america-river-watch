@@ -1,0 +1,19 @@
+{
+  "id": "usgs:384456119222101",
+  "key": "384456119222101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "384456119222101",
+  "name": "SARONI CANAL 1.1 SW/GW - CANAL SW",
+  "waterbody": "SARONI CANAL 1.1 SW/GW - CANAL SW",
+  "state": "NV",
+  "latitude": 38.74888889,
+  "longitude": -119.3725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-384456119222101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

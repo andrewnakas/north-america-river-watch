@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05404150",
+  "key": "05404150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05404150",
+  "name": "E BRANCH BIG CREEK AT LAVALLE RD NR LA VALLE, WI",
+  "waterbody": "E BRANCH BIG CREEK AT LAVALLE RD NR LA VALLE, WI",
+  "state": "WI",
+  "latitude": 43.6267222,
+  "longitude": -90.0766944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05404150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

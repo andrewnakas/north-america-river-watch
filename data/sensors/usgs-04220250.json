@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04220250",
+  "key": "04220250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04220250",
+  "name": "WEST CREEK NEAR HILTON NY",
+  "waterbody": "WEST CREEK NEAR HILTON NY",
+  "state": "NY",
+  "latitude": 43.30277778,
+  "longitude": -77.8136111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04220250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04253295",
+  "key": "04253295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04253295",
+  "name": "BUCK CREEK, NORTH TRIBUTARY, NEAR INLET NY",
+  "waterbody": "BUCK CREEK, NORTH TRIBUTARY, NEAR INLET NY",
+  "state": "NY",
+  "latitude": 43.74369444,
+  "longitude": -74.7132222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04253295",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

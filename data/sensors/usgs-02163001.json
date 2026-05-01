@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02163001",
+  "key": "02163001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02163001",
+  "name": "SALUDA RIVER NEAR WILLIAMSTON, SC",
+  "waterbody": "SALUDA RIVER NEAR WILLIAMSTON, SC",
+  "state": "SC",
+  "latitude": 34.614117,
+  "longitude": -82.443672,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLSS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saluda River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlss1",
+  "slug": "usgs-02163001",
+  "noaaForecastPath": "data/noaa-forecast/WLSS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

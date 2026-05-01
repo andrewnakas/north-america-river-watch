@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02266296",
+  "key": "02266296",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02266296",
+  "name": "LATERAL 410 BL S-410 NR VINELAND, FL",
+  "waterbody": "LATERAL 410 BL S-410 NR VINELAND, FL",
+  "state": "FL",
+  "latitude": 28.366417,
+  "longitude": -81.598417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02266296",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

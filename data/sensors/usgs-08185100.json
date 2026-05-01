@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08185100",
+  "key": "08185100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08185100",
+  "name": "Martinez Ck nr Saint Hedwig, TX",
+  "waterbody": "Martinez Ck nr Saint Hedwig, TX",
+  "state": "TX",
+  "latitude": 29.44388889,
+  "longitude": -98.1688889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HEIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Martinez Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/heit2",
+  "slug": "usgs-08185100",
+  "noaaForecastPath": "data/noaa-forecast/HEIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16052400",
+  "key": "16052400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16052400",
+  "name": "RB Lawai Stream 300ft US of fork, Kauai, HI",
+  "waterbody": "RB Lawai Stream 300ft US of fork, Kauai, HI",
+  "state": "HI",
+  "latitude": 21.93719444,
+  "longitude": -159.50775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16052400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

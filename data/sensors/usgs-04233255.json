@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04233255",
+  "key": "04233255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04233255",
+  "name": "CAYUGA INLET AT ITHACA NY",
+  "waterbody": "CAYUGA INLET AT ITHACA NY",
+  "state": "NY",
+  "latitude": 42.4272222,
+  "longitude": -76.5216667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ICNN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cayuga Inlet",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/icnn6",
+  "slug": "usgs-04233255",
+  "noaaForecastPath": "data/noaa-forecast/ICNN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

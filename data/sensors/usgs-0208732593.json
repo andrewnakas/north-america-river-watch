@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208732593",
+  "key": "0208732593",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208732593",
+  "name": "PIGEON HOUSE CREEK AT FENTON STREET AT RALEIGH, NC",
+  "waterbody": "PIGEON HOUSE CREEK AT FENTON STREET AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.8029583,
+  "longitude": -78.6202528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon House Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phfn7",
+  "slug": "usgs-0208732593",
+  "noaaForecastPath": "data/noaa-forecast/PHFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14244100",
+  "key": "14244100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14244100",
+  "name": "COWLITZ RIVER NEAR LEXINGTON, WA",
+  "waterbody": "COWLITZ RIVER NEAR LEXINGTON, WA",
+  "state": "WA",
+  "latitude": 46.1767895,
+  "longitude": -122.9063862,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14244100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09183600",
+  "key": "09183600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09183600",
+  "name": "MILL CREEK BELOW SHELEY TUNNEL, NEAR MOAB, UT",
+  "waterbody": "MILL CREEK BELOW SHELEY TUNNEL, NEAR MOAB, UT",
+  "state": "UT",
+  "latitude": 38.48571796,
+  "longitude": -109.4111044,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCSU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcsu1",
+  "slug": "usgs-09183600",
+  "noaaForecastPath": "data/noaa-forecast/MCSU1.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

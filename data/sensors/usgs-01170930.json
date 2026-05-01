@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01170930",
+  "key": "01170930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01170930",
+  "name": "MILL RIVER AT CHRISTIAN LANE AT WHATELY, MA",
+  "waterbody": "MILL RIVER AT CHRISTIAN LANE AT WHATELY, MA",
+  "state": "MA",
+  "latitude": 42.44453229,
+  "longitude": -72.6298117,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01170930",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

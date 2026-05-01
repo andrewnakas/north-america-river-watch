@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07327442",
+  "key": "07327442",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07327442",
+  "name": "Little Washita River near Cyril, OK",
+  "waterbody": "Little Washita River near Cyril, OK",
+  "state": "OK",
+  "latitude": 34.89256647,
+  "longitude": -98.2331053,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYLO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Washita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cylo2",
+  "slug": "usgs-07327442",
+  "noaaForecastPath": "data/noaa-forecast/CYLO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

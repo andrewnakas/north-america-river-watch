@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05366800",
+  "key": "05366800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05366800",
+  "name": "CHIPPEWA R AT GRAND AVE AT EAU CLAIRE, WI",
+  "waterbody": "CHIPPEWA R AT GRAND AVE AT EAU CLAIRE, WI",
+  "state": "WI",
+  "latitude": 44.80959899,
+  "longitude": -91.5029665,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECLW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River (WI)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eclw3",
+  "slug": "usgs-05366800",
+  "noaaForecastPath": "data/noaa-forecast/ECLW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

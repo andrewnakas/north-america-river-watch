@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03437495",
+  "key": "03437495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03437495",
+  "name": "S FK LITTLE R AT HWY 68 BY-PASS AT HOPKINSVILLE,KY",
+  "waterbody": "S FK LITTLE R AT HWY 68 BY-PASS AT HOPKINSVILLE,KY",
+  "state": "KY",
+  "latitude": 36.84948934,
+  "longitude": -87.4288954,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLBK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlbk2",
+  "slug": "usgs-03437495",
+  "noaaForecastPath": "data/noaa-forecast/HLBK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

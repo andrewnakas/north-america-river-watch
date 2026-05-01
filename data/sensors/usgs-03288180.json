@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03288180",
+  "key": "03288180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03288180",
+  "name": "CANE RUN CREEK AT CITATION BLVD NR LEXINGTON, KY",
+  "waterbody": "CANE RUN CREEK AT CITATION BLVD NR LEXINGTON, KY",
+  "state": "KY",
+  "latitude": 38.09166667,
+  "longitude": -84.50138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HLSK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cane Run Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hlsk2",
+  "slug": "usgs-03288180",
+  "noaaForecastPath": "data/noaa-forecast/HLSK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

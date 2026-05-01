@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03102950",
+  "key": "03102950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03102950",
+  "name": "Pymatuning Creek at Kinsman OH",
+  "waterbody": "Pymatuning Creek at Kinsman OH",
+  "state": "OH",
+  "latitude": 41.44283235,
+  "longitude": -80.58812999,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNSO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pymatuning Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knso1",
+  "slug": "usgs-03102950",
+  "noaaForecastPath": "data/noaa-forecast/KNSO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

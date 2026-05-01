@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05330000",
+  "key": "05330000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05330000",
+  "name": "MINNESOTA RIVER NEAR JORDAN, MN",
+  "waterbody": "MINNESOTA RIVER NEAR JORDAN, MN",
+  "state": "MN",
+  "latitude": 44.6926832,
+  "longitude": -93.642001,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JDNM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnesota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jdnm5",
+  "slug": "usgs-05330000",
+  "noaaForecastPath": "data/noaa-forecast/JDNM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

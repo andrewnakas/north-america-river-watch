@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11264500",
+  "key": "11264500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11264500",
+  "name": "MERCED R A HAPPY ISLES BRIDGE NR YOSEMITE CA",
+  "waterbody": "MERCED R A HAPPY ISLES BRIDGE NR YOSEMITE CA",
+  "state": "CA",
+  "latitude": 37.73130354,
+  "longitude": -119.5590243,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TENC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenaya Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tenc1",
+  "slug": "usgs-11264500",
+  "noaaForecastPath": "data/noaa-forecast/TENC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

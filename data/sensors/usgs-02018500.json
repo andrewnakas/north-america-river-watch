@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02018500",
+  "key": "02018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02018500",
+  "name": "CATAWBA CREEK NEAR CATAWBA, VA",
+  "waterbody": "CATAWBA CREEK NEAR CATAWBA, VA",
+  "state": "VA",
+  "latitude": 37.46818624,
+  "longitude": -80.00532199,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTWV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctwv2",
+  "slug": "usgs-02018500",
+  "noaaForecastPath": "data/noaa-forecast/CTWV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11466500",
+  "key": "11466500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11466500",
+  "name": "LAGUNA DE SANTA ROSA NR GRATON CA",
+  "waterbody": "LAGUNA DE SANTA ROSA NR GRATON CA",
+  "state": "CA",
+  "latitude": 38.4526903,
+  "longitude": -122.8352697,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11466500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

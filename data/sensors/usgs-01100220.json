@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100220",
+  "key": "01100220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100220",
+  "name": "MERRIMACK RIVER NEAR POWER LINES, METHUEN, MA",
+  "waterbody": "MERRIMACK RIVER NEAR POWER LINES, METHUEN, MA",
+  "state": "MA",
+  "latitude": 42.66241667,
+  "longitude": -71.2422222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08050800",
+  "key": "08050800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08050800",
+  "name": "Timber Ck nr Collinsville, TX",
+  "waterbody": "Timber Ck nr Collinsville, TX",
+  "state": "TX",
+  "latitude": 33.55455428,
+  "longitude": -96.9472267,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08050800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

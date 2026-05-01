@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14023500",
+  "key": "14023500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14023500",
+  "name": "MCKAY CREEK NEAR PENDLETON,OREG.",
+  "waterbody": "MCKAY CREEK NEAR PENDLETON,OREG.",
+  "state": "OR",
+  "latitude": 45.60929676,
+  "longitude": -118.7997074,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "McKay Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcko3",
+  "slug": "usgs-14023500",
+  "noaaForecastPath": "data/noaa-forecast/MCKO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

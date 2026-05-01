@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04087159",
+  "key": "04087159",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087159",
+  "name": "KINNICKINNIC RIVER @ S. 11TH STREET @ MILWAUKEE,WI",
+  "waterbody": "KINNICKINNIC RIVER @ S. 11TH STREET @ MILWAUKEE,WI",
+  "state": "WI",
+  "latitude": 42.9975,
+  "longitude": -87.92638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KINW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kinnickinnic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kinw3",
+  "slug": "usgs-04087159",
+  "noaaForecastPath": "data/noaa-forecast/KINW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

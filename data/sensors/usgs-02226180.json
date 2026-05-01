@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02226180",
+  "key": "02226180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02226180",
+  "name": "BRUNSWICK RIVER AT ST. SIMONS ISLAND, GA",
+  "waterbody": "BRUNSWICK RIVER AT ST. SIMONS ISLAND, GA",
+  "state": "GA",
+  "latitude": 31.12675,
+  "longitude": -81.40213889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Atlantic Coast",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brng1",
+  "slug": "usgs-02226180",
+  "noaaForecastPath": "data/noaa-forecast/BRNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

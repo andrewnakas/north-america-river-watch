@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03456500",
+  "key": "03456500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03456500",
+  "name": "EAST FORK PIGEON RIVER NEAR CANTON, NC",
+  "waterbody": "EAST FORK PIGEON RIVER NEAR CANTON, NC",
+  "state": "NC",
+  "latitude": 35.46166667,
+  "longitude": -82.8697222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CEPN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Pigeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cepn7",
+  "slug": "usgs-03456500",
+  "noaaForecastPath": "data/noaa-forecast/CEPN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:350841106403510",
+  "key": "350841106403510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "350841106403510",
+  "name": "11N.03E.31.111F MRGSW",
+  "waterbody": "11N.03E.31.111F MRGSW",
+  "state": "NM",
+  "latitude": 35.1448361,
+  "longitude": -106.6763056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-350841106403510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

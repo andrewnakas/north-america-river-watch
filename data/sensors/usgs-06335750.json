@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06335750",
+  "key": "06335750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06335750",
+  "name": "DEEP CREEK NEAR AMIDON, ND",
+  "waterbody": "DEEP CREEK NEAR AMIDON, ND",
+  "state": "ND",
+  "latitude": 46.57638889,
+  "longitude": -103.5580556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06335750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

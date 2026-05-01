@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05531045",
+  "key": "05531045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05531045",
+  "name": "SALT CREEK AT ELK GROVE VILLAGE, IL",
+  "waterbody": "SALT CREEK AT ELK GROVE VILLAGE, IL",
+  "state": "IL",
+  "latitude": 42.0120833,
+  "longitude": -88.001,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EVGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/evgi2",
+  "slug": "usgs-05531045",
+  "noaaForecastPath": "data/noaa-forecast/EVGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

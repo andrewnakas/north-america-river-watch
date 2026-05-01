@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13079300",
+  "key": "13079300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13079300",
+  "name": "CASSIA CREEK BELOW BLACKSMITH CK, ID",
+  "waterbody": "CASSIA CREEK BELOW BLACKSMITH CK, ID",
+  "state": "ID",
+  "latitude": 42.27766944,
+  "longitude": -113.4963417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13079300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

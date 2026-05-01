@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09480000",
+  "key": "09480000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09480000",
+  "name": "SANTA CRUZ RIVER NEAR LOCHIEL, AZ",
+  "waterbody": "SANTA CRUZ RIVER NEAR LOCHIEL, AZ",
+  "state": "AZ",
+  "latitude": 31.35540695,
+  "longitude": -110.5895553,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09480000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

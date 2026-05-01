@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13341000",
+  "key": "13341000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13341000",
+  "name": "NF CLEARWATER RIVER AT AHSAHKA ID",
+  "waterbody": "NF CLEARWATER RIVER AT AHSAHKA ID",
+  "state": "ID",
+  "latitude": 46.5043462,
+  "longitude": -116.3204192,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13341000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

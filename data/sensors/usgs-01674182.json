@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01674182",
+  "key": "01674182",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01674182",
+  "name": "POLECAT CREEK AT ROUTE 301 NEAR PENOLA, VA",
+  "waterbody": "POLECAT CREEK AT ROUTE 301 NEAR PENOLA, VA",
+  "state": "VA",
+  "latitude": 37.9603333,
+  "longitude": -77.3434444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCKV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Polecat Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pckv2",
+  "slug": "usgs-01674182",
+  "noaaForecastPath": "data/noaa-forecast/PCKV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

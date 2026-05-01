@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01192883",
+  "key": "01192883",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01192883",
+  "name": "COGINCHAUG RIVER AT MIDDLEFIELD, CT",
+  "waterbody": "COGINCHAUG RIVER AT MIDDLEFIELD, CT",
+  "state": "CT",
+  "latitude": 41.52023333,
+  "longitude": -72.70653056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COGC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coginchaug River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cogc3",
+  "slug": "usgs-01192883",
+  "noaaForecastPath": "data/noaa-forecast/COGC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

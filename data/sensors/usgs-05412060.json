@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05412060",
+  "key": "05412060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05412060",
+  "name": "Silver Creek near Luana, IA (L-23S)",
+  "waterbody": "Silver Creek near Luana, IA (L-23S)",
+  "state": "IA",
+  "latitude": 43.02192705,
+  "longitude": -91.489309,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05412060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

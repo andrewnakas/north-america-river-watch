@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04114498",
+  "key": "04114498",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04114498",
+  "name": "LOOKING GLASS RIVER NEAR EAGLE, MI",
+  "waterbody": "LOOKING GLASS RIVER NEAR EAGLE, MI",
+  "state": "MI",
+  "latitude": 42.82809018,
+  "longitude": -84.7594339,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Looking Glass River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eagm4",
+  "slug": "usgs-04114498",
+  "noaaForecastPath": "data/noaa-forecast/EAGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

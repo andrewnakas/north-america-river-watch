@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12102190",
+  "key": "12102190",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12102190",
+  "name": "SWAN CREEK AT 80TH ST EAST NEAR TACOMA, WA",
+  "waterbody": "SWAN CREEK AT 80TH ST EAST NEAR TACOMA, WA",
+  "state": "WA",
+  "latitude": 47.18451529,
+  "longitude": -122.393713,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12102190",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

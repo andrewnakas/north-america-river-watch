@@ -1,0 +1,19 @@
+{
+  "id": "usgs:410211081370900",
+  "key": "410211081370900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "410211081370900",
+  "name": "Van Hyning Run at Barberton OH",
+  "waterbody": "Van Hyning Run at Barberton OH",
+  "state": "OH",
+  "latitude": 41.03638889,
+  "longitude": -81.6191667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-410211081370900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

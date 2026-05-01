@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06442900",
+  "key": "06442900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06442900",
+  "name": "ELM CREEK NEAR GANN VALLEY SD",
+  "waterbody": "ELM CREEK NEAR GANN VALLEY SD",
+  "state": "SD",
+  "latitude": 44.07746086,
+  "longitude": -99.15109761,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GAVS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elm Creek (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gavs2",
+  "slug": "usgs-06442900",
+  "noaaForecastPath": "data/noaa-forecast/GAVS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

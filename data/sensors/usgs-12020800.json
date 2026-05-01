@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12020800",
+  "key": "12020800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12020800",
+  "name": "SOUTH FORK CHEHALIS RIVER NEAR WILDWOOD, WA",
+  "waterbody": "SOUTH FORK CHEHALIS RIVER NEAR WILDWOOD, WA",
+  "state": "WA",
+  "latitude": 46.44482815,
+  "longitude": -123.0837376,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCWW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Chehalis Rver",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scww1",
+  "slug": "usgs-12020800",
+  "noaaForecastPath": "data/noaa-forecast/SCWW1.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

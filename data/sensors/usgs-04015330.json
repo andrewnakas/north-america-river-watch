@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04015330",
+  "key": "04015330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04015330",
+  "name": "KNIFE RIVER NEAR TWO HARBORS, MN",
+  "waterbody": "KNIFE RIVER NEAR TWO HARBORS, MN",
+  "state": "MN",
+  "latitude": 46.94694,
+  "longitude": -91.795577,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNIM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Knife River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knim5",
+  "slug": "usgs-04015330",
+  "noaaForecastPath": "data/noaa-forecast/KNIM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

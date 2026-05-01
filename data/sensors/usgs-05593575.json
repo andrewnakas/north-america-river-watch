@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05593575",
+  "key": "05593575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05593575",
+  "name": "LITTLE CROOKED CREEK NEAR NEW MINDEN, IL",
+  "waterbody": "LITTLE CROOKED CREEK NEAR NEW MINDEN, IL",
+  "state": "IL",
+  "latitude": 38.44166667,
+  "longitude": -89.4166667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05593575",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

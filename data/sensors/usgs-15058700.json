@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15058700",
+  "key": "15058700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15058700",
+  "name": "GOVERNMENT C NR KETCHIKAN AK",
+  "waterbody": "GOVERNMENT C NR KETCHIKAN AK",
+  "state": "AK",
+  "latitude": 55.3424302,
+  "longitude": -131.7005736,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15058700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

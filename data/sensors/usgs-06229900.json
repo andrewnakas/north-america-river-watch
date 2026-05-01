@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06229900",
+  "key": "06229900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06229900",
+  "name": "Trout Creek near Fort Washakie, WY",
+  "waterbody": "Trout Creek near Fort Washakie, WY",
+  "state": "WY",
+  "latitude": 42.9510676,
+  "longitude": -108.9490144,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06229900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

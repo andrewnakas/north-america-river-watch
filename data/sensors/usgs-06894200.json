@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06894200",
+  "key": "06894200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06894200",
+  "name": "Fishing River above Mosby, MO",
+  "waterbody": "Fishing River above Mosby, MO",
+  "state": "MO",
+  "latitude": 39.33166957,
+  "longitude": -94.3368922,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06894200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

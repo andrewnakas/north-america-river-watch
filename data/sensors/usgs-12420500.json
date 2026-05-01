@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12420500",
+  "key": "12420500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12420500",
+  "name": "SPOKANE RIVER AT GREENACRES, WA",
+  "waterbody": "SPOKANE RIVER AT GREENACRES, WA",
+  "state": "WA",
+  "latitude": 47.6773972,
+  "longitude": -117.1521484,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12420500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

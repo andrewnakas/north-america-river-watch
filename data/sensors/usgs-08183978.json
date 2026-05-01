@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08183978",
+  "key": "08183978",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08183978",
+  "name": "Cibolo Ck at Specht Rd nr Bulverde, TX",
+  "waterbody": "Cibolo Ck at Specht Rd nr Bulverde, TX",
+  "state": "TX",
+  "latitude": 29.73677778,
+  "longitude": -98.4933722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cibolo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvst2",
+  "slug": "usgs-08183978",
+  "noaaForecastPath": "data/noaa-forecast/BVST2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

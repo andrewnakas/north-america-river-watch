@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01073000",
+  "key": "01073000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01073000",
+  "name": "OYSTER RIVER NEAR DURHAM, NH",
+  "waterbody": "OYSTER RIVER NEAR DURHAM, NH",
+  "state": "NH",
+  "latitude": 43.1486955,
+  "longitude": -70.9650603,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OYSN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oyster River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oysn3",
+  "slug": "usgs-01073000",
+  "noaaForecastPath": "data/noaa-forecast/OYSN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

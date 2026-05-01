@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06701700",
+  "key": "06701700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06701700",
+  "name": "WEST CR. ABV SHREWSBURY GULCH NR WESTCREEK CO",
+  "waterbody": "WEST CR. ABV SHREWSBURY GULCH NR WESTCREEK CO",
+  "state": "CO",
+  "latitude": 39.145425,
+  "longitude": -105.1600111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WECC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Creek (CO)",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wecc2",
+  "slug": "usgs-06701700",
+  "noaaForecastPath": "data/noaa-forecast/WECC2.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

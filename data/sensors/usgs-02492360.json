@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02492360",
+  "key": "02492360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02492360",
+  "name": "WEST HOBOLOCHITTO CREEK NR MCNEILL, MS",
+  "waterbody": "WEST HOBOLOCHITTO CREEK NR MCNEILL, MS",
+  "state": "MS",
+  "latitude": 30.6622222,
+  "longitude": -89.6861111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNLM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Hobolochitto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnlm6",
+  "slug": "usgs-02492360",
+  "noaaForecastPath": "data/noaa-forecast/MNLM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

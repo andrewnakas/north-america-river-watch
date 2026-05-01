@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07071500",
+  "key": "07071500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07071500",
+  "name": "Eleven Point River near Bardley, MO",
+  "waterbody": "Eleven Point River near Bardley, MO",
+  "state": "MO",
+  "latitude": 36.64869444,
+  "longitude": -91.2008333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EPGM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eleven Point River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/epgm7",
+  "slug": "usgs-07071500",
+  "noaaForecastPath": "data/noaa-forecast/EPGM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

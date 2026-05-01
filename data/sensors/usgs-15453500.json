@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15453500",
+  "key": "15453500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15453500",
+  "name": "YUKON R NR STEVENS VILLAGE AK",
+  "waterbody": "YUKON R NR STEVENS VILLAGE AK",
+  "state": "AK",
+  "latitude": 65.875556,
+  "longitude": -149.717778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YRBA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yukon River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yrba2",
+  "slug": "usgs-15453500",
+  "noaaForecastPath": "data/noaa-forecast/YRBA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

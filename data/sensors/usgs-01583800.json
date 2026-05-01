@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01583800",
+  "key": "01583800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01583800",
+  "name": "LONG QUARTER BRANCH AT LUTHERVILLE, MD",
+  "waterbody": "LONG QUARTER BRANCH AT LUTHERVILLE, MD",
+  "state": "MD",
+  "latitude": 39.4256111,
+  "longitude": -76.5961944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LUTM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Quarter Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lutm2",
+  "slug": "usgs-01583800",
+  "noaaForecastPath": "data/noaa-forecast/LUTM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

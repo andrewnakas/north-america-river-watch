@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02270500",
+  "key": "02270500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02270500",
+  "name": "ARBUCKLE CREEK NEAR DE SOTO CITY, FL",
+  "waterbody": "ARBUCKLE CREEK NEAR DE SOTO CITY, FL",
+  "state": "FL",
+  "latitude": 27.44238889,
+  "longitude": -81.2970278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arbuckle Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abkf1",
+  "slug": "usgs-02270500",
+  "noaaForecastPath": "data/noaa-forecast/ABKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

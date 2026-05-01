@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04232040",
+  "key": "04232040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04232040",
+  "name": "IRONDEQUOIT CREEK NEAR PITTSFORD NY",
+  "waterbody": "IRONDEQUOIT CREEK NEAR PITTSFORD NY",
+  "state": "NY",
+  "latitude": 43.05416667,
+  "longitude": -77.4908333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04232040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

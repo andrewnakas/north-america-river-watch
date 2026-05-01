@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12040700",
+  "key": "12040700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12040700",
+  "name": "HOH RIVER BELOW MT TOM CREEK NEAR FORKS, WA",
+  "waterbody": "HOH RIVER BELOW MT TOM CREEK NEAR FORKS, WA",
+  "state": "WA",
+  "latitude": 47.86841907,
+  "longitude": -123.8851952,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12040700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

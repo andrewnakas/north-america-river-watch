@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01335755",
+  "key": "01335755",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01335755",
+  "name": "HUDSON RIVER AT LOCK 1 NEAR WATERFORD NY",
+  "waterbody": "HUDSON RIVER AT LOCK 1 NEAR WATERFORD NY",
+  "state": "NY",
+  "latitude": 42.82483333,
+  "longitude": -73.66108333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01335755",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

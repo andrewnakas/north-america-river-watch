@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03303300",
+  "key": "03303300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03303300",
+  "name": "MIDDLE FORK ANDERSON RIVER AT BRISTOW, IN",
+  "waterbody": "MIDDLE FORK ANDERSON RIVER AT BRISTOW, IN",
+  "state": "IN",
+  "latitude": 38.13894674,
+  "longitude": -86.7210978,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Anderson River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsti3",
+  "slug": "usgs-03303300",
+  "noaaForecastPath": "data/noaa-forecast/BSTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02125000",
+  "key": "02125000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02125000",
+  "name": "BIG BEAR CR NR RICHFIELD, NC",
+  "waterbody": "BIG BEAR CR NR RICHFIELD, NC",
+  "state": "NC",
+  "latitude": 35.3347222,
+  "longitude": -80.3355556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02125000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

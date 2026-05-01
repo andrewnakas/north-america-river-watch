@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07020500",
+  "key": "07020500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07020500",
+  "name": "Mississippi River at Chester, IL",
+  "waterbody": "Mississippi River at Chester, IL",
+  "state": "IL",
+  "latitude": 37.90075,
+  "longitude": -89.8302222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chsi2",
+  "slug": "usgs-07020500",
+  "noaaForecastPath": "data/noaa-forecast/CHSI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

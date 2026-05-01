@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03400986",
+  "key": "03400986",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03400986",
+  "name": "MARTIN'S FORK NEAR HARLAN, KY",
+  "waterbody": "MARTIN'S FORK NEAR HARLAN, KY",
+  "state": "KY",
+  "latitude": 36.8445329,
+  "longitude": -83.3235148,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03400986",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06402000",
+  "key": "06402000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06402000",
+  "name": "FALL RIVER AT HOT SPRINGS,SD",
+  "waterbody": "FALL RIVER AT HOT SPRINGS,SD",
+  "state": "SD",
+  "latitude": 43.43053476,
+  "longitude": -103.4763069,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOTS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fall River (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hots2",
+  "slug": "usgs-06402000",
+  "noaaForecastPath": "data/noaa-forecast/HOTS2.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

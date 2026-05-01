@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03293546",
+  "key": "03293546",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03293546",
+  "name": "OHIO RIVER AT KENNEDY BRIDGE AT LOUISVILLE, KY",
+  "waterbody": "OHIO RIVER AT KENNEDY BRIDGE AT LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.25631264,
+  "longitude": -85.7434873,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03293546",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

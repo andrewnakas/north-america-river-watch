@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02090625",
+  "key": "02090625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02090625",
+  "name": "TURNER SWAMP NEAR EUREKA, NC",
+  "waterbody": "TURNER SWAMP NEAR EUREKA, NC",
+  "state": "NC",
+  "latitude": 35.5707152,
+  "longitude": -77.8794272,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02090625",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

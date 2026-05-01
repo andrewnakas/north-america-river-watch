@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08143500",
+  "key": "08143500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08143500",
+  "name": "Pecan Bayou at Brownwood, TX",
+  "waterbody": "Pecan Bayou at Brownwood, TX",
+  "state": "TX",
+  "latitude": 31.7364,
+  "longitude": -98.9754889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BWDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecan Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bwdt2",
+  "slug": "usgs-08143500",
+  "noaaForecastPath": "data/noaa-forecast/BWDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

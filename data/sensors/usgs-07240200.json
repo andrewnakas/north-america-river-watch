@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07240200",
+  "key": "07240200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07240200",
+  "name": "North Canadian R at Hwy 66 at Oklahoma City, OK",
+  "waterbody": "North Canadian R at Hwy 66 at Oklahoma City, OK",
+  "state": "OK",
+  "latitude": 35.5145007,
+  "longitude": -97.6636534,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07240200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

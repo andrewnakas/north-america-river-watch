@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15199500",
+  "key": "15199500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15199500",
+  "name": "SINONA C NR CHISTOCHINA AK",
+  "waterbody": "SINONA C NR CHISTOCHINA AK",
+  "state": "AK",
+  "latitude": 62.59066312,
+  "longitude": -144.6488659,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15199500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

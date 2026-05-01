@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08276300",
+  "key": "08276300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08276300",
+  "name": "RIO PUEBLO DE TAOS BELOW LOS CORDOVAS, NM",
+  "waterbody": "RIO PUEBLO DE TAOS BELOW LOS CORDOVAS, NM",
+  "state": "NM",
+  "latitude": 36.3793333,
+  "longitude": -105.6678333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TBCN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Pueblo De Taos",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tbcn5",
+  "slug": "usgs-08276300",
+  "noaaForecastPath": "data/noaa-forecast/TBCN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

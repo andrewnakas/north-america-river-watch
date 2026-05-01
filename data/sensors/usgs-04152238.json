@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04152238",
+  "key": "04152238",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04152238",
+  "name": "SOUTH BRANCH TOBACCO RIVER NEAR BEAVERTON, MI",
+  "waterbody": "SOUTH BRANCH TOBACCO RIVER NEAR BEAVERTON, MI",
+  "state": "MI",
+  "latitude": 43.8669691,
+  "longitude": -84.545289,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BEVM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Tobacco River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bevm4",
+  "slug": "usgs-04152238",
+  "noaaForecastPath": "data/noaa-forecast/BEVM4.json",
+  "generatedAt": "2026-05-01T12:10:11.267Z"
+}

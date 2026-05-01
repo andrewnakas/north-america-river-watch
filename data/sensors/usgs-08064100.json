@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08064100",
+  "key": "08064100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08064100",
+  "name": "Chambers Ck nr Rice, TX",
+  "waterbody": "Chambers Ck nr Rice, TX",
+  "state": "TX",
+  "latitude": 32.1984823,
+  "longitude": -96.5202639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chambers Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcet2",
+  "slug": "usgs-08064100",
+  "noaaForecastPath": "data/noaa-forecast/RCET2.json",
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

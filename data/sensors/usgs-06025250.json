@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06025250",
+  "key": "06025250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06025250",
+  "name": "Big Hole River at Maiden Rock nr Divide MT",
+  "waterbody": "Big Hole River at Maiden Rock nr Divide MT",
+  "state": "MT",
+  "latitude": 45.7012694,
+  "longitude": -112.7359694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRDM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Hole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrdm8",
+  "slug": "usgs-06025250",
+  "noaaForecastPath": "data/noaa-forecast/MRDM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

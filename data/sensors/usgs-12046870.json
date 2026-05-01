@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12046870",
+  "key": "12046870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12046870",
+  "name": "PEABODY CREEK AT E 2ND ST AT PORT ANGELES, WA",
+  "waterbody": "PEABODY CREEK AT E 2ND ST AT PORT ANGELES, WA",
+  "state": "WA",
+  "latitude": 48.11713889,
+  "longitude": -123.4318889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12046870",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

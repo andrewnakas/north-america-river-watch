@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07374000",
+  "key": "07374000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07374000",
+  "name": "Mississippi River at Baton Rouge, LA",
+  "waterbody": "Mississippi River at Baton Rouge, LA",
+  "state": "LA",
+  "latitude": 30.44566667,
+  "longitude": -91.1915556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRML1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brml1",
+  "slug": "usgs-07374000",
+  "noaaForecastPath": "data/noaa-forecast/BRML1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

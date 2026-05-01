@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08016450",
+  "key": "08016450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08016450",
+  "name": "Beckwith Ck east of Dequincy, LA",
+  "waterbody": "Beckwith Ck east of Dequincy, LA",
+  "state": "LA",
+  "latitude": 30.44158333,
+  "longitude": -93.3530833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08016450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

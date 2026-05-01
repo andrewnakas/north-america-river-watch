@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362297",
+  "key": "01362297",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362297",
+  "name": "PANTHER KILL AT WOODLAND VALLEY RD NR PHOENICIA NY",
+  "waterbody": "PANTHER KILL AT WOODLAND VALLEY RD NR PHOENICIA NY",
+  "state": "NY",
+  "latitude": 42.07286111,
+  "longitude": -74.33572222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362297",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

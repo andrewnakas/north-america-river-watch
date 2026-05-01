@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03292480",
+  "key": "03292480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03292480",
+  "name": "LITTLE GOOSE CREEK NEAR HARRODS CREEK, KY",
+  "waterbody": "LITTLE GOOSE CREEK NEAR HARRODS CREEK, KY",
+  "state": "KY",
+  "latitude": 38.3127635,
+  "longitude": -85.6261558,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03292480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

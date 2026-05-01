@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01094400",
+  "key": "01094400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01094400",
+  "name": "NORTH NASHUA RIVER AT FITCHBURG, MA",
+  "waterbody": "NORTH NASHUA RIVER AT FITCHBURG, MA",
+  "state": "MA",
+  "latitude": 42.57620079,
+  "longitude": -71.7881285,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FBGM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Nashua River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fbgm3",
+  "slug": "usgs-01094400",
+  "noaaForecastPath": "data/noaa-forecast/FBGM3.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

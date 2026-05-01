@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07331290",
+  "key": "07331290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07331290",
+  "name": "Washita River near Tishomingo, OK",
+  "waterbody": "Washita River near Tishomingo, OK",
+  "state": "OK",
+  "latitude": 34.21926148,
+  "longitude": -96.701669,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWRO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Washita River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twro2",
+  "slug": "usgs-07331290",
+  "noaaForecastPath": "data/noaa-forecast/TWRO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

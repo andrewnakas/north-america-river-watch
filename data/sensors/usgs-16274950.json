@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16274950",
+  "key": "16274950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16274950",
+  "name": "Heeia Stream DS of Haiku Tunnel, Oahu, HI",
+  "waterbody": "Heeia Stream DS of Haiku Tunnel, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.40667222,
+  "longitude": -157.8312083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16274950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

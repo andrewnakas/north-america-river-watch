@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15518040",
+  "key": "15518040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15518040",
+  "name": "NENANA R AT HEALY AK",
+  "waterbody": "NENANA R AT HEALY AK",
+  "state": "AK",
+  "latitude": 63.85370837,
+  "longitude": -148.9578719,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNRA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nenana River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnra2",
+  "slug": "usgs-15518040",
+  "noaaForecastPath": "data/noaa-forecast/HNRA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01573684",
+  "key": "01573684",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573684",
+  "name": "Little Conewago Crk, Gingrich Rd at Upper Lawn PA",
+  "waterbody": "Little Conewago Crk, Gingrich Rd at Upper Lawn PA",
+  "state": "PA",
+  "latitude": 40.22519444,
+  "longitude": -76.55452778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCCP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Conewago Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lccp1",
+  "slug": "usgs-01573684",
+  "noaaForecastPath": "data/noaa-forecast/LCCP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

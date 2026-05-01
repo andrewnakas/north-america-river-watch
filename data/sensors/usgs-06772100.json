@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06772100",
+  "key": "06772100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06772100",
+  "name": "Wood River at Grand Island, Nebr.",
+  "waterbody": "Wood River at Grand Island, Nebr.",
+  "state": "NE",
+  "latitude": 40.8747222,
+  "longitude": -98.3783333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GIDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gidn1",
+  "slug": "usgs-06772100",
+  "noaaForecastPath": "data/noaa-forecast/GIDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

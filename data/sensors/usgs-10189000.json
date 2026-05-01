@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10189000",
+  "key": "10189000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10189000",
+  "name": "EAST FORK SEVIER RIVER NEAR KINGSTON, UT",
+  "waterbody": "EAST FORK SEVIER RIVER NEAR KINGSTON, UT",
+  "state": "UT",
+  "latitude": 38.19636955,
+  "longitude": -112.1477005,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRKU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sevier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srku1",
+  "slug": "usgs-10189000",
+  "noaaForecastPath": "data/noaa-forecast/SRKU1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

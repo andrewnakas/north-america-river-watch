@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05396000",
+  "key": "05396000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05396000",
+  "name": "BIG RIB RIVER AT RIB FALLS, WI",
+  "waterbody": "BIG RIB RIVER AT RIB FALLS, WI",
+  "state": "WI",
+  "latitude": 44.9725,
+  "longitude": -89.9052778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIBW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Rib River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ribw3",
+  "slug": "usgs-05396000",
+  "noaaForecastPath": "data/noaa-forecast/RIBW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

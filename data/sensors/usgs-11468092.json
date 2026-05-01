@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11468092",
+  "key": "11468092",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11468092",
+  "name": "BIG R BLW TWO LOG CR NR COMPTCHE CA",
+  "waterbody": "BIG R BLW TWO LOG CR NR COMPTCHE CA",
+  "state": "CA",
+  "latitude": 39.3182268,
+  "longitude": -123.6147342,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11468092",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

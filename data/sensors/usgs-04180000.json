@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04180000",
+  "key": "04180000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04180000",
+  "name": "CEDAR CREEK NEAR CEDARVILLE, IN",
+  "waterbody": "CEDAR CREEK NEAR CEDARVILLE, IN",
+  "state": "IN",
+  "latitude": 41.21890817,
+  "longitude": -85.0763202,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CDRI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cdri3",
+  "slug": "usgs-04180000",
+  "noaaForecastPath": "data/noaa-forecast/CDRI3.json",
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

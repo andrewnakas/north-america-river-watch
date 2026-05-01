@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01455210",
+  "key": "01455210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01455210",
+  "name": "Pohatcong Creek at Willow Grove NJ",
+  "waterbody": "Pohatcong Creek at Willow Grove NJ",
+  "state": "NJ",
+  "latitude": 40.6982222,
+  "longitude": -75.0848611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01455210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

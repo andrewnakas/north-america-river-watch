@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12302055",
+  "key": "12302055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12302055",
+  "name": "Fisher River near Libby MT",
+  "waterbody": "Fisher River near Libby MT",
+  "state": "MT",
+  "latitude": 48.35560278,
+  "longitude": -115.31465,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FISM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fisher River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fism8",
+  "slug": "usgs-12302055",
+  "noaaForecastPath": "data/noaa-forecast/FISM8.json",
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

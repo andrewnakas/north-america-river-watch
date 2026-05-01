@@ -1,0 +1,19 @@
+{
+  "id": "usgs:350143106402301",
+  "key": "350143106402301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "350143106402301",
+  "name": "09N.03E.07.113E RB-Stilling Well",
+  "waterbody": "09N.03E.07.113E RB-Stilling Well",
+  "state": "NM",
+  "latitude": 35.02783056,
+  "longitude": -106.6734639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-350143106402301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

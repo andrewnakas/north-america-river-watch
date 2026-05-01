@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06225000",
+  "key": "06225000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06225000",
+  "name": "Bull Lake Creek near Lenore, WY",
+  "waterbody": "Bull Lake Creek near Lenore, WY",
+  "state": "WY",
+  "latitude": 43.24245665,
+  "longitude": -109.0229052,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BULW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bull Lake Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bulw4",
+  "slug": "usgs-06225000",
+  "noaaForecastPath": "data/noaa-forecast/BULW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

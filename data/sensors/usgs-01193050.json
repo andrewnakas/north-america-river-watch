@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01193050",
+  "key": "01193050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01193050",
+  "name": "CONNECTICUT RIVER AT MIDDLE HADDAM, CT",
+  "waterbody": "CONNECTICUT RIVER AT MIDDLE HADDAM, CT",
+  "state": "CT",
+  "latitude": 41.54165281,
+  "longitude": -72.55312768,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MHDC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mhdc3",
+  "slug": "usgs-01193050",
+  "noaaForecastPath": "data/noaa-forecast/MHDC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

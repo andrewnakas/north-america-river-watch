@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08106500",
+  "key": "08106500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08106500",
+  "name": "Little Rv nr Cameron, TX",
+  "waterbody": "Little Rv nr Cameron, TX",
+  "state": "TX",
+  "latitude": 30.83519047,
+  "longitude": -96.9466512,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmnt2",
+  "slug": "usgs-08106500",
+  "noaaForecastPath": "data/noaa-forecast/CMNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

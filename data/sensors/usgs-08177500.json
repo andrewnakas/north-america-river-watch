@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08177500",
+  "key": "08177500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08177500",
+  "name": "Coleto Ck nr Victoria, TX",
+  "waterbody": "Coleto Ck nr Victoria, TX",
+  "state": "TX",
+  "latitude": 28.73110317,
+  "longitude": -97.1386004,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coleto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccvt2",
+  "slug": "usgs-08177500",
+  "noaaForecastPath": "data/noaa-forecast/CCVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

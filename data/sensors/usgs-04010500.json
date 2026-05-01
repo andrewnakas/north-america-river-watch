@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04010500",
+  "key": "04010500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04010500",
+  "name": "PIGEON RIVER AT MIDDLE FALLS NR GRAND PORTAGE MN",
+  "waterbody": "PIGEON RIVER AT MIDDLE FALLS NR GRAND PORTAGE MN",
+  "state": "MN",
+  "latitude": 48.01222239,
+  "longitude": -89.616204,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GDPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River (MN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gdpm5",
+  "slug": "usgs-04010500",
+  "noaaForecastPath": "data/noaa-forecast/GDPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

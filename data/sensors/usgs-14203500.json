@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14203500",
+  "key": "14203500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14203500",
+  "name": "TUALATIN RIVER NEAR DILLEY, OR",
+  "waterbody": "TUALATIN RIVER NEAR DILLEY, OR",
+  "state": "OR",
+  "latitude": 45.4748365,
+  "longitude": -123.124274,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tualatin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dllo3",
+  "slug": "usgs-14203500",
+  "noaaForecastPath": "data/noaa-forecast/DLLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

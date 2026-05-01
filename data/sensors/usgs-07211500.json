@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07211500",
+  "key": "07211500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07211500",
+  "name": "CANADIAN RIVER NEAR TAYLOR SPRINGS, NM",
+  "waterbody": "CANADIAN RIVER NEAR TAYLOR SPRINGS, NM",
+  "state": "NM",
+  "latitude": 36.29756944,
+  "longitude": -104.4954722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TYLN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tyln5",
+  "slug": "usgs-07211500",
+  "noaaForecastPath": "data/noaa-forecast/TYLN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

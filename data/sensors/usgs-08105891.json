@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08105891",
+  "key": "08105891",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105891",
+  "name": "Brushy Ck at Red Bud Ln nr Round Rock, TX",
+  "waterbody": "Brushy Ck at Red Bud Ln nr Round Rock, TX",
+  "state": "TX",
+  "latitude": 30.53091944,
+  "longitude": -97.6141111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08105891",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

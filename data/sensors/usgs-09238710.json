@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09238710",
+  "key": "09238710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09238710",
+  "name": "FISH C TRIB BL LONG LK, NR BUFFLAO PASS, CO.",
+  "waterbody": "FISH C TRIB BL LONG LK, NR BUFFLAO PASS, CO.",
+  "state": "CO",
+  "latitude": 40.4766454,
+  "longitude": -106.6875442,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09238710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

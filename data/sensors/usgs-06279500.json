@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06279500",
+  "key": "06279500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06279500",
+  "name": "BIGHORN RIVER AT KANE, WY",
+  "waterbody": "BIGHORN RIVER AT KANE, WY",
+  "state": "WY",
+  "latitude": 44.75852989,
+  "longitude": -108.1815559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LVEW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bighorn River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lvew4",
+  "slug": "usgs-06279500",
+  "noaaForecastPath": "data/noaa-forecast/LVEW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

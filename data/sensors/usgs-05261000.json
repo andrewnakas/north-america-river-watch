@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05261000",
+  "key": "05261000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05261000",
+  "name": "MISSISSIPPI RIVER NEAR FORT RIPLEY, MN",
+  "waterbody": "MISSISSIPPI RIVER NEAR FORT RIPLEY, MN",
+  "state": "MN",
+  "latitude": 46.1805222,
+  "longitude": -94.3658366,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTRM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftrm5",
+  "slug": "usgs-05261000",
+  "noaaForecastPath": "data/noaa-forecast/FTRM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

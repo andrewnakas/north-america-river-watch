@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02213700",
+  "key": "02213700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02213700",
+  "name": "OCMULGEE RIVER NEAR WARNER ROBINS, GA",
+  "waterbody": "OCMULGEE RIVER NEAR WARNER ROBINS, GA",
+  "state": "GA",
+  "latitude": 32.6715317,
+  "longitude": -83.6029603,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02213700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

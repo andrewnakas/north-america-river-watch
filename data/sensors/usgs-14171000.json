@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14171000",
+  "key": "14171000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14171000",
+  "name": "MARYS RIVER NEAR PHILOMATH, OR",
+  "waterbody": "MARYS RIVER NEAR PHILOMATH, OR",
+  "state": "OR",
+  "latitude": 44.525,
+  "longitude": -123.334,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHIO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marys River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phio3",
+  "slug": "usgs-14171000",
+  "noaaForecastPath": "data/noaa-forecast/PHIO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

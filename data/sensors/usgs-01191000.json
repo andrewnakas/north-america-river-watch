@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01191000",
+  "key": "01191000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01191000",
+  "name": "NORTH BRANCH PARK RIVER AT HARTFORD, CT",
+  "waterbody": "NORTH BRANCH PARK RIVER AT HARTFORD, CT",
+  "state": "CT",
+  "latitude": 41.78443889,
+  "longitude": -72.70805556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBPC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Park River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbpc3",
+  "slug": "usgs-01191000",
+  "noaaForecastPath": "data/noaa-forecast/NBPC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

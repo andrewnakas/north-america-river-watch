@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03302030",
+  "key": "03302030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03302030",
+  "name": "POND CREEK AT PENDLETON ROAD NEAR LOUISVILLE, KY",
+  "waterbody": "POND CREEK AT PENDLETON ROAD NEAR LOUISVILLE, KY",
+  "state": "KY",
+  "latitude": 38.05423677,
+  "longitude": -85.8716296,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDOK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pond Creek (C KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdok2",
+  "slug": "usgs-03302030",
+  "noaaForecastPath": "data/noaa-forecast/MDOK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

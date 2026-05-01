@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14241100",
+  "key": "14241100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14241100",
+  "name": "NORTH FORK TOUTLE RIVER AT KID VALLEY, WA",
+  "waterbody": "NORTH FORK TOUTLE RIVER AT KID VALLEY, WA",
+  "state": "WA",
+  "latitude": 46.3651093,
+  "longitude": -122.6289993,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14241100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

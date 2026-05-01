@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03346000",
+  "key": "03346000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03346000",
+  "name": "NORTH FORK EMBARRAS RIVER NEAR OBLONG, IL",
+  "waterbody": "NORTH FORK EMBARRAS RIVER NEAR OBLONG, IL",
+  "state": "IL",
+  "latitude": 39.01027778,
+  "longitude": -87.9455556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OBLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Embarras River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/obli2",
+  "slug": "usgs-03346000",
+  "noaaForecastPath": "data/noaa-forecast/OBLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

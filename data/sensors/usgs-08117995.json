@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08117995",
+  "key": "08117995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117995",
+  "name": "Colorado Rv nr Gail, TX",
+  "waterbody": "Colorado Rv nr Gail, TX",
+  "state": "TX",
+  "latitude": 32.62874497,
+  "longitude": -101.2854152,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JBGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River (TX) 13 miles SE of Gail",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jbgt2",
+  "slug": "usgs-08117995",
+  "noaaForecastPath": "data/noaa-forecast/JBGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

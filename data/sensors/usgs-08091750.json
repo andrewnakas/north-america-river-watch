@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08091750",
+  "key": "08091750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08091750",
+  "name": "Comanche Ck nr Glen Rose, TX",
+  "waterbody": "Comanche Ck nr Glen Rose, TX",
+  "state": "TX",
+  "latitude": 32.2701423,
+  "longitude": -97.7325278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08091750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08178980",
+  "key": "08178980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178980",
+  "name": "Medina Rv abv English Crsg nr Pipe Creek, TX",
+  "waterbody": "Medina Rv abv English Crsg nr Pipe Creek, TX",
+  "state": "TX",
+  "latitude": 29.69438889,
+  "longitude": -98.9793056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MEPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medina River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mept2",
+  "slug": "usgs-08178980",
+  "noaaForecastPath": "data/noaa-forecast/MEPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

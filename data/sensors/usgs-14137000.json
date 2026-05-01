@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14137000",
+  "key": "14137000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14137000",
+  "name": "SANDY RIVER NEAR MARMOT, OR",
+  "waterbody": "SANDY RIVER NEAR MARMOT, OR",
+  "state": "OR",
+  "latitude": 45.3995642,
+  "longitude": -122.1373068,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srmo3",
+  "slug": "usgs-14137000",
+  "noaaForecastPath": "data/noaa-forecast/SRMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02485950",
+  "key": "02485950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02485950",
+  "name": "TOWN CREEK AT JACKSON, MS",
+  "waterbody": "TOWN CREEK AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.3036111,
+  "longitude": -90.1925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOWM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Town Creek (Central MS)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/towm6",
+  "slug": "usgs-02485950",
+  "noaaForecastPath": "data/noaa-forecast/TOWM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

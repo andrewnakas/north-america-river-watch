@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07356000",
+  "key": "07356000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07356000",
+  "name": "Ouachita River near Mount Ida, AR",
+  "waterbody": "Ouachita River near Mount Ida, AR",
+  "state": "AR",
+  "latitude": 34.61,
+  "longitude": -93.6975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07356000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

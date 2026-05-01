@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08313030",
+  "key": "08313030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08313030",
+  "name": "LOS ALAMOS CANYON (UG) NR LOS ALAMOS, NM",
+  "waterbody": "LOS ALAMOS CANYON (UG) NR LOS ALAMOS, NM",
+  "state": "NM",
+  "latitude": 35.87280238,
+  "longitude": -106.260582,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08313030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

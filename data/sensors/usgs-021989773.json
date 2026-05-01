@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021989773",
+  "key": "021989773",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021989773",
+  "name": "SAVANNAH RIVER AT USACE DOCK, AT SAVANNAH, GA",
+  "waterbody": "SAVANNAH RIVER AT USACE DOCK, AT SAVANNAH, GA",
+  "state": "GA",
+  "latitude": 32.08041667,
+  "longitude": -81.0813611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SVDG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Savannah River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/svdg1",
+  "slug": "usgs-021989773",
+  "noaaForecastPath": "data/noaa-forecast/SVDG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

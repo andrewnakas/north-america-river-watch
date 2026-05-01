@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05085420",
+  "key": "05085420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05085420",
+  "name": "SNAKE RIVER ABOVE RADIUM, MN",
+  "waterbody": "SNAKE RIVER ABOVE RADIUM, MN",
+  "state": "MN",
+  "latitude": 48.2683333,
+  "longitude": -96.5113889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05085420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03203600",
+  "key": "03203600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03203600",
+  "name": "GUYANDOTTE RIVER AT LOGAN, WV",
+  "waterbody": "GUYANDOTTE RIVER AT LOGAN, WV",
+  "state": "WV",
+  "latitude": 37.84232616,
+  "longitude": -81.9759574,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOGW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guyandotte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/logw2",
+  "slug": "usgs-03203600",
+  "noaaForecastPath": "data/noaa-forecast/LOGW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

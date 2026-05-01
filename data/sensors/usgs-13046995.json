@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13046995",
+  "key": "13046995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13046995",
+  "name": "FALL RIVER AB YELLOWSTONE CANAL NR SQUIRREL ID",
+  "waterbody": "FALL RIVER AB YELLOWSTONE CANAL NR SQUIRREL ID",
+  "state": "ID",
+  "latitude": 44.06194444,
+  "longitude": -111.1519444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FAYI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fall River (WY-ID)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fayi1",
+  "slug": "usgs-13046995",
+  "noaaForecastPath": "data/noaa-forecast/FAYI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

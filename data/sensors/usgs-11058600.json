@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11058600",
+  "key": "11058600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11058600",
+  "name": "WATERMAN CANYON CREEK NR ARROWHEAD SPRINGS CA",
+  "waterbody": "WATERMAN CANYON CREEK NR ARROWHEAD SPRINGS CA",
+  "state": "CA",
+  "latitude": 34.1858333,
+  "longitude": -117.2722222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11058600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

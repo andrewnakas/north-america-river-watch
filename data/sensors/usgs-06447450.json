@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06447450",
+  "key": "06447450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06447450",
+  "name": "WHITE RIVER NEAR WHITE RIVER, SD",
+  "waterbody": "WHITE RIVER NEAR WHITE RIVER, SD",
+  "state": "SD",
+  "latitude": 43.71304839,
+  "longitude": -100.6850534,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (NE-SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whrs2",
+  "slug": "usgs-06447450",
+  "noaaForecastPath": "data/noaa-forecast/WHRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

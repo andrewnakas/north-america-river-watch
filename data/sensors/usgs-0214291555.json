@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214291555",
+  "key": "0214291555",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214291555",
+  "name": "LONG CREEK NR RHYNE, NC",
+  "waterbody": "LONG CREEK NR RHYNE, NC",
+  "state": "NC",
+  "latitude": 35.30055556,
+  "longitude": -80.9727778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRYN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lryn7",
+  "slug": "usgs-0214291555",
+  "noaaForecastPath": "data/noaa-forecast/LRYN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

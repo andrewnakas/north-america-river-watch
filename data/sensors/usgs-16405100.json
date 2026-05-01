@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16405100",
+  "key": "16405100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16405100",
+  "name": "Molokai Tunnel at East Portal, Molokai, HI",
+  "waterbody": "Molokai Tunnel at East Portal, Molokai, HI",
+  "state": "HI",
+  "latitude": 21.14071389,
+  "longitude": -156.9183306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16405100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

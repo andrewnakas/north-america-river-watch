@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06293500",
+  "key": "06293500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06293500",
+  "name": "Little Bighorn River nr Crow Agency MT",
+  "waterbody": "Little Bighorn River nr Crow Agency MT",
+  "state": "MT",
+  "latitude": 45.56833889,
+  "longitude": -107.45276944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06293500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

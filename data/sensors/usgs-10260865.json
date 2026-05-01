@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10260865",
+  "key": "10260865",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10260865",
+  "name": "GRASS VALLEY C BL GRASS VLY LK NR LK ARROWHEAD CA",
+  "waterbody": "GRASS VALLEY C BL GRASS VLY LK NR LK ARROWHEAD CA",
+  "state": "CA",
+  "latitude": 34.2636111,
+  "longitude": -117.2180556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10260865",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

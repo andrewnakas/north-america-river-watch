@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01393895",
+  "key": "01393895",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01393895",
+  "name": "East Br Rahway Riv at Millburn Ave at Millburn NJ",
+  "waterbody": "East Br Rahway Riv at Millburn Ave at Millburn NJ",
+  "state": "NJ",
+  "latitude": 40.72277778,
+  "longitude": -74.285,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01393895",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

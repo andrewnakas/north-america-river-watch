@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01573600",
+  "key": "01573600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01573600",
+  "name": "Swatara Creek at Middletown, PA",
+  "waterbody": "Swatara Creek at Middletown, PA",
+  "state": "PA",
+  "latitude": 40.1925531,
+  "longitude": -76.7279083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swatara Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtlp1",
+  "slug": "usgs-01573600",
+  "noaaForecastPath": "data/noaa-forecast/MTLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

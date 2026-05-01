@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02056000",
+  "key": "02056000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02056000",
+  "name": "ROANOKE RIVER AT NIAGARA, VA",
+  "waterbody": "ROANOKE RIVER AT NIAGARA, VA",
+  "state": "VA",
+  "latitude": 37.2551384,
+  "longitude": -79.87142539,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NIAV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/niav2",
+  "slug": "usgs-02056000",
+  "noaaForecastPath": "data/noaa-forecast/NIAV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

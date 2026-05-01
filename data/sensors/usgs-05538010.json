@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05538010",
+  "key": "05538010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05538010",
+  "name": "DES PLAINES RIVER AT ROCKDALE, IL",
+  "waterbody": "DES PLAINES RIVER AT ROCKDALE, IL",
+  "state": "IL",
+  "latitude": 41.505,
+  "longitude": -88.0997222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05538010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

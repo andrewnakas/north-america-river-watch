@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01440485",
+  "key": "01440485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01440485",
+  "name": "Swiftwater Creek at Swiftwater, PA",
+  "waterbody": "Swiftwater Creek at Swiftwater, PA",
+  "state": "PA",
+  "latitude": 41.09388988,
+  "longitude": -75.32210958,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01440485",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

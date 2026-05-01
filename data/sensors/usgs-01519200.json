@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01519200",
+  "key": "01519200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01519200",
+  "name": "Cowanesque River at Elkland, PA",
+  "waterbody": "Cowanesque River at Elkland, PA",
+  "state": "PA",
+  "latitude": 41.98749908,
+  "longitude": -77.30216978,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELKP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cowanesque River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elkp1",
+  "slug": "usgs-01519200",
+  "noaaForecastPath": "data/noaa-forecast/ELKP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

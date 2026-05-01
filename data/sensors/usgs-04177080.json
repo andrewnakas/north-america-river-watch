@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04177080",
+  "key": "04177080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04177080",
+  "name": "E BR ST JOSEPH R AT TERRITORIAL RD NR WALDRON, MI",
+  "waterbody": "E BR ST JOSEPH R AT TERRITORIAL RD NR WALDRON, MI",
+  "state": "MI",
+  "latitude": 41.70945895,
+  "longitude": -84.4907444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JOEM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (OH/IN)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/joem4",
+  "slug": "usgs-04177080",
+  "noaaForecastPath": "data/noaa-forecast/JOEM4.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

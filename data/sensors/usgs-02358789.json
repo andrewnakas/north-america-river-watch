@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02358789",
+  "key": "02358789",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02358789",
+  "name": "CHIPOLA RIVER AT MARIANNA FL",
+  "waterbody": "CHIPOLA RIVER AT MARIANNA FL",
+  "state": "FL",
+  "latitude": 30.77297064,
+  "longitude": -85.2163178,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MALF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chipola River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/malf1",
+  "slug": "usgs-02358789",
+  "noaaForecastPath": "data/noaa-forecast/MALF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

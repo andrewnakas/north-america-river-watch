@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07040450",
+  "key": "07040450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07040450",
+  "name": "St. Francis River at Lake City, AR",
+  "waterbody": "St. Francis River at Lake City, AR",
+  "state": "AR",
+  "latitude": 35.8208333,
+  "longitude": -90.4325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCRA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Francis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcra4",
+  "slug": "usgs-07040450",
+  "noaaForecastPath": "data/noaa-forecast/LCRA4.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

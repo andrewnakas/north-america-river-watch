@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03351500",
+  "key": "03351500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03351500",
+  "name": "FALL CREEK NEAR FORTVILLE, IN",
+  "waterbody": "FALL CREEK NEAR FORTVILLE, IN",
+  "state": "IN",
+  "latitude": 39.95475528,
+  "longitude": -85.8674584,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCFI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fall Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcfi3",
+  "slug": "usgs-03351500",
+  "noaaForecastPath": "data/noaa-forecast/FCFI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

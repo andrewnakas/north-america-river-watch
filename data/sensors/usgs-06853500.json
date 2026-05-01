@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06853500",
+  "key": "06853500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06853500",
+  "name": "REPUBLICAN R NR HARDY, NE",
+  "waterbody": "REPUBLICAN R NR HARDY, NE",
+  "state": "KS",
+  "latitude": 39.9936611,
+  "longitude": -97.9318583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HDYN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hdyn1",
+  "slug": "usgs-06853500",
+  "noaaForecastPath": "data/noaa-forecast/HDYN1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

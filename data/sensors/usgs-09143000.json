@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09143000",
+  "key": "09143000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09143000",
+  "name": "SURFACE CREEK NEAR CEDAREDGE, CO",
+  "waterbody": "SURFACE CREEK NEAR CEDAREDGE, CO",
+  "state": "CO",
+  "latitude": 38.984722,
+  "longitude": -107.853889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Surface Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sncc2",
+  "slug": "usgs-09143000",
+  "noaaForecastPath": "data/noaa-forecast/SNCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

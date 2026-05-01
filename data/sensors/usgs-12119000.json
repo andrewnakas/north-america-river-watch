@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12119000",
+  "key": "12119000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12119000",
+  "name": "CEDAR RIVER AT RENTON, WA",
+  "waterbody": "CEDAR RIVER AT RENTON, WA",
+  "state": "WA",
+  "latitude": 47.4825999,
+  "longitude": -122.2034547,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RNTW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River (WA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rntw1",
+  "slug": "usgs-12119000",
+  "noaaForecastPath": "data/noaa-forecast/RNTW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

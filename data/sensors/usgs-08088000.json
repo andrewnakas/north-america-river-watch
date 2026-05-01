@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08088000",
+  "key": "08088000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08088000",
+  "name": "Brazos Rv nr South Bend, TX",
+  "waterbody": "Brazos Rv nr South Bend, TX",
+  "state": "TX",
+  "latitude": 33.02428377,
+  "longitude": -98.6439481,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOUT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sout2",
+  "slug": "usgs-08088000",
+  "noaaForecastPath": "data/noaa-forecast/SOUT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

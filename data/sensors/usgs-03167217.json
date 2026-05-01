@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03167217",
+  "key": "03167217",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03167217",
+  "name": "BURKES FORK AT BOLT MILL RD NEAR DUGSPUR, VA",
+  "waterbody": "BURKES FORK AT BOLT MILL RD NEAR DUGSPUR, VA",
+  "state": "VA",
+  "latitude": 36.80736111,
+  "longitude": -80.53883056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FBFV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Burkes Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fbfv2",
+  "slug": "usgs-03167217",
+  "noaaForecastPath": "data/noaa-forecast/FBFV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

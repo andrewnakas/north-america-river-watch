@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12346500",
+  "key": "12346500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12346500",
+  "name": "Skalkaho Creek near Hamilton MT",
+  "waterbody": "Skalkaho Creek near Hamilton MT",
+  "state": "MT",
+  "latitude": 46.1607944,
+  "longitude": -113.9487194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12346500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

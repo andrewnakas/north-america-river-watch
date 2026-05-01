@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07364300",
+  "key": "07364300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07364300",
+  "name": "Chemin-A-Haut Bayou near Beekman, LA",
+  "waterbody": "Chemin-A-Haut Bayou near Beekman, LA",
+  "state": "LA",
+  "latitude": 32.9820721,
+  "longitude": -91.8056818,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHBL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chemin-a-haut Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chbl1",
+  "slug": "usgs-07364300",
+  "noaaForecastPath": "data/noaa-forecast/CHBL1.json",
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

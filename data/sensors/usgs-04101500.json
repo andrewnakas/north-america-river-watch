@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04101500",
+  "key": "04101500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101500",
+  "name": "ST. JOSEPH RIVER AT NILES, MI",
+  "waterbody": "ST. JOSEPH RIVER AT NILES, MI",
+  "state": "MI",
+  "latitude": 41.8292138,
+  "longitude": -86.2597325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NILM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Joseph River (MI/IN)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nilm4",
+  "slug": "usgs-04101500",
+  "noaaForecastPath": "data/noaa-forecast/NILM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

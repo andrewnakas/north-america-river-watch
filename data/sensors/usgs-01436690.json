@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01436690",
+  "key": "01436690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01436690",
+  "name": "NEVERSINK RIVER AT BRIDGEVILLE NY",
+  "waterbody": "NEVERSINK RIVER AT BRIDGEVILLE NY",
+  "state": "NY",
+  "latitude": 41.63780556,
+  "longitude": -74.61738889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neversink River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brgn6",
+  "slug": "usgs-01436690",
+  "noaaForecastPath": "data/noaa-forecast/BRGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

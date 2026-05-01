@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07061600",
+  "key": "07061600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07061600",
+  "name": "Black River below Annapolis, MO",
+  "waterbody": "Black River below Annapolis, MO",
+  "state": "MO",
+  "latitude": 37.325194,
+  "longitude": -90.764667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07061600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

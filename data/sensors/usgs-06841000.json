@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06841000",
+  "key": "06841000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06841000",
+  "name": "MEDICINE CREEK ABOVE HARRY STRUNK LAKE, NE",
+  "waterbody": "MEDICINE CREEK ABOVE HARRY STRUNK LAKE, NE",
+  "state": "NE",
+  "latitude": 40.50055556,
+  "longitude": -100.3227778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06841000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

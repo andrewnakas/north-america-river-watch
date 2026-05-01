@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02147020",
+  "key": "02147020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02147020",
+  "name": "CATAWBA RIVER BELOW CATAWBA, SC",
+  "waterbody": "CATAWBA RIVER BELOW CATAWBA, SC",
+  "state": "SC",
+  "latitude": 34.83625705,
+  "longitude": -80.879518,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctbs1",
+  "slug": "usgs-02147020",
+  "noaaForecastPath": "data/noaa-forecast/CTBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

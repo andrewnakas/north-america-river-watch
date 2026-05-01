@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06871500",
+  "key": "06871500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06871500",
+  "name": "BOW C NR STOCKTON, KS",
+  "waterbody": "BOW C NR STOCKTON, KS",
+  "state": "KS",
+  "latitude": 39.56028889,
+  "longitude": -99.2855722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKTK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sktk1",
+  "slug": "usgs-06871500",
+  "noaaForecastPath": "data/noaa-forecast/SKTK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

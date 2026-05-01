@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05548030",
+  "key": "05548030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05548030",
+  "name": "NIPPERSINK CREEK NEAR GREENWOOD, IL",
+  "waterbody": "NIPPERSINK CREEK NEAR GREENWOOD, IL",
+  "state": "IL",
+  "latitude": 42.41444444,
+  "longitude": -88.4416667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05548030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03204346",
+  "key": "03204346",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03204346",
+  "name": "MIDDLE FORK MUD RIVER NEAR GRIFFITHSVILLE, WV",
+  "waterbody": "MIDDLE FORK MUD RIVER NEAR GRIFFITHSVILLE, WV",
+  "state": "WV",
+  "latitude": 38.25441667,
+  "longitude": -82.0401667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GFVW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud River (WV)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gfvw2",
+  "slug": "usgs-03204346",
+  "noaaForecastPath": "data/noaa-forecast/GFVW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

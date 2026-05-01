@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415850",
+  "key": "09415850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415850",
+  "name": "PAHRANAGAT WASH NR MOAPA, NV",
+  "waterbody": "PAHRANAGAT WASH NR MOAPA, NV",
+  "state": "NV",
+  "latitude": 36.72941417,
+  "longitude": -114.7699971,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

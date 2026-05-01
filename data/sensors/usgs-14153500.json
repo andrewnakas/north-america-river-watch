@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14153500",
+  "key": "14153500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14153500",
+  "name": "COAST FORK WILLAMETTE R BLW COTTAGE GROVE DAM, OR",
+  "waterbody": "COAST FORK WILLAMETTE R BLW COTTAGE GROVE DAM, OR",
+  "state": "OR",
+  "latitude": 43.72067785,
+  "longitude": -123.0497994,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coto3",
+  "slug": "usgs-14153500",
+  "noaaForecastPath": "data/noaa-forecast/COTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04087204",
+  "key": "04087204",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087204",
+  "name": "OAK CREEK AT SOUTH MILWAUKEE, WI",
+  "waterbody": "OAK CREEK AT SOUTH MILWAUKEE, WI",
+  "state": "WI",
+  "latitude": 42.925,
+  "longitude": -87.87,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OAKW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oakw3",
+  "slug": "usgs-04087204",
+  "noaaForecastPath": "data/noaa-forecast/OAKW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

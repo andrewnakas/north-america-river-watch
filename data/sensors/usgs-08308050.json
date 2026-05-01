@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08308050",
+  "key": "08308050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08308050",
+  "name": "RIO TESUQUE BELOW DIVERSIONS NEAR SANTA FE, NM",
+  "waterbody": "RIO TESUQUE BELOW DIVERSIONS NEAR SANTA FE, NM",
+  "state": "NM",
+  "latitude": 35.77151667,
+  "longitude": -105.9412,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08308050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

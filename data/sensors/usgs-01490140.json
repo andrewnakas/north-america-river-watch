@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01490140",
+  "key": "01490140",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01490140",
+  "name": "LITTLE BLACKWATER RIVER AT SEWARD, MD",
+  "waterbody": "LITTLE BLACKWATER RIVER AT SEWARD, MD",
+  "state": "MD",
+  "latitude": 38.44527778,
+  "longitude": -76.08388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01490140",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

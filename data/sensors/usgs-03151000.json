@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03151000",
+  "key": "03151000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03151000",
+  "name": "OHIO RIVER AT PARKERSBURG, WV",
+  "waterbody": "OHIO RIVER AT PARKERSBURG, WV",
+  "state": "WV",
+  "latitude": 39.2681306,
+  "longitude": -81.5637358,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PARW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/parw2",
+  "slug": "usgs-03151000",
+  "noaaForecastPath": "data/noaa-forecast/PARW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

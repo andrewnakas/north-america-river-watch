@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01410820",
+  "key": "01410820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01410820",
+  "name": "Great Egg Harbor River near Blue Anchor NJ",
+  "waterbody": "Great Egg Harbor River near Blue Anchor NJ",
+  "state": "NJ",
+  "latitude": 39.66916667,
+  "longitude": -74.9133333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BANN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Great Egg Harbor River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bann4",
+  "slug": "usgs-01410820",
+  "noaaForecastPath": "data/noaa-forecast/BANN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

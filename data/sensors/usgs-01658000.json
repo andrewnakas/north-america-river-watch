@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01658000",
+  "key": "01658000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01658000",
+  "name": "MATTAWOMAN CREEK NEAR POMONKEY, MD",
+  "waterbody": "MATTAWOMAN CREEK NEAR POMONKEY, MD",
+  "state": "MD",
+  "latitude": 38.59613889,
+  "longitude": -77.05602778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "POMM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mattawoman Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pomm2",
+  "slug": "usgs-01658000",
+  "noaaForecastPath": "data/noaa-forecast/POMM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

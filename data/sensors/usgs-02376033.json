@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02376033",
+  "key": "02376033",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02376033",
+  "name": "ESCAMBIA RIVER NR MOLINO, FLA.",
+  "waterbody": "ESCAMBIA RIVER NR MOLINO, FLA.",
+  "state": "FL",
+  "latitude": 30.6701917,
+  "longitude": -87.2669179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNOF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Escambia River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnof1",
+  "slug": "usgs-02376033",
+  "noaaForecastPath": "data/noaa-forecast/MNOF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

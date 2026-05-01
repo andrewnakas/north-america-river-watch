@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204382800",
+  "key": "0204382800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204382800",
+  "name": "PASQUOTANK RIVER NEAR SOUTH MILLS, NC",
+  "waterbody": "PASQUOTANK RIVER NEAR SOUTH MILLS, NC",
+  "state": "NC",
+  "latitude": 36.42138889,
+  "longitude": -76.3425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSQN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pasquotank River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/psqn7",
+  "slug": "usgs-0204382800",
+  "noaaForecastPath": "data/noaa-forecast/PSQN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

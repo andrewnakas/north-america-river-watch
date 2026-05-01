@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08061548",
+  "key": "08061548",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08061548",
+  "name": "Muddy Ck at Creek Crossing Ln nr Sachse, TX",
+  "waterbody": "Muddy Ck at Creek Crossing Ln nr Sachse, TX",
+  "state": "TX",
+  "latitude": 32.9858611,
+  "longitude": -96.5564167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08061548",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

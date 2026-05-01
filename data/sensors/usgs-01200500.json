@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01200500",
+  "key": "01200500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01200500",
+  "name": "HOUSATONIC RIVER AT GAYLORDSVILLE, CT",
+  "waterbody": "HOUSATONIC RIVER AT GAYLORDSVILLE, CT",
+  "state": "CT",
+  "latitude": 41.65304449,
+  "longitude": -73.48982401,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GAYC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Housatonic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gayc3",
+  "slug": "usgs-01200500",
+  "noaaForecastPath": "data/noaa-forecast/GAYC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

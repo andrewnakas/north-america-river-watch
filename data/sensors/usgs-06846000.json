@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06846000",
+  "key": "06846000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06846000",
+  "name": "BEAVER C AT LUDELL, KS",
+  "waterbody": "BEAVER C AT LUDELL, KS",
+  "state": "KS",
+  "latitude": 39.84805785,
+  "longitude": -100.9615446,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LDLK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ldlk1",
+  "slug": "usgs-06846000",
+  "noaaForecastPath": "data/noaa-forecast/LDLK1.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

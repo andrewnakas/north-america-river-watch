@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08079010",
+  "key": "08079010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08079010",
+  "name": "Oyster Ck at FM 2004 nr Lake Jackson, TX",
+  "waterbody": "Oyster Ck at FM 2004 nr Lake Jackson, TX",
+  "state": "TX",
+  "latitude": 29.0536111,
+  "longitude": -95.4625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08079010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

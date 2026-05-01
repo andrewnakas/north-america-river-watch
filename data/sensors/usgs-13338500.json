@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13338500",
+  "key": "13338500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13338500",
+  "name": "SF CLEARWATER RIVER AT STITES ID",
+  "waterbody": "SF CLEARWATER RIVER AT STITES ID",
+  "state": "ID",
+  "latitude": 46.08638889,
+  "longitude": -115.9766667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STII1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Clearwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stii1",
+  "slug": "usgs-13338500",
+  "noaaForecastPath": "data/noaa-forecast/STII1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

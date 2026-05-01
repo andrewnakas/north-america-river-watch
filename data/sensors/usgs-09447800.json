@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09447800",
+  "key": "09447800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09447800",
+  "name": "BONITA CREEK NEAR MORENCI, AZ.",
+  "waterbody": "BONITA CREEK NEAR MORENCI, AZ.",
+  "state": "AZ",
+  "latitude": 32.9556458,
+  "longitude": -109.5312047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNMA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bonita Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnma3",
+  "slug": "usgs-09447800",
+  "noaaForecastPath": "data/noaa-forecast/BNMA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

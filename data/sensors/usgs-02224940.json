@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02224940",
+  "key": "02224940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02224940",
+  "name": "ALTAMAHA RIVER AT US 221, NR CHARLOTTEVILLE, GA",
+  "waterbody": "ALTAMAHA RIVER AT US 221, NR CHARLOTTEVILLE, GA",
+  "state": "GA",
+  "latitude": 31.9578611,
+  "longitude": -82.5170278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHRG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Altamaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chrg1",
+  "slug": "usgs-02224940",
+  "noaaForecastPath": "data/noaa-forecast/CHRG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

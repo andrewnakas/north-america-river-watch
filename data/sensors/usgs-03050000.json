@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03050000",
+  "key": "03050000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03050000",
+  "name": "TYGART VALLEY RIVER NEAR DAILEY, WV",
+  "waterbody": "TYGART VALLEY RIVER NEAR DAILEY, WV",
+  "state": "WV",
+  "latitude": 38.809275,
+  "longitude": -79.8817342,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLYW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tygart Valley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlyw2",
+  "slug": "usgs-03050000",
+  "noaaForecastPath": "data/noaa-forecast/DLYW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

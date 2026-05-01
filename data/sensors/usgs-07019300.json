@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07019300",
+  "key": "07019300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07019300",
+  "name": "Meramec River at Arnold, MO",
+  "waterbody": "Meramec River at Arnold, MO",
+  "state": "MO",
+  "latitude": 38.45741667,
+  "longitude": -90.3604167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Meramec River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arnm7",
+  "slug": "usgs-07019300",
+  "noaaForecastPath": "data/noaa-forecast/ARNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

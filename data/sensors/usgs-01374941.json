@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01374941",
+  "key": "01374941",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01374941",
+  "name": "MUSCOOT RIVER BELOW DAM AT AMAWALK NY",
+  "waterbody": "MUSCOOT RIVER BELOW DAM AT AMAWALK NY",
+  "state": "NY",
+  "latitude": 41.2876111,
+  "longitude": -73.75363889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01374941",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

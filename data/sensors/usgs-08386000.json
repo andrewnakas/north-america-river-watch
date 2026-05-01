@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08386000",
+  "key": "08386000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08386000",
+  "name": "PECOS RIVER NEAR ACME, NM",
+  "waterbody": "PECOS RIVER NEAR ACME, NM",
+  "state": "NM",
+  "latitude": 33.57185556,
+  "longitude": -104.3736028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ACMN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/acmn5",
+  "slug": "usgs-08386000",
+  "noaaForecastPath": "data/noaa-forecast/ACMN5.json",
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

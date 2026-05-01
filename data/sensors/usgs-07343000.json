@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07343000",
+  "key": "07343000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07343000",
+  "name": "N Sulphur Rv nr Cooper, TX",
+  "waterbody": "N Sulphur Rv nr Cooper, TX",
+  "state": "TX",
+  "latitude": 33.47483009,
+  "longitude": -95.5877347,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Sulphur River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cppt2",
+  "slug": "usgs-07343000",
+  "noaaForecastPath": "data/noaa-forecast/CPPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

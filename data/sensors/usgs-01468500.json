@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01468500",
+  "key": "01468500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01468500",
+  "name": "Schuylkill River at Landingville, PA",
+  "waterbody": "Schuylkill River at Landingville, PA",
+  "state": "PA",
+  "latitude": 40.6292577,
+  "longitude": -76.1246622,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGVP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schuylkill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgvp1",
+  "slug": "usgs-01468500",
+  "noaaForecastPath": "data/noaa-forecast/LGVP1.json",
+  "generatedAt": "2026-05-01T12:10:11.353Z"
+}

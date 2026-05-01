@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12143600",
+  "key": "12143600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12143600",
+  "name": "SF SNOQUALMIE RIVER AT EDGEWICK, WA",
+  "waterbody": "SF SNOQUALMIE RIVER AT EDGEWICK, WA",
+  "state": "WA",
+  "latitude": 47.45260396,
+  "longitude": -121.7178847,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12143600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

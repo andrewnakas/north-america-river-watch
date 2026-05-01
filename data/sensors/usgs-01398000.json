@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01398000",
+  "key": "01398000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01398000",
+  "name": "Neshanic River at Reaville NJ",
+  "waterbody": "Neshanic River at Reaville NJ",
+  "state": "NJ",
+  "latitude": 40.47333333,
+  "longitude": -74.82777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "REAN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neshanic River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rean4",
+  "slug": "usgs-01398000",
+  "noaaForecastPath": "data/noaa-forecast/REAN4.json",
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

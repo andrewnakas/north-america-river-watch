@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13058000",
+  "key": "13058000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13058000",
+  "name": "WILLOW CREEK NR RIRIE ID",
+  "waterbody": "WILLOW CREEK NR RIRIE ID",
+  "state": "ID",
+  "latitude": 43.5833333,
+  "longitude": -111.746111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIRI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek (Eastern ID)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/riri1",
+  "slug": "usgs-13058000",
+  "noaaForecastPath": "data/noaa-forecast/RIRI1.json",
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08117370",
+  "key": "08117370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08117370",
+  "name": "San Bernard Rv nr Chesterville, TX",
+  "waterbody": "San Bernard Rv nr Chesterville, TX",
+  "state": "TX",
+  "latitude": 29.66075,
+  "longitude": -96.2436667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Bernard River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csrt2",
+  "slug": "usgs-08117370",
+  "noaaForecastPath": "data/noaa-forecast/CSRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

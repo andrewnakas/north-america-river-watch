@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06441110",
+  "key": "06441110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06441110",
+  "name": "PLUM CREEK BELOW HAYES, SD",
+  "waterbody": "PLUM CREEK BELOW HAYES, SD",
+  "state": "SD",
+  "latitude": 44.21053769,
+  "longitude": -100.7265279,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06441110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

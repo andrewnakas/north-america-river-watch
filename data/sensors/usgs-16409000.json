@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16409000",
+  "key": "16409000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16409000",
+  "name": "Waihanau Stream nr Kalaupapa, Molokai, HI",
+  "waterbody": "Waihanau Stream nr Kalaupapa, Molokai, HI",
+  "state": "HI",
+  "latitude": 21.15670833,
+  "longitude": -156.9581528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16409000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

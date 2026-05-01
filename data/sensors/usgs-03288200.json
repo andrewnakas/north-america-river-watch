@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03288200",
+  "key": "03288200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03288200",
+  "name": "CANE RUN AT BEREA ROAD NEAR DONERAIL, KY",
+  "waterbody": "CANE RUN AT BEREA ROAD NEAR DONERAIL, KY",
+  "state": "KY",
+  "latitude": 38.13868695,
+  "longitude": -84.5171625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03288200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

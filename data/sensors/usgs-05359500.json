@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05359500",
+  "key": "05359500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05359500",
+  "name": "SOUTH FORK FLAMBEAU RIVER NEAR PHILLIPS, WI",
+  "waterbody": "SOUTH FORK FLAMBEAU RIVER NEAR PHILLIPS, WI",
+  "state": "WI",
+  "latitude": 45.7033333,
+  "longitude": -90.6155556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFFW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "S. Fork Flambeau River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sffw3",
+  "slug": "usgs-05359500",
+  "noaaForecastPath": "data/noaa-forecast/SFFW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

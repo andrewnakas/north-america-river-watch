@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12395500",
+  "key": "12395500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12395500",
+  "name": "PEND OREILLE RIVER AT NEWPORT WA",
+  "waterbody": "PEND OREILLE RIVER AT NEWPORT WA",
+  "state": "ID",
+  "latitude": 48.1822222,
+  "longitude": -117.0341667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12395500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

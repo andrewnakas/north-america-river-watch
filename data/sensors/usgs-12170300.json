@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12170300",
+  "key": "12170300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12170300",
+  "name": "STILLAGUAMISH RIVER NEAR STANWOOD, WA",
+  "waterbody": "STILLAGUAMISH RIVER NEAR STANWOOD, WA",
+  "state": "WA",
+  "latitude": 48.2112101,
+  "longitude": -122.337374,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STWW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillaguamish River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stww1",
+  "slug": "usgs-12170300",
+  "noaaForecastPath": "data/noaa-forecast/STWW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

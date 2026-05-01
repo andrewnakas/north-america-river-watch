@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204293125",
+  "key": "0204293125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204293125",
+  "name": "LONDON BRIDGE CREEK AT RT 58 AT VIRGINIA BEACH, VA",
+  "waterbody": "LONDON BRIDGE CREEK AT RT 58 AT VIRGINIA BEACH, VA",
+  "state": "VA",
+  "latitude": 36.84113889,
+  "longitude": -76.05713889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LONV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "London Bridge Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lonv2",
+  "slug": "usgs-0204293125",
+  "noaaForecastPath": "data/noaa-forecast/LONV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

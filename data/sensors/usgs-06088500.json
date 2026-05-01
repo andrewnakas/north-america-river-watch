@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06088500",
+  "key": "06088500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06088500",
+  "name": "Muddy Creek at Vaughn MT",
+  "waterbody": "Muddy Creek at Vaughn MT",
+  "state": "MT",
+  "latitude": 47.56126667,
+  "longitude": -111.54176944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDYM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdym8",
+  "slug": "usgs-06088500",
+  "noaaForecastPath": "data/noaa-forecast/MDYM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

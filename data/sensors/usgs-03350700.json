@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03350700",
+  "key": "03350700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03350700",
+  "name": "STONY CREEK NEAR NOBLESVILLE, IN",
+  "waterbody": "STONY CREEK NEAR NOBLESVILLE, IN",
+  "state": "IN",
+  "latitude": 40.0289211,
+  "longitude": -85.9955181,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scni3",
+  "slug": "usgs-03350700",
+  "noaaForecastPath": "data/noaa-forecast/SCNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

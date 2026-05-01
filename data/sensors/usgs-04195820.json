@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04195820",
+  "key": "04195820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04195820",
+  "name": "Portage River near Elmore OH",
+  "waterbody": "Portage River near Elmore OH",
+  "state": "OH",
+  "latitude": 41.49116178,
+  "longitude": -83.2246454,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EOMO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eomo1",
+  "slug": "usgs-04195820",
+  "noaaForecastPath": "data/noaa-forecast/EOMO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

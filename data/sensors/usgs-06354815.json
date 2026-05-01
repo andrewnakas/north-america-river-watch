@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06354815",
+  "key": "06354815",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06354815",
+  "name": "PORCUPINE CREEK NEAR FORT YATES, ND",
+  "waterbody": "PORCUPINE CREEK NEAR FORT YATES, ND",
+  "state": "ND",
+  "latitude": 46.19328885,
+  "longitude": -100.751875,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06354815",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

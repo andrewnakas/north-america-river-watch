@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08078400",
+  "key": "08078400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08078400",
+  "name": "Austin Bayou at SH 35 nr Liverpool, TX",
+  "waterbody": "Austin Bayou at SH 35 nr Liverpool, TX",
+  "state": "TX",
+  "latitude": 29.28088333,
+  "longitude": -95.3317917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Austin Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aust2",
+  "slug": "usgs-08078400",
+  "noaaForecastPath": "data/noaa-forecast/AUST2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

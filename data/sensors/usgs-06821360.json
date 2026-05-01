@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06821360",
+  "key": "06821360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06821360",
+  "name": "ARIKAREE RIVER ABV SPRING CANYON NR IDALIA CO",
+  "waterbody": "ARIKAREE RIVER ABV SPRING CANYON NR IDALIA CO",
+  "state": "CO",
+  "latitude": 39.75193556,
+  "longitude": -102.4121429,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06821360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

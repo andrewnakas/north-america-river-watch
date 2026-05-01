@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06794000",
+  "key": "06794000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06794000",
+  "name": "Beaver Creek at Genoa, Nebr.",
+  "waterbody": "Beaver Creek at Genoa, Nebr.",
+  "state": "NE",
+  "latitude": 41.440658,
+  "longitude": -97.734667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GEON1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (Loup River tributary)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/geon1",
+  "slug": "usgs-06794000",
+  "noaaForecastPath": "data/noaa-forecast/GEON1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

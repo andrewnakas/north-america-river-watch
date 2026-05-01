@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01406050",
+  "key": "01406050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01406050",
+  "name": "Deep Run at Old Bridge NJ",
+  "waterbody": "Deep Run at Old Bridge NJ",
+  "state": "NJ",
+  "latitude": 40.415,
+  "longitude": -74.34888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01406050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

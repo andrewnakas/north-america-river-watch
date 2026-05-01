@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04127570",
+  "key": "04127570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04127570",
+  "name": "TORCH RIVER AT COUNTY ROAD 593 AT TORCH RIVER, MI",
+  "waterbody": "TORCH RIVER AT COUNTY ROAD 593 AT TORCH RIVER, MI",
+  "state": "MI",
+  "latitude": 44.8504,
+  "longitude": -85.3275222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04127570",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

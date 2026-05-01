@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02198760",
+  "key": "02198760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02198760",
+  "name": "SAVANNAH RIVER ABOVE HARDEEVILLE, SC",
+  "waterbody": "SAVANNAH RIVER ABOVE HARDEEVILLE, SC",
+  "state": "SC",
+  "latitude": 32.34963773,
+  "longitude": -81.1248324,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRDS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Savannah River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrds1",
+  "slug": "usgs-02198760",
+  "noaaForecastPath": "data/noaa-forecast/HRDS1.json",
+  "generatedAt": "2026-05-01T12:10:11.376Z"
+}

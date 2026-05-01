@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01466610",
+  "key": "01466610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466610",
+  "name": "Cooper Br at Glasshouse Rd in Byrne St Forest NJ",
+  "waterbody": "Cooper Br at Glasshouse Rd in Byrne St Forest NJ",
+  "state": "NJ",
+  "latitude": 39.8743333,
+  "longitude": -74.5173333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01466610",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

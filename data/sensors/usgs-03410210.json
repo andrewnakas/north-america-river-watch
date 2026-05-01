@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03410210",
+  "key": "03410210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03410210",
+  "name": "SOUTH FK CUMBERLAND RIVER AT LEATHERWOOD FORD, TN",
+  "waterbody": "SOUTH FK CUMBERLAND RIVER AT LEATHERWOOD FORD, TN",
+  "state": "TN",
+  "latitude": 36.47739057,
+  "longitude": -84.6693508,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTWT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big South Fork Cumberland River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltwt1",
+  "slug": "usgs-03410210",
+  "noaaForecastPath": "data/noaa-forecast/LTWT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

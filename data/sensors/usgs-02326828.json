@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02326828",
+  "key": "02326828",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326828",
+  "name": "NORTHEAST DD AT CAPITAL CIR TALLAHASSEE,FL",
+  "waterbody": "NORTHEAST DD AT CAPITAL CIR TALLAHASSEE,FL",
+  "state": "FL",
+  "latitude": 30.47853365,
+  "longitude": -84.23656509,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02326828",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11147070",
+  "key": "11147070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11147070",
+  "name": "SANTA RITA C NR TEMPLETON CA",
+  "waterbody": "SANTA RITA C NR TEMPLETON CA",
+  "state": "CA",
+  "latitude": 35.5238408,
+  "longitude": -120.7659725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11147070",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

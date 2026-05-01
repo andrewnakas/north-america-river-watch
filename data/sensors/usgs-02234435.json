@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02234435",
+  "key": "02234435",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02234435",
+  "name": "LAKE JESUP OUTLET NEAR SANFORD, FL",
+  "waterbody": "LAKE JESUP OUTLET NEAR SANFORD, FL",
+  "state": "FL",
+  "latitude": 28.78415969,
+  "longitude": -81.18117379,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKJF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Johns River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lkjf1",
+  "slug": "usgs-02234435",
+  "noaaForecastPath": "data/noaa-forecast/LKJF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

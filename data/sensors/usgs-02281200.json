@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02281200",
+  "key": "02281200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02281200",
+  "name": "HILLSBORO CANAL AT S-6 NEAR SHAWANO",
+  "waterbody": "HILLSBORO CANAL AT S-6 NEAR SHAWANO",
+  "state": "FL",
+  "latitude": 26.47285,
+  "longitude": -80.4468833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02281200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

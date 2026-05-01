@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06409000",
+  "key": "06409000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06409000",
+  "name": "CASTLE CREEK ABOVE DEERFIELD RES NEAR HILL CITY,SD",
+  "waterbody": "CASTLE CREEK ABOVE DEERFIELD RES NEAR HILL CITY,SD",
+  "state": "SD",
+  "latitude": 44.01359238,
+  "longitude": -103.8304784,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTCS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Castle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctcs2",
+  "slug": "usgs-06409000",
+  "noaaForecastPath": "data/noaa-forecast/CTCS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

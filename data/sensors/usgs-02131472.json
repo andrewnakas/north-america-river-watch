@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02131472",
+  "key": "02131472",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02131472",
+  "name": "HANGING ROCK CREEK NR KERSHAW, SC",
+  "waterbody": "HANGING ROCK CREEK NR KERSHAW, SC",
+  "state": "SC",
+  "latitude": 34.51626465,
+  "longitude": -80.5828514,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRKS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hanging Rock Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrks1",
+  "slug": "usgs-02131472",
+  "noaaForecastPath": "data/noaa-forecast/HRKS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

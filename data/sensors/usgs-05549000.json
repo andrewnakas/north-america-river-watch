@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05549000",
+  "key": "05549000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05549000",
+  "name": "BOONE CREEK NEAR MC HENRY, IL",
+  "waterbody": "BOONE CREEK NEAR MC HENRY, IL",
+  "state": "IL",
+  "latitude": 42.32069444,
+  "longitude": -88.31263889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MBNI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boone Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mbni2",
+  "slug": "usgs-05549000",
+  "noaaForecastPath": "data/noaa-forecast/MBNI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

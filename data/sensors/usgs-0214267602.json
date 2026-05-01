@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214267602",
+  "key": "0214267602",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214267602",
+  "name": "CATAWBA RIVER DNSTRM DECK MTN IS DAM NR MTN IS, NC",
+  "waterbody": "CATAWBA RIVER DNSTRM DECK MTN IS DAM NR MTN IS, NC",
+  "state": "NC",
+  "latitude": 35.33400556,
+  "longitude": -80.9864083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOUN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/moun7",
+  "slug": "usgs-0214267602",
+  "noaaForecastPath": "data/noaa-forecast/MOUN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

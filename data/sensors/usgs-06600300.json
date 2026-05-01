@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06600300",
+  "key": "06600300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06600300",
+  "name": "West Branch Floyd River near Struble, IA",
+  "waterbody": "West Branch Floyd River near Struble, IA",
+  "state": "IA",
+  "latitude": 42.92387695,
+  "longitude": -96.1769661,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STUI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Floyd River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stui4",
+  "slug": "usgs-06600300",
+  "noaaForecastPath": "data/noaa-forecast/STUI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

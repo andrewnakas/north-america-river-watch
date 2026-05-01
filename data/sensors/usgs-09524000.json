@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09524000",
+  "key": "09524000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09524000",
+  "name": "YUMA MAIN CANAL AT SIPHON DROP P.P. NR YUMA, AZ",
+  "waterbody": "YUMA MAIN CANAL AT SIPHON DROP P.P. NR YUMA, AZ",
+  "state": "CA",
+  "latitude": 32.7762361,
+  "longitude": -114.6354083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09524000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

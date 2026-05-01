@@ -1,0 +1,22 @@
+{
+  "id": "usgs:414745087484901",
+  "key": "414745087484901",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "414745087484901",
+  "name": "SUMMIT CONDUIT OUTFALL AT SUMMIT, IL",
+  "waterbody": "SUMMIT CONDUIT OUTFALL AT SUMMIT, IL",
+  "state": "IL",
+  "latitude": 41.7958333,
+  "longitude": -87.8136111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCOI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Summit Conduit",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scoi2",
+  "slug": "usgs-414745087484901",
+  "noaaForecastPath": "data/noaa-forecast/SCOI2.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04235890",
+  "key": "04235890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04235890",
+  "name": "GROUT BROOK NEAR FAIR HAVEN NY",
+  "waterbody": "GROUT BROOK NEAR FAIR HAVEN NY",
+  "state": "NY",
+  "latitude": 42.74202778,
+  "longitude": -76.2653611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GWTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grout Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gwtn6",
+  "slug": "usgs-04235890",
+  "noaaForecastPath": "data/noaa-forecast/GWTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344673",
+  "key": "02344673",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344673",
+  "name": "FLAT CREEK DS OF LAKE AT PEACHTREE CITY, GA",
+  "waterbody": "FLAT CREEK DS OF LAKE AT PEACHTREE CITY, GA",
+  "state": "GA",
+  "latitude": 33.38316667,
+  "longitude": -84.5727222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lptg1",
+  "slug": "usgs-02344673",
+  "noaaForecastPath": "data/noaa-forecast/LPTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

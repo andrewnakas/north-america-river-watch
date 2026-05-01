@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03558000",
+  "key": "03558000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03558000",
+  "name": "TOCCOA RIVER NEAR DIAL, GA",
+  "waterbody": "TOCCOA RIVER NEAR DIAL, GA",
+  "state": "GA",
+  "latitude": 34.79,
+  "longitude": -84.24,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HURG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Toccoa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hurg1",
+  "slug": "usgs-03558000",
+  "noaaForecastPath": "data/noaa-forecast/HURG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14231900",
+  "key": "14231900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14231900",
+  "name": "CISPUS RIVER AB YELLOWJACKET CREEK NEAR RANDLE, WA",
+  "waterbody": "CISPUS RIVER AB YELLOWJACKET CREEK NEAR RANDLE, WA",
+  "state": "WA",
+  "latitude": 46.4439666,
+  "longitude": -121.8400689,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CIYW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cispus River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ciyw1",
+  "slug": "usgs-14231900",
+  "noaaForecastPath": "data/noaa-forecast/CIYW1.json",
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

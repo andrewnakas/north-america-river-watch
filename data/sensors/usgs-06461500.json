@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06461500",
+  "key": "06461500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06461500",
+  "name": "Niobrara River near Sparks, Nebr.",
+  "waterbody": "Niobrara River near Sparks, Nebr.",
+  "state": "NE",
+  "latitude": 42.90207778,
+  "longitude": -100.36252778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPKN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Niobrara River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spkn1",
+  "slug": "usgs-06461500",
+  "noaaForecastPath": "data/noaa-forecast/SPKN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

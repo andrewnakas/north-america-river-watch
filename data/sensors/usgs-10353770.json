@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10353770",
+  "key": "10353770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10353770",
+  "name": "S WILLOW CK NR GERLACH, NV",
+  "waterbody": "S WILLOW CK NR GERLACH, NV",
+  "state": "NV",
+  "latitude": 41.01739835,
+  "longitude": -119.3524098,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10353770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.298Z"
+}

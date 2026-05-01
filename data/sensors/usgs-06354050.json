@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06354050",
+  "key": "06354050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06354050",
+  "name": "CANNONBALL RIVER AT SOLEN, ND",
+  "waterbody": "CANNONBALL RIVER AT SOLEN, ND",
+  "state": "ND",
+  "latitude": 46.39055556,
+  "longitude": -100.7998333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06354050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

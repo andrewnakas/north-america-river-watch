@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14103000",
+  "key": "14103000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14103000",
+  "name": "DESCHUTES RIVER AT MOODY, NEAR BIGGS, OR",
+  "waterbody": "DESCHUTES RIVER AT MOODY, NEAR BIGGS, OR",
+  "state": "OR",
+  "latitude": 45.6220678,
+  "longitude": -120.9056203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MODO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deschutes River (OR)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/modo3",
+  "slug": "usgs-14103000",
+  "noaaForecastPath": "data/noaa-forecast/MODO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

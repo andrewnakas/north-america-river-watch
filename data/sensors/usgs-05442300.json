@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05442300",
+  "key": "05442300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05442300",
+  "name": "ROCK RIVER AT DIXON, IL",
+  "waterbody": "ROCK RIVER AT DIXON, IL",
+  "state": "IL",
+  "latitude": 41.84416667,
+  "longitude": -89.4858333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DXRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dxri2",
+  "slug": "usgs-05442300",
+  "noaaForecastPath": "data/noaa-forecast/DXRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

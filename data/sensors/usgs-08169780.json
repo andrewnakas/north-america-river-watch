@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08169780",
+  "key": "08169780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08169780",
+  "name": "Geronimo Ck nr Seguin, TX",
+  "waterbody": "Geronimo Ck nr Seguin, TX",
+  "state": "TX",
+  "latitude": 29.5906222,
+  "longitude": -97.9347917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Geronimo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcst2",
+  "slug": "usgs-08169780",
+  "noaaForecastPath": "data/noaa-forecast/GCST2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

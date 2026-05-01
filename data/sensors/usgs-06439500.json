@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06439500",
+  "key": "06439500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06439500",
+  "name": "CHEYENNE RIVER NEAR EAGLE BUTTE SD",
+  "waterbody": "CHEYENNE RIVER NEAR EAGLE BUTTE SD",
+  "state": "SD",
+  "latitude": 44.69637199,
+  "longitude": -101.2173711,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBSS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebss2",
+  "slug": "usgs-06439500",
+  "noaaForecastPath": "data/noaa-forecast/EBSS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

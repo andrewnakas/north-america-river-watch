@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14338000",
+  "key": "14338000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14338000",
+  "name": "ELK CREEK NEAR TRAIL, OR",
+  "waterbody": "ELK CREEK NEAR TRAIL, OR",
+  "state": "OR",
+  "latitude": 42.6787364,
+  "longitude": -122.7419867,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELKO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elko3",
+  "slug": "usgs-14338000",
+  "noaaForecastPath": "data/noaa-forecast/ELKO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

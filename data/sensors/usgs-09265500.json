@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09265500",
+  "key": "09265500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09265500",
+  "name": "ASHLEY CR ABV SP NR VERNAL UT",
+  "waterbody": "ASHLEY CR ABV SP NR VERNAL UT",
+  "state": "UT",
+  "latitude": 40.588889,
+  "longitude": -109.622222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09265500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

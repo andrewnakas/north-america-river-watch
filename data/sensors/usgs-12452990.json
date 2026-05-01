@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12452990",
+  "key": "12452990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12452990",
+  "name": "ENTIAT RIVER NEAR ENTIAT, WA",
+  "waterbody": "ENTIAT RIVER NEAR ENTIAT, WA",
+  "state": "WA",
+  "latitude": 47.663185,
+  "longitude": -120.250634,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENRW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Entiat River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/enrw1",
+  "slug": "usgs-12452990",
+  "noaaForecastPath": "data/noaa-forecast/ENRW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

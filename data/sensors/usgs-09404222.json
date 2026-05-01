@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09404222",
+  "key": "09404222",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404222",
+  "name": "SPENCER CREEK NEAR PEACH SPRINGS, AZ",
+  "waterbody": "SPENCER CREEK NEAR PEACH SPRINGS, AZ",
+  "state": "AZ",
+  "latitude": 35.7999,
+  "longitude": -113.65535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09404222",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

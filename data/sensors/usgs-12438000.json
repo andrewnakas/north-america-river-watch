@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12438000",
+  "key": "12438000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12438000",
+  "name": "COLUMBIA RIVER AT BRIDGEPORT, WA",
+  "waterbody": "COLUMBIA RIVER AT BRIDGEPORT, WA",
+  "state": "WA",
+  "latitude": 48.0065333,
+  "longitude": -119.6653303,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12438000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

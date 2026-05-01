@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10243700",
+  "key": "10243700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10243700",
+  "name": "CLEVE CK NR ELY, NV",
+  "waterbody": "CLEVE CK NR ELY, NV",
+  "state": "NV",
+  "latitude": 39.21657778,
+  "longitude": -114.5296389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CVCN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cleve Creek nr Ely",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cvcn2",
+  "slug": "usgs-10243700",
+  "noaaForecastPath": "data/noaa-forecast/CVCN2.json",
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

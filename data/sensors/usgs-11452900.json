@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11452900",
+  "key": "11452900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11452900",
+  "name": "CACHE C OUTFLOW FROM SETTLING BASIN NR WOODLAND CA",
+  "waterbody": "CACHE C OUTFLOW FROM SETTLING BASIN NR WOODLAND CA",
+  "state": "CA",
+  "latitude": 38.67851526,
+  "longitude": -121.6727386,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11452900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

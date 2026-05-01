@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04062500",
+  "key": "04062500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04062500",
+  "name": "MICHIGAMME RIVER NEAR CRYSTAL FALLS, MI",
+  "waterbody": "MICHIGAMME RIVER NEAR CRYSTAL FALLS, MI",
+  "state": "MI",
+  "latitude": 46.113838,
+  "longitude": -88.2159687,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRFM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Michigamme River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crfm4",
+  "slug": "usgs-04062500",
+  "noaaForecastPath": "data/noaa-forecast/CRFM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09472010",
+  "key": "09472010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09472010",
+  "name": "REDFIELD CYN BLW SYCAMORE CYN, NR REDINGTON, AZ",
+  "waterbody": "REDFIELD CYN BLW SYCAMORE CYN, NR REDINGTON, AZ",
+  "state": "AZ",
+  "latitude": 32.44825,
+  "longitude": -110.3155556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09472010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

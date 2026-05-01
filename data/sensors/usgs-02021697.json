@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02021697",
+  "key": "02021697",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02021697",
+  "name": "CEDAR GROVE BRANCH NR ROCKBRIDGE BATHS, VA",
+  "waterbody": "CEDAR GROVE BRANCH NR ROCKBRIDGE BATHS, VA",
+  "state": "VA",
+  "latitude": 37.89191667,
+  "longitude": -79.3793056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02021697",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

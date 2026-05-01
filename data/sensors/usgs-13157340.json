@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13157340",
+  "key": "13157340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157340",
+  "name": "RIVER RANCH PUMPING PLANT NR BRUNEAU ID",
+  "waterbody": "RIVER RANCH PUMPING PLANT NR BRUNEAU ID",
+  "state": "ID",
+  "latitude": 42.93305556,
+  "longitude": -115.7505556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLBI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slbi1",
+  "slug": "usgs-13157340",
+  "noaaForecastPath": "data/noaa-forecast/SLBI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

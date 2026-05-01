@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02012500",
+  "key": "02012500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02012500",
+  "name": "JACKSON RIVER AT FALLING SPRING, VA",
+  "waterbody": "JACKSON RIVER AT FALLING SPRING, VA",
+  "state": "VA",
+  "latitude": 37.876667,
+  "longitude": -79.9775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLGV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jackson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flgv2",
+  "slug": "usgs-02012500",
+  "noaaForecastPath": "data/noaa-forecast/FLGV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

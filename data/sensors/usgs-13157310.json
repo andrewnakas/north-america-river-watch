@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157310",
+  "key": "13157310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157310",
+  "name": "EAGLE COVE PUMPING PLANT NR HAMMETT ID",
+  "waterbody": "EAGLE COVE PUMPING PLANT NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.9387851,
+  "longitude": -115.6781376,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

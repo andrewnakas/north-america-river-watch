@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01096870",
+  "key": "01096870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01096870",
+  "name": "ASSABET RIVER AT COX ST NEAR HUDSON, MA",
+  "waterbody": "ASSABET RIVER AT COX ST NEAR HUDSON, MA",
+  "state": "MA",
+  "latitude": 42.39981547,
+  "longitude": -71.54589859,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01096870",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

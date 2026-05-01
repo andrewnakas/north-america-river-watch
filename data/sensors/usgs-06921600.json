@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06921600",
+  "key": "06921600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06921600",
+  "name": "South Grand River at Urich, MO",
+  "waterbody": "South Grand River at Urich, MO",
+  "state": "MO",
+  "latitude": 38.45223976,
+  "longitude": -94.0043859,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "URHM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Grand River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/urhm7",
+  "slug": "usgs-06921600",
+  "noaaForecastPath": "data/noaa-forecast/URHM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

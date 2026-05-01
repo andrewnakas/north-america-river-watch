@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02246751",
+  "key": "02246751",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02246751",
+  "name": "BROWARD RIVER BL BISCAYNE BLVD NR JACKSONVILLE, FL",
+  "waterbody": "BROWARD RIVER BL BISCAYNE BLVD NR JACKSONVILLE, FL",
+  "state": "FL",
+  "latitude": 30.44333889,
+  "longitude": -81.6682,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRJF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broward River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brjf1",
+  "slug": "usgs-02246751",
+  "noaaForecastPath": "data/noaa-forecast/BRJF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

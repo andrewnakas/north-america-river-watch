@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13018750",
+  "key": "13018750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13018750",
+  "name": "SNAKE RIVER BELOW FLAT CREEK, NEAR JACKSON, WY",
+  "waterbody": "SNAKE RIVER BELOW FLAT CREEK, NEAR JACKSON, WY",
+  "state": "WY",
+  "latitude": 43.3722222,
+  "longitude": -110.7386111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JKSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jksw4",
+  "slug": "usgs-13018750",
+  "noaaForecastPath": "data/noaa-forecast/JKSW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06889160",
+  "key": "06889160",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889160",
+  "name": "SOLDIER C NR CIRCLEVILLE, KS",
+  "waterbody": "SOLDIER C NR CIRCLEVILLE, KS",
+  "state": "KS",
+  "latitude": 39.46315,
+  "longitude": -95.950325,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06889160",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05344490",
+  "key": "05344490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05344490",
+  "name": "ST. CROIX RIVER AT PRESCOTT, WI",
+  "waterbody": "ST. CROIX RIVER AT PRESCOTT, WI",
+  "state": "WI",
+  "latitude": 44.74869529,
+  "longitude": -92.8041364,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSCW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Croix River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pscw3",
+  "slug": "usgs-05344490",
+  "noaaForecastPath": "data/noaa-forecast/PSCW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

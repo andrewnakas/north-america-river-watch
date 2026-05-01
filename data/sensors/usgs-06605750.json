@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06605750",
+  "key": "06605750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06605750",
+  "name": "Willow Creek near Cornell, IA",
+  "waterbody": "Willow Creek near Cornell, IA",
+  "state": "IA",
+  "latitude": 42.9725,
+  "longitude": -95.1611111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CWCI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek (North Central IA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cwci4",
+  "slug": "usgs-06605750",
+  "noaaForecastPath": "data/noaa-forecast/CWCI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

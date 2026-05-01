@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056239",
+  "key": "05056239",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056239",
+  "name": "STARKWEATHER COULEE NR WEBSTER, ND",
+  "waterbody": "STARKWEATHER COULEE NR WEBSTER, ND",
+  "state": "ND",
+  "latitude": 48.3205591,
+  "longitude": -98.9406851,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WEBN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Starkweather Coulee",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/webn8",
+  "slug": "usgs-05056239",
+  "noaaForecastPath": "data/noaa-forecast/WEBN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

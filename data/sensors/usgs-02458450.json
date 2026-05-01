@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02458450",
+  "key": "02458450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02458450",
+  "name": "VILLAGE CREEK AT AVENUE W AT ENSLEY, AL",
+  "waterbody": "VILLAGE CREEK AT AVENUE W AT ENSLEY, AL",
+  "state": "AL",
+  "latitude": 33.5176481,
+  "longitude": -86.87915889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENSA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Village Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ensa1",
+  "slug": "usgs-02458450",
+  "noaaForecastPath": "data/noaa-forecast/ENSA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

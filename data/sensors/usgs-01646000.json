@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01646000",
+  "key": "01646000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01646000",
+  "name": "DIFFICULT RUN NEAR GREAT FALLS, VA",
+  "waterbody": "DIFFICULT RUN NEAR GREAT FALLS, VA",
+  "state": "VA",
+  "latitude": 38.97594346,
+  "longitude": -77.24581439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GFLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Difficult Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gflv2",
+  "slug": "usgs-01646000",
+  "noaaForecastPath": "data/noaa-forecast/GFLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

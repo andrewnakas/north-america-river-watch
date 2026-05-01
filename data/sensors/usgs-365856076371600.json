@@ -1,0 +1,22 @@
+{
+  "id": "usgs:365856076371600",
+  "key": "365856076371600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "365856076371600",
+  "name": "CYPRESS CREEK AT ROUTE 10 AT SMITHFIELD, VA",
+  "waterbody": "CYPRESS CREEK AT ROUTE 10 AT SMITHFIELD, VA",
+  "state": "VA",
+  "latitude": 36.98219167,
+  "longitude": -76.6210417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMSV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pagan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smsv2",
+  "slug": "usgs-365856076371600",
+  "noaaForecastPath": "data/noaa-forecast/SMSV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

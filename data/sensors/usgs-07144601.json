@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07144601",
+  "key": "07144601",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144601",
+  "name": "NF NINNESCAH R AT ARLINGTON, KS",
+  "waterbody": "NF NINNESCAH R AT ARLINGTON, KS",
+  "state": "KS",
+  "latitude": 37.89626956,
+  "longitude": -98.171107,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07144601",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

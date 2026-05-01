@@ -1,0 +1,19 @@
+{
+  "id": "usgs:265501080364900",
+  "key": "265501080364900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "265501080364900",
+  "name": "LEVEE 8 CANAL NEAR CANAL POINT, FL",
+  "waterbody": "LEVEE 8 CANAL NEAR CANAL POINT, FL",
+  "state": "FL",
+  "latitude": 26.91719444,
+  "longitude": -80.6129444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-265501080364900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01619500",
+  "key": "01619500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01619500",
+  "name": "ANTIETAM CREEK NEAR SHARPSBURG, MD",
+  "waterbody": "ANTIETAM CREEK NEAR SHARPSBURG, MD",
+  "state": "MD",
+  "latitude": 39.44977778,
+  "longitude": -77.7301944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SACM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Antietam Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sacm2",
+  "slug": "usgs-01619500",
+  "noaaForecastPath": "data/noaa-forecast/SACM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

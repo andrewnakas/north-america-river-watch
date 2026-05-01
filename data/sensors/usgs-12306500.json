@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12306500",
+  "key": "12306500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12306500",
+  "name": "MOYIE RIVER AT EASTPORT ID",
+  "waterbody": "MOYIE RIVER AT EASTPORT ID",
+  "state": "ID",
+  "latitude": 48.99916667,
+  "longitude": -116.1797222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EASI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moyie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/easi1",
+  "slug": "usgs-12306500",
+  "noaaForecastPath": "data/noaa-forecast/EASI1.json",
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

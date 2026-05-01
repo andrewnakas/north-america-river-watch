@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06082200",
+  "key": "06082200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06082200",
+  "name": "Sun River bl Willow Cr nr Augusta MT",
+  "waterbody": "Sun River bl Willow Cr nr Augusta MT",
+  "state": "MT",
+  "latitude": 47.5471361,
+  "longitude": -112.3674306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRVM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sun River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srvm8",
+  "slug": "usgs-06082200",
+  "noaaForecastPath": "data/noaa-forecast/SRVM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

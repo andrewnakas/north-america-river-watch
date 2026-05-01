@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06408700",
+  "key": "06408700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06408700",
+  "name": "RHOADS FORK NEAR ROCHFORD,SD",
+  "waterbody": "RHOADS FORK NEAR ROCHFORD,SD",
+  "state": "SD",
+  "latitude": 44.13387149,
+  "longitude": -103.8615912,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RHOS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rhoads Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rhos2",
+  "slug": "usgs-06408700",
+  "noaaForecastPath": "data/noaa-forecast/RHOS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02378185",
+  "key": "02378185",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02378185",
+  "name": "INTRACOASTAL WATERWAY - GULF SHORES, AL.",
+  "waterbody": "INTRACOASTAL WATERWAY - GULF SHORES, AL.",
+  "state": "AL",
+  "latitude": 30.27964626,
+  "longitude": -87.6866524,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GSHA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Intracoastal Waterway",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gsha1",
+  "slug": "usgs-02378185",
+  "noaaForecastPath": "data/noaa-forecast/GSHA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

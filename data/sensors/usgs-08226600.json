@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08226600",
+  "key": "08226600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08226600",
+  "name": "NOLAND GULCH TRIB RES INFLOW NR VILLA GROVE, CO.",
+  "waterbody": "NOLAND GULCH TRIB RES INFLOW NR VILLA GROVE, CO.",
+  "state": "CO",
+  "latitude": 38.20944367,
+  "longitude": -105.9616807,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08226600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

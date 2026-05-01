@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12422990",
+  "key": "12422990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12422990",
+  "name": "HANGMAN CREEK AT STATE LINE ROAD NEAR TEKOA, WA",
+  "waterbody": "HANGMAN CREEK AT STATE LINE ROAD NEAR TEKOA, WA",
+  "state": "WA",
+  "latitude": 47.2026758,
+  "longitude": -117.0407304,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCTW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hangman/Latah Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hctw1",
+  "slug": "usgs-12422990",
+  "noaaForecastPath": "data/noaa-forecast/HCTW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

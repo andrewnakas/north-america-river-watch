@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09202700",
+  "key": "09202700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09202700",
+  "name": "Ward Ball Reservoir outflow, nr Boulder, WY",
+  "waterbody": "Ward Ball Reservoir outflow, nr Boulder, WY",
+  "state": "WY",
+  "latitude": 42.72528611,
+  "longitude": -109.703775,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09202700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01209761",
+  "key": "01209761",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01209761",
+  "name": "FIVEMILE RIVER NEAR NEW CANAAN, CT",
+  "waterbody": "FIVEMILE RIVER NEAR NEW CANAAN, CT",
+  "state": "CT",
+  "latitude": 41.17432222,
+  "longitude": -73.51107778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01209761",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

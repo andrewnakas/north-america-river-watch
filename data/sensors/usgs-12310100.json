@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12310100",
+  "key": "12310100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12310100",
+  "name": "KOOTENAI RIVER  TRIBAL HATCHERY NR BONNERS FERRY",
+  "waterbody": "KOOTENAI RIVER  TRIBAL HATCHERY NR BONNERS FERRY",
+  "state": "ID",
+  "latitude": 48.70527778,
+  "longitude": -116.3697222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12310100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

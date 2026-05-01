@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01037000",
+  "key": "01037000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01037000",
+  "name": "Kenduskeag Stream near Bangor, Maine",
+  "waterbody": "Kenduskeag Stream near Bangor, Maine",
+  "state": "ME",
+  "latitude": 44.8611111,
+  "longitude": -68.8316667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KENM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kenduskeag Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kenm1",
+  "slug": "usgs-01037000",
+  "noaaForecastPath": "data/noaa-forecast/KENM1.json",
+  "generatedAt": "2026-05-01T12:10:11.256Z"
+}

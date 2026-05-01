@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13058529",
+  "key": "13058529",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13058529",
+  "name": "WILLOW CR FLOODWAY CHANNEL AT MOUTH NR ID FALLS ID",
+  "waterbody": "WILLOW CR FLOODWAY CHANNEL AT MOUTH NR ID FALLS ID",
+  "state": "ID",
+  "latitude": 43.5747222,
+  "longitude": -112.0480556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13058529",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08066200",
+  "key": "08066200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08066200",
+  "name": "Long King Ck at Livingston, TX",
+  "waterbody": "Long King Ck at Livingston, TX",
+  "state": "TX",
+  "latitude": 30.716306,
+  "longitude": -94.9588237,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LIVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long King Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/livt2",
+  "slug": "usgs-08066200",
+  "noaaForecastPath": "data/noaa-forecast/LIVT2.json",
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

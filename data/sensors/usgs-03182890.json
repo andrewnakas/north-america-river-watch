@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03182890",
+  "key": "03182890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03182890",
+  "name": "GREENBRIER RIVER AT CALDWELL, WV",
+  "waterbody": "GREENBRIER RIVER AT CALDWELL, WV",
+  "state": "WV",
+  "latitude": 37.78213889,
+  "longitude": -80.3975278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CALW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greenbrier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/calw2",
+  "slug": "usgs-03182890",
+  "noaaForecastPath": "data/noaa-forecast/CALW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

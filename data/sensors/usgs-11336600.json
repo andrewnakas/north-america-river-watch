@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11336600",
+  "key": "11336600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11336600",
+  "name": "DELTA CROSS CHANNEL NR WALNUT GROVE",
+  "waterbody": "DELTA CROSS CHANNEL NR WALNUT GROVE",
+  "state": "CA",
+  "latitude": 38.2447222,
+  "longitude": -121.5052778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11336600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

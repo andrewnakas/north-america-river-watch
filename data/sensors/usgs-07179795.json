@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07179795",
+  "key": "07179795",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179795",
+  "name": "N COTTONWOOD R BL MARION LK, KS",
+  "waterbody": "N COTTONWOOD R BL MARION LK, KS",
+  "state": "KS",
+  "latitude": 38.3658583,
+  "longitude": -97.0823056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLBK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cottonwood River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlbk1",
+  "slug": "usgs-07179795",
+  "noaaForecastPath": "data/noaa-forecast/MLBK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

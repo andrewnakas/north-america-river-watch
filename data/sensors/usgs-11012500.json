@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11012500",
+  "key": "11012500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11012500",
+  "name": "CAMPO C NR CAMPO CA",
+  "waterbody": "CAMPO C NR CAMPO CA",
+  "state": "CA",
+  "latitude": 32.59116984,
+  "longitude": -116.5255548,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11012500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14036860",
+  "key": "14036860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14036860",
+  "name": "JOHN DAY R AT BLUE MTN HOT SPGS NR PRAIRIE CITY,OR",
+  "waterbody": "JOHN DAY R AT BLUE MTN HOT SPGS NR PRAIRIE CITY,OR",
+  "state": "OR",
+  "latitude": 44.35793778,
+  "longitude": -118.5760531,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JBMO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "John Day River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jbmo3",
+  "slug": "usgs-14036860",
+  "noaaForecastPath": "data/noaa-forecast/JBMO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07205000",
+  "key": "07205000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07205000",
+  "name": "SIXMILE CREEK NEAR EAGLE NEST, NM",
+  "waterbody": "SIXMILE CREEK NEAR EAGLE NEST, NM",
+  "state": "NM",
+  "latitude": 36.518525,
+  "longitude": -105.27524722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07205000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

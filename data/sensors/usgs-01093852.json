@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01093852",
+  "key": "01093852",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01093852",
+  "name": "SOUHEGAN RIVER (SITE WLR-1) NEAR MILFORD, NH",
+  "waterbody": "SOUHEGAN RIVER (SITE WLR-1) NEAR MILFORD, NH",
+  "state": "NH",
+  "latitude": 42.8425858,
+  "longitude": -71.7067399,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFDN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Souhegan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfdn3",
+  "slug": "usgs-01093852",
+  "noaaForecastPath": "data/noaa-forecast/MFDN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

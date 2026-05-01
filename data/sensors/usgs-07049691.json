@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07049691",
+  "key": "07049691",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07049691",
+  "name": "White River at Beaver Dam near Eureka Springs",
+  "waterbody": "White River at Beaver Dam near Eureka Springs",
+  "state": "AR",
+  "latitude": 36.4208333,
+  "longitude": -93.8472222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northwest Arkansas Lakes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvga4",
+  "slug": "usgs-07049691",
+  "noaaForecastPath": "data/noaa-forecast/BVGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

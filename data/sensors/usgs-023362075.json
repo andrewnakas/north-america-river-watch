@@ -1,0 +1,22 @@
+{
+  "id": "usgs:023362075",
+  "key": "023362075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023362075",
+  "name": "BURNT FORK CREEK AT MONTREAL RD, NEAR TUCKER, GA",
+  "waterbody": "BURNT FORK CREEK AT MONTREAL RD, NEAR TUCKER, GA",
+  "state": "GA",
+  "latitude": 33.83527778,
+  "longitude": -84.2569444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Burnt Fork Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkcg1",
+  "slug": "usgs-023362075",
+  "noaaForecastPath": "data/noaa-forecast/BKCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

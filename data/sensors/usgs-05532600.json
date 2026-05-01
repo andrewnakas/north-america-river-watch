@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05532600",
+  "key": "05532600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05532600",
+  "name": "DES PLAINES RIVER AT LYONS, IL",
+  "waterbody": "DES PLAINES RIVER AT LYONS, IL",
+  "state": "IL",
+  "latitude": 41.8060833,
+  "longitude": -87.8112222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYNI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Plaines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lyni2",
+  "slug": "usgs-05532600",
+  "noaaForecastPath": "data/noaa-forecast/LYNI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

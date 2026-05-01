@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08101200",
+  "key": "08101200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08101200",
+  "name": "Cowhouse Ck at Old Georgetown Rd nr Ft Hood, TX",
+  "waterbody": "Cowhouse Ck at Old Georgetown Rd nr Ft Hood, TX",
+  "state": "TX",
+  "latitude": 31.24878889,
+  "longitude": -97.8378472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08101200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

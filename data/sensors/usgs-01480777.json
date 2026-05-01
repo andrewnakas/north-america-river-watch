@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01480777",
+  "key": "01480777",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480777",
+  "name": "Beaver Cr at Mary St Field at Downingtown, PA",
+  "waterbody": "Beaver Cr at Mary St Field at Downingtown, PA",
+  "state": "PA",
+  "latitude": 40.0050833,
+  "longitude": -75.7179722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01480777",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

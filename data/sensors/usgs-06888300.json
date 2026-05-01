@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06888300",
+  "key": "06888300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06888300",
+  "name": "ROCK C NR LOUISVILLE, KS",
+  "waterbody": "ROCK C NR LOUISVILLE, KS",
+  "state": "KS",
+  "latitude": 39.24916286,
+  "longitude": -96.3149982,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LISK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock Creek (KS)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lisk1",
+  "slug": "usgs-06888300",
+  "noaaForecastPath": "data/noaa-forecast/LISK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

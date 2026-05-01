@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14091500",
+  "key": "14091500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14091500",
+  "name": "METOLIUS RIVER NEAR GRANDVIEW, OR",
+  "waterbody": "METOLIUS RIVER NEAR GRANDVIEW, OR",
+  "state": "OR",
+  "latitude": 44.6262275,
+  "longitude": -121.4839433,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14091500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06787500",
+  "key": "06787500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06787500",
+  "name": "CALAMUS RIVER NEAR BURWELL, NEBR.",
+  "waterbody": "CALAMUS RIVER NEAR BURWELL, NEBR.",
+  "state": "NE",
+  "latitude": 41.81027778,
+  "longitude": -99.1830556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRLN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calamus River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brln1",
+  "slug": "usgs-06787500",
+  "noaaForecastPath": "data/noaa-forecast/BRLN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

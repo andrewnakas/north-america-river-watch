@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11109800",
+  "key": "11109800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11109800",
+  "name": "PIRU CREEK BELOW SANTA FELICIA DAM CA",
+  "waterbody": "PIRU CREEK BELOW SANTA FELICIA DAM CA",
+  "state": "CA",
+  "latitude": 34.46027116,
+  "longitude": -118.7520198,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PSFC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piru Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/psfc1",
+  "slug": "usgs-11109800",
+  "noaaForecastPath": "data/noaa-forecast/PSFC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

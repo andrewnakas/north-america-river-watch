@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02110400",
+  "key": "02110400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110400",
+  "name": "BUCK CREEK NEAR LONGS, SC",
+  "waterbody": "BUCK CREEK NEAR LONGS, SC",
+  "state": "SC",
+  "latitude": 33.95346259,
+  "longitude": -78.71974629,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCLS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buck Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcls1",
+  "slug": "usgs-02110400",
+  "noaaForecastPath": "data/noaa-forecast/BCLS1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

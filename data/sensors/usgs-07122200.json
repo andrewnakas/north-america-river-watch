@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07122200",
+  "key": "07122200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07122200",
+  "name": "FORT LYON CANAL NEAR HASTY, CO.",
+  "waterbody": "FORT LYON CANAL NEAR HASTY, CO.",
+  "state": "CO",
+  "latitude": 38.1441734,
+  "longitude": -102.958812,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07122200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

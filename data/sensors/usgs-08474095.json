@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08474095",
+  "key": "08474095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08474095",
+  "name": "N Main Drain at Boca Chica Hwy, Brownsville, TX",
+  "waterbody": "N Main Drain at Boca Chica Hwy, Brownsville, TX",
+  "state": "TX",
+  "latitude": 25.9216111,
+  "longitude": -97.4754167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08474095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

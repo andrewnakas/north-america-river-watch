@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05424009",
+  "key": "05424009",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05424009",
+  "name": "GILL CREEK @ COUNTY TRUNK HIGHWAY Y NR KEKOSKEE,WI",
+  "waterbody": "GILL CREEK @ COUNTY TRUNK HIGHWAY Y NR KEKOSKEE,WI",
+  "state": "WI",
+  "latitude": 43.5358333,
+  "longitude": -88.5611111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05424009",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11475000",
+  "key": "11475000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11475000",
+  "name": "EEL R A FORT SEWARD CA",
+  "waterbody": "EEL R A FORT SEWARD CA",
+  "state": "CA",
+  "latitude": 40.21816919,
+  "longitude": -123.6325017,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTSC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eel River (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftsc1",
+  "slug": "usgs-11475000",
+  "noaaForecastPath": "data/noaa-forecast/FTSC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

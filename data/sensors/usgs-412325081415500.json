@@ -1,0 +1,22 @@
+{
+  "id": "usgs:412325081415500",
+  "key": "412325081415500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412325081415500",
+  "name": "West Creek at Ridgewood Road at Parma OH",
+  "waterbody": "West Creek at Ridgewood Road at Parma OH",
+  "state": "OH",
+  "latitude": 41.39027778,
+  "longitude": -81.6986111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PARO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/paro1",
+  "slug": "usgs-412325081415500",
+  "noaaForecastPath": "data/noaa-forecast/PARO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

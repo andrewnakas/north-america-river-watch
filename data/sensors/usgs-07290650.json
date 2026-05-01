@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07290650",
+  "key": "07290650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07290650",
+  "name": "BAYOU PIERRE NR WILLOWS, MS",
+  "waterbody": "BAYOU PIERRE NR WILLOWS, MS",
+  "state": "MS",
+  "latitude": 32.0186111,
+  "longitude": -90.8783333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBPM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Pierre",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbpm6",
+  "slug": "usgs-07290650",
+  "noaaForecastPath": "data/noaa-forecast/WBPM6.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

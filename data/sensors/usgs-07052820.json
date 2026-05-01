@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07052820",
+  "key": "07052820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07052820",
+  "name": "Flat Creek below Jenkins, MO",
+  "waterbody": "Flat Creek below Jenkins, MO",
+  "state": "MO",
+  "latitude": 36.75075,
+  "longitude": -93.6187778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat Creek (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcrm7",
+  "slug": "usgs-07052820",
+  "noaaForecastPath": "data/noaa-forecast/FCRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

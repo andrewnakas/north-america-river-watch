@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06450500",
+  "key": "06450500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06450500",
+  "name": "LITTLE WHITE RIVER BELOW WHITE RIVER,SD",
+  "waterbody": "LITTLE WHITE RIVER BELOW WHITE RIVER,SD",
+  "state": "SD",
+  "latitude": 43.60138549,
+  "longitude": -100.7498608,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwrs2",
+  "slug": "usgs-06450500",
+  "noaaForecastPath": "data/noaa-forecast/LWRS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

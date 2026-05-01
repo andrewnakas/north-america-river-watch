@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05412100",
+  "key": "05412100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05412100",
+  "name": "Roberts Creek above Saint Olaf, IA (RC-2)",
+  "waterbody": "Roberts Creek above Saint Olaf, IA (RC-2)",
+  "state": "IA",
+  "latitude": 42.93026244,
+  "longitude": -91.38430399,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05412100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

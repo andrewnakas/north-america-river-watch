@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06921500",
+  "key": "06921500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06921500",
+  "name": "Pomme de Terre River at Hermitage, MO",
+  "waterbody": "Pomme de Terre River at Hermitage, MO",
+  "state": "MO",
+  "latitude": 37.9458333,
+  "longitude": -93.3095556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PHFM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pomme de Terre River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/phfm7",
+  "slug": "usgs-06921500",
+  "noaaForecastPath": "data/noaa-forecast/PHFM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

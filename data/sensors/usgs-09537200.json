@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09537200",
+  "key": "09537200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09537200",
+  "name": "LESLIE CREEK NEAR MCNEAL, AZ.",
+  "waterbody": "LESLIE CREEK NEAR MCNEAL, AZ.",
+  "state": "AZ",
+  "latitude": 31.59012789,
+  "longitude": -109.5089722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LESA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leslie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lesa3",
+  "slug": "usgs-09537200",
+  "noaaForecastPath": "data/noaa-forecast/LESA3.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

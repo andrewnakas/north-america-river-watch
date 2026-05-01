@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01192500",
+  "key": "01192500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01192500",
+  "name": "HOCKANUM RIVER NEAR EAST HARTFORD, CT",
+  "waterbody": "HOCKANUM RIVER NEAR EAST HARTFORD, CT",
+  "state": "CT",
+  "latitude": 41.78303965,
+  "longitude": -72.58729366,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EHDC3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hockanum River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ehdc3",
+  "slug": "usgs-01192500",
+  "noaaForecastPath": "data/noaa-forecast/EHDC3.json",
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

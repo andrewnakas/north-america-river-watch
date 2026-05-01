@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01413408",
+  "key": "01413408",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01413408",
+  "name": "DRY BROOK AT ARKVILLE",
+  "waterbody": "DRY BROOK AT ARKVILLE",
+  "state": "NY",
+  "latitude": 42.14644444,
+  "longitude": -74.62341667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dry Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dryn6",
+  "slug": "usgs-01413408",
+  "noaaForecastPath": "data/noaa-forecast/DRYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03048900",
+  "key": "03048900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03048900",
+  "name": "Buffalo Creek at Iron Bridge, PA",
+  "waterbody": "Buffalo Creek at Iron Bridge, PA",
+  "state": "PA",
+  "latitude": 40.7344722,
+  "longitude": -79.6781111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IRNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buffalo Creek (PA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/irnp1",
+  "slug": "usgs-03048900",
+  "noaaForecastPath": "data/noaa-forecast/IRNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

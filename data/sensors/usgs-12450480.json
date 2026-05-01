@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12450480",
+  "key": "12450480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12450480",
+  "name": "METHOW RIVER NEAR MOUTH NEAR PATEROS, WA",
+  "waterbody": "METHOW RIVER NEAR MOUTH NEAR PATEROS, WA",
+  "state": "WA",
+  "latitude": 48.05130556,
+  "longitude": -119.9265556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12450480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

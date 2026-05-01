@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10032000",
+  "key": "10032000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10032000",
+  "name": "SMITHS FORK NEAR BORDER, WY",
+  "waterbody": "SMITHS FORK NEAR BORDER, WY",
+  "state": "WY",
+  "latitude": 42.2932662,
+  "longitude": -110.8724064,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BORW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smiths Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/borw4",
+  "slug": "usgs-10032000",
+  "noaaForecastPath": "data/noaa-forecast/BORW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04119400",
+  "key": "04119400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04119400",
+  "name": "GRAND RIVER NEAR EASTMANVILLE, MI",
+  "waterbody": "GRAND RIVER NEAR EASTMANVILLE, MI",
+  "state": "MI",
+  "latitude": 43.0241884,
+  "longitude": -86.0264354,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EASM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/easm4",
+  "slug": "usgs-04119400",
+  "noaaForecastPath": "data/noaa-forecast/EASM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

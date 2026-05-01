@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05424057",
+  "key": "05424057",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05424057",
+  "name": "ROCK RIVER AT HORICON, WI",
+  "waterbody": "ROCK RIVER AT HORICON, WI",
+  "state": "WI",
+  "latitude": 43.45027778,
+  "longitude": -88.6322222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCNW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcnw3",
+  "slug": "usgs-05424057",
+  "noaaForecastPath": "data/noaa-forecast/HCNW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

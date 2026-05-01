@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07141200",
+  "key": "07141200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07141200",
+  "name": "PAWNEE R AT ROZEL, KS",
+  "waterbody": "PAWNEE R AT ROZEL, KS",
+  "state": "KS",
+  "latitude": 38.20758889,
+  "longitude": -99.405775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROZK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pawnee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rozk1",
+  "slug": "usgs-07141200",
+  "noaaForecastPath": "data/noaa-forecast/ROZK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

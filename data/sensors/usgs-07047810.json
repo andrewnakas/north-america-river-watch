@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07047810",
+  "key": "07047810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07047810",
+  "name": "St. Francis River Floodway near Marked Tree, AR",
+  "waterbody": "St. Francis River Floodway near Marked Tree, AR",
+  "state": "AR",
+  "latitude": 35.53758147,
+  "longitude": -90.4848267,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07047810",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

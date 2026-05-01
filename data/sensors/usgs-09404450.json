@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09404450",
+  "key": "09404450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09404450",
+  "name": "EAST FORK VIRGIN RIVER NEAR GLENDALE, UT",
+  "waterbody": "EAST FORK VIRGIN RIVER NEAR GLENDALE, UT",
+  "state": "UT",
+  "latitude": 37.3394272,
+  "longitude": -112.6043769,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09404450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

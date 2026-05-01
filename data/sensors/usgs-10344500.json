@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10344500",
+  "key": "10344500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10344500",
+  "name": "LITTLE TRUCKEE R BL BOCA DAM NR TRUCKEE CA",
+  "waterbody": "LITTLE TRUCKEE R BL BOCA DAM NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.38682549,
+  "longitude": -120.0954502,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCVC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcvc1",
+  "slug": "usgs-10344500",
+  "noaaForecastPath": "data/noaa-forecast/BCVC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

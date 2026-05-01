@@ -1,0 +1,19 @@
+{
+  "id": "usgs:301204081434900",
+  "key": "301204081434900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "301204081434900",
+  "name": "ORTEGA RIVER SALINITY AT JACKSONVILLE, FL",
+  "waterbody": "ORTEGA RIVER SALINITY AT JACKSONVILLE, FL",
+  "state": "FL",
+  "latitude": 30.20118056,
+  "longitude": -81.7304,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-301204081434900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

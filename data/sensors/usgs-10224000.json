@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10224000",
+  "key": "10224000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10224000",
+  "name": "SEVIER RIVER NEAR LYNNDYL, UT",
+  "waterbody": "SEVIER RIVER NEAR LYNNDYL, UT",
+  "state": "UT",
+  "latitude": 39.48189754,
+  "longitude": -112.3938338,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10224000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

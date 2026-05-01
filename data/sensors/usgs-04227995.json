@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04227995",
+  "key": "04227995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04227995",
+  "name": "CONESUS CREEK NEAR LAKEVILLE NY",
+  "waterbody": "CONESUS CREEK NEAR LAKEVILLE NY",
+  "state": "NY",
+  "latitude": 42.85416667,
+  "longitude": -77.71527778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Conesus Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llln6",
+  "slug": "usgs-04227995",
+  "noaaForecastPath": "data/noaa-forecast/LLLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

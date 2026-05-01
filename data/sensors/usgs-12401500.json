@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12401500",
+  "key": "12401500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12401500",
+  "name": "KETTLE RIVER NEAR FERRY, WA",
+  "waterbody": "KETTLE RIVER NEAR FERRY, WA",
+  "state": "WA",
+  "latitude": 48.98128428,
+  "longitude": -118.7664259,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRYW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kettle River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fryw1",
+  "slug": "usgs-12401500",
+  "noaaForecastPath": "data/noaa-forecast/FRYW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

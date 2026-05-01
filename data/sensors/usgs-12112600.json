@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12112600",
+  "key": "12112600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12112600",
+  "name": "BIG SOOS CREEK ABOVE HATCHERY NEAR AUBURN, WA",
+  "waterbody": "BIG SOOS CREEK ABOVE HATCHERY NEAR AUBURN, WA",
+  "state": "WA",
+  "latitude": 47.31232289,
+  "longitude": -122.165396,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSKW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Soos Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bskw1",
+  "slug": "usgs-12112600",
+  "noaaForecastPath": "data/noaa-forecast/BSKW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

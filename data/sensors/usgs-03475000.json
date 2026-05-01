@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03475000",
+  "key": "03475000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03475000",
+  "name": "M F HOLSTON RIVER NEAR MEADOWVIEW, VA",
+  "waterbody": "M F HOLSTON RIVER NEAR MEADOWVIEW, VA",
+  "state": "VA",
+  "latitude": 36.7131694,
+  "longitude": -81.8187334,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFHV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Holston River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfhv2",
+  "slug": "usgs-03475000",
+  "noaaForecastPath": "data/noaa-forecast/MFHV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

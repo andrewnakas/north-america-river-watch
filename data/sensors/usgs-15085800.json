@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15085800",
+  "key": "15085800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15085800",
+  "name": "MAYBESO C AT HOLLIS AK",
+  "waterbody": "MAYBESO C AT HOLLIS AK",
+  "state": "AK",
+  "latitude": 55.490199,
+  "longitude": -132.676926,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15085800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

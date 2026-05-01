@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09119000",
+  "key": "09119000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09119000",
+  "name": "TOMICHI CREEK AT GUNNISON, CO",
+  "waterbody": "TOMICHI CREEK AT GUNNISON, CO",
+  "state": "CO",
+  "latitude": 38.5211111,
+  "longitude": -106.9409583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tomichi Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tomc2",
+  "slug": "usgs-09119000",
+  "noaaForecastPath": "data/noaa-forecast/TOMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

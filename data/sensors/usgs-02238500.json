@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02238500",
+  "key": "02238500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02238500",
+  "name": "OCKLAWAHA RIVER AT MOSS BLUFF, FL",
+  "waterbody": "OCKLAWAHA RIVER AT MOSS BLUFF, FL",
+  "state": "FL",
+  "latitude": 29.0811111,
+  "longitude": -81.8808333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02238500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

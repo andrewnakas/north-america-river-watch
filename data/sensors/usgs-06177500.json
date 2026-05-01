@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06177500",
+  "key": "06177500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06177500",
+  "name": "Redwater River at Circle MT",
+  "waterbody": "Redwater River at Circle MT",
+  "state": "MT",
+  "latitude": 47.4139722,
+  "longitude": -105.5756444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwater River (MT)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrcm8",
+  "slug": "usgs-06177500",
+  "noaaForecastPath": "data/noaa-forecast/RRCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07335790",
+  "key": "07335790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07335790",
+  "name": "Kiamichi River near Clayton, OK",
+  "waterbody": "Kiamichi River near Clayton, OK",
+  "state": "OK",
+  "latitude": 34.5748229,
+  "longitude": -95.3408025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kiamichi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clto2",
+  "slug": "usgs-07335790",
+  "noaaForecastPath": "data/noaa-forecast/CLTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

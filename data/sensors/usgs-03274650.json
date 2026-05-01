@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03274650",
+  "key": "03274650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03274650",
+  "name": "WHITEWATER RIVER NEAR ECONOMY, IN",
+  "waterbody": "WHITEWATER RIVER NEAR ECONOMY, IN",
+  "state": "IN",
+  "latitude": 40.0041988,
+  "longitude": -85.1154894,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EMYI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewater River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/emyi3",
+  "slug": "usgs-03274650",
+  "noaaForecastPath": "data/noaa-forecast/EMYI3.json",
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

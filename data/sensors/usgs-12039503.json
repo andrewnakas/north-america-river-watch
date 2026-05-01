@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12039503",
+  "key": "12039503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039503",
+  "name": "QUINAULT R ABV BOULDER CR (10A) NR QUINAULT, WA",
+  "waterbody": "QUINAULT R ABV BOULDER CR (10A) NR QUINAULT, WA",
+  "state": "WA",
+  "latitude": 47.4324,
+  "longitude": -123.9103972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12039503",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

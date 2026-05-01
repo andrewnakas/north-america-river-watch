@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15485500",
+  "key": "15485500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15485500",
+  "name": "TANANA R AT FAIRBANKS AK",
+  "waterbody": "TANANA R AT FAIRBANKS AK",
+  "state": "AK",
+  "latitude": 64.7923355,
+  "longitude": -147.8413488,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TAFA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tanana River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tafa2",
+  "slug": "usgs-15485500",
+  "noaaForecastPath": "data/noaa-forecast/TAFA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

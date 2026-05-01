@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02309421",
+  "key": "02309421",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02309421",
+  "name": "CURLEW CREEK AT BELCHER ROAD NEAR OZONA FL",
+  "waterbody": "CURLEW CREEK AT BELCHER ROAD NEAR OZONA FL",
+  "state": "FL",
+  "latitude": 28.04,
+  "longitude": -82.7475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCBF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Curlew Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccbf1",
+  "slug": "usgs-02309421",
+  "noaaForecastPath": "data/noaa-forecast/CCBF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

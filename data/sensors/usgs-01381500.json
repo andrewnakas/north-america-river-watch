@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01381500",
+  "key": "01381500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01381500",
+  "name": "Whippany River at Morristown NJ",
+  "waterbody": "Whippany River at Morristown NJ",
+  "state": "NJ",
+  "latitude": 40.80722222,
+  "longitude": -74.45694444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHIN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whippany River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whin4",
+  "slug": "usgs-01381500",
+  "noaaForecastPath": "data/noaa-forecast/WHIN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

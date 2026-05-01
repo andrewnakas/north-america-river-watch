@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12206900",
+  "key": "12206900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12206900",
+  "name": "RACEHORSE CREEK AT NORTH FORK ROAD NR KENDALL, WA",
+  "waterbody": "RACEHORSE CREEK AT NORTH FORK ROAD NR KENDALL, WA",
+  "state": "WA",
+  "latitude": 48.8847974,
+  "longitude": -122.1331899,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12206900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

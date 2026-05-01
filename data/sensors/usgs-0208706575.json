@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208706575",
+  "key": "0208706575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208706575",
+  "name": "BEAVERDAM CREEK AT DAM NEAR CREEDMOOR, NC",
+  "waterbody": "BEAVERDAM CREEK AT DAM NEAR CREEDMOOR, NC",
+  "state": "NC",
+  "latitude": 36.0236111,
+  "longitude": -78.6891667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaverdam Creek (NC)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crdn7",
+  "slug": "usgs-0208706575",
+  "noaaForecastPath": "data/noaa-forecast/CRDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.325Z"
+}

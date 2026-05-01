@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07369000",
+  "key": "07369000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07369000",
+  "name": "Bayou Lafourche near Crew Lake, LA",
+  "waterbody": "Bayou Lafourche near Crew Lake, LA",
+  "state": "LA",
+  "latitude": 32.5,
+  "longitude": -91.9180556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLGL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Lafourche (NE LA)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clgl1",
+  "slug": "usgs-07369000",
+  "noaaForecastPath": "data/noaa-forecast/CLGL1.json",
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07218655",
+  "key": "07218655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07218655",
+  "name": "SPARKS CREEK NEAR ROCIADA, NM",
+  "waterbody": "SPARKS CREEK NEAR ROCIADA, NM",
+  "state": "NM",
+  "latitude": 35.8629333,
+  "longitude": -105.4603361,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07218655",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

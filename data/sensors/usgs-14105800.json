@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14105800",
+  "key": "14105800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14105800",
+  "name": "NF MILL CR ABV SF MILL CR, NR THE DALLES, OR",
+  "waterbody": "NF MILL CR ABV SF MILL CR, NR THE DALLES, OR",
+  "state": "OR",
+  "latitude": 45.53629167,
+  "longitude": -121.3448417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14105800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

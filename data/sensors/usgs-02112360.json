@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02112360",
+  "key": "02112360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02112360",
+  "name": "MITCHELL RIVER NEAR STATE ROAD, NC",
+  "waterbody": "MITCHELL RIVER NEAR STATE ROAD, NC",
+  "state": "NC",
+  "latitude": 36.31138889,
+  "longitude": -80.8072222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02112360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

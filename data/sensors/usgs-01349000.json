@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01349000",
+  "key": "01349000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01349000",
+  "name": "OTSQUAGO CREEK AT FORT PLAIN NY",
+  "waterbody": "OTSQUAGO CREEK AT FORT PLAIN NY",
+  "state": "NY",
+  "latitude": 42.92925,
+  "longitude": -74.63288889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01349000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

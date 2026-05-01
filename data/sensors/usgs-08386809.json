@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08386809",
+  "key": "08386809",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08386809",
+  "name": "SOUTH FORK CEDAR CREEK NEAR RUIDOSO, NM",
+  "waterbody": "SOUTH FORK CEDAR CREEK NEAR RUIDOSO, NM",
+  "state": "NM",
+  "latitude": 33.36636944,
+  "longitude": -105.7218,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08386809",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.308Z"
+}

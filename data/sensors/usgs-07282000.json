@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07282000",
+  "key": "07282000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07282000",
+  "name": "YALOBUSHA R AND TOPASHAW C CA AT CALHOUN CITY, MS",
+  "waterbody": "YALOBUSHA R AND TOPASHAW C CA AT CALHOUN CITY, MS",
+  "state": "MS",
+  "latitude": 33.8386111,
+  "longitude": -89.3155556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCTM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yalobusha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cctm6",
+  "slug": "usgs-07282000",
+  "noaaForecastPath": "data/noaa-forecast/CCTM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

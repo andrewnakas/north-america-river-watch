@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05471200",
+  "key": "05471200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05471200",
+  "name": "Indian Creek near Mingo, IA",
+  "waterbody": "Indian Creek near Mingo, IA",
+  "state": "IA",
+  "latitude": 41.8057222,
+  "longitude": -93.3086944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGOI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Indian Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgoi4",
+  "slug": "usgs-05471200",
+  "noaaForecastPath": "data/noaa-forecast/MGOI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

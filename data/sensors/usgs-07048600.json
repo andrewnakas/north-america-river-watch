@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07048600",
+  "key": "07048600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07048600",
+  "name": "White River near Fayetteville, AR",
+  "waterbody": "White River near Fayetteville, AR",
+  "state": "AR",
+  "latitude": 36.07305556,
+  "longitude": -94.0811111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FYGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fyga4",
+  "slug": "usgs-07048600",
+  "noaaForecastPath": "data/noaa-forecast/FYGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.164Z"
+}

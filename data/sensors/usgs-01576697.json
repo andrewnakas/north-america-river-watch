@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01576697",
+  "key": "01576697",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576697",
+  "name": "Swarr Run near Landisville, PA",
+  "waterbody": "Swarr Run near Landisville, PA",
+  "state": "PA",
+  "latitude": 40.07204125,
+  "longitude": -76.3569047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLMP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Conestoga Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flmp1",
+  "slug": "usgs-01576697",
+  "noaaForecastPath": "data/noaa-forecast/FLMP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

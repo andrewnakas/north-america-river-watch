@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50011200",
+  "key": "50011200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50011200",
+  "name": "RIO GUAJATACA BLW LAGO GUAJATACA, PR",
+  "waterbody": "RIO GUAJATACA BLW LAGO GUAJATACA, PR",
+  "state": "PR",
+  "latitude": 18.400278,
+  "longitude": -66.927778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50011200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

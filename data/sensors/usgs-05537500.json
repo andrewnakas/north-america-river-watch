@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05537500",
+  "key": "05537500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05537500",
+  "name": "LONG RUN NEAR LEMONT, IL",
+  "waterbody": "LONG RUN NEAR LEMONT, IL",
+  "state": "IL",
+  "latitude": 41.6426111,
+  "longitude": -87.9993611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LLCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Long Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/llci2",
+  "slug": "usgs-05537500",
+  "noaaForecastPath": "data/noaa-forecast/LLCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

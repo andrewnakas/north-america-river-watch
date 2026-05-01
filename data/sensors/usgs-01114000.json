@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01114000",
+  "key": "01114000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01114000",
+  "name": "MOSHASSUCK RIVER AT PROVIDENCE, RI",
+  "waterbody": "MOSHASSUCK RIVER AT PROVIDENCE, RI",
+  "state": "RI",
+  "latitude": 41.833989,
+  "longitude": -71.41061208,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOSR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moshassuck River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mosr1",
+  "slug": "usgs-01114000",
+  "noaaForecastPath": "data/noaa-forecast/MOSR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

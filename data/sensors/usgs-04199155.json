@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04199155",
+  "key": "04199155",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04199155",
+  "name": "Old Woman Creek at Berlin Rd near Huron OH",
+  "waterbody": "Old Woman Creek at Berlin Rd near Huron OH",
+  "state": "OH",
+  "latitude": 41.34838289,
+  "longitude": -82.51378249,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWHO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Old Woman Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owho1",
+  "slug": "usgs-04199155",
+  "noaaForecastPath": "data/noaa-forecast/OWHO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

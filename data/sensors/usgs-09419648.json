@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09419648",
+  "key": "09419648",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09419648",
+  "name": "LAS VEGAS WASH ABV DETENTION BASIN NR N LAS VEGAS",
+  "waterbody": "LAS VEGAS WASH ABV DETENTION BASIN NR N LAS VEGAS",
+  "state": "NV",
+  "latitude": 36.30246806,
+  "longitude": -115.1391714,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09419648",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.294Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146409",
+  "key": "02146409",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146409",
+  "name": "LTL SUGAR CR AT MEDICAL CENTER DR AT CHARLOTTE, NC",
+  "waterbody": "LTL SUGAR CR AT MEDICAL CENTER DR AT CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.2036111,
+  "longitude": -80.8369444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSMN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sugar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsmn7",
+  "slug": "usgs-02146409",
+  "noaaForecastPath": "data/noaa-forecast/LSMN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

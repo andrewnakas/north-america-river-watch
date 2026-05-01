@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05424000",
+  "key": "05424000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05424000",
+  "name": "EAST BRANCH ROCK RIVER NEAR MAYVILLE, WI",
+  "waterbody": "EAST BRANCH ROCK RIVER NEAR MAYVILLE, WI",
+  "state": "WI",
+  "latitude": 43.52944444,
+  "longitude": -88.56638889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05424000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

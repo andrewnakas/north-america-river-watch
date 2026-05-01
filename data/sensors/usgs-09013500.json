@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09013500",
+  "key": "09013500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09013500",
+  "name": "EAST INLET NEAR GRAND LAKE, CO.",
+  "waterbody": "EAST INLET NEAR GRAND LAKE, CO.",
+  "state": "CO",
+  "latitude": 40.23637409,
+  "longitude": -105.7983437,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09013500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

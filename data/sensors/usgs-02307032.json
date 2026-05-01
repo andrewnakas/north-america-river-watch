@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02307032",
+  "key": "02307032",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307032",
+  "name": "DOUBLE BRANCH AT COUNTRY WAY BLVD NEAR OLDSMAR FL",
+  "waterbody": "DOUBLE BRANCH AT COUNTRY WAY BLVD NEAR OLDSMAR FL",
+  "state": "FL",
+  "latitude": 28.05085626,
+  "longitude": -82.6268163,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OLDF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Double Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oldf1",
+  "slug": "usgs-02307032",
+  "noaaForecastPath": "data/noaa-forecast/OLDF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

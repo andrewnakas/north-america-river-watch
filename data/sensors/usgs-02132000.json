@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02132000",
+  "key": "02132000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02132000",
+  "name": "LYNCHES RIVER AT EFFINGHAM, SC",
+  "waterbody": "LYNCHES RIVER AT EFFINGHAM, SC",
+  "state": "SC",
+  "latitude": 34.05154846,
+  "longitude": -79.7539545,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EFFS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lynches River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/effs1",
+  "slug": "usgs-02132000",
+  "noaaForecastPath": "data/noaa-forecast/EFFS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

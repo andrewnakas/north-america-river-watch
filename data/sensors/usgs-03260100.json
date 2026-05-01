@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03260100",
+  "key": "03260100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03260100",
+  "name": "ELIJAHS CREEK @ ELIJAHS CREEK RD NR HEBRON, KY",
+  "waterbody": "ELIJAHS CREEK @ ELIJAHS CREEK RD NR HEBRON, KY",
+  "state": "KY",
+  "latitude": 39.0797222,
+  "longitude": -84.6852778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELJK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elijahs Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eljk2",
+  "slug": "usgs-03260100",
+  "noaaForecastPath": "data/noaa-forecast/ELJK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

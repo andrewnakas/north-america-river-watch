@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14197900",
+  "key": "14197900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14197900",
+  "name": "WILLAMETTE RIVER AT NEWBERG, OR",
+  "waterbody": "WILLAMETTE RIVER AT NEWBERG, OR",
+  "state": "OR",
+  "latitude": 45.2845625,
+  "longitude": -122.9614893,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEBO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willamette River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nebo3",
+  "slug": "usgs-14197900",
+  "noaaForecastPath": "data/noaa-forecast/NEBO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08128095",
+  "key": "08128095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08128095",
+  "name": "Tepee Draw Trib nr Barnhart, TX",
+  "waterbody": "Tepee Draw Trib nr Barnhart, TX",
+  "state": "TX",
+  "latitude": 31.2108,
+  "longitude": -101.17605556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08128095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

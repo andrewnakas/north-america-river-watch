@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08480595",
+  "key": "08480595",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08480595",
+  "name": "SALT CREEK NEAR TULAROSA, NM",
+  "waterbody": "SALT CREEK NEAR TULAROSA, NM",
+  "state": "NM",
+  "latitude": 33.27555556,
+  "longitude": -106.3972222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08480595",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08169500",
+  "key": "08169500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08169500",
+  "name": "Guadalupe Rv at New Braunfels, TX",
+  "waterbody": "Guadalupe Rv at New Braunfels, TX",
+  "state": "TX",
+  "latitude": 29.69800265,
+  "longitude": -98.1066748,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbct2",
+  "slug": "usgs-08169500",
+  "noaaForecastPath": "data/noaa-forecast/GBCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

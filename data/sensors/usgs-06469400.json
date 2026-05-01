@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06469400",
+  "key": "06469400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06469400",
+  "name": "PIPESTEM CREEK NEAR PINGREE, ND",
+  "waterbody": "PIPESTEM CREEK NEAR PINGREE, ND",
+  "state": "ND",
+  "latitude": 47.1674635,
+  "longitude": -98.9690423,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PGEN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pipestem Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pgen8",
+  "slug": "usgs-06469400",
+  "noaaForecastPath": "data/noaa-forecast/PGEN8.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

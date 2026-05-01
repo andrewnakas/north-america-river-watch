@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08032400",
+  "key": "08032400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08032400",
+  "name": "Neches Rv at SH 294 nr Alto, TX",
+  "waterbody": "Neches Rv at SH 294 nr Alto, TX",
+  "state": "TX",
+  "latitude": 31.62964444,
+  "longitude": -95.2858333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08032400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

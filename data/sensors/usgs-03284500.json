@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03284500",
+  "key": "03284500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03284500",
+  "name": "KENTUCKY RIVER AT LOCK 8 NEAR CAMP NELSON, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 8 NEAR CAMP NELSON, KY",
+  "state": "KY",
+  "latitude": 37.74535715,
+  "longitude": -84.5866074,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPNK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cpnk2",
+  "slug": "usgs-03284500",
+  "noaaForecastPath": "data/noaa-forecast/CPNK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

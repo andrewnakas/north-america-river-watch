@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104455",
+  "key": "01104455",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104455",
+  "name": "STONY BROOK, UNNAMED TRIBUTARY 1, NEAR WALTHAM, MA",
+  "waterbody": "STONY BROOK, UNNAMED TRIBUTARY 1, NEAR WALTHAM, MA",
+  "state": "MA",
+  "latitude": 42.37259606,
+  "longitude": -71.27033448,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104455",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06755800",
+  "key": "06755800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06755800",
+  "name": "CROW CREEK AT ROUND TOP ROAD, NEAR CHEYENNE, WY",
+  "waterbody": "CROW CREEK AT ROUND TOP ROAD, NEAR CHEYENNE, WY",
+  "state": "WY",
+  "latitude": 41.1583148,
+  "longitude": -104.8794139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06755800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

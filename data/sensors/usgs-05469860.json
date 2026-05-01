@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05469860",
+  "key": "05469860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05469860",
+  "name": "Mud Lake Drainage Ditch 71 at Jewell, IA",
+  "waterbody": "Mud Lake Drainage Ditch 71 at Jewell, IA",
+  "state": "IA",
+  "latitude": 42.31442529,
+  "longitude": -93.639938,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JEWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud Lake Drainage Ditch 71",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jewi4",
+  "slug": "usgs-05469860",
+  "noaaForecastPath": "data/noaa-forecast/JEWI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

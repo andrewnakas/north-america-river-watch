@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13169450",
+  "key": "13169450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13169450",
+  "name": "BIG JACKS AT AL SADIE RANCH NR BRUNEAU, ID",
+  "waterbody": "BIG JACKS AT AL SADIE RANCH NR BRUNEAU, ID",
+  "state": "ID",
+  "latitude": 42.7525,
+  "longitude": -116.0044444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13169450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

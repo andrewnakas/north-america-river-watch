@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12413445",
+  "key": "12413445",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413445",
+  "name": "PINE CREEK BELOW AMY GULCH NEAR PINEHURST ID",
+  "waterbody": "PINE CREEK BELOW AMY GULCH NEAR PINEHURST ID",
+  "state": "ID",
+  "latitude": 47.5081222,
+  "longitude": -116.2418,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12413445",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

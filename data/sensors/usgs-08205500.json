@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08205500",
+  "key": "08205500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08205500",
+  "name": "Frio Rv nr Derby, TX",
+  "waterbody": "Frio Rv nr Derby, TX",
+  "state": "TX",
+  "latitude": 28.73664429,
+  "longitude": -99.1447556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DBYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Frio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dbyt2",
+  "slug": "usgs-08205500",
+  "noaaForecastPath": "data/noaa-forecast/DBYT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

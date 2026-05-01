@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02338840",
+  "key": "02338840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02338840",
+  "name": "YELLOWJACKET CREEK-HAMMETT RD, BLW HOGANSVILLE, GA",
+  "waterbody": "YELLOWJACKET CREEK-HAMMETT RD, BLW HOGANSVILLE, GA",
+  "state": "GA",
+  "latitude": 33.13980556,
+  "longitude": -84.97538889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YJCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow Jacket Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yjcg1",
+  "slug": "usgs-02338840",
+  "noaaForecastPath": "data/noaa-forecast/YJCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

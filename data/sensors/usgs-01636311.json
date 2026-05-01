@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01636311",
+  "key": "01636311",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01636311",
+  "name": "SPOUT RUN AT POWHATAN SCHOOL NR BOYCE, VA",
+  "waterbody": "SPOUT RUN AT POWHATAN SCHOOL NR BOYCE, VA",
+  "state": "VA",
+  "latitude": 39.07702778,
+  "longitude": -78.0449722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01636311",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01576003",
+  "key": "01576003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576003",
+  "name": "Susquehanna River at Columbia, PA",
+  "waterbody": "Susquehanna River at Columbia, PA",
+  "state": "PA",
+  "latitude": 40.0284308,
+  "longitude": -76.5177432,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01576003",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

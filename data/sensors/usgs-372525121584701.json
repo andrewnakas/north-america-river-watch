@@ -1,0 +1,22 @@
+{
+  "id": "usgs:372525121584701",
+  "key": "372525121584701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "372525121584701",
+  "name": "ALVISO SLOUGH FEEDER CHANNEL A ALVISO CA",
+  "waterbody": "ALVISO SLOUGH FEEDER CHANNEL A ALVISO CA",
+  "state": "CA",
+  "latitude": 37.4234833,
+  "longitude": -121.9796139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River (CA)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gugc1",
+  "slug": "usgs-372525121584701",
+  "noaaForecastPath": "data/noaa-forecast/GUGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

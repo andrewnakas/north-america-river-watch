@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15297625",
+  "key": "15297625",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15297625",
+  "name": "MOFFETT C AT ADAK IS AK",
+  "waterbody": "MOFFETT C AT ADAK IS AK",
+  "state": "AK",
+  "latitude": 51.93639769,
+  "longitude": -176.6519277,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15297625",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

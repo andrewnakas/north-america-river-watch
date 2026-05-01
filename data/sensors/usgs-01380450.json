@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01380450",
+  "key": "01380450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01380450",
+  "name": "Rockaway River at Main Street at Boonton NJ",
+  "waterbody": "Rockaway River at Main Street at Boonton NJ",
+  "state": "NJ",
+  "latitude": 40.9075,
+  "longitude": -74.4191667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rockaway River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/botn4",
+  "slug": "usgs-01380450",
+  "noaaForecastPath": "data/noaa-forecast/BOTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

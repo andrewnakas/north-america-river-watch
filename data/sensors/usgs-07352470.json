@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07352470",
+  "key": "07352470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07352470",
+  "name": "Black Lake Bayou north of Castor, La",
+  "waterbody": "Black Lake Bayou north of Castor, La",
+  "state": "LA",
+  "latitude": 32.2972222,
+  "longitude": -93.1883333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07352470",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

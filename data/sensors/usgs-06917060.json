@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06917060",
+  "key": "06917060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06917060",
+  "name": "Little Osage River at Horton, MO",
+  "waterbody": "Little Osage River at Horton, MO",
+  "state": "MO",
+  "latitude": 37.99480556,
+  "longitude": -94.3693056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTNM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Osage River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htnm7",
+  "slug": "usgs-06917060",
+  "noaaForecastPath": "data/noaa-forecast/HTNM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

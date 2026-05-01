@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09304200",
+  "key": "09304200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09304200",
+  "name": "WHITE RIVER ABOVE COAL CREEK NEAR MEEKER, CO",
+  "waterbody": "WHITE RIVER ABOVE COAL CREEK NEAR MEEKER, CO",
+  "state": "CO",
+  "latitude": 40.00496048,
+  "longitude": -107.82538142,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09304200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

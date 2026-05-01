@@ -1,0 +1,19 @@
+{
+  "id": "usgs:411815084393701",
+  "key": "411815084393701",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "411815084393701",
+  "name": "Inflow tile to bioreactor near Mark Center OH",
+  "waterbody": "Inflow tile to bioreactor near Mark Center OH",
+  "state": "OH",
+  "latitude": 41.30416667,
+  "longitude": -84.6602778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-411815084393701",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

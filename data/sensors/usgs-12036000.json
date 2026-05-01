@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12036000",
+  "key": "12036000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12036000",
+  "name": "WYNOOCHEE RIVER ABOVE SAVE CREEK NEAR ABERDEEN, WA",
+  "waterbody": "WYNOOCHEE RIVER ABOVE SAVE CREEK NEAR ABERDEEN, WA",
+  "state": "WA",
+  "latitude": 47.2989784,
+  "longitude": -123.6532235,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12036000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

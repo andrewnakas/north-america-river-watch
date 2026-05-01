@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06799450",
+  "key": "06799450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06799450",
+  "name": "LOGAN CREEK AT PENDER NE",
+  "waterbody": "LOGAN CREEK AT PENDER NE",
+  "state": "NE",
+  "latitude": 42.11388889,
+  "longitude": -96.7016667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PEDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Logan Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pedn1",
+  "slug": "usgs-06799450",
+  "noaaForecastPath": "data/noaa-forecast/PEDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02274490",
+  "key": "02274490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02274490",
+  "name": "WILLIAMSON DITCH NEAR OKEECHOBEE, FL",
+  "waterbody": "WILLIAMSON DITCH NEAR OKEECHOBEE, FL",
+  "state": "FL",
+  "latitude": 27.3047665,
+  "longitude": -80.8189493,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02274490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.196Z"
+}

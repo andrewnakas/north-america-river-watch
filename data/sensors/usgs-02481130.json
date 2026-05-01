@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02481130",
+  "key": "02481130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02481130",
+  "name": "BILOXI RIVER NR LYMAN, MS",
+  "waterbody": "BILOXI RIVER NR LYMAN, MS",
+  "state": "MS",
+  "latitude": 30.48833333,
+  "longitude": -89.0358333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYMM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Biloxi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lymm6",
+  "slug": "usgs-02481130",
+  "noaaForecastPath": "data/noaa-forecast/LYMM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

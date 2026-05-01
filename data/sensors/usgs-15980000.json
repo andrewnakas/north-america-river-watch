@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15980000",
+  "key": "15980000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15980000",
+  "name": "HULAHULA R NR KAKTOVIK AK",
+  "waterbody": "HULAHULA R NR KAKTOVIK AK",
+  "state": "AK",
+  "latitude": 69.7036623,
+  "longitude": -144.201236,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HULA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hulahula River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hula2",
+  "slug": "usgs-15980000",
+  "noaaForecastPath": "data/noaa-forecast/HULA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

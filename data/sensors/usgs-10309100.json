@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10309100",
+  "key": "10309100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10309100",
+  "name": "E FK CARSON RV AT MINDEN, NV",
+  "waterbody": "E FK CARSON RV AT MINDEN, NV",
+  "state": "NV",
+  "latitude": 38.9390737,
+  "longitude": -119.7707332,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10309100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

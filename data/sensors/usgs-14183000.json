@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14183000",
+  "key": "14183000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14183000",
+  "name": "NORTH SANTIAM RIVER AT MEHAMA, OR",
+  "waterbody": "NORTH SANTIAM RIVER AT MEHAMA, OR",
+  "state": "OR",
+  "latitude": 44.78925,
+  "longitude": -122.6188056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MEHO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "N Santiam River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/meho3",
+  "slug": "usgs-14183000",
+  "noaaForecastPath": "data/noaa-forecast/MEHO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

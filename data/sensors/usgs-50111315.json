@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50111315",
+  "key": "50111315",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50111315",
+  "name": "RIO JACAGUAS BLW HWY 149 NR VILLALBA, PR",
+  "waterbody": "RIO JACAGUAS BLW HWY 149 NR VILLALBA, PR",
+  "state": "PR",
+  "latitude": 18.0831,
+  "longitude": -66.5039361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCGP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Jacaguas Blw 149 nr Villalba",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jcgp4",
+  "slug": "usgs-50111315",
+  "noaaForecastPath": "data/noaa-forecast/JCGP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09346050",
+  "key": "09346050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09346050",
+  "name": "NAVAJO RIVER NEAR DULCE, NM",
+  "waterbody": "NAVAJO RIVER NEAR DULCE, NM",
+  "state": "NM",
+  "latitude": 36.9615,
+  "longitude": -106.97777778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09346050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.309Z"
+}

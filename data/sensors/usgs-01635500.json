@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01635500",
+  "key": "01635500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01635500",
+  "name": "PASSAGE CREEK NEAR BUCKTON, VA",
+  "waterbody": "PASSAGE CREEK NEAR BUCKTON, VA",
+  "state": "VA",
+  "latitude": 38.95816564,
+  "longitude": -78.2666685,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTNV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Passage Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btnv2",
+  "slug": "usgs-01635500",
+  "noaaForecastPath": "data/noaa-forecast/BTNV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

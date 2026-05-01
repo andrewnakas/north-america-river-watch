@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08254000",
+  "key": "08254000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08254000",
+  "name": "COSTILLA CREEK BELOW COSTILLA DAM, NM",
+  "waterbody": "COSTILLA CREEK BELOW COSTILLA DAM, NM",
+  "state": "NM",
+  "latitude": 36.87280556,
+  "longitude": -105.2836667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COTN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Costilla Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cotn5",
+  "slug": "usgs-08254000",
+  "noaaForecastPath": "data/noaa-forecast/COTN5.json",
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15052495",
+  "key": "15052495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15052495",
+  "name": "NUGGET C AB DIV NR AUKE BAY AK",
+  "waterbody": "NUGGET C AB DIV NR AUKE BAY AK",
+  "state": "AK",
+  "latitude": 58.4232871,
+  "longitude": -134.5253896,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15052495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

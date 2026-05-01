@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02289500",
+  "key": "02289500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02289500",
+  "name": "TAMIAMI CANAL NEAR CORAL GABLES, FL",
+  "waterbody": "TAMIAMI CANAL NEAR CORAL GABLES, FL",
+  "state": "FL",
+  "latitude": 25.7625,
+  "longitude": -80.3280833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tamiami Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tccf1",
+  "slug": "usgs-02289500",
+  "noaaForecastPath": "data/noaa-forecast/TCCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

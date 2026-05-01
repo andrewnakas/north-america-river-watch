@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02465080",
+  "key": "02465080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02465080",
+  "name": "MILL CREEK AT CLOVERDALE ROAD NEAR NORTHPORT, AL.",
+  "waterbody": "MILL CREEK AT CLOVERDALE ROAD NEAR NORTHPORT, AL.",
+  "state": "AL",
+  "latitude": 33.24789545,
+  "longitude": -87.6069525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02465080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07237000",
+  "key": "07237000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07237000",
+  "name": "Wolf Creek near Fort Supply, OK",
+  "waterbody": "Wolf Creek near Fort Supply, OK",
+  "state": "OK",
+  "latitude": 36.5667017,
+  "longitude": -99.5517805,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07237000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

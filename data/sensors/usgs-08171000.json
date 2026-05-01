@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08171000",
+  "key": "08171000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08171000",
+  "name": "Blanco Rv at Wimberley, TX",
+  "waterbody": "Blanco Rv at Wimberley, TX",
+  "state": "TX",
+  "latitude": 29.99438343,
+  "longitude": -98.088925,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WMBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wmbt2",
+  "slug": "usgs-08171000",
+  "noaaForecastPath": "data/noaa-forecast/WMBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

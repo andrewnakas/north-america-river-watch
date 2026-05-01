@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12314000",
+  "key": "12314000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12314000",
+  "name": "KOOTENAI R AT KLOCKMANN RANCH NR BONNERS FERRY ID",
+  "waterbody": "KOOTENAI R AT KLOCKMANN RANCH NR BONNERS FERRY ID",
+  "state": "ID",
+  "latitude": 48.79374357,
+  "longitude": -116.3818924,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12314000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

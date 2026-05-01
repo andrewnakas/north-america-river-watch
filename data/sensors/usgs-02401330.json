@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02401330",
+  "key": "02401330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02401330",
+  "name": "COOSA RIVER NR SOUTHSIDE, ALA",
+  "waterbody": "COOSA RIVER NR SOUTHSIDE, ALA",
+  "state": "AL",
+  "latitude": 33.9431535,
+  "longitude": -86.02608309,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02401330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

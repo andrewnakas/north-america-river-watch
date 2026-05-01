@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09163492",
+  "key": "09163492",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09163492",
+  "name": "SALT CREEK NEAR MOUTH NEAR MACK, CO.",
+  "waterbody": "SALT CREEK NEAR MOUTH NEAR MACK, CO.",
+  "state": "CO",
+  "latitude": 39.21463889,
+  "longitude": -108.90116667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09163492",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

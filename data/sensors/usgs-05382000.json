@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05382000",
+  "key": "05382000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05382000",
+  "name": "BLACK RIVER NEAR GALESVILLE, WI",
+  "waterbody": "BLACK RIVER NEAR GALESVILLE, WI",
+  "state": "WI",
+  "latitude": 44.06027778,
+  "longitude": -91.2872222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GALW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/galw3",
+  "slug": "usgs-05382000",
+  "noaaForecastPath": "data/noaa-forecast/GALW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

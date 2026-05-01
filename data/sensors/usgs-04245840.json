@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04245840",
+  "key": "04245840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04245840",
+  "name": "SCRIBA CREEK NEAR CONSTANTIA NY",
+  "waterbody": "SCRIBA CREEK NEAR CONSTANTIA NY",
+  "state": "NY",
+  "latitude": 43.25980556,
+  "longitude": -76.00277778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COSN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Scriba Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cosn6",
+  "slug": "usgs-04245840",
+  "noaaForecastPath": "data/noaa-forecast/COSN6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

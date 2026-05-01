@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02152474",
+  "key": "02152474",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02152474",
+  "name": "FIRST BROAD RIVER AT LAWNDALE, NC",
+  "waterbody": "FIRST BROAD RIVER AT LAWNDALE, NC",
+  "state": "NC",
+  "latitude": 35.41527778,
+  "longitude": -81.5616667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNDN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "First Broad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lndn7",
+  "slug": "usgs-02152474",
+  "noaaForecastPath": "data/noaa-forecast/LNDN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14200400",
+  "key": "14200400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14200400",
+  "name": "LITTLE ABIQUA CREEK NEAR SCOTTS MILLS, OR",
+  "waterbody": "LITTLE ABIQUA CREEK NEAR SCOTTS MILLS, OR",
+  "state": "OR",
+  "latitude": 44.95567759,
+  "longitude": -122.6284199,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14200400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

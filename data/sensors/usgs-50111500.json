@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50111500",
+  "key": "50111500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50111500",
+  "name": "RIO JACAGUAS AT JUANA DIAZ, PR",
+  "waterbody": "RIO JACAGUAS AT JUANA DIAZ, PR",
+  "state": "PR",
+  "latitude": 18.054297,
+  "longitude": -66.511025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JUAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Jacaguas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/juap4",
+  "slug": "usgs-50111500",
+  "noaaForecastPath": "data/noaa-forecast/JUAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

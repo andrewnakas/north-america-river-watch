@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08041300",
+  "key": "08041300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08041300",
+  "name": "Village Ck at US Hwy 69 nr Village Mills, TX",
+  "waterbody": "Village Ck at US Hwy 69 nr Village Mills, TX",
+  "state": "TX",
+  "latitude": 30.481425,
+  "longitude": -94.3946528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VIMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Village Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vimt2",
+  "slug": "usgs-08041300",
+  "noaaForecastPath": "data/noaa-forecast/VIMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04085138",
+  "key": "04085138",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085138",
+  "name": "EAST RIVER AT GREEN BAY, WI",
+  "waterbody": "EAST RIVER AT GREEN BAY, WI",
+  "state": "WI",
+  "latitude": 44.5091661,
+  "longitude": -87.9916967,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ERBW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/erbw3",
+  "slug": "usgs-04085138",
+  "noaaForecastPath": "data/noaa-forecast/ERBW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05490600",
+  "key": "05490600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05490600",
+  "name": "Des Moines River at St. Francisville, MO",
+  "waterbody": "Des Moines River at St. Francisville, MO",
+  "state": "MO",
+  "latitude": 40.4624083,
+  "longitude": -91.5669639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFLM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sflm7",
+  "slug": "usgs-05490600",
+  "noaaForecastPath": "data/noaa-forecast/SFLM7.json",
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

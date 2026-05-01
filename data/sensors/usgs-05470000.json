@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05470000",
+  "key": "05470000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05470000",
+  "name": "South Skunk River near Ames, IA",
+  "waterbody": "South Skunk River near Ames, IA",
+  "state": "IA",
+  "latitude": 42.0665833,
+  "longitude": -93.62025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMEI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Skunk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amei4",
+  "slug": "usgs-05470000",
+  "noaaForecastPath": "data/noaa-forecast/AMEI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

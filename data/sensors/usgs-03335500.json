@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03335500",
+  "key": "03335500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03335500",
+  "name": "WABASH RIVER AT LAFAYETTE, IN",
+  "waterbody": "WABASH RIVER AT LAFAYETTE, IN",
+  "state": "IN",
+  "latitude": 40.42194444,
+  "longitude": -86.8969444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAFI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lafi3",
+  "slug": "usgs-03335500",
+  "noaaForecastPath": "data/noaa-forecast/LAFI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

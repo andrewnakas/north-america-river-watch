@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08155400",
+  "key": "08155400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08155400",
+  "name": "Barton Ck abv Barton Spgs at Austin, TX",
+  "waterbody": "Barton Ck abv Barton Spgs at Austin, TX",
+  "state": "TX",
+  "latitude": 30.26354168,
+  "longitude": -97.772228,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCCT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barton Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcct2",
+  "slug": "usgs-08155400",
+  "noaaForecastPath": "data/noaa-forecast/BCCT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

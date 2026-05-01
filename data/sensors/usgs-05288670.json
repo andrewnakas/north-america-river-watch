@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05288670",
+  "key": "05288670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05288670",
+  "name": "MISSISSIPPI RIVER ABV 37TH AVE. NE IN FRIDLEY, MN",
+  "waterbody": "MISSISSIPPI RIVER ABV 37TH AVE. NE IN FRIDLEY, MN",
+  "state": "MN",
+  "latitude": 45.04327778,
+  "longitude": -93.27938889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSPM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mspm5",
+  "slug": "usgs-05288670",
+  "noaaForecastPath": "data/noaa-forecast/MSPM5.json",
+  "generatedAt": "2026-05-01T12:10:11.275Z"
+}

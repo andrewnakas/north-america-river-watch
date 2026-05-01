@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03138500",
+  "key": "03138500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03138500",
+  "name": "Walhonding River below Mohawk Dam at Nellie OH",
+  "waterbody": "Walhonding River below Mohawk Dam at Nellie OH",
+  "state": "OH",
+  "latitude": 40.34145696,
+  "longitude": -82.0654213,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NLLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walhonding River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nllo1",
+  "slug": "usgs-03138500",
+  "noaaForecastPath": "data/noaa-forecast/NLLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

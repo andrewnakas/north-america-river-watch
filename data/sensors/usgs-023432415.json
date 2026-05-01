@@ -1,0 +1,22 @@
+{
+  "id": "usgs:023432415",
+  "key": "023432415",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "023432415",
+  "name": "CHATTAHOOCHEE R .36 MI DS WFG DAM NR FT GAINES, GA",
+  "waterbody": "CHATTAHOOCHEE R .36 MI DS WFG DAM NR FT GAINES, GA",
+  "state": "AL",
+  "latitude": 31.62219444,
+  "longitude": -85.0591667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FPHA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chattahoochee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fpha1",
+  "slug": "usgs-023432415",
+  "noaaForecastPath": "data/noaa-forecast/FPHA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

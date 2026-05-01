@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02093229",
+  "key": "02093229",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02093229",
+  "name": "HEWLETTS CR AT SR1102 NEAR WILMINGTON, NC",
+  "waterbody": "HEWLETTS CR AT SR1102 NEAR WILMINGTON, NC",
+  "state": "NC",
+  "latitude": 34.1912816,
+  "longitude": -77.8919302,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02093229",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

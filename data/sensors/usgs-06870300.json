@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06870300",
+  "key": "06870300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06870300",
+  "name": "GYPSUM C NR GYPSUM, KS",
+  "waterbody": "GYPSUM C NR GYPSUM, KS",
+  "state": "KS",
+  "latitude": 38.62726389,
+  "longitude": -97.42755833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYSK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gypsum Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gysk1",
+  "slug": "usgs-06870300",
+  "noaaForecastPath": "data/noaa-forecast/GYSK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

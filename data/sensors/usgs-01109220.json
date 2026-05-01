@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01109220",
+  "key": "01109220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109220",
+  "name": "PALMER RIVER AT SOUTH REHOBOTH, MA",
+  "waterbody": "PALMER RIVER AT SOUTH REHOBOTH, MA",
+  "state": "MA",
+  "latitude": 41.80926767,
+  "longitude": -71.2778279,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01109220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

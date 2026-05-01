@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13022500",
+  "key": "13022500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13022500",
+  "name": "SNAKE RIVER ABOVE RESERVOIR, NEAR ALPINE, WY",
+  "waterbody": "SNAKE RIVER ABOVE RESERVOIR, NEAR ALPINE, WY",
+  "state": "WY",
+  "latitude": 43.1961111,
+  "longitude": -110.8894444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALPW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alpw4",
+  "slug": "usgs-13022500",
+  "noaaForecastPath": "data/noaa-forecast/ALPW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02112120",
+  "key": "02112120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02112120",
+  "name": "ROARING RIVER NEAR ROARING RIVER, NC",
+  "waterbody": "ROARING RIVER NEAR ROARING RIVER, NC",
+  "state": "NC",
+  "latitude": 36.25027778,
+  "longitude": -81.0444444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02112120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

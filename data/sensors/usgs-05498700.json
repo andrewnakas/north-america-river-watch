@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05498700",
+  "key": "05498700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05498700",
+  "name": "South Fabius River above Newark, MO",
+  "waterbody": "South Fabius River above Newark, MO",
+  "state": "MO",
+  "latitude": 40.0061111,
+  "longitude": -92.0269444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05498700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

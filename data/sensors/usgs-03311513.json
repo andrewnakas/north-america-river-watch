@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03311513",
+  "key": "03311513",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03311513",
+  "name": "GREEN RIVER AT HWY 259 AT BROWNSVILLE, KY",
+  "waterbody": "GREEN RIVER AT HWY 259 AT BROWNSVILLE, KY",
+  "state": "KY",
+  "latitude": 37.19719444,
+  "longitude": -86.27325,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNWK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Green River (KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnwk2",
+  "slug": "usgs-03311513",
+  "noaaForecastPath": "data/noaa-forecast/BNWK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

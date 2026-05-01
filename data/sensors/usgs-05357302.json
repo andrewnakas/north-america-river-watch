@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05357302",
+  "key": "05357302",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05357302",
+  "name": "MANITOWISH RIVER AT ST HWY 51 NR MANITOWISH WATERS",
+  "waterbody": "MANITOWISH RIVER AT ST HWY 51 NR MANITOWISH WATERS",
+  "state": "WI",
+  "latitude": 46.1361111,
+  "longitude": -89.9105556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05357302",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

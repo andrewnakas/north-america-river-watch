@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06437200",
+  "key": "06437200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06437200",
+  "name": "BEAR BUTTE CREEK NEAR GALENA,SD",
+  "waterbody": "BEAR BUTTE CREEK NEAR GALENA,SD",
+  "state": "SD",
+  "latitude": 44.3963735,
+  "longitude": -103.5826922,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOUS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Butte Creek in Boulder Canyon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bous2",
+  "slug": "usgs-06437200",
+  "noaaForecastPath": "data/noaa-forecast/BOUS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07378083",
+  "key": "07378083",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07378083",
+  "name": "Beaver Bayou at Hooper Road near Baton Rouge, LA",
+  "waterbody": "Beaver Bayou at Hooper Road near Baton Rouge, LA",
+  "state": "LA",
+  "latitude": 30.56102103,
+  "longitude": -91.0209368,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBHL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbhl1",
+  "slug": "usgs-07378083",
+  "noaaForecastPath": "data/noaa-forecast/BBHL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13297380",
+  "key": "13297380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13297380",
+  "name": "SALMON RIVER AB EAST FORK NR CLAYTON ID",
+  "waterbody": "SALMON RIVER AB EAST FORK NR CLAYTON ID",
+  "state": "ID",
+  "latitude": 44.26664167,
+  "longitude": -114.3267583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAEI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salmon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saei1",
+  "slug": "usgs-13297380",
+  "noaaForecastPath": "data/noaa-forecast/SAEI1.json",
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

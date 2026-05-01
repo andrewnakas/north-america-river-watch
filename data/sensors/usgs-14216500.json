@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14216500",
+  "key": "14216500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14216500",
+  "name": "MUDDY RIVER BELOW CLEAR CREEK NEAR COUGAR, WA",
+  "waterbody": "MUDDY RIVER BELOW CLEAR CREEK NEAR COUGAR, WA",
+  "state": "WA",
+  "latitude": 46.0756326,
+  "longitude": -121.9986768,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14216500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.433Z"
+}

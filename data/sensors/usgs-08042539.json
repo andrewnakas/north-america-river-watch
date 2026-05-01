@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08042539",
+  "key": "08042539",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08042539",
+  "name": "Spindletop Bayou at SH 65 nr Stowell, TX",
+  "waterbody": "Spindletop Bayou at SH 65 nr Stowell, TX",
+  "state": "TX",
+  "latitude": 29.7924361,
+  "longitude": -94.4237694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08042539",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

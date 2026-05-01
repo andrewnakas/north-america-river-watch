@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02480590",
+  "key": "02480590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02480590",
+  "name": "TCHOUTACABOUFFA RIVER NR D'IBERVILLE, MS",
+  "waterbody": "TCHOUTACABOUFFA RIVER NR D'IBERVILLE, MS",
+  "state": "MS",
+  "latitude": 30.4760307,
+  "longitude": -88.8933643,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DIBM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tchoutacabouffa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dibm6",
+  "slug": "usgs-02480590",
+  "noaaForecastPath": "data/noaa-forecast/DIBM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

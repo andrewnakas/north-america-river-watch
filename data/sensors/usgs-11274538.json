@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11274538",
+  "key": "11274538",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11274538",
+  "name": "ORESTIMBA CR AT RIVER RD NR CROWS LANDING CA",
+  "waterbody": "ORESTIMBA CR AT RIVER RD NR CROWS LANDING CA",
+  "state": "CA",
+  "latitude": 37.41354657,
+  "longitude": -121.0160412,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11274538",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

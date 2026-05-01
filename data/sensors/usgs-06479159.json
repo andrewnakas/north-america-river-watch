@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06479159",
+  "key": "06479159",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479159",
+  "name": "BLUE DOG LAKE INFLOW OWENS CR NR WAUBAY, SD",
+  "waterbody": "BLUE DOG LAKE INFLOW OWENS CR NR WAUBAY, SD",
+  "state": "SD",
+  "latitude": 45.3469048,
+  "longitude": -97.2520284,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06479159",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

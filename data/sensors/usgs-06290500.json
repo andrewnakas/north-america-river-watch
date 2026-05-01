@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06290500",
+  "key": "06290500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06290500",
+  "name": "Little Bighorn R bl Pass Cr nr Wyola MT",
+  "waterbody": "Little Bighorn R bl Pass Cr nr Wyola MT",
+  "state": "MT",
+  "latitude": 45.177133,
+  "longitude": -107.39455,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06290500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

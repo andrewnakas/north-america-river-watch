@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06406740",
+  "key": "06406740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06406740",
+  "name": "SUNDAY GULCH BELOW JOHNSON CANYON NR HILL CITY,SD",
+  "waterbody": "SUNDAY GULCH BELOW JOHNSON CANYON NR HILL CITY,SD",
+  "state": "SD",
+  "latitude": 43.86942944,
+  "longitude": -103.58241585,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sunday Gulch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suns2",
+  "slug": "usgs-06406740",
+  "noaaForecastPath": "data/noaa-forecast/SUNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.379Z"
+}

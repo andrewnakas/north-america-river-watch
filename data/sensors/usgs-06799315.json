@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06799315",
+  "key": "06799315",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06799315",
+  "name": "Elkhorn River at Pilger, Nebr.",
+  "waterbody": "Elkhorn River at Pilger, Nebr.",
+  "state": "NE",
+  "latitude": 41.99499444,
+  "longitude": -97.05880556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLGN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elkhorn River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plgn1",
+  "slug": "usgs-06799315",
+  "noaaForecastPath": "data/noaa-forecast/PLGN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

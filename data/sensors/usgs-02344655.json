@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344655",
+  "key": "02344655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344655",
+  "name": "FLAT CR DS OF LAKE KEDRON, NR PEACHTREE CITY, GA",
+  "waterbody": "FLAT CR DS OF LAKE KEDRON, NR PEACHTREE CITY, GA",
+  "state": "GA",
+  "latitude": 33.42166667,
+  "longitude": -84.5783333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKTG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lktg1",
+  "slug": "usgs-02344655",
+  "noaaForecastPath": "data/noaa-forecast/LKTG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

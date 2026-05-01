@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06880000",
+  "key": "06880000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06880000",
+  "name": "LINCOLN CREEK NEAR SEWARD, NEBR.",
+  "waterbody": "LINCOLN CREEK NEAR SEWARD, NEBR.",
+  "state": "NE",
+  "latitude": 40.9161111,
+  "longitude": -97.1455556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWDN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lincoln Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swdn1",
+  "slug": "usgs-06880000",
+  "noaaForecastPath": "data/noaa-forecast/SWDN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

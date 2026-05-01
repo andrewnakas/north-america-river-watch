@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02169590",
+  "key": "02169590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169590",
+  "name": "GILLS CREEK AT SC 48, NEAR COLUMBIA, SC",
+  "waterbody": "GILLS CREEK AT SC 48, NEAR COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 33.94788889,
+  "longitude": -80.9890556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GIBS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gills Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gibs1",
+  "slug": "usgs-02169590",
+  "noaaForecastPath": "data/noaa-forecast/GIBS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01407290",
+  "key": "01407290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01407290",
+  "name": "Big Brook near Marlboro NJ",
+  "waterbody": "Big Brook near Marlboro NJ",
+  "state": "NJ",
+  "latitude": 40.31972222,
+  "longitude": -74.21416667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBMN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbmn4",
+  "slug": "usgs-01407290",
+  "noaaForecastPath": "data/noaa-forecast/BBMN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

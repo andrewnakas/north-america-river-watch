@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04101535",
+  "key": "04101535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101535",
+  "name": "DOWAGIAC RIVER AT STATE HWY 51 NEAR DOWAGIAC, MI",
+  "waterbody": "DOWAGIAC RIVER AT STATE HWY 51 NEAR DOWAGIAC, MI",
+  "state": "MI",
+  "latitude": 42.02777778,
+  "longitude": -86.1075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOWM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dowagiac River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dowm4",
+  "slug": "usgs-04101535",
+  "noaaForecastPath": "data/noaa-forecast/DOWM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

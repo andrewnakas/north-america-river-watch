@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01196210",
+  "key": "01196210",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01196210",
+  "name": "HONEYPOT BROOK AT CREAMERY ROAD AT CHESHIRE, CT",
+  "waterbody": "HONEYPOT BROOK AT CREAMERY ROAD AT CHESHIRE, CT",
+  "state": "CT",
+  "latitude": 41.53220986,
+  "longitude": -72.88980535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01196210",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07096000",
+  "key": "07096000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07096000",
+  "name": "ARKANSAS RIVER AT CANON CITY, CO.",
+  "waterbody": "ARKANSAS RIVER AT CANON CITY, CO.",
+  "state": "CO",
+  "latitude": 38.43388674,
+  "longitude": -105.2572128,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNCC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cncc2",
+  "slug": "usgs-07096000",
+  "noaaForecastPath": "data/noaa-forecast/CNCC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

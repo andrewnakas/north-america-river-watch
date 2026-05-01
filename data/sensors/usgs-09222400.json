@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09222400",
+  "key": "09222400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09222400",
+  "name": "MUDDY CREEK NEAR HAMPTON, WY",
+  "waterbody": "MUDDY CREEK NEAR HAMPTON, WY",
+  "state": "WY",
+  "latitude": 41.53798358,
+  "longitude": -110.2293599,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09222400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01608000",
+  "key": "01608000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01608000",
+  "name": "S F SOUTH BRANCH POTOMAC RIVER NR MOOREFIELD, WV",
+  "waterbody": "S F SOUTH BRANCH POTOMAC RIVER NR MOOREFIELD, WV",
+  "state": "WV",
+  "latitude": 39.0123313,
+  "longitude": -78.9561387,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOFW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork South Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mofw2",
+  "slug": "usgs-01608000",
+  "noaaForecastPath": "data/noaa-forecast/MOFW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

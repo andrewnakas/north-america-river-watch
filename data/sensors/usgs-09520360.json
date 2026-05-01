@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09520360",
+  "key": "09520360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09520360",
+  "name": "GILA RIVER NEAR MOHAWK, AZ",
+  "waterbody": "GILA RIVER NEAR MOHAWK, AZ",
+  "state": "AZ",
+  "latitude": 32.7883797,
+  "longitude": -113.7640918,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09520360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

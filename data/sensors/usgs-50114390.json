@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50114390",
+  "key": "50114390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50114390",
+  "name": "RIO BUCANA AT HWY 14 BRIDGE NR PONCE, PR",
+  "waterbody": "RIO BUCANA AT HWY 14 BRIDGE NR PONCE, PR",
+  "state": "PR",
+  "latitude": 18.03940855,
+  "longitude": -66.5823948,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50114390",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

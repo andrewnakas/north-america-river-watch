@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03039925",
+  "key": "03039925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03039925",
+  "name": "North Fork Bens Creek at North Fork Reservoir, PA",
+  "waterbody": "North Fork Bens Creek at North Fork Reservoir, PA",
+  "state": "PA",
+  "latitude": 40.2661858,
+  "longitude": -79.01669419,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03039925",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

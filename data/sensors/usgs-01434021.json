@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01434021",
+  "key": "01434021",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434021",
+  "name": "W BR NEVERSINK R AT WINNISOOK L NR FROST VALLEY NY",
+  "waterbody": "W BR NEVERSINK R AT WINNISOOK L NR FROST VALLEY NY",
+  "state": "NY",
+  "latitude": 42.0111111,
+  "longitude": -74.4144444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01434021",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07005000",
+  "key": "07005000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07005000",
+  "name": "Maline Creek at Bellefontaine Neighbors, MO",
+  "waterbody": "Maline Creek at Bellefontaine Neighbors, MO",
+  "state": "MO",
+  "latitude": 38.73675,
+  "longitude": -90.2261111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07005000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

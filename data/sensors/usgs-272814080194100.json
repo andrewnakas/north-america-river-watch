@@ -1,0 +1,19 @@
+{
+  "id": "usgs:272814080194100",
+  "key": "272814080194100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "272814080194100",
+  "name": "INTERCOASTAL WATERWAY AT FT PIERCE FL",
+  "waterbody": "INTERCOASTAL WATERWAY AT FT PIERCE FL",
+  "state": "FL",
+  "latitude": 27.47065278,
+  "longitude": -80.3280806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-272814080194100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.212Z"
+}

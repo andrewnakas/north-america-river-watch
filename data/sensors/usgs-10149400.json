@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10149400",
+  "key": "10149400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10149400",
+  "name": "DIAMOND FORK ABV RED HOLLOW NR THISTLE, UT",
+  "waterbody": "DIAMOND FORK ABV RED HOLLOW NR THISTLE, UT",
+  "state": "UT",
+  "latitude": 40.07627778,
+  "longitude": -111.3826389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10149400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

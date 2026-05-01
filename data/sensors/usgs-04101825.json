@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04101825",
+  "key": "04101825",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04101825",
+  "name": "FRANZ AND NORTON DR AT HWY M139 NR NILES, MI",
+  "waterbody": "FRANZ AND NORTON DR AT HWY M139 NR NILES, MI",
+  "state": "MI",
+  "latitude": 41.86061389,
+  "longitude": -86.27086389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04101825",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

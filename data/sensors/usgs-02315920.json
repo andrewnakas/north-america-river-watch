@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02315920",
+  "key": "02315920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02315920",
+  "name": "ALAPAHA RIVER AT GA 125/32 NEAR IRWINVILLE, GA",
+  "waterbody": "ALAPAHA RIVER AT GA 125/32 NEAR IRWINVILLE, GA",
+  "state": "GA",
+  "latitude": 31.63108333,
+  "longitude": -83.4178333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IVLG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alapaha River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ivlg1",
+  "slug": "usgs-02315920",
+  "noaaForecastPath": "data/noaa-forecast/IVLG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

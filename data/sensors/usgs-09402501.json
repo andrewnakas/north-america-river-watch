@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09402501",
+  "key": "09402501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09402501",
+  "name": "COLORADO R NR GRAND CANYON (STONEHOUSE)",
+  "waterbody": "COLORADO R NR GRAND CANYON (STONEHOUSE)",
+  "state": "AZ",
+  "latitude": 36.10137176,
+  "longitude": -112.0862795,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09402501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

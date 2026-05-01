@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06274300",
+  "key": "06274300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06274300",
+  "name": "BIGHORN RIVER AT BASIN, WY",
+  "waterbody": "BIGHORN RIVER AT BASIN, WY",
+  "state": "WY",
+  "latitude": 44.3832545,
+  "longitude": -108.0362688,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bighorn River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhbw4",
+  "slug": "usgs-06274300",
+  "noaaForecastPath": "data/noaa-forecast/BHBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

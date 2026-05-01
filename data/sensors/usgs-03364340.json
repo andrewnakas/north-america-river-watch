@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03364340",
+  "key": "03364340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03364340",
+  "name": "HAW CREEK AT EAST COLUMBUS, IN",
+  "waterbody": "HAW CREEK AT EAST COLUMBUS, IN",
+  "state": "IN",
+  "latitude": 39.20002778,
+  "longitude": -85.9114444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCEI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Haw Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcei3",
+  "slug": "usgs-03364340",
+  "noaaForecastPath": "data/noaa-forecast/HCEI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03455000",
+  "key": "03455000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03455000",
+  "name": "FRENCH BROAD RIVER NEAR NEWPORT, TN",
+  "waterbody": "FRENCH BROAD RIVER NEAR NEWPORT, TN",
+  "state": "TN",
+  "latitude": 35.98151389,
+  "longitude": -83.1612083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWPT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Broad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwpt1",
+  "slug": "usgs-03455000",
+  "noaaForecastPath": "data/noaa-forecast/NWPT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

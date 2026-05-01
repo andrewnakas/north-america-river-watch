@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15239060",
+  "key": "15239060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15239060",
+  "name": "MF BRADLEY R BL NF BRADLEY R NR HOMER AK",
+  "waterbody": "MF BRADLEY R BL NF BRADLEY R NR HOMER AK",
+  "state": "AK",
+  "latitude": 59.79774138,
+  "longitude": -150.8654632,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRNA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brna2",
+  "slug": "usgs-15239060",
+  "noaaForecastPath": "data/noaa-forecast/BRNA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

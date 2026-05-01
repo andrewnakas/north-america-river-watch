@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14209000",
+  "key": "14209000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14209000",
+  "name": "OAK GROVE FORK ABOVE POWERPLANT INTAKE, OR.",
+  "waterbody": "OAK GROVE FORK ABOVE POWERPLANT INTAKE, OR.",
+  "state": "OR",
+  "latitude": 45.0712319,
+  "longitude": -121.9406345,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKPO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Grove Fork",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okpo3",
+  "slug": "usgs-14209000",
+  "noaaForecastPath": "data/noaa-forecast/OKPO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

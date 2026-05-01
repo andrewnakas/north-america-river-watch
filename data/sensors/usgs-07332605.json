@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07332605",
+  "key": "07332605",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332605",
+  "name": "Bois D'Arc Ck at HWY 56 nr Bonham, TX",
+  "waterbody": "Bois D'Arc Ck at HWY 56 nr Bonham, TX",
+  "state": "TX",
+  "latitude": 33.57579444,
+  "longitude": -96.1557444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07332605",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12073500",
+  "key": "12073500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12073500",
+  "name": "HUGE CREEK NEAR WAUNA, WA",
+  "waterbody": "HUGE CREEK NEAR WAUNA, WA",
+  "state": "WA",
+  "latitude": 47.38926205,
+  "longitude": -122.6990241,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12073500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

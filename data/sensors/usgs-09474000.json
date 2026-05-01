@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09474000",
+  "key": "09474000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09474000",
+  "name": "GILA RIVER AT KELVIN, AZ.",
+  "waterbody": "GILA RIVER AT KELVIN, AZ.",
+  "state": "AZ",
+  "latitude": 33.1028564,
+  "longitude": -110.9765231,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLKA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gila River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glka3",
+  "slug": "usgs-09474000",
+  "noaaForecastPath": "data/noaa-forecast/GLKA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

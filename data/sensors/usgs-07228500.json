@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07228500",
+  "key": "07228500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07228500",
+  "name": "Canadian River at Bridgeport, OK",
+  "waterbody": "Canadian River at Bridgeport, OK",
+  "state": "OK",
+  "latitude": 35.54366175,
+  "longitude": -98.3178388,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRIO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canadian River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brio2",
+  "slug": "usgs-07228500",
+  "noaaForecastPath": "data/noaa-forecast/BRIO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

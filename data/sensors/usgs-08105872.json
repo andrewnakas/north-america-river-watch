@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08105872",
+  "key": "08105872",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08105872",
+  "name": "Brushy Ck at Cedar Park, TX",
+  "waterbody": "Brushy Ck at Cedar Park, TX",
+  "state": "TX",
+  "latitude": 30.52518056,
+  "longitude": -97.7499917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brushy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bybt2",
+  "slug": "usgs-08105872",
+  "noaaForecastPath": "data/noaa-forecast/BYBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

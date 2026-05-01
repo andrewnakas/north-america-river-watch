@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04031000",
+  "key": "04031000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04031000",
+  "name": "BLACK RIVER NEAR BESSEMER, MI",
+  "waterbody": "BLACK RIVER NEAR BESSEMER, MI",
+  "state": "MI",
+  "latitude": 46.5113361,
+  "longitude": -90.0746179,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BESM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/besm4",
+  "slug": "usgs-04031000",
+  "noaaForecastPath": "data/noaa-forecast/BESM4.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

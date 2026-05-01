@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15238990",
+  "key": "15238990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15238990",
+  "name": "UPPER BRADLEY R NR NUKA GLACIER NR HOMER AK",
+  "waterbody": "UPPER BRADLEY R NR NUKA GLACIER NR HOMER AK",
+  "state": "AK",
+  "latitude": 59.6999688,
+  "longitude": -150.704616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRUA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upper Bradley River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brua2",
+  "slug": "usgs-15238990",
+  "noaaForecastPath": "data/noaa-forecast/BRUA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

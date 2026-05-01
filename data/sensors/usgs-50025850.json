@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50025850",
+  "key": "50025850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50025850",
+  "name": "RIO JAUCA AT PASO PALMA, PR",
+  "waterbody": "RIO JAUCA AT PASO PALMA, PR",
+  "state": "PR",
+  "latitude": 18.21190086,
+  "longitude": -66.64517337,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50025850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01480629",
+  "key": "01480629",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01480629",
+  "name": "Buck Run at Doe Run, PA",
+  "waterbody": "Buck Run at Doe Run, PA",
+  "state": "PA",
+  "latitude": 39.9295515,
+  "longitude": -75.82300028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01480629",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

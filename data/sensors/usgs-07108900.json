@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07108900",
+  "key": "07108900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07108900",
+  "name": "ST. CHARLES RIVER AT VINELAND, CO.",
+  "waterbody": "ST. CHARLES RIVER AT VINELAND, CO.",
+  "state": "CO",
+  "latitude": 38.24555835,
+  "longitude": -104.4863597,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCVC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Charles River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scvc2",
+  "slug": "usgs-07108900",
+  "noaaForecastPath": "data/noaa-forecast/SCVC2.json",
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

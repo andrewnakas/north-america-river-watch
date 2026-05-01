@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15519100",
+  "key": "15519100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15519100",
+  "name": "TOLOVANA R BL ROSEBUD C NR LIVENGOOD AK",
+  "waterbody": "TOLOVANA R BL ROSEBUD C NR LIVENGOOD AK",
+  "state": "AK",
+  "latitude": 65.4648407,
+  "longitude": -148.6311143,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRBA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tolovana River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trba2",
+  "slug": "usgs-15519100",
+  "noaaForecastPath": "data/noaa-forecast/TRBA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

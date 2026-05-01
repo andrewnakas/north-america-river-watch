@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02484500",
+  "key": "02484500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02484500",
+  "name": "YOCKANOOKANY RIVER NR OFAHOMA, MS",
+  "waterbody": "YOCKANOOKANY RIVER NR OFAHOMA, MS",
+  "state": "MS",
+  "latitude": 32.7061111,
+  "longitude": -89.6719444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OFAM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yockanookany River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ofam6",
+  "slug": "usgs-02484500",
+  "noaaForecastPath": "data/noaa-forecast/OFAM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

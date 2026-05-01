@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02124080",
+  "key": "02124080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02124080",
+  "name": "CLARKE CREEK NEAR HARRISBURG, NC",
+  "waterbody": "CLARKE CREEK NEAR HARRISBURG, NC",
+  "state": "NC",
+  "latitude": 35.41416667,
+  "longitude": -80.7519444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CKCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clarke Creek NC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ckcn7",
+  "slug": "usgs-02124080",
+  "noaaForecastPath": "data/noaa-forecast/CKCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

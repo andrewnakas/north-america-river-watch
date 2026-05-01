@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02077000",
+  "key": "02077000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02077000",
+  "name": "BANISTER RIVER AT HALIFAX, VA",
+  "waterbody": "BANISTER RIVER AT HALIFAX, VA",
+  "state": "VA",
+  "latitude": 36.7765267,
+  "longitude": -78.9158438,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HALV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Banister River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/halv2",
+  "slug": "usgs-02077000",
+  "noaaForecastPath": "data/noaa-forecast/HALV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

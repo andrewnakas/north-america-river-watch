@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05529000",
+  "key": "05529000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05529000",
+  "name": "DES PLAINES RIVER NEAR DES PLAINES, IL",
+  "waterbody": "DES PLAINES RIVER NEAR DES PLAINES, IL",
+  "state": "IL",
+  "latitude": 42.0872222,
+  "longitude": -87.8872222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DSPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Plaines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dspi2",
+  "slug": "usgs-05529000",
+  "noaaForecastPath": "data/noaa-forecast/DSPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

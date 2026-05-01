@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07315525",
+  "key": "07315525",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07315525",
+  "name": "Belknap Ck nr Ringgold, TX",
+  "waterbody": "Belknap Ck nr Ringgold, TX",
+  "state": "TX",
+  "latitude": 33.8069833,
+  "longitude": -97.8863139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07315525",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

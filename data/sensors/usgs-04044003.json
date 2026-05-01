@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04044003",
+  "key": "04044003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04044003",
+  "name": "DEAD RIVER AT MARQUETTE, MI",
+  "waterbody": "DEAD RIVER AT MARQUETTE, MI",
+  "state": "MI",
+  "latitude": 46.5716944,
+  "longitude": -87.4103611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRMM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dead River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drmm4",
+  "slug": "usgs-04044003",
+  "noaaForecastPath": "data/noaa-forecast/DRMM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

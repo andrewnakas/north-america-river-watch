@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05489490",
+  "key": "05489490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05489490",
+  "name": "Bear Creek at Ottumwa, IA",
+  "waterbody": "Bear Creek at Ottumwa, IA",
+  "state": "IA",
+  "latitude": 41.01445839,
+  "longitude": -92.4624087,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCOI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcoi4",
+  "slug": "usgs-05489490",
+  "noaaForecastPath": "data/noaa-forecast/BCOI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

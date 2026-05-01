@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01081000",
+  "key": "01081000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01081000",
+  "name": "WINNIPESAUKEE RIVER AT TILTON, NH",
+  "waterbody": "WINNIPESAUKEE RIVER AT TILTON, NH",
+  "state": "NH",
+  "latitude": 43.44174376,
+  "longitude": -71.5875752,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLTN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winnipesaukee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tltn3",
+  "slug": "usgs-01081000",
+  "noaaForecastPath": "data/noaa-forecast/TLTN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

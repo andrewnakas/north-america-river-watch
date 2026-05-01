@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02088119",
+  "key": "02088119",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02088119",
+  "name": "NEUSE RIVER NEAR COX MILL, NC",
+  "waterbody": "NEUSE RIVER NEAR COX MILL, NC",
+  "state": "NC",
+  "latitude": 35.374125,
+  "longitude": -78.19615278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02088119",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

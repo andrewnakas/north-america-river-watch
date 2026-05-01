@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01630700",
+  "key": "01630700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01630700",
+  "name": "GOONEY RUN NEAR GLEN ECHO, VA",
+  "waterbody": "GOONEY RUN NEAR GLEN ECHO, VA",
+  "state": "VA",
+  "latitude": 38.83511474,
+  "longitude": -78.2319454,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01630700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

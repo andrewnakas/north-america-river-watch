@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04119070",
+  "key": "04119070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04119070",
+  "name": "GRAND RIVER AT STATE HWY M-11 AT GRANDVILLE, MI",
+  "waterbody": "GRAND RIVER AT STATE HWY M-11 AT GRANDVILLE, MI",
+  "state": "MI",
+  "latitude": 42.9153038,
+  "longitude": -85.7672555,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNDM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gndm4",
+  "slug": "usgs-04119070",
+  "noaaForecastPath": "data/noaa-forecast/GNDM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

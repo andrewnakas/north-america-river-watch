@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08407900",
+  "key": "08407900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08407900",
+  "name": "Delaware RV at RM 652 nr Orla, TX",
+  "waterbody": "Delaware RV at RM 652 nr Orla, TX",
+  "state": "TX",
+  "latitude": 31.89431944,
+  "longitude": -104.3492611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08407900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

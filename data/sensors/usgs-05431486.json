@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05431486",
+  "key": "05431486",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05431486",
+  "name": "TURTLE CREEK AT CARVERS ROCK ROAD NEAR CLINTON, WI",
+  "waterbody": "TURTLE CREEK AT CARVERS ROCK ROAD NEAR CLINTON, WI",
+  "state": "WI",
+  "latitude": 42.5972222,
+  "longitude": -88.8291667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLIW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Turtle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cliw3",
+  "slug": "usgs-05431486",
+  "noaaForecastPath": "data/noaa-forecast/CLIW3.json",
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

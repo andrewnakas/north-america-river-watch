@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09171310",
+  "key": "09171310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09171310",
+  "name": "SOUTH FORK SAN MIGUEL RIVER NEAR OPHIR, CO",
+  "waterbody": "SOUTH FORK SAN MIGUEL RIVER NEAR OPHIR, CO",
+  "state": "CO",
+  "latitude": 37.873111,
+  "longitude": -107.894444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09171310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02319500",
+  "key": "02319500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02319500",
+  "name": "SUWANNEE RIVER AT ELLAVILLE, FLA",
+  "waterbody": "SUWANNEE RIVER AT ELLAVILLE, FLA",
+  "state": "FL",
+  "latitude": 30.38466196,
+  "longitude": -83.1718058,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwannee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ellf1",
+  "slug": "usgs-02319500",
+  "noaaForecastPath": "data/noaa-forecast/ELLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

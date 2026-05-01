@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07015720",
+  "key": "07015720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07015720",
+  "name": "Bourbeuse River near High Gate, MO",
+  "waterbody": "Bourbeuse River near High Gate, MO",
+  "state": "MO",
+  "latitude": 38.14691667,
+  "longitude": -91.5808889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTGM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bourbeuse River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htgm7",
+  "slug": "usgs-07015720",
+  "noaaForecastPath": "data/noaa-forecast/HTGM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

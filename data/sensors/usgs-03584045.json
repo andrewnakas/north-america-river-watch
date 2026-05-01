@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03584045",
+  "key": "03584045",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03584045",
+  "name": "RICHLAND CREEK AT HWY 64 BYPASS AT PULASKI, TN",
+  "waterbody": "RICHLAND CREEK AT HWY 64 BYPASS AT PULASKI, TN",
+  "state": "TN",
+  "latitude": 35.195,
+  "longitude": -87.06388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLKT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Richland Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/plkt1",
+  "slug": "usgs-03584045",
+  "noaaForecastPath": "data/noaa-forecast/PLKT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

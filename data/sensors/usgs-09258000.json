@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09258000",
+  "key": "09258000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09258000",
+  "name": "WILLOW CREEK NEAR DIXON, WY",
+  "waterbody": "WILLOW CREEK NEAR DIXON, WY",
+  "state": "CO",
+  "latitude": 40.91550679,
+  "longitude": -107.5217699,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09258000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

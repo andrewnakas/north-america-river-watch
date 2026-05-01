@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02238499",
+  "key": "02238499",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02238499",
+  "name": "OCKLAWAHA R AB MOSS BLUFF DAM AT MOSS BLUFF,FL",
+  "waterbody": "OCKLAWAHA R AB MOSS BLUFF DAM AT MOSS BLUFF,FL",
+  "state": "FL",
+  "latitude": 29.0811111,
+  "longitude": -81.8808333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSSF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ocklawaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mssf1",
+  "slug": "usgs-02238499",
+  "noaaForecastPath": "data/noaa-forecast/MSSF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

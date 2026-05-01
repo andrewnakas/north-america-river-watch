@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02227500",
+  "key": "02227500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02227500",
+  "name": "LITTLE SATILLA RIVER NEAR OFFERMAN, GA",
+  "waterbody": "LITTLE SATILLA RIVER NEAR OFFERMAN, GA",
+  "state": "GA",
+  "latitude": 31.45213889,
+  "longitude": -82.0543333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OFFG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Satilla River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/offg1",
+  "slug": "usgs-02227500",
+  "noaaForecastPath": "data/noaa-forecast/OFFG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

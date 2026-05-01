@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02054690",
+  "key": "02054690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02054690",
+  "name": "MASON CREEK AT RTS 419/311 AT HANGING ROCK, VA",
+  "waterbody": "MASON CREEK AT RTS 419/311 AT HANGING ROCK, VA",
+  "state": "VA",
+  "latitude": 37.3275833,
+  "longitude": -80.0404444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MHRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mason Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mhrv2",
+  "slug": "usgs-02054690",
+  "noaaForecastPath": "data/noaa-forecast/MHRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

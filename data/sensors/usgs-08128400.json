@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08128400",
+  "key": "08128400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08128400",
+  "name": "Middle Concho Rv abv Tankersley, TX",
+  "waterbody": "Middle Concho Rv abv Tankersley, TX",
+  "state": "TX",
+  "latitude": 31.42738264,
+  "longitude": -100.7112125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TKST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Concho River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tkst2",
+  "slug": "usgs-08128400",
+  "noaaForecastPath": "data/noaa-forecast/TKST2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06307830",
+  "key": "06307830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06307830",
+  "name": "Tongue R bl Brandenberg bridge nr Ashland MT",
+  "waterbody": "Tongue R bl Brandenberg bridge nr Ashland MT",
+  "state": "MT",
+  "latitude": 45.8403861,
+  "longitude": -106.2234333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aslm8",
+  "slug": "usgs-06307830",
+  "noaaForecastPath": "data/noaa-forecast/ASLM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

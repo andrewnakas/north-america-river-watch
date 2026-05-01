@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0232701370",
+  "key": "0232701370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0232701370",
+  "name": "ST. AUGUSTINE BR AT GADSDEN ST TALLAHASSEE,FLA",
+  "waterbody": "ST. AUGUSTINE BR AT GADSDEN ST TALLAHASSEE,FLA",
+  "state": "FL",
+  "latitude": 30.43408927,
+  "longitude": -84.277955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNTF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Leon High School Drainage Inlet (in NAVD88)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lntf1",
+  "slug": "usgs-0232701370",
+  "noaaForecastPath": "data/noaa-forecast/LNTF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

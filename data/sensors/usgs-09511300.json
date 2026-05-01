@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09511300",
+  "key": "09511300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09511300",
+  "name": "VERDE RIVER NEAR SCOTTSDALE, AZ",
+  "waterbody": "VERDE RIVER NEAR SCOTTSDALE, AZ",
+  "state": "AZ",
+  "latitude": 33.5586557,
+  "longitude": -111.6693043,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09511300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

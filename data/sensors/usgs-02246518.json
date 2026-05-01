@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02246518",
+  "key": "02246518",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02246518",
+  "name": "POTTSBURG CRK AT US90 NR S. JACKSONVILLE, FL",
+  "waterbody": "POTTSBURG CRK AT US90 NR S. JACKSONVILLE, FL",
+  "state": "FL",
+  "latitude": 30.28696944,
+  "longitude": -81.57,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCUF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pottsburg Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcuf1",
+  "slug": "usgs-02246518",
+  "noaaForecastPath": "data/noaa-forecast/PCUF1.json",
+  "generatedAt": "2026-05-01T12:10:11.195Z"
+}

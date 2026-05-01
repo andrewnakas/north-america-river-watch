@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01102500",
+  "key": "01102500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01102500",
+  "name": "ABERJONA RIVER AT WINCHESTER, MA",
+  "waterbody": "ABERJONA RIVER AT WINCHESTER, MA",
+  "state": "MA",
+  "latitude": 42.4474568,
+  "longitude": -71.1380816,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCHM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aberjona River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wchm3",
+  "slug": "usgs-01102500",
+  "noaaForecastPath": "data/noaa-forecast/WCHM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14052000",
+  "key": "14052000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14052000",
+  "name": "DEER CR AB CRANE PRAIRIE RES NR LA PINE,OREG.",
+  "waterbody": "DEER CR AB CRANE PRAIRIE RES NR LA PINE,OREG.",
+  "state": "OR",
+  "latitude": 43.80484055,
+  "longitude": -121.8394749,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14052000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

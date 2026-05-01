@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06285100",
+  "key": "06285100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06285100",
+  "name": "SHOSHONE RIVER NEAR LOVELL, WY",
+  "waterbody": "SHOSHONE RIVER NEAR LOVELL, WY",
+  "state": "WY",
+  "latitude": 44.83852799,
+  "longitude": -108.4351763,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLOW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoshone River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slow4",
+  "slug": "usgs-06285100",
+  "noaaForecastPath": "data/noaa-forecast/SLOW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

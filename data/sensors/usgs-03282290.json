@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03282290",
+  "key": "03282290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03282290",
+  "name": "KENTUCKY RIVER AT LOCK 11 NEAR COLLEGE HILL, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 11 NEAR COLLEGE HILL, KY",
+  "state": "KY",
+  "latitude": 37.78396929,
+  "longitude": -84.1032602,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chlk2",
+  "slug": "usgs-03282290",
+  "noaaForecastPath": "data/noaa-forecast/CHLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

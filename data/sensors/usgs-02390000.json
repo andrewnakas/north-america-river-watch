@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02390000",
+  "key": "02390000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02390000",
+  "name": "AMICALOLA CREEK NEAR DAWSONVILLE, GA.",
+  "waterbody": "AMICALOLA CREEK NEAR DAWSONVILLE, GA.",
+  "state": "GA",
+  "latitude": 34.42627778,
+  "longitude": -84.2125278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DONG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amicalola Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dong1",
+  "slug": "usgs-02390000",
+  "noaaForecastPath": "data/noaa-forecast/DONG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

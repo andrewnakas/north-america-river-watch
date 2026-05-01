@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11468900",
+  "key": "11468900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11468900",
+  "name": "MATTOLE R NR ETTERSBURG CA",
+  "waterbody": "MATTOLE R NR ETTERSBURG CA",
+  "state": "CA",
+  "latitude": 40.139278,
+  "longitude": -123.9913987,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ETTC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mattole River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ettc1",
+  "slug": "usgs-11468900",
+  "noaaForecastPath": "data/noaa-forecast/ETTC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12090480",
+  "key": "12090480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12090480",
+  "name": "MOREY CREEK ABOVE MCCHORD AFB NEAR PARKLAND, WA",
+  "waterbody": "MOREY CREEK ABOVE MCCHORD AFB NEAR PARKLAND, WA",
+  "state": "WA",
+  "latitude": 47.13009875,
+  "longitude": -122.4629005,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12090480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

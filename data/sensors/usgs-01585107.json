@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01585107",
+  "key": "01585107",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01585107",
+  "name": "WINDLASS RUN NEAR WHITE MARSH, MD",
+  "waterbody": "WINDLASS RUN NEAR WHITE MARSH, MD",
+  "state": "MD",
+  "latitude": 39.3662188,
+  "longitude": -76.4135718,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01585107",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

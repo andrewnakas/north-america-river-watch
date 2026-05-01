@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16265600",
+  "key": "16265600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16265600",
+  "name": "RB of Kamooalii Str nr Kaneohe, Oahu, HI",
+  "waterbody": "RB of Kamooalii Str nr Kaneohe, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.38628889,
+  "longitude": -157.7928083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16265600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

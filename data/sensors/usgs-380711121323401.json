@@ -1,0 +1,19 @@
+{
+  "id": "usgs:380711121323401",
+  "key": "380711121323401",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "380711121323401",
+  "name": "STATEN ISLAND DRAIN NR TERMINOUS CA",
+  "waterbody": "STATEN ISLAND DRAIN NR TERMINOUS CA",
+  "state": "CA",
+  "latitude": 38.1198,
+  "longitude": -121.5428972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-380711121323401",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

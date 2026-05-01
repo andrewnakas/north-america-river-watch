@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08123800",
+  "key": "08123800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08123800",
+  "name": "Beals Ck nr Westbrook, TX",
+  "waterbody": "Beals Ck nr Westbrook, TX",
+  "state": "TX",
+  "latitude": 32.1992913,
+  "longitude": -101.0140029,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBRT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beals Creek 11 miles S of Westbrook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbrt2",
+  "slug": "usgs-08123800",
+  "noaaForecastPath": "data/noaa-forecast/WBRT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

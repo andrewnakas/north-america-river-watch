@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251255",
+  "key": "10251255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251255",
+  "name": "FORTYMILE WASH NR WELL J-13, NTS, NV",
+  "waterbody": "FORTYMILE WASH NR WELL J-13, NTS, NV",
+  "state": "NV",
+  "latitude": 36.80745188,
+  "longitude": -116.4011607,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

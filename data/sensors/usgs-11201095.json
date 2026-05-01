@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11201095",
+  "key": "11201095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11201095",
+  "name": "DEER C A ROAD 272 BRIDGE NR PORTERVILLE CA",
+  "waterbody": "DEER C A ROAD 272 BRIDGE NR PORTERVILLE CA",
+  "state": "CA",
+  "latitude": 36.0036722,
+  "longitude": -118.9643639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11201095",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

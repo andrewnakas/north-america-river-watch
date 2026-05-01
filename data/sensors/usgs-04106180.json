@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04106180",
+  "key": "04106180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04106180",
+  "name": "PORTAGE CREEK AT PORTAGE, MI",
+  "waterbody": "PORTAGE CREEK AT PORTAGE, MI",
+  "state": "MI",
+  "latitude": 42.20448688,
+  "longitude": -85.5911138,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04106180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

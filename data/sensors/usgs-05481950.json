@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05481950",
+  "key": "05481950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05481950",
+  "name": "Beaver Creek near Grimes, IA",
+  "waterbody": "Beaver Creek near Grimes, IA",
+  "state": "IA",
+  "latitude": 41.6883333,
+  "longitude": -93.7347222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grmi4",
+  "slug": "usgs-05481950",
+  "noaaForecastPath": "data/noaa-forecast/GRMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04096515",
+  "key": "04096515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04096515",
+  "name": "SOUTH BRANCH HOG CREEK NEAR ALLEN, MI",
+  "waterbody": "SOUTH BRANCH HOG CREEK NEAR ALLEN, MI",
+  "state": "MI",
+  "latitude": 41.94865859,
+  "longitude": -84.8277403,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOGM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Branch Hog Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hogm4",
+  "slug": "usgs-04096515",
+  "noaaForecastPath": "data/noaa-forecast/HOGM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

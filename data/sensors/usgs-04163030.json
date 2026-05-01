@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04163030",
+  "key": "04163030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04163030",
+  "name": "RED RUN AT 14 MILE ROAD AT WARREN, MI",
+  "waterbody": "RED RUN AT 14 MILE ROAD AT WARREN, MI",
+  "state": "MI",
+  "latitude": 42.53781308,
+  "longitude": -83.0057566,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04163030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

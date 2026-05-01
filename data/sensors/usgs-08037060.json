@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08037060",
+  "key": "08037060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08037060",
+  "name": "Banita Ck at W Austin St, Nacogdoches, TX",
+  "waterbody": "Banita Ck at W Austin St, Nacogdoches, TX",
+  "state": "TX",
+  "latitude": 31.631875,
+  "longitude": -94.6583889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08037060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

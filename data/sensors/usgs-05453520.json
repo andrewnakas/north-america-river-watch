@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05453520",
+  "key": "05453520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05453520",
+  "name": "Iowa River below Coralville Dam nr Coralville, IA",
+  "waterbody": "Iowa River below Coralville Dam nr Coralville, IA",
+  "state": "IA",
+  "latitude": 41.71529444,
+  "longitude": -91.5301667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRVI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Iowa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crvi4",
+  "slug": "usgs-05453520",
+  "noaaForecastPath": "data/noaa-forecast/CRVI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

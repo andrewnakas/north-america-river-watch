@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08180800",
+  "key": "08180800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180800",
+  "name": "Medina Rv nr Somerset, TX",
+  "waterbody": "Medina Rv nr Somerset, TX",
+  "state": "TX",
+  "latitude": 29.26218286,
+  "longitude": -98.5814074,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Medina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smmt2",
+  "slug": "usgs-08180800",
+  "noaaForecastPath": "data/noaa-forecast/SMMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

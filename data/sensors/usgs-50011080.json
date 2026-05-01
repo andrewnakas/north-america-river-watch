@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50011080",
+  "key": "50011080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50011080",
+  "name": "CANAL MOCA BLW FOREBAY, PR",
+  "waterbody": "CANAL MOCA BLW FOREBAY, PR",
+  "state": "PR",
+  "latitude": 18.45661113,
+  "longitude": -67.01156829,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50011080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

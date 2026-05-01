@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01117350",
+  "key": "01117350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01117350",
+  "name": "Chipuxet River at West Kingston, RI",
+  "waterbody": "Chipuxet River at West Kingston, RI",
+  "state": "RI",
+  "latitude": 41.48220458,
+  "longitude": -71.5511513,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WKGR1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chipuxet River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wkgr1",
+  "slug": "usgs-01117350",
+  "noaaForecastPath": "data/noaa-forecast/WKGR1.json",
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

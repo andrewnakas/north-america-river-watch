@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01555400",
+  "key": "01555400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01555400",
+  "name": "East Mahantango Creek at Klingerstown, PA",
+  "waterbody": "East Mahantango Creek at Klingerstown, PA",
+  "state": "PA",
+  "latitude": 40.6634186,
+  "longitude": -76.69135408,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01555400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

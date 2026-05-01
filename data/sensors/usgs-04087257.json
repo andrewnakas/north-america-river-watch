@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04087257",
+  "key": "04087257",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04087257",
+  "name": "PIKE RIVER NEAR RACINE, WI",
+  "waterbody": "PIKE RIVER NEAR RACINE, WI",
+  "state": "WI",
+  "latitude": 42.64694444,
+  "longitude": -87.8605556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04087257",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

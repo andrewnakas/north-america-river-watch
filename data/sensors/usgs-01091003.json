@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01091003",
+  "key": "01091003",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01091003",
+  "name": "S BR PISCATAQUOG R AT RIVER RD, NEAR GOFFSTOWN, NH",
+  "waterbody": "S BR PISCATAQUOG R AT RIVER RD, NEAR GOFFSTOWN, NH",
+  "state": "NH",
+  "latitude": 43.01638889,
+  "longitude": -71.6266667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01091003",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

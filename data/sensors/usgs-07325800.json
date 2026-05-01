@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07325800",
+  "key": "07325800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07325800",
+  "name": "Cobb Creek near Eakly, OK",
+  "waterbody": "Cobb Creek near Eakly, OK",
+  "state": "OK",
+  "latitude": 35.2906111,
+  "longitude": -98.5942308,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EAKO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cobb Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eako2",
+  "slug": "usgs-07325800",
+  "noaaForecastPath": "data/noaa-forecast/EAKO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

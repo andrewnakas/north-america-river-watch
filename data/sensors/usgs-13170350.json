@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13170350",
+  "key": "13170350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13170350",
+  "name": "GRAND VIEW FARMS NO.3 PUMPING PLANT NR BRUNEAU ID",
+  "waterbody": "GRAND VIEW FARMS NO.3 PUMPING PLANT NR BRUNEAU ID",
+  "state": "ID",
+  "latitude": 42.9125,
+  "longitude": -115.8927778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13170350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

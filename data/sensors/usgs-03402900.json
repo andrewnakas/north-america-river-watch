@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03402900",
+  "key": "03402900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03402900",
+  "name": "CUMBERLAND R AT PINE ST BR AT PINEVILLE, KY",
+  "waterbody": "CUMBERLAND R AT PINE ST BR AT PINEVILLE, KY",
+  "state": "KY",
+  "latitude": 36.7631412,
+  "longitude": -83.691862,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PVLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cumberland River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pvlk2",
+  "slug": "usgs-03402900",
+  "noaaForecastPath": "data/noaa-forecast/PVLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07148400",
+  "key": "07148400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07148400",
+  "name": "Salt Fork Arkansas River nr Alva, OK",
+  "waterbody": "Salt Fork Arkansas River nr Alva, OK",
+  "state": "OK",
+  "latitude": 36.81503056,
+  "longitude": -98.6481395,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AVAO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork Arkansas River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/avao2",
+  "slug": "usgs-07148400",
+  "noaaForecastPath": "data/noaa-forecast/AVAO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

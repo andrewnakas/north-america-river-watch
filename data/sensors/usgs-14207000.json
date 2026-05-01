@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14207000",
+  "key": "14207000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14207000",
+  "name": "OSWEGO CANAL NEAR LAKE OSWEGO, OREG.",
+  "waterbody": "OSWEGO CANAL NEAR LAKE OSWEGO, OREG.",
+  "state": "OR",
+  "latitude": 45.38873028,
+  "longitude": -122.7206507,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14207000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

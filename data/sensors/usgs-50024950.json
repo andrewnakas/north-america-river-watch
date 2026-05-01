@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50024950",
+  "key": "50024950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50024950",
+  "name": "RIO GRANDE DE ARECIBO BLW UTUADO, PR",
+  "waterbody": "RIO GRANDE DE ARECIBO BLW UTUADO, PR",
+  "state": "PR",
+  "latitude": 18.302092,
+  "longitude": -66.704097,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UTXP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Arecibo",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/utxp4",
+  "slug": "usgs-50024950",
+  "noaaForecastPath": "data/noaa-forecast/UTXP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

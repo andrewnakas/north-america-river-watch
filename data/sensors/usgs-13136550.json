@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13136550",
+  "key": "13136550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13136550",
+  "name": "WARM SPRINGS CR AT GATES RD NR KETCHUM, ID",
+  "waterbody": "WARM SPRINGS CR AT GATES RD NR KETCHUM, ID",
+  "state": "ID",
+  "latitude": 43.6830972,
+  "longitude": -114.4055167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13136550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

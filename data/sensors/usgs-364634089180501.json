@@ -1,0 +1,19 @@
+{
+  "id": "usgs:364634089180501",
+  "key": "364634089180501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "364634089180501",
+  "name": "New Madrid Floodway Stage Sensor No. 901096",
+  "waterbody": "New Madrid Floodway Stage Sensor No. 901096",
+  "state": "MO",
+  "latitude": 36.7761111,
+  "longitude": -89.3013889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-364634089180501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

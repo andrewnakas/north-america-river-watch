@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12103020",
+  "key": "12103020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12103020",
+  "name": "HYLEBOS CREEK AT HIGHWAY 99 AT FIFE, WA",
+  "waterbody": "HYLEBOS CREEK AT HIGHWAY 99 AT FIFE, WA",
+  "state": "WA",
+  "latitude": 47.24398896,
+  "longitude": -122.3381772,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12103020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

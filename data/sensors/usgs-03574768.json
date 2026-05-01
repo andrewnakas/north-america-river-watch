@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03574768",
+  "key": "03574768",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03574768",
+  "name": "FLINT R AT OSCAR PATTERSON ROAD NR HAZEL GREEN, AL",
+  "waterbody": "FLINT R AT OSCAR PATTERSON ROAD NR HAZEL GREEN, AL",
+  "state": "AL",
+  "latitude": 34.88064458,
+  "longitude": -86.48054629,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03574768",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

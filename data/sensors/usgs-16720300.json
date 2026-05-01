@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16720300",
+  "key": "16720300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16720300",
+  "name": "Kawaiki Stream near Kamuela, HI",
+  "waterbody": "Kawaiki Stream near Kamuela, HI",
+  "state": "HI",
+  "latitude": 20.08385556,
+  "longitude": -155.6802778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16720300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

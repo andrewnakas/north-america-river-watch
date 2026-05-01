@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13014500",
+  "key": "13014500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13014500",
+  "name": "GROS VENTRE RIVER AT KELLY, WY",
+  "waterbody": "GROS VENTRE RIVER AT KELLY, WY",
+  "state": "WY",
+  "latitude": 43.62088889,
+  "longitude": -110.6230556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GVKW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gros Ventre River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gvkw4",
+  "slug": "usgs-13014500",
+  "noaaForecastPath": "data/noaa-forecast/GVKW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

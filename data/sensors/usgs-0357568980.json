@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0357568980",
+  "key": "0357568980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0357568980",
+  "name": "ALDRIDGE C AT SHERWOOD DR NR HUNTSVILLE, ALA",
+  "waterbody": "ALDRIDGE C AT SHERWOOD DR NR HUNTSVILLE, ALA",
+  "state": "AL",
+  "latitude": 34.6642578,
+  "longitude": -86.5541579,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHEA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Aldridge Creek (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shea1",
+  "slug": "usgs-0357568980",
+  "noaaForecastPath": "data/noaa-forecast/SHEA1.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

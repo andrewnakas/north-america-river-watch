@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11134000",
+  "key": "11134000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11134000",
+  "name": "SANTA YNEZ R A H ST NR LOMPOC CA",
+  "waterbody": "SANTA YNEZ R A H ST NR LOMPOC CA",
+  "state": "CA",
+  "latitude": 34.66830848,
+  "longitude": -120.457899,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11134000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

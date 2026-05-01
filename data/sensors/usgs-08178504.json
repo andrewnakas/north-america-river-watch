@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08178504",
+  "key": "08178504",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08178504",
+  "name": "San Pedro Ck at Probandt St at San Antonio, TX",
+  "waterbody": "San Pedro Ck at Probandt St at San Antonio, TX",
+  "state": "TX",
+  "latitude": 29.39163889,
+  "longitude": -98.499675,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08178504",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

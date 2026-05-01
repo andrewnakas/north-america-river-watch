@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12434590",
+  "key": "12434590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12434590",
+  "name": "SANPOIL RIVER ABOVE JACK CREEK AT KELLER, WA",
+  "waterbody": "SANPOIL RIVER ABOVE JACK CREEK AT KELLER, WA",
+  "state": "WA",
+  "latitude": 48.08432459,
+  "longitude": -118.6914018,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KLLW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sanpoil River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kllw1",
+  "slug": "usgs-12434590",
+  "noaaForecastPath": "data/noaa-forecast/KLLW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

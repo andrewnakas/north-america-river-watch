@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08042900",
+  "key": "08042900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08042900",
+  "name": "Beans Ck at Wizard Wells, TX",
+  "waterbody": "Beans Ck at Wizard Wells, TX",
+  "state": "TX",
+  "latitude": 33.1998374,
+  "longitude": -97.9672615,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08042900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

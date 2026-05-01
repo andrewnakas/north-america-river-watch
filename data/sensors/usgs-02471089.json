@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02471089",
+  "key": "02471089",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02471089",
+  "name": "BAYOU HERON AT BAYOU HERON RD NR PECAN, MS",
+  "waterbody": "BAYOU HERON AT BAYOU HERON RD NR PECAN, MS",
+  "state": "MS",
+  "latitude": 30.4136111,
+  "longitude": -88.4016667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBHM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Grand Bay",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gbhm6",
+  "slug": "usgs-02471089",
+  "noaaForecastPath": "data/noaa-forecast/GBHM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

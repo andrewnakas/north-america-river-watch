@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13238322",
+  "key": "13238322",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13238322",
+  "name": "NORTH FORK PAYETTE RIVER BL FISHER CR NR McCALL ID",
+  "waterbody": "NORTH FORK PAYETTE RIVER BL FISHER CR NR McCALL ID",
+  "state": "ID",
+  "latitude": 45.0346186,
+  "longitude": -116.0592903,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13238322",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

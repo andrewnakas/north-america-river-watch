@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03282060",
+  "key": "03282060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03282060",
+  "name": "KENTUCKY RIVER AT LOCK 13 NEAR WILLOW SHOALS, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 13 NEAR WILLOW SHOALS, KY",
+  "state": "KY",
+  "latitude": 37.60189058,
+  "longitude": -83.83336439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLWK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlwk2",
+  "slug": "usgs-03282060",
+  "noaaForecastPath": "data/noaa-forecast/WLWK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

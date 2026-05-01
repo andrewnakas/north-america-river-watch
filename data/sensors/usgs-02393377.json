@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02393377",
+  "key": "02393377",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02393377",
+  "name": "BUTLER CREEK AT MACK DOBBS ROAD, NR KENNESAW, GA",
+  "waterbody": "BUTLER CREEK AT MACK DOBBS ROAD, NR KENNESAW, GA",
+  "state": "GA",
+  "latitude": 34.01730556,
+  "longitude": -84.6431111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Butler Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btcg1",
+  "slug": "usgs-02393377",
+  "noaaForecastPath": "data/noaa-forecast/BTCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.219Z"
+}

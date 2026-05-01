@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03447687",
+  "key": "03447687",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03447687",
+  "name": "FRENCH BROAD RIVER NEAR FLETCHER, NC",
+  "waterbody": "FRENCH BROAD RIVER NEAR FLETCHER, NC",
+  "state": "NC",
+  "latitude": 35.42916667,
+  "longitude": -82.5525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Broad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flcn7",
+  "slug": "usgs-03447687",
+  "noaaForecastPath": "data/noaa-forecast/FLCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06716500",
+  "key": "06716500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06716500",
+  "name": "CLEAR CREEK NEAR LAWSON, CO",
+  "waterbody": "CLEAR CREEK NEAR LAWSON, CO",
+  "state": "CO",
+  "latitude": 39.765833,
+  "longitude": -105.625556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IDOC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/idoc2",
+  "slug": "usgs-06716500",
+  "noaaForecastPath": "data/noaa-forecast/IDOC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

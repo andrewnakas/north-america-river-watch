@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06468170",
+  "key": "06468170",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06468170",
+  "name": "JAMES RIVER NR GRACE CITY, ND",
+  "waterbody": "JAMES RIVER NR GRACE CITY, ND",
+  "state": "ND",
+  "latitude": 47.5580525,
+  "longitude": -98.862885,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCEN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcen8",
+  "slug": "usgs-06468170",
+  "noaaForecastPath": "data/noaa-forecast/GCEN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

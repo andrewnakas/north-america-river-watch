@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08355050",
+  "key": "08355050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08355050",
+  "name": "RIO GRANDE AT BRIDGE NEAR ESCONDIDA, NM",
+  "waterbody": "RIO GRANDE AT BRIDGE NEAR ESCONDIDA, NM",
+  "state": "NM",
+  "latitude": 34.1208333,
+  "longitude": -106.8869444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08355050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

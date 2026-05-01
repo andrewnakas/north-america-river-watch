@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07170990",
+  "key": "07170990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07170990",
+  "name": "VERDIGRIS R AT COFFEYVILLE, KS",
+  "waterbody": "VERDIGRIS R AT COFFEYVILLE, KS",
+  "state": "KS",
+  "latitude": 37.0053578,
+  "longitude": -95.5927549,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07170990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

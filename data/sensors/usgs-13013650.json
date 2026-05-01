@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13013650",
+  "key": "13013650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13013650",
+  "name": "SNAKE RIVER AT MOOSE, WY",
+  "waterbody": "SNAKE RIVER AT MOOSE, WY",
+  "state": "WY",
+  "latitude": 43.65405556,
+  "longitude": -110.7154722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MSEW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/msew4",
+  "slug": "usgs-13013650",
+  "noaaForecastPath": "data/noaa-forecast/MSEW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

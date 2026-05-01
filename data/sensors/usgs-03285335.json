@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03285335",
+  "key": "03285335",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03285335",
+  "name": "MOCKS BRANCH AT HIGHWAY 1896",
+  "waterbody": "MOCKS BRANCH AT HIGHWAY 1896",
+  "state": "KY",
+  "latitude": 37.70507677,
+  "longitude": -84.8030053,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03285335",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

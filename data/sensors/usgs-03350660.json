@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03350660",
+  "key": "03350660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03350660",
+  "name": "WILLIAM LOCK DITCH NEAR DURBIN, IN",
+  "waterbody": "WILLIAM LOCK DITCH NEAR DURBIN, IN",
+  "state": "IN",
+  "latitude": 40.0736428,
+  "longitude": -85.9249603,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "William Locke Drain",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wldi3",
+  "slug": "usgs-03350660",
+  "noaaForecastPath": "data/noaa-forecast/WLDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

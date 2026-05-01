@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803420",
+  "key": "06803420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803420",
+  "name": "North Oak Creek near Touhy, Nebr.",
+  "waterbody": "North Oak Creek near Touhy, Nebr.",
+  "state": "NE",
+  "latitude": 41.133317,
+  "longitude": -96.872419,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THYN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Oak Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thyn1",
+  "slug": "usgs-06803420",
+  "noaaForecastPath": "data/noaa-forecast/THYN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

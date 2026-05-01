@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02427506",
+  "key": "02427506",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02427506",
+  "name": "ALABAMA RIVER BELOW MILLERS FERRY L&D NR CAMDEN AL",
+  "waterbody": "ALABAMA RIVER BELOW MILLERS FERRY L&D NR CAMDEN AL",
+  "state": "AL",
+  "latitude": 32.10014534,
+  "longitude": -87.39777319,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRFA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alabama River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrfa1",
+  "slug": "usgs-02427506",
+  "noaaForecastPath": "data/noaa-forecast/MRFA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:0214678230",
+  "key": "0214678230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214678230",
+  "name": "WALKER BR AT SR1123 NR PINE HARBOR, NC",
+  "waterbody": "WALKER BR AT SR1123 NR PINE HARBOR, NC",
+  "state": "NC",
+  "latitude": 35.09681138,
+  "longitude": -80.9725755,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-0214678230",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

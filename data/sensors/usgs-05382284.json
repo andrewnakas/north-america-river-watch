@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05382284",
+  "key": "05382284",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05382284",
+  "name": "SILVER CREEK AT STATE HIGHWAY 21 NEAR ANGELO, WI",
+  "waterbody": "SILVER CREEK AT STATE HIGHWAY 21 NEAR ANGELO, WI",
+  "state": "WI",
+  "latitude": 43.9672222,
+  "longitude": -90.765,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05382284",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

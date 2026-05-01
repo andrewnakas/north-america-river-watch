@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14209500",
+  "key": "14209500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14209500",
+  "name": "CLACKAMAS RIVER ABOVE THREE LYNX CREEK, OR",
+  "waterbody": "CLACKAMAS RIVER ABOVE THREE LYNX CREEK, OR",
+  "state": "OR",
+  "latitude": 45.1248432,
+  "longitude": -122.0734137,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TLYO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clackamas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tlyo3",
+  "slug": "usgs-14209500",
+  "noaaForecastPath": "data/noaa-forecast/TLYO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

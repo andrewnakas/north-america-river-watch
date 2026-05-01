@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09394500",
+  "key": "09394500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09394500",
+  "name": "LITTLE COLORADO RIVER AT WOODRUFF, AZ",
+  "waterbody": "LITTLE COLORADO RIVER AT WOODRUFF, AZ",
+  "state": "AZ",
+  "latitude": 34.7825,
+  "longitude": -110.04395833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WDRA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Colorado River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wdra3",
+  "slug": "usgs-09394500",
+  "noaaForecastPath": "data/noaa-forecast/WDRA3.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

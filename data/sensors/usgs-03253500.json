@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03253500",
+  "key": "03253500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03253500",
+  "name": "LICKING RIVER AT CATAWBA, KY",
+  "waterbody": "LICKING RIVER AT CATAWBA, KY",
+  "state": "KY",
+  "latitude": 38.7103478,
+  "longitude": -84.3107693,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CATK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Licking River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/catk2",
+  "slug": "usgs-03253500",
+  "noaaForecastPath": "data/noaa-forecast/CATK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01471510",
+  "key": "01471510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01471510",
+  "name": "Schuylkill River at Reading, PA",
+  "waterbody": "Schuylkill River at Reading, PA",
+  "state": "PA",
+  "latitude": 40.3353611,
+  "longitude": -75.9368333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Schuylkill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdrp1",
+  "slug": "usgs-01471510",
+  "noaaForecastPath": "data/noaa-forecast/RDRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

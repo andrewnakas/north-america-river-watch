@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08278500",
+  "key": "08278500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08278500",
+  "name": "RIO SANTA BARBARA NR PENASCO, NM",
+  "waterbody": "RIO SANTA BARBARA NR PENASCO, NM",
+  "state": "NM",
+  "latitude": 36.1111377,
+  "longitude": -105.632515,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08278500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

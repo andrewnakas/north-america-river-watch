@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09519501",
+  "key": "09519501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09519501",
+  "name": "GILA R BLW GILLESPIE DAM, AZ (LOW-FLOW STATION)",
+  "waterbody": "GILA R BLW GILLESPIE DAM, AZ (LOW-FLOW STATION)",
+  "state": "AZ",
+  "latitude": 33.22736111,
+  "longitude": -112.76861111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09519501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

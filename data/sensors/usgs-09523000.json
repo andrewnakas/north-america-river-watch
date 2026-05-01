@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09523000",
+  "key": "09523000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09523000",
+  "name": "ALL-AMERICAN CANAL NR IMPERIAL DAM, CA-AZ",
+  "waterbody": "ALL-AMERICAN CANAL NR IMPERIAL DAM, CA-AZ",
+  "state": "CA",
+  "latitude": 32.87099444,
+  "longitude": -114.4804639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09523000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

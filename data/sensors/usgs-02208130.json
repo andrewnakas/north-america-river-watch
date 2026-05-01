@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02208130",
+  "key": "02208130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02208130",
+  "name": "SHOAL CREEK AT PAPER MILL RD, NR LAWRENCEVILLE, GA",
+  "waterbody": "SHOAL CREEK AT PAPER MILL RD, NR LAWRENCEVILLE, GA",
+  "state": "GA",
+  "latitude": 33.9497222,
+  "longitude": -83.9483333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAVG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shoal Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lavg1",
+  "slug": "usgs-02208130",
+  "noaaForecastPath": "data/noaa-forecast/LAVG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

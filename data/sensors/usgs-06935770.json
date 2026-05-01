@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06935770",
+  "key": "06935770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06935770",
+  "name": "Bonhomme Creek near Clarkson Valley, MO",
+  "waterbody": "Bonhomme Creek near Clarkson Valley, MO",
+  "state": "MO",
+  "latitude": 38.65844444,
+  "longitude": -90.6185,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06935770",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

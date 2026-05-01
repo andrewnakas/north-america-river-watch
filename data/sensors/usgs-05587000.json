@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05587000",
+  "key": "05587000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05587000",
+  "name": "MACOUPIN CREEK NEAR KANE, IL",
+  "waterbody": "MACOUPIN CREEK NEAR KANE, IL",
+  "state": "IL",
+  "latitude": 39.23394444,
+  "longitude": -90.3944444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05587000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

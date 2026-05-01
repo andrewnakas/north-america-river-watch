@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05457000",
+  "key": "05457000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05457000",
+  "name": "CEDAR RIVER NEAR AUSTIN, MN",
+  "waterbody": "CEDAR RIVER NEAR AUSTIN, MN",
+  "state": "MN",
+  "latitude": 43.63757,
+  "longitude": -92.974797,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASNM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/asnm5",
+  "slug": "usgs-05457000",
+  "noaaForecastPath": "data/noaa-forecast/ASNM5.json",
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

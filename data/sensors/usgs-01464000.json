@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01464000",
+  "key": "01464000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01464000",
+  "name": "Assunpink Creek at Trenton NJ",
+  "waterbody": "Assunpink Creek at Trenton NJ",
+  "state": "NJ",
+  "latitude": 40.22416667,
+  "longitude": -74.7491667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TACN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Assunpink Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tacn4",
+  "slug": "usgs-01464000",
+  "noaaForecastPath": "data/noaa-forecast/TACN4.json",
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03335671",
+  "key": "03335671",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03335671",
+  "name": "ELLIOTT DITCH NEAR LAFAYETTE, IN",
+  "waterbody": "ELLIOTT DITCH NEAR LAFAYETTE, IN",
+  "state": "IN",
+  "latitude": 40.38280617,
+  "longitude": -86.8477682,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDLI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elliott Ditch",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edli3",
+  "slug": "usgs-03335671",
+  "noaaForecastPath": "data/noaa-forecast/EDLI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01122000",
+  "key": "01122000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01122000",
+  "name": "NATCHAUG RIVER AT WILLIMANTIC, CT",
+  "waterbody": "NATCHAUG RIVER AT WILLIMANTIC, CT",
+  "state": "CT",
+  "latitude": 41.7201,
+  "longitude": -72.195575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01122000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

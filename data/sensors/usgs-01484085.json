@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01484085",
+  "key": "01484085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01484085",
+  "name": "MURDERKILL RIVER AT BOWERS, DE",
+  "waterbody": "MURDERKILL RIVER AT BOWERS, DE",
+  "state": "DE",
+  "latitude": 39.05830556,
+  "longitude": -75.3976111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOWD1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Murderkill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bowd1",
+  "slug": "usgs-01484085",
+  "noaaForecastPath": "data/noaa-forecast/BOWD1.json",
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

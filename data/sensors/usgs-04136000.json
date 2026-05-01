@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04136000",
+  "key": "04136000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04136000",
+  "name": "AU SABLE RIVER NEAR RED OAK, MI",
+  "waterbody": "AU SABLE RIVER NEAR RED OAK, MI",
+  "state": "MI",
+  "latitude": 44.6769593,
+  "longitude": -84.2925146,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDOM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Au Sable River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdom4",
+  "slug": "usgs-04136000",
+  "noaaForecastPath": "data/noaa-forecast/RDOM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

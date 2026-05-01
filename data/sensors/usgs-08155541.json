@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08155541",
+  "key": "08155541",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08155541",
+  "name": "W Bouldin Ck at Oltorf Rd, Austin, TX",
+  "waterbody": "W Bouldin Ck at Oltorf Rd, Austin, TX",
+  "state": "TX",
+  "latitude": 30.24666667,
+  "longitude": -97.7691667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ORBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Bouldin Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/orbt2",
+  "slug": "usgs-08155541",
+  "noaaForecastPath": "data/noaa-forecast/ORBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

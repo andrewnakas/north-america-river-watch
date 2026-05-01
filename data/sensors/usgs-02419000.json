@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02419000",
+  "key": "02419000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02419000",
+  "name": "UPHAPEE CREEK NEAR TUSKEGEE AL",
+  "waterbody": "UPHAPEE CREEK NEAR TUSKEGEE AL",
+  "state": "AL",
+  "latitude": 32.4768401,
+  "longitude": -85.69495709,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02419000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.151Z"
+}

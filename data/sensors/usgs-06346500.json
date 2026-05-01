@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06346500",
+  "key": "06346500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06346500",
+  "name": "HEART R BELOW HEART BUTTE DAM NR GLEN ULLIN, ND",
+  "waterbody": "HEART R BELOW HEART BUTTE DAM NR GLEN ULLIN, ND",
+  "state": "ND",
+  "latitude": 46.5972286,
+  "longitude": -101.8018145,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLUN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Heart River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glun8",
+  "slug": "usgs-06346500",
+  "noaaForecastPath": "data/noaa-forecast/GLUN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

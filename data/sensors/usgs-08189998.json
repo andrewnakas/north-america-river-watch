@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08189998",
+  "key": "08189998",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08189998",
+  "name": "Nueces Rv at CR 414 at Montell, TX",
+  "waterbody": "Nueces Rv at CR 414 at Montell, TX",
+  "state": "TX",
+  "latitude": 29.52646667,
+  "longitude": -100.0183667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nueces River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmot2",
+  "slug": "usgs-08189998",
+  "noaaForecastPath": "data/noaa-forecast/NMOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

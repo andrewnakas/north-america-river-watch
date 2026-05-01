@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08094800",
+  "key": "08094800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08094800",
+  "name": "N Bosque Rv at Hico, TX",
+  "waterbody": "N Bosque Rv at Hico, TX",
+  "state": "TX",
+  "latitude": 31.977222,
+  "longitude": -98.035139,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HICT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Bosque River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hict2",
+  "slug": "usgs-08094800",
+  "noaaForecastPath": "data/noaa-forecast/HICT2.json",
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

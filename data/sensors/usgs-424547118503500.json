@@ -1,0 +1,19 @@
+{
+  "id": "usgs:424547118503500",
+  "key": "424547118503500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "424547118503500",
+  "name": "DONNER UND BLITZEN ABOVE FISH CREEK",
+  "waterbody": "DONNER UND BLITZEN ABOVE FISH CREEK",
+  "state": "OR",
+  "latitude": 42.76296389,
+  "longitude": -118.843111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-424547118503500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

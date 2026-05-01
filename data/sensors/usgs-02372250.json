@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02372250",
+  "key": "02372250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02372250",
+  "name": "PATSALIGA CREEK NEAR BRANTLEY AL",
+  "waterbody": "PATSALIGA CREEK NEAR BRANTLEY AL",
+  "state": "AL",
+  "latitude": 31.59627177,
+  "longitude": -86.40551809,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PTSA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patsaliga Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ptsa1",
+  "slug": "usgs-02372250",
+  "noaaForecastPath": "data/noaa-forecast/PTSA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

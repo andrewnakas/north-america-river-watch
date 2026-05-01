@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05369500",
+  "key": "05369500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05369500",
+  "name": "CHIPPEWA RIVER AT DURAND, WI",
+  "waterbody": "CHIPPEWA RIVER AT DURAND, WI",
+  "state": "WI",
+  "latitude": 44.631,
+  "longitude": -91.9713333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DURW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa River (WI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/durw3",
+  "slug": "usgs-05369500",
+  "noaaForecastPath": "data/noaa-forecast/DURW3.json",
+  "generatedAt": "2026-05-01T12:10:11.440Z"
+}

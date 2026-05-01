@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11481500",
+  "key": "11481500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11481500",
+  "name": "REDWOOD C NR BLUE LAKE CA",
+  "waterbody": "REDWOOD C NR BLUE LAKE CA",
+  "state": "CA",
+  "latitude": 40.90596479,
+  "longitude": -123.815335,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLKC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwood Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blkc1",
+  "slug": "usgs-11481500",
+  "noaaForecastPath": "data/noaa-forecast/BLKC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

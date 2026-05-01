@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02081942",
+  "key": "02081942",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02081942",
+  "name": "TAR RIVER AT NC-581 NEAR SPRING HOPE, NC",
+  "waterbody": "TAR RIVER AT NC-581 NEAR SPRING HOPE, NC",
+  "state": "NC",
+  "latitude": 35.8820861,
+  "longitude": -78.08953889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPHN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sphn7",
+  "slug": "usgs-02081942",
+  "noaaForecastPath": "data/noaa-forecast/SPHN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

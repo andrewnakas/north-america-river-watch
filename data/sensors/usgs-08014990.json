@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08014990",
+  "key": "08014990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08014990",
+  "name": "Bundick Creek north of Dry Creek, LA",
+  "waterbody": "Bundick Creek north of Dry Creek, LA",
+  "state": "LA",
+  "latitude": 30.68475,
+  "longitude": -93.0436667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRKL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bundick Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drkl1",
+  "slug": "usgs-08014990",
+  "noaaForecastPath": "data/noaa-forecast/DRKL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

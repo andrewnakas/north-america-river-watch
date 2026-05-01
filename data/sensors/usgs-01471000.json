@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01471000",
+  "key": "01471000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01471000",
+  "name": "Tulpehocken Creek near Reading, PA",
+  "waterbody": "Tulpehocken Creek near Reading, PA",
+  "state": "PA",
+  "latitude": 40.36898166,
+  "longitude": -75.9791015,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TULP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tulpehocken Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tulp1",
+  "slug": "usgs-01471000",
+  "noaaForecastPath": "data/noaa-forecast/TULP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

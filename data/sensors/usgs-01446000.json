@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01446000",
+  "key": "01446000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01446000",
+  "name": "Beaver Brook near Belvidere NJ",
+  "waterbody": "Beaver Brook near Belvidere NJ",
+  "state": "NJ",
+  "latitude": 40.84333333,
+  "longitude": -75.04638889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBBN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbbn4",
+  "slug": "usgs-01446000",
+  "noaaForecastPath": "data/noaa-forecast/BBBN4.json",
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15227500",
+  "key": "15227500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15227500",
+  "name": "MINERAL C NR VALDEZ AK",
+  "waterbody": "MINERAL C NR VALDEZ AK",
+  "state": "AK",
+  "latitude": 61.14115841,
+  "longitude": -146.36380459,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCVA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mineral Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcva2",
+  "slug": "usgs-15227500",
+  "noaaForecastPath": "data/noaa-forecast/MCVA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

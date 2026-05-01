@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08340500",
+  "key": "08340500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08340500",
+  "name": "ARROYO CHICO NR GUADALUPE, NM",
+  "waterbody": "ARROYO CHICO NR GUADALUPE, NM",
+  "state": "NM",
+  "latitude": 35.59225,
+  "longitude": -107.1894444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08340500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

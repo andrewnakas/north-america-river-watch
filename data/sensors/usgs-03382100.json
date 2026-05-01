@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03382100",
+  "key": "03382100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03382100",
+  "name": "SOUTH FORK SALINE RIVER NR CARRIER MILLS, IL",
+  "waterbody": "SOUTH FORK SALINE RIVER NR CARRIER MILLS, IL",
+  "state": "IL",
+  "latitude": 37.63805556,
+  "longitude": -88.6780556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Saline River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crri2",
+  "slug": "usgs-03382100",
+  "noaaForecastPath": "data/noaa-forecast/CRRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

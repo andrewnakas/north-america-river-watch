@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10311000",
+  "key": "10311000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10311000",
+  "name": "CARSON RV NR CARSON CITY, NV",
+  "waterbody": "CARSON RV NR CARSON CITY, NV",
+  "state": "NV",
+  "latitude": 39.10768747,
+  "longitude": -119.7132334,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STWN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stwn2",
+  "slug": "usgs-10311000",
+  "noaaForecastPath": "data/noaa-forecast/STWN2.json",
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

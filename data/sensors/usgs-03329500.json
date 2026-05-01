@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03329500",
+  "key": "03329500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03329500",
+  "name": "WABASH RIVER AT DELPHI, IN",
+  "waterbody": "WABASH RIVER AT DELPHI, IN",
+  "state": "IN",
+  "latitude": 40.59127778,
+  "longitude": -86.6979167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLHI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dlhi3",
+  "slug": "usgs-03329500",
+  "noaaForecastPath": "data/noaa-forecast/DLHI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

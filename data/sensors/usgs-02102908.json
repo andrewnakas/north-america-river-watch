@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02102908",
+  "key": "02102908",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02102908",
+  "name": "FLAT CREEK NEAR INVERNESS, NC",
+  "waterbody": "FLAT CREEK NEAR INVERNESS, NC",
+  "state": "NC",
+  "latitude": 35.18277778,
+  "longitude": -79.1775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VASN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vasn7",
+  "slug": "usgs-02102908",
+  "noaaForecastPath": "data/noaa-forecast/VASN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

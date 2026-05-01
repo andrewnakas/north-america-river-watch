@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13124265",
+  "key": "13124265",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13124265",
+  "name": "WARM SPRINGS CREEK BELOW DIVERSION NR MACKAY ID",
+  "waterbody": "WARM SPRINGS CREEK BELOW DIVERSION NR MACKAY ID",
+  "state": "ID",
+  "latitude": 43.98513889,
+  "longitude": -113.7990833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13124265",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

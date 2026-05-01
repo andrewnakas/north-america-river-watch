@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07030356",
+  "key": "07030356",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07030356",
+  "name": "LOOSAHATCHIE RV AT US HWY 51 AT MEMPHIS, TN",
+  "waterbody": "LOOSAHATCHIE RV AT US HWY 51 AT MEMPHIS, TN",
+  "state": "TN",
+  "latitude": 35.25953189,
+  "longitude": -89.993978,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRRT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Loosahatchie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frrt1",
+  "slug": "usgs-07030356",
+  "noaaForecastPath": "data/noaa-forecast/FRRT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

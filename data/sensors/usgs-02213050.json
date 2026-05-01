@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02213050",
+  "key": "02213050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02213050",
+  "name": "WALNUT CREEK NEAR GRAY, GA",
+  "waterbody": "WALNUT CREEK NEAR GRAY, GA",
+  "state": "GA",
+  "latitude": 32.9723583,
+  "longitude": -83.61878639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02213050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

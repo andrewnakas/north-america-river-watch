@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02319800",
+  "key": "02319800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02319800",
+  "name": "SUWANNEE RIVER AT DOWLING PARK, FLORIDA",
+  "waterbody": "SUWANNEE RIVER AT DOWLING PARK, FLORIDA",
+  "state": "FL",
+  "latitude": 30.2449425,
+  "longitude": -83.24958439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOUF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Suwannee River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/douf1",
+  "slug": "usgs-02319800",
+  "noaaForecastPath": "data/noaa-forecast/DOUF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

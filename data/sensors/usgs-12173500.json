@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12173500",
+  "key": "12173500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12173500",
+  "name": "RUBY CREEK BELOW PANTHER CREEK NEAR NEWHALEM, WA",
+  "waterbody": "RUBY CREEK BELOW PANTHER CREEK NEAR NEWHALEM, WA",
+  "state": "WA",
+  "latitude": 48.7081426,
+  "longitude": -120.9773162,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12173500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07250550",
+  "key": "07250550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07250550",
+  "name": "AR River at James W. Trimble L&D nr Van Buren, AR",
+  "waterbody": "AR River at James W. Trimble L&D nr Van Buren, AR",
+  "state": "AR",
+  "latitude": 35.34888889,
+  "longitude": -94.2983333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BARA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northwest Arkansas Lakes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bara4",
+  "slug": "usgs-07250550",
+  "noaaForecastPath": "data/noaa-forecast/BARA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

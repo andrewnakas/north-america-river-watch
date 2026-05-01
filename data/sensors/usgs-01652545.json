@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01652545",
+  "key": "01652545",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01652545",
+  "name": "FOURMILE RUN ABOVE HIGHWAY 1 AT ALEXANDRIA, VA",
+  "waterbody": "FOURMILE RUN ABOVE HIGHWAY 1 AT ALEXANDRIA, VA",
+  "state": "VA",
+  "latitude": 38.8402222,
+  "longitude": -77.0533056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALEV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Four Mile Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alev2",
+  "slug": "usgs-01652545",
+  "noaaForecastPath": "data/noaa-forecast/ALEV2.json",
+  "generatedAt": "2026-05-01T12:10:11.421Z"
+}

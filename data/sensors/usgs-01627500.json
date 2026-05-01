@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01627500",
+  "key": "01627500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01627500",
+  "name": "SOUTH RIVER AT HARRISTON, VA",
+  "waterbody": "SOUTH RIVER AT HARRISTON, VA",
+  "state": "VA",
+  "latitude": 38.21874208,
+  "longitude": -78.8366915,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HARV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/harv2",
+  "slug": "usgs-01627500",
+  "noaaForecastPath": "data/noaa-forecast/HARV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

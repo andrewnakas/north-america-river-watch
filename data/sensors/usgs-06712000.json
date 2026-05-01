@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06712000",
+  "key": "06712000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06712000",
+  "name": "CHERRY CREEK NEAR FRANKTOWN, CO.",
+  "waterbody": "CHERRY CREEK NEAR FRANKTOWN, CO.",
+  "state": "CO",
+  "latitude": 39.3558234,
+  "longitude": -104.7633092,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRKC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cherry Creek (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frkc2",
+  "slug": "usgs-06712000",
+  "noaaForecastPath": "data/noaa-forecast/FRKC2.json",
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

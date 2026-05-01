@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02032250",
+  "key": "02032250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02032250",
+  "name": "MOORMANS RIVER NEAR FREE UNION, VA",
+  "waterbody": "MOORMANS RIVER NEAR FREE UNION, VA",
+  "state": "VA",
+  "latitude": 38.1406902,
+  "longitude": -78.5558478,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FUVV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moormans River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fuvv2",
+  "slug": "usgs-02032250",
+  "noaaForecastPath": "data/noaa-forecast/FUVV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0204288721",
+  "key": "0204288721",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0204288721",
+  "name": "EB ELIZABETH RIVER AT RT 165 AT VIRGINIA BEACH, VA",
+  "waterbody": "EB ELIZABETH RIVER AT RT 165 AT VIRGINIA BEACH, VA",
+  "state": "VA",
+  "latitude": 36.8273704,
+  "longitude": -76.1652138,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elizabeth River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebrv2",
+  "slug": "usgs-0204288721",
+  "noaaForecastPath": "data/noaa-forecast/EBRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

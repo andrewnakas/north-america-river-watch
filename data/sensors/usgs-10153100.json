@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10153100",
+  "key": "10153100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10153100",
+  "name": "HOBBLE CREEK AT 1650 WEST AT SPRINGVILLE, UTAH",
+  "waterbody": "HOBBLE CREEK AT 1650 WEST AT SPRINGVILLE, UTAH",
+  "state": "UT",
+  "latitude": 40.1788719,
+  "longitude": -111.639338,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10153100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

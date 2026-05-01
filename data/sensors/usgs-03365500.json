@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03365500",
+  "key": "03365500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03365500",
+  "name": "EAST FORK WHITE RIVER AT SEYMOUR, IN",
+  "waterbody": "EAST FORK WHITE RIVER AT SEYMOUR, IN",
+  "state": "IN",
+  "latitude": 38.98254546,
+  "longitude": -85.8991267,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SERI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork White River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seri3",
+  "slug": "usgs-03365500",
+  "noaaForecastPath": "data/noaa-forecast/SERI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

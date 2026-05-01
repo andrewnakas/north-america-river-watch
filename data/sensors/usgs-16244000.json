@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16244000",
+  "key": "16244000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16244000",
+  "name": "Pukele Stream near Honolulu, Oahu, HI",
+  "waterbody": "Pukele Stream near Honolulu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.30666667,
+  "longitude": -157.7883333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pukele Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pksh1",
+  "slug": "usgs-16244000",
+  "noaaForecastPath": "data/noaa-forecast/PKSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

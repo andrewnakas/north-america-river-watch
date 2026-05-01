@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14120000",
+  "key": "14120000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14120000",
+  "name": "HOOD RIVER AT TUCKER BRIDGE, NEAR HOOD RIVER, OR",
+  "waterbody": "HOOD RIVER AT TUCKER BRIDGE, NEAR HOOD RIVER, OR",
+  "state": "OR",
+  "latitude": 45.6545,
+  "longitude": -121.5488,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HODO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hood River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hodo3",
+  "slug": "usgs-14120000",
+  "noaaForecastPath": "data/noaa-forecast/HODO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02344350",
+  "key": "02344350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02344350",
+  "name": "FLINT RIVER NEAR LOVEJOY, GA",
+  "waterbody": "FLINT RIVER NEAR LOVEJOY, GA",
+  "state": "GA",
+  "latitude": 33.41555556,
+  "longitude": -84.3847222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOVG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flint River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lovg1",
+  "slug": "usgs-02344350",
+  "noaaForecastPath": "data/noaa-forecast/LOVG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

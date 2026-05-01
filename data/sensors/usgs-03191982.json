@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03191982",
+  "key": "03191982",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03191982",
+  "name": "GAULEY RIVER BELOW RICH CREEK AT JODIE, WV",
+  "waterbody": "GAULEY RIVER BELOW RICH CREEK AT JODIE, WV",
+  "state": "WV",
+  "latitude": 38.2267611,
+  "longitude": -81.1531556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03191982",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

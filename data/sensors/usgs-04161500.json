@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04161500",
+  "key": "04161500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04161500",
+  "name": "PAINT CREEK NEAR LAKE ORION, MI",
+  "waterbody": "PAINT CREEK NEAR LAKE ORION, MI",
+  "state": "MI",
+  "latitude": 42.7675054,
+  "longitude": -83.2198663,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04161500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

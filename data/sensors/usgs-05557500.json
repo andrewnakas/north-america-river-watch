@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05557500",
+  "key": "05557500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05557500",
+  "name": "EAST BUREAU CREEK NEAR BUREAU, IL",
+  "waterbody": "EAST BUREAU CREEK NEAR BUREAU, IL",
+  "state": "IL",
+  "latitude": 41.3347222,
+  "longitude": -89.3819444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05557500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

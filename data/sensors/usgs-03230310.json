@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03230310",
+  "key": "03230310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03230310",
+  "name": "Little Darby Creek at West Jefferson OH",
+  "waterbody": "Little Darby Creek at West Jefferson OH",
+  "state": "OH",
+  "latitude": 39.9511729,
+  "longitude": -83.26936009,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WEJO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Darby Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wejo1",
+  "slug": "usgs-03230310",
+  "noaaForecastPath": "data/noaa-forecast/WEJO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

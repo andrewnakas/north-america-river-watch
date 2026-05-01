@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01303000",
+  "key": "01303000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01303000",
+  "name": "MILL NECK CREEK AT MILL NECK NY",
+  "waterbody": "MILL NECK CREEK AT MILL NECK NY",
+  "state": "NY",
+  "latitude": 40.88741667,
+  "longitude": -73.5631944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01303000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

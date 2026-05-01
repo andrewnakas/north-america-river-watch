@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07370600",
+  "key": "07370600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07370600",
+  "name": "BEAUCOUP CK NR COTTON PLANT, LA",
+  "waterbody": "BEAUCOUP CK NR COTTON PLANT, LA",
+  "state": "LA",
+  "latitude": 32.10916667,
+  "longitude": -92.3211111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07370600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

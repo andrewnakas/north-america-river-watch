@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15742980",
+  "key": "15742980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15742980",
+  "name": "SADIE C 1.3 MI AB MOUTH NR KOTZEBUE AK",
+  "waterbody": "SADIE C 1.3 MI AB MOUTH NR KOTZEBUE AK",
+  "state": "AK",
+  "latitude": 66.8184722,
+  "longitude": -162.5040278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SADA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sadie Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sada2",
+  "slug": "usgs-15742980",
+  "noaaForecastPath": "data/noaa-forecast/SADA2.json",
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

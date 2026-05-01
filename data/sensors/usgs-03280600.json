@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03280600",
+  "key": "03280600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03280600",
+  "name": "MIDDLE FORK KENTUCKY RIVER NEAR HYDEN, KY",
+  "waterbody": "MIDDLE FORK KENTUCKY RIVER NEAR HYDEN, KY",
+  "state": "KY",
+  "latitude": 37.1373472,
+  "longitude": -83.3710232,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03280600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

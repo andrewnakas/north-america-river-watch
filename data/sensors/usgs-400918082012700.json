@@ -1,0 +1,19 @@
+{
+  "id": "usgs:400918082012700",
+  "key": "400918082012700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "400918082012700",
+  "name": "Flume at SR 16 nr SR 60 nr Dresden OH",
+  "waterbody": "Flume at SR 16 nr SR 60 nr Dresden OH",
+  "state": "OH",
+  "latitude": 40.155,
+  "longitude": -82.0241667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-400918082012700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

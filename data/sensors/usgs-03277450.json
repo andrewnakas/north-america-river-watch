@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03277450",
+  "key": "03277450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03277450",
+  "name": "CARR FORK NEAR SASSAFRAS, KY",
+  "waterbody": "CARR FORK NEAR SASSAFRAS, KY",
+  "state": "KY",
+  "latitude": 37.2333194,
+  "longitude": -83.0337562,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CFLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Carr Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cflk2",
+  "slug": "usgs-03277450",
+  "noaaForecastPath": "data/noaa-forecast/CFLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

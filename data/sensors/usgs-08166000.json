@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08166000",
+  "key": "08166000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08166000",
+  "name": "Johnson Ck nr Ingram, TX",
+  "waterbody": "Johnson Ck nr Ingram, TX",
+  "state": "TX",
+  "latitude": 30.10020707,
+  "longitude": -99.2831006,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Johnson Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jcit2",
+  "slug": "usgs-08166000",
+  "noaaForecastPath": "data/noaa-forecast/JCIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.410Z"
+}

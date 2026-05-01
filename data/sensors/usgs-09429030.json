@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429030",
+  "key": "09429030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429030",
+  "name": "PALO VERDE DRAIN NEAR PARKER, AZ",
+  "waterbody": "PALO VERDE DRAIN NEAR PARKER, AZ",
+  "state": "AZ",
+  "latitude": 33.75696536,
+  "longitude": -114.4974554,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

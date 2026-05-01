@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15294080",
+  "key": "15294080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15294080",
+  "name": "KROTO CREEK AT OILWELL ROAD NEAR TRAPPER CREEK AK",
+  "waterbody": "KROTO CREEK AT OILWELL ROAD NEAR TRAPPER CREEK AK",
+  "state": "AK",
+  "latitude": 62.1328333,
+  "longitude": -150.5386667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15294080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08010120",
+  "key": "08010120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08010120",
+  "name": "Bayou Mallet at Hwy 91 north of Iota, LA",
+  "waterbody": "Bayou Mallet at Hwy 91 north of Iota, LA",
+  "state": "LA",
+  "latitude": 30.39444444,
+  "longitude": -92.4976944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMIL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Mallet",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmil1",
+  "slug": "usgs-08010120",
+  "noaaForecastPath": "data/noaa-forecast/BMIL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

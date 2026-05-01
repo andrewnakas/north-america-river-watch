@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04233000",
+  "key": "04233000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04233000",
+  "name": "CAYUGA INLET NEAR ITHACA NY",
+  "waterbody": "CAYUGA INLET NEAR ITHACA NY",
+  "state": "NY",
+  "latitude": 42.39305556,
+  "longitude": -76.545,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04233000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

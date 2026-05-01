@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05101000",
+  "key": "05101000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05101000",
+  "name": "TONGUE RIVER AT AKRA, ND",
+  "waterbody": "TONGUE RIVER AT AKRA, ND",
+  "state": "ND",
+  "latitude": 48.77832786,
+  "longitude": -97.746759,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AKRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tongue River (ND)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/akrn8",
+  "slug": "usgs-05101000",
+  "noaaForecastPath": "data/noaa-forecast/AKRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

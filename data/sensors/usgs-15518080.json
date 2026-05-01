@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15518080",
+  "key": "15518080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15518080",
+  "name": "LIGNITE C AB MOUTH NR HEALY AK",
+  "waterbody": "LIGNITE C AB MOUTH NR HEALY AK",
+  "state": "AK",
+  "latitude": 63.90423713,
+  "longitude": -148.98601999,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15518080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

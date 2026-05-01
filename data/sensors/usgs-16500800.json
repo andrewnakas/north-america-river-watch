@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16500800",
+  "key": "16500800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16500800",
+  "name": "Kukuiula Gulch near Kipahulu, Maui, HI",
+  "waterbody": "Kukuiula Gulch near Kipahulu, Maui, HI",
+  "state": "HI",
+  "latitude": 20.6516111,
+  "longitude": -156.0758889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16500800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

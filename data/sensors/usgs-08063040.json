@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08063040",
+  "key": "08063040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08063040",
+  "name": "Richland Ck at Hwy 22 nr Mertens, TX",
+  "waterbody": "Richland Ck at Hwy 22 nr Mertens, TX",
+  "state": "TX",
+  "latitude": 32.05466944,
+  "longitude": -96.9065194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08063040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.391Z"
+}

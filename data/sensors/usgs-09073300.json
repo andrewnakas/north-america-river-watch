@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09073300",
+  "key": "09073300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09073300",
+  "name": "ROARING FORK RIVER AB DIFFICULT C NR ASPEN, CO.",
+  "waterbody": "ROARING FORK RIVER AB DIFFICULT C NR ASPEN, CO.",
+  "state": "CO",
+  "latitude": 39.141111,
+  "longitude": -106.773611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RORC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roaring Fork River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rorc2",
+  "slug": "usgs-09073300",
+  "noaaForecastPath": "data/noaa-forecast/RORC2.json",
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

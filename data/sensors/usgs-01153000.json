@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01153000",
+  "key": "01153000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01153000",
+  "name": "BLACK RIVER AT NORTH SPRINGFIELD, VT",
+  "waterbody": "BLACK RIVER AT NORTH SPRINGFIELD, VT",
+  "state": "VT",
+  "latitude": 43.33340716,
+  "longitude": -72.51481258,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSPV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nspv1",
+  "slug": "usgs-01153000",
+  "noaaForecastPath": "data/noaa-forecast/NSPV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

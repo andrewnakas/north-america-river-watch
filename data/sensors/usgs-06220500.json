@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06220500",
+  "key": "06220500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06220500",
+  "name": "EAST FORK WIND RIVER NEAR DUBOIS, WY",
+  "waterbody": "EAST FORK WIND RIVER NEAR DUBOIS, WY",
+  "state": "WY",
+  "latitude": 43.4543997,
+  "longitude": -109.4665368,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06220500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

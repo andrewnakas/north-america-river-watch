@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09401000",
+  "key": "09401000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09401000",
+  "name": "LITTLE COLO. RIVER AT GRAND FALLS, ARIZ.",
+  "waterbody": "LITTLE COLO. RIVER AT GRAND FALLS, ARIZ.",
+  "state": "AZ",
+  "latitude": 35.4333386,
+  "longitude": -111.200701,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09401000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.160Z"
+}

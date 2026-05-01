@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06178000",
+  "key": "06178000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06178000",
+  "name": "Poplar River at international boundary",
+  "waterbody": "Poplar River at international boundary",
+  "state": "MT",
+  "latitude": 48.9902861,
+  "longitude": -105.6969083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PPRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Poplar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pprm8",
+  "slug": "usgs-06178000",
+  "noaaForecastPath": "data/noaa-forecast/PPRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.287Z"
+}

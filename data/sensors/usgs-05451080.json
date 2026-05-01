@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05451080",
+  "key": "05451080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05451080",
+  "name": "South Fork Iowa River near Blairsburg, IA",
+  "waterbody": "South Fork Iowa River near Blairsburg, IA",
+  "state": "IA",
+  "latitude": 42.5436111,
+  "longitude": -93.5894444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLII4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Iowa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blii4",
+  "slug": "usgs-05451080",
+  "noaaForecastPath": "data/noaa-forecast/BLII4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01571184",
+  "key": "01571184",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01571184",
+  "name": "Mountain Creek near Pine Grove Furnace, PA",
+  "waterbody": "Mountain Creek near Pine Grove Furnace, PA",
+  "state": "PA",
+  "latitude": 40.0309245,
+  "longitude": -77.3085949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTKP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mountain Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtkp1",
+  "slug": "usgs-01571184",
+  "noaaForecastPath": "data/noaa-forecast/MTKP1.json",
+  "generatedAt": "2026-05-01T12:10:11.356Z"
+}

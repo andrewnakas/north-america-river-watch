@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01434025",
+  "key": "01434025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01434025",
+  "name": "BISCUIT BK ABOVE PIGEON BK AT FROST VALLEY NY",
+  "waterbody": "BISCUIT BK ABOVE PIGEON BK AT FROST VALLEY NY",
+  "state": "NY",
+  "latitude": 41.9960833,
+  "longitude": -74.5002222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01434025",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03251000",
+  "key": "03251000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03251000",
+  "name": "NORTH FORK LICKING RIVER NEAR LEWISBURG, KY",
+  "waterbody": "NORTH FORK LICKING RIVER NEAR LEWISBURG, KY",
+  "state": "KY",
+  "latitude": 38.5492422,
+  "longitude": -83.7935322,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03251000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

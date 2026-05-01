@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01400730",
+  "key": "01400730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01400730",
+  "name": "Millstone River at Plainsboro NJ",
+  "waterbody": "Millstone River at Plainsboro NJ",
+  "state": "NJ",
+  "latitude": 40.32416667,
+  "longitude": -74.61388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01400730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

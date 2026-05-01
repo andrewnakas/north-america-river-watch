@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330540",
+  "key": "08330540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330540",
+  "name": "TRAMWAY FLOODWAY CHANNEL AT ALBUQUERQUE, NM",
+  "waterbody": "TRAMWAY FLOODWAY CHANNEL AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.0783333,
+  "longitude": -106.4969444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

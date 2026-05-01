@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01208990",
+  "key": "01208990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01208990",
+  "name": "SAUGATUCK RIVER NEAR REDDING, CT",
+  "waterbody": "SAUGATUCK RIVER NEAR REDDING, CT",
+  "state": "CT",
+  "latitude": 41.29443639,
+  "longitude": -73.39510121,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01208990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

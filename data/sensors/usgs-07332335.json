@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07332335",
+  "key": "07332335",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07332335",
+  "name": "Blue River Abv Little W Blue Ck Nr Connerville, OK",
+  "waterbody": "Blue River Abv Little W Blue Ck Nr Connerville, OK",
+  "state": "OK",
+  "latitude": 34.477781,
+  "longitude": -96.673792,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBVO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blue River (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbvo2",
+  "slug": "usgs-07332335",
+  "noaaForecastPath": "data/noaa-forecast/CBVO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

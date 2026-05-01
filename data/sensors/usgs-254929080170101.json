@@ -1,0 +1,19 @@
+{
+  "id": "usgs:254929080170101",
+  "key": "254929080170101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "254929080170101",
+  "name": "MIAMI CANAL UPSTREAM OF S-26 AT MIAMI SPRINGS, FL",
+  "waterbody": "MIAMI CANAL UPSTREAM OF S-26 AT MIAMI SPRINGS, FL",
+  "state": "FL",
+  "latitude": 25.8246,
+  "longitude": -80.2836,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-254929080170101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.211Z"
+}

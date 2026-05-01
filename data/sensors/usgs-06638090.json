@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06638090",
+  "key": "06638090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06638090",
+  "name": "SWEETWATER RIVER NEAR SWEETWATER STATION, WY",
+  "waterbody": "SWEETWATER RIVER NEAR SWEETWATER STATION, WY",
+  "state": "WY",
+  "latitude": 42.5038205,
+  "longitude": -108.2506982,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swsw4",
+  "slug": "usgs-06638090",
+  "noaaForecastPath": "data/noaa-forecast/SWSW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

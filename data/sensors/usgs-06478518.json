@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06478518",
+  "key": "06478518",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478518",
+  "name": "BOW CREEK NR ST. JAMES, NEBR.",
+  "waterbody": "BOW CREEK NR ST. JAMES, NEBR.",
+  "state": "NE",
+  "latitude": 42.72916667,
+  "longitude": -97.1466667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06478518",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

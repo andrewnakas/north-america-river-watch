@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05587060",
+  "key": "05587060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05587060",
+  "name": "ILLINOIS RIVER AT HARDIN, IL",
+  "waterbody": "ILLINOIS RIVER AT HARDIN, IL",
+  "state": "IL",
+  "latitude": 39.16016667,
+  "longitude": -90.6160556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HARI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "minor",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hari2",
+  "slug": "usgs-05587060",
+  "noaaForecastPath": "data/noaa-forecast/HARI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

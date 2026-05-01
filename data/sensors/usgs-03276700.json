@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03276700",
+  "key": "03276700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03276700",
+  "name": "SOUTH HOGAN CREEK NEAR DILLSBORO, IND.",
+  "waterbody": "SOUTH HOGAN CREEK NEAR DILLSBORO, IND.",
+  "state": "IN",
+  "latitude": 39.02976664,
+  "longitude": -85.0379878,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03276700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

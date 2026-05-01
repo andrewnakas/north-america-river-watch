@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09497800",
+  "key": "09497800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09497800",
+  "name": "CIBECUE CREEK NEAR CHRYSOTILE, AZ",
+  "waterbody": "CIBECUE CREEK NEAR CHRYSOTILE, AZ",
+  "state": "AZ",
+  "latitude": 33.84311759,
+  "longitude": -110.5576286,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09497800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

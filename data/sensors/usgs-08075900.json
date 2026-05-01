@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08075900",
+  "key": "08075900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08075900",
+  "name": "Greens Bayou nr US Hwy 75 nr Houston, TX",
+  "waterbody": "Greens Bayou nr US Hwy 75 nr Houston, TX",
+  "state": "TX",
+  "latitude": 29.95688886,
+  "longitude": -95.4179936,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HGBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greens Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hgbt2",
+  "slug": "usgs-08075900",
+  "noaaForecastPath": "data/noaa-forecast/HGBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

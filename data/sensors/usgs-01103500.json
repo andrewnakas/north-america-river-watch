@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01103500",
+  "key": "01103500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01103500",
+  "name": "CHARLES RIVER AT DOVER, MA",
+  "waterbody": "CHARLES RIVER AT DOVER, MA",
+  "state": "MA",
+  "latitude": 42.256209,
+  "longitude": -71.2600558,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOVM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Charles River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dovm3",
+  "slug": "usgs-01103500",
+  "noaaForecastPath": "data/noaa-forecast/DOVM3.json",
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

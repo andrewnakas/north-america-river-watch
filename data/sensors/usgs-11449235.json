@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11449235",
+  "key": "11449235",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11449235",
+  "name": "CLOVER C BYPASS A ELK MTN RD NR UPPER LAKE CA",
+  "waterbody": "CLOVER C BYPASS A ELK MTN RD NR UPPER LAKE CA",
+  "state": "CA",
+  "latitude": 39.17577778,
+  "longitude": -122.9028889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mupc1",
+  "slug": "usgs-11449235",
+  "noaaForecastPath": "data/noaa-forecast/MUPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

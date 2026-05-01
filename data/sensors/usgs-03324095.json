@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03324095",
+  "key": "03324095",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03324095",
+  "name": "WABASH RIVER AT ANDREWS, IN",
+  "waterbody": "WABASH RIVER AT ANDREWS, IN",
+  "state": "IN",
+  "latitude": 40.86880556,
+  "longitude": -85.60208333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAHI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wabash River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wahi3",
+  "slug": "usgs-03324095",
+  "noaaForecastPath": "data/noaa-forecast/WAHI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

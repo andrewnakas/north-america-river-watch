@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07364000",
+  "key": "07364000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07364000",
+  "name": "Saline River near Warren, AR",
+  "waterbody": "Saline River near Warren, AR",
+  "state": "AR",
+  "latitude": 33.60679728,
+  "longitude": -92.01070181,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WARA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Saline River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wara4",
+  "slug": "usgs-07364000",
+  "noaaForecastPath": "data/noaa-forecast/WARA4.json",
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

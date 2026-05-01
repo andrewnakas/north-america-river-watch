@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03384500",
+  "key": "03384500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03384500",
+  "name": "OHIO RIVER AT DAM 51 AT GOLCONDA, IL",
+  "waterbody": "OHIO RIVER AT DAM 51 AT GOLCONDA, IL",
+  "state": "IL",
+  "latitude": 37.3578302,
+  "longitude": -88.4825424,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GOLI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/goli2",
+  "slug": "usgs-03384500",
+  "noaaForecastPath": "data/noaa-forecast/GOLI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

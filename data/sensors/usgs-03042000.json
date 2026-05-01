@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03042000",
+  "key": "03042000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03042000",
+  "name": "Blacklick Creek at Josephine, PA",
+  "waterbody": "Blacklick Creek at Josephine, PA",
+  "state": "PA",
+  "latitude": 40.4770127,
+  "longitude": -79.1867009,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JOSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blacklick Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/josp1",
+  "slug": "usgs-03042000",
+  "noaaForecastPath": "data/noaa-forecast/JOSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

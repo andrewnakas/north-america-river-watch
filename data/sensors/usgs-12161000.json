@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12161000",
+  "key": "12161000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12161000",
+  "name": "SF STILLAGUAMISH RIVER NEAR GRANITE FALLS, WA",
+  "waterbody": "SF STILLAGUAMISH RIVER NEAR GRANITE FALLS, WA",
+  "state": "WA",
+  "latitude": 48.10368686,
+  "longitude": -121.9456652,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GFLW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Stillaguamish River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gflw1",
+  "slug": "usgs-12161000",
+  "noaaForecastPath": "data/noaa-forecast/GFLW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

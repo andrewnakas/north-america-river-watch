@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03159000",
+  "key": "03159000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03159000",
+  "name": "Sunday Creek at Glouster OH",
+  "waterbody": "Sunday Creek at Glouster OH",
+  "state": "OH",
+  "latitude": 39.50086861,
+  "longitude": -82.08511375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sunday Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suno1",
+  "slug": "usgs-03159000",
+  "noaaForecastPath": "data/noaa-forecast/SUNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

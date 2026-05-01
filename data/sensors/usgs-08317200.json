@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08317200",
+  "key": "08317200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08317200",
+  "name": "SANTA FE RIVER ABOVE COCHITI LAKE, NM",
+  "waterbody": "SANTA FE RIVER ABOVE COCHITI LAKE, NM",
+  "state": "NM",
+  "latitude": 35.5472222,
+  "longitude": -106.2288889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08317200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

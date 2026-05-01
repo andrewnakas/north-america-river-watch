@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14306900",
+  "key": "14306900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14306900",
+  "name": "BIG CREEK NEAR ROOSEVELT BEACH, OREG.",
+  "waterbody": "BIG CREEK NEAR ROOSEVELT BEACH, OREG.",
+  "state": "OR",
+  "latitude": 44.167899,
+  "longitude": -124.0665067,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIFO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Creek of Lane Co.",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bifo3",
+  "slug": "usgs-14306900",
+  "noaaForecastPath": "data/noaa-forecast/BIFO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

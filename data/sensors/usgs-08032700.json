@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08032700",
+  "key": "08032700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08032700",
+  "name": "Neches Rv at SH 7 nr Pollok, TX",
+  "waterbody": "Neches Rv at SH 7 nr Pollok, TX",
+  "state": "TX",
+  "latitude": 31.39670556,
+  "longitude": -94.9658,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08032700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11042700",
+  "key": "11042700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11042700",
+  "name": "MURRIETA C NR MURRIETA CA",
+  "waterbody": "MURRIETA C NR MURRIETA CA",
+  "state": "CA",
+  "latitude": 33.5555832,
+  "longitude": -117.2314156,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11042700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

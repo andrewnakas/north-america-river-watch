@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01055500",
+  "key": "01055500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01055500",
+  "name": "Nezinscot River at Turner Center, Maine",
+  "waterbody": "Nezinscot River at Turner Center, Maine",
+  "state": "ME",
+  "latitude": 44.26944444,
+  "longitude": -70.22972222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCRM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nezinscot River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcrm1",
+  "slug": "usgs-01055500",
+  "noaaForecastPath": "data/noaa-forecast/TCRM1.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13072400",
+  "key": "13072400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13072400",
+  "name": "PORTNEUF RIVER AT PEBBLE ID",
+  "waterbody": "PORTNEUF RIVER AT PEBBLE ID",
+  "state": "ID",
+  "latitude": 42.74353611,
+  "longitude": -112.00163611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13072400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

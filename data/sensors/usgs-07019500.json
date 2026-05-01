@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07019500",
+  "key": "07019500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07019500",
+  "name": "Joachim Creek at De Soto, MO",
+  "waterbody": "Joachim Creek at De Soto, MO",
+  "state": "MO",
+  "latitude": 38.12666667,
+  "longitude": -90.5563889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DESM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Joachim Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/desm7",
+  "slug": "usgs-07019500",
+  "noaaForecastPath": "data/noaa-forecast/DESM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

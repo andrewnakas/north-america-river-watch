@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06422500",
+  "key": "06422500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06422500",
+  "name": "BOXELDER CREEK NEAR NEMO,SD",
+  "waterbody": "BOXELDER CREEK NEAR NEMO,SD",
+  "state": "SD",
+  "latitude": 44.1443339,
+  "longitude": -103.4545385,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Boxelder Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnns2",
+  "slug": "usgs-06422500",
+  "noaaForecastPath": "data/noaa-forecast/BNNS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

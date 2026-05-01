@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14050000",
+  "key": "14050000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14050000",
+  "name": "DESCHUTES RIVER BL SNOW CR NR LA PINE,OREG.",
+  "waterbody": "DESCHUTES RIVER BL SNOW CR NR LA PINE,OREG.",
+  "state": "OR",
+  "latitude": 43.81400647,
+  "longitude": -121.7769742,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14050000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

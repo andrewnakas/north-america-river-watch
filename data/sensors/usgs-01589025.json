@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589025",
+  "key": "01589025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589025",
+  "name": "PATAPSCO RIVER NEAR CATONSVILLE, MD",
+  "waterbody": "PATAPSCO RIVER NEAR CATONSVILLE, MD",
+  "state": "MD",
+  "latitude": 39.25125,
+  "longitude": -76.763778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTSM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Patapsco River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctsm2",
+  "slug": "usgs-01589025",
+  "noaaForecastPath": "data/noaa-forecast/CTSM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

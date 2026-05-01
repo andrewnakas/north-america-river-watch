@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14063000",
+  "key": "14063000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14063000",
+  "name": "LITTLE DESCHUTES RIVER NEAR LA PINE, OR",
+  "waterbody": "LITTLE DESCHUTES RIVER NEAR LA PINE, OR",
+  "state": "OR",
+  "latitude": 43.6890102,
+  "longitude": -121.5028029,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LAPO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Deschutes River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lapo3",
+  "slug": "usgs-14063000",
+  "noaaForecastPath": "data/noaa-forecast/LAPO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

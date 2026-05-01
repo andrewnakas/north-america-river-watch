@@ -1,0 +1,19 @@
+{
+  "id": "usgs:401731074422301",
+  "key": "401731074422301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "401731074422301",
+  "name": "Princessville USGS weather station NJ",
+  "waterbody": "Princessville USGS weather station NJ",
+  "state": "NJ",
+  "latitude": 40.29194444,
+  "longitude": -74.70638889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-401731074422301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

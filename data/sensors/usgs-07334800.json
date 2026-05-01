@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07334800",
+  "key": "07334800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07334800",
+  "name": "Clear Boggy Creek abv Caney Creek nr Caney, OK",
+  "waterbody": "Clear Boggy Creek abv Caney Creek nr Caney, OK",
+  "state": "OK",
+  "latitude": 34.2550899,
+  "longitude": -96.2127678,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CANO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clear Boggy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cano2",
+  "slug": "usgs-07334800",
+  "noaaForecastPath": "data/noaa-forecast/CANO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02375000",
+  "key": "02375000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02375000",
+  "name": "BIG ESCAMBIA CREEK AT FLOMATON AL",
+  "waterbody": "BIG ESCAMBIA CREEK AT FLOMATON AL",
+  "state": "AL",
+  "latitude": 31.01076847,
+  "longitude": -87.2627814,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLMA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Escambia Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flma1",
+  "slug": "usgs-02375000",
+  "noaaForecastPath": "data/noaa-forecast/FLMA1.json",
+  "generatedAt": "2026-05-01T12:10:11.150Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01135100",
+  "key": "01135100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01135100",
+  "name": "POPE BROOK TRIBUTARY (W-9), NR NORTH DANVILLE, VT",
+  "waterbody": "POPE BROOK TRIBUTARY (W-9), NR NORTH DANVILLE, VT",
+  "state": "VT",
+  "latitude": 44.49061087,
+  "longitude": -72.1617667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01135100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

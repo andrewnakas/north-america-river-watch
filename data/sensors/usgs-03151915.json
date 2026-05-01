@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03151915",
+  "key": "03151915",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03151915",
+  "name": "SAND FORK NEAR GLENVILLE, WV",
+  "waterbody": "SAND FORK NEAR GLENVILLE, WV",
+  "state": "WV",
+  "latitude": 38.92538889,
+  "longitude": -80.73838889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFKW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sand Fork Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfkw2",
+  "slug": "usgs-03151915",
+  "noaaForecastPath": "data/noaa-forecast/SFKW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09152500",
+  "key": "09152500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09152500",
+  "name": "GUNNISON RIVER NEAR GRAND JUNCTION, CO.",
+  "waterbody": "GUNNISON RIVER NEAR GRAND JUNCTION, CO.",
+  "state": "CO",
+  "latitude": 38.98331575,
+  "longitude": -108.4506446,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GJNC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gunnison River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gjnc2",
+  "slug": "usgs-09152500",
+  "noaaForecastPath": "data/noaa-forecast/GJNC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

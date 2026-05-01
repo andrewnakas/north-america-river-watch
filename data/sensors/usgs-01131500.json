@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01131500",
+  "key": "01131500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01131500",
+  "name": "CONNECTICUT RIVER NEAR DALTON, NH",
+  "waterbody": "CONNECTICUT RIVER NEAR DALTON, NH",
+  "state": "NH",
+  "latitude": 44.4100591,
+  "longitude": -71.7206438,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DLTN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Connecticut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dltn3",
+  "slug": "usgs-01131500",
+  "noaaForecastPath": "data/noaa-forecast/DLTN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

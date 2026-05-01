@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11160000",
+  "key": "11160000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11160000",
+  "name": "SOQUEL C A SOQUEL CA",
+  "waterbody": "SOQUEL C A SOQUEL CA",
+  "state": "CA",
+  "latitude": 36.9913389,
+  "longitude": -121.9557933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SOQC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Soquel Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/soqc1",
+  "slug": "usgs-11160000",
+  "noaaForecastPath": "data/noaa-forecast/SOQC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

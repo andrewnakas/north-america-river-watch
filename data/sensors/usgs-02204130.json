@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02204130",
+  "key": "02204130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02204130",
+  "name": "HONEY CREEK AT GA 212, NEAR CONYERS, GA",
+  "waterbody": "HONEY CREEK AT GA 212, NEAR CONYERS, GA",
+  "state": "GA",
+  "latitude": 33.57975,
+  "longitude": -84.06425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HONG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Honey Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hong1",
+  "slug": "usgs-02204130",
+  "noaaForecastPath": "data/noaa-forecast/HONG1.json",
+  "generatedAt": "2026-05-01T12:10:11.214Z"
+}

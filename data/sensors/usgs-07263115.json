@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07263115",
+  "key": "07263115",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07263115",
+  "name": "Fourche La Fave River near Houston, AR",
+  "waterbody": "Fourche La Fave River near Houston, AR",
+  "state": "AR",
+  "latitude": 35.0120319,
+  "longitude": -92.7234984,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HUSA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fourche LaFave River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/husa4",
+  "slug": "usgs-07263115",
+  "noaaForecastPath": "data/noaa-forecast/HUSA4.json",
+  "generatedAt": "2026-05-01T12:10:11.167Z"
+}

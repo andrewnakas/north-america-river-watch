@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02214075",
+  "key": "02214075",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02214075",
+  "name": "ECHECONNEE CREEK AT HOUSTON RD, NEAR BYRON, GA",
+  "waterbody": "ECHECONNEE CREEK AT HOUSTON RD, NEAR BYRON, GA",
+  "state": "GA",
+  "latitude": 32.69187778,
+  "longitude": -83.7009722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BYNG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Echeconnee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/byng1",
+  "slug": "usgs-02214075",
+  "noaaForecastPath": "data/noaa-forecast/BYNG1.json",
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

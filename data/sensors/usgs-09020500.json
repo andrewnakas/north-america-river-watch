@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09020500",
+  "key": "09020500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09020500",
+  "name": "WILLOW CREEK ABOVE WILLOW CREEK RESERVOIR, CO.",
+  "waterbody": "WILLOW CREEK ABOVE WILLOW CREEK RESERVOIR, CO.",
+  "state": "CO",
+  "latitude": 40.15579444,
+  "longitude": -105.9805639,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCRC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Creek (CO)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcrc2",
+  "slug": "usgs-09020500",
+  "noaaForecastPath": "data/noaa-forecast/WCRC2.json",
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13207500",
+  "key": "13207500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13207500",
+  "name": "DRY CREEK NEAR EAGLE ID",
+  "waterbody": "DRY CREEK NEAR EAGLE ID",
+  "state": "ID",
+  "latitude": 43.73194444,
+  "longitude": -116.3041667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13207500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05568615",
+  "key": "05568615",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05568615",
+  "name": "ILLINOIS RIVER AT COPPERAS CREEK, IL",
+  "waterbody": "ILLINOIS RIVER AT COPPERAS CREEK, IL",
+  "state": "IL",
+  "latitude": 40.476575,
+  "longitude": -89.8884972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COPI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Illinois River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/copi2",
+  "slug": "usgs-05568615",
+  "noaaForecastPath": "data/noaa-forecast/COPI2.json",
+  "generatedAt": "2026-05-01T12:10:11.231Z"
+}

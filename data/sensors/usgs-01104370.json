@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104370",
+  "key": "01104370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104370",
+  "name": "STONY BROOK AT VILES STREET, NEAR WESTON, MA",
+  "waterbody": "STONY BROOK AT VILES STREET, NEAR WESTON, MA",
+  "state": "MA",
+  "latitude": 42.38555556,
+  "longitude": -71.2894444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104370",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

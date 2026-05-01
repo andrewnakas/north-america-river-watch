@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02301740",
+  "key": "02301740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02301740",
+  "name": "NORTH ARCHIE CREEK AT PROGRESS BLVD. NEAR TAMPA FL",
+  "waterbody": "NORTH ARCHIE CREEK AT PROGRESS BLVD. NEAR TAMPA FL",
+  "state": "FL",
+  "latitude": 27.8966908,
+  "longitude": -82.3498147,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NACF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Archie Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nacf1",
+  "slug": "usgs-02301740",
+  "noaaForecastPath": "data/noaa-forecast/NACF1.json",
+  "generatedAt": "2026-05-01T12:10:11.201Z"
+}

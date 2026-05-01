@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13292000",
+  "key": "13292000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13292000",
+  "name": "IMNAHA RIVER AT IMNAHA, OR",
+  "waterbody": "IMNAHA RIVER AT IMNAHA, OR",
+  "state": "OR",
+  "latitude": 45.5623784,
+  "longitude": -116.8343178,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IMNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Imnaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/imno3",
+  "slug": "usgs-13292000",
+  "noaaForecastPath": "data/noaa-forecast/IMNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

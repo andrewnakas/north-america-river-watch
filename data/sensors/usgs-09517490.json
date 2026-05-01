@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09517490",
+  "key": "09517490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09517490",
+  "name": "CENTENNIAL WASH AT SOUTHERN PACIFIC RAILROAD BRDG",
+  "waterbody": "CENTENNIAL WASH AT SOUTHERN PACIFIC RAILROAD BRDG",
+  "state": "AZ",
+  "latitude": 33.31031984,
+  "longitude": -112.8818423,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09517490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

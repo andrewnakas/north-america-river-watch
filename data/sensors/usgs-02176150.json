@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02176150",
+  "key": "02176150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02176150",
+  "name": "COMBAHEE RIVER NEAR GREENPOND, SC",
+  "waterbody": "COMBAHEE RIVER NEAR GREENPOND, SC",
+  "state": "SC",
+  "latitude": 32.65240388,
+  "longitude": -80.6831613,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMGS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Combahee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmgs1",
+  "slug": "usgs-02176150",
+  "noaaForecastPath": "data/noaa-forecast/CMGS1.json",
+  "generatedAt": "2026-05-01T12:10:11.375Z"
+}

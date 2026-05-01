@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12090340",
+  "key": "12090340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12090340",
+  "name": "UNNAMED TRIBUTARY AT BINGHAM AVE E NR SPANAWAY, WA",
+  "waterbody": "UNNAMED TRIBUTARY AT BINGHAM AVE E NR SPANAWAY, WA",
+  "state": "WA",
+  "latitude": 47.12565547,
+  "longitude": -122.367898,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12090340",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

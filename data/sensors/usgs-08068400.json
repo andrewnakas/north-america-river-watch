@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08068400",
+  "key": "08068400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08068400",
+  "name": "Panther Br at Gosling Rd, The Woodlands, TX",
+  "waterbody": "Panther Br at Gosling Rd, The Woodlands, TX",
+  "state": "TX",
+  "latitude": 30.192159,
+  "longitude": -95.4838288,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08068400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

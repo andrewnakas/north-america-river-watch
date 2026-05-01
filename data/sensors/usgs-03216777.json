@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03216777",
+  "key": "03216777",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03216777",
+  "name": "TYGARTS CREEK AT LAWTON RD AT OLIVE HILL,KY",
+  "waterbody": "TYGARTS CREEK AT LAWTON RD AT OLIVE HILL,KY",
+  "state": "KY",
+  "latitude": 38.29038098,
+  "longitude": -83.1895603,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OVHK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tygarts Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ovhk2",
+  "slug": "usgs-03216777",
+  "noaaForecastPath": "data/noaa-forecast/OVHK2.json",
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

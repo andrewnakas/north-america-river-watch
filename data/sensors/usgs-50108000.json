@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50108000",
+  "key": "50108000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50108000",
+  "name": "RIO DESCALABRADO NR LOS LLANOS, PR",
+  "waterbody": "RIO DESCALABRADO NR LOS LLANOS, PR",
+  "state": "PR",
+  "latitude": 18.05024082,
+  "longitude": -66.4257263,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50108000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

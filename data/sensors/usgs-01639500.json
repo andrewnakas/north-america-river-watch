@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01639500",
+  "key": "01639500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01639500",
+  "name": "BIG PIPE CREEK AT BRUCEVILLE, MD",
+  "waterbody": "BIG PIPE CREEK AT BRUCEVILLE, MD",
+  "state": "MD",
+  "latitude": 39.61236111,
+  "longitude": -77.23744444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRUM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Pipe Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brum2",
+  "slug": "usgs-01639500",
+  "noaaForecastPath": "data/noaa-forecast/BRUM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

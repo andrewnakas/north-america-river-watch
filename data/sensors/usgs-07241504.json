@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07241504",
+  "key": "07241504",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07241504",
+  "name": "Crutcho Creek at SE 50th st. at Boone Township, OK",
+  "waterbody": "Crutcho Creek at SE 50th st. at Boone Township, OK",
+  "state": "OK",
+  "latitude": 35.415017,
+  "longitude": -97.418475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OCCO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crutcho Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/occo2",
+  "slug": "usgs-07241504",
+  "noaaForecastPath": "data/noaa-forecast/OCCO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

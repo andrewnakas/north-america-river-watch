@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02283500",
+  "key": "02283500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02283500",
+  "name": "N NEW RIVER CANAL BELOW S351 NR SOUTH  BAY FLA",
+  "waterbody": "N NEW RIVER CANAL BELOW S351 NR SOUTH  BAY FLA",
+  "state": "FL",
+  "latitude": 26.6976,
+  "longitude": -80.7128167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North New River Canal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwrf1",
+  "slug": "usgs-02283500",
+  "noaaForecastPath": "data/noaa-forecast/NWRF1.json",
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

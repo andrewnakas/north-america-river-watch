@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01513500",
+  "key": "01513500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01513500",
+  "name": "SUSQUEHANNA RIVER AT VESTAL NY",
+  "waterbody": "SUSQUEHANNA RIVER AT VESTAL NY",
+  "state": "NY",
+  "latitude": 42.09166667,
+  "longitude": -76.05652778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VSTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vstn6",
+  "slug": "usgs-01513500",
+  "noaaForecastPath": "data/noaa-forecast/VSTN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

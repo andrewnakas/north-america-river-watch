@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02234400",
+  "key": "02234400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02234400",
+  "name": "GEE CREEK NEAR LONGWOOD, FL",
+  "waterbody": "GEE CREEK NEAR LONGWOOD, FL",
+  "state": "FL",
+  "latitude": 28.7041629,
+  "longitude": -81.2906221,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GECF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gee Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gecf1",
+  "slug": "usgs-02234400",
+  "noaaForecastPath": "data/noaa-forecast/GECF1.json",
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

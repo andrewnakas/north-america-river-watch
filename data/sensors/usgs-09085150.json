@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09085150",
+  "key": "09085150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09085150",
+  "name": "COLORADO R ABV SOUTH CANYON CR NR GLENWOOD SPGS CO",
+  "waterbody": "COLORADO R ABV SOUTH CANYON CR NR GLENWOOD SPGS CO",
+  "state": "CO",
+  "latitude": 39.56166667,
+  "longitude": -107.4066667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09085150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

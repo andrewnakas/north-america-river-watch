@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09514300",
+  "key": "09514300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09514300",
+  "name": "GILA R AT STATE HWY 85, NR BUCKEYE, AZ",
+  "waterbody": "GILA R AT STATE HWY 85, NR BUCKEYE, AZ",
+  "state": "AZ",
+  "latitude": 33.33420907,
+  "longitude": -112.6234998,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09514300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

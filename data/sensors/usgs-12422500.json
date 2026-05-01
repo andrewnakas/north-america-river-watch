@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12422500",
+  "key": "12422500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12422500",
+  "name": "Spokane River at Spokane, WA",
+  "waterbody": "Spokane River at Spokane, WA",
+  "state": "WA",
+  "latitude": 47.6593354,
+  "longitude": -117.4491029,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPOW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spokane River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spow1",
+  "slug": "usgs-12422500",
+  "noaaForecastPath": "data/noaa-forecast/SPOW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

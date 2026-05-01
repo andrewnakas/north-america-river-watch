@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03126000",
+  "key": "03126000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03126000",
+  "name": "Stillwater Creek at Piedmont OH",
+  "waterbody": "Stillwater Creek at Piedmont OH",
+  "state": "OH",
+  "latitude": 40.1947901,
+  "longitude": -81.2153844,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIEO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwater Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pieo1",
+  "slug": "usgs-03126000",
+  "noaaForecastPath": "data/noaa-forecast/PIEO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03116077",
+  "key": "03116077",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03116077",
+  "name": "Chippewa Creek at Miller Rd at Sterling OH",
+  "waterbody": "Chippewa Creek at Miller Rd at Sterling OH",
+  "state": "OH",
+  "latitude": 40.96638889,
+  "longitude": -81.8505556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chippewa Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stgo1",
+  "slug": "usgs-03116077",
+  "noaaForecastPath": "data/noaa-forecast/STGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

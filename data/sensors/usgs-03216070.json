@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03216070",
+  "key": "03216070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03216070",
+  "name": "OHIO RIVER AT IRONTON, OH",
+  "waterbody": "OHIO RIVER AT IRONTON, OH",
+  "state": "OH",
+  "latitude": 38.53205556,
+  "longitude": -82.68594444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IROO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/iroo1",
+  "slug": "usgs-03216070",
+  "noaaForecastPath": "data/noaa-forecast/IROO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06089000",
+  "key": "06089000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06089000",
+  "name": "Sun River near Vaughn MT",
+  "waterbody": "Sun River near Vaughn MT",
+  "state": "MT",
+  "latitude": 47.52577778,
+  "longitude": -111.511036,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VAUM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sun River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vaum8",
+  "slug": "usgs-06089000",
+  "noaaForecastPath": "data/noaa-forecast/VAUM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

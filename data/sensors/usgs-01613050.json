@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01613050",
+  "key": "01613050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01613050",
+  "name": "Tonoloway Creek near Needmore, PA",
+  "waterbody": "Tonoloway Creek near Needmore, PA",
+  "state": "PA",
+  "latitude": 39.89842119,
+  "longitude": -78.132229,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEEP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tonoloway Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/neep1",
+  "slug": "usgs-01613050",
+  "noaaForecastPath": "data/noaa-forecast/NEEP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

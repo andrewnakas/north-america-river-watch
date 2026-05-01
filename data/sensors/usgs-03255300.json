@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03255300",
+  "key": "03255300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03255300",
+  "name": "Mill Creek at Kemper Road at Sharonville OH",
+  "waterbody": "Mill Creek at Kemper Road at Sharonville OH",
+  "state": "OH",
+  "latitude": 39.2845023,
+  "longitude": -84.4327198,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPGO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spgo1",
+  "slug": "usgs-03255300",
+  "noaaForecastPath": "data/noaa-forecast/SPGO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

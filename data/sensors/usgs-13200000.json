@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13200000",
+  "key": "13200000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13200000",
+  "name": "MORES CREEK AB ROBIE CREEK NR ARROWROCK DAM ID",
+  "waterbody": "MORES CREEK AB ROBIE CREEK NR ARROWROCK DAM ID",
+  "state": "ID",
+  "latitude": 43.64805556,
+  "longitude": -115.9897222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MORI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mores Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mori1",
+  "slug": "usgs-13200000",
+  "noaaForecastPath": "data/noaa-forecast/MORI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

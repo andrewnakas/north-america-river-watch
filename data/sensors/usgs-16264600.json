@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16264600",
+  "key": "16264600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16264600",
+  "name": "Kawainui Marsh nr levee sta 15+00, Oahu, HI",
+  "waterbody": "Kawainui Marsh nr levee sta 15+00, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.39416667,
+  "longitude": -157.749361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KMSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kawainui Marsh",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kmsh1",
+  "slug": "usgs-16264600",
+  "noaaForecastPath": "data/noaa-forecast/KMSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

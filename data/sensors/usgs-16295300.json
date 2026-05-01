@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16295300",
+  "key": "16295300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16295300",
+  "name": "Hakipuu Stream near Waikane, Oahu, HI",
+  "waterbody": "Hakipuu Stream near Waikane, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.50841667,
+  "longitude": -157.8548889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16295300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

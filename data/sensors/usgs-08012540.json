@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08012540",
+  "key": "08012540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08012540",
+  "name": "Intracoastal Canal @ Creole Ferry @ Gibbstown, LA.",
+  "waterbody": "Intracoastal Canal @ Creole Ferry @ Gibbstown, LA.",
+  "state": "LA",
+  "latitude": 29.93405556,
+  "longitude": -93.0794167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08012540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10246930",
+  "key": "10246930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10246930",
+  "name": "SIXMILE CK NR WARM SPNGS,NEVADA",
+  "waterbody": "SIXMILE CK NR WARM SPNGS,NEVADA",
+  "state": "NV",
+  "latitude": 38.5730833,
+  "longitude": -116.3142278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10246930",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

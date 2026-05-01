@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03110830",
+  "key": "03110830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03110830",
+  "name": "KINGS CREEK AT WEIRTON, WV",
+  "waterbody": "KINGS CREEK AT WEIRTON, WV",
+  "state": "WV",
+  "latitude": 40.4356229,
+  "longitude": -80.5925723,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03110830",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

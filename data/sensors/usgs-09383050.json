@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09383050",
+  "key": "09383050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09383050",
+  "name": "COLORADO RIVER NEAR RIVER MILE 30",
+  "waterbody": "COLORADO RIVER NEAR RIVER MILE 30",
+  "state": "AZ",
+  "latitude": 36.52332744,
+  "longitude": -111.84324341,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09383050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

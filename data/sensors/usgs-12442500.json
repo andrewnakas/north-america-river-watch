@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12442500",
+  "key": "12442500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12442500",
+  "name": "SIMILKAMEEN RIVER NEAR NIGHTHAWK, WA",
+  "waterbody": "SIMILKAMEEN RIVER NEAR NIGHTHAWK, WA",
+  "state": "WA",
+  "latitude": 48.98460109,
+  "longitude": -119.6184098,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NITW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Similkameen River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nitw1",
+  "slug": "usgs-12442500",
+  "noaaForecastPath": "data/noaa-forecast/NITW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

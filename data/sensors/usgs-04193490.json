@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04193490",
+  "key": "04193490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04193490",
+  "name": "Maumee River near Waterville OH",
+  "waterbody": "Maumee River near Waterville OH",
+  "state": "OH",
+  "latitude": 41.47616368,
+  "longitude": -83.7388261,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04193490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

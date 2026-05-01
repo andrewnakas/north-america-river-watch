@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06448000",
+  "key": "06448000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06448000",
+  "name": "LAKE CR ABOVE REFUGE NEAR TUTHILL,SD",
+  "waterbody": "LAKE CR ABOVE REFUGE NEAR TUTHILL,SD",
+  "state": "SD",
+  "latitude": 43.08711217,
+  "longitude": -101.60387,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06448000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

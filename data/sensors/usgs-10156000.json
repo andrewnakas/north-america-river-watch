@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10156000",
+  "key": "10156000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10156000",
+  "name": "SNAKE CREEK NEAR CHARLESTON, UT",
+  "waterbody": "SNAKE CREEK NEAR CHARLESTON, UT",
+  "state": "UT",
+  "latitude": 40.4852332,
+  "longitude": -111.4671312,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10156000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

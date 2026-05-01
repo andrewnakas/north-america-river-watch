@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07355500",
+  "key": "07355500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07355500",
+  "name": "Red River at Alexandria, LA",
+  "waterbody": "Red River at Alexandria, LA",
+  "state": "LA",
+  "latitude": 31.31027778,
+  "longitude": -92.4388333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AEXL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aexl1",
+  "slug": "usgs-07355500",
+  "noaaForecastPath": "data/noaa-forecast/AEXL1.json",
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

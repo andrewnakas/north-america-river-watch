@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13141000",
+  "key": "13141000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13141000",
+  "name": "BIG WOOD RIVER NR BELLEVUE, ID",
+  "waterbody": "BIG WOOD RIVER NR BELLEVUE, ID",
+  "state": "ID",
+  "latitude": 43.32805556,
+  "longitude": -114.3416667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13141000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

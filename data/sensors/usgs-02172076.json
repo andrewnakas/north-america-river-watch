@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02172076",
+  "key": "02172076",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02172076",
+  "name": "GREAT CYPRESS SWAMP NEAR RIDGEVILLE, SC",
+  "waterbody": "GREAT CYPRESS SWAMP NEAR RIDGEVILLE, SC",
+  "state": "SC",
+  "latitude": 33.08655693,
+  "longitude": -80.2650951,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02172076",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08281400",
+  "key": "08281400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08281400",
+  "name": "RIO CHAMA ABOVE CHAMA, NM",
+  "waterbody": "RIO CHAMA ABOVE CHAMA, NM",
+  "state": "NM",
+  "latitude": 36.93495625,
+  "longitude": -106.5552122,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08281400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

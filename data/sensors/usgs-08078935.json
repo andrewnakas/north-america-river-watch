@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08078935",
+  "key": "08078935",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08078935",
+  "name": "Oyster Ck at FM 1462 nr Rosharon, TX",
+  "waterbody": "Oyster Ck at FM 1462 nr Rosharon, TX",
+  "state": "TX",
+  "latitude": 29.352775,
+  "longitude": -95.5189806,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08078935",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

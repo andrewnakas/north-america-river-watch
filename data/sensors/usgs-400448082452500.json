@@ -1,0 +1,19 @@
+{
+  "id": "usgs:400448082452500",
+  "key": "400448082452500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "400448082452500",
+  "name": "Flume at SR 161 nr Beech Road nr New Albany OH",
+  "waterbody": "Flume at SR 161 nr Beech Road nr New Albany OH",
+  "state": "OH",
+  "latitude": 40.08,
+  "longitude": -82.7569444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-400448082452500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

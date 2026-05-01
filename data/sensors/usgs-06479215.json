@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06479215",
+  "key": "06479215",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06479215",
+  "name": "BIG SIOUX RIVER NEAR FLORENCE,SD",
+  "waterbody": "BIG SIOUX RIVER NEAR FLORENCE,SD",
+  "state": "SD",
+  "latitude": 45.18079549,
+  "longitude": -97.1861904,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLOS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sioux River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flos2",
+  "slug": "usgs-06479215",
+  "noaaForecastPath": "data/noaa-forecast/FLOS2.json",
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

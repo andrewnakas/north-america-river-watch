@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03348000",
+  "key": "03348000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03348000",
+  "name": "WHITE RIVER AT ANDERSON, IN",
+  "waterbody": "WHITE RIVER AT ANDERSON, IN",
+  "state": "IN",
+  "latitude": 40.10527778,
+  "longitude": -85.67138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ANDI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/andi3",
+  "slug": "usgs-03348000",
+  "noaaForecastPath": "data/noaa-forecast/ANDI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06788988",
+  "key": "06788988",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06788988",
+  "name": " MIRA CREEK NR NORTH LOUP, NE",
+  "waterbody": " MIRA CREEK NR NORTH LOUP, NE",
+  "state": "NE",
+  "latitude": 41.50223339,
+  "longitude": -98.7967489,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NLPN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mira Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nlpn1",
+  "slug": "usgs-06788988",
+  "noaaForecastPath": "data/noaa-forecast/NLPN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

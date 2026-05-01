@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13016310",
+  "key": "13016310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13016310",
+  "name": "GRANITE CR SUPPLEMENTAL AB LAKE CR, NR MOOSE, WY",
+  "waterbody": "GRANITE CR SUPPLEMENTAL AB LAKE CR, NR MOOSE, WY",
+  "state": "WY",
+  "latitude": 43.61909695,
+  "longitude": -110.7749324,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13016310",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

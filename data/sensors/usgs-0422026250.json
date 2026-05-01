@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0422026250",
+  "key": "0422026250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0422026250",
+  "name": "NORTHRUP CREEK AT NORTH GREECE NY",
+  "waterbody": "NORTHRUP CREEK AT NORTH GREECE NY",
+  "state": "NY",
+  "latitude": 43.2538611,
+  "longitude": -77.7420833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NGRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Northrup Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ngrn6",
+  "slug": "usgs-0422026250",
+  "noaaForecastPath": "data/noaa-forecast/NGRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07057500",
+  "key": "07057500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07057500",
+  "name": "North Fork River near Tecumseh, MO",
+  "waterbody": "North Fork River near Tecumseh, MO",
+  "state": "MO",
+  "latitude": 36.62302778,
+  "longitude": -92.2481389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TNZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tnzm7",
+  "slug": "usgs-07057500",
+  "noaaForecastPath": "data/noaa-forecast/TNZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

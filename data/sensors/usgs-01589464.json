@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589464",
+  "key": "01589464",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589464",
+  "name": "STONY RUN AT RIDGEMEDE ROAD AT BALTIMORE, MD",
+  "waterbody": "STONY RUN AT RIDGEMEDE ROAD AT BALTIMORE, MD",
+  "state": "MD",
+  "latitude": 39.3395,
+  "longitude": -76.6256944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STOM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Run",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stom2",
+  "slug": "usgs-01589464",
+  "noaaForecastPath": "data/noaa-forecast/STOM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

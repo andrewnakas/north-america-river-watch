@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09359080",
+  "key": "09359080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09359080",
+  "name": "CASCADE CR ABV CASCADE CR DIVERSION NR ROCKWOOD CO",
+  "waterbody": "CASCADE CR ABV CASCADE CR DIVERSION NR ROCKWOOD CO",
+  "state": "CO",
+  "latitude": 37.667278,
+  "longitude": -107.822625,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09359080",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

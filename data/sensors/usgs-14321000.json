@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14321000",
+  "key": "14321000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14321000",
+  "name": "UMPQUA RIVER NEAR ELKTON, OR",
+  "waterbody": "UMPQUA RIVER NEAR ELKTON, OR",
+  "state": "OR",
+  "latitude": 43.5859502,
+  "longitude": -123.5553727,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EKTO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Umpqua River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ekto3",
+  "slug": "usgs-14321000",
+  "noaaForecastPath": "data/noaa-forecast/EKTO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

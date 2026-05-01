@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15302200",
+  "key": "15302200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15302200",
+  "name": "KOKTULI R NR ILIAMNA AK",
+  "waterbody": "KOKTULI R NR ILIAMNA AK",
+  "state": "AK",
+  "latitude": 59.7926376,
+  "longitude": -155.5246895,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KTIA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Koktuli River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ktia2",
+  "slug": "usgs-15302200",
+  "noaaForecastPath": "data/noaa-forecast/KTIA2.json",
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

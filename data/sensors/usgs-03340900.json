@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03340900",
+  "key": "03340900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03340900",
+  "name": "BIG RACCOON CREEK AT FERNDALE, IN",
+  "waterbody": "BIG RACCOON CREEK AT FERNDALE, IN",
+  "state": "IN",
+  "latitude": 39.71116667,
+  "longitude": -87.0712778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRNI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Raccoon Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frni3",
+  "slug": "usgs-03340900",
+  "noaaForecastPath": "data/noaa-forecast/FRNI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

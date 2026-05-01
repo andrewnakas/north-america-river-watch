@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01620000",
+  "key": "01620000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01620000",
+  "name": "POTOMAC RIVER AT HARPERS FERRY, WV",
+  "waterbody": "POTOMAC RIVER AT HARPERS FERRY, WV",
+  "state": "MD",
+  "latitude": 39.32375,
+  "longitude": -77.7281944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01620000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

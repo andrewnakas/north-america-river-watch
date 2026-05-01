@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14159000",
+  "key": "14159000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14159000",
+  "name": "MCKENZIE R AT MCKENZIE BRIDGE, OREG.",
+  "waterbody": "MCKENZIE R AT MCKENZIE BRIDGE, OREG.",
+  "state": "OR",
+  "latitude": 44.17901207,
+  "longitude": -122.130335,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14159000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

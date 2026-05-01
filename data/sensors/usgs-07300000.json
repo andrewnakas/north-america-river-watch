@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07300000",
+  "key": "07300000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07300000",
+  "name": "Salt Fork Red River near Wellington, TX",
+  "waterbody": "Salt Fork Red River near Wellington, TX",
+  "state": "TX",
+  "latitude": 34.95755294,
+  "longitude": -100.220949,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Fork of the Red River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlgt2",
+  "slug": "usgs-07300000",
+  "noaaForecastPath": "data/noaa-forecast/WLGT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13136000",
+  "key": "13136000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13136000",
+  "name": "BIG WOOD RIVER AT KETCHUM, ID",
+  "waterbody": "BIG WOOD RIVER AT KETCHUM, ID",
+  "state": "ID",
+  "latitude": 43.6886111,
+  "longitude": -114.3733333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13136000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

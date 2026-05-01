@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07257000",
+  "key": "07257000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07257000",
+  "name": "BIG PINEY CREEK NEAR DOVER, ARK",
+  "waterbody": "BIG PINEY CREEK NEAR DOVER, ARK",
+  "state": "AR",
+  "latitude": 35.54952544,
+  "longitude": -93.1585084,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07257000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

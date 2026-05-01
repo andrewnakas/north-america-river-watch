@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05437500",
+  "key": "05437500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05437500",
+  "name": "ROCK RIVER AT ROCKTON, IL",
+  "waterbody": "ROCK RIVER AT ROCKTON, IL",
+  "state": "IL",
+  "latitude": 42.45027778,
+  "longitude": -89.0725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/roki2",
+  "slug": "usgs-05437500",
+  "noaaForecastPath": "data/noaa-forecast/ROKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.229Z"
+}

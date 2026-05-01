@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06751150",
+  "key": "06751150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06751150",
+  "name": "N FK CACHE LA POUDRE R BLW HALLIGAN RES NR VA DALE",
+  "waterbody": "N FK CACHE LA POUDRE R BLW HALLIGAN RES NR VA DALE",
+  "state": "CO",
+  "latitude": 40.878333,
+  "longitude": -105.3375,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCHC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Cache La Poudre River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nchc2",
+  "slug": "usgs-06751150",
+  "noaaForecastPath": "data/noaa-forecast/NCHC2.json",
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02437100",
+  "key": "02437100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02437100",
+  "name": "TOMBIGBEE RIVER AT ABERDEEN LOCK AND DAM, MS",
+  "waterbody": "TOMBIGBEE RIVER AT ABERDEEN LOCK AND DAM, MS",
+  "state": "MS",
+  "latitude": 33.83,
+  "longitude": -88.52,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02437100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

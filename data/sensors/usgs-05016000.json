@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05016000",
+  "key": "05016000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05016000",
+  "name": "Swiftcurrent Creek at Sherburne MT",
+  "waterbody": "Swiftcurrent Creek at Sherburne MT",
+  "state": "MT",
+  "latitude": 48.8299083,
+  "longitude": -113.517211,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCSM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swiftcurrent Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scsm8",
+  "slug": "usgs-05016000",
+  "noaaForecastPath": "data/noaa-forecast/SCSM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

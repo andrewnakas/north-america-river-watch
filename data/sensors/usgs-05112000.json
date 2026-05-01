@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05112000",
+  "key": "05112000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05112000",
+  "name": "ROSEAU RIVER BELOW STATE DITCH 51 NR CARIBOU, MN",
+  "waterbody": "ROSEAU RIVER BELOW STATE DITCH 51 NR CARIBOU, MN",
+  "state": "MN",
+  "latitude": 48.981612,
+  "longitude": -96.462767,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CARM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roseau River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/carm5",
+  "slug": "usgs-05112000",
+  "noaaForecastPath": "data/noaa-forecast/CARM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

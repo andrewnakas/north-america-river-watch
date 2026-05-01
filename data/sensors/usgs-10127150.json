@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10127150",
+  "key": "10127150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10127150",
+  "name": "AV WATKIN OUTLET NEAR WILLARD, UT",
+  "waterbody": "AV WATKIN OUTLET NEAR WILLARD, UT",
+  "state": "UT",
+  "latitude": 41.42125,
+  "longitude": -112.06381389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10127150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

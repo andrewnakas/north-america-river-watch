@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14308990",
+  "key": "14308990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14308990",
+  "name": "COW CREEK ABV GALESVILLE RES, NR AZALEA, OR.",
+  "waterbody": "COW CREEK ABV GALESVILLE RES, NR AZALEA, OR.",
+  "state": "OR",
+  "latitude": 42.82317665,
+  "longitude": -123.1258922,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COGO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cogo3",
+  "slug": "usgs-14308990",
+  "noaaForecastPath": "data/noaa-forecast/COGO3.json",
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

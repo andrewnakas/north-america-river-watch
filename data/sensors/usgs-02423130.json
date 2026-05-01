@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02423130",
+  "key": "02423130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02423130",
+  "name": "CAHABA RIVER AT TRUSSVILLE, AL.",
+  "waterbody": "CAHABA RIVER AT TRUSSVILLE, AL.",
+  "state": "AL",
+  "latitude": 33.62232504,
+  "longitude": -86.599431,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRSA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cahaba River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/trsa1",
+  "slug": "usgs-02423130",
+  "noaaForecastPath": "data/noaa-forecast/TRSA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

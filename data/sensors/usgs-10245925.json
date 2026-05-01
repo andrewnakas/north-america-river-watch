@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10245925",
+  "key": "10245925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245925",
+  "name": "STONEBERGER CK NR AUSTIN, NV",
+  "waterbody": "STONEBERGER CK NR AUSTIN, NV",
+  "state": "NV",
+  "latitude": 39.1400083,
+  "longitude": -116.7211639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10245925",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

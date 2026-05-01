@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03076700",
+  "key": "03076700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03076700",
+  "name": "BUFFALO RUN NEAR FRIENDSVILLE, MD",
+  "waterbody": "BUFFALO RUN NEAR FRIENDSVILLE, MD",
+  "state": "MD",
+  "latitude": 39.68888889,
+  "longitude": -79.42138889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03076700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

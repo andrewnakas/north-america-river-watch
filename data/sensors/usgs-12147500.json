@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12147500",
+  "key": "12147500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12147500",
+  "name": "NORTH FORK TOLT RIVER NEAR CARNATION, WA",
+  "waterbody": "NORTH FORK TOLT RIVER NEAR CARNATION, WA",
+  "state": "WA",
+  "latitude": 47.71232365,
+  "longitude": -121.7887272,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12147500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

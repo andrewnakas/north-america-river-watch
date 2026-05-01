@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07037000",
+  "key": "07037000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07037000",
+  "name": "Big Creek at Des Arc, MO",
+  "waterbody": "Big Creek at Des Arc, MO",
+  "state": "MO",
+  "latitude": 37.29245,
+  "longitude": -90.6290056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07037000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

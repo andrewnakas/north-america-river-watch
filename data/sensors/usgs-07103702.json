@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103702",
+  "key": "07103702",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103702",
+  "name": "CAMP CREEK ABOVE GLEN EYRIE NEAR COLO SPRINGS, CO",
+  "waterbody": "CAMP CREEK ABOVE GLEN EYRIE NEAR COLO SPRINGS, CO",
+  "state": "CO",
+  "latitude": 38.90755278,
+  "longitude": -104.9037278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103702",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

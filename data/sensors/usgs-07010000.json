@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07010000",
+  "key": "07010000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010000",
+  "name": "Mississippi River at St. Louis, MO",
+  "waterbody": "Mississippi River at St. Louis, MO",
+  "state": "MO",
+  "latitude": 38.629,
+  "longitude": -90.1797778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EADM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eadm7",
+  "slug": "usgs-07010000",
+  "noaaForecastPath": "data/noaa-forecast/EADM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

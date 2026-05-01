@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01064485",
+  "key": "01064485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01064485",
+  "name": "SWIFT RIVER 0.5 MI BL HOBBS BR, NR CONWAY, NH",
+  "waterbody": "SWIFT RIVER 0.5 MI BL HOBBS BR, NR CONWAY, NH",
+  "state": "NH",
+  "latitude": 43.99305556,
+  "longitude": -71.2075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01064485",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

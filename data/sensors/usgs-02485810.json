@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02485810",
+  "key": "02485810",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02485810",
+  "name": "BELHAVEN CREEK AT RIVERSIDE DRIVE AT JACKSON, MS",
+  "waterbody": "BELHAVEN CREEK AT RIVERSIDE DRIVE AT JACKSON, MS",
+  "state": "MS",
+  "latitude": 32.32352778,
+  "longitude": -90.1716944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JBRM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Belhaven Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jbrm6",
+  "slug": "usgs-02485810",
+  "noaaForecastPath": "data/noaa-forecast/JBRM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

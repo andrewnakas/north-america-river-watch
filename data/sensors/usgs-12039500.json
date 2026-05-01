@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12039500",
+  "key": "12039500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12039500",
+  "name": "QUINAULT RIVER AT QUINAULT LAKE, WA",
+  "waterbody": "QUINAULT RIVER AT QUINAULT LAKE, WA",
+  "state": "WA",
+  "latitude": 47.4575863,
+  "longitude": -123.8893446,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QLTW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Quinault River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qltw1",
+  "slug": "usgs-12039500",
+  "noaaForecastPath": "data/noaa-forecast/QLTW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

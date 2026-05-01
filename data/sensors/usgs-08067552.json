@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067552",
+  "key": "08067552",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067552",
+  "name": "West Sandy Ck at FM 1791 nr Richards, TX",
+  "waterbody": "West Sandy Ck at FM 1791 nr Richards, TX",
+  "state": "TX",
+  "latitude": 30.60388333,
+  "longitude": -95.7252222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067552",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.404Z"
+}

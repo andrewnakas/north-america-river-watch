@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03287600",
+  "key": "03287600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03287600",
+  "name": "N ELKHORN CR AT BRYAN STATION RD AT MONTROSE, KY",
+  "waterbody": "N ELKHORN CR AT BRYAN STATION RD AT MONTROSE, KY",
+  "state": "KY",
+  "latitude": 38.07646608,
+  "longitude": -84.4132694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03287600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

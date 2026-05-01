@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07026680",
+  "key": "07026680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07026680",
+  "name": "BAYOU DU CHIEN NR WALNUT LOG, TN",
+  "waterbody": "BAYOU DU CHIEN NR WALNUT LOG, TN",
+  "state": "TN",
+  "latitude": 36.4936111,
+  "longitude": -89.3005556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07026680",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

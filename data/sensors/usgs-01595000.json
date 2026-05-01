@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01595000",
+  "key": "01595000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01595000",
+  "name": "NORTH BRANCH POTOMAC RIVER AT STEYER, MD",
+  "waterbody": "NORTH BRANCH POTOMAC RIVER AT STEYER, MD",
+  "state": "MD",
+  "latitude": 39.30188889,
+  "longitude": -79.30688889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STYM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Potomac River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stym2",
+  "slug": "usgs-01595000",
+  "noaaForecastPath": "data/noaa-forecast/STYM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

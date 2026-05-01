@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08317400",
+  "key": "08317400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08317400",
+  "name": "RIO GRANDE BELOW COCHITI DAM, NM",
+  "waterbody": "RIO GRANDE BELOW COCHITI DAM, NM",
+  "state": "NM",
+  "latitude": 35.618,
+  "longitude": -106.3239444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTDN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctdn5",
+  "slug": "usgs-08317400",
+  "noaaForecastPath": "data/noaa-forecast/CTDN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02035000",
+  "key": "02035000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02035000",
+  "name": "JAMES RIVER AT CARTERSVILLE, VA",
+  "waterbody": "JAMES RIVER AT CARTERSVILLE, VA",
+  "state": "VA",
+  "latitude": 37.67097957,
+  "longitude": -78.0858328,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CARV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River (VA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/carv2",
+  "slug": "usgs-02035000",
+  "noaaForecastPath": "data/noaa-forecast/CARV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

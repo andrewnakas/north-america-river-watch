@@ -1,0 +1,19 @@
+{
+  "id": "usgs:463138110580001",
+  "key": "463138110580001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "463138110580001",
+  "name": "NF Smith R ab conf nr White Sulphur Springs",
+  "waterbody": "NF Smith R ab conf nr White Sulphur Springs",
+  "state": "MT",
+  "latitude": 46.52708889,
+  "longitude": -110.9666306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-463138110580001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:103366092",
+  "key": "103366092",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "103366092",
+  "name": "UPPER TRUCKEE RV AT HWY 50 ABV MEYERS, CA",
+  "waterbody": "UPPER TRUCKEE RV AT HWY 50 ABV MEYERS, CA",
+  "state": "CA",
+  "latitude": 38.8485185,
+  "longitude": -120.0271275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UTHC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upper Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/uthc1",
+  "slug": "usgs-103366092",
+  "noaaForecastPath": "data/noaa-forecast/UTHC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07020550",
+  "key": "07020550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07020550",
+  "name": "South Fork Saline Creek near Perryville, MO",
+  "waterbody": "South Fork Saline Creek near Perryville, MO",
+  "state": "MO",
+  "latitude": 37.73694444,
+  "longitude": -89.9283333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCPM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "S Fork Saline Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scpm7",
+  "slug": "usgs-07020550",
+  "noaaForecastPath": "data/noaa-forecast/SCPM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

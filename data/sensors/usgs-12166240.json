@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12166240",
+  "key": "12166240",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12166240",
+  "name": "NORTH FORK STILLAGUAMISH RIVER AT ROWAN, WA",
+  "waterbody": "NORTH FORK STILLAGUAMISH RIVER AT ROWAN, WA",
+  "state": "WA",
+  "latitude": 48.27468889,
+  "longitude": -121.8505833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12166240",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

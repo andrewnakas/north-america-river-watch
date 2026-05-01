@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14187500",
+  "key": "14187500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14187500",
+  "name": "SOUTH SANTIAM RIVER AT WATERLOO, OR",
+  "waterbody": "SOUTH SANTIAM RIVER AT WATERLOO, OR",
+  "state": "OR",
+  "latitude": 44.4984564,
+  "longitude": -122.8234214,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "S. Santiam River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtlo3",
+  "slug": "usgs-14187500",
+  "noaaForecastPath": "data/noaa-forecast/WTLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

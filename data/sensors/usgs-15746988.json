@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15746988",
+  "key": "15746988",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15746988",
+  "name": "NF RED DOG C NR KIVALINA AK",
+  "waterbody": "NF RED DOG C NR KIVALINA AK",
+  "state": "AK",
+  "latitude": 68.0835148,
+  "longitude": -162.8840664,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15746988",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.158Z"
+}

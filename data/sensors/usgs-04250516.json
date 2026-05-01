@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04250516",
+  "key": "04250516",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04250516",
+  "name": "SOUTH POND OUTLET AT SANDY POND NY",
+  "waterbody": "SOUTH POND OUTLET AT SANDY POND NY",
+  "state": "NY",
+  "latitude": 43.63088889,
+  "longitude": -76.19411111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04250516",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

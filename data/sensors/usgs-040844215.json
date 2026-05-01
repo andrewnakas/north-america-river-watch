@@ -1,0 +1,22 @@
+{
+  "id": "usgs:040844215",
+  "key": "040844215",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "040844215",
+  "name": "LITTLE LAKE BUTTE DES MORTS TRIBUTARY AT NEENAH,WI",
+  "waterbody": "LITTLE LAKE BUTTE DES MORTS TRIBUTARY AT NEENAH,WI",
+  "state": "WI",
+  "latitude": 44.19916667,
+  "longitude": -88.4769444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSKW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River (North)",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oskw3",
+  "slug": "usgs-040844215",
+  "noaaForecastPath": "data/noaa-forecast/OSKW3.json",
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10079500",
+  "key": "10079500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10079500",
+  "name": "BEAR RIVER AT ALEXANDER ID",
+  "waterbody": "BEAR RIVER AT ALEXANDER ID",
+  "state": "ID",
+  "latitude": 42.6449078,
+  "longitude": -111.6983074,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10079500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.222Z"
+}

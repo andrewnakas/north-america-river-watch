@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329935",
+  "key": "08329935",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329935",
+  "name": "ARROYO 19A AT ALBUQUERQUE, NM",
+  "waterbody": "ARROYO 19A AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.15666667,
+  "longitude": -106.7305556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329935",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

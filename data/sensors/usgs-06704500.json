@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06704500",
+  "key": "06704500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06704500",
+  "name": "DUCK CREEK NEAR GRANT COLORADO",
+  "waterbody": "DUCK CREEK NEAR GRANT COLORADO",
+  "state": "CO",
+  "latitude": 39.5302648,
+  "longitude": -105.7311175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06704500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

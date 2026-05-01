@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02043500",
+  "key": "02043500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02043500",
+  "name": "CYPRESS SWAMP AT CYPRESS CHAPEL, VA",
+  "waterbody": "CYPRESS SWAMP AT CYPRESS CHAPEL, VA",
+  "state": "VA",
+  "latitude": 36.6234846,
+  "longitude": -76.6016182,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02043500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.423Z"
+}

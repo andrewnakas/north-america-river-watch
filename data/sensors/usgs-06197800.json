@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06197800",
+  "key": "06197800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06197800",
+  "name": "East Boulder River bl Dry Fork Cr nr Mcleod, MT",
+  "waterbody": "East Boulder River bl Dry Fork Cr nr Mcleod, MT",
+  "state": "MT",
+  "latitude": 45.5123333,
+  "longitude": -110.0877222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EBRM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Boulder River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ebrm8",
+  "slug": "usgs-06197800",
+  "noaaForecastPath": "data/noaa-forecast/EBRM8.json",
+  "generatedAt": "2026-05-01T12:10:11.288Z"
+}

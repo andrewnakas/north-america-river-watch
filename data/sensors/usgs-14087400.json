@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14087400",
+  "key": "14087400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14087400",
+  "name": "CROOKED RIVER BELOW OPAL SPRINGS, NEAR CULVER, OR",
+  "waterbody": "CROOKED RIVER BELOW OPAL SPRINGS, NEAR CULVER, OR",
+  "state": "OR",
+  "latitude": 44.4923407,
+  "longitude": -121.298377,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14087400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

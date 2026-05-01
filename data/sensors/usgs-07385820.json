@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07385820",
+  "key": "07385820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07385820",
+  "name": "Bayou Teche W of Calumet Flood Gate at Calumet, LA",
+  "waterbody": "Bayou Teche W of Calumet Flood Gate at Calumet, LA",
+  "state": "LA",
+  "latitude": 29.70409736,
+  "longitude": -91.3728854,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07385820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.254Z"
+}

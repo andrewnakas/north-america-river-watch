@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11449255",
+  "key": "11449255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11449255",
+  "name": "SCOTTS C AB STATE ROUTE 29 A UPPER LAKE CA",
+  "waterbody": "SCOTTS C AB STATE ROUTE 29 A UPPER LAKE CA",
+  "state": "CA",
+  "latitude": 39.1576361,
+  "longitude": -122.9207333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11449255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212427947",
+  "key": "0212427947",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212427947",
+  "name": "REEDY CREEK AT SR 2803 NR CHARLOTTE, NC",
+  "waterbody": "REEDY CREEK AT SR 2803 NR CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.25634444,
+  "longitude": -80.7006944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "REYN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reedy Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/reyn7",
+  "slug": "usgs-0212427947",
+  "noaaForecastPath": "data/noaa-forecast/REYN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

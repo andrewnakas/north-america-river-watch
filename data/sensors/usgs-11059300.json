@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11059300",
+  "key": "11059300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11059300",
+  "name": "SANTA ANA R A E ST NR SAN BERNARDINO CA",
+  "waterbody": "SANTA ANA R A E ST NR SAN BERNARDINO CA",
+  "state": "CA",
+  "latitude": 34.0650131,
+  "longitude": -117.3003208,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SREC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Ana River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srec1",
+  "slug": "usgs-11059300",
+  "noaaForecastPath": "data/noaa-forecast/SREC1.json",
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

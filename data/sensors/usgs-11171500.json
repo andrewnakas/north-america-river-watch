@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11171500",
+  "key": "11171500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11171500",
+  "name": "COYOTE C NR EDENVALE CA",
+  "waterbody": "COYOTE C NR EDENVALE CA",
+  "state": "CA",
+  "latitude": 37.27094444,
+  "longitude": -121.7976944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CYEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Coyote Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cyec1",
+  "slug": "usgs-11171500",
+  "noaaForecastPath": "data/noaa-forecast/CYEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

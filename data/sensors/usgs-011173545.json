@@ -1,0 +1,19 @@
+{
+  "id": "usgs:011173545",
+  "key": "011173545",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "011173545",
+  "name": "QUEEN R 1400 FT UPSTR WM REYNOLDS RD AT EXETER RI",
+  "waterbody": "QUEEN R 1400 FT UPSTR WM REYNOLDS RD AT EXETER RI",
+  "state": "RI",
+  "latitude": 41.5658333,
+  "longitude": -71.5475,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-011173545",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

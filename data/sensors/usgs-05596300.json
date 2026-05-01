@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05596300",
+  "key": "05596300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05596300",
+  "name": "MIDDLE FORK BIG MUDDY RIVER NEAR MACEDONIA, IL",
+  "waterbody": "MIDDLE FORK BIG MUDDY RIVER NEAR MACEDONIA, IL",
+  "state": "IL",
+  "latitude": 38.0486111,
+  "longitude": -88.7602778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05596300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.233Z"
+}

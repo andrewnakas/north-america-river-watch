@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06445700",
+  "key": "06445700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06445700",
+  "name": "WHITE RIVER AT SLIM BUTTE, SD",
+  "waterbody": "WHITE RIVER AT SLIM BUTTE, SD",
+  "state": "SD",
+  "latitude": 43.08970356,
+  "longitude": -102.7982327,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06445700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

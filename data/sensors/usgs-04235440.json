@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04235440",
+  "key": "04235440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04235440",
+  "name": "OWASCO OUTLET AT GENESEE ST., AUBURN NY",
+  "waterbody": "OWASCO OUTLET AT GENESEE ST., AUBURN NY",
+  "state": "NY",
+  "latitude": 42.93238889,
+  "longitude": -76.5635556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AUON6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Owasco Outlet",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/auon6",
+  "slug": "usgs-04235440",
+  "noaaForecastPath": "data/noaa-forecast/AUON6.json",
+  "generatedAt": "2026-05-01T12:10:11.322Z"
+}

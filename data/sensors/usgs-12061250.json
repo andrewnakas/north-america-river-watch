@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12061250",
+  "key": "12061250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12061250",
+  "name": "VANCE CREEK ABOVE KIRKLAND CREEK NEAR POTLATCH, WA",
+  "waterbody": "VANCE CREEK ABOVE KIRKLAND CREEK NEAR POTLATCH, WA",
+  "state": "WA",
+  "latitude": 47.32251389,
+  "longitude": -123.2860972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12061250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

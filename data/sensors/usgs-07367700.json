@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07367700",
+  "key": "07367700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07367700",
+  "name": "Boeuf River near AR/LA State Line",
+  "waterbody": "Boeuf River near AR/LA State Line",
+  "state": "LA",
+  "latitude": 32.97305556,
+  "longitude": -91.4419444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07367700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.252Z"
+}

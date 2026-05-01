@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04093500",
+  "key": "04093500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04093500",
+  "name": "BURNS DITCH AT GARY, IND.",
+  "waterbody": "BURNS DITCH AT GARY, IND.",
+  "state": "IN",
+  "latitude": 41.57501667,
+  "longitude": -87.288894,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04093500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.237Z"
+}

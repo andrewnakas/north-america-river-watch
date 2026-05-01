@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03461500",
+  "key": "03461500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03461500",
+  "name": "PIGEON RIVER AT NEWPORT, TN",
+  "waterbody": "PIGEON RIVER AT NEWPORT, TN",
+  "state": "TN",
+  "latitude": 35.96064907,
+  "longitude": -83.1743217,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEPT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pigeon River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nept1",
+  "slug": "usgs-03461500",
+  "noaaForecastPath": "data/noaa-forecast/NEPT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

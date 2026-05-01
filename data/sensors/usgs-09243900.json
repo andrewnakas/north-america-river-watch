@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09243900",
+  "key": "09243900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09243900",
+  "name": "FOIDEL CREEK AT MOUTH NEAR OAK CREEK, CO",
+  "waterbody": "FOIDEL CREEK AT MOUTH NEAR OAK CREEK, CO",
+  "state": "CO",
+  "latitude": 40.39025545,
+  "longitude": -106.9947738,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09243900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06302200",
+  "key": "06302200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06302200",
+  "name": "BIG GOOSE CREEK ABOVE PARK CREEK, NEAR SHERIDAN,WY",
+  "waterbody": "BIG GOOSE CREEK ABOVE PARK CREEK, NEAR SHERIDAN,WY",
+  "state": "WY",
+  "latitude": 44.7430254,
+  "longitude": -107.1297946,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06302200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

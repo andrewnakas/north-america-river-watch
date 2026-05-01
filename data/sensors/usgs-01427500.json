@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01427500",
+  "key": "01427500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01427500",
+  "name": "CALLICOON CREEK AT CALLICOON NY",
+  "waterbody": "CALLICOON CREEK AT CALLICOON NY",
+  "state": "NY",
+  "latitude": 41.76055556,
+  "longitude": -75.04838889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCRN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccrn6",
+  "slug": "usgs-01427500",
+  "noaaForecastPath": "data/noaa-forecast/CCRN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

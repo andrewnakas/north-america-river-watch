@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08120500",
+  "key": "08120500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08120500",
+  "name": "Deep Ck nr Dunn, TX",
+  "waterbody": "Deep Ck nr Dunn, TX",
+  "state": "TX",
+  "latitude": 32.57372368,
+  "longitude": -100.9078941,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DEET2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deep Creek 1 mile W of Dunn",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/deet2",
+  "slug": "usgs-08120500",
+  "noaaForecastPath": "data/noaa-forecast/DEET2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

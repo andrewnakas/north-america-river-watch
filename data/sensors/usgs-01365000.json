@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01365000",
+  "key": "01365000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01365000",
+  "name": "RONDOUT CREEK NEAR LOWES CORNERS NY",
+  "waterbody": "RONDOUT CREEK NEAR LOWES CORNERS NY",
+  "state": "NY",
+  "latitude": 41.866139,
+  "longitude": -74.487278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LWSN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rondout Creek Near Lowes Corner",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lwsn6",
+  "slug": "usgs-01365000",
+  "noaaForecastPath": "data/noaa-forecast/LWSN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11497500",
+  "key": "11497500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11497500",
+  "name": "SPRAGUE RIVER NEAR BEATTY, OR",
+  "waterbody": "SPRAGUE RIVER NEAR BEATTY, OR",
+  "state": "OR",
+  "latitude": 42.44775,
+  "longitude": -121.2385278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTYO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sprague River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btyo3",
+  "slug": "usgs-11497500",
+  "noaaForecastPath": "data/noaa-forecast/BTYO3.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

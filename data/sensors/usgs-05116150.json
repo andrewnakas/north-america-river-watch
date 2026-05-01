@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05116150",
+  "key": "05116150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05116150",
+  "name": "DES LACS RIVER NEAR KENMARE, ND",
+  "waterbody": "DES LACS RIVER NEAR KENMARE, ND",
+  "state": "ND",
+  "latitude": 48.58967728,
+  "longitude": -101.9974985,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05116150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

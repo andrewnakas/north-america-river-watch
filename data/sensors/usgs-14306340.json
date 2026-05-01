@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14306340",
+  "key": "14306340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14306340",
+  "name": "EAST FORK LOBSTER CREEK NEAR ALSEA, OR.",
+  "waterbody": "EAST FORK LOBSTER CREEK NEAR ALSEA, OR.",
+  "state": "OR",
+  "latitude": 44.24789909,
+  "longitude": -123.6364936,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOBO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "E Fk Lobster Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lobo3",
+  "slug": "usgs-14306340",
+  "noaaForecastPath": "data/noaa-forecast/LOBO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06929900",
+  "key": "06929900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06929900",
+  "name": "Falls Hollow Trib at FLW(Outfall 21)",
+  "waterbody": "Falls Hollow Trib at FLW(Outfall 21)",
+  "state": "MO",
+  "latitude": 37.6461111,
+  "longitude": -92.1025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06929900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

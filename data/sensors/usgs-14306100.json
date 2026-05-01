@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14306100",
+  "key": "14306100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14306100",
+  "name": "NORTH FORK ALSEA RIVER AT ALSEA, OR",
+  "waterbody": "NORTH FORK ALSEA RIVER AT ALSEA, OR",
+  "state": "OR",
+  "latitude": 44.3790098,
+  "longitude": -123.5956608,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14306100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

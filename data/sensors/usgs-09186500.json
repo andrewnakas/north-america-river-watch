@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09186500",
+  "key": "09186500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09186500",
+  "name": "INDIAN C AB COTTONWOOD CREEK, NR MONTICELLO, UT",
+  "waterbody": "INDIAN C AB COTTONWOOD CREEK, NR MONTICELLO, UT",
+  "state": "UT",
+  "latitude": 37.9722137,
+  "longitude": -109.5192888,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09186500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

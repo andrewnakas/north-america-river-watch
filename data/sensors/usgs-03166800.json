@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03166800",
+  "key": "03166800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03166800",
+  "name": "GLADE CREEK AT GRAHAMS FORGE, VA",
+  "waterbody": "GLADE CREEK AT GRAHAMS FORGE, VA",
+  "state": "VA",
+  "latitude": 36.9309545,
+  "longitude": -80.9003559,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03166800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.424Z"
+}

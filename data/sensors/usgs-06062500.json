@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06062500",
+  "key": "06062500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06062500",
+  "name": "Tenmile Creek near Rimini MT",
+  "waterbody": "Tenmile Creek near Rimini MT",
+  "state": "MT",
+  "latitude": 46.5238972,
+  "longitude": -112.2566472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIMM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenmile Creek (MT)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rimm8",
+  "slug": "usgs-06062500",
+  "noaaForecastPath": "data/noaa-forecast/RIMM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

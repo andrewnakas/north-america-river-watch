@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14357500",
+  "key": "14357500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14357500",
+  "name": "BEAR CREEK AT MEDFORD, OR",
+  "waterbody": "BEAR CREEK AT MEDFORD, OR",
+  "state": "OR",
+  "latitude": 42.32401547,
+  "longitude": -122.8667057,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFDO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfdo3",
+  "slug": "usgs-14357500",
+  "noaaForecastPath": "data/noaa-forecast/MFDO3.json",
+  "generatedAt": "2026-05-01T12:10:11.350Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05515500",
+  "key": "05515500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05515500",
+  "name": "KANKAKEE RIVER AT DAVIS, IN",
+  "waterbody": "KANKAKEE RIVER AT DAVIS, IN",
+  "state": "IN",
+  "latitude": 41.38963889,
+  "longitude": -86.7061667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAVI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kankakee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/davi3",
+  "slug": "usgs-05515500",
+  "noaaForecastPath": "data/noaa-forecast/DAVI3.json",
+  "generatedAt": "2026-05-01T12:10:11.238Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07062500",
+  "key": "07062500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07062500",
+  "name": "Black River at Leeper, MO",
+  "waterbody": "Black River at Leeper, MO",
+  "state": "MO",
+  "latitude": 37.0587222,
+  "longitude": -90.687,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPRM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lprm7",
+  "slug": "usgs-07062500",
+  "noaaForecastPath": "data/noaa-forecast/LPRM7.json",
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03527000",
+  "key": "03527000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03527000",
+  "name": "CLINCH RIVER AT SPEERS FERRY, VA",
+  "waterbody": "CLINCH RIVER AT SPEERS FERRY, VA",
+  "state": "VA",
+  "latitude": 36.64870849,
+  "longitude": -82.7504384,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFYV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clinch River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfyv2",
+  "slug": "usgs-03527000",
+  "noaaForecastPath": "data/noaa-forecast/SFYV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

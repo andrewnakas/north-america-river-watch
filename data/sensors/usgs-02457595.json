@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02457595",
+  "key": "02457595",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02457595",
+  "name": "FIVEMILE CREEK NEAR REPUBLIC, AL",
+  "waterbody": "FIVEMILE CREEK NEAR REPUBLIC, AL",
+  "state": "AL",
+  "latitude": 33.5970492,
+  "longitude": -86.8680483,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "REPA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fivemile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/repa1",
+  "slug": "usgs-02457595",
+  "noaaForecastPath": "data/noaa-forecast/REPA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

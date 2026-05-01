@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09235100",
+  "key": "09235100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09235100",
+  "name": "CROUSE CREEK NEAR VERNAL, UT",
+  "waterbody": "CROUSE CREEK NEAR VERNAL, UT",
+  "state": "UT",
+  "latitude": 40.7952383,
+  "longitude": -109.0912348,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09235100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

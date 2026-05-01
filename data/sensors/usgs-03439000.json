@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03439000",
+  "key": "03439000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03439000",
+  "name": "FRENCH BROAD RIVER AT ROSMAN, NC",
+  "waterbody": "FRENCH BROAD RIVER AT ROSMAN, NC",
+  "state": "NC",
+  "latitude": 35.1433333,
+  "longitude": -82.8247222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Broad River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rosn7",
+  "slug": "usgs-03439000",
+  "noaaForecastPath": "data/noaa-forecast/ROSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

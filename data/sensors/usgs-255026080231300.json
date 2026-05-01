@@ -1,0 +1,19 @@
+{
+  "id": "usgs:255026080231300",
+  "key": "255026080231300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "255026080231300",
+  "name": "SNAPPER CREEK CNL EXT AT NW74 ST NR HIALEAH, FL",
+  "waterbody": "SNAPPER CREEK CNL EXT AT NW74 ST NR HIALEAH, FL",
+  "state": "FL",
+  "latitude": 25.84069444,
+  "longitude": -80.3863333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-255026080231300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.211Z"
+}

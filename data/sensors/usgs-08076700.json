@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08076700",
+  "key": "08076700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08076700",
+  "name": "Greens Bayou at Ley Rd, Houston, TX",
+  "waterbody": "Greens Bayou at Ley Rd, Houston, TX",
+  "state": "TX",
+  "latitude": 29.8371695,
+  "longitude": -95.2332671,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GBLT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greens Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gblt2",
+  "slug": "usgs-08076700",
+  "noaaForecastPath": "data/noaa-forecast/GBLT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

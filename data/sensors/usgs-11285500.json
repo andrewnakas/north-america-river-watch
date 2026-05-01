@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11285500",
+  "key": "11285500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11285500",
+  "name": "TUOLUMNE R A WARDS FERRY BR NR GROVELAND CA",
+  "waterbody": "TUOLUMNE R A WARDS FERRY BR NR GROVELAND CA",
+  "state": "CA",
+  "latitude": 37.8783333,
+  "longitude": -120.2947222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11285500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

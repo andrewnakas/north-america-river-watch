@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16704000",
+  "key": "16704000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16704000",
+  "name": "Wailuku River at Piihonua, HI",
+  "waterbody": "Wailuku River at Piihonua, HI",
+  "state": "HI",
+  "latitude": 19.71213889,
+  "longitude": -155.15075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLUH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wailuku River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wluh1",
+  "slug": "usgs-16704000",
+  "noaaForecastPath": "data/noaa-forecast/WLUH1.json",
+  "generatedAt": "2026-05-01T12:10:11.221Z"
+}

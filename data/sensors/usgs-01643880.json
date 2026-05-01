@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01643880",
+  "key": "01643880",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01643880",
+  "name": "BEAVERDAM CREEK AT RT 734 NEAR MOUNTVILLE, VA",
+  "waterbody": "BEAVERDAM CREEK AT RT 734 NEAR MOUNTVILLE, VA",
+  "state": "VA",
+  "latitude": 39.0377222,
+  "longitude": -77.72225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUVV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaverdam Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/muvv2",
+  "slug": "usgs-01643880",
+  "noaaForecastPath": "data/noaa-forecast/MUVV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

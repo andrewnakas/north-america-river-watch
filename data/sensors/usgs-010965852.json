@@ -1,0 +1,22 @@
+{
+  "id": "usgs:010965852",
+  "key": "010965852",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "010965852",
+  "name": "BEAVER BROOK AT NORTH PELHAM, NH",
+  "waterbody": "BEAVER BROOK AT NORTH PELHAM, NH",
+  "state": "NH",
+  "latitude": 42.78286636,
+  "longitude": -71.35367448,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NPEN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Brook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/npen3",
+  "slug": "usgs-010965852",
+  "noaaForecastPath": "data/noaa-forecast/NPEN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

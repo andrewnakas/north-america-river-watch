@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04104945",
+  "key": "04104945",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04104945",
+  "name": "WANADOGA CREEK NEAR BATTLE CREEK, MI",
+  "waterbody": "WANADOGA CREEK NEAR BATTLE CREEK, MI",
+  "state": "MI",
+  "latitude": 42.3964281,
+  "longitude": -85.13166,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WANM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wanadoga Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wanm4",
+  "slug": "usgs-04104945",
+  "noaaForecastPath": "data/noaa-forecast/WANM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

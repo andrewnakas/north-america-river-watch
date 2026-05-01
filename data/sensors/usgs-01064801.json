@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01064801",
+  "key": "01064801",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01064801",
+  "name": "BEARCAMP RIVER AT SOUTH TAMWORTH, NH",
+  "waterbody": "BEARCAMP RIVER AT SOUTH TAMWORTH, NH",
+  "state": "NH",
+  "latitude": 43.83007396,
+  "longitude": -71.2878488,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCPN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bearcamp River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcpn3",
+  "slug": "usgs-01064801",
+  "noaaForecastPath": "data/noaa-forecast/BCPN3.json",
+  "generatedAt": "2026-05-01T12:10:11.299Z"
+}

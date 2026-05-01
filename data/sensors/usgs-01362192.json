@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362192",
+  "key": "01362192",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362192",
+  "name": "PANTHER MTN TRIB TO ESOPUS CR NR OLIVEREA NY",
+  "waterbody": "PANTHER MTN TRIB TO ESOPUS CR NR OLIVEREA NY",
+  "state": "NY",
+  "latitude": 42.0336111,
+  "longitude": -74.4205556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362192",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

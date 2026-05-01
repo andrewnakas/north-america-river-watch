@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01306495",
+  "key": "01306495",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01306495",
+  "name": "CONNETQUOT RIVER DISTRIBUTORY NEAR OAKDALE NY",
+  "waterbody": "CONNETQUOT RIVER DISTRIBUTORY NEAR OAKDALE NY",
+  "state": "NY",
+  "latitude": 40.7500982,
+  "longitude": -73.1476133,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01306495",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

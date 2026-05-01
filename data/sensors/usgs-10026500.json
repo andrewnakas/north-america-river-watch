@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10026500",
+  "key": "10026500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10026500",
+  "name": "BEAR RIVER NEAR RANDOLPH, UT",
+  "waterbody": "BEAR RIVER NEAR RANDOLPH, UT",
+  "state": "UT",
+  "latitude": 41.79813889,
+  "longitude": -111.0706111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10026500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

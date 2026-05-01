@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02368000",
+  "key": "02368000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02368000",
+  "name": "YELLOW RIVER AT MILLIGAN, FLA.",
+  "waterbody": "YELLOW RIVER AT MILLIGAN, FLA.",
+  "state": "FL",
+  "latitude": 30.7529664,
+  "longitude": -86.6291207,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLGF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow River (AL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlgf1",
+  "slug": "usgs-02368000",
+  "noaaForecastPath": "data/noaa-forecast/MLGF1.json",
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08189500",
+  "key": "08189500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08189500",
+  "name": "Mission Rv at Refugio, TX",
+  "waterbody": "Mission Rv at Refugio, TX",
+  "state": "TX",
+  "latitude": 28.29193875,
+  "longitude": -97.2791751,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "REFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mission River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/reft2",
+  "slug": "usgs-08189500",
+  "noaaForecastPath": "data/noaa-forecast/REFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.412Z"
+}

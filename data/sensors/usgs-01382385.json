@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01382385",
+  "key": "01382385",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01382385",
+  "name": "Pequannock River at Green Pond Junction NJ",
+  "waterbody": "Pequannock River at Green Pond Junction NJ",
+  "state": "NJ",
+  "latitude": 41.02472222,
+  "longitude": -74.40833333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GPJN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pequannock River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gpjn4",
+  "slug": "usgs-01382385",
+  "noaaForecastPath": "data/noaa-forecast/GPJN4.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

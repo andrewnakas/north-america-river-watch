@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03352875",
+  "key": "03352875",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03352875",
+  "name": "FALL CREEK AT 16TH STREET AT INDIANAPOLIS, IN",
+  "waterbody": "FALL CREEK AT 16TH STREET AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.78877778,
+  "longitude": -86.1774722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCSI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fall Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcsi3",
+  "slug": "usgs-03352875",
+  "noaaForecastPath": "data/noaa-forecast/FCSI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

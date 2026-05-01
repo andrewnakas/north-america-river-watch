@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01589330",
+  "key": "01589330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01589330",
+  "name": "DEAD RUN AT FRANKLINTOWN, MD",
+  "waterbody": "DEAD RUN AT FRANKLINTOWN, MD",
+  "state": "MD",
+  "latitude": 39.31122222,
+  "longitude": -76.71663889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRFM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dead Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drfm2",
+  "slug": "usgs-01589330",
+  "noaaForecastPath": "data/noaa-forecast/DRFM2.json",
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

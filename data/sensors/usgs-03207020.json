@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03207020",
+  "key": "03207020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03207020",
+  "name": "TWELVEPOLE CREEK BELOW WAYNE, WV",
+  "waterbody": "TWELVEPOLE CREEK BELOW WAYNE, WV",
+  "state": "WV",
+  "latitude": 38.24897409,
+  "longitude": -82.4343191,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAYW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Twelvepole Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wayw2",
+  "slug": "usgs-03207020",
+  "noaaForecastPath": "data/noaa-forecast/WAYW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

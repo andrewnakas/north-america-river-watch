@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08014500",
+  "key": "08014500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08014500",
+  "name": "Ouiska Chitto Creek Near Oberlin, LA",
+  "waterbody": "Ouiska Chitto Creek Near Oberlin, LA",
+  "state": "LA",
+  "latitude": 30.69875,
+  "longitude": -92.8931944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTTL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whisky Chitto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mttl1",
+  "slug": "usgs-08014500",
+  "noaaForecastPath": "data/noaa-forecast/MTTL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

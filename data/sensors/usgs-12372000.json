@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12372000",
+  "key": "12372000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12372000",
+  "name": "Flathead River near Polson MT",
+  "waterbody": "Flathead River near Polson MT",
+  "state": "MT",
+  "latitude": 47.6802861,
+  "longitude": -114.2467278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FPOM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flathead River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fpom8",
+  "slug": "usgs-12372000",
+  "noaaForecastPath": "data/noaa-forecast/FPOM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

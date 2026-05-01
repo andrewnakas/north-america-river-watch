@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06889585",
+  "key": "06889585",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06889585",
+  "name": "SHUNGANUNGA C AT GAGE BLVD, TOPEKA, KS",
+  "waterbody": "SHUNGANUNGA C AT GAGE BLVD, TOPEKA, KS",
+  "state": "KS",
+  "latitude": 39.0175,
+  "longitude": -95.725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGBK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shunganunga Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sgbk1",
+  "slug": "usgs-06889585",
+  "noaaForecastPath": "data/noaa-forecast/SGBK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

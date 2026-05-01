@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02307668",
+  "key": "02307668",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02307668",
+  "name": "ALLIGATOR CREEK BELOW BELCHER RD AT CLEARWATER FL",
+  "waterbody": "ALLIGATOR CREEK BELOW BELCHER RD AT CLEARWATER FL",
+  "state": "FL",
+  "latitude": 27.9797421,
+  "longitude": -82.7423232,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALCF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alligator Creek Below Belcher Rd",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alcf1",
+  "slug": "usgs-02307668",
+  "noaaForecastPath": "data/noaa-forecast/ALCF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

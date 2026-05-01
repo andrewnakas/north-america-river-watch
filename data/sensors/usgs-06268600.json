@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06268600",
+  "key": "06268600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06268600",
+  "name": "BIGHORN RIVER AT WORLAND, WY",
+  "waterbody": "BIGHORN RIVER AT WORLAND, WY",
+  "state": "WY",
+  "latitude": 44.01464558,
+  "longitude": -107.9695955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BHWW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bighorn River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bhww4",
+  "slug": "usgs-06268600",
+  "noaaForecastPath": "data/noaa-forecast/BHWW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

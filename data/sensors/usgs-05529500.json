@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05529500",
+  "key": "05529500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05529500",
+  "name": "MC DONALD CREEK NEAR MOUNT PROSPECT, IL",
+  "waterbody": "MC DONALD CREEK NEAR MOUNT PROSPECT, IL",
+  "state": "IL",
+  "latitude": 42.09530499,
+  "longitude": -87.9128462,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "McDonald Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcdi2",
+  "slug": "usgs-05529500",
+  "noaaForecastPath": "data/noaa-forecast/MCDI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

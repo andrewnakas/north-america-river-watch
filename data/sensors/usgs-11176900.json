@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11176900",
+  "key": "11176900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11176900",
+  "name": "ARROYO DE LA LAGUNA A VERONA CA",
+  "waterbody": "ARROYO DE LA LAGUNA A VERONA CA",
+  "state": "CA",
+  "latitude": 37.62659915,
+  "longitude": -121.8830126,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ADLC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Arroyo de la Laguna",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/adlc1",
+  "slug": "usgs-11176900",
+  "noaaForecastPath": "data/noaa-forecast/ADLC1.json",
+  "generatedAt": "2026-05-01T12:10:11.174Z"
+}

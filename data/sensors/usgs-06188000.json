@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06188000",
+  "key": "06188000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06188000",
+  "name": "Lamar River nr Tower Ranger Station YNP",
+  "waterbody": "Lamar River nr Tower Ranger Station YNP",
+  "state": "WY",
+  "latitude": 44.92817778,
+  "longitude": -110.3942694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TFLW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lamar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tflw4",
+  "slug": "usgs-06188000",
+  "noaaForecastPath": "data/noaa-forecast/TFLW4.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

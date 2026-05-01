@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08185040",
+  "key": "08185040",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08185040",
+  "name": "Cibolo Ck nr Bubbling Springs Rd, Schertz, TX",
+  "waterbody": "Cibolo Ck nr Bubbling Springs Rd, Schertz, TX",
+  "state": "TX",
+  "latitude": 29.55093333,
+  "longitude": -98.25383889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08185040",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

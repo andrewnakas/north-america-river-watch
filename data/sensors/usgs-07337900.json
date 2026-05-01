@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07337900",
+  "key": "07337900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07337900",
+  "name": "Glover River near Glover, OK",
+  "waterbody": "Glover River near Glover, OK",
+  "state": "OK",
+  "latitude": 34.09760677,
+  "longitude": -94.9021667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLOO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Glover River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gloo2",
+  "slug": "usgs-07337900",
+  "noaaForecastPath": "data/noaa-forecast/GLOO2.json",
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

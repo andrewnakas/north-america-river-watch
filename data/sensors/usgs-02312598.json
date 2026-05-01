@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312598",
+  "key": "02312598",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312598",
+  "name": "WITHLACOOCHEE RIVER NR PINEOLA, FL",
+  "waterbody": "WITHLACOOCHEE RIVER NR PINEOLA, FL",
+  "state": "FL",
+  "latitude": 28.7241557,
+  "longitude": -82.2423118,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNLF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Withlacoochee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnlf1",
+  "slug": "usgs-02312598",
+  "noaaForecastPath": "data/noaa-forecast/PNLF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

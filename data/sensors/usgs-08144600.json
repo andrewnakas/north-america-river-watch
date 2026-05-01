@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08144600",
+  "key": "08144600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08144600",
+  "name": "San Saba Rv nr Brady, TX",
+  "waterbody": "San Saba Rv nr Brady, TX",
+  "state": "TX",
+  "latitude": 31.0040595,
+  "longitude": -99.2689437,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BSST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Saba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bsst2",
+  "slug": "usgs-08144600",
+  "noaaForecastPath": "data/noaa-forecast/BSST2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

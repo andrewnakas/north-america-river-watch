@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02358000",
+  "key": "02358000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02358000",
+  "name": "APALACHICOLA RIVER AT CHATTAHOOCHEE FLA",
+  "waterbody": "APALACHICOLA RIVER AT CHATTAHOOCHEE FLA",
+  "state": "FL",
+  "latitude": 30.7010251,
+  "longitude": -84.8590871,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHAF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apalachicola River",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chaf1",
+  "slug": "usgs-02358000",
+  "noaaForecastPath": "data/noaa-forecast/CHAF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01644388",
+  "key": "01644388",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644388",
+  "name": "TENMILE CREEK NEAR CLARKSBURG, MD",
+  "waterbody": "TENMILE CREEK NEAR CLARKSBURG, MD",
+  "state": "MD",
+  "latitude": 39.22338889,
+  "longitude": -77.31225,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTMM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ten Mile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctmm2",
+  "slug": "usgs-01644388",
+  "noaaForecastPath": "data/noaa-forecast/CTMM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

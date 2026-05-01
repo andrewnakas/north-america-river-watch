@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50063500",
+  "key": "50063500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50063500",
+  "name": "QUEBRADA TORONJA AT EL VERDE, PR",
+  "waterbody": "QUEBRADA TORONJA AT EL VERDE, PR",
+  "state": "PR",
+  "latitude": 18.3266186,
+  "longitude": -65.8201633,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50063500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

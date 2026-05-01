@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04280450",
+  "key": "04280450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04280450",
+  "name": "METTAWEE RIVER NEAR MIDDLE GRANVILLE NY",
+  "waterbody": "METTAWEE RIVER NEAR MIDDLE GRANVILLE NY",
+  "state": "NY",
+  "latitude": 43.46394444,
+  "longitude": -73.2845,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GVVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mettawee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gvvn6",
+  "slug": "usgs-04280450",
+  "noaaForecastPath": "data/noaa-forecast/GVVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

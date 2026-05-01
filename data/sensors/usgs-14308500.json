@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14308500",
+  "key": "14308500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14308500",
+  "name": "ELK CREEK NR DREW, OR",
+  "waterbody": "ELK CREEK NR DREW, OR",
+  "state": "OR",
+  "latitude": 42.89012159,
+  "longitude": -122.9178303,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14308500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

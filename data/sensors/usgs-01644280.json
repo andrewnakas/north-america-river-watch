@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01644280",
+  "key": "01644280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644280",
+  "name": "BROAD RUN NEAR LEESBURG, VA",
+  "waterbody": "BROAD RUN NEAR LEESBURG, VA",
+  "state": "VA",
+  "latitude": 39.04641667,
+  "longitude": -77.43238889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRGV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Broad Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrgv2",
+  "slug": "usgs-01644280",
+  "noaaForecastPath": "data/noaa-forecast/LRGV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

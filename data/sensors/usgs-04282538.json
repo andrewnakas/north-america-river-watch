@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04282538",
+  "key": "04282538",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04282538",
+  "name": "LEMON FAIR R BLW SHACKSBORO RD, NR SHOREHAM, VT",
+  "waterbody": "LEMON FAIR R BLW SHACKSBORO RD, NR SHOREHAM, VT",
+  "state": "VT",
+  "latitude": 43.9111111,
+  "longitude": -73.2753111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMFV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lemon Fair River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmfv1",
+  "slug": "usgs-04282538",
+  "noaaForecastPath": "data/noaa-forecast/LMFV1.json",
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

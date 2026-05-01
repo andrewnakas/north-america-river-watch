@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03208000",
+  "key": "03208000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03208000",
+  "name": "LEVISA FORK BELOW FISHTRAP DAM NEAR MILLARD, KY",
+  "waterbody": "LEVISA FORK BELOW FISHTRAP DAM NEAR MILLARD, KY",
+  "state": "KY",
+  "latitude": 37.42593725,
+  "longitude": -82.4123701,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FTLK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Levisa Fork",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ftlk2",
+  "slug": "usgs-03208000",
+  "noaaForecastPath": "data/noaa-forecast/FTLK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

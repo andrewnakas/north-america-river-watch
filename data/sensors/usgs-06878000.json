@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06878000",
+  "key": "06878000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06878000",
+  "name": "CHAPMAN C NR CHAPMAN, KS",
+  "waterbody": "CHAPMAN C NR CHAPMAN, KS",
+  "state": "KS",
+  "latitude": 39.031109,
+  "longitude": -97.0402922,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHPK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chapman Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chpk1",
+  "slug": "usgs-06878000",
+  "noaaForecastPath": "data/noaa-forecast/CHPK1.json",
+  "generatedAt": "2026-05-01T12:10:11.243Z"
+}

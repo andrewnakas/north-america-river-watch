@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05545750",
+  "key": "05545750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05545750",
+  "name": "FOX RIVER NEAR NEW MUNSTER, WI",
+  "waterbody": "FOX RIVER NEAR NEW MUNSTER, WI",
+  "state": "WI",
+  "latitude": 42.61085116,
+  "longitude": -88.225923,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMSW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fox River",
+  "noaaStatus": "action",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmsw3",
+  "slug": "usgs-05545750",
+  "noaaForecastPath": "data/noaa-forecast/NMSW3.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11299997",
+  "key": "11299997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11299997",
+  "name": "STANISLAUS R BL TULLOCH PP NR KNIGHTS FERRY CA",
+  "waterbody": "STANISLAUS R BL TULLOCH PP NR KNIGHTS FERRY CA",
+  "state": "CA",
+  "latitude": 37.87603788,
+  "longitude": -120.6052025,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11299997",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03159500",
+  "key": "03159500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03159500",
+  "name": "Hocking River at Athens OH",
+  "waterbody": "Hocking River at Athens OH",
+  "state": "OH",
+  "latitude": 39.32896188,
+  "longitude": -82.0876439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ATHO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hocking River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/atho1",
+  "slug": "usgs-03159500",
+  "noaaForecastPath": "data/noaa-forecast/ATHO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

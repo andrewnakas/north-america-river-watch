@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08036500",
+  "key": "08036500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08036500",
+  "name": "Angelina Rv nr Alto, TX",
+  "waterbody": "Angelina Rv nr Alto, TX",
+  "state": "TX",
+  "latitude": 31.67184364,
+  "longitude": -94.9527152,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALOT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Angelina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alot2",
+  "slug": "usgs-08036500",
+  "noaaForecastPath": "data/noaa-forecast/ALOT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

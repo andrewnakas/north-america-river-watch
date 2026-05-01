@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03180500",
+  "key": "03180500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03180500",
+  "name": "GREENBRIER RIVER AT DURBIN, WV",
+  "waterbody": "GREENBRIER RIVER AT DURBIN, WV",
+  "state": "WV",
+  "latitude": 38.54372659,
+  "longitude": -79.833115,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DRBW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Greenbrier River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/drbw2",
+  "slug": "usgs-03180500",
+  "noaaForecastPath": "data/noaa-forecast/DRBW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

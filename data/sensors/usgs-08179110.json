@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08179110",
+  "key": "08179110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08179110",
+  "name": "Red Bluff Ck at FM 1283 nr Pipe Creek, TX",
+  "waterbody": "Red Bluff Ck at FM 1283 nr Pipe Creek, TX",
+  "state": "TX",
+  "latitude": 29.6732811,
+  "longitude": -98.9603091,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBFT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Bluff Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbft2",
+  "slug": "usgs-08179110",
+  "noaaForecastPath": "data/noaa-forecast/RBFT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

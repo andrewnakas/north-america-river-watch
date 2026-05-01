@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15304400",
+  "key": "15304400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15304400",
+  "name": "TAKIKCHAK R NR NEWTOK AK",
+  "waterbody": "TAKIKCHAK R NR NEWTOK AK",
+  "state": "AK",
+  "latitude": 60.80576064,
+  "longitude": -164.59848743,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15304400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.157Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07301420",
+  "key": "07301420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07301420",
+  "name": "Sweetwater Creek near Sweetwater, OK",
+  "waterbody": "Sweetwater Creek near Sweetwater, OK",
+  "state": "OK",
+  "latitude": 35.42227237,
+  "longitude": -99.9692772,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swto2",
+  "slug": "usgs-07301420",
+  "noaaForecastPath": "data/noaa-forecast/SWTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

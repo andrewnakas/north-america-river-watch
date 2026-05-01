@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01154950",
+  "key": "01154950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01154950",
+  "name": "COLD RIVER AT HIGH STREET, AT ALSTEAD, NH",
+  "waterbody": "COLD RIVER AT HIGH STREET, AT ALSTEAD, NH",
+  "state": "NH",
+  "latitude": 43.14944444,
+  "longitude": -72.3616667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASTN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cold River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/astn3",
+  "slug": "usgs-01154950",
+  "noaaForecastPath": "data/noaa-forecast/ASTN3.json",
+  "generatedAt": "2026-05-01T12:10:11.300Z"
+}

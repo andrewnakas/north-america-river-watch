@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01117000",
+  "key": "01117000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01117000",
+  "name": "HUNT RIVER NEAR EAST GREENWICH, RI",
+  "waterbody": "HUNT RIVER NEAR EAST GREENWICH, RI",
+  "state": "RI",
+  "latitude": 41.6412122,
+  "longitude": -71.4445016,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01117000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

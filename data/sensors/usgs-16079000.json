@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16079000",
+  "key": "16079000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16079000",
+  "name": "Kapahi Ditch nr Kealia, Kauai, HI",
+  "waterbody": "Kapahi Ditch nr Kealia, Kauai, HI",
+  "state": "HI",
+  "latitude": 22.09935833,
+  "longitude": -159.3716306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16079000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

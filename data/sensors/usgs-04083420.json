@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04083420",
+  "key": "04083420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04083420",
+  "name": "PARSONS CREEK UPSTREAM SITE NEAR FOND DU LAC, WI",
+  "waterbody": "PARSONS CREEK UPSTREAM SITE NEAR FOND DU LAC, WI",
+  "state": "WI",
+  "latitude": 43.6933238,
+  "longitude": -88.4720495,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04083420",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

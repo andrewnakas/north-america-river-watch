@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06437000",
+  "key": "06437000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06437000",
+  "name": "BELLE FOURCHE RIVER NEAR STURGIS,SD",
+  "waterbody": "BELLE FOURCHE RIVER NEAR STURGIS,SD",
+  "state": "SD",
+  "latitude": 44.5130418,
+  "longitude": -103.1368464,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBFS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Belle Fourche River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbfs2",
+  "slug": "usgs-06437000",
+  "noaaForecastPath": "data/noaa-forecast/SBFS2.json",
+  "generatedAt": "2026-05-01T12:10:11.381Z"
+}

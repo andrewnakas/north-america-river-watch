@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09407000",
+  "key": "09407000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09407000",
+  "name": "ASH CREEK ABOVE TOQUERVILLE, UTAH",
+  "waterbody": "ASH CREEK ABOVE TOQUERVILLE, UTAH",
+  "state": "UT",
+  "latitude": 37.26664895,
+  "longitude": -113.2793929,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09407000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.415Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01111300",
+  "key": "01111300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01111300",
+  "name": "NIPMUC RIVER NEAR HARRISVILLE, RI",
+  "waterbody": "NIPMUC RIVER NEAR HARRISVILLE, RI",
+  "state": "RI",
+  "latitude": 41.9812093,
+  "longitude": -71.68590049,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01111300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

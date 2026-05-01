@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07377780",
+  "key": "07377780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07377780",
+  "name": "White Bayou at State Hwy 64 near Zachary, LA",
+  "waterbody": "White Bayou at State Hwy 64 near Zachary, LA",
+  "state": "LA",
+  "latitude": 30.6493524,
+  "longitude": -91.1314954,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07377780",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

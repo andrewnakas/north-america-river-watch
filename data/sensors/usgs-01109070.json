@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01109070",
+  "key": "01109070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109070",
+  "name": "SEGREGANSET RIVER NEAR DIGHTON, MA",
+  "waterbody": "SEGREGANSET RIVER NEAR DIGHTON, MA",
+  "state": "MA",
+  "latitude": 41.840379,
+  "longitude": -71.142824,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DIGM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Segregansett River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/digm3",
+  "slug": "usgs-01109070",
+  "noaaForecastPath": "data/noaa-forecast/DIGM3.json",
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

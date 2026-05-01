@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11447360",
+  "key": "11447360",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11447360",
+  "name": "ARCADE C NR DEL PASO HEIGHTS CA",
+  "waterbody": "ARCADE C NR DEL PASO HEIGHTS CA",
+  "state": "CA",
+  "latitude": 38.6418268,
+  "longitude": -121.3826961,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11447360",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

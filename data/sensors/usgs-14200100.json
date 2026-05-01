@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14200100",
+  "key": "14200100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14200100",
+  "name": "DRIFT CREEK NEAR SILVERTON, OR",
+  "waterbody": "DRIFT CREEK NEAR SILVERTON, OR",
+  "state": "OR",
+  "latitude": 44.97680556,
+  "longitude": -122.830111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Drift Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcso3",
+  "slug": "usgs-14200100",
+  "noaaForecastPath": "data/noaa-forecast/DCSO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

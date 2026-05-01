@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01173000",
+  "key": "01173000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01173000",
+  "name": "WARE RIVER AT INTAKE WORKS NEAR BARRE, MA",
+  "waterbody": "WARE RIVER AT INTAKE WORKS NEAR BARRE, MA",
+  "state": "MA",
+  "latitude": 42.39120167,
+  "longitude": -72.0650774,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01173000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07061000",
+  "key": "07061000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07061000",
+  "name": "White River at Batesville, AR",
+  "waterbody": "White River at Batesville, AR",
+  "state": "AR",
+  "latitude": 35.76027778,
+  "longitude": -91.6411111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAGA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/baga4",
+  "slug": "usgs-07061000",
+  "noaaForecastPath": "data/noaa-forecast/BAGA4.json",
+  "generatedAt": "2026-05-01T12:10:11.165Z"
+}

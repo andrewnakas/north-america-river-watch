@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03473000",
+  "key": "03473000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03473000",
+  "name": "S F HOLSTON RIVER NEAR DAMASCUS, VA",
+  "waterbody": "S F HOLSTON RIVER NEAR DAMASCUS, VA",
+  "state": "VA",
+  "latitude": 36.65178127,
+  "longitude": -81.8440102,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VSTV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Holston River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vstv2",
+  "slug": "usgs-03473000",
+  "noaaForecastPath": "data/noaa-forecast/VSTV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

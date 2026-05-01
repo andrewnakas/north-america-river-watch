@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07032200",
+  "key": "07032200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07032200",
+  "name": "NONCONNAH CREEK NEAR GERMANTOWN, TN",
+  "waterbody": "NONCONNAH CREEK NEAR GERMANTOWN, TN",
+  "state": "TN",
+  "latitude": 35.04982264,
+  "longitude": -89.818971,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NONT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nonconnah Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nont1",
+  "slug": "usgs-07032200",
+  "noaaForecastPath": "data/noaa-forecast/NONT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

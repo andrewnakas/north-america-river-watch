@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07380200",
+  "key": "07380200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07380200",
+  "name": "Amite River near French Settlement, LA",
+  "waterbody": "Amite River near French Settlement, LA",
+  "state": "LA",
+  "latitude": 30.2754733,
+  "longitude": -90.7792616,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSLL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amite River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fsll1",
+  "slug": "usgs-07380200",
+  "noaaForecastPath": "data/noaa-forecast/FSLL1.json",
+  "generatedAt": "2026-05-01T12:10:11.253Z"
+}

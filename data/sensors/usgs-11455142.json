@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455142",
+  "key": "11455142",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455142",
+  "name": "SACRAMENTO R DEEP WATER SHIP CHANNEL NR COURTLAND",
+  "waterbody": "SACRAMENTO R DEEP WATER SHIP CHANNEL NR COURTLAND",
+  "state": "CA",
+  "latitude": 38.34166667,
+  "longitude": -121.6438889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455142",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

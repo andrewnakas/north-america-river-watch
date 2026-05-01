@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01409280",
+  "key": "01409280",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01409280",
+  "name": "Westecunk Creek at Stafford Forge NJ",
+  "waterbody": "Westecunk Creek at Stafford Forge NJ",
+  "state": "NJ",
+  "latitude": 39.66666667,
+  "longitude": -74.32027778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STFN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Westecunk Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stfn4",
+  "slug": "usgs-01409280",
+  "noaaForecastPath": "data/noaa-forecast/STFN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04165710",
+  "key": "04165710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04165710",
+  "name": "DETROIT RIVER AT FORT WAYNE AT DETROIT, MI",
+  "waterbody": "DETROIT RIVER AT FORT WAYNE AT DETROIT, MI",
+  "state": "MI",
+  "latitude": 42.2980939,
+  "longitude": -83.0926997,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04165710",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

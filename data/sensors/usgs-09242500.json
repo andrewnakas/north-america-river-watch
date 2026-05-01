@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09242500",
+  "key": "09242500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09242500",
+  "name": "ELK RIVER NEAR MILNER, CO.",
+  "waterbody": "ELK RIVER NEAR MILNER, CO.",
+  "state": "CO",
+  "latitude": 40.51468126,
+  "longitude": -106.95397069,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ENMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/enmc2",
+  "slug": "usgs-09242500",
+  "noaaForecastPath": "data/noaa-forecast/ENMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

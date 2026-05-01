@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06026500",
+  "key": "06026500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06026500",
+  "name": "Jefferson River near Twin Bridges, MT",
+  "waterbody": "Jefferson River near Twin Bridges, MT",
+  "state": "MT",
+  "latitude": 45.613283,
+  "longitude": -112.329397,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWIM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jefferson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twim8",
+  "slug": "usgs-06026500",
+  "noaaForecastPath": "data/noaa-forecast/TWIM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

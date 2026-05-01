@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06301480",
+  "key": "06301480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06301480",
+  "name": "CONEY CREEK ABOVE TWIN LAKES, NEAR BIG HORN, WY",
+  "waterbody": "CONEY CREEK ABOVE TWIN LAKES, NEAR BIG HORN, WY",
+  "state": "WY",
+  "latitude": 44.6013136,
+  "longitude": -107.3176368,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06301480",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

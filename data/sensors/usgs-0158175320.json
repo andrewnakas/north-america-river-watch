@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0158175320",
+  "key": "0158175320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0158175320",
+  "name": "WHEEL CREEK NEAR ABINGDON, MD",
+  "waterbody": "WHEEL CREEK NEAR ABINGDON, MD",
+  "state": "MD",
+  "latitude": 39.48144444,
+  "longitude": -76.34044444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABGM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wheel Creek Near Abingdon, MD",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abgm2",
+  "slug": "usgs-0158175320",
+  "noaaForecastPath": "data/noaa-forecast/ABGM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06926500",
+  "key": "06926500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06926500",
+  "name": "Osage River near St. Thomas, MO",
+  "waterbody": "Osage River near St. Thomas, MO",
+  "state": "MO",
+  "latitude": 38.3389245,
+  "longitude": -92.2262894,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06926500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

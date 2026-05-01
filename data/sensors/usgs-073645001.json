@@ -1,0 +1,22 @@
+{
+  "id": "usgs:073645001",
+  "key": "073645001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "073645001",
+  "name": "Bayou Bartholomew at Hwy 425 nr Beekman, LA",
+  "waterbody": "Bayou Bartholomew at Hwy 425 nr Beekman, LA",
+  "state": "LA",
+  "latitude": 32.87319444,
+  "longitude": -91.8681667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKML1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Bartholomew",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkml1",
+  "slug": "usgs-073645001",
+  "noaaForecastPath": "data/noaa-forecast/BKML1.json",
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

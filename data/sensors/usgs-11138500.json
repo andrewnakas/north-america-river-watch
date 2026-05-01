@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11138500",
+  "key": "11138500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11138500",
+  "name": "SISQUOC R NR SISQUOC CA",
+  "waterbody": "SISQUOC R NR SISQUOC CA",
+  "state": "CA",
+  "latitude": 34.83995556,
+  "longitude": -120.1671694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSQC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sisquoc River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssqc1",
+  "slug": "usgs-11138500",
+  "noaaForecastPath": "data/noaa-forecast/SSQC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

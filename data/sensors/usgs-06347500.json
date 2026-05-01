@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06347500",
+  "key": "06347500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06347500",
+  "name": "BIG MUDDY CREEK NEAR ALMONT, ND",
+  "waterbody": "BIG MUDDY CREEK NEAR ALMONT, ND",
+  "state": "ND",
+  "latitude": 46.69444606,
+  "longitude": -101.4673665,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06347500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

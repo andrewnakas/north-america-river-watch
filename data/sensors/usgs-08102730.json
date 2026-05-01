@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08102730",
+  "key": "08102730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08102730",
+  "name": "Leon Rv at FM 436 nr Little River-Academy, TX",
+  "waterbody": "Leon Rv at FM 436 nr Little River-Academy, TX",
+  "state": "TX",
+  "latitude": 30.99338056,
+  "longitude": -97.3935417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08102730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

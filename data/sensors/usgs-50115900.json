@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50115900",
+  "key": "50115900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50115900",
+  "name": "RIO PORTUGUES AT HWY 14 AT PONCE, PR",
+  "waterbody": "RIO PORTUGUES AT HWY 14 AT PONCE, PR",
+  "state": "PR",
+  "latitude": 18.01718753,
+  "longitude": -66.60683938,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50115900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

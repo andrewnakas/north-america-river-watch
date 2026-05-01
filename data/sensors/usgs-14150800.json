@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14150800",
+  "key": "14150800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14150800",
+  "name": "WINBERRY CREEK NEAR LOWELL,OR",
+  "waterbody": "WINBERRY CREEK NEAR LOWELL,OR",
+  "state": "OR",
+  "latitude": 43.9142924,
+  "longitude": -122.6886762,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCLO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Winberry Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wclo3",
+  "slug": "usgs-14150800",
+  "noaaForecastPath": "data/noaa-forecast/WCLO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

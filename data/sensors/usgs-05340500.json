@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05340500",
+  "key": "05340500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05340500",
+  "name": "ST. CROIX RIVER AT ST. CROIX FALLS, WI",
+  "waterbody": "ST. CROIX RIVER AT ST. CROIX FALLS, WI",
+  "state": "WI",
+  "latitude": 45.4069444,
+  "longitude": -92.6469444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCFW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Croix River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scfw3",
+  "slug": "usgs-05340500",
+  "noaaForecastPath": "data/noaa-forecast/SCFW3.json",
+  "generatedAt": "2026-05-01T12:10:11.439Z"
+}

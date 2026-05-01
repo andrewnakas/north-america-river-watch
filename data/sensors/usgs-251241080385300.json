@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251241080385300",
+  "key": "251241080385300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251241080385300",
+  "name": "UPSTREAM TAYLOR RIVER NEAR HOMESTEAD, FL",
+  "waterbody": "UPSTREAM TAYLOR RIVER NEAR HOMESTEAD, FL",
+  "state": "FL",
+  "latitude": 25.2102972,
+  "longitude": -80.6476667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251241080385300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

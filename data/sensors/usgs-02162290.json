@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02162290",
+  "key": "02162290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02162290",
+  "name": "SOUTH SALUDA RIVER NEAR CLEVELAND, SC",
+  "waterbody": "SOUTH SALUDA RIVER NEAR CLEVELAND, SC",
+  "state": "SC",
+  "latitude": 35.063481,
+  "longitude": -82.650511,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SSRS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Saluda River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ssrs1",
+  "slug": "usgs-02162290",
+  "noaaForecastPath": "data/noaa-forecast/SSRS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50128925",
+  "key": "50128925",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50128925",
+  "name": "CANAL DE RIEGO DE LAJAS BLW MAJINAS FILT. PLANT PR",
+  "waterbody": "CANAL DE RIEGO DE LAJAS BLW MAJINAS FILT. PLANT PR",
+  "state": "PR",
+  "latitude": 18.044567,
+  "longitude": -66.950094,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MJBP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canal de Riego de Lajas Blw Majinas Filtration Plant",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mjbp4",
+  "slug": "usgs-50128925",
+  "noaaForecastPath": "data/noaa-forecast/MJBP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

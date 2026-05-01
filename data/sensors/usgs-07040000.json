@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07040000",
+  "key": "07040000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07040000",
+  "name": "St. Francis River at Fisk, MO",
+  "waterbody": "St. Francis River at Fisk, MO",
+  "state": "MO",
+  "latitude": 36.7806101,
+  "longitude": -90.2028801,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FSKM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Francis River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fskm7",
+  "slug": "usgs-07040000",
+  "noaaForecastPath": "data/noaa-forecast/FSKM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

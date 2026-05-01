@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05483000",
+  "key": "05483000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05483000",
+  "name": "East Fork Hardin Creek near Churdan, IA",
+  "waterbody": "East Fork Hardin Creek near Churdan, IA",
+  "state": "IA",
+  "latitude": 42.10748116,
+  "longitude": -94.3702461,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05483000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

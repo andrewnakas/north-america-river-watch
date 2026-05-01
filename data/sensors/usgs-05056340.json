@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05056340",
+  "key": "05056340",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056340",
+  "name": "LITTLE COULEE NR LEEDS, ND",
+  "waterbody": "LITTLE COULEE NR LEEDS, ND",
+  "state": "ND",
+  "latitude": 48.2433322,
+  "longitude": -99.3729125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEDN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Coulee",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ledn8",
+  "slug": "usgs-05056340",
+  "noaaForecastPath": "data/noaa-forecast/LEDN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

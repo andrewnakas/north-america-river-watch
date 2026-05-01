@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07140000",
+  "key": "07140000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07140000",
+  "name": "ARKANSAS R NR KINSLEY, KS",
+  "waterbody": "ARKANSAS R NR KINSLEY, KS",
+  "state": "KS",
+  "latitude": 37.92779434,
+  "longitude": -99.3742817,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07140000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

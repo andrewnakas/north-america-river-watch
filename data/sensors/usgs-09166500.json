@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09166500",
+  "key": "09166500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09166500",
+  "name": "DOLORES RIVER AT DOLORES, CO.",
+  "waterbody": "DOLORES RIVER AT DOLORES, CO.",
+  "state": "CO",
+  "latitude": 37.47249579,
+  "longitude": -108.49760047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DOLC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dolores River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dolc2",
+  "slug": "usgs-09166500",
+  "noaaForecastPath": "data/noaa-forecast/DOLC2.json",
+  "generatedAt": "2026-05-01T12:10:11.188Z"
+}

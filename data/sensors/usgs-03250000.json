@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03250000",
+  "key": "03250000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03250000",
+  "name": "TRIPLETT CREEK AT MOREHEAD, KY",
+  "waterbody": "TRIPLETT CREEK AT MOREHEAD, KY",
+  "state": "KY",
+  "latitude": 38.18452604,
+  "longitude": -83.4299062,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03250000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.247Z"
+}

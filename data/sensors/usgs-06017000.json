@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06017000",
+  "key": "06017000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06017000",
+  "name": "Beaverhead River at Dillon MT",
+  "waterbody": "Beaverhead River at Dillon MT",
+  "state": "MT",
+  "latitude": 45.2183833,
+  "longitude": -112.6553333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DILM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaverhead River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dilm8",
+  "slug": "usgs-06017000",
+  "noaaForecastPath": "data/noaa-forecast/DILM8.json",
+  "generatedAt": "2026-05-01T12:10:11.285Z"
+}

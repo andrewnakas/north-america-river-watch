@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15022000",
+  "key": "15022000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15022000",
+  "name": "HARDING R NR WRANGELL AK",
+  "waterbody": "HARDING R NR WRANGELL AK",
+  "state": "AK",
+  "latitude": 56.2129778,
+  "longitude": -131.6383585,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HRWA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Harding River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hrwa2",
+  "slug": "usgs-15022000",
+  "noaaForecastPath": "data/noaa-forecast/HRWA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

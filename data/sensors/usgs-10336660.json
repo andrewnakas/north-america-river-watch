@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10336660",
+  "key": "10336660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336660",
+  "name": "BLACKWOOD C NR TAHOE CITY CA",
+  "waterbody": "BLACKWOOD C NR TAHOE CITY CA",
+  "state": "CA",
+  "latitude": 39.107385,
+  "longitude": -120.1621147,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackwood Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkdc1",
+  "slug": "usgs-10336660",
+  "noaaForecastPath": "data/noaa-forecast/BKDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08470500",
+  "key": "08470500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08470500",
+  "name": "Arroyo Colorado at FM 106, Rio Hondo, TX",
+  "waterbody": "Arroyo Colorado at FM 106, Rio Hondo, TX",
+  "state": "TX",
+  "latitude": 26.23527778,
+  "longitude": -97.58472222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08470500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04160800",
+  "key": "04160800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04160800",
+  "name": "SASHABAW CREEK NEAR DRAYTON PLAINS, MI",
+  "waterbody": "SASHABAW CREEK NEAR DRAYTON PLAINS, MI",
+  "state": "MI",
+  "latitude": 42.7200307,
+  "longitude": -83.3535509,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04160800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.268Z"
+}

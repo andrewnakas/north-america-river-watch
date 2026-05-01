@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10140700",
+  "key": "10140700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10140700",
+  "name": "OGDEN RIVER NR GIBSON AVENUE AT OGDEN, UT",
+  "waterbody": "OGDEN RIVER NR GIBSON AVENUE AT OGDEN, UT",
+  "state": "UT",
+  "latitude": 41.23181944,
+  "longitude": -111.9844972,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10140700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

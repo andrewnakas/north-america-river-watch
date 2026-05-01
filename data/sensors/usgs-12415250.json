@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12415250",
+  "key": "12415250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12415250",
+  "name": "PLUMMER CREEK NR PLUMMER ID",
+  "waterbody": "PLUMMER CREEK NR PLUMMER ID",
+  "state": "ID",
+  "latitude": 47.3594444,
+  "longitude": -116.7869444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12415250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

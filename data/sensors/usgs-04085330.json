@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04085330",
+  "key": "04085330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04085330",
+  "name": "WEST TWIN RIVER NEAR FRANCIS CREEK, WI",
+  "waterbody": "WEST TWIN RIVER NEAR FRANCIS CREEK, WI",
+  "state": "WI",
+  "latitude": 44.2149949,
+  "longitude": -87.6806408,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04085330",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

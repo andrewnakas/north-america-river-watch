@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11120600",
+  "key": "11120600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11120600",
+  "name": "JALAMA C NR LOMPOC CA",
+  "waterbody": "JALAMA C NR LOMPOC CA",
+  "state": "CA",
+  "latitude": 34.51366494,
+  "longitude": -120.48584796,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JALC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jalama Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jalc1",
+  "slug": "usgs-11120600",
+  "noaaForecastPath": "data/noaa-forecast/JALC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

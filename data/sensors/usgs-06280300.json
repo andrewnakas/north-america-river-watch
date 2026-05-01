@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06280300",
+  "key": "06280300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06280300",
+  "name": "SOUTH FORK SHOSHONE RIVER NEAR VALLEY, WY",
+  "waterbody": "SOUTH FORK SHOSHONE RIVER NEAR VALLEY, WY",
+  "state": "WY",
+  "latitude": 44.20788889,
+  "longitude": -109.55525,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLYW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Shoshone River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlyw4",
+  "slug": "usgs-06280300",
+  "noaaForecastPath": "data/noaa-forecast/VLYW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

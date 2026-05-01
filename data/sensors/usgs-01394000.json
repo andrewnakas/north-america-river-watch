@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01394000",
+  "key": "01394000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01394000",
+  "name": "West Branch Rahway River at Millburn NJ",
+  "waterbody": "West Branch Rahway River at Millburn NJ",
+  "state": "NJ",
+  "latitude": 40.73166667,
+  "longitude": -74.3075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01394000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.301Z"
+}

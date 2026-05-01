@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08071000",
+  "key": "08071000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08071000",
+  "name": "Peach Ck at Splendora, TX",
+  "waterbody": "Peach Ck at Splendora, TX",
+  "state": "TX",
+  "latitude": 30.2327137,
+  "longitude": -95.1682662,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SPDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peach Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/spdt2",
+  "slug": "usgs-08071000",
+  "noaaForecastPath": "data/noaa-forecast/SPDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.405Z"
+}

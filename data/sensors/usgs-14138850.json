@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14138850",
+  "key": "14138850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14138850",
+  "name": "BULL RUN RIVER NEAR MULTNOMAH FALLS, OR",
+  "waterbody": "BULL RUN RIVER NEAR MULTNOMAH FALLS, OR",
+  "state": "OR",
+  "latitude": 45.4981743,
+  "longitude": -122.0123049,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMFO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bull Run River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmfo3",
+  "slug": "usgs-14138850",
+  "noaaForecastPath": "data/noaa-forecast/BMFO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

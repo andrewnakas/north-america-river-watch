@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02447026",
+  "key": "02447026",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02447026",
+  "name": "TOMBIGBEE R BLW HEFLIN L&D NR GAINESVILLE, ALA",
+  "waterbody": "TOMBIGBEE R BLW HEFLIN L&D NR GAINESVILLE, ALA",
+  "state": "AL",
+  "latitude": 32.85235218,
+  "longitude": -88.1541918,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GNSA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tombigbee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gnsa1",
+  "slug": "usgs-02447026",
+  "noaaForecastPath": "data/noaa-forecast/GNSA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

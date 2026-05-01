@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07303400",
+  "key": "07303400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07303400",
+  "name": "Elm Fork of North Fork Red River nr Carl, OK",
+  "waterbody": "Elm Fork of North Fork Red River nr Carl, OK",
+  "state": "OK",
+  "latitude": 35.01172,
+  "longitude": -99.9037143,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRLO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elm Fork of North Fork Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crlo2",
+  "slug": "usgs-07303400",
+  "noaaForecastPath": "data/noaa-forecast/CRLO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

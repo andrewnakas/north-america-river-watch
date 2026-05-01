@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07080980",
+  "key": "07080980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07080980",
+  "name": "ST. KEVIN GULCH ABV TEMPLE GULCH NR LEADVILLE, CO",
+  "waterbody": "ST. KEVIN GULCH ABV TEMPLE GULCH NR LEADVILLE, CO",
+  "state": "CO",
+  "latitude": 39.2913775,
+  "longitude": -106.3691928,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07080980",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

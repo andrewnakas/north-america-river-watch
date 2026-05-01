@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03072655",
+  "key": "03072655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03072655",
+  "name": "Monongahela River near Masontown, PA",
+  "waterbody": "Monongahela River near Masontown, PA",
+  "state": "PA",
+  "latitude": 39.8250275,
+  "longitude": -79.9228206,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GYLP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monongahela River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gylp1",
+  "slug": "usgs-03072655",
+  "noaaForecastPath": "data/noaa-forecast/GYLP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

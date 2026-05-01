@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11022480",
+  "key": "11022480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11022480",
+  "name": "SAN DIEGO R A MAST RD NR SANTEE CA",
+  "waterbody": "SAN DIEGO R A MAST RD NR SANTEE CA",
+  "state": "CA",
+  "latitude": 32.8403262,
+  "longitude": -117.0258478,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SDGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Diego River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sdgc1",
+  "slug": "usgs-11022480",
+  "noaaForecastPath": "data/noaa-forecast/SDGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15215900",
+  "key": "15215900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15215900",
+  "name": "GLACIER R TRIB NR CORDOVA AK",
+  "waterbody": "GLACIER R TRIB NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.533333,
+  "longitude": -145.378611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GCOA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Glacier River Tributary",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gcoa2",
+  "slug": "usgs-15215900",
+  "noaaForecastPath": "data/noaa-forecast/GCOA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

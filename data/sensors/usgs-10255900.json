@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10255900",
+  "key": "10255900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10255900",
+  "name": "BLACK WHEEL C DIV NR BANNING CA",
+  "waterbody": "BLACK WHEEL C DIV NR BANNING CA",
+  "state": "CA",
+  "latitude": 34.0607833,
+  "longitude": -116.8190167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10255900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

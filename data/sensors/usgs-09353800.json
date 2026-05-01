@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09353800",
+  "key": "09353800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09353800",
+  "name": "LOS PINOS RIVER NEAR IGNACIO, CO",
+  "waterbody": "LOS PINOS RIVER NEAR IGNACIO, CO",
+  "state": "CO",
+  "latitude": 37.16611111,
+  "longitude": -107.5825,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09353800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10257548",
+  "key": "10257548",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10257548",
+  "name": "WHITEWATER R A WINDY POINT MAIN CHANNEL CA",
+  "waterbody": "WHITEWATER R A WINDY POINT MAIN CHANNEL CA",
+  "state": "CA",
+  "latitude": 33.8989045,
+  "longitude": -116.6211256,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10257548",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06233000",
+  "key": "06233000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06233000",
+  "name": "LITTLE POPO AGIE RIVER NEAR LANDER, WY",
+  "waterbody": "LITTLE POPO AGIE RIVER NEAR LANDER, WY",
+  "state": "WY",
+  "latitude": 42.7166259,
+  "longitude": -108.6434455,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPLW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Popo Agie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lplw4",
+  "slug": "usgs-06233000",
+  "noaaForecastPath": "data/noaa-forecast/LPLW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

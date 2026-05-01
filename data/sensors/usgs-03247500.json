@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03247500",
+  "key": "03247500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03247500",
+  "name": "East Fork Little Miami River at Perintown OH",
+  "waterbody": "East Fork Little Miami River at Perintown OH",
+  "state": "OH",
+  "latitude": 39.13700548,
+  "longitude": -84.2379918,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PERO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Little Miami River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pero1",
+  "slug": "usgs-03247500",
+  "noaaForecastPath": "data/noaa-forecast/PERO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

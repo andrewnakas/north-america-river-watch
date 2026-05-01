@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09129600",
+  "key": "09129600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09129600",
+  "name": "SMITH FORK NEAR LAZEAR, CO",
+  "waterbody": "SMITH FORK NEAR LAZEAR, CO",
+  "state": "CO",
+  "latitude": 38.70744444,
+  "longitude": -107.7101389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09129600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

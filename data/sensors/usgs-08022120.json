@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08022120",
+  "key": "08022120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08022120",
+  "name": "Sabine Rv nr Carthage, TX",
+  "waterbody": "Sabine Rv nr Carthage, TX",
+  "state": "TX",
+  "latitude": 32.2249722,
+  "longitude": -94.22525,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08022120",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

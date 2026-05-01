@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07260500",
+  "key": "07260500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07260500",
+  "name": "Petit Jean River at Danville, AR",
+  "waterbody": "Petit Jean River at Danville, AR",
+  "state": "AR",
+  "latitude": 35.0586111,
+  "longitude": -93.3955556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DANA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Petit Jean River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dana4",
+  "slug": "usgs-07260500",
+  "noaaForecastPath": "data/noaa-forecast/DANA4.json",
+  "generatedAt": "2026-05-01T12:10:11.166Z"
+}

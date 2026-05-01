@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04069416",
+  "key": "04069416",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04069416",
+  "name": "PESHTIGO RIVER AT PORTERFIELD, WI",
+  "waterbody": "PESHTIGO RIVER AT PORTERFIELD, WI",
+  "state": "WI",
+  "latitude": 45.1433333,
+  "longitude": -87.8005556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PFDW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Peshtigo River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pfdw3",
+  "slug": "usgs-04069416",
+  "noaaForecastPath": "data/noaa-forecast/PFDW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

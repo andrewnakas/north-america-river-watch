@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08419000",
+  "key": "08419000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08419000",
+  "name": "Pecos Rv at FM 3398 nr Pecos, TX",
+  "waterbody": "Pecos Rv at FM 3398 nr Pecos, TX",
+  "state": "TX",
+  "latitude": 31.4838611,
+  "longitude": -103.4901667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecos River 2 miles NE of Pecos",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcst2",
+  "slug": "usgs-08419000",
+  "noaaForecastPath": "data/noaa-forecast/PCST2.json",
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02298608",
+  "key": "02298608",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02298608",
+  "name": "MYAKKA RIVER AT MYAKKA CITY FL",
+  "waterbody": "MYAKKA RIVER AT MYAKKA CITY FL",
+  "state": "FL",
+  "latitude": 27.3436562,
+  "longitude": -82.1567556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MKAF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Myakka River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mkaf1",
+  "slug": "usgs-02298608",
+  "noaaForecastPath": "data/noaa-forecast/MKAF1.json",
+  "generatedAt": "2026-05-01T12:10:11.199Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01538700",
+  "key": "01538700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01538700",
+  "name": "Susquehanna River at Bloomsburg, PA",
+  "waterbody": "Susquehanna River at Bloomsburg, PA",
+  "state": "PA",
+  "latitude": 40.9939757,
+  "longitude": -76.4399451,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BMBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bmbp1",
+  "slug": "usgs-01538700",
+  "noaaForecastPath": "data/noaa-forecast/BMBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

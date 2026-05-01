@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08033000",
+  "key": "08033000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08033000",
+  "name": "Neches Rv nr Diboll, TX",
+  "waterbody": "Neches Rv nr Diboll, TX",
+  "state": "TX",
+  "latitude": 31.1329682,
+  "longitude": -94.8099456,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DIBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neches River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dibt2",
+  "slug": "usgs-08033000",
+  "noaaForecastPath": "data/noaa-forecast/DIBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

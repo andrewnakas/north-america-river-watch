@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08324000",
+  "key": "08324000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08324000",
+  "name": "JEMEZ RIVER NEAR JEMEZ, NM",
+  "waterbody": "JEMEZ RIVER NEAR JEMEZ, NM",
+  "state": "NM",
+  "latitude": 35.6619833,
+  "longitude": -106.7434389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JEZN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jemez River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jezn5",
+  "slug": "usgs-08324000",
+  "noaaForecastPath": "data/noaa-forecast/JEZN5.json",
+  "generatedAt": "2026-05-01T12:10:11.306Z"
+}

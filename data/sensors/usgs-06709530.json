@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06709530",
+  "key": "06709530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06709530",
+  "name": "PLUM CREEK AT TITAN ROAD NEAR LOUVIERS, CO",
+  "waterbody": "PLUM CREEK AT TITAN ROAD NEAR LOUVIERS, CO",
+  "state": "CO",
+  "latitude": 39.50736944,
+  "longitude": -105.0244667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06709530",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:16227500",
+  "key": "16227500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16227500",
+  "name": "Moanalua Stream nr Kaneohe, Oahu, HI",
+  "waterbody": "Moanalua Stream nr Kaneohe, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.38805556,
+  "longitude": -157.848611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOSH1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moanalua Stream",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mosh1",
+  "slug": "usgs-16227500",
+  "noaaForecastPath": "data/noaa-forecast/MOSH1.json",
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

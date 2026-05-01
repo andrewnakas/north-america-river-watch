@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09228000",
+  "key": "09228000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09228000",
+  "name": "Henrys Fork near Burntfork, WY",
+  "waterbody": "Henrys Fork near Burntfork, WY",
+  "state": "WY",
+  "latitude": 41.03923889,
+  "longitude": -110.040275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09228000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

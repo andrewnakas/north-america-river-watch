@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212880025",
+  "key": "0212880025",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212880025",
+  "name": "PEE DEE RIVER BELOW POWERHOUSE DAM NR PEE DEE, NC",
+  "waterbody": "PEE DEE RIVER BELOW POWERHOUSE DAM NR PEE DEE, NC",
+  "state": "NC",
+  "latitude": 34.9834833,
+  "longitude": -79.8775806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLFN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pee Dee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blfn7",
+  "slug": "usgs-0212880025",
+  "noaaForecastPath": "data/noaa-forecast/BLFN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

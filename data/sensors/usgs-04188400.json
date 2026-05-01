@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04188400",
+  "key": "04188400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04188400",
+  "name": "Blanchard River above Findlay OH",
+  "waterbody": "Blanchard River above Findlay OH",
+  "state": "OH",
+  "latitude": 41.0339426,
+  "longitude": -83.5793742,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FDLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blanchard River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fdlo1",
+  "slug": "usgs-04188400",
+  "noaaForecastPath": "data/noaa-forecast/FDLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

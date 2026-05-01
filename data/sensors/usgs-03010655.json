@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03010655",
+  "key": "03010655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03010655",
+  "name": "Oswayo Creek at Shinglehouse, PA",
+  "waterbody": "Oswayo Creek at Shinglehouse, PA",
+  "state": "PA",
+  "latitude": 41.96173237,
+  "longitude": -78.1980662,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHNP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oswayo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shnp1",
+  "slug": "usgs-03010655",
+  "noaaForecastPath": "data/noaa-forecast/SHNP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

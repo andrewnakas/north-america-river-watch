@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03056250",
+  "key": "03056250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03056250",
+  "name": "THREE FORK CREEK NR GRAFTON, WV",
+  "waterbody": "THREE FORK CREEK NR GRAFTON, WV",
+  "state": "WV",
+  "latitude": 39.33648107,
+  "longitude": -79.9934094,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03056250",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05130500",
+  "key": "05130500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05130500",
+  "name": "STURGEON RIVER NEAR CHISHOLM, MN",
+  "waterbody": "STURGEON RIVER NEAR CHISHOLM, MN",
+  "state": "MN",
+  "latitude": 47.673593,
+  "longitude": -92.9002135,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05130500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

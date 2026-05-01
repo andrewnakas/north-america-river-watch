@@ -1,0 +1,22 @@
+{
+  "id": "usgs:414037083452300",
+  "key": "414037083452300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "414037083452300",
+  "name": "Tenmile Creek at Silica OH",
+  "waterbody": "Tenmile Creek at Silica OH",
+  "state": "OH",
+  "latitude": 41.676944,
+  "longitude": -83.756389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCSO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tenmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcso1",
+  "slug": "usgs-414037083452300",
+  "noaaForecastPath": "data/noaa-forecast/TCSO1.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

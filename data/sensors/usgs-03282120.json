@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03282120",
+  "key": "03282120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03282120",
+  "name": "KENTUCKY RIVER AT LOCK 12 NEAR IRVINE, KY",
+  "waterbody": "KENTUCKY RIVER AT LOCK 12 NEAR IRVINE, KY",
+  "state": "KY",
+  "latitude": 37.6783333,
+  "longitude": -83.9483333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RAVK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ravk2",
+  "slug": "usgs-03282120",
+  "noaaForecastPath": "data/noaa-forecast/RAVK2.json",
+  "generatedAt": "2026-05-01T12:10:11.248Z"
+}

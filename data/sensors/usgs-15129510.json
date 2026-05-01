@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15129510",
+  "key": "15129510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15129510",
+  "name": "OLD SITUK R NR YAKUTAT AK",
+  "waterbody": "OLD SITUK R NR YAKUTAT AK",
+  "state": "AK",
+  "latitude": 59.57011922,
+  "longitude": -139.44020537,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15129510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

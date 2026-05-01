@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06808500",
+  "key": "06808500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06808500",
+  "name": "West Nishnabotna River at Randolph, IA",
+  "waterbody": "West Nishnabotna River at Randolph, IA",
+  "state": "IA",
+  "latitude": 40.87327778,
+  "longitude": -95.5814444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDPI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Nishnabotna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdpi4",
+  "slug": "usgs-06808500",
+  "noaaForecastPath": "data/noaa-forecast/RDPI4.json",
+  "generatedAt": "2026-05-01T12:10:11.242Z"
+}

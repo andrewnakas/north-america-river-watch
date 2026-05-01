@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08111500",
+  "key": "08111500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08111500",
+  "name": "Brazos Rv nr Hempstead, TX",
+  "waterbody": "Brazos Rv nr Hempstead, TX",
+  "state": "TX",
+  "latitude": 30.12910626,
+  "longitude": -96.1877387,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HPDT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hpdt2",
+  "slug": "usgs-08111500",
+  "noaaForecastPath": "data/noaa-forecast/HPDT2.json",
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

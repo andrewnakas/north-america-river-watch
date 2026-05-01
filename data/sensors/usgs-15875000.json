@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15875000",
+  "key": "15875000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15875000",
+  "name": "COLVILLE R AT UMIAT AK",
+  "waterbody": "COLVILLE R AT UMIAT AK",
+  "state": "AK",
+  "latitude": 69.3605,
+  "longitude": -152.1226944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRUA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colville River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crua2",
+  "slug": "usgs-15875000",
+  "noaaForecastPath": "data/noaa-forecast/CRUA2.json",
+  "generatedAt": "2026-05-01T12:10:11.159Z"
+}

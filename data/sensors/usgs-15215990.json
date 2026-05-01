@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15215990",
+  "key": "15215990",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15215990",
+  "name": "NICOLET C NR CORDOVA AK",
+  "waterbody": "NICOLET C NR CORDOVA AK",
+  "state": "AK",
+  "latitude": 60.51865432,
+  "longitude": -145.79180606,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15215990",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

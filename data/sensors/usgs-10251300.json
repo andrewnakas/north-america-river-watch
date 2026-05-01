@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10251300",
+  "key": "10251300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251300",
+  "name": "AMARGOSA RV AT TECOPA, CA",
+  "waterbody": "AMARGOSA RV AT TECOPA, CA",
+  "state": "CA",
+  "latitude": 35.84944444,
+  "longitude": -116.2308333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TCPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Amargosa River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tcpc1",
+  "slug": "usgs-10251300",
+  "noaaForecastPath": "data/noaa-forecast/TCPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04127917",
+  "key": "04127917",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04127917",
+  "name": "PINE RIVER NEAR RUDYARD, MI",
+  "waterbody": "PINE RIVER NEAR RUDYARD, MI",
+  "state": "MI",
+  "latitude": 46.19055556,
+  "longitude": -84.61222222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RUDM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pine River (E Upper MI)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rudm4",
+  "slug": "usgs-04127917",
+  "noaaForecastPath": "data/noaa-forecast/RUDM4.json",
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

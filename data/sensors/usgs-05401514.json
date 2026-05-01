@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05401514",
+  "key": "05401514",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05401514",
+  "name": "BIG ROCHE A CRI CREEK AT HWY G NR LEOLA, WI",
+  "waterbody": "BIG ROCHE A CRI CREEK AT HWY G NR LEOLA, WI",
+  "state": "WI",
+  "latitude": 44.1749722,
+  "longitude": -89.6174167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05401514",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.441Z"
+}

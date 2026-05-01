@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50333500",
+  "key": "50333500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50333500",
+  "name": "RIVER GUT NR GOLDEN GROVE, ST. CROIX USVI",
+  "waterbody": "RIVER GUT NR GOLDEN GROVE, ST. CROIX USVI",
+  "state": "VI",
+  "latitude": 17.71080795,
+  "longitude": -64.7990345,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50333500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

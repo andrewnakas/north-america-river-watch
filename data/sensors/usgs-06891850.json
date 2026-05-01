@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06891850",
+  "key": "06891850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06891850",
+  "name": "STRANGER C AT EASTON, KS",
+  "waterbody": "STRANGER C AT EASTON, KS",
+  "state": "KS",
+  "latitude": 39.3464082,
+  "longitude": -95.1088678,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ESTK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stranger Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/estk1",
+  "slug": "usgs-06891850",
+  "noaaForecastPath": "data/noaa-forecast/ESTK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

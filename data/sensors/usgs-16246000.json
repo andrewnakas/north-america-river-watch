@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16246000",
+  "key": "16246000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16246000",
+  "name": "Waiomao Stream near Honolulu, Oahu, HI",
+  "waterbody": "Waiomao Stream near Honolulu, Oahu, HI",
+  "state": "HI",
+  "latitude": 21.3061111,
+  "longitude": -157.7838889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16246000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

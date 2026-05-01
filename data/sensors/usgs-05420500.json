@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05420500",
+  "key": "05420500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05420500",
+  "name": "Mississippi River at Clinton, IA",
+  "waterbody": "Mississippi River at Clinton, IA",
+  "state": "IA",
+  "latitude": 41.78058635,
+  "longitude": -90.252073,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CMMI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mississippi River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cmmi4",
+  "slug": "usgs-05420500",
+  "noaaForecastPath": "data/noaa-forecast/CMMI4.json",
+  "generatedAt": "2026-05-01T12:10:11.239Z"
+}

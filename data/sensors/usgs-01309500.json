@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01309500",
+  "key": "01309500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01309500",
+  "name": "MASSAPEQUA CREEK AT MASSAPEQUA NY",
+  "waterbody": "MASSAPEQUA CREEK AT MASSAPEQUA NY",
+  "state": "NY",
+  "latitude": 40.689,
+  "longitude": -73.45538889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01309500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

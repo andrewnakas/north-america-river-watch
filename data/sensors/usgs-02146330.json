@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02146330",
+  "key": "02146330",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02146330",
+  "name": "SUGAR CREEK AT ARROWOOD ROAD NEAR CHARLOTTE, NC",
+  "waterbody": "SUGAR CREEK AT ARROWOOD ROAD NEAR CHARLOTTE, NC",
+  "state": "NC",
+  "latitude": 35.1397222,
+  "longitude": -80.9111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AWRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/awrn7",
+  "slug": "usgs-02146330",
+  "noaaForecastPath": "data/noaa-forecast/AWRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

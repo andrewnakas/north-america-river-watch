@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10308785",
+  "key": "10308785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10308785",
+  "name": "LEVIATHAN MINE PIT FLOW NR MARKLEEVILLE CA",
+  "waterbody": "LEVIATHAN MINE PIT FLOW NR MARKLEEVILLE CA",
+  "state": "CA",
+  "latitude": 38.7040628,
+  "longitude": -119.6587622,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10308785",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

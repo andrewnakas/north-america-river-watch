@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02160055",
+  "key": "02160055",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02160055",
+  "name": "TYGER RIVER ABOVE WHITMIRE HIGHWAY NR WHITMIRE, SC",
+  "waterbody": "TYGER RIVER ABOVE WHITMIRE HIGHWAY NR WHITMIRE, SC",
+  "state": "SC",
+  "latitude": 34.5857,
+  "longitude": -81.59228056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02160055",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

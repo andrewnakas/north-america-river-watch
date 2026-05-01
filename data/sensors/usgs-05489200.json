@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05489200",
+  "key": "05489200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05489200",
+  "name": "Des Moines River at Eddyville, IA",
+  "waterbody": "Des Moines River at Eddyville, IA",
+  "state": "IA",
+  "latitude": 41.1558422,
+  "longitude": -92.6388033,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "EDYI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Des Moines River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/edyi4",
+  "slug": "usgs-05489200",
+  "noaaForecastPath": "data/noaa-forecast/EDYI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

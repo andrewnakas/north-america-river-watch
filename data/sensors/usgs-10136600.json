@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10136600",
+  "key": "10136600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10136600",
+  "name": "WEBER RIVER AT I-84 AT UINTAH, UT",
+  "waterbody": "WEBER RIVER AT I-84 AT UINTAH, UT",
+  "state": "UT",
+  "latitude": 41.1370833,
+  "longitude": -111.9195556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10136600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:410121081330300",
+  "key": "410121081330300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "410121081330300",
+  "name": "Long Lake Feeder O&E Canal OH",
+  "waterbody": "Long Lake Feeder O&E Canal OH",
+  "state": "OH",
+  "latitude": 41.02255558,
+  "longitude": -81.55067419,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ECLO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuscarawas River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/eclo1",
+  "slug": "usgs-410121081330300",
+  "noaaForecastPath": "data/noaa-forecast/ECLO1.json",
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

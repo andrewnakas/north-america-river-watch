@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11451715",
+  "key": "11451715",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11451715",
+  "name": "BEAR C AB HOLSTEN CHIMNEY CYN NR RUMSEY CA",
+  "waterbody": "BEAR C AB HOLSTEN CHIMNEY CYN NR RUMSEY CA",
+  "state": "CA",
+  "latitude": 38.95764605,
+  "longitude": -122.342726,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCHC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hchc1",
+  "slug": "usgs-11451715",
+  "noaaForecastPath": "data/noaa-forecast/HCHC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

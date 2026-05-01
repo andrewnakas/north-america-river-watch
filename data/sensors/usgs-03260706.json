@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03260706",
+  "key": "03260706",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03260706",
+  "name": "Bokengehalas Creek at De Graff OH",
+  "waterbody": "Bokengehalas Creek at De Graff OH",
+  "state": "OH",
+  "latitude": 40.31116317,
+  "longitude": -83.9124371,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DGRO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bokengahalas Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dgro1",
+  "slug": "usgs-03260706",
+  "noaaForecastPath": "data/noaa-forecast/DGRO1.json",
+  "generatedAt": "2026-05-01T12:10:11.336Z"
+}

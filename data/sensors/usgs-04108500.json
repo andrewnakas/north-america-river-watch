@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04108500",
+  "key": "04108500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04108500",
+  "name": "KALAMAZOO RIVER NEAR FENNVILLE, MI",
+  "waterbody": "KALAMAZOO RIVER NEAR FENNVILLE, MI",
+  "state": "MI",
+  "latitude": 42.59361975,
+  "longitude": -85.9841274,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04108500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

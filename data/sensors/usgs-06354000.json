@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06354000",
+  "key": "06354000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06354000",
+  "name": "CANNONBALL RIVER AT BREIEN, ND",
+  "waterbody": "CANNONBALL RIVER AT BREIEN, ND",
+  "state": "ND",
+  "latitude": 46.3761111,
+  "longitude": -100.9344444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BREN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cannonball River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bren8",
+  "slug": "usgs-06354000",
+  "noaaForecastPath": "data/noaa-forecast/BREN8.json",
+  "generatedAt": "2026-05-01T12:10:11.332Z"
+}

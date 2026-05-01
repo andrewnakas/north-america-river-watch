@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01455098",
+  "key": "01455098",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01455098",
+  "name": "Lopatcong Creek trib2 at Alpha, NJ",
+  "waterbody": "Lopatcong Creek trib2 at Alpha, NJ",
+  "state": "NJ",
+  "latitude": 40.67216667,
+  "longitude": -75.1582222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01455098",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

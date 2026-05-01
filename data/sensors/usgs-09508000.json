@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09508000",
+  "key": "09508000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09508000",
+  "name": "VERDE RIVER BELOW EAST VERDE RIVER NEAR CHILDS, AZ",
+  "waterbody": "VERDE RIVER BELOW EAST VERDE RIVER NEAR CHILDS, AZ",
+  "state": "AZ",
+  "latitude": 34.2635583,
+  "longitude": -111.6815278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09508000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

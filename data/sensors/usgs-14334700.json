@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14334700",
+  "key": "14334700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14334700",
+  "name": "S FK ROGUE R SOUTH OF PROSPECT, OREG.",
+  "waterbody": "S FK ROGUE R SOUTH OF PROSPECT, OREG.",
+  "state": "OR",
+  "latitude": 42.71234995,
+  "longitude": -122.5067018,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14334700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

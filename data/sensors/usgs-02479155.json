@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02479155",
+  "key": "02479155",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02479155",
+  "name": "CYPRESS CREEK NR JANICE, MS",
+  "waterbody": "CYPRESS CREEK NR JANICE, MS",
+  "state": "MS",
+  "latitude": 31.02527778,
+  "longitude": -89.0166667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JNCM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cypress Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jncm6",
+  "slug": "usgs-02479155",
+  "noaaForecastPath": "data/noaa-forecast/JNCM6.json",
+  "generatedAt": "2026-05-01T12:10:11.277Z"
+}

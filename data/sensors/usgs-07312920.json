@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07312920",
+  "key": "07312920",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07312920",
+  "name": "Beaver Creek nr Hulen, OK",
+  "waterbody": "Beaver Creek nr Hulen, OK",
+  "state": "OK",
+  "latitude": 34.47805556,
+  "longitude": -98.1775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HUBO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (OK)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hubo2",
+  "slug": "usgs-07312920",
+  "noaaForecastPath": "data/noaa-forecast/HUBO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

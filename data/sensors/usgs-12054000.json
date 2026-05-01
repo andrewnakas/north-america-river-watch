@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12054000",
+  "key": "12054000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12054000",
+  "name": "DUCKABUSH RIVER NEAR BRINNON, WA",
+  "waterbody": "DUCKABUSH RIVER NEAR BRINNON, WA",
+  "state": "WA",
+  "latitude": 47.68398059,
+  "longitude": -123.011551,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DKBW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duckabush River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dkbw1",
+  "slug": "usgs-12054000",
+  "noaaForecastPath": "data/noaa-forecast/DKBW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

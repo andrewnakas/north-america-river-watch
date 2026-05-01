@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05530000",
+  "key": "05530000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05530000",
+  "name": "WELLER CREEK AT DES PLAINES, IL",
+  "waterbody": "WELLER CREEK AT DES PLAINES, IL",
+  "state": "IL",
+  "latitude": 42.04947275,
+  "longitude": -87.918123,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLRI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Weller Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlri2",
+  "slug": "usgs-05530000",
+  "noaaForecastPath": "data/noaa-forecast/WLRI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

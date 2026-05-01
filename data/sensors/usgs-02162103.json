@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02162103",
+  "key": "02162103",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02162103",
+  "name": "BROAD RIVER BELOW DIVERSION DAM NEAR COLUMBIA, SC",
+  "waterbody": "BROAD RIVER BELOW DIVERSION DAM NEAR COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 34.0261111,
+  "longitude": -81.06888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02162103",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

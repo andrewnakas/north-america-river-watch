@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50035000",
+  "key": "50035000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50035000",
+  "name": "RIO GRANDE DE MANATI AT CIALES, PR",
+  "waterbody": "RIO GRANDE DE MANATI AT CIALES, PR",
+  "state": "PR",
+  "latitude": 18.32243776,
+  "longitude": -66.4595683,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CIAP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande De Manati",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ciap4",
+  "slug": "usgs-50035000",
+  "noaaForecastPath": "data/noaa-forecast/CIAP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

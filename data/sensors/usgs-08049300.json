@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08049300",
+  "key": "08049300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08049300",
+  "name": "W Fk Trinity Rv at Greenbelt Rd, Fort Worth, TX",
+  "waterbody": "W Fk Trinity Rv at Greenbelt Rd, Fort Worth, TX",
+  "state": "TX",
+  "latitude": 32.7884631,
+  "longitude": -97.1400111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08049300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

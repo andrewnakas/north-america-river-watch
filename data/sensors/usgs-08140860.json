@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08140860",
+  "key": "08140860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08140860",
+  "name": "Jim Ned Ck at CR 140 nr Coleman, TX",
+  "waterbody": "Jim Ned Ck at CR 140 nr Coleman, TX",
+  "state": "TX",
+  "latitude": 31.8792472,
+  "longitude": -99.2778417,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08140860",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

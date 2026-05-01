@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01171500",
+  "key": "01171500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01171500",
+  "name": "MILL RIVER AT NORTHAMPTON, MA",
+  "waterbody": "MILL RIVER AT NORTHAMPTON, MA",
+  "state": "MA",
+  "latitude": 42.31897839,
+  "longitude": -72.6650907,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMIM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mill River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmim3",
+  "slug": "usgs-01171500",
+  "noaaForecastPath": "data/noaa-forecast/NMIM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353633",
+  "key": "03353633",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353633",
+  "name": "DERBYSHIRE CK ABOVE MCFARLAND RD AT SOUTHPORT, IN",
+  "waterbody": "DERBYSHIRE CK ABOVE MCFARLAND RD AT SOUTHPORT, IN",
+  "state": "IN",
+  "latitude": 39.67416667,
+  "longitude": -86.1155556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Retention Pond in Marion County Indiana",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/homi3",
+  "slug": "usgs-03353633",
+  "noaaForecastPath": "data/noaa-forecast/HOMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

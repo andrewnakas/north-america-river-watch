@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13090000",
+  "key": "13090000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13090000",
+  "name": "SNAKE RIVER NR KIMBERLY ID",
+  "waterbody": "SNAKE RIVER NR KIMBERLY ID",
+  "state": "ID",
+  "latitude": 42.5908333,
+  "longitude": -114.3602778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13090000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

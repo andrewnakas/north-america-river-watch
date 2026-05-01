@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08162506",
+  "key": "08162506",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08162506",
+  "name": "Colorado Rv Bypass Channel nr Matagorda, TX",
+  "waterbody": "Colorado Rv Bypass Channel nr Matagorda, TX",
+  "state": "TX",
+  "latitude": 28.6847113,
+  "longitude": -95.9691293,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08162506",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

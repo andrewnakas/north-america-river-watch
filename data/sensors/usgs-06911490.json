@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06911490",
+  "key": "06911490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06911490",
+  "name": "SALT C AT LYNDON, KS",
+  "waterbody": "SALT C AT LYNDON, KS",
+  "state": "KS",
+  "latitude": 38.60139907,
+  "longitude": -95.6847068,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNDK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (LNDK1)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lndk1",
+  "slug": "usgs-06911490",
+  "noaaForecastPath": "data/noaa-forecast/LNDK1.json",
+  "generatedAt": "2026-05-01T12:10:11.244Z"
+}

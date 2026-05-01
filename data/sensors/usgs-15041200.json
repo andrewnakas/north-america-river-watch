@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15041200",
+  "key": "15041200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15041200",
+  "name": "TAKU R NR JUNEAU AK",
+  "waterbody": "TAKU R NR JUNEAU AK",
+  "state": "AK",
+  "latitude": 58.538611,
+  "longitude": -133.7,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TKUA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Taku River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tkua2",
+  "slug": "usgs-15041200",
+  "noaaForecastPath": "data/noaa-forecast/TKUA2.json",
+  "generatedAt": "2026-05-01T12:10:11.154Z"
+}

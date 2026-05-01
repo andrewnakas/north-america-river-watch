@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05536900",
+  "key": "05536900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536900",
+  "name": "CHICAGO SANITARY AND SHIP CANAL AT LEMONT, IL",
+  "waterbody": "CHICAGO SANITARY AND SHIP CANAL AT LEMONT, IL",
+  "state": "IL",
+  "latitude": 41.67891099,
+  "longitude": -88.000967,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05536900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

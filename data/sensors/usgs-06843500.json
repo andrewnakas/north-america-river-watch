@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06843500",
+  "key": "06843500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06843500",
+  "name": "Republican River at Cambridge, Nebr.",
+  "waterbody": "Republican River at Cambridge, Nebr.",
+  "state": "NE",
+  "latitude": 40.284444,
+  "longitude": -100.143611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CAMN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Republican River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/camn1",
+  "slug": "usgs-06843500",
+  "noaaForecastPath": "data/noaa-forecast/CAMN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06630000",
+  "key": "06630000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06630000",
+  "name": "N PLATTE RIV AB SEMINOE RESERVOIR, NR SINCLAIR, WY",
+  "waterbody": "N PLATTE RIV AB SEMINOE RESERVOIR, NR SINCLAIR, WY",
+  "state": "WY",
+  "latitude": 41.87216636,
+  "longitude": -107.0575984,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SINW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sinw4",
+  "slug": "usgs-06630000",
+  "noaaForecastPath": "data/noaa-forecast/SINW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

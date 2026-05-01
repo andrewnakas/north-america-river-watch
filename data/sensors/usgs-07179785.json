@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07179785",
+  "key": "07179785",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179785",
+  "name": "NF COTTONWOOD R NR DURHAM, KS",
+  "waterbody": "NF COTTONWOOD R NR DURHAM, KS",
+  "state": "KS",
+  "latitude": 38.49665278,
+  "longitude": -97.2611639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07179785",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

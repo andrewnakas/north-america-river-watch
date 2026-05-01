@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10347620",
+  "key": "10347620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10347620",
+  "name": "HUNTER CK ABV LAST CHANCE DITCH NR RENO, NV",
+  "waterbody": "HUNTER CK ABV LAST CHANCE DITCH NR RENO, NV",
+  "state": "NV",
+  "latitude": 39.50352144,
+  "longitude": -119.890473,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10347620",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.297Z"
+}

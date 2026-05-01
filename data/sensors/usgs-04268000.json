@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04268000",
+  "key": "04268000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04268000",
+  "name": "RAQUETTE RIVER AT RAYMONDVILLE NY",
+  "waterbody": "RAQUETTE RIVER AT RAYMONDVILLE NY",
+  "state": "NY",
+  "latitude": 44.83888889,
+  "longitude": -74.97888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RYVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raquette River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ryvn6",
+  "slug": "usgs-04268000",
+  "noaaForecastPath": "data/noaa-forecast/RYVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

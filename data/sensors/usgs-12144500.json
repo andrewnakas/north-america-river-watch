@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12144500",
+  "key": "12144500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12144500",
+  "name": "SNOQUALMIE RIVER NEAR SNOQUALMIE, WA",
+  "waterbody": "SNOQUALMIE RIVER NEAR SNOQUALMIE, WA",
+  "state": "WA",
+  "latitude": 47.5450765,
+  "longitude": -121.8423157,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SQUW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snoqualmie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/squw1",
+  "slug": "usgs-12144500",
+  "noaaForecastPath": "data/noaa-forecast/SQUW1.json",
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

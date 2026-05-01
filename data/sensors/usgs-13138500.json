@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13138500",
+  "key": "13138500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13138500",
+  "name": "BIG WOOD RIVER AT GIMLET, ID",
+  "waterbody": "BIG WOOD RIVER AT GIMLET, ID",
+  "state": "ID",
+  "latitude": 43.605,
+  "longitude": -114.3463889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13138500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

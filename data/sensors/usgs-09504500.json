@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09504500",
+  "key": "09504500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09504500",
+  "name": "OAK CREEK NEAR CORNVILLE, AZ",
+  "waterbody": "OAK CREEK NEAR CORNVILLE, AZ",
+  "state": "AZ",
+  "latitude": 34.76446436,
+  "longitude": -111.8909885,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OACA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Oak Creek (AZ)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/oaca3",
+  "slug": "usgs-09504500",
+  "noaaForecastPath": "data/noaa-forecast/OACA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

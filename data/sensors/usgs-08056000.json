@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08056000",
+  "key": "08056000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08056000",
+  "name": "Elm Fk Trinity Rv at Frasier Dam, Dallas, TX",
+  "waterbody": "Elm Fk Trinity Rv at Frasier Dam, Dallas, TX",
+  "state": "TX",
+  "latitude": 32.842072,
+  "longitude": -96.8900038,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08056000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

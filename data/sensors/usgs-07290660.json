@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07290660",
+  "key": "07290660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07290660",
+  "name": "BAYOU PIERRE NR PORT GIBSON, MS",
+  "waterbody": "BAYOU PIERRE NR PORT GIBSON, MS",
+  "state": "MS",
+  "latitude": 31.99933861,
+  "longitude": -90.9648352,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07290660",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.279Z"
+}

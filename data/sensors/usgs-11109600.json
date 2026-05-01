@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11109600",
+  "key": "11109600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11109600",
+  "name": "PIRU CREEK ABOVE LAKE PIRU CA",
+  "waterbody": "PIRU CREEK ABOVE LAKE PIRU CA",
+  "state": "CA",
+  "latitude": 34.5230473,
+  "longitude": -118.7570206,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCPC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Piru Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcpc1",
+  "slug": "usgs-11109600",
+  "noaaForecastPath": "data/noaa-forecast/PCPC1.json",
+  "generatedAt": "2026-05-01T12:10:11.172Z"
+}

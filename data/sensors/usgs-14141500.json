@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14141500",
+  "key": "14141500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14141500",
+  "name": "LITTLE SANDY RIVER NEAR BULL RUN, OR",
+  "waterbody": "LITTLE SANDY RIVER NEAR BULL RUN, OR",
+  "state": "OR",
+  "latitude": 45.41539777,
+  "longitude": -122.1714746,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LSNO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Sandy River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lsno3",
+  "slug": "usgs-14141500",
+  "noaaForecastPath": "data/noaa-forecast/LSNO3.json",
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

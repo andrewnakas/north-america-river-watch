@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15072000",
+  "key": "15072000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15072000",
+  "name": "FISH C NR KETCHIKAN AK",
+  "waterbody": "FISH C NR KETCHIKAN AK",
+  "state": "AK",
+  "latitude": 55.3916038,
+  "longitude": -131.1955833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCKA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fish Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fcka2",
+  "slug": "usgs-15072000",
+  "noaaForecastPath": "data/noaa-forecast/FCKA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

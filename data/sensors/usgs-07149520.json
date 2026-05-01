@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07149520",
+  "key": "07149520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07149520",
+  "name": "Salt Fork Arkansas River at SH 11 nr Cherokee, OK",
+  "waterbody": "Salt Fork Arkansas River at SH 11 nr Cherokee, OK",
+  "state": "OK",
+  "latitude": 36.80555556,
+  "longitude": -98.2472222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07149520",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

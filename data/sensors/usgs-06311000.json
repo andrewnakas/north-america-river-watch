@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06311000",
+  "key": "06311000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06311000",
+  "name": "NORTH FORK POWDER RIVER NEAR HAZELTON, WY",
+  "waterbody": "NORTH FORK POWDER RIVER NEAR HAZELTON, WY",
+  "state": "WY",
+  "latitude": 44.02774228,
+  "longitude": -107.0808955,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAZW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Powder River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hazw4",
+  "slug": "usgs-06311000",
+  "noaaForecastPath": "data/noaa-forecast/HAZW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

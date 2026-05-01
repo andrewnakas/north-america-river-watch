@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01306460",
+  "key": "01306460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01306460",
+  "name": "CONNETQUOT BK NR CENTRAL ISLIP NY",
+  "waterbody": "CONNETQUOT BK NR CENTRAL ISLIP NY",
+  "state": "NY",
+  "latitude": 40.77227778,
+  "longitude": -73.1586667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01306460",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.316Z"
+}

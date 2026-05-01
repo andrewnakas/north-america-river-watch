@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06821150",
+  "key": "06821150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06821150",
+  "name": "Little Platte River at Smithville, MO",
+  "waterbody": "Little Platte River at Smithville, MO",
+  "state": "MO",
+  "latitude": 39.38805536,
+  "longitude": -94.5791215,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMHM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Platte River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smhm7",
+  "slug": "usgs-06821150",
+  "noaaForecastPath": "data/noaa-forecast/SMHM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

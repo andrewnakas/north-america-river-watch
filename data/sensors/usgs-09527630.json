@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09527630",
+  "key": "09527630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09527630",
+  "name": "BROCK RESERVOIR INLET NEAR CALEXICO, CA",
+  "waterbody": "BROCK RESERVOIR INLET NEAR CALEXICO, CA",
+  "state": "CA",
+  "latitude": 32.7094932,
+  "longitude": -115.0254425,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09527630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

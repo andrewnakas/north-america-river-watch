@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02334480",
+  "key": "02334480",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02334480",
+  "name": "RICHLAND CREEK AT SUWANEE DAM ROAD, NEAR BUFORD,GA",
+  "waterbody": "RICHLAND CREEK AT SUWANEE DAM ROAD, NEAR BUFORD,GA",
+  "state": "GA",
+  "latitude": 34.1325,
+  "longitude": -84.07,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLCG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Richland Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rlcg1",
+  "slug": "usgs-02334480",
+  "noaaForecastPath": "data/noaa-forecast/RLCG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

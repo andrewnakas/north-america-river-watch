@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021623975",
+  "key": "021623975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021623975",
+  "name": "NORTH SALUDA RIVER ABOVE SLATER, SC",
+  "waterbody": "NORTH SALUDA RIVER ABOVE SLATER, SC",
+  "state": "SC",
+  "latitude": 35.083597,
+  "longitude": -82.459953,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLTS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Saluda River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slts1",
+  "slug": "usgs-021623975",
+  "noaaForecastPath": "data/noaa-forecast/SLTS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

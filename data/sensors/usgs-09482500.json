@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09482500",
+  "key": "09482500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09482500",
+  "name": "SANTA CRUZ RIVER AT TUCSON, AZ",
+  "waterbody": "SANTA CRUZ RIVER AT TUCSON, AZ",
+  "state": "AZ",
+  "latitude": 32.22121353,
+  "longitude": -110.9817943,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TSCA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Santa Cruz River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tsca3",
+  "slug": "usgs-09482500",
+  "noaaForecastPath": "data/noaa-forecast/TSCA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}

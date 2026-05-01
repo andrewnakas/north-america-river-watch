@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07103800",
+  "key": "07103800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07103800",
+  "name": "WEST MONUMENT CREEK AT U.S. AIR FORCE ACADEMY, CO",
+  "waterbody": "WEST MONUMENT CREEK AT U.S. AIR FORCE ACADEMY, CO",
+  "state": "CO",
+  "latitude": 38.970556,
+  "longitude": -104.902222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07103800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.182Z"
+}

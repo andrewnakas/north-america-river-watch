@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01412000",
+  "key": "01412000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01412000",
+  "name": "Menantico Creek near Millville NJ",
+  "waterbody": "Menantico Creek near Millville NJ",
+  "state": "NJ",
+  "latitude": 39.41916667,
+  "longitude": -74.96583333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01412000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

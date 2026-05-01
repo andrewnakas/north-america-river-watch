@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312200",
+  "key": "02312200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312200",
+  "name": "LITTLE WITHLACOOCHEE RIVER AT RERDELL, FL",
+  "waterbody": "LITTLE WITHLACOOCHEE RIVER AT RERDELL, FL",
+  "state": "FL",
+  "latitude": 28.57277286,
+  "longitude": -82.155363,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RERF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Withlacoochee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rerf1",
+  "slug": "usgs-02312200",
+  "noaaForecastPath": "data/noaa-forecast/RERF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

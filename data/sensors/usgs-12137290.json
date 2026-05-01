@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12137290",
+  "key": "12137290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12137290",
+  "name": "SOUTH FORK SULTAN RIVER NEAR SULTAN, WA",
+  "waterbody": "SOUTH FORK SULTAN RIVER NEAR SULTAN, WA",
+  "state": "WA",
+  "latitude": 47.94732637,
+  "longitude": -121.6267826,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SULW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Sultan River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sulw1",
+  "slug": "usgs-12137290",
+  "noaaForecastPath": "data/noaa-forecast/SULW1.json",
+  "generatedAt": "2026-05-01T12:10:11.428Z"
+}

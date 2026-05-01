@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03441000",
+  "key": "03441000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03441000",
+  "name": "DAVIDSON RIVER NEAR BREVARD, NC",
+  "waterbody": "DAVIDSON RIVER NEAR BREVARD, NC",
+  "state": "NC",
+  "latitude": 35.27305556,
+  "longitude": -82.7058333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DAVN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Davidson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/davn7",
+  "slug": "usgs-03441000",
+  "noaaForecastPath": "data/noaa-forecast/DAVN7.json",
+  "generatedAt": "2026-05-01T12:10:11.329Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330940",
+  "key": "08330940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330940",
+  "name": "ATRISCO RIVERSIDE DRAIN NR ISLETA, NM",
+  "waterbody": "ATRISCO RIVERSIDE DRAIN NR ISLETA, NM",
+  "state": "NM",
+  "latitude": 34.9372731,
+  "longitude": -106.6858588,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330940",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

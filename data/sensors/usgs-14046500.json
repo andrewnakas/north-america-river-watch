@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14046500",
+  "key": "14046500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14046500",
+  "name": "JOHN DAY RIVER AT SERVICE CREEK, OR",
+  "waterbody": "JOHN DAY RIVER AT SERVICE CREEK, OR",
+  "state": "OR",
+  "latitude": 44.79401389,
+  "longitude": -120.0070194,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SERO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "John Day River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sero3",
+  "slug": "usgs-14046500",
+  "noaaForecastPath": "data/noaa-forecast/SERO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

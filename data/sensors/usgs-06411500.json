@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06411500",
+  "key": "06411500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06411500",
+  "name": "RAPID CREEK BELOW PACTOLA DAM,SD",
+  "waterbody": "RAPID CREEK BELOW PACTOLA DAM,SD",
+  "state": "SD",
+  "latitude": 44.07665378,
+  "longitude": -103.482134,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCBS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcbs2",
+  "slug": "usgs-06411500",
+  "noaaForecastPath": "data/noaa-forecast/RCBS2.json",
+  "generatedAt": "2026-05-01T12:10:11.380Z"
+}

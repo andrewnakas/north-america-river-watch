@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15209770",
+  "key": "15209770",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15209770",
+  "name": "NATIONAL C NR MCCARTHY AK",
+  "waterbody": "NATIONAL C NR MCCARTHY AK",
+  "state": "AK",
+  "latitude": 61.48468889,
+  "longitude": -142.8866167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCMA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "National Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncma2",
+  "slug": "usgs-15209770",
+  "noaaForecastPath": "data/noaa-forecast/NCMA2.json",
+  "generatedAt": "2026-05-01T12:10:11.155Z"
+}

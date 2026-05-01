@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12102012",
+  "key": "12102012",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12102012",
+  "name": "YSI 6920V2-2 AT WSU 2 AT PUYALLUP, WA",
+  "waterbody": "YSI 6920V2-2 AT WSU 2 AT PUYALLUP, WA",
+  "state": "WA",
+  "latitude": 47.19202778,
+  "longitude": -122.3229722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12102012",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.427Z"
+}

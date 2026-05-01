@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04112500",
+  "key": "04112500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04112500",
+  "name": "RED CEDAR RIVER AT EAST LANSING, MI",
+  "waterbody": "RED CEDAR RIVER AT EAST LANSING, MI",
+  "state": "MI",
+  "latitude": 42.72722913,
+  "longitude": -84.47796479,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELNM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Cedar River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elnm4",
+  "slug": "usgs-04112500",
+  "noaaForecastPath": "data/noaa-forecast/ELNM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

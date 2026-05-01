@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09508300",
+  "key": "09508300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09508300",
+  "name": "WET BOTTOM CREEK NEAR CHILDS, AZ",
+  "waterbody": "WET BOTTOM CREEK NEAR CHILDS, AZ",
+  "state": "AZ",
+  "latitude": 34.16086787,
+  "longitude": -111.6929235,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09508300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

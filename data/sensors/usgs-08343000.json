@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08343000",
+  "key": "08343000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08343000",
+  "name": "RIO SAN JOSE AT GRANTS, NM",
+  "waterbody": "RIO SAN JOSE AT GRANTS, NM",
+  "state": "NM",
+  "latitude": 35.15449,
+  "longitude": -107.87034126,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08343000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

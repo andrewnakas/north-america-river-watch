@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08033900",
+  "key": "08033900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08033900",
+  "name": "E Fk Angelina Rv nr Cushing, TX",
+  "waterbody": "E Fk Angelina Rv nr Cushing, TX",
+  "state": "TX",
+  "latitude": 31.86017169,
+  "longitude": -94.8232697,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CUST2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Fork Angelina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cust2",
+  "slug": "usgs-08033900",
+  "noaaForecastPath": "data/noaa-forecast/CUST2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

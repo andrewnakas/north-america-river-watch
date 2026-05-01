@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04208943",
+  "key": "04208943",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04208943",
+  "name": "Unnamed trib to Chagrin R at Mayfield Village OH",
+  "waterbody": "Unnamed trib to Chagrin R at Mayfield Village OH",
+  "state": "OH",
+  "latitude": 41.54277778,
+  "longitude": -81.4447222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MYFO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Unknown Tributary to Chagrin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/myfo1",
+  "slug": "usgs-04208943",
+  "noaaForecastPath": "data/noaa-forecast/MYFO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

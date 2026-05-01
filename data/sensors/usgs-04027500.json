@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04027500",
+  "key": "04027500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04027500",
+  "name": "WHITE RIVER NEAR ASHLAND, WI",
+  "waterbody": "WHITE RIVER NEAR ASHLAND, WI",
+  "state": "WI",
+  "latitude": 46.4972222,
+  "longitude": -90.9041667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHRW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (WI)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whrw3",
+  "slug": "usgs-04027500",
+  "noaaForecastPath": "data/noaa-forecast/WHRW3.json",
+  "generatedAt": "2026-05-01T12:10:11.437Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09035820",
+  "key": "09035820",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09035820",
+  "name": "SO FK WILLIAMS FK AT UP STA NR PTARMIGAN PASS, C",
+  "waterbody": "SO FK WILLIAMS FK AT UP STA NR PTARMIGAN PASS, C",
+  "state": "CO",
+  "latitude": 39.70831997,
+  "longitude": -105.9475144,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09035820",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

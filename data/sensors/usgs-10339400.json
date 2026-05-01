@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10339400",
+  "key": "10339400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10339400",
+  "name": "MARTIS C NR TRUCKEE CA",
+  "waterbody": "MARTIS C NR TRUCKEE CA",
+  "state": "CA",
+  "latitude": 39.32879577,
+  "longitude": -120.1176964,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10339400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

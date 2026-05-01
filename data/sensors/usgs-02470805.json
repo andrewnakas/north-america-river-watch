@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02470805",
+  "key": "02470805",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02470805",
+  "name": "BAYOU SARA AT SARALAND, ALA",
+  "waterbody": "BAYOU SARA AT SARALAND, ALA",
+  "state": "AL",
+  "latitude": 30.82521804,
+  "longitude": -88.07002725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SARA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Sara",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sara1",
+  "slug": "usgs-02470805",
+  "noaaForecastPath": "data/noaa-forecast/SARA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

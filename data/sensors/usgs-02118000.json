@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02118000",
+  "key": "02118000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02118000",
+  "name": "SOUTH YADKIN RIVER NEAR MOCKSVILLE, NC",
+  "waterbody": "SOUTH YADKIN RIVER NEAR MOCKSVILLE, NC",
+  "state": "NC",
+  "latitude": 35.845,
+  "longitude": -80.65888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCKN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "S Yadkin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mckn7",
+  "slug": "usgs-02118000",
+  "noaaForecastPath": "data/noaa-forecast/MCKN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

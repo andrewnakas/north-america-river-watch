@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01636316",
+  "key": "01636316",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01636316",
+  "name": "SPOUT RUN AT RT 621 NEAR MILLWOOD, VA",
+  "waterbody": "SPOUT RUN AT RT 621 NEAR MILLWOOD, VA",
+  "state": "VA",
+  "latitude": 39.067025,
+  "longitude": -78.0037528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLWV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spout Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlwv2",
+  "slug": "usgs-01636316",
+  "noaaForecastPath": "data/noaa-forecast/MLWV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

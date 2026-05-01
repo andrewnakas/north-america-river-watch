@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02162093",
+  "key": "02162093",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02162093",
+  "name": "SMITH BRANCH AT NORTH MAIN ST AT COLUMBIA, SC",
+  "waterbody": "SMITH BRANCH AT NORTH MAIN ST AT COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 34.02737615,
+  "longitude": -81.0417588,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMHS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smith Branch (SC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smhs1",
+  "slug": "usgs-02162093",
+  "noaaForecastPath": "data/noaa-forecast/SMHS1.json",
+  "generatedAt": "2026-05-01T12:10:11.362Z"
+}

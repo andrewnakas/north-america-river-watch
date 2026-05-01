@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02196670",
+  "key": "02196670",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02196670",
+  "name": "SAVANNAH RIVER JEFFERSON DAVIS BR, AT AUGUSTA, GA",
+  "waterbody": "SAVANNAH RIVER JEFFERSON DAVIS BR, AT AUGUSTA, GA",
+  "state": "GA",
+  "latitude": 33.4793333,
+  "longitude": -81.96338889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Savannah River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srag1",
+  "slug": "usgs-02196670",
+  "noaaForecastPath": "data/noaa-forecast/SRAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

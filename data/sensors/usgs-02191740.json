@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02191740",
+  "key": "02191740",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02191740",
+  "name": "CLOUDS CREEK AT WATSON MILL PARK NR CARLTON, GA",
+  "waterbody": "CLOUDS CREEK AT WATSON MILL PARK NR CARLTON, GA",
+  "state": "GA",
+  "latitude": 34.02066816,
+  "longitude": -83.0693128,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WMPG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cloud Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wmpg1",
+  "slug": "usgs-02191740",
+  "noaaForecastPath": "data/noaa-forecast/WMPG1.json",
+  "generatedAt": "2026-05-01T12:10:11.213Z"
+}

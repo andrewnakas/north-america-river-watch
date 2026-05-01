@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06661000",
+  "key": "06661000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06661000",
+  "name": "LITTLE LARAMIE RIVER NEAR FILMORE, WY",
+  "waterbody": "LITTLE LARAMIE RIVER NEAR FILMORE, WY",
+  "state": "WY",
+  "latitude": 41.2949554,
+  "longitude": -106.0347828,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMTW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Laramie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smtw4",
+  "slug": "usgs-06661000",
+  "noaaForecastPath": "data/noaa-forecast/SMTW4.json",
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

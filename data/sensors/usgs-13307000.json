@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13307000",
+  "key": "13307000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13307000",
+  "name": "SALMON RIVER NR SHOUP ID",
+  "waterbody": "SALMON RIVER NR SHOUP ID",
+  "state": "ID",
+  "latitude": 45.3225,
+  "longitude": -114.44,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13307000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.227Z"
+}

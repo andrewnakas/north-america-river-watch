@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05212700",
+  "key": "05212700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05212700",
+  "name": "PRAIRIE RIVER NEAR TACONITE, MN",
+  "waterbody": "PRAIRIE RIVER NEAR TACONITE, MN",
+  "state": "MN",
+  "latitude": 47.38884126,
+  "longitude": -93.3822856,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TACM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie River (MN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tacm5",
+  "slug": "usgs-05212700",
+  "noaaForecastPath": "data/noaa-forecast/TACM5.json",
+  "generatedAt": "2026-05-01T12:10:11.270Z"
+}

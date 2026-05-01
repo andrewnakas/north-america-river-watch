@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03335000",
+  "key": "03335000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03335000",
+  "name": "WILDCAT CREEK NEAR LAFAYETTE, IN",
+  "waterbody": "WILDCAT CREEK NEAR LAFAYETTE, IN",
+  "state": "IN",
+  "latitude": 40.4405833,
+  "longitude": -86.8291565,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYTI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wildcat Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lyti3",
+  "slug": "usgs-03335000",
+  "noaaForecastPath": "data/noaa-forecast/LYTI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

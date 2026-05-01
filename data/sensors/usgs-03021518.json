@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03021518",
+  "key": "03021518",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03021518",
+  "name": "Union City Reservoir on French Ck nr Union City,PA",
+  "waterbody": "Union City Reservoir on French Ck nr Union City,PA",
+  "state": "PA",
+  "latitude": 41.9203332,
+  "longitude": -79.8994966,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UCTP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "French Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/uctp1",
+  "slug": "usgs-03021518",
+  "noaaForecastPath": "data/noaa-forecast/UCTP1.json",
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

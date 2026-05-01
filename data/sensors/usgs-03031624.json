@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03031624",
+  "key": "03031624",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03031624",
+  "name": "Sandy Lick Creek at Dubois, PA",
+  "waterbody": "Sandy Lick Creek at Dubois, PA",
+  "state": "PA",
+  "latitude": 41.1254972,
+  "longitude": -78.7638861,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DUBP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sandy Lick Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dubp1",
+  "slug": "usgs-03031624",
+  "noaaForecastPath": "data/noaa-forecast/DUBP1.json",
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

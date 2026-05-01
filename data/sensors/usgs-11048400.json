@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11048400",
+  "key": "11048400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11048400",
+  "name": "MARSHBURN CHANNEL NR IRVINE CA",
+  "waterbody": "MARSHBURN CHANNEL NR IRVINE CA",
+  "state": "CA",
+  "latitude": 33.68390946,
+  "longitude": -117.7453307,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11048400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.171Z"
+}

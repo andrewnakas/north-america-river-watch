@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02135100",
+  "key": "02135100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02135100",
+  "name": "LITTLE PEE DEE RIVER NEAR CONWAY, SC",
+  "waterbody": "LITTLE PEE DEE RIVER NEAR CONWAY, SC",
+  "state": "SC",
+  "latitude": 33.83388889,
+  "longitude": -79.2519444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Pee Dee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lpcs1",
+  "slug": "usgs-02135100",
+  "noaaForecastPath": "data/noaa-forecast/LPCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

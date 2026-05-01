@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50128905",
+  "key": "50128905",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50128905",
+  "name": "CANAL DE RIEGO DE LAJAS BLW LAGO LOCO DAM YAUCO PR",
+  "waterbody": "CANAL DE RIEGO DE LAJAS BLW LAGO LOCO DAM YAUCO PR",
+  "state": "PR",
+  "latitude": 18.043044,
+  "longitude": -66.888561,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LOCP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lago Loco",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/locp4",
+  "slug": "usgs-50128905",
+  "noaaForecastPath": "data/noaa-forecast/LOCP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06709910",
+  "key": "06709910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06709910",
+  "name": "DUTCH CR AT PLATTE CANYON DRIVE NEAR LITTLETON, CO",
+  "waterbody": "DUTCH CR AT PLATTE CANYON DRIVE NEAR LITTLETON, CO",
+  "state": "CO",
+  "latitude": 39.60011111,
+  "longitude": -105.04192222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06709910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.180Z"
+}

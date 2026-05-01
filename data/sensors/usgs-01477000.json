@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01477000",
+  "key": "01477000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01477000",
+  "name": "Chester Creek near Chester, PA",
+  "waterbody": "Chester Creek near Chester, PA",
+  "state": "PA",
+  "latitude": 39.8690009,
+  "longitude": -75.4082494,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chester Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chsp1",
+  "slug": "usgs-01477000",
+  "noaaForecastPath": "data/noaa-forecast/CHSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

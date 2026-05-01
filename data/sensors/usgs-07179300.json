@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07179300",
+  "key": "07179300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07179300",
+  "name": "NEOSHO R NR PARKERVILLE, KS",
+  "waterbody": "NEOSHO R NR PARKERVILLE, KS",
+  "state": "KS",
+  "latitude": 38.75129167,
+  "longitude": -96.6496611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PKVK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neosho River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pkvk1",
+  "slug": "usgs-07179300",
+  "noaaForecastPath": "data/noaa-forecast/PKVK1.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

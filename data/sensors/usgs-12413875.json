@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12413875",
+  "key": "12413875",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12413875",
+  "name": "St Joe River at Red Ives Ranger Station, ID",
+  "waterbody": "St Joe River at Red Ives Ranger Station, ID",
+  "state": "ID",
+  "latitude": 47.05602858,
+  "longitude": -115.3532001,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SJII1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Joe River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sjii1",
+  "slug": "usgs-12413875",
+  "noaaForecastPath": "data/noaa-forecast/SJII1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

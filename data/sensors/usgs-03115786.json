@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03115786",
+  "key": "03115786",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03115786",
+  "name": "Duck Creek below Whipple OH",
+  "waterbody": "Duck Creek below Whipple OH",
+  "state": "OH",
+  "latitude": 39.50888889,
+  "longitude": -81.4230556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHPO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Duck Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whpo1",
+  "slug": "usgs-03115786",
+  "noaaForecastPath": "data/noaa-forecast/WHPO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

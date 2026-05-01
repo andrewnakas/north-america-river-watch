@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10130500",
+  "key": "10130500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10130500",
+  "name": "WEBER RIVER NEAR COALVILLE, UT",
+  "waterbody": "WEBER RIVER NEAR COALVILLE, UT",
+  "state": "UT",
+  "latitude": 40.89522527,
+  "longitude": -111.4018633,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLLU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Weber River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cllu1",
+  "slug": "usgs-10130500",
+  "noaaForecastPath": "data/noaa-forecast/CLLU1.json",
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

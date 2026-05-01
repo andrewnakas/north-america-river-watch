@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01586610",
+  "key": "01586610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01586610",
+  "name": "MORGAN RUN NEAR LOUISVILLE, MD",
+  "waterbody": "MORGAN RUN NEAR LOUISVILLE, MD",
+  "state": "MD",
+  "latitude": 39.45188889,
+  "longitude": -76.9553056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRLM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Morgan Run",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrlm2",
+  "slug": "usgs-01586610",
+  "noaaForecastPath": "data/noaa-forecast/MRLM2.json",
+  "generatedAt": "2026-05-01T12:10:11.258Z"
+}

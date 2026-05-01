@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13108900",
+  "key": "13108900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13108900",
+  "name": "CAMAS CREEK AT RED ROAD NR KILGORE ID",
+  "waterbody": "CAMAS CREEK AT RED ROAD NR KILGORE ID",
+  "state": "ID",
+  "latitude": 44.2888013,
+  "longitude": -111.8946949,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13108900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.225Z"
+}

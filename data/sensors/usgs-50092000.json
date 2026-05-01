@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50092000",
+  "key": "50092000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50092000",
+  "name": "RIO GRANDE DE PATILLAS NR PATILLAS, PR",
+  "waterbody": "RIO GRANDE DE PATILLAS NR PATILLAS, PR",
+  "state": "PR",
+  "latitude": 18.03218668,
+  "longitude": -66.0321088,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PATP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Patillas",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/patp4",
+  "slug": "usgs-50092000",
+  "noaaForecastPath": "data/noaa-forecast/PATP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

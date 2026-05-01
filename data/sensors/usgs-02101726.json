@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02101726",
+  "key": "02101726",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02101726",
+  "name": "ROCKY R AT US 64 NEAR SILER CITY, NC",
+  "waterbody": "ROCKY R AT US 64 NEAR SILER CITY, NC",
+  "state": "NC",
+  "latitude": 35.73514055,
+  "longitude": -79.4230754,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLCN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky River ",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slcn7",
+  "slug": "usgs-02101726",
+  "noaaForecastPath": "data/noaa-forecast/SLCN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

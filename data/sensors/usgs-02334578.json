@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02334578",
+  "key": "02334578",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02334578",
+  "name": "LEVEL CREEK AT SUWANEE DAM ROAD, NEAR SUWANEE, GA",
+  "waterbody": "LEVEL CREEK AT SUWANEE DAM ROAD, NEAR SUWANEE, GA",
+  "state": "GA",
+  "latitude": 34.09638889,
+  "longitude": -84.0780556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Level Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swag1",
+  "slug": "usgs-02334578",
+  "noaaForecastPath": "data/noaa-forecast/SWAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.216Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06811500",
+  "key": "06811500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06811500",
+  "name": "Little Nemaha River at Auburn, Nebr.",
+  "waterbody": "Little Nemaha River at Auburn, Nebr.",
+  "state": "NE",
+  "latitude": 40.392622,
+  "longitude": -95.814083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABRN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Nemaha River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abrn1",
+  "slug": "usgs-06811500",
+  "noaaForecastPath": "data/noaa-forecast/ABRN1.json",
+  "generatedAt": "2026-05-01T12:10:11.293Z"
+}

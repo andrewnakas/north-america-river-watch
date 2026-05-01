@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04036000",
+  "key": "04036000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04036000",
+  "name": "WEST BRANCH ONTONAGON RIVER NEAR BERGLAND, MI",
+  "waterbody": "WEST BRANCH ONTONAGON RIVER NEAR BERGLAND, MI",
+  "state": "MI",
+  "latitude": 46.5874471,
+  "longitude": -89.5418197,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGOM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Gogebic",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgom4",
+  "slug": "usgs-04036000",
+  "noaaForecastPath": "data/noaa-forecast/LGOM4.json",
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

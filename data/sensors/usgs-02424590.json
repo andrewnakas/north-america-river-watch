@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02424590",
+  "key": "02424590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02424590",
+  "name": "CAHABA RIVER NEAR SUTTLE, AL.",
+  "waterbody": "CAHABA RIVER NEAR SUTTLE, AL.",
+  "state": "AL",
+  "latitude": 32.5293002,
+  "longitude": -87.198884,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUTA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cahaba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/suta1",
+  "slug": "usgs-02424590",
+  "noaaForecastPath": "data/noaa-forecast/SUTA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

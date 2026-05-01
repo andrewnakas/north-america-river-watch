@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07227420",
+  "key": "07227420",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07227420",
+  "name": "Cramer Ck at US Hwy 54 nr Dalhart, TX",
+  "waterbody": "Cramer Ck at US Hwy 54 nr Dalhart, TX",
+  "state": "TX",
+  "latitude": 35.75125,
+  "longitude": -102.89316667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCMT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cramer Creek 30SW Dalhart",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcmt2",
+  "slug": "usgs-07227420",
+  "noaaForecastPath": "data/noaa-forecast/DCMT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01621410",
+  "key": "01621410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01621410",
+  "name": "BLACKS RUN AT RT 726 AT HARRISONBURG, VA",
+  "waterbody": "BLACKS RUN AT RT 726 AT HARRISONBURG, VA",
+  "state": "VA",
+  "latitude": 38.4220696,
+  "longitude": -78.8872493,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01621410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

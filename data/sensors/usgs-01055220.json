@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01055220",
+  "key": "01055220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01055220",
+  "name": "Dead River at Leeds, Maine",
+  "waterbody": "Dead River at Leeds, Maine",
+  "state": "ME",
+  "latitude": 44.31805556,
+  "longitude": -70.1222222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01055220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09047500",
+  "key": "09047500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09047500",
+  "name": "SNAKE RIVER NEAR MONTEZUMA, CO",
+  "waterbody": "SNAKE RIVER NEAR MONTEZUMA, CO",
+  "state": "CO",
+  "latitude": 39.605361,
+  "longitude": -105.943131,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKEC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River (CO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skec2",
+  "slug": "usgs-09047500",
+  "noaaForecastPath": "data/noaa-forecast/SKEC2.json",
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

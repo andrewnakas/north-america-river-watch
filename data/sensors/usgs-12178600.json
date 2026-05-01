@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12178600",
+  "key": "12178600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12178600",
+  "name": "SKAGIT RIVER BELOW BABCOCK CREEK NEAR NEWHALEM, WA",
+  "waterbody": "SKAGIT RIVER BELOW BABCOCK CREEK NEAR NEWHALEM, WA",
+  "state": "WA",
+  "latitude": 48.65913889,
+  "longitude": -121.2890278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12178600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

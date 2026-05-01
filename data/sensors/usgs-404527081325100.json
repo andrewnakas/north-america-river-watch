@@ -1,0 +1,19 @@
+{
+  "id": "usgs:404527081325100",
+  "key": "404527081325100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "404527081325100",
+  "name": "Flume at SR 30 nr 17th Street SW nr Canton OH",
+  "waterbody": "Flume at SR 30 nr 17th Street SW nr Canton OH",
+  "state": "OH",
+  "latitude": 40.7575,
+  "longitude": -81.5475,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-404527081325100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

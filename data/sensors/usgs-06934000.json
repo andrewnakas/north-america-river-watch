@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06934000",
+  "key": "06934000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06934000",
+  "name": "Gasconade River near Rich Fountain, MO",
+  "waterbody": "Gasconade River near Rich Fountain, MO",
+  "state": "MO",
+  "latitude": 38.38880556,
+  "longitude": -91.8198889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIFM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gasconade River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rifm7",
+  "slug": "usgs-06934000",
+  "noaaForecastPath": "data/noaa-forecast/RIFM7.json",
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01643395",
+  "key": "01643395",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01643395",
+  "name": "SOPER BRANCH AT HYATTSTOWN, MD",
+  "waterbody": "SOPER BRANCH AT HYATTSTOWN, MD",
+  "state": "MD",
+  "latitude": 39.275306,
+  "longitude": -77.303667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HYAM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Soper Branch",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hyam2",
+  "slug": "usgs-01643395",
+  "noaaForecastPath": "data/noaa-forecast/HYAM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

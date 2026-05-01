@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13330500",
+  "key": "13330500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13330500",
+  "name": "BEAR CREEK NEAR WALLOWA, OR",
+  "waterbody": "BEAR CREEK NEAR WALLOWA, OR",
+  "state": "OR",
+  "latitude": 45.52681145,
+  "longitude": -117.552411,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13330500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07054080",
+  "key": "07054080",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07054080",
+  "name": "Beaver Creek at Bradleyville, MO",
+  "waterbody": "Beaver Creek at Bradleyville, MO",
+  "state": "MO",
+  "latitude": 36.77963889,
+  "longitude": -92.9072778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRBM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brbm7",
+  "slug": "usgs-07054080",
+  "noaaForecastPath": "data/noaa-forecast/BRBM7.json",
+  "generatedAt": "2026-05-01T12:10:11.283Z"
+}

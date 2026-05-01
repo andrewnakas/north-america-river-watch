@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50043000",
+  "key": "50043000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50043000",
+  "name": "RIO DE LA PLATA AT PROYECTO LA PLATA, PR",
+  "waterbody": "RIO DE LA PLATA AT PROYECTO LA PLATA, PR",
+  "state": "PR",
+  "latitude": 18.16,
+  "longitude": -66.228889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AIBP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio De La Plata",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/aibp4",
+  "slug": "usgs-50043000",
+  "noaaForecastPath": "data/noaa-forecast/AIBP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

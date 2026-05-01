@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06773500",
+  "key": "06773500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06773500",
+  "name": "Prairie Creek near Silver Creek, Nebr.",
+  "waterbody": "Prairie Creek near Silver Creek, Nebr.",
+  "state": "NE",
+  "latitude": 41.32923333,
+  "longitude": -97.67545,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SIVN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Prairie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sivn1",
+  "slug": "usgs-06773500",
+  "noaaForecastPath": "data/noaa-forecast/SIVN1.json",
+  "generatedAt": "2026-05-01T12:10:11.292Z"
+}

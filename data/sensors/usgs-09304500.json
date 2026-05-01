@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09304500",
+  "key": "09304500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09304500",
+  "name": "WHITE RIVER NEAR MEEKER, CO.",
+  "waterbody": "WHITE RIVER NEAR MEEKER, CO.",
+  "state": "CO",
+  "latitude": 40.03359167,
+  "longitude": -107.86241944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wrmc2",
+  "slug": "usgs-09304500",
+  "noaaForecastPath": "data/noaa-forecast/WRMC2.json",
+  "generatedAt": "2026-05-01T12:10:11.189Z"
+}

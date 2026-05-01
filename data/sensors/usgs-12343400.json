@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12343400",
+  "key": "12343400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12343400",
+  "name": "East Fork Bitterroot River nr Conner MT",
+  "waterbody": "East Fork Bitterroot River nr Conner MT",
+  "state": "MT",
+  "latitude": 45.88301667,
+  "longitude": -114.0663139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12343400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02290918",
+  "key": "02290918",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02290918",
+  "name": "LOSTMANS RIVER BELOW SECOND BAY, FL",
+  "waterbody": "LOSTMANS RIVER BELOW SECOND BAY, FL",
+  "state": "FL",
+  "latitude": 25.55555556,
+  "longitude": -81.1647222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02290918",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.197Z"
+}

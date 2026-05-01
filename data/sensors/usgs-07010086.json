@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010086",
+  "key": "07010086",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010086",
+  "name": "Deer Creek at Maplewood, MO",
+  "waterbody": "Deer Creek at Maplewood, MO",
+  "state": "MO",
+  "latitude": 38.6009722,
+  "longitude": -90.3262778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010086",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

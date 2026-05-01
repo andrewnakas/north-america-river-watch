@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09223385",
+  "key": "09223385",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09223385",
+  "name": "Hams Fork below Viva Naughton Reservoir, WY",
+  "waterbody": "Hams Fork below Viva Naughton Reservoir, WY",
+  "state": "WY",
+  "latitude": 41.96336667,
+  "longitude": -110.6601056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VIVW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoirs",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vivw4",
+  "slug": "usgs-09223385",
+  "noaaForecastPath": "data/noaa-forecast/VIVW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

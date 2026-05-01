@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03209300",
+  "key": "03209300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03209300",
+  "name": "RUSSELL FORK AT ELKHORN CITY, KY",
+  "waterbody": "RUSSELL FORK AT ELKHORN CITY, KY",
+  "state": "KY",
+  "latitude": 37.30399717,
+  "longitude": -82.3429236,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03209300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

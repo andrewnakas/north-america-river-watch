@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09074800",
+  "key": "09074800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09074800",
+  "name": "CASTLE CREEK ABOVE ASPEN, CO.",
+  "waterbody": "CASTLE CREEK ABOVE ASPEN, CO.",
+  "state": "CO",
+  "latitude": 39.08748945,
+  "longitude": -106.8122608,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09074800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.185Z"
+}

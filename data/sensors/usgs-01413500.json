@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01413500",
+  "key": "01413500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01413500",
+  "name": "EAST BRANCH DELAWARE RIVER AT MARGARETVILLE NY",
+  "waterbody": "EAST BRANCH DELAWARE RIVER AT MARGARETVILLE NY",
+  "state": "NY",
+  "latitude": 42.14477778,
+  "longitude": -74.65336111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRGN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "East Branch Delaware River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrgn6",
+  "slug": "usgs-01413500",
+  "noaaForecastPath": "data/noaa-forecast/MRGN6.json",
+  "generatedAt": "2026-05-01T12:10:11.319Z"
+}

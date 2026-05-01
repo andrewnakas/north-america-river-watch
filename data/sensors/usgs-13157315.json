@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13157315",
+  "key": "13157315",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13157315",
+  "name": "TRIPLE C FARM PUMPING PLANT NR HAMMETT ID",
+  "waterbody": "TRIPLE C FARM PUMPING PLANT NR HAMMETT ID",
+  "state": "ID",
+  "latitude": 42.94934058,
+  "longitude": -115.6809156,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13157315",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08473575",
+  "key": "08473575",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08473575",
+  "name": "Rio Grande nr Los Indios, TX",
+  "waterbody": "Rio Grande nr Los Indios, TX",
+  "state": "TX",
+  "latitude": 26.045225,
+  "longitude": -97.7649083,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08473575",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.413Z"
+}

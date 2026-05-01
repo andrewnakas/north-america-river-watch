@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50049310",
+  "key": "50049310",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50049310",
+  "name": "QUEBRADA JOSEFINA AT PINERO AVENUE, PR",
+  "waterbody": "QUEBRADA JOSEFINA AT PINERO AVENUE, PR",
+  "state": "PR",
+  "latitude": 18.409167,
+  "longitude": -66.075556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QJOP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Piedras",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/qjop4",
+  "slug": "usgs-50049310",
+  "noaaForecastPath": "data/noaa-forecast/QJOP4.json",
+  "generatedAt": "2026-05-01T12:10:11.449Z"
+}

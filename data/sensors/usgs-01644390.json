@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01644390",
+  "key": "01644390",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01644390",
+  "name": "TENMILE CREEK NEAR BOYDS, MD",
+  "waterbody": "TENMILE CREEK NEAR BOYDS, MD",
+  "state": "MD",
+  "latitude": 39.216,
+  "longitude": -77.3164167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTMM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ten Mile Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btmm2",
+  "slug": "usgs-01644390",
+  "noaaForecastPath": "data/noaa-forecast/BTMM2.json",
+  "generatedAt": "2026-05-01T12:10:11.260Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06309200",
+  "key": "06309200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06309200",
+  "name": "MIDDLE FORK POWDER RIVER NEAR BARNUM, WY",
+  "waterbody": "MIDDLE FORK POWDER RIVER NEAR BARNUM, WY",
+  "state": "WY",
+  "latitude": 43.57773999,
+  "longitude": -107.1383995,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Powder River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfbw4",
+  "slug": "usgs-06309200",
+  "noaaForecastPath": "data/noaa-forecast/MFBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

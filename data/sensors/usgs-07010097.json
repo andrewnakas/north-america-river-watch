@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07010097",
+  "key": "07010097",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07010097",
+  "name": "River Des Peres at St. Louis, MO",
+  "waterbody": "River Des Peres at St. Louis, MO",
+  "state": "MO",
+  "latitude": 38.55925,
+  "longitude": -90.2832778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07010097",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.282Z"
+}

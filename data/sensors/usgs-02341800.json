@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02341800",
+  "key": "02341800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02341800",
+  "name": "UPATOI CREEK NEAR COLUMBUS, GA",
+  "waterbody": "UPATOI CREEK NEAR COLUMBUS, GA",
+  "state": "GA",
+  "latitude": 32.413,
+  "longitude": -84.82,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UPAG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upatoi Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/upag1",
+  "slug": "usgs-02341800",
+  "noaaForecastPath": "data/noaa-forecast/UPAG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02424000",
+  "key": "02424000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02424000",
+  "name": "CAHABA RIVER AT CENTREVILLE AL",
+  "waterbody": "CAHABA RIVER AT CENTREVILLE AL",
+  "state": "AL",
+  "latitude": 32.9451238,
+  "longitude": -87.1391623,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CKLA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cahaba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ckla1",
+  "slug": "usgs-02424000",
+  "noaaForecastPath": "data/noaa-forecast/CKLA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

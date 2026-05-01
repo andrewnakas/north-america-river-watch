@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03350655",
+  "key": "03350655",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03350655",
+  "name": "STONY CREEK AT FISHERSBURG, IN",
+  "waterbody": "STONY CREEK AT FISHERSBURG, IN",
+  "state": "IN",
+  "latitude": 40.06614287,
+  "longitude": -85.86301379,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCFI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scfi3",
+  "slug": "usgs-03350655",
+  "noaaForecastPath": "data/noaa-forecast/SCFI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

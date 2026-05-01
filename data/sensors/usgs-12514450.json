@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12514450",
+  "key": "12514450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12514450",
+  "name": "COLUMBIA RIVER ON ATON 49 AT KENNEWICK, WA",
+  "waterbody": "COLUMBIA RIVER ON ATON 49 AT KENNEWICK, WA",
+  "state": "WA",
+  "latitude": 46.22110278,
+  "longitude": -119.1206056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12514450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

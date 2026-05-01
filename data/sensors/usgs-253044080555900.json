@@ -1,0 +1,19 @@
+{
+  "id": "usgs:253044080555900",
+  "key": "253044080555900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "253044080555900",
+  "name": "EDEN 3 in Everglades National Park",
+  "waterbody": "EDEN 3 in Everglades National Park",
+  "state": "FL",
+  "latitude": 25.512125,
+  "longitude": -80.9331528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-253044080555900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

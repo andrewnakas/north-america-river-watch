@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06478522",
+  "key": "06478522",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06478522",
+  "name": "Bow Creek near Wynot, Nebr.",
+  "waterbody": "Bow Creek near Wynot, Nebr.",
+  "state": "NE",
+  "latitude": 42.76498611,
+  "longitude": -97.17251111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BOWN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bown1",
+  "slug": "usgs-06478522",
+  "noaaForecastPath": "data/noaa-forecast/BOWN1.json",
+  "generatedAt": "2026-05-01T12:10:11.291Z"
+}

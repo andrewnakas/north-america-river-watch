@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13018350",
+  "key": "13018350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13018350",
+  "name": "FLAT CREEK BELOW CACHE CREEK, NEAR JACKSON, WY",
+  "waterbody": "FLAT CREEK BELOW CACHE CREEK, NEAR JACKSON, WY",
+  "state": "WY",
+  "latitude": 43.4583611,
+  "longitude": -110.7970278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FCKW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat Creek (WY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fckw4",
+  "slug": "usgs-13018350",
+  "noaaForecastPath": "data/noaa-forecast/FCKW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

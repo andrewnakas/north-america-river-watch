@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14206950",
+  "key": "14206950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14206950",
+  "name": "FANNO CREEK AT DURHAM, OR",
+  "waterbody": "FANNO CREEK AT DURHAM, OR",
+  "state": "OR",
+  "latitude": 45.403452,
+  "longitude": -122.7548185,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DURO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fanno Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/duro3",
+  "slug": "usgs-14206950",
+  "noaaForecastPath": "data/noaa-forecast/DURO3.json",
+  "generatedAt": "2026-05-01T12:10:11.348Z"
+}

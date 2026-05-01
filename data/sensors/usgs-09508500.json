@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09508500",
+  "key": "09508500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09508500",
+  "name": "VERDE RVR BLW TANGLE CREEK, ABV HORSESHOE DAM, AZ",
+  "waterbody": "VERDE RVR BLW TANGLE CREEK, ABV HORSESHOE DAM, AZ",
+  "state": "AZ",
+  "latitude": 34.0731053,
+  "longitude": -111.71627341,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VDTA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Verde River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vdta3",
+  "slug": "usgs-09508500",
+  "noaaForecastPath": "data/noaa-forecast/VDTA3.json",
+  "generatedAt": "2026-05-01T12:10:11.163Z"
+}

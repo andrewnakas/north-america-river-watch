@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06218500",
+  "key": "06218500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06218500",
+  "name": "WIND RIVER NEAR DUBOIS, WY",
+  "waterbody": "WIND RIVER NEAR DUBOIS, WY",
+  "state": "WY",
+  "latitude": 43.57856415,
+  "longitude": -109.7598835,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DUBW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wind River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dubw4",
+  "slug": "usgs-06218500",
+  "noaaForecastPath": "data/noaa-forecast/DUBW4.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

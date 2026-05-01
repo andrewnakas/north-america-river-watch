@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01595300",
+  "key": "01595300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01595300",
+  "name": "ABRAM CREEK AT OAKMONT, WV",
+  "waterbody": "ABRAM CREEK AT OAKMONT, WV",
+  "state": "WV",
+  "latitude": 39.36676569,
+  "longitude": -79.17892449,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OKMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Abram Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/okmw2",
+  "slug": "usgs-01595300",
+  "noaaForecastPath": "data/noaa-forecast/OKMW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

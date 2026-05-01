@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09035500",
+  "key": "09035500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09035500",
+  "name": "WILLIAMS FORK BELOW STEELMAN CREEK, CO.",
+  "waterbody": "WILLIAMS FORK BELOW STEELMAN CREEK, CO.",
+  "state": "CO",
+  "latitude": 39.77887549,
+  "longitude": -105.9283469,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09035500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

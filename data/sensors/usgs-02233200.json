@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02233200",
+  "key": "02233200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02233200",
+  "name": "LITTLE ECONLOCKHATCHEE RIVER NEAR UNION PARK, FL",
+  "waterbody": "LITTLE ECONLOCKHATCHEE RIVER NEAR UNION PARK, FL",
+  "state": "FL",
+  "latitude": 28.5250021,
+  "longitude": -81.243956,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02233200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.194Z"
+}

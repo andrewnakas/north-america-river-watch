@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02336635",
+  "key": "02336635",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02336635",
+  "name": "NICKAJACK CREEK AT US 78/278, NEAR MABLETON, GA",
+  "waterbody": "NICKAJACK CREEK AT US 78/278, NEAR MABLETON, GA",
+  "state": "GA",
+  "latitude": 33.8033333,
+  "longitude": -84.52138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NICG1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nickajack Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nicg1",
+  "slug": "usgs-02336635",
+  "noaaForecastPath": "data/noaa-forecast/NICG1.json",
+  "generatedAt": "2026-05-01T12:10:11.217Z"
+}

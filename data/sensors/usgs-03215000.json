@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03215000",
+  "key": "03215000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03215000",
+  "name": "BIG SANDY R AT LOUISA, KY",
+  "waterbody": "BIG SANDY R AT LOUISA, KY",
+  "state": "KY",
+  "latitude": 38.17119708,
+  "longitude": -82.6346023,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLRK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Sandy River (KY)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/flrk2",
+  "slug": "usgs-03215000",
+  "noaaForecastPath": "data/noaa-forecast/FLRK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

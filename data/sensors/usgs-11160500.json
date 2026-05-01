@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11160500",
+  "key": "11160500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11160500",
+  "name": "SAN LORENZO R A BIG TREES CA",
+  "waterbody": "SAN LORENZO R A BIG TREES CA",
+  "state": "CA",
+  "latitude": 37.0443931,
+  "longitude": -122.072464,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTEC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Lorenzo River (CA)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btec1",
+  "slug": "usgs-11160500",
+  "noaaForecastPath": "data/noaa-forecast/BTEC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

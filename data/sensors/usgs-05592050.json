@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05592050",
+  "key": "05592050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05592050",
+  "name": "ROBINSON CREEK NEAR SHELBYVILLE, IL",
+  "waterbody": "ROBINSON CREEK NEAR SHELBYVILLE, IL",
+  "state": "IL",
+  "latitude": 39.40588889,
+  "longitude": -88.8968056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SRCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Robinson Creek (IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/srci2",
+  "slug": "usgs-05592050",
+  "noaaForecastPath": "data/noaa-forecast/SRCI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

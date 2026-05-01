@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08065950",
+  "key": "08065950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065950",
+  "name": "Nelson Ck nr Riverside, TX",
+  "waterbody": "Nelson Ck nr Riverside, TX",
+  "state": "TX",
+  "latitude": 30.8944111,
+  "longitude": -95.5144611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08065950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

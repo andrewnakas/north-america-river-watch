@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01643700",
+  "key": "01643700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01643700",
+  "name": "GOOSE CREEK NEAR MIDDLEBURG, VA",
+  "waterbody": "GOOSE CREEK NEAR MIDDLEBURG, VA",
+  "state": "VA",
+  "latitude": 38.98649818,
+  "longitude": -77.7966614,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDLV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goose Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdlv2",
+  "slug": "usgs-01643700",
+  "noaaForecastPath": "data/noaa-forecast/MDLV2.json",
+  "generatedAt": "2026-05-01T12:10:11.420Z"
+}

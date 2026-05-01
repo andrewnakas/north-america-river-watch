@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05055400",
+  "key": "05055400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05055400",
+  "name": "SHEYENNE R BL DEVILS LK STATE OUTLET NR BREMEN, ND",
+  "waterbody": "SHEYENNE R BL DEVILS LK STATE OUTLET NR BREMEN, ND",
+  "state": "ND",
+  "latitude": 47.82138889,
+  "longitude": -99.2761111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BRMN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brmn8",
+  "slug": "usgs-05055400",
+  "noaaForecastPath": "data/noaa-forecast/BRMN8.json",
+  "generatedAt": "2026-05-01T12:10:11.330Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05376000",
+  "key": "05376000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05376000",
+  "name": "NORTH FORK WHITEWATER RIVER NEAR ELBA, MN",
+  "waterbody": "NORTH FORK WHITEWATER RIVER NEAR ELBA, MN",
+  "state": "MN",
+  "latitude": 44.09163075,
+  "longitude": -92.0659959,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05376000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.276Z"
+}

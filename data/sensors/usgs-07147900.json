@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07147900",
+  "key": "07147900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07147900",
+  "name": "WALNUT R AT ARKANSAS CITY, KS",
+  "waterbody": "WALNUT R AT ARKANSAS CITY, KS",
+  "state": "KS",
+  "latitude": 37.05641826,
+  "longitude": -97.0258709,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARKK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walnut River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arkk1",
+  "slug": "usgs-07147900",
+  "noaaForecastPath": "data/noaa-forecast/ARKK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

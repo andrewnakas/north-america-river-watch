@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08023400",
+  "key": "08023400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08023400",
+  "name": "Bayou San Patricio near Benson, LA",
+  "waterbody": "Bayou San Patricio near Benson, LA",
+  "state": "LA",
+  "latitude": 31.8751667,
+  "longitude": -93.65851499,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08023400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

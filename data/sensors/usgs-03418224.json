@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03418224",
+  "key": "03418224",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03418224",
+  "name": "JENNINGS CREEK AT RILEY CR RD AT WHITLEYVILLE, TN",
+  "waterbody": "JENNINGS CREEK AT RILEY CR RD AT WHITLEYVILLE, TN",
+  "state": "TN",
+  "latitude": 36.44027778,
+  "longitude": -85.6747222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JNCT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Jennings Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jnct1",
+  "slug": "usgs-03418224",
+  "noaaForecastPath": "data/noaa-forecast/JNCT1.json",
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

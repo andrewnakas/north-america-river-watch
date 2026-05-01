@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01601100",
+  "key": "01601100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01601100",
+  "name": "WILLS CREEK AT ELLERSLIE, MD",
+  "waterbody": "WILLS CREEK AT ELLERSLIE, MD",
+  "state": "MD",
+  "latitude": 39.7185,
+  "longitude": -78.7709722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01601100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.259Z"
+}

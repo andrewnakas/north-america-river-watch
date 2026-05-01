@@ -1,0 +1,22 @@
+{
+  "id": "usgs:295124089542100",
+  "key": "295124089542100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "295124089542100",
+  "name": "Caernarvon Outfall Channel at Caernarvon, LA",
+  "waterbody": "Caernarvon Outfall Channel at Caernarvon, LA",
+  "state": "LA",
+  "latitude": 29.85355556,
+  "longitude": -89.9076944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Breton Sound Basin",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cocl1",
+  "slug": "usgs-295124089542100",
+  "noaaForecastPath": "data/noaa-forecast/COCL1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13034450",
+  "key": "13034450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13034450",
+  "name": "RAINEY CK AT SWAN VALLEY IDAHO",
+  "waterbody": "RAINEY CK AT SWAN VALLEY IDAHO",
+  "state": "ID",
+  "latitude": 43.44563056,
+  "longitude": -111.3298556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RACI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rainey Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/raci1",
+  "slug": "usgs-13034450",
+  "noaaForecastPath": "data/noaa-forecast/RACI1.json",
+  "generatedAt": "2026-05-01T12:10:11.223Z"
+}

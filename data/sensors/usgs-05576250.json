@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05576250",
+  "key": "05576250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576250",
+  "name": "SUGAR CREEK NEAR SPRINGFIELD, IL",
+  "waterbody": "SUGAR CREEK NEAR SPRINGFIELD, IL",
+  "state": "IL",
+  "latitude": 39.77913889,
+  "longitude": -89.5925278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SUGI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar Creek (W-Central IL)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sugi2",
+  "slug": "usgs-05576250",
+  "noaaForecastPath": "data/noaa-forecast/SUGI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

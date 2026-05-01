@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05434500",
+  "key": "05434500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05434500",
+  "name": "PECATONICA RIVER AT MARTINTOWN, WI",
+  "waterbody": "PECATONICA RIVER AT MARTINTOWN, WI",
+  "state": "WI",
+  "latitude": 42.51,
+  "longitude": -89.8013889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTNW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pecatonica River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtnw3",
+  "slug": "usgs-05434500",
+  "noaaForecastPath": "data/noaa-forecast/MTNW3.json",
+  "generatedAt": "2026-05-01T12:10:11.443Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15266110",
+  "key": "15266110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15266110",
+  "name": "KENAI R BL SKILAK LK OUTLET NR STERLING AK",
+  "waterbody": "KENAI R BL SKILAK LK OUTLET NR STERLING AK",
+  "state": "AK",
+  "latitude": 60.4660763,
+  "longitude": -150.6010714,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SKLA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kenai River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/skla2",
+  "slug": "usgs-15266110",
+  "noaaForecastPath": "data/noaa-forecast/SKLA2.json",
+  "generatedAt": "2026-05-01T12:10:11.156Z"
+}

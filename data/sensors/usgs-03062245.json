@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03062245",
+  "key": "03062245",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03062245",
+  "name": "MONONGAHELA R AT HILDEBRAND LOCK & DAM (UPPER), WV",
+  "waterbody": "MONONGAHELA R AT HILDEBRAND LOCK & DAM (UPPER), WV",
+  "state": "WV",
+  "latitude": 39.58174955,
+  "longitude": -80.0095122,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MGTW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Monongahela River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mgtw2",
+  "slug": "usgs-03062245",
+  "noaaForecastPath": "data/noaa-forecast/MGTW2.json",
+  "generatedAt": "2026-05-01T12:10:11.435Z"
+}

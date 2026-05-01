@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01536500",
+  "key": "01536500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01536500",
+  "name": "Susquehanna River at Wilkes-Barre, PA",
+  "waterbody": "Susquehanna River at Wilkes-Barre, PA",
+  "state": "PA",
+  "latitude": 41.2509149,
+  "longitude": -75.8807518,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBRP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Susquehanna River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbrp1",
+  "slug": "usgs-01536500",
+  "noaaForecastPath": "data/noaa-forecast/WBRP1.json",
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

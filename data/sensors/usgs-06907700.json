@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06907700",
+  "key": "06907700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06907700",
+  "name": "Blackwater River at Valley City, MO",
+  "waterbody": "Blackwater River at Valley City, MO",
+  "state": "MO",
+  "latitude": 38.87001315,
+  "longitude": -93.6221588,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VLYM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blackwater River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vlym7",
+  "slug": "usgs-06907700",
+  "noaaForecastPath": "data/noaa-forecast/VLYM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

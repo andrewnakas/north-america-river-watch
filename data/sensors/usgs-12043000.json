@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12043000",
+  "key": "12043000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12043000",
+  "name": "CALAWAH RIVER NEAR FORKS, WA",
+  "waterbody": "CALAWAH RIVER NEAR FORKS, WA",
+  "state": "WA",
+  "latitude": 47.96007697,
+  "longitude": -124.3929872,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CALW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Calawah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/calw1",
+  "slug": "usgs-12043000",
+  "noaaForecastPath": "data/noaa-forecast/CALW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

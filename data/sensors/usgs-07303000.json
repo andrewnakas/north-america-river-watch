@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07303000",
+  "key": "07303000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07303000",
+  "name": "North Fork Red River blw Altus Dam nr Lugert, OK",
+  "waterbody": "North Fork Red River blw Altus Dam nr Lugert, OK",
+  "state": "OK",
+  "latitude": 34.88950479,
+  "longitude": -99.307028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LGTO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork of the Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lgto2",
+  "slug": "usgs-07303000",
+  "noaaForecastPath": "data/noaa-forecast/LGTO2.json",
+  "generatedAt": "2026-05-01T12:10:11.342Z"
+}

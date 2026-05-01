@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03543500",
+  "key": "03543500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03543500",
+  "name": "SEWEE CREEK NEAR DECATUR, TN",
+  "waterbody": "SEWEE CREEK NEAR DECATUR, TN",
+  "state": "TN",
+  "latitude": 35.5813165,
+  "longitude": -84.7480508,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SEET1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sewee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/seet1",
+  "slug": "usgs-03543500",
+  "noaaForecastPath": "data/noaa-forecast/SEET1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

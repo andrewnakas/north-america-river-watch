@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50047850",
+  "key": "50047850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50047850",
+  "name": "RIO DE BAYAMON NR BAYAMON, PR",
+  "waterbody": "RIO DE BAYAMON NR BAYAMON, PR",
+  "state": "PR",
+  "latitude": 18.334278,
+  "longitude": -66.139478,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BAYP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Bayamon",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bayp4",
+  "slug": "usgs-50047850",
+  "noaaForecastPath": "data/noaa-forecast/BAYP4.json",
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08066250",
+  "key": "08066250",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08066250",
+  "name": "Trinity Rv nr Goodrich, TX",
+  "waterbody": "Trinity Rv nr Goodrich, TX",
+  "state": "TX",
+  "latitude": 30.57214544,
+  "longitude": -94.9488223,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRIT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Trinity River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grit2",
+  "slug": "usgs-08066250",
+  "noaaForecastPath": "data/noaa-forecast/GRIT2.json",
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

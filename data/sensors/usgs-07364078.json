@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07364078",
+  "key": "07364078",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07364078",
+  "name": "Ouachita River at Felsenthal L&D (lower)",
+  "waterbody": "Ouachita River at Felsenthal L&D (lower)",
+  "state": "AR",
+  "latitude": 33.0561111,
+  "longitude": -92.1208333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07364078",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.168Z"
+}

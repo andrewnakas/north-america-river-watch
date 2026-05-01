@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03074850",
+  "key": "03074850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03074850",
+  "name": "Pike Run at Granville, PA",
+  "waterbody": "Pike Run at Granville, PA",
+  "state": "PA",
+  "latitude": 40.06618445,
+  "longitude": -79.9111593,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03074850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.359Z"
+}

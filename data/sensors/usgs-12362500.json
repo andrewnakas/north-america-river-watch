@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12362500",
+  "key": "12362500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12362500",
+  "name": "S F Flathead River nr Columbia Falls MT",
+  "waterbody": "S F Flathead River nr Columbia Falls MT",
+  "state": "MT",
+  "latitude": 48.35657778,
+  "longitude": -114.0378583,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SFCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Flathead River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sfcm8",
+  "slug": "usgs-12362500",
+  "noaaForecastPath": "data/noaa-forecast/SFCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.290Z"
+}

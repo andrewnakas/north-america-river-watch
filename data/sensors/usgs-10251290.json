@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251290",
+  "key": "10251290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251290",
+  "name": "BOREHOLE SPG CHANNEL NR TECOPA HOT SPGS, CA",
+  "waterbody": "BOREHOLE SPG CHANNEL NR TECOPA HOT SPGS, CA",
+  "state": "CA",
+  "latitude": 35.88569444,
+  "longitude": -116.23425,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251290",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.169Z"
+}

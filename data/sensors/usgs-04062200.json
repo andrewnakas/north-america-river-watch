@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04062200",
+  "key": "04062200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04062200",
+  "name": "PESHEKEE RIVER NEAR CHAMPION, MI",
+  "waterbody": "PESHEKEE RIVER NEAR CHAMPION, MI",
+  "state": "MI",
+  "latitude": 46.5568788,
+  "longitude": -88.0026337,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04062200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.264Z"
+}

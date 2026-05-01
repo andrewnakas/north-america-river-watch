@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03192000",
+  "key": "03192000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03192000",
+  "name": "GAULEY RIVER ABOVE BELVA, WV",
+  "waterbody": "GAULEY RIVER ABOVE BELVA, WV",
+  "state": "WV",
+  "latitude": 38.2334395,
+  "longitude": -81.1809415,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BVAW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gauley River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bvaw2",
+  "slug": "usgs-03192000",
+  "noaaForecastPath": "data/noaa-forecast/BVAW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

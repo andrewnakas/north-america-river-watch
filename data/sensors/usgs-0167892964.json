@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0167892964",
+  "key": "0167892964",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0167892964",
+  "name": "NEWMARKET CREEK AT MERCURY BLVD AT HAMPTON, VA",
+  "waterbody": "NEWMARKET CREEK AT MERCURY BLVD AT HAMPTON, VA",
+  "state": "VA",
+  "latitude": 37.0449722,
+  "longitude": -76.36777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NMCV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "New Market Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nmcv2",
+  "slug": "usgs-0167892964",
+  "noaaForecastPath": "data/noaa-forecast/NMCV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

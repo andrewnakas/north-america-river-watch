@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06483500",
+  "key": "06483500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06483500",
+  "name": "Rock River near Rock Valley, IA",
+  "waterbody": "Rock River near Rock Valley, IA",
+  "state": "IA",
+  "latitude": 43.2150833,
+  "longitude": -96.2950278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RKVI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rock River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rkvi4",
+  "slug": "usgs-06483500",
+  "noaaForecastPath": "data/noaa-forecast/RKVI4.json",
+  "generatedAt": "2026-05-01T12:10:11.241Z"
+}

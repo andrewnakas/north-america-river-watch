@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12058800",
+  "key": "12058800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12058800",
+  "name": "NF SKOKOMISH R BL LWR CUSHMAN DAM NR POTLATCH, WA",
+  "waterbody": "NF SKOKOMISH R BL LWR CUSHMAN DAM NR POTLATCH, WA",
+  "state": "WA",
+  "latitude": 47.3906475,
+  "longitude": -123.209602,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12058800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

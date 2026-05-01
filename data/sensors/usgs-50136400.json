@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50136400",
+  "key": "50136400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50136400",
+  "name": "RIO ROSARIO NR HORMIGUEROS, PR",
+  "waterbody": "RIO ROSARIO NR HORMIGUEROS, PR",
+  "state": "PR",
+  "latitude": 18.160086,
+  "longitude": -67.085764,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MAYP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Rosario",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mayp4",
+  "slug": "usgs-50136400",
+  "noaaForecastPath": "data/noaa-forecast/MAYP4.json",
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

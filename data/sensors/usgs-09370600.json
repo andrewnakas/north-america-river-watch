@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09370600",
+  "key": "09370600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09370600",
+  "name": "MANCOS RIVER AT ANITAS FLAT BELOW MANCOS, CO",
+  "waterbody": "MANCOS RIVER AT ANITAS FLAT BELOW MANCOS, CO",
+  "state": "CO",
+  "latitude": 37.2524964,
+  "longitude": -108.3578618,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09370600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.190Z"
+}

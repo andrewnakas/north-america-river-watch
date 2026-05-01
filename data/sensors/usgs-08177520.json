@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08177520",
+  "key": "08177520",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08177520",
+  "name": "Guadalupe Rv nr Bloomington, TX",
+  "waterbody": "Guadalupe Rv nr Bloomington, TX",
+  "state": "TX",
+  "latitude": 28.66194444,
+  "longitude": -96.9652778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DUPT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Guadalupe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dupt2",
+  "slug": "usgs-08177520",
+  "noaaForecastPath": "data/noaa-forecast/DUPT2.json",
+  "generatedAt": "2026-05-01T12:10:11.411Z"
+}

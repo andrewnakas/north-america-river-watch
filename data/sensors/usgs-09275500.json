@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09275500",
+  "key": "09275500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09275500",
+  "name": "WEST FORK DUCHESNE RIVER NEAR HANNA, UT",
+  "waterbody": "WEST FORK DUCHESNE RIVER NEAR HANNA, UT",
+  "state": "UT",
+  "latitude": 40.45022335,
+  "longitude": -110.8843304,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09275500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.414Z"
+}

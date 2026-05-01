@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03351201",
+  "key": "03351201",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03351201",
+  "name": "WHITE RIVER AT INDIANAPOLIS MUSEUM OF ART, IN",
+  "waterbody": "WHITE RIVER AT INDIANAPOLIS MUSEUM OF ART, IN",
+  "state": "IN",
+  "latitude": 39.83114575,
+  "longitude": -86.1855245,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "IMAI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/imai3",
+  "slug": "usgs-03351201",
+  "noaaForecastPath": "data/noaa-forecast/IMAI3.json",
+  "generatedAt": "2026-05-01T12:10:11.235Z"
+}

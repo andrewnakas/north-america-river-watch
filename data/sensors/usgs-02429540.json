@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02429540",
+  "key": "02429540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02429540",
+  "name": "ALABAMA RIVER AT CHOCTAW BLUFF, AL.",
+  "waterbody": "ALABAMA RIVER AT CHOCTAW BLUFF, AL.",
+  "state": "AL",
+  "latitude": 31.3637786,
+  "longitude": -87.7649946,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHBA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Alabama River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chba1",
+  "slug": "usgs-02429540",
+  "noaaForecastPath": "data/noaa-forecast/CHBA1.json",
+  "generatedAt": "2026-05-01T12:10:11.152Z"
+}

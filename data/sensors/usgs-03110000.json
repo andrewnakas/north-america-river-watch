@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03110000",
+  "key": "03110000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03110000",
+  "name": "Yellow Creek near Hammondsville OH",
+  "waterbody": "Yellow Creek near Hammondsville OH",
+  "state": "OH",
+  "latitude": 40.53784235,
+  "longitude": -80.7250777,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "YELO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Yellow Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/yelo1",
+  "slug": "usgs-03110000",
+  "noaaForecastPath": "data/noaa-forecast/YELO1.json",
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

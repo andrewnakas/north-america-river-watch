@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08083430",
+  "key": "08083430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08083430",
+  "name": "Elm Ck at Abilene, TX",
+  "waterbody": "Elm Ck at Abilene, TX",
+  "state": "TX",
+  "latitude": 32.50730556,
+  "longitude": -99.7410278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08083430",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.406Z"
+}

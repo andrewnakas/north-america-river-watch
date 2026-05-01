@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02115860",
+  "key": "02115860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02115860",
+  "name": "MUDDY CREEK NEAR MUDDY CREEK, NC",
+  "waterbody": "MUDDY CREEK NEAR MUDDY CREEK, NC",
+  "state": "NC",
+  "latitude": 36.00027778,
+  "longitude": -80.3402778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02115860",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03010674",
+  "key": "03010674",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03010674",
+  "name": "ROOT CREEK AT DAVIS STREET AT BOLIVAR NY",
+  "waterbody": "ROOT CREEK AT DAVIS STREET AT BOLIVAR NY",
+  "state": "NY",
+  "latitude": 42.06438889,
+  "longitude": -78.1629444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLVN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Root Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blvn6",
+  "slug": "usgs-03010674",
+  "noaaForecastPath": "data/noaa-forecast/BLVN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

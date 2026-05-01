@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01351200",
+  "key": "01351200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01351200",
+  "name": "FOX CREEK NEAR SCHOHARIE NY",
+  "waterbody": "FOX CREEK NEAR SCHOHARIE NY",
+  "state": "NY",
+  "latitude": 42.67363889,
+  "longitude": -74.25411111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01351200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.317Z"
+}

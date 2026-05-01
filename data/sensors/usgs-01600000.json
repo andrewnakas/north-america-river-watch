@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01600000",
+  "key": "01600000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01600000",
+  "name": "NORTH BRANCH POTOMAC RIVER AT PINTO, MD",
+  "waterbody": "NORTH BRANCH POTOMAC RIVER AT PINTO, MD",
+  "state": "WV",
+  "latitude": 39.56680556,
+  "longitude": -78.8395556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01600000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

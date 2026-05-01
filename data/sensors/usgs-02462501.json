@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02462501",
+  "key": "02462501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02462501",
+  "name": "BLACK WARRIOR R BL BANKHEAD L&D NEAR BESSEMER AL",
+  "waterbody": "BLACK WARRIOR R BL BANKHEAD L&D NEAR BESSEMER AL",
+  "state": "AL",
+  "latitude": 33.45705687,
+  "longitude": -87.355001,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLDA1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Warrior River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blda1",
+  "slug": "usgs-02462501",
+  "noaaForecastPath": "data/noaa-forecast/BLDA1.json",
+  "generatedAt": "2026-05-01T12:10:11.153Z"
+}

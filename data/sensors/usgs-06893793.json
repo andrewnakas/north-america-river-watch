@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06893793",
+  "key": "06893793",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06893793",
+  "name": "Little Blue River below Longview Dam at KC, MO",
+  "waterbody": "Little Blue River below Longview Dam at KC, MO",
+  "state": "MO",
+  "latitude": 38.92591667,
+  "longitude": -94.4685833,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LNZM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Reservoirs  Longview Reservoir",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lnzm7",
+  "slug": "usgs-06893793",
+  "noaaForecastPath": "data/noaa-forecast/LNZM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05049710",
+  "key": "05049710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05049710",
+  "name": "LAKE TRAVERSE OTLT AT RESERVATION DAM NR WHEATON",
+  "waterbody": "LAKE TRAVERSE OTLT AT RESERVATION DAM NR WHEATON",
+  "state": "MN",
+  "latitude": 45.7694444,
+  "longitude": -96.6388889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TRAM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Traverse",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tram5",
+  "slug": "usgs-05049710",
+  "noaaForecastPath": "data/noaa-forecast/TRAM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

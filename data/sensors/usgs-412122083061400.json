@@ -1,0 +1,19 @@
+{
+  "id": "usgs:412122083061400",
+  "key": "412122083061400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "412122083061400",
+  "name": "Sandusky River below Bradys Island at Fremont OH",
+  "waterbody": "Sandusky River below Bradys Island at Fremont OH",
+  "state": "OH",
+  "latitude": 41.3561111,
+  "longitude": -83.10388889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-412122083061400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.339Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02130450",
+  "key": "02130450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02130450",
+  "name": "THOMPSON CREEK AT CHESTERFIELD, SC",
+  "waterbody": "THOMPSON CREEK AT CHESTERFIELD, SC",
+  "state": "SC",
+  "latitude": 34.72863889,
+  "longitude": -80.0640556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTCS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Thompson Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btcs1",
+  "slug": "usgs-02130450",
+  "noaaForecastPath": "data/noaa-forecast/BTCS1.json",
+  "generatedAt": "2026-05-01T12:10:11.361Z"
+}

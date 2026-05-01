@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10038000",
+  "key": "10038000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10038000",
+  "name": "BEAR RIVER BELOW SMITHS FORK, NR COKEVILLE, WY",
+  "waterbody": "BEAR RIVER BELOW SMITHS FORK, NR COKEVILLE, WY",
+  "state": "WY",
+  "latitude": 42.12652778,
+  "longitude": -110.9731972,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COKW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cokw4",
+  "slug": "usgs-10038000",
+  "noaaForecastPath": "data/noaa-forecast/COKW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

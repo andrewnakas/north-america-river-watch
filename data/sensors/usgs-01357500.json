@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01357500",
+  "key": "01357500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01357500",
+  "name": "MOHAWK RIVER AT COHOES NY",
+  "waterbody": "MOHAWK RIVER AT COHOES NY",
+  "state": "NY",
+  "latitude": 42.78538889,
+  "longitude": -73.70777778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mohawk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cohn6",
+  "slug": "usgs-01357500",
+  "noaaForecastPath": "data/noaa-forecast/COHN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0212414900",
+  "key": "0212414900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0212414900",
+  "name": "MALLARD CR BL STONY CR NR HARRISBURG, NC",
+  "waterbody": "MALLARD CR BL STONY CR NR HARRISBURG, NC",
+  "state": "NC",
+  "latitude": 35.33277778,
+  "longitude": -80.7158333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mallard Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcln7",
+  "slug": "usgs-0212414900",
+  "noaaForecastPath": "data/noaa-forecast/MCLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

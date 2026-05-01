@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14184300",
+  "key": "14184300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14184300",
+  "name": "SOUTH SANTIAM RIVER AT UPPER SODA, OR",
+  "waterbody": "SOUTH SANTIAM RIVER AT UPPER SODA, OR",
+  "state": "OR",
+  "latitude": 44.40475,
+  "longitude": -122.278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14184300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

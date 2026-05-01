@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07232900",
+  "key": "07232900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07232900",
+  "name": "Coldwater Creek near Guymon, OK",
+  "waterbody": "Coldwater Creek near Guymon, OK",
+  "state": "OK",
+  "latitude": 36.57197137,
+  "longitude": -101.3815489,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07232900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

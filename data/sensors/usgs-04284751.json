@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04284751",
+  "key": "04284751",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04284751",
+  "name": "WINOOSKI R @ US2, BLW STEVENS BR, NR MONTPELIER VT",
+  "waterbody": "WINOOSKI R @ US2, BLW STEVENS BR, NR MONTPELIER VT",
+  "state": "VT",
+  "latitude": 44.24555556,
+  "longitude": -72.54888889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04284751",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.419Z"
+}

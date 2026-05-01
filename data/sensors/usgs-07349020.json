@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07349020",
+  "key": "07349020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07349020",
+  "name": "Bayou Dorcheat near Sibley, LA.",
+  "waterbody": "Bayou Dorcheat near Sibley, LA.",
+  "state": "LA",
+  "latitude": 32.53730556,
+  "longitude": -93.3303333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07349020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

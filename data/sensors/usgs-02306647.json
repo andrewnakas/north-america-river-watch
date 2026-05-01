@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02306647",
+  "key": "02306647",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02306647",
+  "name": "SWEETWATER CREEK NEAR TAMPA FL",
+  "waterbody": "SWEETWATER CREEK NEAR TAMPA FL",
+  "state": "FL",
+  "latitude": 28.01390775,
+  "longitude": -82.5450963,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sckf1",
+  "slug": "usgs-02306647",
+  "noaaForecastPath": "data/noaa-forecast/SCKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.202Z"
+}

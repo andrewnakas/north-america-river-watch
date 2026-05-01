@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05099400",
+  "key": "05099400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05099400",
+  "name": "LITTLE SOUTH PEMBINA RIVER NR WALHALLA, ND",
+  "waterbody": "LITTLE SOUTH PEMBINA RIVER NR WALHALLA, ND",
+  "state": "ND",
+  "latitude": 48.86527259,
+  "longitude": -98.0059317,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LPRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little South Pembina River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lprn8",
+  "slug": "usgs-05099400",
+  "noaaForecastPath": "data/noaa-forecast/LPRN8.json",
+  "generatedAt": "2026-05-01T12:10:11.331Z"
+}

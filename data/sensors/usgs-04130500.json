@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04130500",
+  "key": "04130500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04130500",
+  "name": "BLACK RIVER NEAR TOWER, MI",
+  "waterbody": "BLACK RIVER NEAR TOWER, MI",
+  "state": "MI",
+  "latitude": 45.39251206,
+  "longitude": -84.3333547,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04130500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.266Z"
+}

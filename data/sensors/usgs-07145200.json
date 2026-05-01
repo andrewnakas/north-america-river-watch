@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07145200",
+  "key": "07145200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07145200",
+  "name": "SF NINNESCAH R NR MURDOCK, KS",
+  "waterbody": "SF NINNESCAH R NR MURDOCK, KS",
+  "state": "KS",
+  "latitude": 37.561683,
+  "longitude": -97.8531094,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDKK1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ninnescah River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdkk1",
+  "slug": "usgs-07145200",
+  "noaaForecastPath": "data/noaa-forecast/MDKK1.json",
+  "generatedAt": "2026-05-01T12:10:11.245Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06910750",
+  "key": "06910750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06910750",
+  "name": "Moreau River near Jefferson City, MO",
+  "waterbody": "Moreau River near Jefferson City, MO",
+  "state": "MO",
+  "latitude": 38.52902778,
+  "longitude": -92.1920278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCMM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moreau River (MO)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jcmm7",
+  "slug": "usgs-06910750",
+  "noaaForecastPath": "data/noaa-forecast/JCMM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

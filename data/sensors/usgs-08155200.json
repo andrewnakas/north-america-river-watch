@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08155200",
+  "key": "08155200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08155200",
+  "name": "Barton Ck at SH 71 nr Oak Hill, TX",
+  "waterbody": "Barton Ck at SH 71 nr Oak Hill, TX",
+  "state": "TX",
+  "latitude": 30.29631587,
+  "longitude": -97.925565,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OHBT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Barton Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ohbt2",
+  "slug": "usgs-08155200",
+  "noaaForecastPath": "data/noaa-forecast/OHBT2.json",
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329914",
+  "key": "08329914",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329914",
+  "name": "N CAMINO ARROYO TR AT WYO BLVD AT ALBUQUERQUE, NM",
+  "waterbody": "N CAMINO ARROYO TR AT WYO BLVD AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.1964333,
+  "longitude": -106.5664139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329914",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

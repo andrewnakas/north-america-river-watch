@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01577505",
+  "key": "01577505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01577505",
+  "name": "Susquehanna River near Peach Bottom, PA",
+  "waterbody": "Susquehanna River near Peach Bottom, PA",
+  "state": "PA",
+  "latitude": 39.7778611,
+  "longitude": -76.2663056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01577505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

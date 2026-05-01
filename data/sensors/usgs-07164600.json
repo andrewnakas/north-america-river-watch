@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07164600",
+  "key": "07164600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07164600",
+  "name": "Joe Creek at 61st St at Tulsa, OK",
+  "waterbody": "Joe Creek at 61st St at Tulsa, OK",
+  "state": "OK",
+  "latitude": 36.07565044,
+  "longitude": -95.9605501,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TJOO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Joe Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tjoo2",
+  "slug": "usgs-07164600",
+  "noaaForecastPath": "data/noaa-forecast/TJOO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

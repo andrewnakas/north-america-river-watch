@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08045995",
+  "key": "08045995",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08045995",
+  "name": "Clear Fork Trinity Rv at Kelly Rd nr Aledo, TX",
+  "waterbody": "Clear Fork Trinity Rv at Kelly Rd nr Aledo, TX",
+  "state": "TX",
+  "latitude": 32.65305556,
+  "longitude": -97.5863889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08045995",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06244500",
+  "key": "06244500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06244500",
+  "name": "Fivemile Creek ab Wyoming Canal, nr Pavillion, WY",
+  "waterbody": "Fivemile Creek ab Wyoming Canal, nr Pavillion, WY",
+  "state": "WY",
+  "latitude": 43.30134657,
+  "longitude": -108.7028948,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06244500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

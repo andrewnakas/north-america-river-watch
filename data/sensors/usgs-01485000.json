@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01485000",
+  "key": "01485000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01485000",
+  "name": "POCOMOKE RIVER NEAR WILLARDS, MD",
+  "waterbody": "POCOMOKE RIVER NEAR WILLARDS, MD",
+  "state": "MD",
+  "latitude": 38.388889,
+  "longitude": -75.324444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLRM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pocomoke River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlrm2",
+  "slug": "usgs-01485000",
+  "noaaForecastPath": "data/noaa-forecast/WLRM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

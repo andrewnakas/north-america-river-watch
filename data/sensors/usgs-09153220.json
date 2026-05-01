@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09153220",
+  "key": "09153220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09153220",
+  "name": "LITTLE SALT WASH BLW GREENWAY DRIVE AT FRUITA, CO",
+  "waterbody": "LITTLE SALT WASH BLW GREENWAY DRIVE AT FRUITA, CO",
+  "state": "CO",
+  "latitude": 39.159319,
+  "longitude": -108.743739,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09153220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01010070",
+  "key": "01010070",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01010070",
+  "name": "Big Black River near Depot Mtn, Maine",
+  "waterbody": "Big Black River near Depot Mtn, Maine",
+  "state": "ME",
+  "latitude": 46.89388889,
+  "longitude": -69.7516667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBRM1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Black River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbrm1",
+  "slug": "usgs-01010070",
+  "noaaForecastPath": "data/noaa-forecast/BBRM1.json",
+  "generatedAt": "2026-05-01T12:10:11.255Z"
+}

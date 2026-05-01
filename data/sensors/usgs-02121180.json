@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02121180",
+  "key": "02121180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02121180",
+  "name": "NORTH POTTS CREEK AT LINWOOD, NC",
+  "waterbody": "NORTH POTTS CREEK AT LINWOOD, NC",
+  "state": "NC",
+  "latitude": 35.75791597,
+  "longitude": -80.32310849,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02121180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

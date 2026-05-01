@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09471400",
+  "key": "09471400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09471400",
+  "name": "BABOCOMARI RIVER NEAR TOMBSTONE, AZ",
+  "waterbody": "BABOCOMARI RIVER NEAR TOMBSTONE, AZ",
+  "state": "AZ",
+  "latitude": 31.70051389,
+  "longitude": -110.2275778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BABA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Babocomari River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/baba3",
+  "slug": "usgs-09471400",
+  "noaaForecastPath": "data/noaa-forecast/BABA3.json",
+  "generatedAt": "2026-05-01T12:10:11.161Z"
+}

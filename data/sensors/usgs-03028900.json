@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03028900",
+  "key": "03028900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03028900",
+  "name": "Elk Creek at Ridgway, PA",
+  "waterbody": "Elk Creek at Ridgway, PA",
+  "state": "PA",
+  "latitude": 41.42533907,
+  "longitude": -78.72697208,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03028900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.357Z"
+}

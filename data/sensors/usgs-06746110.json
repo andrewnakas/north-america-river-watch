@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06746110",
+  "key": "06746110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06746110",
+  "name": "JOE WRIGHT CREEK BELOW JOE WRIGHT RESERVOIR, CO",
+  "waterbody": "JOE WRIGHT CREEK BELOW JOE WRIGHT RESERVOIR, CO",
+  "state": "CO",
+  "latitude": 40.5619264,
+  "longitude": -105.8639,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06746110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

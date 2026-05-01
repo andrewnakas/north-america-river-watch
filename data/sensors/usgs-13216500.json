@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13216500",
+  "key": "13216500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13216500",
+  "name": "NF MALHEUR R AB BEULAH RES NR BEULAH OR",
+  "waterbody": "NF MALHEUR R AB BEULAH RES NR BEULAH OR",
+  "state": "OR",
+  "latitude": 43.9482139,
+  "longitude": -118.1743637,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MABO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Malheur River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mabo3",
+  "slug": "usgs-13216500",
+  "noaaForecastPath": "data/noaa-forecast/MABO3.json",
+  "generatedAt": "2026-05-01T12:10:11.344Z"
+}

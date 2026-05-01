@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08065200",
+  "key": "08065200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08065200",
+  "name": "Upper Keechi Ck nr Oakwood, TX",
+  "waterbody": "Upper Keechi Ck nr Oakwood, TX",
+  "state": "TX",
+  "latitude": 31.56989618,
+  "longitude": -95.8882938,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08065200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.392Z"
+}

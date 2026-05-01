@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02294747",
+  "key": "02294747",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02294747",
+  "name": "SIXMILE CREEK AT BARTOW FL",
+  "waterbody": "SIXMILE CREEK AT BARTOW FL",
+  "state": "FL",
+  "latitude": 27.8634972,
+  "longitude": -81.8094778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXZF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sixmile Creek Near Bartow",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxzf1",
+  "slug": "usgs-02294747",
+  "noaaForecastPath": "data/noaa-forecast/SXZF1.json",
+  "generatedAt": "2026-05-01T12:10:11.198Z"
+}

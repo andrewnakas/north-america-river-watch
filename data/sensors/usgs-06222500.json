@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06222500",
+  "key": "06222500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06222500",
+  "name": "DRY CREEK NEAR BURRIS, WY",
+  "waterbody": "DRY CREEK NEAR BURRIS, WY",
+  "state": "WY",
+  "latitude": 43.3363457,
+  "longitude": -109.2993044,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06222500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

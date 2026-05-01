@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01514000",
+  "key": "01514000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01514000",
+  "name": "OWEGO CREEK NEAR OWEGO NY",
+  "waterbody": "OWEGO CREEK NEAR OWEGO NY",
+  "state": "NY",
+  "latitude": 42.12916667,
+  "longitude": -76.2705556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWCN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Owego Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owcn6",
+  "slug": "usgs-01514000",
+  "noaaForecastPath": "data/noaa-forecast/OWCN6.json",
+  "generatedAt": "2026-05-01T12:10:11.320Z"
+}

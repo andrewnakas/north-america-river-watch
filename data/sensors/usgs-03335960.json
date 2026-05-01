@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03335960",
+  "key": "03335960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03335960",
+  "name": "REDWOOD CREEK NEAR MARSHFIELD, IN",
+  "waterbody": "REDWOOD CREEK NEAR MARSHFIELD, IN",
+  "state": "IN",
+  "latitude": 40.27975,
+  "longitude": -87.4433333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Redwood Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcmi3",
+  "slug": "usgs-03335960",
+  "noaaForecastPath": "data/noaa-forecast/RCMI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

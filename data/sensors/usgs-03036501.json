@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03036501",
+  "key": "03036501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03036501",
+  "name": "Allegheny River (lower pool) at Kittanning, PA",
+  "waterbody": "Allegheny River (lower pool) at Kittanning, PA",
+  "state": "PA",
+  "latitude": 40.81780278,
+  "longitude": -79.53051389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03036501",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.358Z"
+}

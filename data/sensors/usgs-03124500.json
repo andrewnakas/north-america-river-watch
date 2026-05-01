@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03124500",
+  "key": "03124500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03124500",
+  "name": "Sugar Creek at Strasburg OH",
+  "waterbody": "Sugar Creek at Strasburg OH",
+  "state": "OH",
+  "latitude": 40.5875624,
+  "longitude": -81.523175,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03124500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.334Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03213500",
+  "key": "03213500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03213500",
+  "name": "PANTHER CREEK NEAR PANTHER, WV",
+  "waterbody": "PANTHER CREEK NEAR PANTHER, WV",
+  "state": "WV",
+  "latitude": 37.44555556,
+  "longitude": -81.8711111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PANW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Panther Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/panw2",
+  "slug": "usgs-03213500",
+  "noaaForecastPath": "data/noaa-forecast/PANW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

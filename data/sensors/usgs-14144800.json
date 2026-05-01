@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14144800",
+  "key": "14144800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14144800",
+  "name": "MIDDLE FORK WILLAMETTE RIVER NR OAKRIDGE, OR",
+  "waterbody": "MIDDLE FORK WILLAMETTE RIVER NR OAKRIDGE, OR",
+  "state": "OR",
+  "latitude": 43.60178867,
+  "longitude": -122.4575474,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFOO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mid Fork Willamette River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mfoo3",
+  "slug": "usgs-14144800",
+  "noaaForecastPath": "data/noaa-forecast/MFOO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

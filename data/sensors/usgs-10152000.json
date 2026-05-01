@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10152000",
+  "key": "10152000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10152000",
+  "name": "SPANISH FORK NEAR LAKE SHORE, UTAH",
+  "waterbody": "SPANISH FORK NEAR LAKE SHORE, UTAH",
+  "state": "UT",
+  "latitude": 40.15023176,
+  "longitude": -111.7260394,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10152000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

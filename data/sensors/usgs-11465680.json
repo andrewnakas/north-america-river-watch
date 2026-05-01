@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11465680",
+  "key": "11465680",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11465680",
+  "name": "LAGUNA DE SANTA ROSA A STONY PT RD NR COTATI CA",
+  "waterbody": "LAGUNA DE SANTA ROSA A STONY PT RD NR COTATI CA",
+  "state": "CA",
+  "latitude": 38.3520977,
+  "longitude": -122.7441164,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTIC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Laguna de Santa Rosa",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctic1",
+  "slug": "usgs-11465680",
+  "noaaForecastPath": "data/noaa-forecast/CTIC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

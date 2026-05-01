@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12166150",
+  "key": "12166150",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12166150",
+  "name": "NF STILLAGUAMISH NR SWEDE HEAVEN, WA",
+  "waterbody": "NF STILLAGUAMISH NR SWEDE HEAVEN, WA",
+  "state": "WA",
+  "latitude": 48.27766667,
+  "longitude": -121.8101667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12166150",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

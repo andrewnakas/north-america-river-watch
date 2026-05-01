@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04219501",
+  "key": "04219501",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04219501",
+  "name": "NIAGARA RIVER AT LEWISTON NY",
+  "waterbody": "NIAGARA RIVER AT LEWISTON NY",
+  "state": "NY",
+  "latitude": 43.174556,
+  "longitude": -79.0495,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEWN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Niagara River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lewn6",
+  "slug": "usgs-04219501",
+  "noaaForecastPath": "data/noaa-forecast/LEWN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

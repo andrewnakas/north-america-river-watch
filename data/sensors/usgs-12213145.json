@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12213145",
+  "key": "12213145",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12213145",
+  "name": "NOOKSACK RIVER AT MARINE DR BR NR BELLINGHAM, WA",
+  "waterbody": "NOOKSACK RIVER AT MARINE DR BR NR BELLINGHAM, WA",
+  "state": "WA",
+  "latitude": 48.7913111,
+  "longitude": -122.589375,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12213145",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

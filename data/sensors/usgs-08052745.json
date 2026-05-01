@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08052745",
+  "key": "08052745",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08052745",
+  "name": "Doe Br at US Hwy 380 nr Prosper, TX",
+  "waterbody": "Doe Br at US Hwy 380 nr Prosper, TX",
+  "state": "TX",
+  "latitude": 33.219298,
+  "longitude": -96.8919565,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08052745",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.390Z"
+}

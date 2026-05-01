@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01401000",
+  "key": "01401000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01401000",
+  "name": "Stony Brook at Princeton NJ",
+  "waterbody": "Stony Brook at Princeton NJ",
+  "state": "NJ",
+  "latitude": 40.33305556,
+  "longitude": -74.68194444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCTN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stony Brook",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pctn4",
+  "slug": "usgs-01401000",
+  "noaaForecastPath": "data/noaa-forecast/PCTN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

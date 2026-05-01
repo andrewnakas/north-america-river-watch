@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07031692",
+  "key": "07031692",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07031692",
+  "name": "FLETCHER CREEK AT SYCAMORE VIEW ROAD AT MEMPHIS",
+  "waterbody": "FLETCHER CREEK AT SYCAMORE VIEW ROAD AT MEMPHIS",
+  "state": "TN",
+  "latitude": 35.16937845,
+  "longitude": -89.8661226,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MPHT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Fletcher Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mpht1",
+  "slug": "usgs-07031692",
+  "noaaForecastPath": "data/noaa-forecast/MPHT1.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

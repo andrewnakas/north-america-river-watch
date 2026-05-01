@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05570910",
+  "key": "05570910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05570910",
+  "name": "SANGAMON RIVER AT FISHER, IL",
+  "waterbody": "SANGAMON RIVER AT FISHER, IL",
+  "state": "IL",
+  "latitude": 40.3109972,
+  "longitude": -88.3223611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FISI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sangamon River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fisi2",
+  "slug": "usgs-05570910",
+  "noaaForecastPath": "data/noaa-forecast/FISI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

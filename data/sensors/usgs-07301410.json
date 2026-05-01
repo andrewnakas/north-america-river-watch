@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07301410",
+  "key": "07301410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07301410",
+  "name": "Sweetwater Ck nr Kelton, TX",
+  "waterbody": "Sweetwater Ck nr Kelton, TX",
+  "state": "TX",
+  "latitude": 35.47310419,
+  "longitude": -100.1209501,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KTNT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sweetwater Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ktnt2",
+  "slug": "usgs-07301410",
+  "noaaForecastPath": "data/noaa-forecast/KTNT2.json",
+  "generatedAt": "2026-05-01T12:10:11.388Z"
+}

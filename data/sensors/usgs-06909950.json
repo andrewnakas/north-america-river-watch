@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06909950",
+  "key": "06909950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06909950",
+  "name": "Petite Saline Creek at Hwy U nr Boonville, M0",
+  "waterbody": "Petite Saline Creek at Hwy U nr Boonville, M0",
+  "state": "MO",
+  "latitude": 38.9172222,
+  "longitude": -92.7041667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BONM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Petite Saline Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bonm7",
+  "slug": "usgs-06909950",
+  "noaaForecastPath": "data/noaa-forecast/BONM7.json",
+  "generatedAt": "2026-05-01T12:10:11.281Z"
+}

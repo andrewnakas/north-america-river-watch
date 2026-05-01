@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01486000",
+  "key": "01486000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01486000",
+  "name": "MANOKIN BRANCH NEAR PRINCESS ANNE, MD",
+  "waterbody": "MANOKIN BRANCH NEAR PRINCESS ANNE, MD",
+  "state": "MD",
+  "latitude": 38.21388889,
+  "longitude": -75.67138889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MNBM2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manokin Branch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mnbm2",
+  "slug": "usgs-01486000",
+  "noaaForecastPath": "data/noaa-forecast/MNBM2.json",
+  "generatedAt": "2026-05-01T12:10:11.257Z"
+}

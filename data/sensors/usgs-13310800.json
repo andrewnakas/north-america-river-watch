@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13310800",
+  "key": "13310800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13310800",
+  "name": "EFSF SALMON R ABV MEADOW CRK NR STIBNITE, ID",
+  "waterbody": "EFSF SALMON R ABV MEADOW CRK NR STIBNITE, ID",
+  "state": "ID",
+  "latitude": 44.90225,
+  "longitude": -115.3256667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13310800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

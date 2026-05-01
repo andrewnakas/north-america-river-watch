@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0210166029",
+  "key": "0210166029",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0210166029",
+  "name": "ROCKY R AT SR1300 NR CRUTCHFIELD CROSSROADS, NC",
+  "waterbody": "ROCKY R AT SR1300 NR CRUTCHFIELD CROSSROADS, NC",
+  "state": "NC",
+  "latitude": 35.80694444,
+  "longitude": -79.5275,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCRN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rocky River NC",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccrn7",
+  "slug": "usgs-0210166029",
+  "noaaForecastPath": "data/noaa-forecast/CCRN7.json",
+  "generatedAt": "2026-05-01T12:10:11.327Z"
+}

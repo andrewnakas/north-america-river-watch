@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05476735",
+  "key": "05476735",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05476735",
+  "name": "Pilot Creek at County Hwy P15 near Rolfe, IA",
+  "waterbody": "Pilot Creek at County Hwy P15 near Rolfe, IA",
+  "state": "IA",
+  "latitude": 42.80575,
+  "longitude": -94.4626389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RLFI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pilot Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rlfi4",
+  "slug": "usgs-05476735",
+  "noaaForecastPath": "data/noaa-forecast/RLFI4.json",
+  "generatedAt": "2026-05-01T12:10:11.240Z"
+}

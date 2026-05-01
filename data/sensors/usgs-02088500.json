@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02088500",
+  "key": "02088500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02088500",
+  "name": "LITTLE RIVER NEAR PRINCETON, NC",
+  "waterbody": "LITTLE RIVER NEAR PRINCETON, NC",
+  "state": "NC",
+  "latitude": 35.51138889,
+  "longitude": -78.1602778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNTN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (North Carolina)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pntn7",
+  "slug": "usgs-02088500",
+  "noaaForecastPath": "data/noaa-forecast/PNTN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

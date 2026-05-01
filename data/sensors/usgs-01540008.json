@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01540008",
+  "key": "01540008",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01540008",
+  "name": "Susquehanna River at Catawissa, PA",
+  "waterbody": "Susquehanna River at Catawissa, PA",
+  "state": "PA",
+  "latitude": 40.953994,
+  "longitude": -76.467994,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01540008",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.355Z"
+}

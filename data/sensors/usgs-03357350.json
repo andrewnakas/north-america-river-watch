@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03357350",
+  "key": "03357350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03357350",
+  "name": "PLUM CREEK NEAR BAINBRIDGE, IN",
+  "waterbody": "PLUM CREEK NEAR BAINBRIDGE, IN",
+  "state": "IN",
+  "latitude": 39.76170225,
+  "longitude": -86.7294311,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCBI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Plum Creek (IN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcbi3",
+  "slug": "usgs-03357350",
+  "noaaForecastPath": "data/noaa-forecast/PCBI3.json",
+  "generatedAt": "2026-05-01T12:10:11.236Z"
+}

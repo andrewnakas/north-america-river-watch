@@ -1,0 +1,19 @@
+{
+  "id": "usgs:483517101595000",
+  "key": "483517101595000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "483517101595000",
+  "name": "DES LACS RIVER NEAR BADEN, ND",
+  "waterbody": "DES LACS RIVER NEAR BADEN, ND",
+  "state": "ND",
+  "latitude": 48.58638889,
+  "longitude": -101.9972222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-483517101595000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.333Z"
+}

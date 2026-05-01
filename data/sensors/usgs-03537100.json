@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03537100",
+  "key": "03537100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03537100",
+  "name": "MELTON BRANCH NR MELTON HILL NR OAK RIDGE, TN",
+  "waterbody": "MELTON BRANCH NR MELTON HILL NR OAK RIDGE, TN",
+  "state": "TN",
+  "latitude": 35.9164665,
+  "longitude": -84.29797829,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03537100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

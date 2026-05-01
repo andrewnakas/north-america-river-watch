@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02081028",
+  "key": "02081028",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02081028",
+  "name": "ROANOKE RIVER AT HAMILTON, NC",
+  "waterbody": "ROANOKE RIVER AT HAMILTON, NC",
+  "state": "NC",
+  "latitude": 35.9475,
+  "longitude": -77.2025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HMLN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Roanoke River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hmln7",
+  "slug": "usgs-02081028",
+  "noaaForecastPath": "data/noaa-forecast/HMLN7.json",
+  "generatedAt": "2026-05-01T12:10:11.324Z"
+}

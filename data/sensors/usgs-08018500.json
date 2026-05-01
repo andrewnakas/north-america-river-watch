@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08018500",
+  "key": "08018500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08018500",
+  "name": "Sabine Rv nr Mineola, TX",
+  "waterbody": "Sabine Rv nr Mineola, TX",
+  "state": "TX",
+  "latitude": 32.61374667,
+  "longitude": -95.4857901,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MLAT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sabine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mlat2",
+  "slug": "usgs-08018500",
+  "noaaForecastPath": "data/noaa-forecast/MLAT2.json",
+  "generatedAt": "2026-05-01T12:10:11.389Z"
+}

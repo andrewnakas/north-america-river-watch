@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05414213",
+  "key": "05414213",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05414213",
+  "name": "LITTLE PLATTE RIVER NEAR PLATTEVILLE, WI",
+  "waterbody": "LITTLE PLATTE RIVER NEAR PLATTEVILLE, WI",
+  "state": "WI",
+  "latitude": 42.7230489,
+  "longitude": -90.5281842,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05414213",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.442Z"
+}

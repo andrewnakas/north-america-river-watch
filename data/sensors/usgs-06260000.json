@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06260000",
+  "key": "06260000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06260000",
+  "name": "SOUTH FORK OWL CREEK NEAR ANCHOR, WY",
+  "waterbody": "SOUTH FORK OWL CREEK NEAR ANCHOR, WY",
+  "state": "WY",
+  "latitude": 43.66666667,
+  "longitude": -108.855,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OWLW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Owl Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/owlw4",
+  "slug": "usgs-06260000",
+  "noaaForecastPath": "data/noaa-forecast/OWLW4.json",
+  "generatedAt": "2026-05-01T12:10:11.444Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02330100",
+  "key": "02330100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02330100",
+  "name": "TELOGIA CREEK NR BRISTOL, FLA.",
+  "waterbody": "TELOGIA CREEK NR BRISTOL, FLA.",
+  "state": "FL",
+  "latitude": 30.426585,
+  "longitude": -84.92769349,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TELF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Telogia Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/telf1",
+  "slug": "usgs-02330100",
+  "noaaForecastPath": "data/noaa-forecast/TELF1.json",
+  "generatedAt": "2026-05-01T12:10:11.209Z"
+}

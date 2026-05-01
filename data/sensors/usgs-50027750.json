@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50027750",
+  "key": "50027750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50027750",
+  "name": "RIO GRANDE DE ARECIBO ABV ARECIBO, PR",
+  "waterbody": "RIO GRANDE DE ARECIBO ABV ARECIBO, PR",
+  "state": "PR",
+  "latitude": 18.42078038,
+  "longitude": -66.6990636,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50027750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.448Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0214244102",
+  "key": "0214244102",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0214244102",
+  "name": "CATAWBA RIVER BL LOOKOUT SHOALS DAM NR SHARON, NC",
+  "waterbody": "CATAWBA RIVER BL LOOKOUT SHOALS DAM NR SHARON, NC",
+  "state": "NC",
+  "latitude": 35.75719444,
+  "longitude": -81.08915,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LKSN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lksn7",
+  "slug": "usgs-0214244102",
+  "noaaForecastPath": "data/noaa-forecast/LKSN7.json",
+  "generatedAt": "2026-05-01T12:10:11.328Z"
+}

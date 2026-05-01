@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03338780",
+  "key": "03338780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03338780",
+  "name": "NORTH FORK VERMILION RIVER NEAR BISMARCK, IL",
+  "waterbody": "NORTH FORK VERMILION RIVER NEAR BISMARCK, IL",
+  "state": "IL",
+  "latitude": 40.26566667,
+  "longitude": -87.64213889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BISI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Vermilion River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bisi2",
+  "slug": "usgs-03338780",
+  "noaaForecastPath": "data/noaa-forecast/BISI2.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

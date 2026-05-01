@@ -1,0 +1,19 @@
+{
+  "id": "usgs:445959096582600",
+  "key": "445959096582600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "445959096582600",
+  "name": "PRECIP AT WAVERLY, SD",
+  "waterbody": "PRECIP AT WAVERLY, SD",
+  "state": "SD",
+  "latitude": 44.99968738,
+  "longitude": -96.9742376,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-445959096582600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.383Z"
+}

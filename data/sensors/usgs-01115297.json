@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01115297",
+  "key": "01115297",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01115297",
+  "name": "WILBUR HOLLOW BK AT OLD PLAINFIELD PK NR CLAYVILLE",
+  "waterbody": "WILBUR HOLLOW BK AT OLD PLAINFIELD PK NR CLAYVILLE",
+  "state": "RI",
+  "latitude": 41.7648219,
+  "longitude": -71.6356207,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01115297",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

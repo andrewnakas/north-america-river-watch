@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04201400",
+  "key": "04201400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04201400",
+  "name": "West Branch Rocky River at West View OH",
+  "waterbody": "West Branch Rocky River at West View OH",
+  "state": "OH",
+  "latitude": 41.3508833,
+  "longitude": -81.9031933,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSNO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Branch Rocky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csno1",
+  "slug": "usgs-04201400",
+  "noaaForecastPath": "data/noaa-forecast/CSNO1.json",
+  "generatedAt": "2026-05-01T12:10:11.338Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02032515",
+  "key": "02032515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02032515",
+  "name": "S F RIVANNA RIVER NEAR CHARLOTTESVILLE, VA",
+  "waterbody": "S F RIVANNA RIVER NEAR CHARLOTTESVILLE, VA",
+  "state": "VA",
+  "latitude": 38.10180306,
+  "longitude": -78.4605666,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SORV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Rivanna River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sorv2",
+  "slug": "usgs-02032515",
+  "noaaForecastPath": "data/noaa-forecast/SORV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12025700",
+  "key": "12025700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12025700",
+  "name": "SKOOKUMCHUCK RIVER NEAR VAIL, WA",
+  "waterbody": "SKOOKUMCHUCK RIVER NEAR VAIL, WA",
+  "state": "WA",
+  "latitude": 46.77260276,
+  "longitude": -122.5940086,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VALW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skookumchuck River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/valw1",
+  "slug": "usgs-12025700",
+  "noaaForecastPath": "data/noaa-forecast/VALW1.json",
+  "generatedAt": "2026-05-01T12:10:11.426Z"
+}

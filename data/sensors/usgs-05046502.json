@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05046502",
+  "key": "05046502",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05046502",
+  "name": "OTTER TAIL RIVER AT 11TH ST IN BRECKENRIDGE, MN",
+  "waterbody": "OTTER TAIL RIVER AT 11TH ST IN BRECKENRIDGE, MN",
+  "state": "MN",
+  "latitude": 46.2744035,
+  "longitude": -96.5800732,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BROM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Otter Tail River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/brom5",
+  "slug": "usgs-05046502",
+  "noaaForecastPath": "data/noaa-forecast/BROM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03310300",
+  "key": "03310300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03310300",
+  "name": "NOLIN RIVER AT WHITE MILLS, KY",
+  "waterbody": "NOLIN RIVER AT WHITE MILLS, KY",
+  "state": "KY",
+  "latitude": 37.56200389,
+  "longitude": -86.0366333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHMK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nolin River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whmk2",
+  "slug": "usgs-03310300",
+  "noaaForecastPath": "data/noaa-forecast/WHMK2.json",
+  "generatedAt": "2026-05-01T12:10:11.249Z"
+}

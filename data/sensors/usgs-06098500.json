@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06098500",
+  "key": "06098500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06098500",
+  "name": "Cut Bank Creek near Browning MT",
+  "waterbody": "Cut Bank Creek near Browning MT",
+  "state": "MT",
+  "latitude": 48.6168583,
+  "longitude": -113.0361083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBCM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cut Bank Creek",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbcm8",
+  "slug": "usgs-06098500",
+  "noaaForecastPath": "data/noaa-forecast/CBCM8.json",
+  "generatedAt": "2026-05-01T12:10:11.286Z"
+}

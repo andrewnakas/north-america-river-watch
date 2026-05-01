@@ -1,0 +1,19 @@
+{
+  "id": "usgs:131610556",
+  "key": "131610556",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "131610556",
+  "name": "MCCALLEY DAM OUTFLOW AT MOUNTAIN HOME AFB ID",
+  "waterbody": "MCCALLEY DAM OUTFLOW AT MOUNTAIN HOME AFB ID",
+  "state": "ID",
+  "latitude": 43.05027778,
+  "longitude": -115.8944444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-131610556",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03196800",
+  "key": "03196800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03196800",
+  "name": "ELK RIVER AT CLAY, WV",
+  "waterbody": "ELK RIVER AT CLAY, WV",
+  "state": "WV",
+  "latitude": 38.46065656,
+  "longitude": -81.0876087,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLYW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clyw2",
+  "slug": "usgs-03196800",
+  "noaaForecastPath": "data/noaa-forecast/CLYW2.json",
+  "generatedAt": "2026-05-01T12:10:11.436Z"
+}

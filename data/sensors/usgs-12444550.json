@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12444550",
+  "key": "12444550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12444550",
+  "name": "BONAPARTE CREEK AT TONASKET, WA",
+  "waterbody": "BONAPARTE CREEK AT TONASKET, WA",
+  "state": "WA",
+  "latitude": 48.70121386,
+  "longitude": -119.442823,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCRW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bonaparte Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcrw1",
+  "slug": "usgs-12444550",
+  "noaaForecastPath": "data/noaa-forecast/BCRW1.json",
+  "generatedAt": "2026-05-01T12:10:11.431Z"
+}

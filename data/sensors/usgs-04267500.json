@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04267500",
+  "key": "04267500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04267500",
+  "name": "RAQUETTE RIVER AT SOUTH COLTON NY",
+  "waterbody": "RAQUETTE RIVER AT SOUTH COLTON NY",
+  "state": "NY",
+  "latitude": 44.5098333,
+  "longitude": -74.8836111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCLN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Raquette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scln6",
+  "slug": "usgs-04267500",
+  "noaaForecastPath": "data/noaa-forecast/SCLN6.json",
+  "generatedAt": "2026-05-01T12:10:11.323Z"
+}

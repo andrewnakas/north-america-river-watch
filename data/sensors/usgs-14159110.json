@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14159110",
+  "key": "14159110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14159110",
+  "name": "MCKENZIE RIVER ABOVE SOUTH FORK, NEAR RAINBOW, OR",
+  "waterbody": "MCKENZIE RIVER ABOVE SOUTH FORK, NEAR RAINBOW, OR",
+  "state": "OR",
+  "latitude": 44.16633386,
+  "longitude": -122.2565067,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14159110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

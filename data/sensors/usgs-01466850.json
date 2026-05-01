@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01466850",
+  "key": "01466850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466850",
+  "name": "Greenwood Br at Greenwood Brdg Rd nr New Lisbon NJ",
+  "waterbody": "Greenwood Br at Greenwood Brdg Rd nr New Lisbon NJ",
+  "state": "NJ",
+  "latitude": 39.9479722,
+  "longitude": -74.6089444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01466850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

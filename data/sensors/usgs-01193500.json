@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01193500",
+  "key": "01193500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01193500",
+  "name": "SALMON RIVER NEAR EAST HAMPTON, CT",
+  "waterbody": "SALMON RIVER NEAR EAST HAMPTON, CT",
+  "state": "CT",
+  "latitude": 41.55220783,
+  "longitude": -72.44923535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01193500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

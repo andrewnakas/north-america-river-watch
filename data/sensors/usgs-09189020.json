@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09189020",
+  "key": "09189020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09189020",
+  "name": "Forty Rod Creek at Daniel Hatchery, nr Daniel, WY",
+  "waterbody": "Forty Rod Creek at Daniel Hatchery, nr Daniel, WY",
+  "state": "WY",
+  "latitude": 42.9294,
+  "longitude": -110.127219,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09189020",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

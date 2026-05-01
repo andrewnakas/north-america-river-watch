@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06453255",
+  "key": "06453255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06453255",
+  "name": "CHOTEAU CR NR AVON SD",
+  "waterbody": "CHOTEAU CR NR AVON SD",
+  "state": "SD",
+  "latitude": 42.9235524,
+  "longitude": -98.1063243,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06453255",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.382Z"
+}

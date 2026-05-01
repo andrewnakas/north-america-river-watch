@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08330830",
+  "key": "08330830",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08330830",
+  "name": "RIO GRANDE AT VALLE DE ORO, NM",
+  "waterbody": "RIO GRANDE AT VALLE DE ORO, NM",
+  "state": "NM",
+  "latitude": 34.98333333,
+  "longitude": -106.68655556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08330830",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

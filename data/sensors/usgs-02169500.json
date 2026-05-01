@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02169500",
+  "key": "02169500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02169500",
+  "name": "CONGAREE RIVER AT COLUMBIA, SC",
+  "waterbody": "CONGAREE RIVER AT COLUMBIA, SC",
+  "state": "SC",
+  "latitude": 33.99320985,
+  "longitude": -81.049815,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COLS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Congaree River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cols1",
+  "slug": "usgs-02169500",
+  "noaaForecastPath": "data/noaa-forecast/COLS1.json",
+  "generatedAt": "2026-05-01T12:10:11.363Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03413200",
+  "key": "03413200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03413200",
+  "name": "BEAVER CREEK NEAR MONTICELLO, KY",
+  "waterbody": "BEAVER CREEK NEAR MONTICELLO, KY",
+  "state": "KY",
+  "latitude": 36.79757036,
+  "longitude": -84.89605849,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (Cumberland River KY)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtck2",
+  "slug": "usgs-03413200",
+  "noaaForecastPath": "data/noaa-forecast/MTCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

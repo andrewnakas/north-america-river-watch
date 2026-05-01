@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01401301",
+  "key": "01401301",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01401301",
+  "name": "Millstone River at Carnegie Lake at Princeton NJ",
+  "waterbody": "Millstone River at Carnegie Lake at Princeton NJ",
+  "state": "NJ",
+  "latitude": 40.36972222,
+  "longitude": -74.62055556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01401301",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

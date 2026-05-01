@@ -1,0 +1,22 @@
+{
+  "id": "usgs:365119076174600",
+  "key": "365119076174600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "365119076174600",
+  "name": "THE HAGUE AT PEDESTRIAN BRIDGE AT NORFOLK, VA",
+  "waterbody": "THE HAGUE AT PEDESTRIAN BRIDGE AT NORFOLK, VA",
+  "state": "VA",
+  "latitude": 36.85526944,
+  "longitude": -76.2961694,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HAGV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elizabeth River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hagv2",
+  "slug": "usgs-365119076174600",
+  "noaaForecastPath": "data/noaa-forecast/HAGV2.json",
+  "generatedAt": "2026-05-01T12:10:11.425Z"
+}

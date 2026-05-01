@@ -1,0 +1,22 @@
+{
+  "id": "usgs:021720698",
+  "key": "021720698",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "021720698",
+  "name": "WANDO RIVER ABOVE MT PLEASANT, SC",
+  "waterbody": "WANDO RIVER ABOVE MT PLEASANT, SC",
+  "state": "SC",
+  "latitude": 32.8590638,
+  "longitude": -79.8961963,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WRIS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wando River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wris1",
+  "slug": "usgs-021720698",
+  "noaaForecastPath": "data/noaa-forecast/WRIS1.json",
+  "generatedAt": "2026-05-01T12:10:11.370Z"
+}

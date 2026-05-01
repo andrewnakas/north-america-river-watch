@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08329936",
+  "key": "08329936",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08329936",
+  "name": "TAYLOR RANCH DRAIN AT ALBUQUERQUE, NM",
+  "waterbody": "TAYLOR RANCH DRAIN AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.14888889,
+  "longitude": -106.7008333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08329936",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

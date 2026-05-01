@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10166430",
+  "key": "10166430",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10166430",
+  "name": "WEST CANYON CREEK NEAR CEDAR FORT, UT",
+  "waterbody": "WEST CANYON CREEK NEAR CEDAR FORT, UT",
+  "state": "UT",
+  "latitude": 40.4052063,
+  "longitude": -112.1005142,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WESU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Canyon Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wesu1",
+  "slug": "usgs-10166430",
+  "noaaForecastPath": "data/noaa-forecast/WESU1.json",
+  "generatedAt": "2026-05-01T12:10:11.417Z"
+}

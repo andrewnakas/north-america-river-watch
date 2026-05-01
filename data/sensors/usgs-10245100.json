@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10245100",
+  "key": "10245100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10245100",
+  "name": "GEYSER CK AT SPGS ORIFICE NR MINERVA, NV",
+  "waterbody": "GEYSER CK AT SPGS ORIFICE NR MINERVA, NV",
+  "state": "NV",
+  "latitude": 38.68,
+  "longitude": -114.6666667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10245100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.295Z"
+}

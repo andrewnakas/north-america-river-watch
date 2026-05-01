@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01455090",
+  "key": "01455090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01455090",
+  "name": "Lopatcong Creek at Strykers Road at Port Warren NJ",
+  "waterbody": "Lopatcong Creek at Strykers Road at Port Warren NJ",
+  "state": "NJ",
+  "latitude": 40.69,
+  "longitude": -75.1472222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01455090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

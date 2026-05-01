@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01466940",
+  "key": "01466940",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01466940",
+  "name": "NB Rancocas C DS of Greenwood Br at New Lisbon NJ",
+  "waterbody": "NB Rancocas C DS of Greenwood Br at New Lisbon NJ",
+  "state": "NJ",
+  "latitude": 39.96205556,
+  "longitude": -74.6410556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01466940",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.304Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251438080333500",
+  "key": "251438080333500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251438080333500",
+  "name": "JOE BAY 5C, NR KEY LARGO FL",
+  "waterbody": "JOE BAY 5C, NR KEY LARGO FL",
+  "state": "FL",
+  "latitude": 25.2436472,
+  "longitude": -80.5600167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251438080333500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.210Z"
+}

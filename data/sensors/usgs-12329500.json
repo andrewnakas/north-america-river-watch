@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12329500",
+  "key": "12329500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12329500",
+  "name": "Flint Creek at Maxville MT",
+  "waterbody": "Flint Creek at Maxville MT",
+  "state": "MT",
+  "latitude": 46.4637583,
+  "longitude": -113.2402778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12329500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.289Z"
+}

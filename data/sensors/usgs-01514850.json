@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01514850",
+  "key": "01514850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01514850",
+  "name": "Wappasening Creek near Windham Center, PA",
+  "waterbody": "Wappasening Creek near Windham Center, PA",
+  "state": "PA",
+  "latitude": 41.97416667,
+  "longitude": -76.3322222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WPSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wappasening Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wpsp1",
+  "slug": "usgs-01514850",
+  "noaaForecastPath": "data/noaa-forecast/WPSP1.json",
+  "generatedAt": "2026-05-01T12:10:11.354Z"
+}

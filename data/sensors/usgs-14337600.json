@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14337600",
+  "key": "14337600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14337600",
+  "name": "ROGUE RIVER NEAR MCLEOD, OR",
+  "waterbody": "ROGUE RIVER NEAR MCLEOD, OR",
+  "state": "OR",
+  "latitude": 42.6554035,
+  "longitude": -122.7150408,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14337600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.349Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13088000",
+  "key": "13088000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13088000",
+  "name": "SNAKE RIVER AT MILNER ID  TOTAL FLOW",
+  "waterbody": "SNAKE RIVER AT MILNER ID  TOTAL FLOW",
+  "state": "ID",
+  "latitude": 42.52796709,
+  "longitude": -114.0186386,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13088000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

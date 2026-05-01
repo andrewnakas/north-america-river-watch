@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08136005",
+  "key": "08136005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08136005",
+  "name": "East Angelo Draw at San Angelo, TX",
+  "waterbody": "East Angelo Draw at San Angelo, TX",
+  "state": "TX",
+  "latitude": 31.45476667,
+  "longitude": -100.402,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08136005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.408Z"
+}

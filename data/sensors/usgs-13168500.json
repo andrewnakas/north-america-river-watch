@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13168500",
+  "key": "13168500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13168500",
+  "name": "BRUNEAU RIVER NR HOT SPRING ID",
+  "waterbody": "BRUNEAU RIVER NR HOT SPRING ID",
+  "state": "ID",
+  "latitude": 42.7711111,
+  "longitude": -115.7202778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOTI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bruneau River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hoti1",
+  "slug": "usgs-13168500",
+  "noaaForecastPath": "data/noaa-forecast/HOTI1.json",
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

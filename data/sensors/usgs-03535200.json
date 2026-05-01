@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03535200",
+  "key": "03535200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03535200",
+  "name": "BEAVER C NR POWELL TENN",
+  "waterbody": "BEAVER C NR POWELL TENN",
+  "state": "TN",
+  "latitude": 36.0184137,
+  "longitude": -84.0515795,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCPT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Creek (TN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcpt1",
+  "slug": "usgs-03535200",
+  "noaaForecastPath": "data/noaa-forecast/BCPT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

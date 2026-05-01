@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02226100",
+  "key": "02226100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02226100",
+  "name": "PENHOLOWAY CREEK NEAR JESUP, GA",
+  "waterbody": "PENHOLOWAY CREEK NEAR JESUP, GA",
+  "state": "GA",
+  "latitude": 31.56688297,
+  "longitude": -81.8381694,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02226100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.215Z"
+}

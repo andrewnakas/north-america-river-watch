@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01144000",
+  "key": "01144000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01144000",
+  "name": "WHITE RIVER AT WEST HARTFORD, VT",
+  "waterbody": "WHITE RIVER AT WEST HARTFORD, VT",
+  "state": "VT",
+  "latitude": 43.71423614,
+  "longitude": -72.418149,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WEHV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wehv1",
+  "slug": "usgs-01144000",
+  "noaaForecastPath": "data/noaa-forecast/WEHV1.json",
+  "generatedAt": "2026-05-01T12:10:11.418Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13090370",
+  "key": "13090370",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13090370",
+  "name": "FISH HATCHERY WASTE NR TWIN FALLS ID",
+  "waterbody": "FISH HATCHERY WASTE NR TWIN FALLS ID",
+  "state": "ID",
+  "latitude": 42.59138889,
+  "longitude": -114.4344444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13090370",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

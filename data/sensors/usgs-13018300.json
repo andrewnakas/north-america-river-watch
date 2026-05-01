@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13018300",
+  "key": "13018300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13018300",
+  "name": "CACHE CREEK NEAR JACKSON, WY",
+  "waterbody": "CACHE CREEK NEAR JACKSON, WY",
+  "state": "WY",
+  "latitude": 43.45213098,
+  "longitude": -110.7041203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCKW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cache Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cckw4",
+  "slug": "usgs-13018300",
+  "noaaForecastPath": "data/noaa-forecast/CCKW4.json",
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

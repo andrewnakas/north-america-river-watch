@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09112500",
+  "key": "09112500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09112500",
+  "name": "EAST RIVER AT ALMONT, CO",
+  "waterbody": "EAST RIVER AT ALMONT, CO",
+  "state": "CO",
+  "latitude": 38.664444,
+  "longitude": -106.8475,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ALEC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "East River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/alec2",
+  "slug": "usgs-09112500",
+  "noaaForecastPath": "data/noaa-forecast/ALEC2.json",
+  "generatedAt": "2026-05-01T12:10:11.186Z"
+}

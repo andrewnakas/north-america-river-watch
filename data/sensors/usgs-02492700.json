@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02492700",
+  "key": "02492700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02492700",
+  "name": "Pearl River at I-10 near Slidell, LA",
+  "waterbody": "Pearl River at I-10 near Slidell, LA",
+  "state": "LA",
+  "latitude": 30.29788889,
+  "longitude": -89.7022306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PRBL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pearl River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/prbl1",
+  "slug": "usgs-02492700",
+  "noaaForecastPath": "data/noaa-forecast/PRBL1.json",
+  "generatedAt": "2026-05-01T12:10:11.251Z"
+}

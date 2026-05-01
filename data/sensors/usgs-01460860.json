@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01460860",
+  "key": "01460860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01460860",
+  "name": "Lockatong Creek at Route 12 at Baptistown NJ",
+  "waterbody": "Lockatong Creek at Route 12 at Baptistown NJ",
+  "state": "NJ",
+  "latitude": 40.51694444,
+  "longitude": -74.99166667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01460860",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

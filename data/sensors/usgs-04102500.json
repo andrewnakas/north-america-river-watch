@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04102500",
+  "key": "04102500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04102500",
+  "name": "PAW PAW RIVER AT RIVERSIDE, MI",
+  "waterbody": "PAW PAW RIVER AT RIVERSIDE, MI",
+  "state": "MI",
+  "latitude": 42.18642675,
+  "longitude": -86.3689124,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RIVM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paw Paw River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rivm4",
+  "slug": "usgs-04102500",
+  "noaaForecastPath": "data/noaa-forecast/RIVM4.json",
+  "generatedAt": "2026-05-01T12:10:11.265Z"
+}

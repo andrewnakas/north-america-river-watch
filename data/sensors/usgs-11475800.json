@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11475800",
+  "key": "11475800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11475800",
+  "name": "SF EEL R A LEGGETT CA",
+  "waterbody": "SF EEL R A LEGGETT CA",
+  "state": "CA",
+  "latitude": 39.8745957,
+  "longitude": -123.7205775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LEGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Eel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/legc1",
+  "slug": "usgs-11475800",
+  "noaaForecastPath": "data/noaa-forecast/LEGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

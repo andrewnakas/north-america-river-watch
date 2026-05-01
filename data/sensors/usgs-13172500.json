@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13172500",
+  "key": "13172500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13172500",
+  "name": "SNAKE RIVER NR MURPHY ID",
+  "waterbody": "SNAKE RIVER NR MURPHY ID",
+  "state": "ID",
+  "latitude": 43.25481389,
+  "longitude": -116.3906389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13172500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.226Z"
+}

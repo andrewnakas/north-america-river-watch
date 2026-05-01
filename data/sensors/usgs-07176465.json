@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07176465",
+  "key": "07176465",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07176465",
+  "name": "Birch Creek blw Birch Lake nr Barnsdall, OK",
+  "waterbody": "Birch Creek blw Birch Lake nr Barnsdall, OK",
+  "state": "OK",
+  "latitude": 36.53341427,
+  "longitude": -96.1622239,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BIRO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Eastern Oklahoma Lakes",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/biro2",
+  "slug": "usgs-07176465",
+  "noaaForecastPath": "data/noaa-forecast/BIRO2.json",
+  "generatedAt": "2026-05-01T12:10:11.340Z"
+}

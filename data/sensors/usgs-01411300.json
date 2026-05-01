@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01411300",
+  "key": "01411300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01411300",
+  "name": "Tuckahoe River at Head of River NJ",
+  "waterbody": "Tuckahoe River at Head of River NJ",
+  "state": "NJ",
+  "latitude": 39.30694444,
+  "longitude": -74.8205556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TUKN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tuckahoe River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/tukn4",
+  "slug": "usgs-01411300",
+  "noaaForecastPath": "data/noaa-forecast/TUKN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

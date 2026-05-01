@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13068300",
+  "key": "13068300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13068300",
+  "name": "BLACKFOOT RIVER BELOW NORTH CANAL AT BLACKFOOT ID",
+  "waterbody": "BLACKFOOT RIVER BELOW NORTH CANAL AT BLACKFOOT ID",
+  "state": "ID",
+  "latitude": 43.1683333,
+  "longitude": -112.3347222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13068300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.224Z"
+}

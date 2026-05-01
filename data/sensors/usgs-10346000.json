@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10346000",
+  "key": "10346000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10346000",
+  "name": "TRUCKEE R A FARAD CA",
+  "waterbody": "TRUCKEE R A FARAD CA",
+  "state": "CA",
+  "latitude": 39.42793648,
+  "longitude": -120.0340602,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FARC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Truckee River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/farc1",
+  "slug": "usgs-10346000",
+  "noaaForecastPath": "data/noaa-forecast/FARC1.json",
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

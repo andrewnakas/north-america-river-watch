@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251890",
+  "key": "10251890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251890",
+  "name": "PEAK SPGS CYN CK NR CHARLESTON PEAK, NV",
+  "waterbody": "PEAK SPGS CYN CK NR CHARLESTON PEAK, NV",
+  "state": "NV",
+  "latitude": 36.24440704,
+  "longitude": -115.7200197,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.296Z"
+}

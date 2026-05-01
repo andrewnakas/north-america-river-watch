@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11348500",
+  "key": "11348500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11348500",
+  "name": "PIT R NR CANBY CA",
+  "waterbody": "PIT R NR CANBY CA",
+  "state": "CA",
+  "latitude": 41.40600116,
+  "longitude": -120.9277458,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CNBC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pit River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cnbc1",
+  "slug": "usgs-11348500",
+  "noaaForecastPath": "data/noaa-forecast/CNBC1.json",
+  "generatedAt": "2026-05-01T12:10:11.176Z"
+}

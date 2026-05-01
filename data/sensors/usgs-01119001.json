@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01119001",
+  "key": "01119001",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01119001",
+  "name": "POQUONNOCK RIVER AT LONG HILL, CT",
+  "waterbody": "POQUONNOCK RIVER AT LONG HILL, CT",
+  "state": "CT",
+  "latitude": 41.34890278,
+  "longitude": -72.03807222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01119001",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.191Z"
+}

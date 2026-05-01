@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01105607",
+  "key": "01105607",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01105607",
+  "name": "WHITMANS POND FLOOD BY-PASS AT EAST WEYMOUTH, MA",
+  "waterbody": "WHITMANS POND FLOOD BY-PASS AT EAST WEYMOUTH, MA",
+  "state": "MA",
+  "latitude": 42.21277778,
+  "longitude": -70.9275,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01105607",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.262Z"
+}

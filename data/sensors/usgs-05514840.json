@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05514840",
+  "key": "05514840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05514840",
+  "name": "Dardenne Creek at O'Fallon, MO",
+  "waterbody": "Dardenne Creek at O'Fallon, MO",
+  "state": "MO",
+  "latitude": 38.7403611,
+  "longitude": -90.6950556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DCWM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Dardenne Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dcwm7",
+  "slug": "usgs-05514840",
+  "noaaForecastPath": "data/noaa-forecast/DCWM7.json",
+  "generatedAt": "2026-05-01T12:10:11.280Z"
+}

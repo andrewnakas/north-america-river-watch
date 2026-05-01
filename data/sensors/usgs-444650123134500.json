@@ -1,0 +1,19 @@
+{
+  "id": "usgs:444650123134500",
+  "key": "444650123134500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "444650123134500",
+  "name": "LUCKIAMUTE RIVER NEAR PARKER, OR",
+  "waterbody": "LUCKIAMUTE RIVER NEAR PARKER, OR",
+  "state": "OR",
+  "latitude": 44.7805111,
+  "longitude": -123.2292472,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-444650123134500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.351Z"
+}

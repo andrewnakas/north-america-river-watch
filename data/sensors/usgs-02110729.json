@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02110729",
+  "key": "02110729",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02110729",
+  "name": "TRIB. TO AIW AT HWY 707 AT SOCASTEE, SC",
+  "waterbody": "TRIB. TO AIW AT HWY 707 AT SOCASTEE, SC",
+  "state": "SC",
+  "latitude": 33.68572636,
+  "longitude": -78.98114438,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02110729",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.360Z"
+}

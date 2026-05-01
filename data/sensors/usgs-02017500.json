@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02017500",
+  "key": "02017500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02017500",
+  "name": "JOHNS CREEK AT NEW CASTLE, VA",
+  "waterbody": "JOHNS CREEK AT NEW CASTLE, VA",
+  "state": "VA",
+  "latitude": 37.5062397,
+  "longitude": -80.106715,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JCRV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Johns Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jcrv2",
+  "slug": "usgs-02017500",
+  "noaaForecastPath": "data/noaa-forecast/JCRV2.json",
+  "generatedAt": "2026-05-01T12:10:11.422Z"
+}

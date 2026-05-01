@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03201902",
+  "key": "03201902",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03201902",
+  "name": "Raccoon Creek near Bolins Mills OH",
+  "waterbody": "Raccoon Creek near Bolins Mills OH",
+  "state": "OH",
+  "latitude": 39.23055556,
+  "longitude": -82.2858333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03201902",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

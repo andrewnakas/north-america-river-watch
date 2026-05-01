@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08253500",
+  "key": "08253500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08253500",
+  "name": "SANTISTEVAN CREEK NEAR COSTILLA, NM",
+  "waterbody": "SANTISTEVAN CREEK NEAR COSTILLA, NM",
+  "state": "NM",
+  "latitude": 36.88416667,
+  "longitude": -105.2811111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08253500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.305Z"
+}

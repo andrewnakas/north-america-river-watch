@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04086125",
+  "key": "04086125",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04086125",
+  "name": "WEST BRANCH MILWAUKEE R @ DRUMLIN DR NR LOMIRA, WI",
+  "waterbody": "WEST BRANCH MILWAUKEE R @ DRUMLIN DR NR LOMIRA, WI",
+  "state": "WI",
+  "latitude": 43.6161043,
+  "longitude": -88.3937125,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04086125",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.438Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07239450",
+  "key": "07239450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07239450",
+  "name": "North Canadian River near Calumet, OK",
+  "waterbody": "North Canadian River near Calumet, OK",
+  "state": "OK",
+  "latitude": 35.6169933,
+  "longitude": -98.0653316,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLMO2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Canadian River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clmo2",
+  "slug": "usgs-07239450",
+  "noaaForecastPath": "data/noaa-forecast/CLMO2.json",
+  "generatedAt": "2026-05-01T12:10:11.341Z"
+}

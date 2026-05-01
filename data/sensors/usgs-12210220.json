@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12210220",
+  "key": "12210220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12210220",
+  "name": "JONES CREEK AT ACME, WA",
+  "waterbody": "JONES CREEK AT ACME, WA",
+  "state": "WA",
+  "latitude": 48.71840725,
+  "longitude": -122.2142994,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12210220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

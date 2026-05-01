@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16858000",
+  "key": "16858000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16858000",
+  "name": "Ylig River near Yona, Guam",
+  "waterbody": "Ylig River near Yona, Guam",
+  "state": "GU",
+  "latitude": 13.39255556,
+  "longitude": 144.7538333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16858000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.450Z"
+}

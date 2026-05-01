@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08158823",
+  "key": "08158823",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08158823",
+  "name": "Stoneledge Div of Little Bear Ck nr Manchaca, TX",
+  "waterbody": "Stoneledge Div of Little Bear Ck nr Manchaca, TX",
+  "state": "TX",
+  "latitude": 30.1251,
+  "longitude": -97.90571111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08158823",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.409Z"
+}

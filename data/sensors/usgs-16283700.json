@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16283700",
+  "key": "16283700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16283700",
+  "name": "NF WAIHEE STREAM NR HEEIA, OAHU, HI",
+  "waterbody": "NF WAIHEE STREAM NR HEEIA, OAHU, HI",
+  "state": "HI",
+  "latitude": 21.44350833,
+  "longitude": -157.8689167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16283700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.220Z"
+}

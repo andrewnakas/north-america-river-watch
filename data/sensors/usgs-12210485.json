@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12210485",
+  "key": "12210485",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12210485",
+  "name": "SF NOOKSACK R ABV POTTER BRIDGE AT VAN ZANDT, WA",
+  "waterbody": "SF NOOKSACK R ABV POTTER BRIDGE AT VAN ZANDT, WA",
+  "state": "WA",
+  "latitude": 48.78896314,
+  "longitude": -122.19957847,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSFW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "South Fork Nooksack River",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nsfw1",
+  "slug": "usgs-12210485",
+  "noaaForecastPath": "data/noaa-forecast/NSFW1.json",
+  "generatedAt": "2026-05-01T12:10:11.430Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01595800",
+  "key": "01595800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01595800",
+  "name": "NORTH BRANCH POTOMAC RIVER AT BARNUM, WV",
+  "waterbody": "NORTH BRANCH POTOMAC RIVER AT BARNUM, WV",
+  "state": "WV",
+  "latitude": 39.44511111,
+  "longitude": -79.11080556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BNMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Branch Potomac River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bnmw2",
+  "slug": "usgs-01595800",
+  "noaaForecastPath": "data/noaa-forecast/BNMW2.json",
+  "generatedAt": "2026-05-01T12:10:11.434Z"
+}

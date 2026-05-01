@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11162570",
+  "key": "11162570",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11162570",
+  "name": "SAN GREGORIO C A SAN GREGORIO CA",
+  "waterbody": "SAN GREGORIO C A SAN GREGORIO CA",
+  "state": "CA",
+  "latitude": 37.32573199,
+  "longitude": -122.3865927,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SXGC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Gregorio Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sxgc1",
+  "slug": "usgs-11162570",
+  "noaaForecastPath": "data/noaa-forecast/SXGC1.json",
+  "generatedAt": "2026-05-01T12:10:11.173Z"
+}

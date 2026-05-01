@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06426500",
+  "key": "06426500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06426500",
+  "name": "BELLE FOURCHE RIVER BELOW MOORCROFT, WY",
+  "waterbody": "BELLE FOURCHE RIVER BELOW MOORCROFT, WY",
+  "state": "WY",
+  "latitude": 44.32188385,
+  "longitude": -104.9406108,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFRW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Belle Fourche River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfrw4",
+  "slug": "usgs-06426500",
+  "noaaForecastPath": "data/noaa-forecast/BFRW4.json",
+  "generatedAt": "2026-05-01T12:10:11.445Z"
+}

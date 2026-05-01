@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03146277",
+  "key": "03146277",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03146277",
+  "name": "North Fork Licking River at Newark OH",
+  "waterbody": "North Fork Licking River at Newark OH",
+  "state": "OH",
+  "latitude": 40.0872222,
+  "longitude": -82.4108333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NEPO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork Licking River (OH)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nepo1",
+  "slug": "usgs-03146277",
+  "noaaForecastPath": "data/noaa-forecast/NEPO1.json",
+  "generatedAt": "2026-05-01T12:10:11.335Z"
+}

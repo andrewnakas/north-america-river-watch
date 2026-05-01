@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08110200",
+  "key": "08110200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08110200",
+  "name": "Brazos Rv at Washington, TX",
+  "waterbody": "Brazos Rv at Washington, TX",
+  "state": "TX",
+  "latitude": 30.359175,
+  "longitude": -96.1549028,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WBZT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wbzt2",
+  "slug": "usgs-08110200",
+  "noaaForecastPath": "data/noaa-forecast/WBZT2.json",
+  "generatedAt": "2026-05-01T12:10:11.407Z"
+}

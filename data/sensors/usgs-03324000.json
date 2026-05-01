@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03324000",
+  "key": "03324000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03324000",
+  "name": "LITTLE RIVER NEAR HUNTINGTON, IN",
+  "waterbody": "LITTLE RIVER NEAR HUNTINGTON, IN",
+  "state": "IN",
+  "latitude": 40.89855556,
+  "longitude": -85.4131667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LRHI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little  River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lrhi3",
+  "slug": "usgs-03324000",
+  "noaaForecastPath": "data/noaa-forecast/LRHI3.json",
+  "generatedAt": "2026-05-01T12:10:11.234Z"
+}

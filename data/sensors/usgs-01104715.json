@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01104715",
+  "key": "01104715",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01104715",
+  "name": "CHARLES RIVER, NEW CHARLES RIVER DAM AT BOSTON, MA",
+  "waterbody": "CHARLES RIVER, NEW CHARLES RIVER DAM AT BOSTON, MA",
+  "state": "MA",
+  "latitude": 42.36888889,
+  "longitude": -71.0616667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01104715",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

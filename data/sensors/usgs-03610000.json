@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03610000",
+  "key": "03610000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03610000",
+  "name": "CLARKS RIVER AT MURRAY, KY",
+  "waterbody": "CLARKS RIVER AT MURRAY, KY",
+  "state": "KY",
+  "latitude": 36.5928613,
+  "longitude": -88.3000363,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03610000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

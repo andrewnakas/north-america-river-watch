@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07087200",
+  "key": "07087200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07087200",
+  "name": "ARKANSAS RIVER AT BUENA VISTA, CO.",
+  "waterbody": "ARKANSAS RIVER AT BUENA VISTA, CO.",
+  "state": "CO",
+  "latitude": 38.8491622,
+  "longitude": -106.1247397,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07087200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.181Z"
+}

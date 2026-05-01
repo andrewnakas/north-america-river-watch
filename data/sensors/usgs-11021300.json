@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11021300",
+  "key": "11021300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11021300",
+  "name": "PADRE BARONA C NR LAKESIDE CA",
+  "waterbody": "PADRE BARONA C NR LAKESIDE CA",
+  "state": "CA",
+  "latitude": 32.94138889,
+  "longitude": -116.8572222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11021300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.170Z"
+}

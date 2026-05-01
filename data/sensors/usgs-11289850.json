@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11289850",
+  "key": "11289850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11289850",
+  "name": "DRY C A CRABTREE RD NR LA GRANGE CA",
+  "waterbody": "DRY C A CRABTREE RD NR LA GRANGE CA",
+  "state": "CA",
+  "latitude": 37.71144167,
+  "longitude": -120.6098028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11289850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.175Z"
+}

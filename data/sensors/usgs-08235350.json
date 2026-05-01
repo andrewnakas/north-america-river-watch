@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08235350",
+  "key": "08235350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08235350",
+  "name": "ALAMOSA RIVER ABOVE JASPER, CO",
+  "waterbody": "ALAMOSA RIVER ABOVE JASPER, CO",
+  "state": "CO",
+  "latitude": 37.4175054,
+  "longitude": -106.4922599,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08235350",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.183Z"
+}

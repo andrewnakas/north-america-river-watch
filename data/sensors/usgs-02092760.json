@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02092760",
+  "key": "02092760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02092760",
+  "name": "WHITE OAK RIVER AT SWANSBORO, NC",
+  "waterbody": "WHITE OAK RIVER AT SWANSBORO, NC",
+  "state": "NC",
+  "latitude": 34.68752778,
+  "longitude": -77.11688889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SWBN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "White Oak River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/swbn7",
+  "slug": "usgs-02092760",
+  "noaaForecastPath": "data/noaa-forecast/SWBN7.json",
+  "generatedAt": "2026-05-01T12:10:11.326Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13018000",
+  "key": "13018000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13018000",
+  "name": "FLAT CREEK NEAR JACKSON, WY",
+  "waterbody": "FLAT CREEK NEAR JACKSON, WY",
+  "state": "WY",
+  "latitude": 43.5566004,
+  "longitude": -110.621591,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13018000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.447Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01174900",
+  "key": "01174900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01174900",
+  "name": "CADWELL CREEK NEAR BELCHERTOWN, MA",
+  "waterbody": "CADWELL CREEK NEAR BELCHERTOWN, MA",
+  "state": "MA",
+  "latitude": 42.3356465,
+  "longitude": -72.36952828,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01174900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

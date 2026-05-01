@@ -1,0 +1,19 @@
+{
+  "id": "usgs:14095500",
+  "key": "14095500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14095500",
+  "name": "WARM SPRINGS RIVER NEAR SIMNASHO, OR",
+  "waterbody": "WARM SPRINGS RIVER NEAR SIMNASHO, OR",
+  "state": "OR",
+  "latitude": 44.96708766,
+  "longitude": -121.4693975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-14095500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.345Z"
+}

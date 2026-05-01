@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08331118",
+  "key": "08331118",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08331118",
+  "name": "AMOLE DEL NORTE ARROYO AT ALBUQUERQUE, NM",
+  "waterbody": "AMOLE DEL NORTE ARROYO AT ALBUQUERQUE, NM",
+  "state": "NM",
+  "latitude": 35.0372222,
+  "longitude": -106.7208333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08331118",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.307Z"
+}

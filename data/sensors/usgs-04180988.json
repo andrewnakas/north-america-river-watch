@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04180988",
+  "key": "04180988",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04180988",
+  "name": "St. Marys River at Rockford OH",
+  "waterbody": "St. Marys River at Rockford OH",
+  "state": "OH",
+  "latitude": 40.69476968,
+  "longitude": -84.6466254,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RFDO1",
+  "noaaForecast": true,
+  "noaaWaterbody": "St. Marys River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rfdo1",
+  "slug": "usgs-04180988",
+  "noaaForecastPath": "data/noaa-forecast/RFDO1.json",
+  "generatedAt": "2026-05-01T12:10:11.337Z"
+}

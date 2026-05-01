@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03406500",
+  "key": "03406500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03406500",
+  "name": "ROCKCASTLE RIVER AT BILLOWS, KY",
+  "waterbody": "ROCKCASTLE RIVER AT BILLOWS, KY",
+  "state": "KY",
+  "latitude": 37.1711952,
+  "longitude": -84.296047,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLWK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rockcastle River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blwk2",
+  "slug": "usgs-03406500",
+  "noaaForecastPath": "data/noaa-forecast/BLWK2.json",
+  "generatedAt": "2026-05-01T12:10:11.250Z"
+}

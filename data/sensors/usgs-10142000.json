@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10142000",
+  "key": "10142000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10142000",
+  "name": "FARMINGTON CR ABV DIV NR FARMINGTON, UTAH",
+  "waterbody": "FARMINGTON CR ABV DIV NR FARMINGTON, UTAH",
+  "state": "UT",
+  "latitude": 41.00133317,
+  "longitude": -111.8732724,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10142000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.416Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07281600",
+  "key": "07281600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07281600",
+  "name": "TALLAHATCHIE RIVER AT MONEY, MS",
+  "waterbody": "TALLAHATCHIE RIVER AT MONEY, MS",
+  "state": "MS",
+  "latitude": 33.65138889,
+  "longitude": -90.2111111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOGM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Tallahatchie River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mogm6",
+  "slug": "usgs-07281600",
+  "noaaForecastPath": "data/noaa-forecast/MOGM6.json",
+  "generatedAt": "2026-05-01T12:10:11.278Z"
+}

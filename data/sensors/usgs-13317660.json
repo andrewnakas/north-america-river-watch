@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13317660",
+  "key": "13317660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13317660",
+  "name": "SNAKE RIVER AT McDUFF RAPIDS AT CHINA GARDEN ID",
+  "waterbody": "SNAKE RIVER AT McDUFF RAPIDS AT CHINA GARDEN ID",
+  "state": "ID",
+  "latitude": 46.00305556,
+  "longitude": -116.9169444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SNMI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Snake River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/snmi1",
+  "slug": "usgs-13317660",
+  "noaaForecastPath": "data/noaa-forecast/SNMI1.json",
+  "generatedAt": "2026-05-01T12:10:11.228Z"
+}

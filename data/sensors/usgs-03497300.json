@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03497300",
+  "key": "03497300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03497300",
+  "name": "LITTLE RIVER ABOVE TOWNSEND, TN",
+  "waterbody": "LITTLE RIVER ABOVE TOWNSEND, TN",
+  "state": "TN",
+  "latitude": 35.66453328,
+  "longitude": -83.7112821,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWNT1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little River (TN)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twnt1",
+  "slug": "usgs-03497300",
+  "noaaForecastPath": "data/noaa-forecast/TWNT1.json",
+  "generatedAt": "2026-05-01T12:10:11.387Z"
+}

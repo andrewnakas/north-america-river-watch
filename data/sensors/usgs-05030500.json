@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05030500",
+  "key": "05030500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05030500",
+  "name": "OTTER TAIL RIVER NEAR ELIZABETH, MN",
+  "waterbody": "OTTER TAIL RIVER NEAR ELIZABETH, MN",
+  "state": "MN",
+  "latitude": 46.369544,
+  "longitude": -96.017084,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ELZM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Otter Tail River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/elzm5",
+  "slug": "usgs-05030500",
+  "noaaForecastPath": "data/noaa-forecast/ELZM5.json",
+  "generatedAt": "2026-05-01T12:10:11.269Z"
+}

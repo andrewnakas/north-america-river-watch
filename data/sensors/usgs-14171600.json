@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14171600",
+  "key": "14171600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14171600",
+  "name": "WILLAMETTE RIVER AT CORVALLIS, OR",
+  "waterbody": "WILLAMETTE RIVER AT CORVALLIS, OR",
+  "state": "OR",
+  "latitude": 44.5663611,
+  "longitude": -123.2568056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CORO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willamette River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/coro3",
+  "slug": "usgs-14171600",
+  "noaaForecastPath": "data/noaa-forecast/CORO3.json",
+  "generatedAt": "2026-05-01T12:10:11.346Z"
+}

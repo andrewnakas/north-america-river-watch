@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11526500",
+  "key": "11526500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11526500",
+  "name": "NF TRINITY R A HELENA CA",
+  "waterbody": "NF TRINITY R A HELENA CA",
+  "state": "CA",
+  "latitude": 40.7818089,
+  "longitude": -123.1283653,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "THAC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "N. Fork Trinity River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/thac1",
+  "slug": "usgs-11526500",
+  "noaaForecastPath": "data/noaa-forecast/THAC1.json",
+  "generatedAt": "2026-05-01T12:10:11.178Z"
+}

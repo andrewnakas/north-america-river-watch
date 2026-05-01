@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01100475",
+  "key": "01100475",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01100475",
+  "name": "MERRIMACK R AT ABE BASHARA BOAT HOUSE LAWRENCE, MA",
+  "waterbody": "MERRIMACK R AT ABE BASHARA BOAT HOUSE LAWRENCE, MA",
+  "state": "MA",
+  "latitude": 42.69291667,
+  "longitude": -71.1766111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01100475",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.261Z"
+}

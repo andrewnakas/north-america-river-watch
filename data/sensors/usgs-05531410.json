@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05531410",
+  "key": "05531410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05531410",
+  "name": "SALT CREEK AT 22ND STREET AT OAK BROOK, IL",
+  "waterbody": "SALT CREEK AT 22ND STREET AT OAK BROOK, IL",
+  "state": "IL",
+  "latitude": 41.84733056,
+  "longitude": -87.9365917,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OBKI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Salt Creek (IL)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/obki2",
+  "slug": "usgs-05531410",
+  "noaaForecastPath": "data/noaa-forecast/OBKI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

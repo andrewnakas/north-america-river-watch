@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12180500",
+  "key": "12180500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12180500",
+  "name": "DIOBSUD CREEK NEAR MARBLEMOUNT, WA",
+  "waterbody": "DIOBSUD CREEK NEAR MARBLEMOUNT, WA",
+  "state": "WA",
+  "latitude": 48.5609154,
+  "longitude": -121.417882,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12180500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.429Z"
+}

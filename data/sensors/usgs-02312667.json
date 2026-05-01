@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02312667",
+  "key": "02312667",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02312667",
+  "name": "SHADY BROOK NEAR SUMTERVILLE, FL",
+  "waterbody": "SHADY BROOK NEAR SUMTERVILLE, FL",
+  "state": "FL",
+  "latitude": 28.77026704,
+  "longitude": -82.0636961,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STVF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shady Brook (in NAVD88)",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stvf1",
+  "slug": "usgs-02312667",
+  "noaaForecastPath": "data/noaa-forecast/STVF1.json",
+  "generatedAt": "2026-05-01T12:10:11.203Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05584500",
+  "key": "05584500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05584500",
+  "name": "LA MOINE RIVER AT COLMAR, IL",
+  "waterbody": "LA MOINE RIVER AT COLMAR, IL",
+  "state": "IL",
+  "latitude": 40.33152778,
+  "longitude": -90.8961944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CLMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "La Moine River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/clmi2",
+  "slug": "usgs-05584500",
+  "noaaForecastPath": "data/noaa-forecast/CLMI2.json",
+  "generatedAt": "2026-05-01T12:10:11.232Z"
+}

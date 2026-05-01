@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01205890",
+  "key": "01205890",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01205890",
+  "name": "NAUGATUCK RIVER AT RTE 118 AT EAST LITCHFIELD, CT",
+  "waterbody": "NAUGATUCK RIVER AT RTE 118 AT EAST LITCHFIELD, CT",
+  "state": "CT",
+  "latitude": 41.76345,
+  "longitude": -73.11693056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01205890",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.192Z"
+}

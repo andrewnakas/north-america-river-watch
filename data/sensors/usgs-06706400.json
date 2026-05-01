@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06706400",
+  "key": "06706400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06706400",
+  "name": "N.F. SOUTH PLATTE RIVER ABOVE ELK CRK AT PINE, CO",
+  "waterbody": "N.F. SOUTH PLATTE RIVER ABOVE ELK CRK AT PINE, CO",
+  "state": "CO",
+  "latitude": 39.4074891,
+  "longitude": -105.3191615,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06706400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.179Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02326865",
+  "key": "02326865",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02326865",
+  "name": "LAKE KANTURK OUTLET AT TALLAHASSEE,FL",
+  "waterbody": "LAKE KANTURK OUTLET AT TALLAHASSEE,FL",
+  "state": "FL",
+  "latitude": 30.52714426,
+  "longitude": -84.1910083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KTKF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lake Kanturk",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ktkf1",
+  "slug": "usgs-02326865",
+  "noaaForecastPath": "data/noaa-forecast/KTKF1.json",
+  "generatedAt": "2026-05-01T12:10:11.204Z"
+}

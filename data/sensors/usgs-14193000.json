@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14193000",
+  "key": "14193000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14193000",
+  "name": "WILLAMINA CREEK NEAR WILLAMINA, OR",
+  "waterbody": "WILLAMINA CREEK NEAR WILLAMINA, OR",
+  "state": "OR",
+  "latitude": 45.1428905,
+  "longitude": -123.4942756,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAWO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willamina Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wawo3",
+  "slug": "usgs-14193000",
+  "noaaForecastPath": "data/noaa-forecast/WAWO3.json",
+  "generatedAt": "2026-05-01T12:10:11.347Z"
+}

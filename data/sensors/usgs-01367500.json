@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01367500",
+  "key": "01367500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01367500",
+  "name": "RONDOUT CREEK AT ROSENDALE NY",
+  "waterbody": "RONDOUT CREEK AT ROSENDALE NY",
+  "state": "NY",
+  "latitude": 41.8430833,
+  "longitude": -74.0861111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ROSN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rondout Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rosn6",
+  "slug": "usgs-01367500",
+  "noaaForecastPath": "data/noaa-forecast/ROSN6.json",
+  "generatedAt": "2026-05-01T12:10:11.318Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10387110",
+  "key": "10387110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10387110",
+  "name": "CHEWAUCAN RIVER AT MOUTH NEAR VALLEY FALLS, OR",
+  "waterbody": "CHEWAUCAN RIVER AT MOUTH NEAR VALLEY FALLS, OR",
+  "state": "OR",
+  "latitude": 42.52208056,
+  "longitude": -120.24945,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10387110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.343Z"
+}

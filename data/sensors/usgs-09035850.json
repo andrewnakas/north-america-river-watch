@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09035850",
+  "key": "09035850",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09035850",
+  "name": "SO FK WILLIAMS FK AB SHORT CR NR PTARMIGAN PASS,",
+  "waterbody": "SO FK WILLIAMS FK AB SHORT CR NR PTARMIGAN PASS,",
+  "state": "CO",
+  "latitude": 39.70304209,
+  "longitude": -105.990294,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09035850",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.184Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01209700",
+  "key": "01209700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01209700",
+  "name": "NORWALK RIVER AT SOUTH WILTON, CT",
+  "waterbody": "NORWALK RIVER AT SOUTH WILTON, CT",
+  "state": "CT",
+  "latitude": 41.16376667,
+  "longitude": -73.41954444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01209700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.193Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:11458433",
+  "key": "11458433",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11458433",
+  "name": "SONOMA CREEK A KENWOOD CA",
+  "waterbody": "SONOMA CREEK A KENWOOD CA",
+  "state": "CA",
+  "latitude": 38.4188004,
+  "longitude": -122.5627606,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KWDC1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sonoma Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/kwdc1",
+  "slug": "usgs-11458433",
+  "noaaForecastPath": "data/noaa-forecast/KWDC1.json",
+  "generatedAt": "2026-05-01T12:10:11.177Z"
+}

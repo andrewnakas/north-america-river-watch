@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03215410",
+  "key": "03215410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03215410",
+  "name": "BLAINE CREEK NEAR BLAINE, KY",
+  "waterbody": "BLAINE CREEK NEAR BLAINE, KY",
+  "state": "KY",
+  "latitude": 38.0295332,
+  "longitude": -82.846829,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BLCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Blaine Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/blck2",
+  "slug": "usgs-03215410",
+  "noaaForecastPath": "data/noaa-forecast/BLCK2.json",
+  "generatedAt": "2026-05-01T12:10:11.246Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07061900",
+  "key": "07061900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07061900",
+  "name": "Logan Creek at Ellington, MO",
+  "waterbody": "Logan Creek at Ellington, MO",
+  "state": "MO",
+  "latitude": 37.2474722,
+  "longitude": -90.9654722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07061900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.284Z"
+}

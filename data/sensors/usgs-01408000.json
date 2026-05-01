@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01408000",
+  "key": "01408000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01408000",
+  "name": "Manasquan River at Squankum NJ",
+  "waterbody": "Manasquan River at Squankum NJ",
+  "state": "NJ",
+  "latitude": 40.16138889,
+  "longitude": -74.15472222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SAMN4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Manasquan River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/samn4",
+  "slug": "usgs-01408000",
+  "noaaForecastPath": "data/noaa-forecast/SAMN4.json",
+  "generatedAt": "2026-05-01T12:10:11.302Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01175500",
+  "key": "01175500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01175500",
+  "name": "SWIFT RIVER AT WEST WARE, MA",
+  "waterbody": "SWIFT RIVER AT WEST WARE, MA",
+  "state": "MA",
+  "latitude": 42.2678699,
+  "longitude": -72.3325824,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WWRM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Swift River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wwrm3",
+  "slug": "usgs-01175500",
+  "noaaForecastPath": "data/noaa-forecast/WWRM3.json",
+  "generatedAt": "2026-05-01T12:10:11.263Z"
+}

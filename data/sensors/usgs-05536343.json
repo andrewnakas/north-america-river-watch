@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05536343",
+  "key": "05536343",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05536343",
+  "name": "NATALIE CREEK AT MIDLOTHIAN, IL",
+  "waterbody": "NATALIE CREEK AT MIDLOTHIAN, IL",
+  "state": "IL",
+  "latitude": 41.62166667,
+  "longitude": -87.7333333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MDNI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Natalie Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mdni2",
+  "slug": "usgs-05536343",
+  "noaaForecastPath": "data/noaa-forecast/MDNI2.json",
+  "generatedAt": "2026-05-01T12:10:11.230Z"
+}

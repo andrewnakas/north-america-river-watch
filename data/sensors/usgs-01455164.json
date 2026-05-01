@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01455164",
+  "key": "01455164",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01455164",
+  "name": "Brass Castle Ck at Kayharts ln at Pleasant Vly NJ",
+  "waterbody": "Brass Castle Ck at Kayharts ln at Pleasant Vly NJ",
+  "state": "NJ",
+  "latitude": 40.75738889,
+  "longitude": -75.0161944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01455164",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.303Z"
+}

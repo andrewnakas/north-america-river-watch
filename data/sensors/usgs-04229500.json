@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04229500",
+  "key": "04229500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04229500",
+  "name": "HONEOYE CREEK AT HONEOYE FALLS NY",
+  "waterbody": "HONEOYE CREEK AT HONEOYE FALLS NY",
+  "state": "NY",
+  "latitude": 42.95702778,
+  "longitude": -77.58888889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HNYN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Honeoye Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hnyn6",
+  "slug": "usgs-04229500",
+  "noaaForecastPath": "data/noaa-forecast/HNYN6.json",
+  "generatedAt": "2026-05-01T12:10:11.321Z"
+}

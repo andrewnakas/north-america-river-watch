@@ -1,0 +1,22 @@
+{
+  "id": "usgs:12462500",
+  "key": "12462500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12462500",
+  "name": "WENATCHEE RIVER AT MONITOR, WA",
+  "waterbody": "WENATCHEE RIVER AT MONITOR, WA",
+  "state": "WA",
+  "latitude": 47.4992578,
+  "longitude": -120.4244935,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MONW1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wenatchee River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/monw1",
+  "slug": "usgs-12462500",
+  "noaaForecastPath": "data/noaa-forecast/MONW1.json",
+  "generatedAt": "2026-05-01T12:10:11.432Z"
+}

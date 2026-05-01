@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06646600",
+  "key": "06646600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06646600",
+  "name": "DEER CREEK BELOW MILLAR WASTEWAY, AT GLENROCK, WY",
+  "waterbody": "DEER CREEK BELOW MILLAR WASTEWAY, AT GLENROCK, WY",
+  "state": "WY",
+  "latitude": 42.86385525,
+  "longitude": -105.866115,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06646600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-05-01T12:10:11.446Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09484600",
+  "key": "09484600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09484600",
+  "name": "PANTANO WASH NEAR VAIL, AZ.",
+  "waterbody": "PANTANO WASH NEAR VAIL, AZ.",
+  "state": "AZ",
+  "latitude": 32.03594255,
+  "longitude": -110.677618,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNTA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pantano Wash",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnta3",
+  "slug": "usgs-09484600",
+  "noaaForecastPath": "data/noaa-forecast/PNTA3.json",
+  "generatedAt": "2026-05-01T12:10:11.162Z"
+}
