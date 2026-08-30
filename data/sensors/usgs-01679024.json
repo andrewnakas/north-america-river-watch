@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01679024",
+  "key": "01679024",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01679024",
+  "name": "SW BRANCH BACK CK AT LANGLEY MARINA AT HAMPTON, VA",
+  "waterbody": "SW BRANCH BACK CK AT LANGLEY MARINA AT HAMPTON, VA",
+  "state": "VA",
+  "latitude": 37.078339,
+  "longitude": -76.34215,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LABV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "SW Branch Back River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/labv2",
+  "slug": "usgs-01679024",
+  "noaaForecastPath": "data/noaa-forecast/LABV2.json",
+  "generatedAt": "2026-08-30T15:40:25.236Z"
+}

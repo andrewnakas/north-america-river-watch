@@ -1,0 +1,19 @@
+{
+  "id": "usgs:453027122400000",
+  "key": "453027122400000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "453027122400000",
+  "name": "WILLAMETTE RIVER BLW HOLGATE CHANNEL, PORTLAND, OR",
+  "waterbody": "WILLAMETTE RIVER BLW HOLGATE CHANNEL, PORTLAND, OR",
+  "state": "OR",
+  "latitude": 45.507481,
+  "longitude": -122.666614,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-453027122400000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.172Z"
+}

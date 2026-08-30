@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02145506",
+  "key": "02145506",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02145506",
+  "name": "CATAWBA CREEK AT BOOGERTOWN, NC",
+  "waterbody": "CATAWBA CREEK AT BOOGERTOWN, NC",
+  "state": "NC",
+  "latitude": 35.239025,
+  "longitude": -81.170517,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCGN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catawba Creek (NC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ccgn7",
+  "slug": "usgs-02145506",
+  "noaaForecastPath": "data/noaa-forecast/CCGN7.json",
+  "generatedAt": "2026-08-30T15:40:25.152Z"
+}

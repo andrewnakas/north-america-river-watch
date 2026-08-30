@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08037050",
+  "key": "08037050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08037050",
+  "name": "Bayou Lanana at Nacogdoches, TX",
+  "waterbody": "Bayou Lanana at Nacogdoches, TX",
+  "state": "TX",
+  "latitude": 31.6176793,
+  "longitude": -94.6415983,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NADT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "La Nana Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nadt2",
+  "slug": "usgs-08037050",
+  "noaaForecastPath": "data/noaa-forecast/NADT2.json",
+  "generatedAt": "2026-08-30T15:40:25.219Z"
+}

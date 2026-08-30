@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13306000",
+  "key": "13306000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13306000",
+  "name": "NF SALMON RIVER AT NORTH FORK ID",
+  "waterbody": "NF SALMON RIVER AT NORTH FORK ID",
+  "state": "ID",
+  "latitude": 45.4075,
+  "longitude": -113.993056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13306000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.064Z"
+}

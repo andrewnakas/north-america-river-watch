@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50043800",
+  "key": "50043800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50043800",
+  "name": "RIO DE LA PLATA AT COMERIO, PR",
+  "waterbody": "RIO DE LA PLATA AT COMERIO, PR",
+  "state": "PR",
+  "latitude": 18.222158,
+  "longitude": -66.224619,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "COMP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio De La Plata",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/comp4",
+  "slug": "usgs-50043800",
+  "noaaForecastPath": "data/noaa-forecast/COMP4.json",
+  "generatedAt": "2026-08-30T15:40:25.257Z"
+}

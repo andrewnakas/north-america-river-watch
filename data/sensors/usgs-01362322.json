@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01362322",
+  "key": "01362322",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01362322",
+  "name": "MYRTLE BROOK AT STATE HWY 214 AT EDGEWOOD NY",
+  "waterbody": "MYRTLE BROOK AT STATE HWY 214 AT EDGEWOOD NY",
+  "state": "NY",
+  "latitude": 42.133611,
+  "longitude": -74.231528,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01362322",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.143Z"
+}

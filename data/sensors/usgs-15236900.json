@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15236900",
+  "key": "15236900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15236900",
+  "name": "WOLVERINE C NR LAWING AK",
+  "waterbody": "WOLVERINE C NR LAWING AK",
+  "state": "AK",
+  "latitude": 60.370556,
+  "longitude": -148.896667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wolverine Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlca2",
+  "slug": "usgs-15236900",
+  "noaaForecastPath": "data/noaa-forecast/WLCA2.json",
+  "generatedAt": "2026-08-30T15:40:24.997Z"
+}

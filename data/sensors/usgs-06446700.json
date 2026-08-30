@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06446700",
+  "key": "06446700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06446700",
+  "name": "BEAR IN THE LODGE CREEK NEAR WANBLEE, SD",
+  "waterbody": "BEAR IN THE LODGE CREEK NEAR WANBLEE, SD",
+  "state": "SD",
+  "latitude": 43.536667,
+  "longitude": -101.798167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BERS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bear in the Lodge Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bers2",
+  "slug": "usgs-06446700",
+  "noaaForecastPath": "data/noaa-forecast/BERS2.json",
+  "generatedAt": "2026-08-30T15:40:25.200Z"
+}

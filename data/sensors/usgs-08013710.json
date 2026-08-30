@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08013710",
+  "key": "08013710",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08013710",
+  "name": "Ouiska Chitto Creek at Hwy 399 NW of Sugartown, LA",
+  "waterbody": "Ouiska Chitto Creek at Hwy 399 NW of Sugartown, LA",
+  "state": "LA",
+  "latitude": 30.89491667,
+  "longitude": -93.0715278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "OSTL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whiskey Chitto Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ostl1",
+  "slug": "usgs-08013710",
+  "noaaForecastPath": "data/noaa-forecast/OSTL1.json",
+  "generatedAt": "2026-08-30T15:40:25.087Z"
+}

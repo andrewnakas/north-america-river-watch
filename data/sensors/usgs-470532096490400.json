@@ -1,0 +1,22 @@
+{
+  "id": "usgs:470532096490400",
+  "key": "470532096490400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "470532096490400",
+  "name": "RED RIVER (STAGE GAGE 2011) NEAR GEORGETOWN, MN",
+  "waterbody": "RED RIVER (STAGE GAGE 2011) NEAR GEORGETOWN, MN",
+  "state": "MN",
+  "latitude": 47.0922222,
+  "longitude": -96.8177778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GEGM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River of the North",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gegm5",
+  "slug": "usgs-470532096490400",
+  "noaaForecastPath": "data/noaa-forecast/GEGM5.json",
+  "generatedAt": "2026-08-30T15:40:25.106Z"
+}

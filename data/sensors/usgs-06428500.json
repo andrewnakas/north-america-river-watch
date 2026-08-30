@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06428500",
+  "key": "06428500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06428500",
+  "name": "BELLE FOURCHE RIVER AT WY-SD STATE LINE",
+  "waterbody": "BELLE FOURCHE RIVER AT WY-SD STATE LINE",
+  "state": "SD",
+  "latitude": 44.748889,
+  "longitude": -104.051111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06428500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.200Z"
+}

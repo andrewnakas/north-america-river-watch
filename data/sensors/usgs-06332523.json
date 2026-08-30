@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06332523",
+  "key": "06332523",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06332523",
+  "name": "EAST FORK SHELL CREEK NEAR PARSHALL, ND",
+  "waterbody": "EAST FORK SHELL CREEK NEAR PARSHALL, ND",
+  "state": "ND",
+  "latitude": 47.948611,
+  "longitude": -102.214444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06332523",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

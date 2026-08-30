@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07344450",
+  "key": "07344450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07344450",
+  "name": "Paw Paw Bayou near Greenwood, LA",
+  "waterbody": "Paw Paw Bayou near Greenwood, LA",
+  "state": "LA",
+  "latitude": 32.51681896,
+  "longitude": -93.9724054,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PAWL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Paw Paw Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pawl1",
+  "slug": "usgs-07344450",
+  "noaaForecastPath": "data/noaa-forecast/PAWL1.json",
+  "generatedAt": "2026-08-30T15:40:25.084Z"
+}

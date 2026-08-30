@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03049635",
+  "key": "03049635",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03049635",
+  "name": "Little Pucketa Cr at 7th St at New Kensington PA",
+  "waterbody": "Little Pucketa Cr at 7th St at New Kensington PA",
+  "state": "PA",
+  "latitude": 40.56363889,
+  "longitude": -79.75641667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03049635",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.177Z"
+}

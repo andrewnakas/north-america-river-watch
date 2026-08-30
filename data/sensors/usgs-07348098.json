@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07348098",
+  "key": "07348098",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07348098",
+  "name": "McCain Creek near Blanchard, LA",
+  "waterbody": "McCain Creek near Blanchard, LA",
+  "state": "LA",
+  "latitude": 32.60194444,
+  "longitude": -93.8369444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCHL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "McCain Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bchl1",
+  "slug": "usgs-07348098",
+  "noaaForecastPath": "data/noaa-forecast/BCHL1.json",
+  "generatedAt": "2026-08-30T15:40:25.084Z"
+}

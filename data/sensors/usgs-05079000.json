@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05079000",
+  "key": "05079000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05079000",
+  "name": "RED LAKE RIVER AT CROOKSTON, MN",
+  "waterbody": "RED LAKE RIVER AT CROOKSTON, MN",
+  "state": "MN",
+  "latitude": 47.775556,
+  "longitude": -96.609167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRKM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Lake River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crkm5",
+  "slug": "usgs-05079000",
+  "noaaForecastPath": "data/noaa-forecast/CRKM5.json",
+  "generatedAt": "2026-08-30T15:40:25.099Z"
+}

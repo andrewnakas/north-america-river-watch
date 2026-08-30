@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50231000",
+  "key": "50231000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50231000",
+  "name": "QDA COFRESI TRIBUTARY NR ISABEL SEGUNDA VIEQUES PR",
+  "waterbody": "QDA COFRESI TRIBUTARY NR ISABEL SEGUNDA VIEQUES PR",
+  "state": "PR",
+  "latitude": 18.13718522,
+  "longitude": -65.43460311,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50231000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.258Z"
+}

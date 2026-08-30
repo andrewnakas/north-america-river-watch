@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06447500",
+  "key": "06447500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06447500",
+  "name": "LITTLE WHITE RIVER NEAR MARTIN, SD",
+  "waterbody": "LITTLE WHITE RIVER NEAR MARTIN, SD",
+  "state": "SD",
+  "latitude": 43.166917,
+  "longitude": -101.632306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LITS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little White River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lits2",
+  "slug": "usgs-06447500",
+  "noaaForecastPath": "data/noaa-forecast/LITS2.json",
+  "generatedAt": "2026-08-30T15:40:25.200Z"
+}

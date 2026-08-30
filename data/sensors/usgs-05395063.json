@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05395063",
+  "key": "05395063",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05395063",
+  "name": "PINE RIVER AT CENTER AVENUE NEAR MERRILL, WI",
+  "waterbody": "PINE RIVER AT CENTER AVENUE NEAR MERRILL, WI",
+  "state": "WI",
+  "latitude": 45.1575,
+  "longitude": -89.5975,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05395063",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.251Z"
+}

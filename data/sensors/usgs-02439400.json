@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02439400",
+  "key": "02439400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02439400",
+  "name": "BUTTAHATCHEE RIVER NR ABERDEEN, MS",
+  "waterbody": "BUTTAHATCHEE RIVER NR ABERDEEN, MS",
+  "state": "MS",
+  "latitude": 33.79,
+  "longitude": -88.3152778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ABDM6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Buttahatchie River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/abdm6",
+  "slug": "usgs-02439400",
+  "noaaForecastPath": "data/noaa-forecast/ABDM6.json",
+  "generatedAt": "2026-08-30T15:40:25.106Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06185600",
+  "key": "06185600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06185600",
+  "name": "MISSOURI RIVER NO. 4 NEAR NOHLY, MT",
+  "waterbody": "MISSOURI RIVER NO. 4 NEAR NOHLY, MT",
+  "state": "MT",
+  "latitude": 48.036111,
+  "longitude": -104.161111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06185600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.116Z"
+}

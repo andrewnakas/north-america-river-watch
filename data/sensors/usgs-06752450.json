@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06752450",
+  "key": "06752450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06752450",
+  "name": "CACHE LA POUDRE R ABV N 11TH AVE AT GREELEY, CO",
+  "waterbody": "CACHE LA POUDRE R ABV N 11TH AVE AT GREELEY, CO",
+  "state": "CO",
+  "latitude": 40.442003,
+  "longitude": -104.701289,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06752450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.021Z"
+}

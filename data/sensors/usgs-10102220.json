@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10102220",
+  "key": "10102220",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10102220",
+  "name": "CUB RIVER NEAR MOUTH NEAR RICHMOND, UT",
+  "waterbody": "CUB RIVER NEAR MOUTH NEAR RICHMOND, UT",
+  "state": "UT",
+  "latitude": 41.90695,
+  "longitude": -111.8751194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10102220",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.231Z"
+}

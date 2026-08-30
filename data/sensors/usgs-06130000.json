@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06130000",
+  "key": "06130000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06130000",
+  "name": "Flatwillow Creek near Mosby MT",
+  "waterbody": "Flatwillow Creek near Mosby MT",
+  "state": "MT",
+  "latitude": 46.9286611,
+  "longitude": -107.9328417,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MFLM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flatwillow Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mflm8",
+  "slug": "usgs-06130000",
+  "noaaForecastPath": "data/noaa-forecast/MFLM8.json",
+  "generatedAt": "2026-08-30T15:40:25.115Z"
+}

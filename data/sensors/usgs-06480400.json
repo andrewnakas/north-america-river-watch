@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06480400",
+  "key": "06480400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06480400",
+  "name": "SPRING CREEK NEAR FLANDREAU, SD",
+  "waterbody": "SPRING CREEK NEAR FLANDREAU, SD",
+  "state": "SD",
+  "latitude": 44.121694,
+  "longitude": -96.588806,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SCFS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Spring Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/scfs2",
+  "slug": "usgs-06480400",
+  "noaaForecastPath": "data/noaa-forecast/SCFS2.json",
+  "generatedAt": "2026-08-30T15:40:25.206Z"
+}

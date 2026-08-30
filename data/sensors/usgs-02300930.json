@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02300930",
+  "key": "02300930",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02300930",
+  "name": "POLEY CREEK NEAR MULBERRY FL",
+  "waterbody": "POLEY CREEK NEAR MULBERRY FL",
+  "state": "FL",
+  "latitude": 27.923364,
+  "longitude": -82.030314,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PCMF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Poley Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pcmf1",
+  "slug": "usgs-02300930",
+  "noaaForecastPath": "data/noaa-forecast/PCMF1.json",
+  "generatedAt": "2026-08-30T15:40:25.041Z"
+}

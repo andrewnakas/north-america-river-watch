@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06657000",
+  "key": "06657000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06657000",
+  "name": "NORTH PLATTE RIVER BELOW WHALEN DIVERSION DAM, WY",
+  "waterbody": "NORTH PLATTE RIVER BELOW WHALEN DIVERSION DAM, WY",
+  "state": "WY",
+  "latitude": 42.2410095,
+  "longitude": -104.6280247,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WHLW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Platte River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/whlw4",
+  "slug": "usgs-06657000",
+  "noaaForecastPath": "data/noaa-forecast/WHLW4.json",
+  "generatedAt": "2026-08-30T15:40:25.255Z"
+}

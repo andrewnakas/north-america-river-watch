@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13074800",
+  "key": "13074800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13074800",
+  "name": "MARSH CREEK AT E RICHARDS RD NR VIRGINIA, ID",
+  "waterbody": "MARSH CREEK AT E RICHARDS RD NR VIRGINIA, ID",
+  "state": "ID",
+  "latitude": 42.4888,
+  "longitude": -112.21285,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13074800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.061Z"
+}

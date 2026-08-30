@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50011000",
+  "key": "50011000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50011000",
+  "name": "CANAL DE DERIVACION AT LAGO DE GUAJATACA, PR",
+  "waterbody": "CANAL DE DERIVACION AT LAGO DE GUAJATACA, PR",
+  "state": "PR",
+  "latitude": 18.399517,
+  "longitude": -66.927506,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "QUEP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lago Guajataca",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/quep4",
+  "slug": "usgs-50011000",
+  "noaaForecastPath": "data/noaa-forecast/QUEP4.json",
+  "generatedAt": "2026-08-30T15:40:25.256Z"
+}

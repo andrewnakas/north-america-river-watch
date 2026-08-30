@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05059460",
+  "key": "05059460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05059460",
+  "name": "SHEYENNE RIVER ON 32ND AVE E AT WEST FARGO, ND",
+  "waterbody": "SHEYENNE RIVER ON 32ND AVE E AT WEST FARGO, ND",
+  "state": "ND",
+  "latitude": 46.833781,
+  "longitude": -96.904519,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05059460",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

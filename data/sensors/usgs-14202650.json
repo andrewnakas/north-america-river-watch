@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14202650",
+  "key": "14202650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14202650",
+  "name": "WAPATO CREEK AT SW GASTON ROAD, AT GASTON, OR",
+  "waterbody": "WAPATO CREEK AT SW GASTON ROAD, AT GASTON, OR",
+  "state": "OR",
+  "latitude": 45.44064167,
+  "longitude": -123.125,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRWO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wapato Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grwo3",
+  "slug": "usgs-14202650",
+  "noaaForecastPath": "data/noaa-forecast/GRWO3.json",
+  "generatedAt": "2026-08-30T15:40:25.168Z"
+}

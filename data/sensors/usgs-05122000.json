@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05122000",
+  "key": "05122000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05122000",
+  "name": "SOURIS RIVER NEAR BANTRY, ND",
+  "waterbody": "SOURIS RIVER NEAR BANTRY, ND",
+  "state": "ND",
+  "latitude": 48.505556,
+  "longitude": -100.434444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BANN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Souris River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bann8",
+  "slug": "usgs-05122000",
+  "noaaForecastPath": "data/noaa-forecast/BANN8.json",
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

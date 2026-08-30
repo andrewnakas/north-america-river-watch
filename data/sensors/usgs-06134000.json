@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06134000",
+  "key": "06134000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06134000",
+  "name": "North Milk River near international boundary",
+  "waterbody": "North Milk River near international boundary",
+  "state": "AL",
+  "latitude": 49.026336,
+  "longitude": -112.969697,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06134000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:24.995Z"
+}

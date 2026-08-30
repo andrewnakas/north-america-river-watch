@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06429997",
+  "key": "06429997",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06429997",
+  "name": "MURRAY DITCH ABOVE HEADGATE AT WY-SD STATE LINE",
+  "waterbody": "MURRAY DITCH ABOVE HEADGATE AT WY-SD STATE LINE",
+  "state": "SD",
+  "latitude": 44.576389,
+  "longitude": -104.055556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06429997",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.200Z"
+}

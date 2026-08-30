@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06656000",
+  "key": "06656000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06656000",
+  "name": "NORTH PLATTE RIVER BELOW GUERNSEY RESERVOIR, WY",
+  "waterbody": "NORTH PLATTE RIVER BELOW GUERNSEY RESERVOIR, WY",
+  "state": "WY",
+  "latitude": 42.28050857,
+  "longitude": -104.7547514,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GUSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Platte River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gusw4",
+  "slug": "usgs-06656000",
+  "noaaForecastPath": "data/noaa-forecast/GUSW4.json",
+  "generatedAt": "2026-08-30T15:40:25.255Z"
+}

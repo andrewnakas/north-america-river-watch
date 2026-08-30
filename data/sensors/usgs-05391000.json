@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05391000",
+  "key": "05391000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05391000",
+  "name": "WISCONSIN RIVER @ RAINBOW LAKE NR LAKE TOMAHAWK,WI",
+  "waterbody": "WISCONSIN RIVER @ RAINBOW LAKE NR LAKE TOMAHAWK,WI",
+  "state": "WI",
+  "latitude": 45.8305086,
+  "longitude": -89.55236359,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LTKW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wisconsin River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ltkw3",
+  "slug": "usgs-05391000",
+  "noaaForecastPath": "data/noaa-forecast/LTKW3.json",
+  "generatedAt": "2026-08-30T15:40:25.251Z"
+}

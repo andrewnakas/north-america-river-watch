@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06460800",
+  "key": "06460800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06460800",
+  "name": "Niobrara R at Borman Bridge nr Valentine, Nebr.",
+  "waterbody": "Niobrara R at Borman Bridge nr Valentine, Nebr.",
+  "state": "NE",
+  "latitude": 42.8522222,
+  "longitude": -100.5211111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06460800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.118Z"
+}

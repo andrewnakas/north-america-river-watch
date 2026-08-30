@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09376800",
+  "key": "09376800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09376800",
+  "name": "SPRING CREEK NEAR MONTICELLO, UT",
+  "waterbody": "SPRING CREEK NEAR MONTICELLO, UT",
+  "state": "UT",
+  "latitude": 37.88888196,
+  "longitude": -109.46651,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09376800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.230Z"
+}

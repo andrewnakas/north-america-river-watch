@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06849500",
+  "key": "06849500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06849500",
+  "name": "Republican River below Harlan County Dam, Nebr.",
+  "waterbody": "Republican River below Harlan County Dam, Nebr.",
+  "state": "NE",
+  "latitude": 40.0783333,
+  "longitude": -99.1686111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06849500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.121Z"
+}

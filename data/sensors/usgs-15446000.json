@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15446000",
+  "key": "15446000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15446000",
+  "name": "BIRCH C NR CIRCLE AK",
+  "waterbody": "BIRCH C NR CIRCLE AK",
+  "state": "AK",
+  "latitude": 65.7107523,
+  "longitude": -144.3357853,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCCA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Birch Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcca2",
+  "slug": "usgs-15446000",
+  "noaaForecastPath": "data/noaa-forecast/BCCA2.json",
+  "generatedAt": "2026-08-30T15:40:25.000Z"
+}

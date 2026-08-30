@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08358400",
+  "key": "08358400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08358400",
+  "name": "RIO GRANDE FLOODWAY AT SAN MARCIAL, NM",
+  "waterbody": "RIO GRANDE FLOODWAY AT SAN MARCIAL, NM",
+  "state": "NM",
+  "latitude": 33.6790833,
+  "longitude": -106.997,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMFN5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smfn5",
+  "slug": "usgs-08358400",
+  "noaaForecastPath": "data/noaa-forecast/SMFN5.json",
+  "generatedAt": "2026-08-30T15:40:25.133Z"
+}

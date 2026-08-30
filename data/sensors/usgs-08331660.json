@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08331660",
+  "key": "08331660",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08331660",
+  "name": "ABO ARROYO NEAR BLUE SPRINGS, NM",
+  "waterbody": "ABO ARROYO NEAR BLUE SPRINGS, NM",
+  "state": "NM",
+  "latitude": 34.4464537,
+  "longitude": -106.4966845,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08331660",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.132Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:251549080251200",
+  "key": "251549080251200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "251549080251200",
+  "name": "MANATEE BAY CREEK NEAR HOMESTEAD, FL",
+  "waterbody": "MANATEE BAY CREEK NEAR HOMESTEAD, FL",
+  "state": "FL",
+  "latitude": 25.264211,
+  "longitude": -80.420183,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-251549080251200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.049Z"
+}

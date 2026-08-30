@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06339200",
+  "key": "06339200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06339200",
+  "name": "CROOKED CREEK NEAR EMERSON, ND",
+  "waterbody": "CROOKED CREEK NEAR EMERSON, ND",
+  "state": "ND",
+  "latitude": 47.182583,
+  "longitude": -102.604444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06339200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

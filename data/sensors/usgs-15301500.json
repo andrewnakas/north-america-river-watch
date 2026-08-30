@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15301500",
+  "key": "15301500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15301500",
+  "name": "ALLEN R NR ALEKNAGIK AK",
+  "waterbody": "ALLEN R NR ALEKNAGIK AK",
+  "state": "AK",
+  "latitude": 60.1539944,
+  "longitude": -158.7366923,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15301500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:24.999Z"
+}

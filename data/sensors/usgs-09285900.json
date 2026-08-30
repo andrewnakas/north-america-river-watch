@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09285900",
+  "key": "09285900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09285900",
+  "name": "STRAWBERRY RIVER AT PINNACLES NEAR FRUITLAND, UT",
+  "waterbody": "STRAWBERRY RIVER AT PINNACLES NEAR FRUITLAND, UT",
+  "state": "UT",
+  "latitude": 40.1271783,
+  "longitude": -110.7418242,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09285900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.229Z"
+}

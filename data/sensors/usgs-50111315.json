@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50111315",
+  "key": "50111315",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50111315",
+  "name": "RIO JACAGUAS BLW HWY 149 NR VILLALBA, PR",
+  "waterbody": "RIO JACAGUAS BLW HWY 149 NR VILLALBA, PR",
+  "state": "PR",
+  "latitude": 18.0831,
+  "longitude": -66.503936,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JUBP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lago Guayabal",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jubp4",
+  "slug": "usgs-50111315",
+  "noaaForecastPath": "data/noaa-forecast/JUBP4.json",
+  "generatedAt": "2026-08-30T15:40:25.258Z"
+}

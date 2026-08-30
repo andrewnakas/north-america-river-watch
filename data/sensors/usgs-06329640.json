@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06329640",
+  "key": "06329640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06329640",
+  "name": "MISSOURI RIVER NO. 5A AT BUFORD, ND",
+  "waterbody": "MISSOURI RIVER NO. 5A AT BUFORD, ND",
+  "state": "ND",
+  "latitude": 47.985556,
+  "longitude": -103.985278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06329640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

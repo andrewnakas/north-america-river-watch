@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03353640",
+  "key": "03353640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353640",
+  "name": "WHITE RIVER AT SOUTHPORT RD AT INDIANAPOLIS, IN",
+  "waterbody": "WHITE RIVER AT SOUTHPORT RD AT INDIANAPOLIS, IN",
+  "state": "IN",
+  "latitude": 39.663056,
+  "longitude": -86.236111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03353640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.071Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06352000",
+  "key": "06352000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06352000",
+  "name": "CEDAR CREEK NEAR HAYNES, ND",
+  "waterbody": "CEDAR CREEK NEAR HAYNES, ND",
+  "state": "ND",
+  "latitude": 46.155278,
+  "longitude": -102.475278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06352000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

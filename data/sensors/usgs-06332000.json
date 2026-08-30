@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06332000",
+  "key": "06332000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06332000",
+  "name": "WHITE EARTH RIVER AT WHITE EARTH, ND",
+  "waterbody": "WHITE EARTH RIVER AT WHITE EARTH, ND",
+  "state": "ND",
+  "latitude": 48.375556,
+  "longitude": -102.767222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06332000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

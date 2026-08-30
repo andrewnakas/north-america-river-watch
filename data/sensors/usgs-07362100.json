@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07362100",
+  "key": "07362100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07362100",
+  "name": "Smackover Creek near Smackover, AR",
+  "waterbody": "Smackover Creek near Smackover, AR",
+  "state": "AR",
+  "latitude": 33.37527778,
+  "longitude": -92.7766667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SMKA4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Smackover Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/smka4",
+  "slug": "usgs-07362100",
+  "noaaForecastPath": "data/noaa-forecast/SMKA4.json",
+  "generatedAt": "2026-08-30T15:40:25.009Z"
+}

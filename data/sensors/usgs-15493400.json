@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15493400",
+  "key": "15493400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15493400",
+  "name": "CHENA R BL HUNTS C NR TWO RIVERS AK",
+  "waterbody": "CHENA R BL HUNTS C NR TWO RIVERS AK",
+  "state": "AK",
+  "latitude": 64.8595767,
+  "longitude": -146.8057732,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRHA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chena River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crha2",
+  "slug": "usgs-15493400",
+  "noaaForecastPath": "data/noaa-forecast/CRHA2.json",
+  "generatedAt": "2026-08-30T15:40:25.000Z"
+}

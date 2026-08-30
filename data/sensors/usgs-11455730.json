@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11455730",
+  "key": "11455730",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11455730",
+  "name": "SUISUN SLOUGH A JOICE ISLAND NR CORDELIA CA",
+  "waterbody": "SUISUN SLOUGH A JOICE ISLAND NR CORDELIA CA",
+  "state": "CA",
+  "latitude": 38.142856,
+  "longitude": -122.067167,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11455730",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.017Z"
+}

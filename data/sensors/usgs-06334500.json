@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06334500",
+  "key": "06334500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06334500",
+  "name": "LITTLE MISSOURI RIVER AT CAMP CROOK, SD",
+  "waterbody": "LITTLE MISSOURI RIVER AT CAMP CROOK, SD",
+  "state": "SD",
+  "latitude": 45.548139,
+  "longitude": -103.97075,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CACS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cacs2",
+  "slug": "usgs-06334500",
+  "noaaForecastPath": "data/noaa-forecast/CACS2.json",
+  "generatedAt": "2026-08-30T15:40:25.199Z"
+}

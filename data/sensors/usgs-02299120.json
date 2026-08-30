@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299120",
+  "key": "02299120",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299120",
+  "name": "DEER PRAIRIE SLOUGH AT POWER LINE NR NORTH PORT FL",
+  "waterbody": "DEER PRAIRIE SLOUGH AT POWER LINE NR NORTH PORT FL",
+  "state": "FL",
+  "latitude": 27.1353314,
+  "longitude": -82.25648068,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DPFF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deer Prairie Slough",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dpff1",
+  "slug": "usgs-02299120",
+  "noaaForecastPath": "data/noaa-forecast/DPFF1.json",
+  "generatedAt": "2026-08-30T15:40:25.041Z"
+}

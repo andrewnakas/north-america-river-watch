@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09071295",
+  "key": "09071295",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09071295",
+  "name": "GRIZZLY CREEK NR GRIZZLY LAKE NR GLENWOOD SPGS, CO",
+  "waterbody": "GRIZZLY CREEK NR GRIZZLY LAKE NR GLENWOOD SPGS, CO",
+  "state": "CO",
+  "latitude": 39.71762778,
+  "longitude": -107.3177194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09071295",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.026Z"
+}

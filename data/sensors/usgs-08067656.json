@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08067656",
+  "key": "08067656",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08067656",
+  "name": "Alligator Ck at TX 105, Conroe, TX",
+  "waterbody": "Alligator Ck at TX 105, Conroe, TX",
+  "state": "TX",
+  "latitude": 30.313731,
+  "longitude": -95.469186,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08067656",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.222Z"
+}

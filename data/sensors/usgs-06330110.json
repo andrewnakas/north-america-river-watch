@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06330110",
+  "key": "06330110",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06330110",
+  "name": "MISSOURI RIVER NO. 9 AT WILLISTON, ND",
+  "waterbody": "MISSOURI RIVER NO. 9 AT WILLISTON, ND",
+  "state": "ND",
+  "latitude": 48.136944,
+  "longitude": -103.604444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06330110",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

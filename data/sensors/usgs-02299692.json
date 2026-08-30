@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299692",
+  "key": "02299692",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299692",
+  "name": "BLACKBURN CANAL NEAR VENICE FL",
+  "waterbody": "BLACKBURN CANAL NEAR VENICE FL",
+  "state": "FL",
+  "latitude": 27.1117214,
+  "longitude": -82.36009439,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JKRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Curry Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jkrf1",
+  "slug": "usgs-02299692",
+  "noaaForecastPath": "data/noaa-forecast/JKRF1.json",
+  "generatedAt": "2026-08-30T15:40:25.041Z"
+}

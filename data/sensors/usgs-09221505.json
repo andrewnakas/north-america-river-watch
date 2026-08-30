@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09221505",
+  "key": "09221505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09221505",
+  "name": "South Creek at Mountain View, WY",
+  "waterbody": "South Creek at Mountain View, WY",
+  "state": "WY",
+  "latitude": 41.267219,
+  "longitude": -110.339719,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09221505",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.256Z"
+}

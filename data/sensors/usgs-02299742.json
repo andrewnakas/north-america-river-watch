@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299742",
+  "key": "02299742",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299742",
+  "name": "CLOWER CREEK AT VAMO FL",
+  "waterbody": "CLOWER CREEK AT VAMO FL",
+  "state": "FL",
+  "latitude": 27.23171687,
+  "longitude": -82.49898589,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SARF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Catfish Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sarf1",
+  "slug": "usgs-02299742",
+  "noaaForecastPath": "data/noaa-forecast/SARF1.json",
+  "generatedAt": "2026-08-30T15:40:25.041Z"
+}

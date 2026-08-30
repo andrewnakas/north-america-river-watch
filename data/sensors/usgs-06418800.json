@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06418800",
+  "key": "06418800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06418800",
+  "name": "RAPID CREEK ABOVE WRF NEAR RAPID CITY,  SD",
+  "waterbody": "RAPID CREEK ABOVE WRF NEAR RAPID CITY,  SD",
+  "state": "SD",
+  "latitude": 44.026806,
+  "longitude": -103.101111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCVS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcvs2",
+  "slug": "usgs-06418800",
+  "noaaForecastPath": "data/noaa-forecast/RCVS2.json",
+  "generatedAt": "2026-08-30T15:40:25.199Z"
+}

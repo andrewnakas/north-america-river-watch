@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06421500",
+  "key": "06421500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06421500",
+  "name": "RAPID CR NEAR FARMINGDALE, SD",
+  "waterbody": "RAPID CR NEAR FARMINGDALE, SD",
+  "state": "SD",
+  "latitude": 43.942114,
+  "longitude": -102.853472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FARS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fars2",
+  "slug": "usgs-06421500",
+  "noaaForecastPath": "data/noaa-forecast/FARS2.json",
+  "generatedAt": "2026-08-30T15:40:25.199Z"
+}

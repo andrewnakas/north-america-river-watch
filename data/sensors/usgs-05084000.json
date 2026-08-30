@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05084000",
+  "key": "05084000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05084000",
+  "name": "FOREST RIVER NEAR FORDVILLE, ND",
+  "waterbody": "FOREST RIVER NEAR FORDVILLE, ND",
+  "state": "ND",
+  "latitude": 48.197222,
+  "longitude": -97.730278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FDVN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Forest River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fdvn8",
+  "slug": "usgs-05084000",
+  "noaaForecastPath": "data/noaa-forecast/FDVN8.json",
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

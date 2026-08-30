@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05420460",
+  "key": "05420460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05420460",
+  "name": "Beaver Slough at 3rd Street at Clinton, IA",
+  "waterbody": "Beaver Slough at 3rd Street at Clinton, IA",
+  "state": "IA",
+  "latitude": 41.82725278,
+  "longitude": -90.1904056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CBSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Beaver Slough",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cbsi4",
+  "slug": "usgs-05420460",
+  "noaaForecastPath": "data/noaa-forecast/CBSI4.json",
+  "generatedAt": "2026-08-30T15:40:25.074Z"
+}

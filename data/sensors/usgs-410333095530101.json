@@ -1,0 +1,19 @@
+{
+  "id": "usgs:410333095530101",
+  "key": "410333095530101",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "410333095530101",
+  "name": "Missouri River near La Platte, Nebr.",
+  "waterbody": "Missouri River near La Platte, Nebr.",
+  "state": "NE",
+  "latitude": 41.059353,
+  "longitude": -95.883669,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-410333095530101",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.121Z"
+}

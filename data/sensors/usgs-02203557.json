@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02203557",
+  "key": "02203557",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02203557",
+  "name": "PEACOCK CREEK AT ATLANTIC RR LINE NR MCINTOSH, GA",
+  "waterbody": "PEACOCK CREEK AT ATLANTIC RR LINE NR MCINTOSH, GA",
+  "state": "GA",
+  "latitude": 31.820556,
+  "longitude": -81.539556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02203557",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.052Z"
+}

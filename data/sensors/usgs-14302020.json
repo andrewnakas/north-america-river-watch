@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14302020",
+  "key": "14302020",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14302020",
+  "name": "WILSON RIVER AT SOLLIE SMITH BR AT TILLAMOOK, OR",
+  "waterbody": "WILSON RIVER AT SOLLIE SMITH BR AT TILLAMOOK, OR",
+  "state": "OR",
+  "latitude": 45.4771111,
+  "longitude": -123.8079722,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WTSO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wilson River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wtso3",
+  "slug": "usgs-14302020",
+  "noaaForecastPath": "data/noaa-forecast/WTSO3.json",
+  "generatedAt": "2026-08-30T15:40:25.168Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06470800",
+  "key": "06470800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06470800",
+  "name": "BEAR CREEK NEAR OAKES, ND",
+  "waterbody": "BEAR CREEK NEAR OAKES, ND",
+  "state": "ND",
+  "latitude": 46.225278,
+  "longitude": -98.071389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06470800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

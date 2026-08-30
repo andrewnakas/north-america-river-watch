@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05082500",
+  "key": "05082500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05082500",
+  "name": "RED RIVER OF THE NORTH AT GRAND FORKS, ND",
+  "waterbody": "RED RIVER OF THE NORTH AT GRAND FORKS, ND",
+  "state": "ND",
+  "latitude": 47.926944,
+  "longitude": -97.028889,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05082500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

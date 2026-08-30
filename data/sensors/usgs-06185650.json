@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06185650",
+  "key": "06185650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06185650",
+  "name": "MISSOURI RIVER NO. 5 AT NOHLY, MT",
+  "waterbody": "MISSOURI RIVER NO. 5 AT NOHLY, MT",
+  "state": "MT",
+  "latitude": 48.002778,
+  "longitude": -104.091667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06185650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.116Z"
+}

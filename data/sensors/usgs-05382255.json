@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05382255",
+  "key": "05382255",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05382255",
+  "name": "STILLWELL CREEK AT SIXTEENTH COURT NEAR TOMAH, WI",
+  "waterbody": "STILLWELL CREEK AT SIXTEENTH COURT NEAR TOMAH, WI",
+  "state": "WI",
+  "latitude": 43.99388889,
+  "longitude": -90.6572222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STCW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwell Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/stcw3",
+  "slug": "usgs-05382255",
+  "noaaForecastPath": "data/noaa-forecast/STCW3.json",
+  "generatedAt": "2026-08-30T15:40:25.250Z"
+}

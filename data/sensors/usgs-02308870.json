@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02308870",
+  "key": "02308870",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02308870",
+  "name": "PINEBROOK CN AT BRYAN DAIRY RD AT PINELLAS PARK FL",
+  "waterbody": "PINEBROOK CN AT BRYAN DAIRY RD AT PINELLAS PARK FL",
+  "state": "FL",
+  "latitude": 27.871944,
+  "longitude": -82.737222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBDF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pinebrook",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbdf1",
+  "slug": "usgs-02308870",
+  "noaaForecastPath": "data/noaa-forecast/PBDF1.json",
+  "generatedAt": "2026-08-30T15:40:25.042Z"
+}

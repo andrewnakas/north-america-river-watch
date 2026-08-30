@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05062130",
+  "key": "05062130",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05062130",
+  "name": "RED RIVER OF THE NORTH NEAR GEORGETOWN, MN",
+  "waterbody": "RED RIVER OF THE NORTH NEAR GEORGETOWN, MN",
+  "state": "ND",
+  "latitude": 47.092756,
+  "longitude": -96.818,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05062130",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

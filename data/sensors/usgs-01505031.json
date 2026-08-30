@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01505031",
+  "key": "01505031",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01505031",
+  "name": "CHENANGO RIVER AT NORWICH NY",
+  "waterbody": "CHENANGO RIVER AT NORWICH NY",
+  "state": "NY",
+  "latitude": 42.537917,
+  "longitude": -75.513444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NWHN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Chenango River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nwhn6",
+  "slug": "usgs-01505031",
+  "noaaForecastPath": "data/noaa-forecast/NWHN6.json",
+  "generatedAt": "2026-08-30T15:40:25.145Z"
+}

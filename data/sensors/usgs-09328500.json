@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09328500",
+  "key": "09328500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09328500",
+  "name": "SAN RAFAEL RIVER NEAR GREEN RIVER, UT",
+  "waterbody": "SAN RAFAEL RIVER NEAR GREEN RIVER, UT",
+  "state": "UT",
+  "latitude": 38.8583081,
+  "longitude": -110.3701469,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09328500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.230Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09429500",
+  "key": "09429500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09429500",
+  "name": "COLORADO RIVER BELOW IMPERIAL DAM, AZ-CA",
+  "waterbody": "COLORADO RIVER BELOW IMPERIAL DAM, AZ-CA",
+  "state": "CA",
+  "latitude": 32.86758333,
+  "longitude": -114.472111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09429500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.009Z"
+}

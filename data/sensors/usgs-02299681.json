@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299681",
+  "key": "02299681",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299681",
+  "name": "TRIBUTARY TO GOTTFRIED CK NEAR ENGLEWOOD FL",
+  "waterbody": "TRIBUTARY TO GOTTFRIED CK NEAR ENGLEWOOD FL",
+  "state": "FL",
+  "latitude": 26.98505987,
+  "longitude": -82.3523173,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TWDF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Gottfried Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/twdf1",
+  "slug": "usgs-02299681",
+  "noaaForecastPath": "data/noaa-forecast/TWDF1.json",
+  "generatedAt": "2026-08-30T15:40:25.041Z"
+}

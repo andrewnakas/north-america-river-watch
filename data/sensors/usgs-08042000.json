@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08042000",
+  "key": "08042000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08042000",
+  "name": "Taylor Bayou nr LaBelle, TX",
+  "waterbody": "Taylor Bayou nr LaBelle, TX",
+  "state": "TX",
+  "latitude": 29.875,
+  "longitude": -94.1594444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JZYT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Taylor Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jzyt2",
+  "slug": "usgs-08042000",
+  "noaaForecastPath": "data/noaa-forecast/JZYT2.json",
+  "generatedAt": "2026-08-30T15:40:25.219Z"
+}

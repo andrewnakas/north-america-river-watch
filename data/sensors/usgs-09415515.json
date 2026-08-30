@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415515",
+  "key": "09415515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415515",
+  "name": "WATER CYN CK NR PRESTON, NV",
+  "waterbody": "WATER CYN CK NR PRESTON, NV",
+  "state": "NV",
+  "latitude": 38.98772041,
+  "longitude": -114.95834959,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415515",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.121Z"
+}

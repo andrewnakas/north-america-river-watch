@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13074400",
+  "key": "13074400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13074400",
+  "name": "Portneuf R. at Inkom, ID",
+  "waterbody": "Portneuf R. at Inkom, ID",
+  "state": "ID",
+  "latitude": 42.79183333,
+  "longitude": -112.25206944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PNKI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portneuf River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pnki1",
+  "slug": "usgs-13074400",
+  "noaaForecastPath": "data/noaa-forecast/PNKI1.json",
+  "generatedAt": "2026-08-30T15:40:25.061Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05382257",
+  "key": "05382257",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05382257",
+  "name": "STILLWELL CREEK AT YARD ROAD NEAR TOMAH, WI",
+  "waterbody": "STILLWELL CREEK AT YARD ROAD NEAR TOMAH, WI",
+  "state": "WI",
+  "latitude": 44.00055556,
+  "longitude": -90.6811111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "STYW3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Stillwell Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/styw3",
+  "slug": "usgs-05382257",
+  "noaaForecastPath": "data/noaa-forecast/STYW3.json",
+  "generatedAt": "2026-08-30T15:40:25.251Z"
+}

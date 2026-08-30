@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09203500",
+  "key": "09203500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09203500",
+  "name": "East Fork River ab East Fork Canal, nr Boulder, WY",
+  "waterbody": "East Fork River ab East Fork Canal, nr Boulder, WY",
+  "state": "WY",
+  "latitude": 42.673889,
+  "longitude": -109.569722,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09203500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.255Z"
+}

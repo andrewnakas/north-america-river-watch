@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09536500",
+  "key": "09536500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09536500",
+  "name": "WEST TURKEY CREEK NEAR SUNIZONA, AZ",
+  "waterbody": "WEST TURKEY CREEK NEAR SUNIZONA, AZ",
+  "state": "AZ",
+  "latitude": 31.866667,
+  "longitude": -109.416667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09536500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.005Z"
+}

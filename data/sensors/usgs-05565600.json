@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05565600",
+  "key": "05565600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05565600",
+  "name": "MACKINAW RIVER NEAR HUDSON, IL",
+  "waterbody": "MACKINAW RIVER NEAR HUDSON, IL",
+  "state": "IL",
+  "latitude": 40.658333,
+  "longitude": -89.050278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05565600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.067Z"
+}

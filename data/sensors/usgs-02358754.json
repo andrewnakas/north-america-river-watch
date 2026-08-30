@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02358754",
+  "key": "02358754",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02358754",
+  "name": "APALACHICOLA R.AB CHIPOLA CUTOFF NR WEWAHITCHKA,FL",
+  "waterbody": "APALACHICOLA R.AB CHIPOLA CUTOFF NR WEWAHITCHKA,FL",
+  "state": "FL",
+  "latitude": 30.132261,
+  "longitude": -85.142011,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WAHF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Apalachicola River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wahf1",
+  "slug": "usgs-02358754",
+  "noaaForecastPath": "data/noaa-forecast/WAHF1.json",
+  "generatedAt": "2026-08-30T15:40:25.048Z"
+}

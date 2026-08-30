@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06436198",
+  "key": "06436198",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06436198",
+  "name": "WHITEWOOD CREEK ABOVE VALE, SD",
+  "waterbody": "WHITEWOOD CREEK ABOVE VALE, SD",
+  "state": "SD",
+  "latitude": 44.6175,
+  "longitude": -103.480278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VAES2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Whitewood Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vaes2",
+  "slug": "usgs-06436198",
+  "noaaForecastPath": "data/noaa-forecast/VAES2.json",
+  "generatedAt": "2026-08-30T15:40:25.200Z"
+}

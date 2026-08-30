@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03169771",
+  "key": "03169771",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03169771",
+  "name": "BIG INDIAN CREEK NEAR COPPER VALLEY, VA",
+  "waterbody": "BIG INDIAN CREEK NEAR COPPER VALLEY, VA",
+  "state": "VA",
+  "latitude": 36.988,
+  "longitude": -80.51871944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FICV2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Big Indian Creek Near Copper Valley",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ficv2",
+  "slug": "usgs-03169771",
+  "noaaForecastPath": "data/noaa-forecast/FICV2.json",
+  "generatedAt": "2026-08-30T15:40:25.238Z"
+}

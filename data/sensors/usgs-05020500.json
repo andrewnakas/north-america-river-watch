@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05020500",
+  "key": "05020500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05020500",
+  "name": "St. Mary River at International Boundary",
+  "waterbody": "St. Mary River at International Boundary",
+  "state": "AL",
+  "latitude": 49.011408,
+  "longitude": -113.299547,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05020500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:24.995Z"
+}

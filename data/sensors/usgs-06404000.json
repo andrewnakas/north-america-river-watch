@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06404000",
+  "key": "06404000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06404000",
+  "name": "BATTLE CREEK NEAR KEYSTONE, SD",
+  "waterbody": "BATTLE CREEK NEAR KEYSTONE, SD",
+  "state": "SD",
+  "latitude": 43.871658,
+  "longitude": -103.335836,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RUSS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Battle Creek (SD)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/russ2",
+  "slug": "usgs-06404000",
+  "noaaForecastPath": "data/noaa-forecast/RUSS2.json",
+  "generatedAt": "2026-08-30T15:40:25.199Z"
+}

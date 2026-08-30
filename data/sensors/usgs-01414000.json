@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01414000",
+  "key": "01414000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01414000",
+  "name": "PLATTE KILL AT DUNRAVEN NY",
+  "waterbody": "PLATTE KILL AT DUNRAVEN NY",
+  "state": "NY",
+  "latitude": 42.132528,
+  "longitude": -74.695361,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PLTN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Platte Kill",
+  "noaaStatus": "out_of_service",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pltn6",
+  "slug": "usgs-01414000",
+  "noaaForecastPath": "data/noaa-forecast/PLTN6.json",
+  "generatedAt": "2026-08-30T15:40:25.144Z"
+}

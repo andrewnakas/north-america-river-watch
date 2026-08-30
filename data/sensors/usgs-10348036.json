@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10348036",
+  "key": "10348036",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10348036",
+  "name": "TRUCKEE RV AT GLENDALE AVE NR SPARKS, NV",
+  "waterbody": "TRUCKEE RV AT GLENDALE AVE NR SPARKS, NV",
+  "state": "NV",
+  "latitude": 39.5258333,
+  "longitude": -119.7766389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10348036",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.124Z"
+}

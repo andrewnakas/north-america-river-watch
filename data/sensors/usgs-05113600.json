@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05113600",
+  "key": "05113600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05113600",
+  "name": "LONG CREEK NEAR NOONAN, ND",
+  "waterbody": "LONG CREEK NEAR NOONAN, ND",
+  "state": "ND",
+  "latitude": 48.981111,
+  "longitude": -103.076111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05113600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

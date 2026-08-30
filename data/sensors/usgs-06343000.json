@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06343000",
+  "key": "06343000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06343000",
+  "name": "HEART RIVER NEAR SOUTH HEART, ND",
+  "waterbody": "HEART RIVER NEAR SOUTH HEART, ND",
+  "state": "ND",
+  "latitude": 46.865556,
+  "longitude": -102.948056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06343000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

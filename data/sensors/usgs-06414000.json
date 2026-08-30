@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06414000",
+  "key": "06414000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06414000",
+  "name": "RAPID CREEK AT RAPID CITY, SD",
+  "waterbody": "RAPID CREEK AT RAPID CITY, SD",
+  "state": "SD",
+  "latitude": 44.085528,
+  "longitude": -103.241383,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RCYS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rcys2",
+  "slug": "usgs-06414000",
+  "noaaForecastPath": "data/noaa-forecast/RCYS2.json",
+  "generatedAt": "2026-08-30T15:40:25.199Z"
+}

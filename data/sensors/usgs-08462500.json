@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08462500",
+  "key": "08462500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08462500",
+  "name": "Rio Grande at Roma, TX",
+  "waterbody": "Rio Grande at Roma, TX",
+  "state": "TX",
+  "latitude": 26.40034048,
+  "longitude": -99.0169745,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRGT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Grande",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rrgt2",
+  "slug": "usgs-08462500",
+  "noaaForecastPath": "data/noaa-forecast/RRGT2.json",
+  "generatedAt": "2026-08-30T15:40:25.229Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06411900",
+  "key": "06411900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06411900",
+  "name": "RAPID CREEK ABV JOHNSON SIDING BLW PACTOLA DAM, SD",
+  "waterbody": "RAPID CREEK ABV JOHNSON SIDING BLW PACTOLA DAM, SD",
+  "state": "SD",
+  "latitude": 44.082,
+  "longitude": -103.442472,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "JHNS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rapid Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/jhns2",
+  "slug": "usgs-06411900",
+  "noaaForecastPath": "data/noaa-forecast/JHNS2.json",
+  "generatedAt": "2026-08-30T15:40:25.199Z"
+}

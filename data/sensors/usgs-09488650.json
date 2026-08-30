@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09488650",
+  "key": "09488650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09488650",
+  "name": "VEKOL WASH NR STANFIELD",
+  "waterbody": "VEKOL WASH NR STANFIELD",
+  "state": "AZ",
+  "latitude": 32.8417162,
+  "longitude": -112.2518112,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09488650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.003Z"
+}

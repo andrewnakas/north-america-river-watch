@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12392200",
+  "key": "12392200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12392200",
+  "name": "PACK RIVER BLW CARIBOU CREEK NR COLBURN ID",
+  "waterbody": "PACK RIVER BLW CARIBOU CREEK NR COLBURN ID",
+  "state": "ID",
+  "latitude": 48.475556,
+  "longitude": -116.553056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12392200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.060Z"
+}

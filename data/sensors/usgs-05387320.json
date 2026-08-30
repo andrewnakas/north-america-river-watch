@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05387320",
+  "key": "05387320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05387320",
+  "name": "Upper Iowa River at Lime Springs, IA",
+  "waterbody": "Upper Iowa River at Lime Springs, IA",
+  "state": "IA",
+  "latitude": 43.466778,
+  "longitude": -92.297528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ULSI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upper Iowa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ulsi4",
+  "slug": "usgs-05387320",
+  "noaaForecastPath": "data/noaa-forecast/ULSI4.json",
+  "generatedAt": "2026-08-30T15:40:25.073Z"
+}

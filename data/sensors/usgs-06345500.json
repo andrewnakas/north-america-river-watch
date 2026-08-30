@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06345500",
+  "key": "06345500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06345500",
+  "name": "HEART RIVER NEAR RICHARDTON, ND",
+  "waterbody": "HEART RIVER NEAR RICHARDTON, ND",
+  "state": "ND",
+  "latitude": 46.745556,
+  "longitude": -102.308333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06345500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

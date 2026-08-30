@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09258980",
+  "key": "09258980",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09258980",
+  "name": "MUDDY CREEK BELOW YOUNG DRAW, NEAR BAGGS, WY",
+  "waterbody": "MUDDY CREEK BELOW YOUNG DRAW, NEAR BAGGS, WY",
+  "state": "WY",
+  "latitude": 41.06814337,
+  "longitude": -107.6316359,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCYW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcyw4",
+  "slug": "usgs-09258980",
+  "noaaForecastPath": "data/noaa-forecast/MCYW4.json",
+  "generatedAt": "2026-08-30T15:40:25.256Z"
+}

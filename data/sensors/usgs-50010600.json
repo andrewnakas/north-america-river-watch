@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50010600",
+  "key": "50010600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50010600",
+  "name": "RIO GUAJATACA ABV LAGO DE GUAJATACA, PR",
+  "waterbody": "RIO GUAJATACA ABV LAGO DE GUAJATACA, PR",
+  "state": "PR",
+  "latitude": 18.33050613,
+  "longitude": -66.91601056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50010600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.256Z"
+}

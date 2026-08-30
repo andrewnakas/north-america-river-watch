@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50345000",
+  "key": "50345000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50345000",
+  "name": "JOLLY HILL GUT AT JOLLY HILL SW, ST. CROIX USVI",
+  "waterbody": "JOLLY HILL GUT AT JOLLY HILL SW, ST. CROIX USVI",
+  "state": "VI",
+  "latitude": 17.733333,
+  "longitude": -64.863056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50345000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.258Z"
+}

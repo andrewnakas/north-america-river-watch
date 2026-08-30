@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13072400",
+  "key": "13072400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13072400",
+  "name": "PORTNEUF RIVER AT PEBBLE ID",
+  "waterbody": "PORTNEUF RIVER AT PEBBLE ID",
+  "state": "ID",
+  "latitude": 42.74353611,
+  "longitude": -112.00163611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PBLI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portneuf River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pbli1",
+  "slug": "usgs-13072400",
+  "noaaForecastPath": "data/noaa-forecast/PBLI1.json",
+  "generatedAt": "2026-08-30T15:40:25.061Z"
+}

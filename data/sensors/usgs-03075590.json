@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03075590",
+  "key": "03075590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03075590",
+  "name": "YOUGHIOGHENY RIVER NEAR SWALLOW FALLS PARK, MD",
+  "waterbody": "YOUGHIOGHENY RIVER NEAR SWALLOW FALLS PARK, MD",
+  "state": "MD",
+  "latitude": 39.492556,
+  "longitude": -79.412028,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03075590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.092Z"
+}

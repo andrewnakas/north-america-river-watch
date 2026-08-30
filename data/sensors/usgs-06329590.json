@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06329590",
+  "key": "06329590",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06329590",
+  "name": "YELLOWSTONE RIVER NO. 1 NEAR FAIRVIEW, MT",
+  "waterbody": "YELLOWSTONE RIVER NO. 1 NEAR FAIRVIEW, MT",
+  "state": "ND",
+  "latitude": 47.808056,
+  "longitude": -104.042222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06329590",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

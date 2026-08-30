@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50020500",
+  "key": "50020500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50020500",
+  "name": "RIO GRANDE DE ARECIBO NR ADJUNTAS, PR",
+  "waterbody": "RIO GRANDE DE ARECIBO NR ADJUNTAS, PR",
+  "state": "PR",
+  "latitude": 18.181667,
+  "longitude": -66.736667,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50020500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.257Z"
+}

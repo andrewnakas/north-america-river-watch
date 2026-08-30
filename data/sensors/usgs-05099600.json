@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05099600",
+  "key": "05099600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05099600",
+  "name": "PEMBINA RIVER AT WALHALLA, ND",
+  "waterbody": "PEMBINA RIVER AT WALHALLA, ND",
+  "state": "ND",
+  "latitude": 48.913333,
+  "longitude": -97.916667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WLHN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Pembina River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wlhn8",
+  "slug": "usgs-05099600",
+  "noaaForecastPath": "data/noaa-forecast/WLHN8.json",
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

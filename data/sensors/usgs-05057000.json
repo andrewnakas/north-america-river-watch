@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05057000",
+  "key": "05057000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05057000",
+  "name": "SHEYENNE RIVER NEAR COOPERSTOWN, ND",
+  "waterbody": "SHEYENNE RIVER NEAR COOPERSTOWN, ND",
+  "state": "ND",
+  "latitude": 47.432778,
+  "longitude": -98.027222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CPRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sheyenne River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cprn8",
+  "slug": "usgs-05057000",
+  "noaaForecastPath": "data/noaa-forecast/CPRN8.json",
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

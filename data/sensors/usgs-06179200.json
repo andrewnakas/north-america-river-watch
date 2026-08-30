@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06179200",
+  "key": "06179200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06179200",
+  "name": "Poplar R ab W Fk Poplar R, nr Bredette, MT",
+  "waterbody": "Poplar R ab W Fk Poplar R, nr Bredette, MT",
+  "state": "MT",
+  "latitude": 48.57775,
+  "longitude": -105.374306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BDPM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Poplar River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bdpm8",
+  "slug": "usgs-06179200",
+  "noaaForecastPath": "data/noaa-forecast/BDPM8.json",
+  "generatedAt": "2026-08-30T15:40:25.116Z"
+}

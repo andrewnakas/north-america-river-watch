@@ -1,0 +1,19 @@
+{
+  "id": "usgs:15237030",
+  "key": "15237030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15237030",
+  "name": "ESHAMY C AT ESHAMY LAKE OUTLET NR WHITTIER AK",
+  "waterbody": "ESHAMY C AT ESHAMY LAKE OUTLET NR WHITTIER AK",
+  "state": "AK",
+  "latitude": 60.45188889,
+  "longitude": -148.108,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-15237030",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:24.997Z"
+}

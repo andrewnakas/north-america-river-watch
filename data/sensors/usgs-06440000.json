@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06440000",
+  "key": "06440000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06440000",
+  "name": "MISSOURI RIVER AT PIERRE, SD",
+  "waterbody": "MISSOURI RIVER AT PIERRE, SD",
+  "state": "SD",
+  "latitude": 44.373056,
+  "longitude": -100.3675,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIRS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/pirs2",
+  "slug": "usgs-06440000",
+  "noaaForecastPath": "data/noaa-forecast/PIRS2.json",
+  "generatedAt": "2026-08-30T15:40:25.200Z"
+}

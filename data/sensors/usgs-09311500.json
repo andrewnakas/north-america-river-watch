@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09311500",
+  "key": "09311500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09311500",
+  "name": "PRICE RIVER NEAR SCOFIELD, UTAH",
+  "waterbody": "PRICE RIVER NEAR SCOFIELD, UTAH",
+  "state": "UT",
+  "latitude": 39.785542,
+  "longitude": -111.118014,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09311500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.230Z"
+}

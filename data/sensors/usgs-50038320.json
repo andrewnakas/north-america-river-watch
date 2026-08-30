@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50038320",
+  "key": "50038320",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50038320",
+  "name": "RIO CIBUCO BLW COROZAL, PR",
+  "waterbody": "RIO CIBUCO BLW COROZAL, PR",
+  "state": "PR",
+  "latitude": 18.35161725,
+  "longitude": -66.33489154,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50038320",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.257Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09266500",
+  "key": "09266500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09266500",
+  "name": "ASHLEY CREEK NEAR VERNAL, UT",
+  "waterbody": "ASHLEY CREEK NEAR VERNAL, UT",
+  "state": "UT",
+  "latitude": 40.577442,
+  "longitude": -109.622108,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ASHU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ashley Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ashu1",
+  "slug": "usgs-09266500",
+  "noaaForecastPath": "data/noaa-forecast/ASHU1.json",
+  "generatedAt": "2026-08-30T15:40:25.229Z"
+}

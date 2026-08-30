@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15519030",
+  "key": "15519030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15519030",
+  "name": "LIVENGOOD C AT LIVENGOOD AK",
+  "waterbody": "LIVENGOOD C AT LIVENGOOD AK",
+  "state": "AK",
+  "latitude": 65.5229722,
+  "longitude": -148.5463889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LCLA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Livengood Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lcla2",
+  "slug": "usgs-15519030",
+  "noaaForecastPath": "data/noaa-forecast/LCLA2.json",
+  "generatedAt": "2026-08-30T15:40:25.000Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08354800",
+  "key": "08354800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08354800",
+  "name": "RIO GRANDE CONVEYANCE CHANNEL AT SAN ACACIA, NM",
+  "waterbody": "RIO GRANDE CONVEYANCE CHANNEL AT SAN ACACIA, NM",
+  "state": "NM",
+  "latitude": 34.248333,
+  "longitude": -106.901111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08354800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.132Z"
+}

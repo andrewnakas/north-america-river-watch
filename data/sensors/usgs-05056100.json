@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05056100",
+  "key": "05056100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05056100",
+  "name": "MAUVAIS COULEE NEAR CANDO, ND",
+  "waterbody": "MAUVAIS COULEE NEAR CANDO, ND",
+  "state": "ND",
+  "latitude": 48.486397,
+  "longitude": -99.111914,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05056100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

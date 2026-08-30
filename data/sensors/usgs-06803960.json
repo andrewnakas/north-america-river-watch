@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06803960",
+  "key": "06803960",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06803960",
+  "name": "Wahoo Creek at S Chestnut St at Wahoo, Nebr.",
+  "waterbody": "Wahoo Creek at S Chestnut St at Wahoo, Nebr.",
+  "state": "NE",
+  "latitude": 41.201611,
+  "longitude": -96.622611,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WOON1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wahoo Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/woon1",
+  "slug": "usgs-06803960",
+  "noaaForecastPath": "data/noaa-forecast/WOON1.json",
+  "generatedAt": "2026-08-30T15:40:25.120Z"
+}

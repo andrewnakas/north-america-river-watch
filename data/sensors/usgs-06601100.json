@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06601100",
+  "key": "06601100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06601100",
+  "name": "Blackbird Creek near Macy, Nebr.",
+  "waterbody": "Blackbird Creek near Macy, Nebr.",
+  "state": "NE",
+  "latitude": 42.109192,
+  "longitude": -96.317044,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06601100",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.119Z"
+}

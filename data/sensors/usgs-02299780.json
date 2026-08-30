@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02299780",
+  "key": "02299780",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02299780",
+  "name": "PHILLIPPI CREEK NEAR BEE RIDGE FL",
+  "waterbody": "PHILLIPPI CREEK NEAR BEE RIDGE FL",
+  "state": "FL",
+  "latitude": 27.3231021,
+  "longitude": -82.4812073,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BFRF1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Phillippi Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bfrf1",
+  "slug": "usgs-02299780",
+  "noaaForecastPath": "data/noaa-forecast/BFRF1.json",
+  "generatedAt": "2026-08-30T15:40:25.041Z"
+}

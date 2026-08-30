@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06481493",
+  "key": "06481493",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06481493",
+  "name": "SKUNK CREEK NEAR HARTFORD, SD",
+  "waterbody": "SKUNK CREEK NEAR HARTFORD, SD",
+  "state": "SD",
+  "latitude": 43.636139,
+  "longitude": -96.900083,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HTFS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Skunk Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/htfs2",
+  "slug": "usgs-06481493",
+  "noaaForecastPath": "data/noaa-forecast/HTFS2.json",
+  "generatedAt": "2026-08-30T15:40:25.206Z"
+}

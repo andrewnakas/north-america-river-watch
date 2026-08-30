@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06329620",
+  "key": "06329620",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06329620",
+  "name": "YELLOWSTONE RIVER NO. 3 NEAR BUFORD, ND",
+  "waterbody": "YELLOWSTONE RIVER NO. 3 NEAR BUFORD, ND",
+  "state": "ND",
+  "latitude": 47.920556,
+  "longitude": -103.965556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06329620",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

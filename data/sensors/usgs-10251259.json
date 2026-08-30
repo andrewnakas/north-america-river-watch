@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10251259",
+  "key": "10251259",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10251259",
+  "name": "AMARGOSA RV AT HWY 127 NR CA-NV STATE LINE",
+  "waterbody": "AMARGOSA RV AT HWY 127 NR CA-NV STATE LINE",
+  "state": "CA",
+  "latitude": 36.386667,
+  "longitude": -116.422778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10251259",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.010Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15457790",
+  "key": "15457790",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15457790",
+  "name": "GOLDSTREAM C BL ALABAM C NR LIVENGOOD AK",
+  "waterbody": "GOLDSTREAM C BL ALABAM C NR LIVENGOOD AK",
+  "state": "AK",
+  "latitude": 65.574,
+  "longitude": -148.3878556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GLSA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Goldstream Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/glsa2",
+  "slug": "usgs-15457790",
+  "noaaForecastPath": "data/noaa-forecast/GLSA2.json",
+  "generatedAt": "2026-08-30T15:40:25.000Z"
+}

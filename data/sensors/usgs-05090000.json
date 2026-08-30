@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05090000",
+  "key": "05090000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05090000",
+  "name": "PARK RIVER AT GRAFTON, ND",
+  "waterbody": "PARK RIVER AT GRAFTON, ND",
+  "state": "ND",
+  "latitude": 48.424722,
+  "longitude": -97.411667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GRNN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Park River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/grnn8",
+  "slug": "usgs-05090000",
+  "noaaForecastPath": "data/noaa-forecast/GRNN8.json",
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

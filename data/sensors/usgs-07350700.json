@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07350700",
+  "key": "07350700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07350700",
+  "name": "Bayou Pierre at Shreveport, LA",
+  "waterbody": "Bayou Pierre at Shreveport, LA",
+  "state": "LA",
+  "latitude": 32.44333333,
+  "longitude": -93.7308333,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "PIEL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Pierre",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/piel1",
+  "slug": "usgs-07350700",
+  "noaaForecastPath": "data/noaa-forecast/PIEL1.json",
+  "generatedAt": "2026-08-30T15:40:25.084Z"
+}

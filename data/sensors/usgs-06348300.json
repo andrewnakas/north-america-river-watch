@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06348300",
+  "key": "06348300",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06348300",
+  "name": "HEART RIVER AT STARK BRIDGE NEAR JUDSON, ND",
+  "waterbody": "HEART RIVER AT STARK BRIDGE NEAR JUDSON, ND",
+  "state": "ND",
+  "latitude": 46.703333,
+  "longitude": -101.213611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06348300",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

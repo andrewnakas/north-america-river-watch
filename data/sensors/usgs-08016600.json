@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08016600",
+  "key": "08016600",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08016600",
+  "name": "Hickory Branch nr Kernan, LA",
+  "waterbody": "Hickory Branch nr Kernan, LA",
+  "state": "LA",
+  "latitude": 30.5013611,
+  "longitude": -93.2796389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08016600",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.087Z"
+}

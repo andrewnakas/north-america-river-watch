@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01111200",
+  "key": "01111200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01111200",
+  "name": "WEST RIVER BELOW WEST HILL DAM, NR UXBRIDGE, MA",
+  "waterbody": "WEST RIVER BELOW WEST HILL DAM, NR UXBRIDGE, MA",
+  "state": "MA",
+  "latitude": 42.1048189,
+  "longitude": -71.6072875,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UXBM3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West River Below West Hill Dam",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/uxbm3",
+  "slug": "usgs-01111200",
+  "noaaForecastPath": "data/noaa-forecast/UXBM3.json",
+  "generatedAt": "2026-08-30T15:40:25.093Z"
+}

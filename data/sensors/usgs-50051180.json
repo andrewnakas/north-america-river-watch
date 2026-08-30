@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50051180",
+  "key": "50051180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50051180",
+  "name": "QUEBRADA SALVATIERRA NR SAN LORENZO, PR",
+  "waterbody": "QUEBRADA SALVATIERRA NR SAN LORENZO, PR",
+  "state": "PR",
+  "latitude": 18.17134727,
+  "longitude": -65.97683055,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50051180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.257Z"
+}

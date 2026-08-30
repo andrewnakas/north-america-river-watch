@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08104700",
+  "key": "08104700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08104700",
+  "name": "N Fk San Gabriel Rv nr Georgetown, TX",
+  "waterbody": "N Fk San Gabriel Rv nr Georgetown, TX",
+  "state": "TX",
+  "latitude": 30.6618646,
+  "longitude": -97.7114164,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "GERT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Fork of the San Gabriel River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/gert2",
+  "slug": "usgs-08104700",
+  "noaaForecastPath": "data/noaa-forecast/GERT2.json",
+  "generatedAt": "2026-08-30T15:40:25.224Z"
+}

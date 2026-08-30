@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50026400",
+  "key": "50026400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50026400",
+  "name": "RIO YUNES AT HWY 140 NR FLORIDA, PR",
+  "waterbody": "RIO YUNES AT HWY 140 NR FLORIDA, PR",
+  "state": "PR",
+  "latitude": 18.32217349,
+  "longitude": -66.58656173,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50026400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.257Z"
+}

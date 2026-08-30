@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06329650",
+  "key": "06329650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06329650",
+  "name": "MISSOURI RIVER NO. 6 NEAR BUFORD, ND",
+  "waterbody": "MISSOURI RIVER NO. 6 NEAR BUFORD, ND",
+  "state": "ND",
+  "latitude": 47.955833,
+  "longitude": -103.908611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06329650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

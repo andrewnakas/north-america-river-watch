@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01088400",
+  "key": "01088400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01088400",
+  "name": "MERRIMACK RIVER AT CONCORD, NH",
+  "waterbody": "MERRIMACK RIVER AT CONCORD, NH",
+  "state": "NH",
+  "latitude": 43.208858,
+  "longitude": -71.530303,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CONN3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Merrimack River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/conn3",
+  "slug": "usgs-01088400",
+  "noaaForecastPath": "data/noaa-forecast/CONN3.json",
+  "generatedAt": "2026-08-30T15:40:25.126Z"
+}

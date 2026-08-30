@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06331000",
+  "key": "06331000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06331000",
+  "name": "LITTLE MUDDY RIVER BL COW CREEK NR WILLISTON, ND",
+  "waterbody": "LITTLE MUDDY RIVER BL COW CREEK NR WILLISTON, ND",
+  "state": "ND",
+  "latitude": 48.284444,
+  "longitude": -103.5725,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LMCN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Little Muddy River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lmcn8",
+  "slug": "usgs-06331000",
+  "noaaForecastPath": "data/noaa-forecast/LMCN8.json",
+  "generatedAt": "2026-08-30T15:40:25.155Z"
+}

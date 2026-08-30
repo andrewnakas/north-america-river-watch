@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09226500",
+  "key": "09226500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09226500",
+  "name": "MIDDLE FORK BEAVER CREEK NEAR LONETREE, WYO.",
+  "waterbody": "MIDDLE FORK BEAVER CREEK NEAR LONETREE, WYO.",
+  "state": "UT",
+  "latitude": 40.9443932,
+  "longitude": -110.1793209,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09226500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.229Z"
+}

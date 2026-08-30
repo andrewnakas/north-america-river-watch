@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06386500",
+  "key": "06386500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06386500",
+  "name": "CHEYENNE RIVER NEAR SPENCER, WY",
+  "waterbody": "CHEYENNE RIVER NEAR SPENCER, WY",
+  "state": "WY",
+  "latitude": 43.421111,
+  "longitude": -104.131111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRSW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cheyenne River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crsw4",
+  "slug": "usgs-06386500",
+  "noaaForecastPath": "data/noaa-forecast/CRSW4.json",
+  "generatedAt": "2026-08-30T15:40:25.254Z"
+}

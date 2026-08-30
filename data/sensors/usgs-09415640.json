@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09415640",
+  "key": "09415640",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09415640",
+  "name": "ASH SPGS CK BLW HWY 93 AT ASH SPGS, NV",
+  "waterbody": "ASH SPGS CK BLW HWY 93 AT ASH SPGS, NV",
+  "state": "NV",
+  "latitude": 37.460278,
+  "longitude": -115.193611,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09415640",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.121Z"
+}

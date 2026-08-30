@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01304010",
+  "key": "01304010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01304010",
+  "name": "NISSEQUOGUE RIVER AT LANDING AVE AT SMITHTOWN, NY",
+  "waterbody": "NISSEQUOGUE RIVER AT LANDING AVE AT SMITHTOWN, NY",
+  "state": "NY",
+  "latitude": 40.863583,
+  "longitude": -73.20075,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01304010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.141Z"
+}

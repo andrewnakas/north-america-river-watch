@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06909500",
+  "key": "06909500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06909500",
+  "name": "Moniteau Creek near Fayette, MO",
+  "waterbody": "Moniteau Creek near Fayette, MO",
+  "state": "MO",
+  "latitude": 39.1208333,
+  "longitude": -92.5672222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FYTM7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Moniteau Creek",
+  "noaaStatus": "low_threshold",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fytm7",
+  "slug": "usgs-06909500",
+  "noaaForecastPath": "data/noaa-forecast/FYTM7.json",
+  "generatedAt": "2026-08-30T15:40:25.110Z"
+}

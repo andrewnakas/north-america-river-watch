@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05457440",
+  "key": "05457440",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05457440",
+  "name": "Deer Creek near Carpenter, IA",
+  "waterbody": "Deer Creek near Carpenter, IA",
+  "state": "IA",
+  "latitude": 43.4149654,
+  "longitude": -92.9849187,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTRI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Deer Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctri4",
+  "slug": "usgs-05457440",
+  "noaaForecastPath": "data/noaa-forecast/CTRI4.json",
+  "generatedAt": "2026-08-30T15:40:25.074Z"
+}

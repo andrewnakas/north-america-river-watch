@@ -1,0 +1,22 @@
+{
+  "id": "usgs:13071010",
+  "key": "13071010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13071010",
+  "name": "Portneuf R. abv Toponce Rd, nr Chesterfield, Id",
+  "waterbody": "Portneuf R. abv Toponce Rd, nr Chesterfield, Id",
+  "state": "ID",
+  "latitude": 42.86974722,
+  "longitude": -111.93421111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CHSI1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Portneuf River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/chsi1",
+  "slug": "usgs-13071010",
+  "noaaForecastPath": "data/noaa-forecast/CHSI1.json",
+  "generatedAt": "2026-08-30T15:40:25.061Z"
+}

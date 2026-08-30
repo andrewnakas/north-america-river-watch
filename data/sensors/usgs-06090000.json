@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06090000",
+  "key": "06090000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06090000",
+  "name": "Missouri River at Great Falls MT",
+  "waterbody": "Missouri River at Great Falls MT",
+  "state": "MT",
+  "latitude": 47.5069021,
+  "longitude": -111.3141412,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RDZM8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Missouri River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rdzm8",
+  "slug": "usgs-06090000",
+  "noaaForecastPath": "data/noaa-forecast/RDZM8.json",
+  "generatedAt": "2026-08-30T15:40:25.114Z"
+}

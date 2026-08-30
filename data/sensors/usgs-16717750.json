@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16717750",
+  "key": "16717750",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16717750",
+  "name": "Waikaumalo Stream at Hwy 19 Bridge, HI",
+  "waterbody": "Waikaumalo Stream at Hwy 19 Bridge, HI",
+  "state": "HI",
+  "latitude": 19.93361504,
+  "longitude": -155.16182132,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16717750",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.059Z"
+}

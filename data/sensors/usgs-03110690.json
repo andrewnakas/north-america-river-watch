@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03110690",
+  "key": "03110690",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03110690",
+  "name": "OHIO R AT NEW CUMBERLAND LOCK & DAM (LOWER), OH",
+  "waterbody": "OHIO R AT NEW CUMBERLAND LOCK & DAM (LOWER), OH",
+  "state": "OH",
+  "latitude": 40.52812107,
+  "longitude": -80.6256288,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NCUW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Ohio River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ncuw2",
+  "slug": "usgs-03110690",
+  "noaaForecastPath": "data/noaa-forecast/NCUW2.json",
+  "generatedAt": "2026-08-30T15:40:25.156Z"
+}

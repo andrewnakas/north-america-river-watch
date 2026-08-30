@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50072975",
+  "key": "50072975",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50072975",
+  "name": "STORMWATER STATION AT NSRR CEIBA, PR",
+  "waterbody": "STORMWATER STATION AT NSRR CEIBA, PR",
+  "state": "PR",
+  "latitude": 18.233142,
+  "longitude": -65.621378,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50072975",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.257Z"
+}

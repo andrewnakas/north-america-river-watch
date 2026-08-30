@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05387030",
+  "key": "05387030",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05387030",
+  "name": "CROOKED CREEK AT FREEBURG MN",
+  "waterbody": "CROOKED CREEK AT FREEBURG MN",
+  "state": "MN",
+  "latitude": 43.61074,
+  "longitude": -91.361237,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FBGM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crooked Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fbgm5",
+  "slug": "usgs-05387030",
+  "noaaForecastPath": "data/noaa-forecast/FBGM5.json",
+  "generatedAt": "2026-08-30T15:40:25.106Z"
+}

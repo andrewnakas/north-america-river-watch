@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05292704",
+  "key": "05292704",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05292704",
+  "name": "NORTH FORK YELLOW BANK RIVER NEAR ODESSA, MN",
+  "waterbody": "NORTH FORK YELLOW BANK RIVER NEAR ODESSA, MN",
+  "state": "MN",
+  "latitude": 45.189167,
+  "longitude": -96.415,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05292704",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.105Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15747000",
+  "key": "15747000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15747000",
+  "name": "WULIK R BL TUTAK C NR KIVALINA AK",
+  "waterbody": "WULIK R BL TUTAK C NR KIVALINA AK",
+  "state": "AK",
+  "latitude": 67.87547519,
+  "longitude": -163.677559,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WULA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wulik River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wula2",
+  "slug": "usgs-15747000",
+  "noaaForecastPath": "data/noaa-forecast/WULA2.json",
+  "generatedAt": "2026-08-30T15:40:25.001Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10301720",
+  "key": "10301720",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10301720",
+  "name": "WALKER RV AT PT SITE BLW WEBER RES NR SCHURZ, NV",
+  "waterbody": "WALKER RV AT PT SITE BLW WEBER RES NR SCHURZ, NV",
+  "state": "NV",
+  "latitude": 39.033889,
+  "longitude": -118.861389,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WVRN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Walker River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wvrn2",
+  "slug": "usgs-10301720",
+  "noaaForecastPath": "data/noaa-forecast/WVRN2.json",
+  "generatedAt": "2026-08-30T15:40:25.123Z"
+}

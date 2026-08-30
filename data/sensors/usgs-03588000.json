@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03588000",
+  "key": "03588000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03588000",
+  "name": "SHOAL CREEK AT LAWRENCEBURG, TN",
+  "waterbody": "SHOAL CREEK AT LAWRENCEBURG, TN",
+  "state": "TN",
+  "latitude": 35.24452449,
+  "longitude": -87.3505725,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03588000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.218Z"
+}

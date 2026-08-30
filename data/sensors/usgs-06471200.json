@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06471200",
+  "key": "06471200",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06471200",
+  "name": "MAPLE RIVER AT ND-SD STATE LINE",
+  "waterbody": "MAPLE RIVER AT ND-SD STATE LINE",
+  "state": "ND",
+  "latitude": 45.938889,
+  "longitude": -98.452222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06471200",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.156Z"
+}

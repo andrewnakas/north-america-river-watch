@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08197910",
+  "key": "08197910",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08197910",
+  "name": "Sabinal Rv at FM 187 nr Vanderpool, TX",
+  "waterbody": "Sabinal Rv at FM 187 nr Vanderpool, TX",
+  "state": "TX",
+  "latitude": 29.791856,
+  "longitude": -99.574303,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08197910",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.228Z"
+}

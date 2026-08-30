@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14198500",
+  "key": "14198500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14198500",
+  "name": "MOLALLA R AB PC NR WILHOIT, OR",
+  "waterbody": "MOLALLA R AB PC NR WILHOIT, OR",
+  "state": "OR",
+  "latitude": 45.0097222,
+  "longitude": -122.4809167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MOWO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Molalla River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mowo3",
+  "slug": "usgs-14198500",
+  "noaaForecastPath": "data/noaa-forecast/MOWO3.json",
+  "generatedAt": "2026-08-30T15:40:25.168Z"
+}

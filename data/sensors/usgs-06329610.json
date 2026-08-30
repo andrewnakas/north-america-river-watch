@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06329610",
+  "key": "06329610",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06329610",
+  "name": "YELLOWSTONE RIVER NO. 2 NEAR CARTWRIGHT, ND",
+  "waterbody": "YELLOWSTONE RIVER NO. 2 NEAR CARTWRIGHT, ND",
+  "state": "ND",
+  "latitude": 47.861944,
+  "longitude": -103.966389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06329610",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.154Z"
+}

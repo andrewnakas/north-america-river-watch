@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01548296",
+  "key": "01548296",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01548296",
+  "name": "Marsh Creek at Hilboldt Rd at Wellsboro, PA",
+  "waterbody": "Marsh Creek at Hilboldt Rd at Wellsboro, PA",
+  "state": "PA",
+  "latitude": 41.768233,
+  "longitude": -77.303717,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01548296",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.175Z"
+}

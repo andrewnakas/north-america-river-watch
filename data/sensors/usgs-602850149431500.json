@@ -1,0 +1,19 @@
+{
+  "id": "usgs:602850149431500",
+  "key": "602850149431500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "602850149431500",
+  "name": "QUARTZ C AT QUARTZ C RD NR COOPER LANDING AK",
+  "waterbody": "QUARTZ C AT QUARTZ C RD NR COOPER LANDING AK",
+  "state": "AK",
+  "latitude": 60.4805556,
+  "longitude": -149.7208333,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-602850149431500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.001Z"
+}

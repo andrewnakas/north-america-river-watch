@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05387405",
+  "key": "05387405",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05387405",
+  "name": "Upper Iowa River at Kendallville, IA",
+  "waterbody": "Upper Iowa River at Kendallville, IA",
+  "state": "IA",
+  "latitude": 43.441306,
+  "longitude": -92.035944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "UKVI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Upper Iowa River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ukvi4",
+  "slug": "usgs-05387405",
+  "noaaForecastPath": "data/noaa-forecast/UKVI4.json",
+  "generatedAt": "2026-08-30T15:40:25.073Z"
+}

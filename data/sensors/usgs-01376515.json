@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01376515",
+  "key": "01376515",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01376515",
+  "name": "HUDSON RIVER AT PIER 84 AT NEW YORK NY",
+  "waterbody": "HUDSON RIVER AT PIER 84 AT NEW YORK NY",
+  "state": "NY",
+  "latitude": 40.764639,
+  "longitude": -74.003194,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01376515",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.144Z"
+}

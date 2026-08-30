@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50076000",
+  "key": "50076000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50076000",
+  "name": "RIO BLANCO NR FLORIDA, PR",
+  "waterbody": "RIO BLANCO NR FLORIDA, PR",
+  "state": "PR",
+  "latitude": 18.22717929,
+  "longitude": -65.78460707,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LBLP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lago Blanco",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lblp4",
+  "slug": "usgs-50076000",
+  "noaaForecastPath": "data/noaa-forecast/LBLP4.json",
+  "generatedAt": "2026-08-30T15:40:25.258Z"
+}

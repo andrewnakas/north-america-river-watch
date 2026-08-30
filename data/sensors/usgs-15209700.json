@@ -1,0 +1,22 @@
+{
+  "id": "usgs:15209700",
+  "key": "15209700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "15209700",
+  "name": "WF KENNICOTT R AT MCCARTHY AK",
+  "waterbody": "WF KENNICOTT R AT MCCARTHY AK",
+  "state": "AK",
+  "latitude": 61.434167,
+  "longitude": -142.940556,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MXYA2",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Fork Kennicott River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mxya2",
+  "slug": "usgs-15209700",
+  "noaaForecastPath": "data/noaa-forecast/MXYA2.json",
+  "generatedAt": "2026-08-30T15:40:24.997Z"
+}

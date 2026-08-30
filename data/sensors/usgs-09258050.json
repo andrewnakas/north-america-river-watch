@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09258050",
+  "key": "09258050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09258050",
+  "name": "Muddy Creek above Olson Draw, near Dad, WY",
+  "waterbody": "Muddy Creek above Olson Draw, near Dad, WY",
+  "state": "WY",
+  "latitude": 41.4783333,
+  "longitude": -107.6025,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MUCW4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Muddy Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mucw4",
+  "slug": "usgs-09258050",
+  "noaaForecastPath": "data/noaa-forecast/MUCW4.json",
+  "generatedAt": "2026-08-30T15:40:25.256Z"
+}

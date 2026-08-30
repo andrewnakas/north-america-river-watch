@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08080500",
+  "key": "08080500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08080500",
+  "name": "DMF Brazos Rv nr Aspermont, TX",
+  "waterbody": "DMF Brazos Rv nr Aspermont, TX",
+  "state": "TX",
+  "latitude": 33.008158,
+  "longitude": -100.180658,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "AMTT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Brazos River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/amtt2",
+  "slug": "usgs-08080500",
+  "noaaForecastPath": "data/noaa-forecast/AMTT2.json",
+  "generatedAt": "2026-08-30T15:40:25.223Z"
+}

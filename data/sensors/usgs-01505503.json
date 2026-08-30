@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01505503",
+  "key": "01505503",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01505503",
+  "name": "CANASAWACTA CR AT NORWICH NY",
+  "waterbody": "CANASAWACTA CR AT NORWICH NY",
+  "state": "NY",
+  "latitude": 42.544111,
+  "longitude": -75.535,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CCKN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Canasawacta Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cckn6",
+  "slug": "usgs-01505503",
+  "noaaForecastPath": "data/noaa-forecast/CCKN6.json",
+  "generatedAt": "2026-08-30T15:40:25.145Z"
+}

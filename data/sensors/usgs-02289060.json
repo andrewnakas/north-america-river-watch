@@ -1,0 +1,19 @@
+{
+  "id": "usgs:02289060",
+  "key": "02289060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02289060",
+  "name": "TAMIAMI CANAL OUTLETS L-30 TO L-67A NR MIAMI, FL",
+  "waterbody": "TAMIAMI CANAL OUTLETS L-30 TO L-67A NR MIAMI, FL",
+  "state": "FL",
+  "latitude": 25.761142,
+  "longitude": -80.561706,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-02289060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.038Z"
+}

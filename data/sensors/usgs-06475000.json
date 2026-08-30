@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06475000",
+  "key": "06475000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06475000",
+  "name": "JAMES RIVER NEAR REDFIELD, SD",
+  "waterbody": "JAMES RIVER NEAR REDFIELD, SD",
+  "state": "SD",
+  "latitude": 44.910556,
+  "longitude": -98.471667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RFDS2",
+  "noaaForecast": true,
+  "noaaWaterbody": "James River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rfds2",
+  "slug": "usgs-06475000",
+  "noaaForecastPath": "data/noaa-forecast/RFDS2.json",
+  "generatedAt": "2026-08-30T15:40:25.201Z"
+}

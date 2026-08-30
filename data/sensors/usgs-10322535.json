@@ -1,0 +1,22 @@
+{
+  "id": "usgs:10322535",
+  "key": "10322535",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10322535",
+  "name": "HENDERSON CK BLW VININI CK NR EUREKA, NV",
+  "waterbody": "HENDERSON CK BLW VININI CK NR EUREKA, NV",
+  "state": "NV",
+  "latitude": 39.869,
+  "longitude": -116.166944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCKN2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Henderson Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hckn2",
+  "slug": "usgs-10322535",
+  "noaaForecastPath": "data/noaa-forecast/HCKN2.json",
+  "generatedAt": "2026-08-30T15:40:25.124Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01361000",
+  "key": "01361000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01361000",
+  "name": "KINDERHOOK CREEK AT ROSSMAN NY",
+  "waterbody": "KINDERHOOK CREEK AT ROSSMAN NY",
+  "state": "NY",
+  "latitude": 42.33105556,
+  "longitude": -73.7444444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RSSN6",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kinderhook Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rssn6",
+  "slug": "usgs-01361000",
+  "noaaForecastPath": "data/noaa-forecast/RSSN6.json",
+  "generatedAt": "2026-08-30T15:40:25.143Z"
+}

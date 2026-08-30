@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08473251",
+  "key": "08473251",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08473251",
+  "name": "Donna ID Canal at E Levee Rd nr Donna, TX",
+  "waterbody": "Donna ID Canal at E Levee Rd nr Donna, TX",
+  "state": "TX",
+  "latitude": 26.098239,
+  "longitude": -98.07215,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08473251",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.229Z"
+}

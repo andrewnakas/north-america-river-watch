@@ -1,0 +1,19 @@
+{
+  "id": "usgs:50011180",
+  "key": "50011180",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50011180",
+  "name": "CANAL DE AGUADILLA ABV LAGO RAMEY, AGUADILLA PR",
+  "waterbody": "CANAL DE AGUADILLA ABV LAGO RAMEY, AGUADILLA PR",
+  "state": "PR",
+  "latitude": 18.474639,
+  "longitude": -67.115686,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-50011180",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.256Z"
+}

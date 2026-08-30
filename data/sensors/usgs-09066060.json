@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09066060",
+  "key": "09066060",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09066060",
+  "name": "GORE CREEK ABOVE BIGHORN PARK NEAR VAIL, CO",
+  "waterbody": "GORE CREEK ABOVE BIGHORN PARK NEAR VAIL, CO",
+  "state": "CO",
+  "latitude": 39.6288,
+  "longitude": -106.28685,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09066060",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.026Z"
+}

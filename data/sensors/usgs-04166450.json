@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04166450",
+  "key": "04166450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04166450",
+  "name": "BELL BRANCH AT BEECH-DALY ROAD AT REDFORD, MI",
+  "waterbody": "BELL BRANCH AT BEECH-DALY ROAD AT REDFORD, MI",
+  "state": "MI",
+  "latitude": 42.392222,
+  "longitude": -83.295833,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04166450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.098Z"
+}

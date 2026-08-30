@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10349700",
+  "key": "10349700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10349700",
+  "name": "WHITES CK NR STEAMBOAT, NV",
+  "waterbody": "WHITES CK NR STEAMBOAT, NV",
+  "state": "NV",
+  "latitude": 39.385278,
+  "longitude": -119.834444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10349700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.124Z"
+}

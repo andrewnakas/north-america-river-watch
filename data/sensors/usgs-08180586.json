@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08180586",
+  "key": "08180586",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08180586",
+  "name": "San Geronimo Ck nr Helotes, TX",
+  "waterbody": "San Geronimo Ck nr Helotes, TX",
+  "state": "TX",
+  "latitude": 29.61972778,
+  "longitude": -98.7951528,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SGHT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "San Geronimo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sght2",
+  "slug": "usgs-08180586",
+  "noaaForecastPath": "data/noaa-forecast/SGHT2.json",
+  "generatedAt": "2026-08-30T15:40:25.227Z"
+}

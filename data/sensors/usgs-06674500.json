@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06674500",
+  "key": "06674500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06674500",
+  "name": "NORTH PLATTE RIVER AT WYOMING-NEBRASKA STATE LINE",
+  "waterbody": "NORTH PLATTE RIVER AT WYOMING-NEBRASKA STATE LINE",
+  "state": "WY",
+  "latitude": 41.988611,
+  "longitude": -104.052778,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06674500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.255Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10336760",
+  "key": "10336760",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10336760",
+  "name": "EDGEWOOD CK AT STATELINE, NV",
+  "waterbody": "EDGEWOOD CK AT STATELINE, NV",
+  "state": "NV",
+  "latitude": 38.96601904,
+  "longitude": -119.9371251,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10336760",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-08-30T15:40:25.124Z"
+}

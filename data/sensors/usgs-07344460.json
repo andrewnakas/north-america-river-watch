@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07344460",
+  "key": "07344460",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07344460",
+  "name": "Shettleworth Bayou near Blanchard, LA",
+  "waterbody": "Shettleworth Bayou near Blanchard, LA",
+  "state": "LA",
+  "latitude": 32.56666667,
+  "longitude": -93.9366667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHEL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Shettleworth Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shel1",
+  "slug": "usgs-07344460",
+  "noaaForecastPath": "data/noaa-forecast/SHEL1.json",
+  "generatedAt": "2026-08-30T15:40:25.084Z"
+}

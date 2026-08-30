@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05067500",
+  "key": "05067500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05067500",
+  "name": "MARSH RIVER NEAR SHELLY, MN",
+  "waterbody": "MARSH RIVER NEAR SHELLY, MN",
+  "state": "MN",
+  "latitude": 47.4125,
+  "longitude": -96.763889,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SHYM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Marsh River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/shym5",
+  "slug": "usgs-05067500",
+  "noaaForecastPath": "data/noaa-forecast/SHYM5.json",
+  "generatedAt": "2026-08-30T15:40:25.099Z"
+}
