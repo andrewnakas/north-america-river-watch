@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01473169",
+  "key": "01473169",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01473169",
+  "name": "Valley Creek at PA Turnpike Br near Valley Forge",
+  "waterbody": "Valley Creek at PA Turnpike Br near Valley Forge",
+  "state": "PA",
+  "latitude": 40.07927367,
+  "longitude": -75.46074808,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "VFGP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Valley Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/vfgp1",
+  "slug": "usgs-01473169",
+  "noaaForecastPath": "data/noaa-forecast/VFGP1.json",
+  "generatedAt": "2026-10-17T14:20:20.370Z"
+}

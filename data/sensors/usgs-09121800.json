@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09121800",
+  "key": "09121800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09121800",
+  "name": "CEBOLLA CREEK NEAR POWDERHORN, CO.",
+  "waterbody": "CEBOLLA CREEK NEAR POWDERHORN, CO.",
+  "state": "CO",
+  "latitude": 38.227361,
+  "longitude": -107.07325,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09121800",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.246Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08381650",
+  "key": "08381650",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08381650",
+  "name": "STORRIE CANAL DIVERSION ABOVE BENTLEY LAKE, NM",
+  "waterbody": "STORRIE CANAL DIVERSION ABOVE BENTLEY LAKE, NM",
+  "state": "NM",
+  "latitude": 35.558611,
+  "longitude": -105.158119,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08381650",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.339Z"
+}

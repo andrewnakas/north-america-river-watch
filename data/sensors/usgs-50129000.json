@@ -1,0 +1,22 @@
+{
+  "id": "usgs:50129000",
+  "key": "50129000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "50129000",
+  "name": "RIO LOCO NR YAUCO, PR",
+  "waterbody": "RIO LOCO NR YAUCO, PR",
+  "state": "PR",
+  "latitude": 18.039964,
+  "longitude": -66.887953,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "LYOP4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Rio Loco",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/lyop4",
+  "slug": "usgs-50129000",
+  "noaaForecastPath": "data/noaa-forecast/LYOP4.json",
+  "generatedAt": "2026-10-17T14:20:20.423Z"
+}

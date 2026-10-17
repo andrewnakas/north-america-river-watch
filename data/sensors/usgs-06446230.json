@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06446230",
+  "key": "06446230",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06446230",
+  "name": "PORCUPINE CREEK NEAR SHARPS CORNER, SD",
+  "waterbody": "PORCUPINE CREEK NEAR SHARPS CORNER, SD",
+  "state": "SD",
+  "latitude": 43.336244,
+  "longitude": -102.379719,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06446230",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.384Z"
+}

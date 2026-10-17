@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07344400",
+  "key": "07344400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07344400",
+  "name": "Red River near Hosston, LA.",
+  "waterbody": "Red River near Hosston, LA.",
+  "state": "LA",
+  "latitude": 32.8931941,
+  "longitude": -93.8224008,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HOSL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hosl1",
+  "slug": "usgs-07344400",
+  "noaaForecastPath": "data/noaa-forecast/HOSL1.json",
+  "generatedAt": "2026-10-17T14:20:20.300Z"
+}

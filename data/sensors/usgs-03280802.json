@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03280802",
+  "key": "03280802",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03280802",
+  "name": "MIDDLE FORK KY R BLW BUCKHORN LK AT BUCKHORN, KY",
+  "waterbody": "MIDDLE FORK KY R BLW BUCKHORN LK AT BUCKHORN, KY",
+  "state": "KY",
+  "latitude": 37.34380556,
+  "longitude": -83.46937778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BUCK2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Fork Kentucky River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/buck2",
+  "slug": "usgs-03280802",
+  "noaaForecastPath": "data/noaa-forecast/BUCK2.json",
+  "generatedAt": "2026-10-17T14:20:20.297Z"
+}

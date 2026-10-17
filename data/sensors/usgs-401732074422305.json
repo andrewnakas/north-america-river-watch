@@ -1,0 +1,19 @@
+{
+  "id": "usgs:401732074422305",
+  "key": "401732074422305",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "401732074422305",
+  "name": "NJWSC RDG 5",
+  "waterbody": "NJWSC RDG 5",
+  "state": "NJ",
+  "latitude": 40.291944,
+  "longitude": -74.706389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-401732074422305",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.337Z"
+}

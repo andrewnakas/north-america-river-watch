@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07107500",
+  "key": "07107500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07107500",
+  "name": "ST. CHARLES RIVER AT BURNT MILL, CO.",
+  "waterbody": "ST. CHARLES RIVER AT BURNT MILL, CO.",
+  "state": "CO",
+  "latitude": 38.051453,
+  "longitude": -104.793961,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SBMC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "St Charles River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/sbmc2",
+  "slug": "usgs-07107500",
+  "noaaForecastPath": "data/noaa-forecast/SBMC2.json",
+  "generatedAt": "2026-10-17T14:20:20.244Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09536090",
+  "key": "09536090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09536090",
+  "name": "GRANT CREEK NEAR FORT GRANT, AZ",
+  "waterbody": "GRANT CREEK NEAR FORT GRANT, AZ",
+  "state": "AZ",
+  "latitude": 32.589942,
+  "longitude": -109.968258,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09536090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.231Z"
+}

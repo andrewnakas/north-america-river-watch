@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11255400",
+  "key": "11255400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11255400",
+  "name": "SILVER C A PANOCHE RD BR NR PANOCHE CA",
+  "waterbody": "SILVER C A PANOCHE RD BR NR PANOCHE CA",
+  "state": "CA",
+  "latitude": 36.594569,
+  "longitude": -120.684583,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11255400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.238Z"
+}

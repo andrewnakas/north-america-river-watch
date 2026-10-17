@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03353603",
+  "key": "03353603",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03353603",
+  "name": "NEELD DITCH NEAR MARS HILL, IN",
+  "waterbody": "NEELD DITCH NEAR MARS HILL, IN",
+  "state": "IN",
+  "latitude": 39.75116667,
+  "longitude": -86.24,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NDMI3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Neeld Ditch",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ndmi3",
+  "slug": "usgs-03353603",
+  "noaaForecastPath": "data/noaa-forecast/NDMI3.json",
+  "generatedAt": "2026-10-17T14:20:20.290Z"
+}

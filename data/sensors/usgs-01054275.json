@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01054275",
+  "key": "01054275",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01054275",
+  "name": "Androscoggin River at Bethel, Maine",
+  "waterbody": "Androscoggin River at Bethel, Maine",
+  "state": "ME",
+  "latitude": 44.41605,
+  "longitude": -70.796761,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01054275",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.304Z"
+}

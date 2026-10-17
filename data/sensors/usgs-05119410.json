@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05119410",
+  "key": "05119410",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05119410",
+  "name": "BONNES COULEE NEAR VELVA, ND",
+  "waterbody": "BONNES COULEE NEAR VELVA, ND",
+  "state": "ND",
+  "latitude": 48.055178,
+  "longitude": -100.951442,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05119410",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.355Z"
+}

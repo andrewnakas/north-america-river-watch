@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14181350",
+  "key": "14181350",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14181350",
+  "name": "SARDINE CREEK NEAR NIAGRA, OR",
+  "waterbody": "SARDINE CREEK NEAR NIAGRA, OR",
+  "state": "OR",
+  "latitude": 44.7475,
+  "longitude": -122.2741944,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SARO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sardine Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/saro3",
+  "slug": "usgs-14181350",
+  "noaaForecastPath": "data/noaa-forecast/SARO3.json",
+  "generatedAt": "2026-10-17T14:20:20.365Z"
+}

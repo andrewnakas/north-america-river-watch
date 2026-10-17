@@ -1,0 +1,22 @@
+{
+  "id": "usgs:03197939",
+  "key": "03197939",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03197939",
+  "name": "ELK TWOMILE CREEK NEAR CHARLESTON, WV",
+  "waterbody": "ELK TWOMILE CREEK NEAR CHARLESTON, WV",
+  "state": "WV",
+  "latitude": 38.35905556,
+  "longitude": -81.5943056,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ETMW2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Elk Twomile Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/etmw2",
+  "slug": "usgs-03197939",
+  "noaaForecastPath": "data/noaa-forecast/ETMW2.json",
+  "generatedAt": "2026-10-17T14:20:20.415Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05570400",
+  "key": "05570400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05570400",
+  "name": "SPOON RIVER AT DUNCAN MILLS, IL",
+  "waterbody": "SPOON RIVER AT DUNCAN MILLS, IL",
+  "state": "IL",
+  "latitude": 40.340597,
+  "longitude": -90.189286,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05570400",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-17T14:20:20.287Z"
+}
