@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01329000",
+  "key": "01329000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01329000",
+  "name": "BATTEN KILL AT ARLINGTON, VT",
+  "waterbody": "BATTEN KILL AT ARLINGTON, VT",
+  "state": "VT",
+  "latitude": 43.076189,
+  "longitude": -73.156772,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "ARLV1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Battenkill",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/arlv1",
+  "slug": "usgs-01329000",
+  "noaaForecastPath": "data/noaa-forecast/ARLV1.json",
+  "generatedAt": "2026-10-22T15:57:21.343Z"
+}

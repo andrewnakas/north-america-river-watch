@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08383000",
+  "key": "08383000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08383000",
+  "name": "PECOS RIVER AT SANTA ROSA, NM",
+  "waterbody": "PECOS RIVER AT SANTA ROSA, NM",
+  "state": "NM",
+  "latitude": 34.9433921,
+  "longitude": -104.6991562,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08383000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.245Z"
+}

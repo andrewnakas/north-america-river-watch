@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11154840",
+  "key": "11154840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11154840",
+  "name": "SAN CARLOS C A NEW IDRIA RD A IDRIA CA",
+  "waterbody": "SAN CARLOS C A NEW IDRIA RD A IDRIA CA",
+  "state": "CA",
+  "latitude": 36.411678,
+  "longitude": -120.669378,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11154840",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.075Z"
+}

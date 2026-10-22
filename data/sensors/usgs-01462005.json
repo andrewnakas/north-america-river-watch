@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01462005",
+  "key": "01462005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01462005",
+  "name": "Swan Ck at Lambertville NJ",
+  "waterbody": "Swan Ck at Lambertville NJ",
+  "state": "NJ",
+  "latitude": 40.36416667,
+  "longitude": -74.9444444,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01462005",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.239Z"
+}

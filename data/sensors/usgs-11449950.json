@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11449950",
+  "key": "11449950",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11449950",
+  "name": "SCHINDLER C A CLEARLAKE OAKS CA",
+  "waterbody": "SCHINDLER C A CLEARLAKE OAKS CA",
+  "state": "CA",
+  "latitude": 39.02765,
+  "longitude": -122.66535,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11449950",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.080Z"
+}

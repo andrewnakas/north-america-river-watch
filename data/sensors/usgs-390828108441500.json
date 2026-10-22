@@ -1,0 +1,22 @@
+{
+  "id": "usgs:390828108441500",
+  "key": "390828108441500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "390828108441500",
+  "name": "COLORADO RIVER AT FRUITA, CO.",
+  "waterbody": "COLORADO RIVER AT FRUITA, CO.",
+  "state": "CO",
+  "latitude": 39.142442,
+  "longitude": -108.738106,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRUC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Colorado River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fruc2",
+  "slug": "usgs-390828108441500",
+  "noaaForecastPath": "data/noaa-forecast/FRUC2.json",
+  "generatedAt": "2026-10-22T15:57:21.103Z"
+}

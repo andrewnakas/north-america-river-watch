@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05051524",
+  "key": "05051524",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05051524",
+  "name": "RED RIVER BELOW RED RIVER DIV STRUCTURE, ND",
+  "waterbody": "RED RIVER BELOW RED RIVER DIV STRUCTURE, ND",
+  "state": "ND",
+  "latitude": 46.706792,
+  "longitude": -96.791503,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05051524",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.270Z"
+}

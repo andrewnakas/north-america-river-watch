@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09418700",
+  "key": "09418700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09418700",
+  "name": "MEADOW VALLEY WASH NR ROX, NV",
+  "waterbody": "MEADOW VALLEY WASH NR ROX, NV",
+  "state": "NV",
+  "latitude": 36.8382,
+  "longitude": -114.658056,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09418700",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.227Z"
+}

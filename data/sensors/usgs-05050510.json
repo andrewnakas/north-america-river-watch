@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05050510",
+  "key": "05050510",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05050510",
+  "name": "Bois De Sioux River at 470th St nr Fairmount, ND",
+  "waterbody": "Bois De Sioux River at 470th St nr Fairmount, ND",
+  "state": "ND",
+  "latitude": 46.094542,
+  "longitude": -96.556719,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05050510",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.270Z"
+}

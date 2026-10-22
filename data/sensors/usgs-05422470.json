@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05422470",
+  "key": "05422470",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05422470",
+  "name": "Crow Creek at Bettendorf, IA",
+  "waterbody": "Crow Creek at Bettendorf, IA",
+  "state": "IA",
+  "latitude": 41.55114444,
+  "longitude": -90.4551306,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CRWI4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Crow Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/crwi4",
+  "slug": "usgs-05422470",
+  "noaaForecastPath": "data/noaa-forecast/CRWI4.json",
+  "generatedAt": "2026-10-22T15:57:21.160Z"
+}

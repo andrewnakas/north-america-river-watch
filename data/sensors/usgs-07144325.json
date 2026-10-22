@@ -1,0 +1,19 @@
+{
+  "id": "usgs:07144325",
+  "key": "07144325",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07144325",
+  "name": "GYPSUM C AT OLIVER ST, WICHITA, KS",
+  "waterbody": "GYPSUM C AT OLIVER ST, WICHITA, KS",
+  "state": "KS",
+  "latitude": 37.64698368,
+  "longitude": -97.28059601,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-07144325",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.167Z"
+}

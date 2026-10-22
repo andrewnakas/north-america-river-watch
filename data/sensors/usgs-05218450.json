@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05218450",
+  "key": "05218450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05218450",
+  "name": "Tamarack R. at 480th St nr Wright, MN",
+  "waterbody": "Tamarack R. at 480th St nr Wright, MN",
+  "state": "MN",
+  "latitude": 46.708931,
+  "longitude": -93.0687,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05218450",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.203Z"
+}

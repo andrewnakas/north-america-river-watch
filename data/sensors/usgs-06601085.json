@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06601085",
+  "key": "06601085",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06601085",
+  "name": "North Blackbird Creek at Hwy 75 at Macy, Nebr.",
+  "waterbody": "North Blackbird Creek at Hwy 75 at Macy, Nebr.",
+  "state": "NE",
+  "latitude": 42.110128,
+  "longitude": -96.344425,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NBCN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "North Blackbird Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nbcn1",
+  "slug": "usgs-06601085",
+  "noaaForecastPath": "data/noaa-forecast/NBCN1.json",
+  "generatedAt": "2026-10-22T15:57:21.223Z"
+}

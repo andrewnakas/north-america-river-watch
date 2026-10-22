@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08031005",
+  "key": "08031005",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08031005",
+  "name": "Cow Bayou at IH 10 nr Vidor, TX",
+  "waterbody": "Cow Bayou at IH 10 nr Vidor, TX",
+  "state": "TX",
+  "latitude": 30.13067778,
+  "longitude": -93.9163444,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BCVT2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Cow Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bcvt2",
+  "slug": "usgs-08031005",
+  "noaaForecastPath": "data/noaa-forecast/BCVT2.json",
+  "generatedAt": "2026-10-22T15:57:21.324Z"
+}

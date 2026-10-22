@@ -1,0 +1,22 @@
+{
+  "id": "usgs:02130840",
+  "key": "02130840",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "02130840",
+  "name": "BLACK CREEK BELOW CHESTERFIELD, SC",
+  "waterbody": "BLACK CREEK BELOW CHESTERFIELD, SC",
+  "state": "SC",
+  "latitude": 34.6633333,
+  "longitude": -80.2116667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CSFS1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Black Creek (SC)",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/csfs1",
+  "slug": "usgs-02130840",
+  "noaaForecastPath": "data/noaa-forecast/CSFS1.json",
+  "generatedAt": "2026-10-22T15:57:21.304Z"
+}

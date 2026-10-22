@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06775500",
+  "key": "06775500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06775500",
+  "name": "Middle Loup River at Dunning, Nebr.",
+  "waterbody": "Middle Loup River at Dunning, Nebr.",
+  "state": "NE",
+  "latitude": 41.831103,
+  "longitude": -100.100867,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "DNGN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Middle Loup River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/dngn1",
+  "slug": "usgs-06775500",
+  "noaaForecastPath": "data/noaa-forecast/DNGN1.json",
+  "generatedAt": "2026-10-22T15:57:21.224Z"
+}

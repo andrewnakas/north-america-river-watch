@@ -1,0 +1,19 @@
+{
+  "id": "usgs:12357500",
+  "key": "12357500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "12357500",
+  "name": "Middle Fork Flathead River at West Glacier, MT",
+  "waterbody": "Middle Fork Flathead River at West Glacier, MT",
+  "state": "MT",
+  "latitude": 48.499508,
+  "longitude": -113.975933,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-12357500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-22T15:57:21.222Z"
+}

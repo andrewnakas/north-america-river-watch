@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09310700",
+  "key": "09310700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09310700",
+  "name": "MUD CRK BL WINTER QUARTERS CYN @ SCOFIELD, UT",
+  "waterbody": "MUD CRK BL WINTER QUARTERS CYN @ SCOFIELD, UT",
+  "state": "UT",
+  "latitude": 39.721911,
+  "longitude": -111.161544,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MCAU1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mud Creek (UT)",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mcau1",
+  "slug": "usgs-09310700",
+  "noaaForecastPath": "data/noaa-forecast/MCAU1.json",
+  "generatedAt": "2026-10-22T15:57:21.338Z"
+}
