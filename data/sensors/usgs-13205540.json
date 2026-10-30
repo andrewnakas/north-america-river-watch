@@ -1,0 +1,19 @@
+{
+  "id": "usgs:13205540",
+  "key": "13205540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "13205540",
+  "name": "HULLS GULCH NR HULLS GULCH TRAILHEAD NR BOISE ID",
+  "waterbody": "HULLS GULCH NR HULLS GULCH TRAILHEAD NR BOISE ID",
+  "state": "ID",
+  "latitude": 43.64675,
+  "longitude": -116.145139,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-13205540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:47.958Z"
+}

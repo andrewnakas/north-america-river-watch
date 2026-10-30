@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07348505",
+  "key": "07348505",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07348505",
+  "name": "Red River at Bossier City, LA",
+  "waterbody": "Red River at Bossier City, LA",
+  "state": "LA",
+  "latitude": 32.49233333,
+  "longitude": -93.6984167,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RBCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rbcl1",
+  "slug": "usgs-07348505",
+  "noaaForecastPath": "data/noaa-forecast/RBCL1.json",
+  "generatedAt": "2026-10-30T17:05:47.988Z"
+}

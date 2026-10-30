@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05051530",
+  "key": "05051530",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05051530",
+  "name": "RED RIVER OF THE NORTH NEAR WILD RICE, ND",
+  "waterbody": "RED RIVER OF THE NORTH NEAR WILD RICE, ND",
+  "state": "ND",
+  "latitude": 46.730986,
+  "longitude": -96.784428,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RWRN8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River of the North",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rwrn8",
+  "slug": "usgs-05051530",
+  "noaaForecastPath": "data/noaa-forecast/RWRN8.json",
+  "generatedAt": "2026-10-30T17:05:48.114Z"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09319000",
+  "key": "09319000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09319000",
+  "name": "EPHRAIM TUNNEL NEAR EPHRAIM, UT",
+  "waterbody": "EPHRAIM TUNNEL NEAR EPHRAIM, UT",
+  "state": "UT",
+  "latitude": 39.329686,
+  "longitude": -111.431575,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09319000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.185Z"
+}

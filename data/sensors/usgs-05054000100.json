@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05054000100",
+  "key": "05054000100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05054000100",
+  "name": "RED RIVER DIVERSION BELOW DIV INLET STRUCTURE, ND",
+  "waterbody": "RED RIVER DIVERSION BELOW DIV INLET STRUCTURE, ND",
+  "state": "ND",
+  "latitude": 46.722308,
+  "longitude": -96.906814,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "RRON8",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red River Diversion",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/rron8",
+  "slug": "usgs-05054000100",
+  "noaaForecastPath": "data/noaa-forecast/RRON8.json",
+  "generatedAt": "2026-10-30T17:05:48.114Z"
+}

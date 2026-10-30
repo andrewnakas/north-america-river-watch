@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06772775",
+  "key": "06772775",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06772775",
+  "name": "Warm Slough near Central City, Nebr.",
+  "waterbody": "Warm Slough near Central City, Nebr.",
+  "state": "NE",
+  "latitude": 41.090833,
+  "longitude": -98.077778,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CENN1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Warm Slough",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/cenn1",
+  "slug": "usgs-06772775",
+  "noaaForecastPath": "data/noaa-forecast/CENN1.json",
+  "generatedAt": "2026-10-30T17:05:48.038Z"
+}

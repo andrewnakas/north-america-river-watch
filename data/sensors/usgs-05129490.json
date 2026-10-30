@@ -1,0 +1,19 @@
+{
+  "id": "usgs:05129490",
+  "key": "05129490",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05129490",
+  "name": "Rainy River at Voyageur Wy International Falls, MN",
+  "waterbody": "Rainy River at Voyageur Wy International Falls, MN",
+  "state": "MN",
+  "latitude": 48.604936,
+  "longitude": -93.374606,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-05129490",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.017Z"
+}

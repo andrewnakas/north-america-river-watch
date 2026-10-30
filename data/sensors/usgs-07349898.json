@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07349898",
+  "key": "07349898",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07349898",
+  "name": "Willow Chute Bayou at Swan Lake Rd nr Bossier City",
+  "waterbody": "Willow Chute Bayou at Swan Lake Rd nr Bossier City",
+  "state": "LA",
+  "latitude": 32.56527778,
+  "longitude": -93.6811111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCBL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Willow Chute Bayou",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcbl1",
+  "slug": "usgs-07349898",
+  "noaaForecastPath": "data/noaa-forecast/WCBL1.json",
+  "generatedAt": "2026-10-30T17:05:47.988Z"
+}

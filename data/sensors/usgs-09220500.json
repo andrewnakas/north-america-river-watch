@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09220500",
+  "key": "09220500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09220500",
+  "name": "West Fork Smiths Fork near Robertson, WY",
+  "waterbody": "West Fork Smiths Fork near Robertson, WY",
+  "state": "WY",
+  "latitude": 41.030986,
+  "longitude": -110.475336,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09220500",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.241Z"
+}

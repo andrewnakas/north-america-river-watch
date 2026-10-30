@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03292000",
+  "key": "03292000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03292000",
+  "name": "OHIO RIVER AT MADISON, IN",
+  "waterbody": "OHIO RIVER AT MADISON, IN",
+  "state": "KY",
+  "latitude": 38.726111,
+  "longitude": -85.370278,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03292000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:47.985Z"
+}

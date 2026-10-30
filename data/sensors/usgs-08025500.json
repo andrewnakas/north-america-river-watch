@@ -1,0 +1,22 @@
+{
+  "id": "usgs:08025500",
+  "key": "08025500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08025500",
+  "name": "Bayou Toro near Toro, LA",
+  "waterbody": "Bayou Toro near Toro, LA",
+  "state": "LA",
+  "latitude": 31.30712737,
+  "longitude": -93.5157295,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BTOL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bayou Toro",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/btol1",
+  "slug": "usgs-08025500",
+  "noaaForecastPath": "data/noaa-forecast/BTOL1.json",
+  "generatedAt": "2026-10-30T17:05:47.993Z"
+}

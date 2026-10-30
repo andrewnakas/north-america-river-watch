@@ -1,0 +1,19 @@
+{
+  "id": "usgs:04219630",
+  "key": "04219630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04219630",
+  "name": "NIAGARA RIVER AT YOUNGSTOWN NY",
+  "waterbody": "NIAGARA RIVER AT YOUNGSTOWN NY",
+  "state": "NY",
+  "latitude": 43.251889,
+  "longitude": -79.050944,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-04219630",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.086Z"
+}

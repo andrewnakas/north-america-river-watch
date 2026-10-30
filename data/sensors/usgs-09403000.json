@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09403000",
+  "key": "09403000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09403000",
+  "name": "BRIGHT ANGEL CREEK NEAR GRAND CANYON, ARIZ.",
+  "waterbody": "BRIGHT ANGEL CREEK NEAR GRAND CANYON, ARIZ.",
+  "state": "AZ",
+  "latitude": 36.106783,
+  "longitude": -112.094697,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09403000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:47.867Z"
+}

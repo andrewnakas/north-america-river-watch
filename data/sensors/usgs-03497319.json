@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03497319",
+  "key": "03497319",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03497319",
+  "name": "DUNN SPRING NEAR TOWNSEND, TN",
+  "waterbody": "DUNN SPRING NEAR TOWNSEND, TN",
+  "state": "TN",
+  "latitude": 35.66786519,
+  "longitude": -83.779618,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03497319",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.164Z"
+}

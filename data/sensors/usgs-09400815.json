@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09400815",
+  "key": "09400815",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09400815",
+  "name": "NEWMAN CANYON ABOVE UPPER LAKE MARY, AZ",
+  "waterbody": "NEWMAN CANYON ABOVE UPPER LAKE MARY, AZ",
+  "state": "AZ",
+  "latitude": 35.054944,
+  "longitude": -111.489222,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09400815",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:47.867Z"
+}

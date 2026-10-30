@@ -1,0 +1,252 @@
+{
+  "generated_at": "2026-10-30T20:07:32.562097+00:00",
+  "target_group": null,
+  "forecast_days": 14,
+  "stations_forecasted": 0,
+  "model_metrics": {
+    "rows_total": 26575,
+    "rows_train": 21260,
+    "rows_test": 5315,
+    "target_horizon_days": 1,
+    "full_model_train": {
+      "rows": 21260,
+      "mae": 900.6206181063477,
+      "rmse": 10160.324985896057,
+      "r2": -3.9788102396103318
+    },
+    "runoff_only_train": {
+      "rows": 21260,
+      "mae": 84.4254052279552,
+      "rmse": 302.9244274080483,
+      "r2": 0.9955743306226608
+    },
+    "residual_hybrid_train": {
+      "rows": 21260,
+      "mae": 93.50862813495881,
+      "rmse": 298.98973731534767,
+      "r2": 0.995688554124522
+    },
+    "full_model_test": {
+      "rows": 5315,
+      "mae": 376.5286209288941,
+      "rmse": 866.6641744555045,
+      "r2": 0.7865096545736601
+    },
+    "runoff_only_test": {
+      "rows": 5315,
+      "mae": 22.837100387031104,
+      "rmse": 67.21892193016859,
+      "r2": 0.998715720243777
+    },
+    "residual_hybrid_test": {
+      "rows": 5315,
+      "mae": 35.5683903758219,
+      "rmse": 72.05177659742178,
+      "r2": 0.9985244092003865
+    },
+    "event_gated_residual_test": {
+      "rows": 5315,
+      "mae": 25.696052127727175,
+      "rmse": 66.85654541448497,
+      "r2": 0.9987295299969221
+    },
+    "ensemble_blend_test": {
+      "rows": 5315,
+      "mae": 22.62943450570056,
+      "rmse": 66.7977516610171,
+      "r2": 0.998731763521132
+    },
+    "benchmarks_test": {
+      "persistence_lag1": {
+        "rows": 5315,
+        "mae": 33.92612417685795,
+        "rmse": 99.83280300409184,
+        "r2": 0.9971671532488349
+      },
+      "persistence_lag7_mean": {
+        "rows": 5315,
+        "mae": 51.4498097925906,
+        "rmse": 154.17751214267486,
+        "r2": 0.9932435492078585
+      },
+      "station_median_climatology": {
+        "rows": 5315,
+        "mae": 595.0759096895579,
+        "rmse": 1469.9069806127536,
+        "r2": 0.38587573706899947
+      }
+    },
+    "slice_metrics": {
+      "rising_flow_days": {
+        "full_model": {
+          "rows": 1128,
+          "mae": 445.86779010807714,
+          "rmse": 1113.336004083708,
+          "r2": 0.3616365294297992
+        },
+        "runoff_only": {
+          "rows": 1128,
+          "mae": 34.82212302665509,
+          "rmse": 109.2174582332501,
+          "r2": 0.9938567293420357
+        },
+        "residual_hybrid": {
+          "rows": 1128,
+          "mae": 48.51552064936968,
+          "rmse": 112.87726744589582,
+          "r2": 0.9934381168247438
+        },
+        "event_gated_residual": {
+          "rows": 1128,
+          "mae": 39.28109572209036,
+          "rmse": 108.77276387384127,
+          "r2": 0.9939066538914657
+        },
+        "ensemble_blend": {
+          "rows": 1128,
+          "mae": 34.321036513368746,
+          "rmse": 108.61872155171798,
+          "r2": 0.9939239002776323
+        }
+      },
+      "event_gate_days": {
+        "full_model": {
+          "rows": 5315,
+          "mae": 376.5286209288941,
+          "rmse": 866.6641744555045,
+          "r2": 0.7865096545736601
+        },
+        "runoff_only": {
+          "rows": 5315,
+          "mae": 22.837100387031104,
+          "rmse": 67.21892193016859,
+          "r2": 0.998715720243777
+        },
+        "residual_hybrid": {
+          "rows": 5315,
+          "mae": 35.5683903758219,
+          "rmse": 72.05177659742178,
+          "r2": 0.9985244092003865
+        },
+        "event_gated_residual": {
+          "rows": 5315,
+          "mae": 25.696052127727175,
+          "rmse": 66.85654541448497,
+          "r2": 0.9987295299969221
+        },
+        "ensemble_blend": {
+          "rows": 5315,
+          "mae": 22.62943450570056,
+          "rmse": 66.7977516610171,
+          "r2": 0.998731763521132
+        }
+      },
+      "high_flow_days": {
+        "full_model": {
+          "rows": 281,
+          "mae": 2096.9624818411485,
+          "rmse": 2659.018480413021,
+          "r2": -2.3659832138258454
+        },
+        "runoff_only": {
+          "rows": 281,
+          "mae": 113.84100182160054,
+          "rmse": 224.19410748379642,
+          "r2": 0.9760713817047804
+        },
+        "residual_hybrid": {
+          "rows": 281,
+          "mae": 117.01784298802893,
+          "rmse": 224.36469235012143,
+          "r2": 0.9760349542259101
+        },
+        "event_gated_residual": {
+          "rows": 281,
+          "mae": 106.64262534416018,
+          "rmse": 221.45410907746017,
+          "r2": 0.9766526969564205
+        },
+        "ensemble_blend": {
+          "rows": 281,
+          "mae": 112.13586951018694,
+          "rmse": 223.43658519174102,
+          "r2": 0.9762328118022894
+        }
+      }
+    },
+    "high_flow_threshold_cfs": 5290.0,
+    "benchmark_wins": {
+      "persistence_lag1": {
+        "mae_improvement_vs_full": -342.60249675203613,
+        "rmse_improvement_vs_full": -766.8313714514127
+      },
+      "persistence_lag7_mean": {
+        "mae_improvement_vs_full": -325.0788111363035,
+        "rmse_improvement_vs_full": -712.4866623128296
+      },
+      "station_median_climatology": {
+        "mae_improvement_vs_full": 218.54728876066378,
+        "rmse_improvement_vs_full": 603.2428061572491
+      }
+    }
+  },
+  "rolling_validation": [
+    {
+      "label": "ensemble_blend",
+      "folds": 3,
+      "mae_mean": 31.156733681523765,
+      "rmse_mean": 83.26405133548185,
+      "r2_mean": 0.9977295446724185
+    },
+    {
+      "label": "event_gated_residual",
+      "folds": 3,
+      "mae_mean": 39.070179114850056,
+      "rmse_mean": 94.36167281953594,
+      "r2_mean": 0.9971358119359569
+    },
+    {
+      "label": "full_model",
+      "folds": 3,
+      "mae_mean": 2.8973405421867267e+29,
+      "rmse_mean": 2.105511545683226e+31,
+      "r2_mean": -3.3133096611140907e+56
+    },
+    {
+      "label": "persistence_lag1",
+      "folds": 3,
+      "mae_mean": 48.1119921400302,
+      "rmse_mean": 140.48962797683453,
+      "r2_mean": 0.9936850907603998
+    },
+    {
+      "label": "persistence_lag7_mean",
+      "folds": 3,
+      "mae_mean": 82.11316038413739,
+      "rmse_mean": 227.71950737371185,
+      "r2_mean": 0.9835265256226912
+    },
+    {
+      "label": "residual_hybrid",
+      "folds": 3,
+      "mae_mean": 58.62885976472703,
+      "rmse_mean": 124.10001683661278,
+      "r2_mean": 0.9948393076304359
+    },
+    {
+      "label": "runoff_only",
+      "folds": 3,
+      "mae_mean": 31.505350445122605,
+      "rmse_mean": 89.67808982569524,
+      "r2_mean": 0.997182430950548
+    },
+    {
+      "label": "station_median_climatology",
+      "folds": 3,
+      "mae_mean": 1006.8246445475473,
+      "rmse_mean": 2695.2106854370472,
+      "r2_mean": -1.3860747699250895
+    }
+  ],
+  "stations": []
+}

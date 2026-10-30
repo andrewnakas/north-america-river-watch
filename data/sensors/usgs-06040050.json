@@ -1,0 +1,19 @@
+{
+  "id": "usgs:06040050",
+  "key": "06040050",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06040050",
+  "name": "Madison River at Ennis, MT",
+  "waterbody": "Madison River at Ennis, MT",
+  "state": "MT",
+  "latitude": 45.347564,
+  "longitude": -111.722464,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-06040050",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.030Z"
+}

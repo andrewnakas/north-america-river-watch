@@ -1,0 +1,19 @@
+{
+  "id": "usgs:01109380",
+  "key": "01109380",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01109380",
+  "name": "TEN MILE RIVER AT ATTLEBORO, MA",
+  "waterbody": "TEN MILE RIVER AT ATTLEBORO, MA",
+  "state": "MA",
+  "latitude": 41.943989,
+  "longitude": -71.285331,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-01109380",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.002Z"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "usgs:14302900",
+  "key": "14302900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "14302900",
+  "name": "NESTUCCA RIVER NEAR FAIRDALE, OR",
+  "waterbody": "NESTUCCA RIVER NEAR FAIRDALE, OR",
+  "state": "OR",
+  "latitude": 45.31063889,
+  "longitude": -123.4135278,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "NSFO3",
+  "noaaForecast": true,
+  "noaaWaterbody": "Nestucca River Near Ferndale",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/nsfo3",
+  "slug": "usgs-14302900",
+  "noaaForecastPath": "data/noaa-forecast/NSFO3.json",
+  "generatedAt": "2026-10-30T17:05:48.134Z"
+}

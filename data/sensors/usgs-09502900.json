@@ -1,0 +1,19 @@
+{
+  "id": "usgs:09502900",
+  "key": "09502900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09502900",
+  "name": "DEL RIO SPRINGS NEAR CHINO VALLEY, AZ",
+  "waterbody": "DEL RIO SPRINGS NEAR CHINO VALLEY, AZ",
+  "state": "AZ",
+  "latitude": 34.823614,
+  "longitude": -112.445253,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-09502900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:47.871Z"
+}

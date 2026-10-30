@@ -1,0 +1,22 @@
+{
+  "id": "usgs:01576381",
+  "key": "01576381",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "01576381",
+  "name": "Hammer Creek at Obie Rd nr Schafferstown, PA",
+  "waterbody": "Hammer Creek at Obie Rd nr Schafferstown, PA",
+  "state": "PA",
+  "latitude": 40.2710833,
+  "longitude": -76.3217222,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HCSP1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Hammer Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hcsp1",
+  "slug": "usgs-01576381",
+  "noaaForecastPath": "data/noaa-forecast/HCSP1.json",
+  "generatedAt": "2026-10-30T17:05:48.146Z"
+}

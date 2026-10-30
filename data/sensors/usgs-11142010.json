@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11142010",
+  "key": "11142010",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11142010",
+  "name": "SAN LUIS OBISPO C A AVILA BEACH CA",
+  "waterbody": "SAN LUIS OBISPO C A AVILA BEACH CA",
+  "state": "CA",
+  "latitude": 35.187983,
+  "longitude": -120.719111,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11142010",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:47.885Z"
+}

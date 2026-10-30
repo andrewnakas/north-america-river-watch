@@ -1,0 +1,19 @@
+{
+  "id": "usgs:401732074422303",
+  "key": "401732074422303",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "401732074422303",
+  "name": "NJWSC RDG 3",
+  "waterbody": "NJWSC RDG 3",
+  "state": "NJ",
+  "latitude": 40.292222,
+  "longitude": -74.706389,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-401732074422303",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.055Z"
+}

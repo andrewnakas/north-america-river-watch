@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08017900",
+  "key": "08017900",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08017900",
+  "name": "Sabine Rv at FM 17 nr Golden, TX",
+  "waterbody": "Sabine Rv at FM 17 nr Golden, TX",
+  "state": "TX",
+  "latitude": 32.720217,
+  "longitude": -95.635086,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08017900",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-10-30T17:05:48.168Z"
+}
