@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07349298",
+  "key": "07349298",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07349298",
+  "name": "Flat River at Shed Rd. near Bossier City, LA",
+  "waterbody": "Flat River at Shed Rd. near Bossier City, LA",
+  "state": "LA",
+  "latitude": 32.56138889,
+  "longitude": -93.6461111,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FLTL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/fltl1",
+  "slug": "usgs-07349298",
+  "noaaForecastPath": "data/noaa-forecast/FLTL1.json",
+  "generatedAt": "2026-11-06T18:09:42.150Z"
+}

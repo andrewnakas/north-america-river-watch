@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05579630",
+  "key": "05579630",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05579630",
+  "name": "KICKAPOO CREEK NEAR BLOOMINGTON, IL",
+  "waterbody": "KICKAPOO CREEK NEAR BLOOMINGTON, IL",
+  "state": "IL",
+  "latitude": 40.4583333,
+  "longitude": -88.8775,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BKCI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Kickapoo Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bkci2",
+  "slug": "usgs-05579630",
+  "noaaForecastPath": "data/noaa-forecast/BKCI2.json",
+  "generatedAt": "2026-11-06T18:09:42.131Z"
+}

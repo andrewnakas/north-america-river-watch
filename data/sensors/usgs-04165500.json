@@ -1,0 +1,22 @@
+{
+  "id": "usgs:04165500",
+  "key": "04165500",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "04165500",
+  "name": "CLINTON RIVER AT MORAVIAN DRIVE AT MT. CLEMENS, MI",
+  "waterbody": "CLINTON RIVER AT MORAVIAN DRIVE AT MT. CLEMENS, MI",
+  "state": "MI",
+  "latitude": 42.5958395,
+  "longitude": -82.908745,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MTCM4",
+  "noaaForecast": true,
+  "noaaWaterbody": "Clinton River",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mtcm4",
+  "slug": "usgs-04165500",
+  "noaaForecastPath": "data/noaa-forecast/MTCM4.json",
+  "generatedAt": "2026-11-06T18:09:42.168Z"
+}

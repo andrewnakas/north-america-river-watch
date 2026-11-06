@@ -1,0 +1,19 @@
+{
+  "id": "usgs:16620000",
+  "key": "16620000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "16620000",
+  "name": "Honokohau Stream near Honokohau, Maui, HI",
+  "waterbody": "Honokohau Stream near Honokohau, Maui, HI",
+  "state": "HI",
+  "latitude": 20.95969444,
+  "longitude": -156.5870556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-16620000",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-11-06T18:09:42.119Z"
+}

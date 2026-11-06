@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09371000",
+  "key": "09371000",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09371000",
+  "name": "MANCOS RIVER NEAR TOWAOC, CO.",
+  "waterbody": "MANCOS RIVER NEAR TOWAOC, CO.",
+  "state": "CO",
+  "latitude": 37.0275026,
+  "longitude": -108.7414926,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "MRTC2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Mancos River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/mrtc2",
+  "slug": "usgs-09371000",
+  "noaaForecastPath": "data/noaa-forecast/MRTC2.json",
+  "generatedAt": "2026-11-06T18:09:42.087Z"
+}

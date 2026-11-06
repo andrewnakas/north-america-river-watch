@@ -1,0 +1,19 @@
+{
+  "id": "usgs:03464502",
+  "key": "03464502",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "03464502",
+  "name": "NOLICHUCKY RIVER NEAR NC HWY 197 NR POPLAR, NC",
+  "waterbody": "NOLICHUCKY RIVER NEAR NC HWY 197 NR POPLAR, NC",
+  "state": "NC",
+  "latitude": 36.079481,
+  "longitude": -82.348061,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-03464502",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-11-06T18:09:42.260Z"
+}
