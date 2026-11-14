@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07349374",
+  "key": "07349374",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07349374",
+  "name": "Flat River near Curtis, LA",
+  "waterbody": "Flat River near Curtis, LA",
+  "state": "LA",
+  "latitude": 32.43904276,
+  "longitude": -93.627121,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "FRCL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Flat River",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/frcl1",
+  "slug": "usgs-07349374",
+  "noaaForecastPath": "data/noaa-forecast/FRCL1.json",
+  "generatedAt": "2026-11-14T17:13:22.278Z"
+}

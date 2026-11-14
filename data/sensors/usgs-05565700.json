@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05565700",
+  "key": "05565700",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05565700",
+  "name": "SIXMILE CREEK AT HUDSON, IL",
+  "waterbody": "SIXMILE CREEK AT HUDSON, IL",
+  "state": "IL",
+  "latitude": 40.6053333,
+  "longitude": -89.003,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HUDI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sixmile Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/hudi2",
+  "slug": "usgs-05565700",
+  "noaaForecastPath": "data/noaa-forecast/HUDI2.json",
+  "generatedAt": "2026-11-14T17:13:22.266Z"
+}

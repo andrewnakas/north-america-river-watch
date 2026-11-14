@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11424550",
+  "key": "11424550",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11424550",
+  "name": "HUTCHINSON C BL DOOLITTLE DR NR MARYSVILLE CA",
+  "waterbody": "HUTCHINSON C BL DOOLITTLE DR NR MARYSVILLE CA",
+  "state": "CA",
+  "latitude": 39.12398889,
+  "longitude": -121.4024306,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11424550",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-11-14T17:13:22.233Z"
+}

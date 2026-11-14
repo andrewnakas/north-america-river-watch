@@ -1,0 +1,22 @@
+{
+  "id": "usgs:09505800",
+  "key": "09505800",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "09505800",
+  "name": "WEST CLEAR CREEK NEAR CAMP VERDE, AZ",
+  "waterbody": "WEST CLEAR CREEK NEAR CAMP VERDE, AZ",
+  "state": "AZ",
+  "latitude": 34.538742,
+  "longitude": -111.694131,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "WCLA3",
+  "noaaForecast": true,
+  "noaaWaterbody": "West Clear Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/wcla3",
+  "slug": "usgs-09505800",
+  "noaaForecastPath": "data/noaa-forecast/WCLA3.json",
+  "generatedAt": "2026-11-14T17:13:22.224Z"
+}

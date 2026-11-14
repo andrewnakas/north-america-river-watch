@@ -1,0 +1,22 @@
+{
+  "id": "usgs:0208734290",
+  "key": "0208734290",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "0208734290",
+  "name": "BUSHY BRANCH CREEK AT GORMAN STREET AT RALEIGH, NC",
+  "waterbody": "BUSHY BRANCH CREEK AT GORMAN STREET AT RALEIGH, NC",
+  "state": "NC",
+  "latitude": 35.772831,
+  "longitude": -78.693161,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "BBGN7",
+  "noaaForecast": true,
+  "noaaWaterbody": "Bushy Branch Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/bbgn7",
+  "slug": "usgs-0208734290",
+  "noaaForecastPath": "data/noaa-forecast/BBGN7.json",
+  "generatedAt": "2026-11-14T17:13:22.324Z"
+}

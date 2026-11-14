@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05326450",
+  "key": "05326450",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05326450",
+  "name": "MINNESOTA RIVER AT HENDERSON, MN",
+  "waterbody": "MINNESOTA RIVER AT HENDERSON, MN",
+  "state": "MN",
+  "latitude": 44.529408,
+  "longitude": -93.9008,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "HENM5",
+  "noaaForecast": true,
+  "noaaWaterbody": "Minnesota River",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/henm5",
+  "slug": "usgs-05326450",
+  "noaaForecastPath": "data/noaa-forecast/HENM5.json",
+  "generatedAt": "2026-11-14T17:13:22.293Z"
+}

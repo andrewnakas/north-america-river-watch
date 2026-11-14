@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05576090",
+  "key": "05576090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576090",
+  "name": "LICK CREEK NEAR CHATHAM, IL",
+  "waterbody": "LICK CREEK NEAR CHATHAM, IL",
+  "state": "IL",
+  "latitude": 39.69916667,
+  "longitude": -89.7616667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTMI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Lick Creek",
+  "noaaStatus": "obs_not_current",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctmi2",
+  "slug": "usgs-05576090",
+  "noaaForecastPath": "data/noaa-forecast/CTMI2.json",
+  "generatedAt": "2026-11-14T17:13:22.266Z"
+}

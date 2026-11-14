@@ -1,0 +1,19 @@
+{
+  "id": "usgs:10010015",
+  "key": "10010015",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "10010015",
+  "name": "LAKESIDE DRAIN AT QUARRY NEAR LAKESIDE, UT",
+  "waterbody": "LAKESIDE DRAIN AT QUARRY NEAR LAKESIDE, UT",
+  "state": "UT",
+  "latitude": 41.224222,
+  "longitude": -112.8825,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-10010015",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-11-14T17:13:22.361Z"
+}

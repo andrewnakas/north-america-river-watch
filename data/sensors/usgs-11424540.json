@@ -1,0 +1,19 @@
+{
+  "id": "usgs:11424540",
+  "key": "11424540",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "11424540",
+  "name": "A STREET DITCH AB DOOLITTLE DR NR MARYSVILLE CA",
+  "waterbody": "A STREET DITCH AB DOOLITTLE DR NR MARYSVILLE CA",
+  "state": "CA",
+  "latitude": 39.11825,
+  "longitude": -121.3857556,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-11424540",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-11-14T17:13:22.233Z"
+}

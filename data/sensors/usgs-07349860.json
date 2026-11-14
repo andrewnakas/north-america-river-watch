@@ -1,0 +1,22 @@
+{
+  "id": "usgs:07349860",
+  "key": "07349860",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "07349860",
+  "name": "Red Chute Bayou at Sligo, LA",
+  "waterbody": "Red Chute Bayou at Sligo, LA",
+  "state": "LA",
+  "latitude": 32.44737586,
+  "longitude": -93.5946203,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "SLGL1",
+  "noaaForecast": true,
+  "noaaWaterbody": "Red Chute Bayou",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/slgl1",
+  "slug": "usgs-07349860",
+  "noaaForecastPath": "data/noaa-forecast/SLGL1.json",
+  "generatedAt": "2026-11-14T17:13:22.278Z"
+}

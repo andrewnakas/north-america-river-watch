@@ -1,0 +1,22 @@
+{
+  "id": "usgs:06446100",
+  "key": "06446100",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "06446100",
+  "name": "WOUNDED KNEE CREEK AT WOUNDED KNEE, SD",
+  "waterbody": "WOUNDED KNEE CREEK AT WOUNDED KNEE, SD",
+  "state": "SD",
+  "latitude": 43.14351647,
+  "longitude": -102.3583815,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "KNES2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Wounded Knee Creek",
+  "noaaStatus": "no_flooding",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/knes2",
+  "slug": "usgs-06446100",
+  "noaaForecastPath": "data/noaa-forecast/KNES2.json",
+  "generatedAt": "2026-11-14T17:13:22.352Z"
+}

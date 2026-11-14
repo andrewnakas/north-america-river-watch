@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05564400",
+  "key": "05564400",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05564400",
+  "name": "MONEY CREEK NEAR TOWANDA, IL",
+  "waterbody": "MONEY CREEK NEAR TOWANDA, IL",
+  "state": "IL",
+  "latitude": 40.60531299,
+  "longitude": -88.8989601,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "TOWI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Money Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/towi2",
+  "slug": "usgs-05564400",
+  "noaaForecastPath": "data/noaa-forecast/TOWI2.json",
+  "generatedAt": "2026-11-14T17:13:22.266Z"
+}

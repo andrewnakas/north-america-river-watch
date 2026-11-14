@@ -1,0 +1,22 @@
+{
+  "id": "usgs:05576193",
+  "key": "05576193",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "05576193",
+  "name": "SUGAR CREEK AT COVERED BRIDGE RD NR CHATHAM, IL",
+  "waterbody": "SUGAR CREEK AT COVERED BRIDGE RD NR CHATHAM, IL",
+  "state": "IL",
+  "latitude": 39.64,
+  "longitude": -89.6616667,
+  "forecast": true,
+  "realtime": true,
+  "noaaLid": "CTSI2",
+  "noaaForecast": true,
+  "noaaWaterbody": "Sugar Creek",
+  "noaaStatus": "not_defined",
+  "noaaHydrographUrl": "https://water.noaa.gov/gauges/ctsi2",
+  "slug": "usgs-05576193",
+  "noaaForecastPath": "data/noaa-forecast/CTSI2.json",
+  "generatedAt": "2026-11-14T17:13:22.266Z"
+}

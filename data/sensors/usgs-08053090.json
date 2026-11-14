@@ -1,0 +1,19 @@
+{
+  "id": "usgs:08053090",
+  "key": "08053090",
+  "network": "USGS",
+  "country": "US",
+  "stationId": "08053090",
+  "name": "Hutton Br at N Denton Dr at Carrollton, TX",
+  "waterbody": "Hutton Br at N Denton Dr at Carrollton, TX",
+  "state": "TX",
+  "latitude": 32.957161,
+  "longitude": -96.907117,
+  "forecast": false,
+  "realtime": true,
+  "noaaLid": null,
+  "noaaForecast": false,
+  "slug": "usgs-08053090",
+  "noaaForecastPath": null,
+  "generatedAt": "2026-11-14T17:13:22.355Z"
+}
